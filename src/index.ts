@@ -1,15 +1,13 @@
 import express from 'express'
 import Parser from 'rss-parser'
-import { NewsItem } from './interfaces'
 import { OpenAI } from 'openai'
-
-const openai = new OpenAI()
-
 
 const PORT = 8080
 const app = express()
 app.use(express.json())
+
 const parser = new Parser()
+const openai = new OpenAI()
 
 const RSS_FEEDS = [
     { publisher: 'yle', url: 'https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss' },
@@ -29,47 +27,30 @@ const RSS_FEEDS = [
 ]
 
 ////////////////////////////////////////////////////////
-const news: NewsItem[] = []
 
-// Parser function type
-type PublisherParser = (items: Parser.Item[]) => NewsItem[]
+interface NewsItem {
+    title: string,
+    content: string,
+    date: Date,
+    publisher: string,
+    categories: string[],
+    link: string
+}
 
-// Placeholder: map of publisher -> custom parser function
-const publisherParsers: Record<string, PublisherParser> = {
-    yle: (items) => {
-        // TODO: implement proper YLE parser
-        console.log('Parsing YLE items')
-        return []
-    },
-    hs: (items) => {
-        // TODO: implement proper HS parser
-        console.log('Parsing HS items')
-        return []
-    },
-    is: (items) => {
-        console.log('Parsing IS items')
-        return []
-    },
-    iltalehti: (items) => {
-        console.log('Parsing Iltalehti items')
-        return []
-    },
-    ts: (items) => {
-        console.log('Parsing TS items')
-        return []
-    },
-    kauppalehti: (items) => {
-        console.log('Parsing Kauppalehti items')
-        return []
-    },
-    kaleva: (items) => {
-        console.log('Parsing Kaleva items')
-        return []
-    }
+const parserFn = (publisher: string, items: Parser.Item[]): NewsItem[] => {
+    return items.map(item => ({
+        publisher,
+        title: item.title || '',
+        content: item.content || item.contentSnippet || '',
+        date: new Date(item.isoDate || item.pubDate || ''),
+        categories: item.categories || [],
+        link: item.link || item.guid || ''
+    }))
 }
 
 app.get('/rss', async (req, res) => {
     try {
+        // Create promises for each RSS link
         const fetchPromises = RSS_FEEDS.map(async (feed) => {
             const feedResult = await parser.parseURL(feed.url)
             console.log(`✅ Fetched from: ${feed.url} - Items: ${feedResult.items.length}`)
@@ -77,10 +58,14 @@ app.get('/rss', async (req, res) => {
             return {
                 publisher: feed.publisher,
                 url: feed.url,
-                result: feedResult }
+                result: feedResult
+            }
         })
 
+        // Resolve all promises
         const results = await Promise.allSettled(fetchPromises)
+
+        // Separate resolved promises to failed and successful
         const failedFeeds = results
             .filter(result => result.status === 'rejected')
             .map(result => ({
@@ -97,11 +82,9 @@ app.get('/rss', async (req, res) => {
             console.warn(`⚠️ ${failedFeeds.length} feeds failed:`, failedFeeds.map(f => f.url))
         }
 
-        const feeds = successfulFeeds.map((feed) => {
-            console.log('NEWS:' + JSON.stringify(feed.publisher))
-            const parserFn = publisherParsers[feed.publisher]
-            const parsedItems = parserFn(feed.result)
-            return feed.result
+        // Parse feeds to be in same form
+        const feeds = successfulFeeds.flatMap((feed) => {
+            return parserFn(feed.publisher, feed.result.items)
         })
 
         res.json({
