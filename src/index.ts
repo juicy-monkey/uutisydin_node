@@ -11,49 +11,76 @@ const app = express()
 app.use(express.json())
 const parser = new Parser()
 
-const YLE_RSS = 'https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss'
-
-// const HS_RSS = 'https://www.hs.fi/rss/teasers/etusivu.xml'  // Exclude tilaajille
-const HS_FIN = 'https://www.hs.fi/rss/suomi.xml'  // Exclude tilaajille
-const HS_WORLD = 'https://www.hs.fi/rss/maailma.xml'  // Exclude tilaajille
-const HS_ECONOMICS = 'https://www.hs.fi/rss/talous.xml'  // Exclude tilaajille
-const HS_POLITICS = 'https://www.hs.fi/rss/politiikka.xml'  // Exclude tilaajille
-
-const IS_FIN = 'https://www.is.fi/rss/kotimaa.xml'
-const IS_POLITICS = 'https://www.is.fi/rss/politiikka.xml'
-const IS_ECONOMICS = 'https://www.is.fi/rss/taloussanomat.xml'
-const IS_ABROAD = 'https://www.is.fi/rss/ulkomaat.xml'
-
-const IL = 'https://www.iltalehti.fi/rss/uutiset.xml'
-
-const TS = 'https://www.ts.fi/rss.xml'
-const KL = 'https://feeds.kauppalehti.fi/rss/main'
-const KALEVA_FIN = 'https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/'
-const KALEVA_ABROAD = 'https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/'
-const TRE = 'https://tampereenseutu.fi/category/uutiset/feed/'
+const RSS_FEEDS = [
+    'https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss',
+    'https://www.hs.fi/rss/suomi.xml',
+    'https://www.hs.fi/rss/maailma.xml',
+    'https://www.hs.fi/rss/talous.xml',
+    'https://www.hs.fi/rss/politiikka.xml',
+    'https://www.is.fi/rss/kotimaa.xml',
+    'https://www.is.fi/rss/politiikka.xml',
+    'https://www.is.fi/rss/taloussanomat.xml',
+    'https://www.is.fi/rss/ulkomaat.xml',
+    'https://www.iltalehti.fi/rss/uutiset.xml',
+    'https://www.ts.fi/rss.xml',
+    'https://feeds.kauppalehti.fi/rss/main',
+    'https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/',
+    'https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/',
+]
 
 ////////////////////////////////////////////////////////
 const news: NewsItem[] = []
 
 app.get('/rss', async (req, res) => {
-
-    // const completion: OpenAI.ChatCompletion =  await openai.chat.completions.create({
-    //     model: 'gpt-4o-mini',
-    //     messages: [
-    //     {
-    //         role: 'system',
-    //         content: `Kerro vitsi, käytä enintään 20 sanaa.`
-    //     }],
-    // })
-    // console.log(completion.choices[0].message.content!)
-
     try {
-        const feed = await parser.parseURL(YLE_RSS)
-        console.log(JSON.stringify(feed))
-        res.json(feed)
+        const fetchPromises = RSS_FEEDS.map(async (url) => {
+            const feed = await parser.parseURL(url)
+            console.log(`✅ Fetched from: ${url} - Items: ${feed.items.length}`)
+
+            // feed.items.forEach(item => {
+            //     news.push({
+            //         title: item.title || '',
+            //         link: item.link || '',
+            //         pubDate: item.pubDate || '',
+            //         content: item.content || '',
+            //         contentSnippet: item.contentSnippet || '',
+            //         isoDate: item.isoDate || '',
+            //         creator: item.creator || '',
+            //         categories: item.categories || []
+            //     } as NewsItem)
+            // })
+
+            return { url, feed }
+        })
+
+        const results = await Promise.allSettled(fetchPromises)
+
+        const successfulFeeds = results
+            .filter(result => result.status === 'fulfilled')
+            .map(result => (result as PromiseFulfilledResult<any>).value)
+
+        const failedFeeds = results
+            .filter(result => result.status === 'rejected')
+            .map(result => ({
+                url: RSS_FEEDS[results.indexOf(result)],
+                reason: (result as PromiseRejectedResult).reason
+            }))
+
+        console.log(`✅ Successfully fetched ${successfulFeeds.length} feeds.`)
+        if (failedFeeds.length) {
+            console.warn(`⚠️ ${failedFeeds.length} feeds failed:`, failedFeeds.map(f => f.url))
+        }
+
+        res.json({
+            message: 'RSS fetch process completed',
+            successCount: successfulFeeds.length,
+            failureCount: failedFeeds.length,
+            failedFeeds,
+            feeds: successfulFeeds
+        })
     } catch (error) {
-        console.error('Error fetching RSS feed:', error)
-        res.status(500).json({ error: 'Failed to fetch RSS feed' })
+        console.error('❌ Unexpected error during RSS fetching:', error)
+        res.status(500).json({ error: 'Unexpected error during RSS fetching' })
     }
 })
 
