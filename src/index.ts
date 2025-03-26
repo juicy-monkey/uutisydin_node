@@ -1,11 +1,12 @@
 import express from 'express'
+import cors from 'cors';
 import Parser from 'rss-parser'
 import { OpenAI } from 'openai'
-
 
 const PORT = 8080
 const app = express()
 app.use(express.json())
+app.use(cors());
 
 const parser = new Parser()
 const openai = new OpenAI()
@@ -59,7 +60,7 @@ const parserFn = (publisher: string, items: Parser.Item[], hours = 48): NewsItem
 }
 
 
-const getEmbeddings = async (items: NewsItem[]): Promise<number[][]> => {
+const generateEmbeddings = async (items: NewsItem[]): Promise<number[][]> => {
     const texts = items.map((item) => {
         return `${item.title} ${item.content} ${item.categories.join(' ')}`
     })
@@ -71,7 +72,7 @@ const getEmbeddings = async (items: NewsItem[]): Promise<number[][]> => {
 }
 
 const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
-    const embeddings = await getEmbeddings(items)
+    const embeddings = await generateEmbeddings(items)
     const clusters: NewsCluster[] = []
     const visited = new Set<number>()
 
@@ -168,12 +169,11 @@ app.get('/rss', async (req, res) => {
         const feeds: NewsItem[] = successfulFeeds.flatMap((feed) => {
             return parserFn(feed.publisher, feed.result.items)
         })
-        
+
         console.log(`✨ Creating clusters and filtering them`)
         const clusters = await clusterFeeds(feeds)
         const filteredClusters = clusters.filter((cluster) => cluster.relatedNews.length > 2)
-        
-        
+
         console.log(`✍️ Generate titles for the clusters`)
         const clustersWithTitle = await Promise.all(
             filteredClusters.map(async (cluster) => {
@@ -181,14 +181,14 @@ app.get('/rss', async (req, res) => {
                 return cluster
             })
         )
-        
+
         console.log(`✅ Done`)
         res.json({
             message: 'RSS fetch process completed',
             successCount: successfulFeeds.length,
             failureCount: failedFeeds.length,
             failedFeeds,
-            clusters: clustersWithTitle
+            feeds: clustersWithTitle
         })
 
     } catch (error) {
