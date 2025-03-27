@@ -131,7 +131,7 @@ const generateClusterTitle = async (items: NewsItem[]) => {
 
 
 /////////////////// ROUTES ///////////////////
-app.get('/rss', async (req, res) => {
+app.get('/feeds', async (req, res) => {
     try {
         // Create promises for each RSS link
         const fetchPromises = RSS_FEEDS.map(async (feed) => {
@@ -170,13 +170,23 @@ app.get('/rss', async (req, res) => {
             return parserFn(feed.publisher, feed.result.items)
         })
 
-        console.log(`✨ Creating clusters and filtering them`)
+        console.log(`✨ Creating clusters, filtering and sorting them`)
         const clusters = await clusterFeeds(feeds)
         const filteredClusters = clusters.filter((cluster) => cluster.relatedNews.length > 2)
 
+        const sortedClusters = filteredClusters.map(cluster => ({
+            ...cluster,
+            relatedNews: cluster.relatedNews.sort((a, b) => b.date.getTime() - a.date.getTime())
+        }))
+        sortedClusters.sort((a, b) => {
+            const aLatest = a.relatedNews[0]?.date.getTime() || 0
+            const bLatest = b.relatedNews[0]?.date.getTime() || 0
+            return bLatest - aLatest
+        })
+
         console.log(`✍️ Generate titles for the clusters`)
         const clustersWithTitle = await Promise.all(
-            filteredClusters.map(async (cluster) => {
+            sortedClusters.map(async (cluster) => {
                 cluster.mainTitle = await generateClusterTitle(cluster.relatedNews)
                 return cluster
             })
@@ -184,7 +194,6 @@ app.get('/rss', async (req, res) => {
 
         console.log(`✅ Done`)
         res.json({
-            message: 'RSS fetch process completed',
             successCount: successfulFeeds.length,
             failureCount: failedFeeds.length,
             failedFeeds,
