@@ -129,9 +129,12 @@ const generateClusterTitle = async (items: NewsItem[]) => {
         {
             role: 'system',
             content: `
+            Olet uutistoimittaja.
             Sinulle annetaan vähintään kahden uutisartikkelin otsikko ja mahdollisesti niiden ingressi.
-            Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö yhdeksi ytimekkääksi, iskeväksi otsikoksi, jossa on korkeintaan viisi sanaa.
-            Otsikon tulee olla informatiivinen ja houkutteleva, mutta silti ytimekäs ja uskollinen alkuperäiselle sisällölle.
+            Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö yhdeksi ytimekkääksi, neutraaliksi otsikoksi, jossa on korkeintaan kuusi sanaa.
+            Otsikon tulee olla informatiivinen, ytimekäs ja uskollinen alkuperäiselle sisällölle.
+            Otsikon tulee olla hyvää suomenkieltä ja sanajärjestys on oltava kieliopillisesti oikein.
+            On tärkeää, että otsikko ei harhaanjohda tai ole monitulkintainen.
             Vastaa vain otsikko, älä mitään muuta.
 
             Otsikot ja ingressit:
