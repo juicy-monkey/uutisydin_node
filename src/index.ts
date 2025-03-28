@@ -2,6 +2,7 @@ import express from 'express'
 import cors from 'cors';
 import Parser from 'rss-parser'
 import { OpenAI } from 'openai'
+import { countBy, orderBy } from 'lodash'
 
 const PORT = 8080
 const app = express()
@@ -40,6 +41,7 @@ interface NewsItem {
 
 interface NewsCluster {
     mainTitle: string,
+    mainCategories: string[],
     relatedNews: NewsItem[],
 }
 
@@ -53,7 +55,7 @@ const parserFn = (publisher: string, items: Parser.Item[], hours = 48): NewsItem
             title: item.title || '',
             content: item.content || item.contentSnippet || '',
             date: new Date(item.pubDate || item.isoDate || ''),
-            categories: item.categories || [],
+            categories: (item.categories || []).map(c => c.toLowerCase()),
             link: item.link || item.guid || ''
         }))
         .filter(news => news.date > cutoffTime)
@@ -90,9 +92,19 @@ const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
             }
         }
 
+        const allCategories = cluster.flatMap(item => item.categories || [])
+        const categoryCounts = countBy(allCategories)
+        const sortedCategories = orderBy(Object.entries(categoryCounts), ([, count]) => count, 'desc')
+        const topCategories = sortedCategories
+            .map(([category]) => category)
+            .filter(category => category !== 'tilaajille' && !category.includes(' '))
+            .slice(0, 3)
+            .map(category => category.charAt(0).toUpperCase() + category.slice(1))
+        
         clusters.push({
             mainTitle: '',
-            relatedNews: cluster
+            mainCategories: topCategories,
+            relatedNews: cluster,
         })
     }
 
