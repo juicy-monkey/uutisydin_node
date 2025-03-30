@@ -1,5 +1,6 @@
 import express from 'express'
 import cors from 'cors';
+import fs from 'fs';
 import Parser from 'rss-parser'
 import { NewsItem, RSSFeed, RSSResult } from './interfaces';
 import { clusterFeeds, generateClusterTitle, parserFn } from './functions';
@@ -83,13 +84,17 @@ app.get('/api/feeds', async (req, res) => {
         )
 
         console.log(`✅ Done`)
-        res.json({
+
+        const response = {
             timestamp: new Date().toISOString(),
             successCount: successfulFeeds.length,
             failureCount: failedFeeds.length,
             failedFeeds,
             feeds: clustersWithTitle
-        })
+        }
+
+        fs.writeFileSync('public/data.json', JSON.stringify(response, null, 2));
+        res.json(response)
 
     } catch (error) {
         console.error('❌ Unexpected error:', error)
