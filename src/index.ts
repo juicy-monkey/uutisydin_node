@@ -27,7 +27,7 @@ const RSS_FEEDS: RSSFeed[] = [
     { publisherId: 'kaleva', publisher: 'Kaleva', publisherUrl: 'kaleva.fi', rssUrl: 'https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/' },
 ]
 
-app.get('/feeds', async (req, res) => {
+app.get('/api/feeds', async (req, res) => {
     try {
         // Create promises for each RSS link
         const fetchPromises = RSS_FEEDS.map(async (feed): Promise<RSSResult> => {
