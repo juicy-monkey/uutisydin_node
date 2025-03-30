@@ -84,6 +84,7 @@ app.get('/api/feeds', async (req, res) => {
 
         console.log(`✅ Done`)
         res.json({
+            timestamp: new Date().toISOString(),
             successCount: successfulFeeds.length,
             failureCount: failedFeeds.length,
             failedFeeds,
