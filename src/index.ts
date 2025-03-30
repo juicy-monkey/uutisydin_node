@@ -12,29 +12,25 @@ app.use(cors());
 const parser = new Parser()
 const openai = new OpenAI()
 
-const RSS_FEEDS = [
-    { publisher: 'yle', url: 'https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss' },
-    { publisher: 'hs', url: 'https://www.hs.fi/rss/suomi.xml' },
-    { publisher: 'hs', url: 'https://www.hs.fi/rss/maailma.xml' },
-    { publisher: 'hs', url: 'https://www.hs.fi/rss/talous.xml' },
-    { publisher: 'hs', url: 'https://www.hs.fi/rss/politiikka.xml' },
-    { publisher: 'is', url: 'https://www.is.fi/rss/kotimaa.xml' },
-    { publisher: 'is', url: 'https://www.is.fi/rss/taloussanomat.xml' },
-    { publisher: 'is', url: 'https://www.is.fi/rss/ulkomaat.xml' },
-    { publisher: 'iltalehti', url: 'https://www.iltalehti.fi/rss/uutiset.xml' },
-    { publisher: 'ts', url: 'https://www.ts.fi/rss.xml' },
-    { publisher: 'kauppalehti', url: 'https://feeds.kauppalehti.fi/rss/main' },
-    { publisher: 'kaleva', url: 'https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/' },
-    { publisher: 'kaleva', url: 'https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/' },
-]
+interface RSSFeed {
+    publisherId: string,
+    publisher: string,
+    publisherUrl: string,
+    rssUrl: string,
+}
 
-////////////////////////////////////////////////////////
+interface RSSResult {
+    feed: RSSFeed,
+    results: any
+}
 
 interface NewsItem {
+    publisherId: string,
+    publisher: string,
+    publisherUrl: string,
     title: string,
     content: string,
     date: Date,
-    publisher: string,
     categories: string[],
     link: string
 }
@@ -45,13 +41,36 @@ interface NewsCluster {
     relatedNews: NewsItem[],
 }
 
-const parserFn = (publisher: string, items: Parser.Item[], hours = 48): NewsItem[] => {
+const RSS_FEEDS: RSSFeed[] = [
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss' },
+    { publisherId: 'hs', publisher: 'Helsingin Sanomat', publisherUrl: 'hs.fi', rssUrl: 'https://www.hs.fi/rss/suomi.xml' },
+    { publisherId: 'hs', publisher: 'Helsingin Sanomat', publisherUrl: 'hs.fi', rssUrl: 'https://www.hs.fi/rss/maailma.xml' },
+    { publisherId: 'hs', publisher: 'Helsingin Sanomat', publisherUrl: 'hs.fi', rssUrl: 'https://www.hs.fi/rss/talous.xml' },
+    { publisherId: 'hs', publisher: 'Helsingin Sanomat', publisherUrl: 'hs.fi', rssUrl: 'https://www.hs.fi/rss/politiikka.xml' },
+    { publisherId: 'is', publisher: 'Ilta-Sanomat', publisherUrl: 'is.fi', rssUrl: 'https://www.is.fi/rss/kotimaa.xml' },
+    { publisherId: 'is', publisher: 'Ilta-Sanomat', publisherUrl: 'is.fi', rssUrl: 'https://www.is.fi/rss/taloussanomat.xml' },
+    { publisherId: 'is', publisher: 'Ilta-Sanomat', publisherUrl: 'is.fi', rssUrl: 'https://www.is.fi/rss/ulkomaat.xml' },
+    { publisherId: 'iltalehti', publisher: 'Iltalehti', publisherUrl: 'iltalehti.fi', rssUrl: 'https://www.iltalehti.fi/rss/uutiset.xml' },
+    { publisherId: 'ts', publisher: 'Turun Sanomat', publisherUrl: 'ts.fi', rssUrl: 'https://www.ts.fi/rss.xml' },
+    { publisherId: 'kauppalehti', publisher: 'Kauppalehti', publisherUrl: 'kauppalehti.fi', rssUrl: 'https://feeds.kauppalehti.fi/rss/main' },
+    { publisherId: 'kaleva', publisher: 'Kaleva', publisherUrl: 'kaleva.fi', rssUrl: 'https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/' },
+    { publisherId: 'kaleva', publisher: 'Kaleva', publisherUrl: 'kaleva.fi', rssUrl: 'https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/' },
+]
+
+////////////////////////////////////////////////////////
+
+
+const parserFn = (rssResult: RSSResult, hours = 48): NewsItem[] => {
     const now = new Date()
     const cutoffTime = new Date(now.getTime() - 60 * 60 * 1000 * hours)
 
+    const items = rssResult.results.items
+
     return items
         .map(item => ({
-            publisher,
+            publisherId: rssResult.feed.publisherId,
+            publisher: rssResult.feed.publisher,
+            publisherUrl: rssResult.feed.publisherUrl,
             title: item.title || '',
             content: item.content || item.contentSnippet || '',
             date: new Date(item.pubDate || item.isoDate || ''),
@@ -97,7 +116,7 @@ const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
         const sortedCategories = orderBy(Object.entries(categoryCounts), ([, count]) => count, 'desc')
         const topCategories = sortedCategories
             .map(([category]) => category)
-            .filter(category => category !== 'tilaajille' && !category.includes(' '))
+            .filter(category => category !== 'tilaajille' && category !== 'saauutiset' && !category.includes(' '))
             .slice(0, 3)
             .map(category => category.charAt(0).toUpperCase() + category.slice(1))
         
@@ -149,15 +168,11 @@ const generateClusterTitle = async (items: NewsItem[]) => {
 app.get('/feeds', async (req, res) => {
     try {
         // Create promises for each RSS link
-        const fetchPromises = RSS_FEEDS.map(async (feed) => {
-            const feedResult = await parser.parseURL(feed.url)
-            console.log(`🌐 Fetched from: ${feed.url} - Items: ${feedResult.items.length}`)
+        const fetchPromises = RSS_FEEDS.map(async (feed): Promise<RSSResult> => {
+            const results = await parser.parseURL(feed.rssUrl)
+            console.log(`🌐 Fetched from: ${feed.rssUrl} - Items: ${results.items.length}`)
 
-            return {
-                publisher: feed.publisher,
-                url: feed.url,
-                result: feedResult
-            }
+            return { feed, results }
         })
 
         // Resolve all promises
@@ -173,17 +188,15 @@ app.get('/feeds', async (req, res) => {
 
         const successfulFeeds = results
             .filter(result => result.status === 'fulfilled')
-            .map(result => (result as PromiseFulfilledResult<any>).value)
+            .map(result => (result as PromiseFulfilledResult<RSSResult>).value)
 
         console.log(`🌐 Successfully fetched ${successfulFeeds.length} feeds.`)
         if (failedFeeds.length) {
-            console.warn(`⚠️ ${failedFeeds.length} feeds failed:`, failedFeeds.map(f => f.url))
+            console.warn(`⚠️ ${failedFeeds.length} feeds failed:`, failedFeeds)
         }
 
         console.log(`⌛ Parsing the news feeds`)
-        const feeds: NewsItem[] = successfulFeeds.flatMap((feed) => {
-            return parserFn(feed.publisher, feed.result.items)
-        })
+        const feeds: NewsItem[] = successfulFeeds.flatMap((feed) => parserFn(feed))
 
         console.log(`✨ Creating clusters, filtering and sorting them`)
         const clusters = await clusterFeeds(feeds)
