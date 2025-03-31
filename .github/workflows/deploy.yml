@@ -18,6 +18,8 @@ jobs:
           node-version: "20"
 
       - name: Install deps & run script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           npm install
           npm start
