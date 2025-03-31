@@ -65,9 +65,7 @@ export const main = async () => {
         const feeds: NewsItem[] = successfulFeeds
             .flatMap((feed) => parserFn(feed))
             .filter(item => {
-                if (seenLinks.has(item.link)) {
-                    return false
-                }
+                if (seenLinks.has(item.link)) return false
                 seenLinks.add(item.link)
                 return true
             })

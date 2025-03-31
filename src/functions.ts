@@ -75,7 +75,12 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
         })
     }
 
-    const filteredClusters = clusters.filter((cluster) => cluster.relatedNews.length > 1)
+    const filteredClusters = clusters
+        .filter((cluster) => cluster.relatedNews.length > 1)
+        .filter((cluster) => {
+            // Filter out clusters that only have articles from is or iltalehti
+            return cluster.relatedNews.some(item => (item.publisherId !== 'is') && (item.publisherId !== 'iltalehti'))
+        })
 
     const sortedClusters = filteredClusters.map(cluster => ({
         ...cluster,
@@ -86,7 +91,6 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
         const bLatest = b.relatedNews[0]?.date.getTime() || 0
         return bLatest - aLatest
     })
-
     return sortedClusters
 }
 
