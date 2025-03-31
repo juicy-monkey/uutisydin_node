@@ -24,5 +24,6 @@ export interface NewsItem {
 export interface NewsCluster {
     mainTitle: string,
     mainCategories: string[],
+    imageUrl: string,
     relatedNews: NewsItem[],
 }

@@ -1,4 +1,6 @@
 import { OpenAI } from 'openai'
+import fs from 'fs';
+import path from 'path';
 import { NewsCluster, NewsItem, RSSResult } from './interfaces'
 import { countBy, orderBy } from 'lodash'
 
@@ -68,6 +70,7 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
         clusters.push({
             mainTitle: '',
             mainCategories: topCategories,
+            imageUrl: '',
             relatedNews: cluster,
         })
     }
@@ -106,4 +109,54 @@ export const generateClusterTitle = async (items: NewsItem[]) => {
             }],
     })
     return completion.choices[0].message.content!
+}
+
+export const getSuitableImageUrl = async (items: NewsItem[]) => {
+    const texts = items.map((item) => `Otsikko: ${item.title}\nIngressi: ${item.content}\nKategoriat: ${item.categories.join(', ')}`)
+    const keywords = fs.readdirSync(path.join(__dirname, '../public/images')).filter(d => d != '.DS_Store');
+
+    const completion: OpenAI.ChatCompletion = await openai.chat.completions.create({
+        model: 'gpt-4o-mini',
+        temperature: 0.0,
+        top_p: 0.0,
+        messages: [
+            {
+                role: 'system',
+                content: `
+                    Sinulle annetaan vähintään kahden uutisartikkelin otsikko ja mahdollisesti niiden ingressi, sekä uutisen kategoriat.
+                    Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö, ja valita osuvin avainsana listasta.
+                    
+                    Valitse vain yksi avainsana ja anna se. Älä vastaa mitään muuta.
+                    Jos hyvää avainsanaa ei löydy, älä vastaa mitään.
+
+                    Otsikot ja niiden ingressit, joiden perusteella valitset avainsanan:
+                    ${texts.join('\n')}
+
+                    Avainsanat, joista valitset yhden ja vastaat vain sen. Jos hyvää avainsanaa ei löydy, älä vastaa mitään:
+                    ${keywords.join(', ')}
+                    `
+            }],
+    })
+    const keyword = completion.choices[0].message.content!.trim()
+    console.log('Closest keyword: ' + keyword)
+    if (!keyword || !keywords.includes(keyword)) {
+        console.log('NO KEYWORD or keyword not in list')
+        return ''
+    }
+
+    const dirPath = path.join(__dirname, '../public/images', keyword)
+    const images = fs.readdirSync(dirPath).filter(file => {
+        const ext = path.extname(file).toLowerCase()
+        return ['.jpg', '.jpeg', '.png'].includes(ext)
+    })
+
+    if (images.length === 0) {
+        console.log(`No images found in keyword directory: ${keyword}`)
+        return ''
+    }
+
+    const randomImage = images[Math.floor(Math.random() * images.length)]
+    const imageUrl = `/images/${keyword}/${randomImage}`
+
+    return imageUrl
 }

@@ -3,7 +3,7 @@ import cors from 'cors';
 import fs from 'fs';
 import Parser from 'rss-parser'
 import { NewsItem, RSSFeed, RSSResult } from './interfaces';
-import { clusterFeeds, generateClusterTitle, parserFn } from './functions';
+import { clusterFeeds, generateClusterTitle, getSuitableImageUrl, parserFn } from './functions';
 
 const PORT = 8080
 const app = express()
@@ -83,6 +83,14 @@ app.get('/api/feeds', async (req, res) => {
             })
         )
 
+        console.log('🖼️ Getting most suitable images')
+        const clustersWithImages = await Promise.all(
+            clustersWithTitle.map(async (cluster) => {
+                cluster.imageUrl = await getSuitableImageUrl(cluster.relatedNews)
+                return cluster
+            })
+        )
+
         console.log(`✅ Done`)
 
         const response = {
@@ -90,10 +98,10 @@ app.get('/api/feeds', async (req, res) => {
             successCount: successfulFeeds.length,
             failureCount: failedFeeds.length,
             failedFeeds,
-            feeds: clustersWithTitle
+            feeds: clustersWithImages
         }
 
-        fs.writeFileSync('public/data.json', JSON.stringify(response, null, 2));
+        // fs.writeFileSync('public/data.json', JSON.stringify(response, null, 2));
         res.json(response)
 
     } catch (error) {
