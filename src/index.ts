@@ -1,14 +1,7 @@
-// import express from 'express'
-// import cors from 'cors';
 import fs from 'fs';
 import Parser from 'rss-parser'
 import { NewsItem, RSSFeed, RSSResult } from './interfaces';
 import { clusterFeeds, generateClusterTitle, getSuitableImageUrl, parserFn } from './functions';
-
-// const PORT = 8080
-// const app = express()
-// app.use(express.json())
-// app.use(cors());
 
 const parser = new Parser()
 
@@ -28,8 +21,7 @@ const RSS_FEEDS: RSSFeed[] = [
     { publisherId: 'kaleva', publisher: 'Kaleva', publisherUrl: 'kaleva.fi', rssUrl: 'https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/' },
 ]
 
-// app.get('/api/feeds', async (req, res) => {
-const main = async () => {
+export const main = async () => {
     try {
         // Create promises for each RSS link
         const fetchPromises = RSS_FEEDS.map(async (feed): Promise<RSSResult> => {
@@ -64,7 +56,7 @@ const main = async () => {
 
         console.log(`✨ Creating clusters, filtering and sorting them`)
         const clusters = await clusterFeeds(feeds)
-        const filteredClusters = clusters.filter((cluster) => cluster.relatedNews.length > 2)
+        const filteredClusters = clusters.filter((cluster) => cluster.relatedNews.length > 1)
 
         const sortedClusters = filteredClusters.map(cluster => ({
             ...cluster,
@@ -103,20 +95,11 @@ const main = async () => {
         }
 
         fs.writeFileSync('public/data.json', JSON.stringify(response, null, 2));
-        // res.json(response)
+        return response
 
     } catch (error) {
         console.error('❌ Unexpected error:', error)
-        // res.status(500).json({ error: 'Unexpected error' })
     }
 }
-
-// app.get('/', (req, res) => {
-//     res.send('OK')
-// })
-
-// app.listen(PORT, () => {
-//     console.log(`Server is running on http://localhost:${PORT}`)
-// })
 
 main()
