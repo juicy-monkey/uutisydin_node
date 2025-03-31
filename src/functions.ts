@@ -138,9 +138,7 @@ export const getSuitableImageUrl = async (items: NewsItem[]) => {
             }],
     })
     const keyword = completion.choices[0].message.content!.trim()
-    console.log('Closest keyword: ' + keyword)
     if (!keyword || !keywords.includes(keyword)) {
-        console.log('NO KEYWORD or keyword not in list')
         return ''
     }
 
