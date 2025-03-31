@@ -1,12 +1,21 @@
 import fs from 'fs';
 import Parser from 'rss-parser'
 import { NewsItem, RSSFeed, RSSResult } from './interfaces';
-import { clusterFeeds, generateClusterTitle, getSuitableImageUrl, parserFn } from './functions';
+import { clusterFeeds as createNewsClusters, generateClusterTitle, getSuitableImageUrl, parserFn } from './functions';
 
 const parser = new Parser()
 
 const RSS_FEEDS: RSSFeed[] = [
     { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss' },
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837' },  // Kotimaa
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953' },  // Ulkomaat
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274' },  // Talous
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033' },  // Politiikka
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819' },    // Tiede
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354' },  // Luonto
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138' },  // Terveys
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057' },  // Media
+    { publisherId: 'yle', publisher: 'Yle', publisherUrl: 'yle.fi', rssUrl: 'https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12' },     // Liikenne
     { publisherId: 'hs', publisher: 'Helsingin Sanomat', publisherUrl: 'hs.fi', rssUrl: 'https://www.hs.fi/rss/suomi.xml' },
     { publisherId: 'hs', publisher: 'Helsingin Sanomat', publisherUrl: 'hs.fi', rssUrl: 'https://www.hs.fi/rss/maailma.xml' },
     { publisherId: 'hs', publisher: 'Helsingin Sanomat', publisherUrl: 'hs.fi', rssUrl: 'https://www.hs.fi/rss/talous.xml' },
@@ -51,34 +60,25 @@ export const main = async () => {
             console.warn(`⚠️ ${failedFeeds.length} feeds failed:`, failedFeeds)
         }
 
-        console.log(`⌛ Parsing the news feeds`)
-        const feeds: NewsItem[] = successfulFeeds.flatMap((feed) => parserFn(feed))
+        console.log(`⌛ Parsing the news feeds and removing duplicates`)
+        const seenLinks = new Set<string>() // For removing duplicates based on link
+        const feeds: NewsItem[] = successfulFeeds
+            .flatMap((feed) => parserFn(feed))
+            .filter(item => {
+                if (seenLinks.has(item.link)) {
+                    return false
+                }
+                seenLinks.add(item.link)
+                return true
+            })
 
         console.log(`✨ Creating clusters, filtering and sorting them`)
-        const clusters = await clusterFeeds(feeds)
-        const filteredClusters = clusters.filter((cluster) => cluster.relatedNews.length > 1)
+        const clusters = await createNewsClusters(feeds)
 
-        const sortedClusters = filteredClusters.map(cluster => ({
-            ...cluster,
-            relatedNews: cluster.relatedNews.sort((a, b) => b.date.getTime() - a.date.getTime())
-        }))
-        sortedClusters.sort((a, b) => {
-            const aLatest = a.relatedNews[0]?.date.getTime() || 0
-            const bLatest = b.relatedNews[0]?.date.getTime() || 0
-            return bLatest - aLatest
-        })
-
-        console.log(`✍️ Generate titles for the clusters`)
-        const clustersWithTitle = await Promise.all(
-            sortedClusters.map(async (cluster) => {
+        console.log(`✍️🖼️ Generate titles and find most suitable images for the clusters`)
+        const clusterFeeds = await Promise.all(
+            clusters.map(async (cluster) => {
                 cluster.mainTitle = await generateClusterTitle(cluster.relatedNews)
-                return cluster
-            })
-        )
-
-        console.log('🖼️ Getting most suitable images')
-        const clustersWithImages = await Promise.all(
-            clustersWithTitle.map(async (cluster) => {
                 cluster.imageUrl = await getSuitableImageUrl(cluster.relatedNews)
                 return cluster
             })
@@ -91,7 +91,7 @@ export const main = async () => {
             successCount: successfulFeeds.length,
             failureCount: failedFeeds.length,
             failedFeeds,
-            feeds: clustersWithImages
+            feeds: clusterFeeds
         }
 
         fs.writeFileSync('public/data.json', JSON.stringify(response, null, 2));

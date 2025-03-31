@@ -75,7 +75,19 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
         })
     }
 
-    return clusters
+    const filteredClusters = clusters.filter((cluster) => cluster.relatedNews.length > 1)
+
+    const sortedClusters = filteredClusters.map(cluster => ({
+        ...cluster,
+        relatedNews: cluster.relatedNews.sort((a, b) => b.date.getTime() - a.date.getTime())
+    }))
+    sortedClusters.sort((a, b) => {
+        const aLatest = a.relatedNews[0]?.date.getTime() || 0
+        const bLatest = b.relatedNews[0]?.date.getTime() || 0
+        return bLatest - aLatest
+    })
+
+    return sortedClusters
 }
 
 export const cosineSimilarity = (a: number[], b: number[]) => {
