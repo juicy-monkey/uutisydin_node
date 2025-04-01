@@ -1,6 +1,6 @@
 import express from 'express'
 import cors from 'cors';
-import { main } from '.';
+import { generateFeeds } from './generate';
 
 
 const PORT = 8080
@@ -9,7 +9,7 @@ app.use(express.json())
 app.use(cors());
 
 app.get('/api/feeds', async (req, res) => {
-    res.json(await main())
+    res.json(await generateFeeds())
 })
 
 app.get('/', (req, res) => {
