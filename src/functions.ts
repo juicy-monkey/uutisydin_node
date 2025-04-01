@@ -39,7 +39,7 @@ export const generateEmbeddings = async (items: NewsItem[]): Promise<number[][]>
     return res.data.map(d => d.embedding)
 }
 
-export const clusterFeeds = async (items: NewsItem[], threshold = 0.65) => {
+export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
     const embeddings = await generateEmbeddings(items)
     const clusters: NewsCluster[] = []
     const visited = new Set<number>()
