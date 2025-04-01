@@ -100,4 +100,4 @@ export const main = async () => {
     }
 }
 
-main()
+// main()
