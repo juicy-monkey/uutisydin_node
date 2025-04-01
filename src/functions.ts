@@ -129,51 +129,25 @@ export const generateClusterTitle = async (items: NewsItem[]) => {
 
 export const getSuitableImageUrl = async (items: NewsItem[]) => {
     const texts = items.map((item) => `${item.title} ${item.content} ${item.categories.join(' ')}`).join(' ').toLowerCase()
-    // // const texts = items.map((item) => `${item.title} - ${item.content}`)
-    // // const texts = items.map((item) => `${item.content}`)
     const keywords = fs.readdirSync(path.join(__dirname, '../public/images')).filter(d => d != '.DS_Store');
 
-    // const completion: OpenAI.ChatCompletion = await openai.chat.completions.create({
-    //     model: 'gpt-4o-mini',
-    //     temperature: 0.0,
-    //     top_p: 0.0,
-    //     messages: [
-    //         {
-    //             role: 'system',
-    //             content: `
-    //                 Olet uutistoimittaja.
-    //                 Sinulle annetaan vähintään kahden uutisartikkelin tiivistelmä.
-    //                 Analysoi kaikkien uutisten yhteinen ydinaihe ja valitse osuvin avainsana listasta.
-                    
-    //                 Valitse vain yksi avainsana ja anna se. Älä vastaa mitään muuta.
-    //                 Jos hyvää avainsanaa ei löydy, älä vastaa mitään.
-
-    //                 Uutisartikkelin tiivistelmät, joiden perusteella valitset avainsanan:
-    //                 ${texts.join(' ')}
-
-    //                 Avainsanat, joista valitset yhden ja vastaat vain sen. Jos hyvää avainsanaa ei löydy, älä vastaa mitään:
-    //                 ${keywords.join(', ')}
-    //                 `
-    //         }],
-    // })
-    // const keyword = completion.choices[0].message.content!.trim()
-    // const keyword = keywords.find((k) => texts.includes(k.toLowerCase())) || ''
     const keywordFrequencies = keywords.reduce((acc, keyword) => {
-        const regex = new RegExp(`\\b${keyword}\\b`, 'g')
+        const regex = new RegExp(keyword, 'g')
         const matches = texts.match(regex)
         acc[keyword] = matches ? matches.length : 0
         return acc
     }, {} as Record<string, number>)
 
-    console.log('---' + items[0].title.toUpperCase())
-    console.log(
-        Object.entries(keywordFrequencies)
-            .sort((a, b) => b[1] - a[1])
-            .reduce((acc, [key, val]) => {
-                acc[key] = val
-                return acc
-            }, {} as Record<string, number>)
-    )
+    // console.log('---' + items[0].title.toUpperCase())
+    // console.log(
+    //     Object.entries(keywordFrequencies)
+    //         .sort((a, b) => b[1] - a[1])
+    //         .slice(0, 4)
+    //         .reduce((acc, [key, val]) => {
+    //             acc[key] = val
+    //             return acc
+    //         }, {} as Record<string, number>)
+    // )
 
     const keyword = Object.entries(keywordFrequencies)
         .sort((a, b) => b[1] - a[1])
