@@ -180,7 +180,7 @@ const images = {
       "license": "CC BY 4.0"
     }
   ],
-  "metsä": [
+  "metsä": [
     {
       "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/ansik/1374647348",
