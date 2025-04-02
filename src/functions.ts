@@ -65,7 +65,12 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
             .map(([category]) => category)
             .filter(category => category !== 'tilaajille' && category !== 'saauutiset' && !category.includes(' '))
             .slice(0, 3)
-            .map(category => category.charAt(0).toUpperCase() + category.slice(1))
+            .map(category => {
+                if (category === 'eu') {
+                    return 'EU'
+                }
+                return category.charAt(0).toUpperCase() + category.slice(1)
+            })
 
         clusters.push({
             mainTitle: '',
