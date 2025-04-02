@@ -147,7 +147,7 @@ const images = {
       "license": "CC BY-NC-ND 2.0"
     }
   ],
-  "itämeri": [
+  "itämeri": [
     {
       "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Baltic_Sea,_Sweden.jpg",
