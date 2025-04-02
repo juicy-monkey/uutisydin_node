@@ -2,8 +2,8 @@ const images = {
   "alexander stubb": [
     {
       "filename": "1.png",
-      "source": "www.example.com",
-      "license": "CC-BY"
+      "source": "https://www.freemalaysiatoday.com/category/world/2024/09/18/finnish-president-wants-end-of-single-state-veto-at-un-security-council/",
+      "license": "CC BY 4.0"
     },
     {
       "filename": "2.jpg",
