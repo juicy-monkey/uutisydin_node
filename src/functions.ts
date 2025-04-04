@@ -161,7 +161,7 @@ export const getSuitableImageUrl = async (items: NewsItem[]) => {
 
     const keyword = Object.entries(keywordFrequencies)
         .sort((a, b) => b[1] - a[1])
-        .find(([_, count]) => count > 0)?.[0] || ''
+        .find(([_, count]) => count > 1)?.[0] || ''
 
     if (!keyword || !keywords.includes(keyword)) {
         return ''
