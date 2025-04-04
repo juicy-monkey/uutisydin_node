@@ -63,7 +63,12 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
         const sortedCategories = orderBy(Object.entries(categoryCounts), ([, count]) => count, 'desc')
         const topCategories = sortedCategories
             .map(([category]) => category)
-            .filter(category => category !== 'tilaajille' && category !== 'saauutiset' && !category.includes(' '))
+            .filter(category => 
+                category !== 'tilaajille' &&
+                category !== 'saauutiset' &&
+                !category.includes(' ') &&
+                !category.includes('-')
+            )
             .slice(0, 3)
             .map(category => {
                 if (category === 'eu') {
