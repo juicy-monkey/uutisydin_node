@@ -1,7 +1,7 @@
 const images = {
   "alexander stubb": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://www.freemalaysiatoday.com/category/world/2024/09/18/finnish-president-wants-end-of-single-state-veto-at-un-security-council/",
       "license": "CC BY 4.0"
     },
@@ -52,24 +52,24 @@ const images = {
       "license": "CC0 1.0"
     },
     {
-      "filename": "2.jpeg",
+      "filename": "2.jpg",
       "source": "https://www.heute.at/i/netanjahu-6-geiseln-kommen-noch-diese-woche-frei-120086991/doc-1iij7jo5k4",
       "license": "CC BY 4.0"
     },
   ],
   "datakeskus": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:CERN_Server_03.jpg",
       "license": "CC BY-SA 3.0",
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://www.pexels.com/fi-fi/kuva/topseli-ethernet-kaapelilangat-ethernet-portti-4818711/",
       "license": "CC0",
     },
     {
-      "filename": "3.png",
+      "filename": "3.jpg",
       "source": "https://www.theenergymix.com/first-nation-demands-alberta-halt-olearys-70b-data-centre-project/",
       "license": "CC BY-NC-ND 3.0 NL",
     },
@@ -81,7 +81,7 @@ const images = {
       "license": "CC BY-SA 2.0"
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://www.opinium.com/resource-center/tump-in-a-uk-context/",
       "license": "CC0 1.0"
     },
@@ -91,29 +91,29 @@ const images = {
       "license": "CC0 1.0"
     },
     {
-      "filename": "4.png",
+      "filename": "4.jpg",
       "source": "https://www.flickr.com/photos/gageskidmore/53953046884",
       "license": "CC BY-SA 2.0"
     },
     {
-      "filename": "5.png",
+      "filename": "5.jpg",
       "source": "https://www.freemalaysiatoday.com/category/business/2025/04/01/trump-says-will-be-kind-with-tariffs-as-deadline-looms/",
       "license": "CC BY 4.0"
     },
     {
-      "filename": "6.png",
+      "filename": "6.jpg",
       "source": "https://www.bigenergygroup.co.uk/insights/drill-baby-drill-unpacking-trumps-energy-agenda",
       "license": "CC0 1.0"
     },
     {
-      "filename": "7.png",
+      "filename": "7.jpg",
       "source": "https://www.freemalaysiatoday.com/category/world/2025/04/03/trump-approval-falls-to-43-lowest-since-returning-to-office/",
       "license": "CC BY 4.0"
     },
   ],
   "eduskunta": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Eduskunta_-_Parliament_House,_Helsinki_%2852890871089%29.jpg",
       "license": "CC BY-SA 2.0"
     },
@@ -135,39 +135,39 @@ const images = {
   ],
   "elon musk": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://www.hintsa.com/insights/blogs/4-things-elon-musk-gets-right-about-high-performance/",
       "license": "CC BY-NC 3.0 US",
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://www.flickr.com/photos/tedconference/33944890310",
       "license": "CC BY-NC 2.0",
     },
     {
-      "filename": "3.png",
+      "filename": "3.jpg",
       "source": "https://www.heute.at/i/tesla-milliardaer-elon-musk-kauft-sich-bei-twitter-ein-100199592/doc-1fvq5p5hh1",
       "license": "CC BY 4.0",
     },
     {
-      "filename": "4.png",
+      "filename": "4.jpg",
       "source": "https://www.freemalaysiatoday.com/category/world/2024/11/23/us-judge-rejects-sec-bid-to-sanction-elon-musk/",
       "license": "CC BY 4.0",
     },
     {
-      "filename": "5.png",
+      "filename": "5.jpg",
       "source": "https://universe.roboflow.com/aiot-2/elonmusk-ifrcc",
       "license": "CC BY 4.0",
     },
   ],
   "emmanuel macron": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Members_debated_the_French_Presidency%E2%80%99s_priorities_with_Emmanuel_Macron_-_51830991330_%28cropped%29.jpg",
       "license": "CC BY 2.0"
     },
     {
-      "filename": "2.jpeg",
+      "filename": "2.jpg",
       "source": "https://nara.getarchive.net/media/president-emmanuel-macron-the-president-of-france-e4cf32",
       "license": "PDM 1.0"
     },
@@ -198,17 +198,17 @@ const images = {
   ],
   "gaza": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://apan.org.au/factsheet-genocide-in-gaza/",
       "license": "CC0 1.0",
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://www.freemalaysiatoday.com/category/world/2025/01/28/thousands-of-palestinians-return-to-north-gaza-after-hostage-breakthrough/",
       "license": "CC BY 4.0",
     },
     {
-      "filename": "3.png",
+      "filename": "3.jpg",
       "source": "https://www.freemalaysiatoday.com/category/world/2024/10/20/87-killed-in-israeli-air-strike-on-northern-gaza/",
       "license": "CC BY 4.0",
     },
@@ -236,22 +236,22 @@ const images = {
   ],
   "jd vance": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/gageskidmore/53068382792",
       "license": "CC BY-SA 2.0",
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://www.flickr.com/photos/gageskidmore/53809627400",
       "license": "CC BY-SA 2.0",
     },
     {
-      "filename": "3.png",
+      "filename": "3.jpg",
       "source": "https://www.heute.at/i/us-vize-bestaetigt-musk-bleibt-freund-und-berater-120100764/doc-1inu2nesb4",
       "license": "CC BY 4.0",
     },
     {
-      "filename": "4.png",
+      "filename": "4.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:J._D._Vance_%2853983288817%29.jpg",
       "license": "CC BY-SA 2.0",
     },
@@ -263,48 +263,48 @@ const images = {
       "license": "CC BY 2.0"
     },
     {
-      "filename": "2.jpeg",
+      "filename": "2.jpg",
       "source": "https://www.flickr.com/photos/54097310@N08/53219213177",
       "license": "CC BY 2.0"
     }
   ],
-  "kalateollisuus": [
+  "kalateollisuu": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://pxhere.com/fi/photo/667758",
       "license": "CC0 1.0",
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://pxhere.com/fi/photo/551885",
       "license": "CC0 1.0",
     }
   ],
   "leipomo": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://pxhere.com/en/photo/1416594",
       "license": "CC0 1.0"
     }
   ],
   "marco rubio": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/gageskidmore/8565693141",
       "license": "CC BY-SA 2.0",
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://www.flickr.com/photos/gageskidmore/8566797744",
       "license": "CC BY-SA 2.0",
     },
     {
-      "filename": "3.png",
+      "filename": "3.jpg",
       "source": "https://www.heute.at/i/marco-rubio-die-usa-werden-in-der-nato-bleiben-120100737/doc-1inttlndd4",
       "license": "CC BY 4.0",
     },
     {
-      "filename": "4.png",
+      "filename": "4.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_%2812993392624%29.jpg",
       "license": "CC BY-SA 2.0",
     },
@@ -337,12 +337,12 @@ const images = {
   ],
   "oikeudenkäynti": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://picryl.com/media/hammer-court-judge-f3fd65",
       "license": "PDM 1.0"
     },
     {
-      "filename": "2.jpeg",
+      "filename": "2.jpg",
       "source": "https://www.pexels.com/photo/a-golden-balance-scale-beside-a-laptop-6077797/",
       "license": "CC0"
     }
@@ -361,12 +361,12 @@ const images = {
   ],
   "osakemarkkinat": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://cyprus-mail.com/2024/11/29/spooked-by-trade-tensions-global-stocks-to-deliver-tempered-gains-in-2025",
       "license": "CC BY-ND 4.0"
     },
     {
-      "filename": "2.jpeg",
+      "filename": "2.jpg",
       "source": "https://lhsmagpie.com/8741/features/what-is-the-stock-market/",
       "license": "CC BY-ND 4.0"
     }
@@ -393,40 +393,45 @@ const images = {
   "ranska": [
     {
       "filename": "1.jpg",
-      "source": "https://www.goodfon.com/city/wallpaper-paris-france-la-tour-eiffel-321.html",
-      "license": "CC BY-NC 4.0"
+      "source": "https://picryl.com/media/french-flag-nation-france-3b8485",
+      "license": "PDM 1.0"
     },
     {
       "filename": "2.jpg",
       "source": "https://freerangestock.com/photos/87272/red-white-and-blue-painting-of-the-flag-of-france.html",
       "license": "CC0 1.0"
-    }
+    },
+    {
+      "filename": "3.jpg",
+      "source": "https://europastry.com/us/en/europastry-france-pastry-capital-blog/",
+      "license": "CC BY-SA 2.0"
+    },
   ],
   "ravintola": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/rodeime/30488407320",
       "license": "CC BY-ND 2.0",
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://negativespace.co/rustic-restaurant/",
       "license": "CC0 1.0",
     },
     {
-      "filename": "3.png",
+      "filename": "3.jpg",
       "source": "https://pxhere.com/fi/photo/1066618",
       "license": "CC0 1.0",
     },
     {
-      "filename": "4.png",
+      "filename": "4.jpg",
       "source": "https://www.rawpixel.com/image/3282419",
       "license": "CC0 1.0",
     }
   ],
   "riikka purra": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://commons.m.wikimedia.org/wiki/File:Riikka_Purra_-_Hallituksen_tiedotustilaisuus_31.08.2023_-_53154772884.jpg",
       "license": "CC BY 2.0"
     }
@@ -445,7 +450,7 @@ const images = {
   ],
   "suomen hallitus": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/finnishgovernment/53198097769",
       "license": "CC BY 2.0"
     }
@@ -469,12 +474,12 @@ const images = {
   ],
   "talous": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://www.pickpik.com/money-bank-note-euro-banknote-paper-money-bill-148500",
       "license": "CC0 1.0"
     },
     {
-      "filename": "2.jpeg",
+      "filename": "2.jpg",
       "source": "https://pxhere.com/fi/photo/926983",
       "license": "CC0 1.0"
     },
@@ -489,12 +494,12 @@ const images = {
       "license": "CC BY-SA 4.0"
     },
     {
-      "filename": "5.png",
+      "filename": "5.jpg",
       "source": "https://pxhere.com/fi/photo/859216",
       "license": "CC0 1.0"
     },
     {
-      "filename": "6.png",
+      "filename": "6.jpg",
       "source": "https://mronline.org/2022/10/11/central-bank-myths-drag-down-world-economy/",
       "license": "CC BY-ND 4.0"
     },
@@ -509,14 +514,14 @@ const images = {
       "license": "CC BY-ND 4.0"
     },
     {
-      "filename": "9.png",
+      "filename": "9.jpg",
       "source": "https://www.goodfon.com/macro/wallpaper-coins-economy-paper.html",
       "license": "CC BY-NC 4.0"
     },
   ],
   "terveydenhuolto": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://pxhere.com/en/photo/917209",
       "license": "CC0 1.0"
     },
@@ -534,25 +539,45 @@ const images = {
   "tuulivoima": [
     {
       "filename": "1.jpg",
-      "source": "https://www.stockvault.net/photo/201730/wind-turbines",
+      "source": "https://www.univ-orleans.fr/fr/prisme/agenda-actualites/phd-offer-wind-turbine-wake-turbulent-background",
       "license": "CC0 1.0"
-    }
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://datma.org/transform/art-of-tech/winds/",
+      "license": "CC BY-NC-ND 3.0"
+    },
   ],
   "ukraina": [
     {
       "filename": "1.jpg",
       "source": "https://www.cid.org.nz/connect/news/crisis-unfolds-following-attack-on-ukraine-dam/",
       "license": "CC0 1.0"
-    }
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://afuo.org.au/community/today-we-celebrate-ukrainian-unity-day/",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "3.jpg",
+      "source": "https://www.pexels.com/photo/flag-of-ukraine-in-kharkov-11920873/",
+      "license": "CC0"
+    },
+    {
+      "filename": "4.jpg",
+      "source": "https://www.flickr.com/photos/ministryofdefenceua/26382622234",
+      "license": "CC BY-SA 2.0"
+    },
   ],
   "vaalit": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://www.pexels.com/photo/ballot-box-with-person-casting-a-vote-7103191/",
       "license": "CC0"
     },
     {
-      "filename": "2.png",
+      "filename": "2.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Election_voting_20190414.jpg",
       "license": "CC BY-SA 4.0"
     },
@@ -574,12 +599,12 @@ const images = {
       "license": "PDM 1.0"
     },
     {
-      "filename": "4.png",
+      "filename": "4.jpg",
       "source": "https://www.goodfon.com/city/wallpaper-moscow-russia-kremlin-city-616.html",
       "license": "CC BY-NC 4.0"
     },
     {
-      "filename": "5.png",
+      "filename": "5.jpg",
       "source": "https://www.pexels.com/photo/photograph-of-a-russia-flag-under-a-blue-sky-11875346/",
       "license": "CC0"
     },
@@ -589,14 +614,14 @@ const images = {
       "license": "CC0 1.0"
     },
     {
-      "filename": "7.png",
+      "filename": "7.jpg",
       "source": "https://www.deviantart.com/think0/art/Russia-Grungy-Flag-111353394",
       "license": "CC BY-ND 3.0"
     },
   ],
   "vladimir putin": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://www.freemalaysiatoday.com/category/business/2025/02/07/putin-hails-russias-strong-2024-economic-growth/",
       "license": "CC BY 4.0"
     }
@@ -620,17 +645,17 @@ const images = {
   ],
   "yhdysvallat": [
     {
-      "filename": "1.jpeg",
+      "filename": "1.jpg",
       "source": "https://pxhere.com/fi/photo/1520929",
       "license": "CC0 1.0"
     },
     {
-      "filename": "2.jpeg",
+      "filename": "2.jpg",
       "source": "https://pxhere.com/fi/photo/1614066",
       "license": "CC0 1.0"
     },
     {
-      "filename": "3.jpeg",
+      "filename": "3.jpg",
       "source": "https://pxhere.com/fi/photo/1499871",
       "license": "CC0 1.0"
     }
