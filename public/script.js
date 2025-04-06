@@ -55,7 +55,24 @@ const images = {
       "filename": "2.jpeg",
       "source": "https://www.heute.at/i/netanjahu-6-geiseln-kommen-noch-diese-woche-frei-120086991/doc-1iij7jo5k4",
       "license": "CC BY 4.0"
-    }
+    },
+  ],
+  "datakeskus": [
+    {
+      "filename": "1.png",
+      "source": "https://commons.wikimedia.org/wiki/File:CERN_Server_03.jpg",
+      "license": "CC BY-SA 3.0",
+    },
+    {
+      "filename": "2.png",
+      "source": "https://www.pexels.com/fi-fi/kuva/topseli-ethernet-kaapelilangat-ethernet-portti-4818711/",
+      "license": "CC0",
+    },
+    {
+      "filename": "3.png",
+      "source": "https://www.theenergymix.com/first-nation-demands-alberta-halt-olearys-70b-data-centre-project/",
+      "license": "CC BY-NC-ND 3.0 NL",
+    },
   ],
   "donald trump": [
     {
@@ -72,7 +89,27 @@ const images = {
       "filename": "3.jpg",
       "source": "https://medillonthehill.medill.northwestern.edu/2024/11/market/",
       "license": "CC0 1.0"
-    }
+    },
+    {
+      "filename": "4.png",
+      "source": "https://www.flickr.com/photos/gageskidmore/53953046884",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "5.png",
+      "source": "https://www.freemalaysiatoday.com/category/business/2025/04/01/trump-says-will-be-kind-with-tariffs-as-deadline-looms/",
+      "license": "CC BY 4.0"
+    },
+    {
+      "filename": "6.png",
+      "source": "https://www.bigenergygroup.co.uk/insights/drill-baby-drill-unpacking-trumps-energy-agenda",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "7.png",
+      "source": "https://www.freemalaysiatoday.com/category/world/2025/04/03/trump-approval-falls-to-43-lowest-since-returning-to-office/",
+      "license": "CC BY 4.0"
+    },
   ],
   "eduskunta": [
     {
@@ -95,6 +132,33 @@ const images = {
       "source": "https://commons.wikimedia.org/wiki/File:Eduskunta_istuntosali_Session_Hall_of_Parliament_House_%28Finland%29_03.jpg",
       "license": "CC BY-SA 4.0"
     }
+  ],
+  "elon musk": [
+    {
+      "filename": "1.png",
+      "source": "https://www.hintsa.com/insights/blogs/4-things-elon-musk-gets-right-about-high-performance/",
+      "license": "CC BY-NC 3.0 US",
+    },
+    {
+      "filename": "2.png",
+      "source": "https://www.flickr.com/photos/tedconference/33944890310",
+      "license": "CC BY-NC 2.0",
+    },
+    {
+      "filename": "3.png",
+      "source": "https://www.heute.at/i/tesla-milliardaer-elon-musk-kauft-sich-bei-twitter-ein-100199592/doc-1fvq5p5hh1",
+      "license": "CC BY 4.0",
+    },
+    {
+      "filename": "4.png",
+      "source": "https://www.freemalaysiatoday.com/category/world/2024/11/23/us-judge-rejects-sec-bid-to-sanction-elon-musk/",
+      "license": "CC BY 4.0",
+    },
+    {
+      "filename": "5.png",
+      "source": "https://universe.roboflow.com/aiot-2/elonmusk-ifrcc",
+      "license": "CC BY 4.0",
+    },
   ],
   "emmanuel macron": [
     {
@@ -132,7 +196,23 @@ const images = {
       "license": "CC0 1.0"
     }
   ],
-
+  "gaza": [
+    {
+      "filename": "1.png",
+      "source": "https://apan.org.au/factsheet-genocide-in-gaza/",
+      "license": "CC0 1.0",
+    },
+    {
+      "filename": "2.png",
+      "source": "https://www.freemalaysiatoday.com/category/world/2025/01/28/thousands-of-palestinians-return-to-north-gaza-after-hostage-breakthrough/",
+      "license": "CC BY 4.0",
+    },
+    {
+      "filename": "3.png",
+      "source": "https://www.freemalaysiatoday.com/category/world/2024/10/20/87-killed-in-israeli-air-strike-on-northern-gaza/",
+      "license": "CC BY 4.0",
+    },
+  ],
   "helsinki": [
     {
       "filename": "1.jpg",
@@ -154,6 +234,28 @@ const images = {
       "license": "CC BY-SA 4.0"
     }
   ],
+  "jd vance": [
+    {
+      "filename": "1.png",
+      "source": "https://www.flickr.com/photos/gageskidmore/53068382792",
+      "license": "CC BY-SA 2.0",
+    },
+    {
+      "filename": "2.png",
+      "source": "https://www.flickr.com/photos/gageskidmore/53809627400",
+      "license": "CC BY-SA 2.0",
+    },
+    {
+      "filename": "3.png",
+      "source": "https://www.heute.at/i/us-vize-bestaetigt-musk-bleibt-freund-und-berater-120100764/doc-1inu2nesb4",
+      "license": "CC BY 4.0",
+    },
+    {
+      "filename": "4.png",
+      "source": "https://commons.wikimedia.org/wiki/File:J._D._Vance_%2853983288817%29.jpg",
+      "license": "CC BY-SA 2.0",
+    },
+  ],
   "jussi halla-aho": [
     {
       "filename": "1.jpg",
@@ -166,12 +268,46 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
+  "kala": [
+    {
+      "filename": "1.png",
+      "source": "https://pxhere.com/fi/photo/667758",
+      "license": "CC0 1.0",
+    },
+    {
+      "filename": "2.png",
+      "source": "https://pxhere.com/fi/photo/551885",
+      "license": "CC0 1.0",
+    }
+  ],
   "leipomo": [
     {
       "filename": "1.jpeg",
       "source": "https://pxhere.com/en/photo/1416594",
       "license": "CC0 1.0"
     }
+  ],
+  "marco rubio": [
+    {
+      "filename": "1.png",
+      "source": "https://www.flickr.com/photos/gageskidmore/8565693141",
+      "license": "CC BY-SA 2.0",
+    },
+    {
+      "filename": "2.png",
+      "source": "https://www.flickr.com/photos/gageskidmore/8566797744",
+      "license": "CC BY-SA 2.0",
+    },
+    {
+      "filename": "3.png",
+      "source": "https://www.heute.at/i/marco-rubio-die-usa-werden-in-der-nato-bleiben-120100737/doc-1inttlndd4",
+      "license": "CC BY 4.0",
+    },
+    {
+      "filename": "4.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Marco_Rubio_%2812993392624%29.jpg",
+      "license": "CC BY-SA 2.0",
+    },
   ],
   "mark rutte": [
     {
@@ -266,6 +402,28 @@ const images = {
       "license": "CC0 1.0"
     }
   ],
+  "ravintola": [
+    {
+      "filename": "1.png",
+      "source": "https://www.flickr.com/photos/rodeime/30488407320",
+      "license": "CC BY-ND 2.0",
+    },
+    {
+      "filename": "2.png",
+      "source": "https://negativespace.co/rustic-restaurant/",
+      "license": "CC0 1.0",
+    },
+    {
+      "filename": "3.png",
+      "source": "https://pxhere.com/fi/photo/1066618",
+      "license": "CC0 1.0",
+    },
+    {
+      "filename": "4.png",
+      "source": "https://www.rawpixel.com/image/3282419",
+      "license": "CC0 1.0",
+    }
+  ],
   "riikka purra": [
     {
       "filename": "1.jpeg",
@@ -329,7 +487,32 @@ const images = {
       "filename": "4.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:10_euro_banknotes_and_10_euro_cent_coins_20180207.jpg",
       "license": "CC BY-SA 4.0"
-    }
+    },
+    {
+      "filename": "5.png",
+      "source": "https://pxhere.com/fi/photo/859216",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "6.png",
+      "source": "https://mronline.org/2022/10/11/central-bank-myths-drag-down-world-economy/",
+      "license": "CC BY-ND 4.0"
+    },
+    {
+      "filename": "7.jpg",
+      "source": "https://www.internationaliststandpoint.org/inflation-debt-recession-the-crisis-of-the-capitalist-economy-rears-its-ugly-head/",
+      "license": "CC BY-ND 4.0"
+    },
+    {
+      "filename": "8.jpg",
+      "source": "https://www.agenzianova.com/en/news/Lazio-economy-grows-by-04-percent-driven-by-tourism-services-and-construction-decline/",
+      "license": "CC BY-ND 4.0"
+    },
+    {
+      "filename": "9.png",
+      "source": "https://www.goodfon.com/macro/wallpaper-coins-economy-paper.html",
+      "license": "CC BY-NC 4.0"
+    },
   ],
   "terveydenhuolto": [
     {
@@ -362,6 +545,18 @@ const images = {
       "license": "CC0 1.0"
     }
   ],
+  "vaalit": [
+    {
+      "filename": "1.png",
+      "source": "https://www.pexels.com/photo/ballot-box-with-person-casting-a-vote-7103191/",
+      "license": "CC0"
+    },
+    {
+      "filename": "2.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Election_voting_20190414.jpg",
+      "license": "CC BY-SA 4.0"
+    },
+  ],
   "venäjä": [
     {
       "filename": "1.jpeg",
@@ -372,7 +567,32 @@ const images = {
       "filename": "2.jpeg",
       "source": "https://www.sipa.columbia.edu/news/russia-confirms-yevgeny-prigozhin-died-plane-crash",
       "license": "CC0 1.0"
-    }
+    },
+    {
+      "filename": "3.png",
+      "source": "https://picryl.com/media/map-russia-flag-1796d2",
+      "license": "PDM 1.0"
+    },
+    {
+      "filename": "4.png",
+      "source": "https://www.goodfon.com/city/wallpaper-moscow-russia-kremlin-city-616.html",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "filename": "5.png",
+      "source": "https://www.pexels.com/photo/photograph-of-a-russia-flag-under-a-blue-sky-11875346/",
+      "license": "CC0"
+    },
+    {
+      "filename": "6.jpg",
+      "source": "https://www.pickpik.com/moscow-the-kremlin-river-navigation-kremlevskaya-embankment-dome-151604",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "7.png",
+      "source": "https://www.deviantart.com/think0/art/Russia-Grungy-Flag-111353394",
+      "license": "CC BY-ND 3.0"
+    },
   ],
   "vladimir putin": [
     {
