@@ -268,7 +268,7 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
-  "kala": [
+  "kalateollisuus": [
     {
       "filename": "1.png",
       "source": "https://pxhere.com/fi/photo/667758",
