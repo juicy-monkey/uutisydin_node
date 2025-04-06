@@ -71,9 +71,8 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
             )
             .slice(0, 3)
             .map(category => {
-                if (category === 'eu') {
-                    return 'EU'
-                }
+                if (category === 'eu') return 'EU'
+                if (category === 'fbi') return 'FBI'
                 return category.charAt(0).toUpperCase() + category.slice(1)
             })
 
@@ -88,8 +87,12 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
     const filteredClusters = clusters
         .filter((cluster) => cluster.relatedNews.length > 1)
         .filter((cluster) => {
-            // Filter out clusters that only have articles from is or iltalehti
-            return cluster.relatedNews.some(item => (item.publisherId !== 'is') && (item.publisherId !== 'iltalehti'))
+            // Filter out clusters that only have articles from is, iltalehti or ts
+            return cluster.relatedNews.some(item =>
+                item.publisherId !== 'is' &&
+                item.publisherId !== 'iltalehti' &&
+                item.publisherId !== 'ts'
+            );
         })
 
     const sortedClusters = filteredClusters.map(cluster => ({
