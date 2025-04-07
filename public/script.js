@@ -359,7 +359,7 @@ const images = {
       "license": "CC BY-NC-SA 2.0"
     }
   ],
-  "osakemarkkinat": [
+  "osakemarkkin": [
     {
       "filename": "1.jpg",
       "source": "https://cyprus-mail.com/2024/11/29/spooked-by-trade-tensions-global-stocks-to-deliver-tempered-gains-in-2025",
