@@ -45,7 +45,7 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
-  "benjamin netanjahu": [
+  "netanjahu": [
     {
       "filename": "1.jpeg",
       "source": "https://blogs.timesofisrael.com/netanyahu-and-israels-inflection-point/",
@@ -359,7 +359,7 @@ const images = {
       "license": "CC BY-NC-SA 2.0"
     }
   ],
-  "osakemarkkinat": [
+  "osakemarkkin": [
     {
       "filename": "1.jpg",
       "source": "https://cyprus-mail.com/2024/11/29/spooked-by-trade-tensions-global-stocks-to-deliver-tempered-gains-in-2025",
@@ -626,7 +626,7 @@ const images = {
       "license": "CC BY 4.0"
     }
   ],
-  "volodymyr zelenskyi": [
+  "zelensky": [
     {
       "filename": "1.jpeg",
       "source": "https://www.freemalaysiatoday.com/category/world/2025/03/24/zelensky-says-must-push-putin-to-stop-strikes-halt-invasion/",
