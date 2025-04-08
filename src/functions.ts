@@ -116,6 +116,7 @@ export const cosineSimilarity = (a: number[], b: number[]) => {
 
 export const generateClusterTitle = async (items: NewsItem[]) => {
     const texts = items.map((item) => `${item.title} - ${item.content}`)
+    const date = new Date().toLocaleDateString('de-DE');
 
     const completion: OpenAI.ChatCompletion = await openai.chat.completions.create({
         model: 'gpt-4o-mini',
@@ -127,6 +128,7 @@ export const generateClusterTitle = async (items: NewsItem[]) => {
                 content: `
                     Olet uutistoimittaja.
                     Sinulle annetaan vähintään kahden uutisartikkelin otsikko ja mahdollisesti niiden ingressi.
+                    Tämän hetkinen päivämäärä on ${date}, ja uutisartikkelit ovat viimeisen kahden päivän ajalta.
                     Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö yhdeksi ytimekkääksi, neutraaliksi otsikoksi, jossa on korkeintaan kuusi sanaa.
                     Otsikon tulee olla informatiivinen, ytimekäs ja uskollinen alkuperäiselle sisällölle.
                     Otsikon tulee olla hyvää suomenkieltä ja sanajärjestys on oltava kieliopillisesti oikein.
