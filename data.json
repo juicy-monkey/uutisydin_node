@@ -1,9 +1,105 @@
 {
-  "timestamp": "2025-04-09T09:50:00.166Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-04-09T10:19:06.035Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Saksan hallitusneuvottelut päättyivät onnistuneesti",
+      "mainCategories": [
+        "Ulkomaat",
+        "Saksa"
+      ],
+      "imageUrl": "/images/saksa/1.png",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Saksan hallitusneuvottelut saatu päätökseen",
+          "content": "Hallitusohjelma esitellään myöhemmin tänään.",
+          "date": "2025-04-09T10:18:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011157095.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Saksan hallitusneuvottelut on saatu päätökseen",
+          "content": "",
+          "date": "2025-04-09T10:01:54.000Z",
+          "categories": [
+            "saksa",
+            "saksan politiikka",
+            "friedrich merz",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20154915?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Reuters: Saksan hallitusneuvottelujen odotetaan ratkeavan alkuiltapäivästä",
+          "content": "",
+          "date": "2025-04-09T07:41:27.000Z",
+          "categories": [
+            "saksa",
+            "saksan politiikka",
+            "friedrich merz",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20154861?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Solidiumin uusi toimitusjohtaja aloittaa lokakuussa",
+      "mainCategories": [
+        "Talous",
+        "Nimitykset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Nimitykset | Valtion sijoitusyhtiölle uusi toimitusjohtaja Rettigistä",
+          "content": "Matts Rosenberg aloittaa Solidiumin toimitusjohtajana lokakuussa.",
+          "date": "2025-04-09T10:16:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011157042.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Solidiumille nimitettiin uusi toimitusjohtaja",
+          "content": "Uusi toimitusjohtaja aloittaa lokakuun alussa.",
+          "date": "2025-04-09T10:16:00.000Z",
+          "categories": [
+            "nimitykset"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/solidiumille-nimitettiin-uusi-toimitusjohtaja/a7ec598c-ccff-48dd-9cca-c6312d44717b"
+        }
+      ]
+    },
     {
       "mainTitle": "Trumpin tuontitullit aiheuttavat pörssilaskua",
       "mainCategories": [
@@ -13,6 +109,18 @@
       ],
       "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Ekonomisti: Trump ajoi Fedin ”pahimpaan mahdolliseen tilanteeseen” – KL seuraa",
+          "content": "Keskiviikkona Donald Trumpin tuontitullit astuivat voimaan. Euroopan pörssit ovat palanneet laskun tielle.",
+          "date": "2025-04-09T10:14:00.000Z",
+          "categories": [
+            "pörssi"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/ekonomisti-trump-ajoi-fedin-pahimpaan-mahdolliseen-tilanteeseen-kl-seuraa/3c4bb6ad-93f2-4cbc-bbad-7b2f08aeb7bc"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -89,12 +197,85 @@
       ]
     },
     {
-      "mainTitle": "Kiinalaisia sotilaita vangittu Venäjän riveiltä",
+      "mainTitle": "Aluevaalien ennakkoäänestys vilkastui selvästi",
+      "mainCategories": [
+        "Politiikka",
+        "Ennakkoäänestys",
+        "Vaalit"
+      ],
+      "imageUrl": "/images/vaalit/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ylen Sami Borg ennakkoäänistä: Aluevaalit hyötyvät vaalien niputtamisesta",
+          "content": "Ennakkoäänestyksen aluevaaleissa ennakoidaan olleen vilkkaampaa kuin edellisissä aluevaaleissa 2022. ",
+          "date": "2025-04-09T10:11:07.000Z",
+          "categories": [
+            "vaalit",
+            "alue- ja kuntavaalit 2025",
+            "ennakkoäänestys",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20154666?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kunta- ja aluevaalit | Ennakko­äänestys loppui: alle 30 prosenttia äänestänyt kunta­vaaleissa",
+          "content": "Aluevaaleissa annettiin vajaat 1,1 miljoonaa ja kuntavaaleissa vajaat 1,3 miljoonaa ääntä.",
+          "date": "2025-04-08T17:46:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011155659.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tiistai ollut selvästi vilkkain äänestyspäivä Oodi-kirjastossa – ennakkoäänestys päättyi",
+          "content": "Ennakkoäänestys on ollut aluevaaleissa edellisvaaleja vilkkaampaa.",
+          "date": "2025-04-08T16:31:12.000Z",
+          "categories": [
+            "vaalit",
+            "ennakkoäänestys",
+            "alue- ja kuntavaalit 2025",
+            "helsinki",
+            "politiikka",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20154718?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Aluevaalien ennakkoäänestys on ollut vilkkaampaa kuin viime kerralla",
+          "content": "Alue- ja kuntavaalien ennakkoäänestys päättyy tänään tiistaina. Ennakkoäänestyksen loppusuoralla aluevaaleissa on käyty innokkaammin uurnilla kuin vastaavaan aikaan vuonna 2022.",
+          "date": "2025-04-08T08:45:33.000Z",
+          "categories": [
+            "politiikka",
+            "ennakkoäänestys",
+            "aluevaalit",
+            "kuntavaalit",
+            "äänioikeus",
+            "alue- ja kuntavaalit 2025"
+          ],
+          "link": "https://yle.fi/a/74-20154593?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kiinalaisia sotilaita vangittu Ukrainassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/1.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -297,120 +478,6 @@
       ]
     },
     {
-      "mainTitle": "Trumpin tullit aiheuttavat pörssiromahduksen",
-      "mainCategories": [
-        "Talous",
-        "Kauppasodat",
-        "Keskuspankit"
-      ],
-      "imageUrl": "/images/talous/9.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Yksi graafi näyttää: Näin pahasti Trump järkytti markkinoita – KL seuraa",
-          "content": "Keskiviikkona Donald Trumpin tuontitullit astuivat voimaan. Euroopan pörssit ovat palanneet laskun tielle.",
-          "date": "2025-04-09T09:35:00.000Z",
-          "categories": [
-            "pörssi"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/yksi-graafi-nayttaa-nain-pahasti-trump-jarkytti-markkinoita-kl-seuraa/3c4bb6ad-93f2-4cbc-bbad-7b2f08aeb7bc"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Wall Streetin pörsseissä täys­käännös – syynä Trumpin tyly ilmoitus",
-          "content": "Pörssipäivä alkoi nousussa, mutta ilmoitus Kiina-tulleista käänsi suunnan.",
-          "date": "2025-04-08T20:30:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011155865.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Joko pörssien nousukiito kohta alkaa? Älä pidätä hengitystäsi",
-          "content": "Asiantuntijoiden mukaan pörssissä nähdään vielä laskua, jos Yhdysvallat menee taantumaan.",
-          "date": "2025-04-08T16:15:46.000Z",
-          "categories": [
-            "talous",
-            "kauppasodat",
-            "donald trump",
-            "keskuspankit",
-            "osakkeet ja arvopaperit",
-            "kiina"
-          ],
-          "link": "https://yle.fi/a/74-20154641?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin pörssit rytisivät tänään – Trump-show on sysännyt Helsingin pörssin isoimpaan pudotukseen sitten koronatalven",
-          "content": "Aasiassa puhuttiin jo ”mustasta maanantaista”. Helsingin pörssi putosi alimmalle tasolle sitten koronakevään.",
-          "date": "2025-04-07T17:01:30.000Z",
-          "categories": [
-            "talous",
-            "pörssit",
-            "helsingin pörssi",
-            "donald trump",
-            "yle uutiset somenostot"
-          ],
-          "link": "https://yle.fi/a/74-20154417?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Trumpin tullit iskevät ankarimmin Aasiaan – ja Kiina näkee mahdolli­suutensa koittaneen",
-          "content": "Maanantain pörssiromahdus muistuttaa siitä, että Aasia voi imaista muun maailman mukanaan taantumaan, kirjoittaa Ylen Aasian-kirjeenvaihtaja Mika Hentunen. ",
-          "date": "2025-04-07T14:20:53.000Z",
-          "categories": [
-            "talous",
-            "donald trump",
-            "kauppasodat",
-            "osakemarkkinat",
-            "aasia",
-            "aasian pörssit",
-            "aasian taloudet",
-            "kiinan talous",
-            "kiina",
-            "bangladesh",
-            "vietnam",
-            "yhdysvaltain dollari",
-            "yhdysvaltain talous",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20154282?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asuntolainojen korot laskuun – analyytikko: Mitä pidempään Trumpin tullit jatkuvat, sitä enemmän korot laskevat",
-          "content": "Trumpin kaaoksessa on pieni hopeareunus asuntovelallisille: korot laskevat. Se ei silti ole hyvä uutinen, toteaa ekonomisti.",
-          "date": "2025-04-07T11:54:30.000Z",
-          "categories": [
-            "talous",
-            "korko",
-            "rahapolitiikka",
-            "euroopan keskuspankki",
-            "asuntolainat",
-            "donald trump",
-            "keskuspankit",
-            "markkinat",
-            "asuntolainan korko",
-            "asuminen"
-          ],
-          "link": "https://yle.fi/a/74-20154316?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kauppasota vaikuttaa suomalaisiin sijoittajiin",
       "mainCategories": [
         "Suomi",
@@ -445,12 +512,12 @@
       ]
     },
     {
-      "mainTitle": "Trumpin vaikutus pörssiromahdukseen kasvaa",
+      "mainTitle": "Trumpin vaikutus osakemarkkinoiden kriisiin",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/9.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -475,19 +542,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011153154.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Todistammeko parhaillaan maailmanhistorian turhinta pörssiromahdusta?",
-          "content": "Trump ajaa maailmantaloutta syvään lamaan. Se on alkanut hermostuttaa jo hänen rikkaimpia tukijoitaan. Riittäisikö se lopettamaan tämän hulluuden? kysyy HS:n taloustoimituksen esihenkilö Joonas Laitinen.",
-          "date": "2025-04-07T09:59:00.000Z",
-          "categories": [
-            "tilaajille",
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011150989.html"
         }
       ]
     },
@@ -498,7 +552,7 @@
         "Yhdysvallat",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/donald trump/2.jpg",
+      "imageUrl": "/images/donald trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -687,7 +741,7 @@
       ]
     },
     {
-      "mainTitle": "SDP:n etumatka kasvanut vaalikeskusteluissa",
+      "mainTitle": "SDP:n kannatus kasvaa vaalitaistossa",
       "mainCategories": [
         "Vaalit",
         "Aluevaalit",
@@ -714,16 +768,6 @@
           "link": "https://yle.fi/a/74-20154836?origin=rss"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kantaako SDP:n gallup-suosio kokoomuksesta ohi? Kalevan vaalipodcast arvioi puolueiden asemia",
-          "content": "Kalevan Pohdetta ja politiikkaa seuraavat toimittajat Mirja Niemitalo ja Ville Koivuniemi arvioivat kevään vaalien asetelmia podcastissa.",
-          "date": "2025-04-09T07:30:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kantaako-sdpn-gallup-suosio-kokoomuksesta-ohi-kale/11584038?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
@@ -734,16 +778,6 @@
             "kannatusmittaukset"
           ],
           "link": "https://www.ts.fi/uutiset/6620760"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "HS-gallup: SDP:n etumatka kokoomukseen kasvanut",
-          "content": "SDP lähtee suosituimpana puolueena kunta- ja aluevaaleihin, kertoo HS-gallup. SDP:n etumatka toisena olevaan kokoomukseen kasvoi molempien vaalien osalta hieman maaliskuun mittauksesta.",
-          "date": "2025-04-08T09:13:41.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hs-gallup-sdpn-etumatka-kokoomukseen-kasvanut/11585818?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -754,7 +788,7 @@
         "Talous",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/donald trump/2.jpg",
+      "imageUrl": "/images/donald trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -841,7 +875,7 @@
       ]
     },
     {
-      "mainTitle": "Suomalaisen peruskoulun arvostus laskenut merkittävästi",
+      "mainTitle": "Suomalaiset vaativat kouluihin kuria ja järjestystä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -852,7 +886,7 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Lohduton arvio suomalaisesta peruskoulusta",
+          "title": "Kysely: Suomalaiset haluavat kouluihin kuria ja järjestystä",
           "content": "Enää alle puolet uskoo suomalaisen peruskoulun olevan maailman paras, käy ilmi Evan tuoreesta kyselystä.",
           "date": "2025-04-09T08:25:00.000Z",
           "categories": [
@@ -881,7 +915,7 @@
         "Vaalit",
         "Kotimaa"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -941,43 +975,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20154314?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomen riistakeskus testaa karhuturvallisia jäteastioita",
-      "mainCategories": [
-        "Eläimet",
-        "Jätehuolto",
-        "Karhut"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suomen riistakeskus testaa karhuturvallisia jäteastioita – lue vinkit karhuturvalliseen pihaan",
-          "content": "",
-          "date": "2025-04-09T08:09:23.000Z",
-          "categories": [
-            "karhut"
-          ],
-          "link": "https://www.ts.fi/uutiset/6621834"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomen riistakeskus testaa karhuturvallisia jäteastioita",
-          "content": "",
-          "date": "2025-04-09T07:14:59.000Z",
-          "categories": [
-            "eläimet",
-            "suomen riistakeskus",
-            "jätehuolto"
-          ],
-          "link": "https://yle.fi/a/74-20154851?origin=rss"
         }
       ]
     },
@@ -1074,7 +1071,7 @@
       ]
     },
     {
-      "mainTitle": "Jämsässä ja Mäntyharjulla kuolemantapauksia tulipaloissa",
+      "mainTitle": "Jämsässä omakotitalopalossa kaksi kuollutta",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -1097,23 +1094,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20154850?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Palaneesta pakettiautosta löytyi kuollut henkilö Mäntyharjulla",
-          "content": "Hätäkeskus sai ilmoituksen autopalosta Mäntyharjulla tiistai-iltana.",
-          "date": "2025-04-08T17:58:31.000Z",
-          "categories": [
-            "onnettomuudet",
-            "mäntyharju",
-            "tulipalot",
-            "itä-suomen poliisilaitos",
-            "etelä-savo",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20154782?origin=rss"
         },
         {
           "publisherId": "is",
@@ -1183,13 +1163,12 @@
       ]
     },
     {
-      "mainTitle": "Kuntavaalien ennakkoäänestys vilkastui Lapissa",
+      "mainTitle": "Kuntavaalien ennakkoäänestys vilkasta Lapissa",
       "mainCategories": [
         "Politiikka",
-        "Ennakkoäänestys",
         "Äänestäminen"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1203,53 +1182,6 @@
             "äänestäminen"
           ],
           "link": "https://yle.fi/a/74-20154857?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kunta- ja aluevaalit | Ennakko­äänestys loppui: alle 30 prosenttia äänestänyt kunta­vaaleissa",
-          "content": "Aluevaaleissa annettiin vajaat 1,1 miljoonaa ja kuntavaaleissa vajaat 1,3 miljoonaa ääntä.",
-          "date": "2025-04-08T17:46:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011155659.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tiistai ollut selvästi vilkkain äänestyspäivä Oodi-kirjastossa – ennakkoäänestys päättyi",
-          "content": "Ennakkoäänestys on ollut aluevaaleissa edellisvaaleja vilkkaampaa.",
-          "date": "2025-04-08T16:31:12.000Z",
-          "categories": [
-            "vaalit",
-            "ennakkoäänestys",
-            "alue- ja kuntavaalit 2025",
-            "helsinki",
-            "politiikka",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20154718?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Aluevaalien ennakkoäänestys on ollut vilkkaampaa kuin viime kerralla",
-          "content": "Alue- ja kuntavaalien ennakkoäänestys päättyy tänään tiistaina. Ennakkoäänestyksen loppusuoralla aluevaaleissa on käyty innokkaammin uurnilla kuin vastaavaan aikaan vuonna 2022.",
-          "date": "2025-04-08T08:45:33.000Z",
-          "categories": [
-            "politiikka",
-            "ennakkoäänestys",
-            "aluevaalit",
-            "kuntavaalit",
-            "äänioikeus",
-            "alue- ja kuntavaalit 2025"
-          ],
-          "link": "https://yle.fi/a/74-20154593?origin=rss"
         },
         {
           "publisherId": "is",
@@ -1307,7 +1239,7 @@
       ]
     },
     {
-      "mainTitle": "KHO: Alaikäinen sotarikollinen ei saa turvapaikkaa",
+      "mainTitle": "KHO: Alaikäiselle Taleban-sotilaalle ei turvapaikkaa",
       "mainCategories": [
         "Oikeus",
         "Turvapaikanhaku",
@@ -1326,16 +1258,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011156180.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "KHO: Talebanissa alaikäisenä sotarikoksia tehneelle ei voitu antaa turvapaikkaa Suomesta",
-          "content": "Äärijärjestö Talebanin jäsenenä sotarikoksia tehneelle miehelle ei voitu antaa turvapaikkaa Suomesta. Näin katsoo korkein hallinto-oikeus (KHO) tuoreessa ennakkopäätöksessään.",
-          "date": "2025-04-08T10:12:45.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kho-talebanissa-alaikaisena-sotarikoksia-tehneelle/11585955?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -1362,7 +1284,7 @@
       ]
     },
     {
-      "mainTitle": "Kotkan kuutti itsenäistyi ja palasi mereen",
+      "mainTitle": "Kotkan kuutti itsenäistyi uimarannalla",
       "mainCategories": [
         "Kotimaa",
         "Luonto",
@@ -1439,7 +1361,7 @@
       ]
     },
     {
-      "mainTitle": "Yökerhon katon romahdus Dominikaanisessa tasavallassa",
+      "mainTitle": "Yökerhon katon romahdus vaati lähes 100 kuolonuhria",
       "mainCategories": [
         "Ulkomaat",
         "Onnettomuudet",
@@ -1486,39 +1408,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20154791?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin toimet voivat nostaa Suomelle kustannuksia",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "/images/donald trump/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Donald Trump voi aiheuttaa jättilaskun Suomelle – Häkkänen: ”Vakava kysymys”",
-          "content": "Antti Häkkänen kertoo Iltalehdelle, miten geopoliittiset riskit heijastuvat Suomen hävittäjähankintaan. Samalla hän kertoo, oliko keskustelua herättänyt Nato-kirjoitus piikki Petteri Orpolle.  Puolustusministeri Antti Häkkäsen (kok) mukaan Donald Trumpin ja muun maailman välisen tullisodan vaikutuksia F-35-hävittäjähankinnan hintaan pitää seurata ”millintarkasti”. Häkkäsen mukaan tarkkana pitää olla, koska kymmenen miljardin euron hankinta on niin suuri.",
-          "date": "2025-04-09T04:30:39.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/9ea4ae62-e106-4cf1-b0fc-adeec4d19a6f"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Nato | Yhdysvallat harkitsee joukkojen vetämistä Itä-Euroopasta – ”Sitä retoriikkaa, mikä kuuluu Trumpin hallintoon”",
-          "content": "Kansanedustaja Tomi Immosen mukaan Yhdysvaltojen harkinta on otettava vakavasti, mutta suurta uhkaa ei ole.",
-          "date": "2025-04-08T16:10:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011155241.html"
         }
       ]
     },
@@ -1593,7 +1482,7 @@
       ]
     },
     {
-      "mainTitle": "Kouvolassa ja Kuopiossa vakavia onnettomuuksia",
+      "mainTitle": "Kouvolassa juna törmäsi henkilöautoon",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -1650,7 +1539,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysvallat/3.jpg",
+      "imageUrl": "/images/yhdysvallat/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1685,7 +1574,7 @@
         "Tullit",
         "Venäjä"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1774,61 +1663,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011155894.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sote-keskusten lakkautukset ja irtisanomiset kasvavat",
-      "mainCategories": [
-        "Hyvinvointialueet",
-        "Satakunta",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/vaalit/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Nämä sote-keskukset Pohde lakkautti valtuutettujen lupauksista huolimatta – Asiantuntijoilta heruu ymmärrystä",
-          "content": "Pohjois-Pohjanmaan hyvinvointialueella tehtiin aluevaltuuston kaudella 2022–2025 useita leikkauksia palveluverkkoon. Siikajoenkylällä, Yli-Iissä, Kuivaniemellä, Merijärvellä, Ylikiimingissä ja Alavieskassa toimipisteitä on laitettu kiinni kokonaan.",
-          "date": "2025-04-09T02:00:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/nama-sote-keskukset-pohde-lakkautti-valtuutettujen/11584087?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Tuore alivaltiosihteeri: Hyvinvointialueiden määrää vähennettävä",
-          "content": "",
-          "date": "2025-04-08T16:30:00.000Z",
-          "categories": [
-            "aluevaalit"
-          ],
-          "link": "https://www.ts.fi/teemat/6585214"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Satakunnan aluehallitus siirtää päätöksen isoista irtisanomisista vaalien yli – potkujen määrä kasvamassa",
-          "content": "Aluehallituksen toinen vara­puheenjohtaja Juha Korkeaoja (kesk.) kertoo, että aluehallituksen saamista asiakirjoista ei käynyt ilmi kaikkia muutosten vaikutuksia palveluihin.",
-          "date": "2025-04-08T13:48:43.000Z",
-          "categories": [
-            "hyvinvointialueet",
-            "satakunnan hyvinvointialue",
-            "aluevaalit 2025",
-            "alue- ja kuntavaalit 2025",
-            "sosiaali- ja terveyspalvelut",
-            "lomautukset ja irtisanomiset",
-            "yt-neuvottelut",
-            "satakunta",
-            "kotimaa",
-            "terveys",
-            "sairaalat ja terveyskeskukset"
-          ],
-          "link": "https://yle.fi/a/74-20154739?origin=rss"
         }
       ]
     },
@@ -1939,7 +1773,109 @@
       ]
     },
     {
-      "mainTitle": "YK vaatii apua Gazaan Israelin toimista huolimatta",
+      "mainTitle": "Pörssit laskussa Trumpin tullien vuoksi",
+      "mainCategories": [
+        "Talous",
+        "Kauppasodat",
+        "Keskuspankit"
+      ],
+      "imageUrl": "/images/talous/9.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Wall Streetin pörsseissä täys­käännös – syynä Trumpin tyly ilmoitus",
+          "content": "Pörssipäivä alkoi nousussa, mutta ilmoitus Kiina-tulleista käänsi suunnan.",
+          "date": "2025-04-08T20:30:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011155865.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Joko pörssien nousukiito kohta alkaa? Älä pidätä hengitystäsi",
+          "content": "Asiantuntijoiden mukaan pörssissä nähdään vielä laskua, jos Yhdysvallat menee taantumaan.",
+          "date": "2025-04-08T16:15:46.000Z",
+          "categories": [
+            "talous",
+            "kauppasodat",
+            "donald trump",
+            "keskuspankit",
+            "osakkeet ja arvopaperit",
+            "kiina"
+          ],
+          "link": "https://yle.fi/a/74-20154641?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Näin pörssit rytisivät tänään – Trump-show on sysännyt Helsingin pörssin isoimpaan pudotukseen sitten koronatalven",
+          "content": "Aasiassa puhuttiin jo ”mustasta maanantaista”. Helsingin pörssi putosi alimmalle tasolle sitten koronakevään.",
+          "date": "2025-04-07T17:01:30.000Z",
+          "categories": [
+            "talous",
+            "pörssit",
+            "helsingin pörssi",
+            "donald trump",
+            "yle uutiset somenostot"
+          ],
+          "link": "https://yle.fi/a/74-20154417?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Trumpin tullit iskevät ankarimmin Aasiaan – ja Kiina näkee mahdolli­suutensa koittaneen",
+          "content": "Maanantain pörssiromahdus muistuttaa siitä, että Aasia voi imaista muun maailman mukanaan taantumaan, kirjoittaa Ylen Aasian-kirjeenvaihtaja Mika Hentunen. ",
+          "date": "2025-04-07T14:20:53.000Z",
+          "categories": [
+            "talous",
+            "donald trump",
+            "kauppasodat",
+            "osakemarkkinat",
+            "aasia",
+            "aasian pörssit",
+            "aasian taloudet",
+            "kiinan talous",
+            "kiina",
+            "bangladesh",
+            "vietnam",
+            "yhdysvaltain dollari",
+            "yhdysvaltain talous",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20154282?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Asuntolainojen korot laskuun – analyytikko: Mitä pidempään Trumpin tullit jatkuvat, sitä enemmän korot laskevat",
+          "content": "Trumpin kaaoksessa on pieni hopeareunus asuntovelallisille: korot laskevat. Se ei silti ole hyvä uutinen, toteaa ekonomisti.",
+          "date": "2025-04-07T11:54:30.000Z",
+          "categories": [
+            "talous",
+            "korko",
+            "rahapolitiikka",
+            "euroopan keskuspankki",
+            "asuntolainat",
+            "donald trump",
+            "keskuspankit",
+            "markkinat",
+            "asuntolainan korko",
+            "asuminen"
+          ],
+          "link": "https://yle.fi/a/74-20154316?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "YK vaatii apua Gazaan Israelilta",
       "mainCategories": [
         "Ulkomaat",
         "Yk",
@@ -2147,7 +2083,7 @@
         "Sijoittaminen",
         "Sijoittajat"
       ],
-      "imageUrl": "/images/talous/1.jpg",
+      "imageUrl": "/images/talous/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2189,7 +2125,7 @@
         "Ennakkoäänestys",
         "Vaalit"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -2242,6 +2178,51 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011153078.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hyvinvointialueiden määrää ehdotetaan vähennettäväksi",
+      "mainCategories": [
+        "Hyvinvointialueet",
+        "Satakunta",
+        "Kotimaa"
+      ],
+      "imageUrl": "/images/vaalit/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Tuore alivaltiosihteeri: Hyvinvointialueiden määrää vähennettävä",
+          "content": "",
+          "date": "2025-04-08T16:30:00.000Z",
+          "categories": [
+            "aluevaalit"
+          ],
+          "link": "https://www.ts.fi/teemat/6585214"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Satakunnan aluehallitus siirtää päätöksen isoista irtisanomisista vaalien yli – potkujen määrä kasvamassa",
+          "content": "Aluehallituksen toinen vara­puheenjohtaja Juha Korkeaoja (kesk.) kertoo, että aluehallituksen saamista asiakirjoista ei käynyt ilmi kaikkia muutosten vaikutuksia palveluihin.",
+          "date": "2025-04-08T13:48:43.000Z",
+          "categories": [
+            "hyvinvointialueet",
+            "satakunnan hyvinvointialue",
+            "aluevaalit 2025",
+            "alue- ja kuntavaalit 2025",
+            "sosiaali- ja terveyspalvelut",
+            "lomautukset ja irtisanomiset",
+            "yt-neuvottelut",
+            "satakunta",
+            "kotimaa",
+            "terveys",
+            "sairaalat ja terveyskeskukset"
+          ],
+          "link": "https://yle.fi/a/74-20154739?origin=rss"
         }
       ]
     },
@@ -2300,7 +2281,7 @@
       ]
     },
     {
-      "mainTitle": "17-vuotiaiden ajokorttien myöntämisen tarkistukset",
+      "mainTitle": "17-vuotiaiden ajokorttien myöntämisen kriteerit muuttuvat",
       "mainCategories": [
         "Liikenne",
         "Nuoret",
@@ -2347,29 +2328,17 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011153391.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Liikenne | Asiantuntija: ”Poikkeus­luvan saaminen on nykyään niin helppoa, ettei se enää ole poikkeus­lupa”",
-          "content": "17-vuotiaille myönnettävät poikkeusluvat ovat yleistyneet vuoden 2018 ajokorttilain uudistuksen jälkeen odotettua enemmän.",
-          "date": "2025-04-07T09:56:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011150366.html"
         }
       ]
     },
     {
-      "mainTitle": "Miljardöörit menettäneet varoja Trumpin vuoksi",
+      "mainTitle": "Musk, Bezos ja Zuckerberg köyhtyivät Trumpin vuoksi",
       "mainCategories": [
         "Talous",
         "Ulkomaat",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/elon musk/5.jpg",
+      "imageUrl": "/images/elon musk/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2397,18 +2366,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011152336.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pörssi | Trumpin kolme rikkainta tukijaa köyhtyneet alku­vuonna jo yli 200 miljardia dollaria",
-          "content": "Elon Muskin omaisuuden arvo on vähentynyt alkuvuonna 130 miljardia dollaria.",
-          "date": "2025-04-07T10:12:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011150854.html"
         }
       ]
     },
@@ -2419,7 +2376,7 @@
         "Pörssit",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/9.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2537,7 +2494,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2572,7 +2529,7 @@
         "Yhdysvallat",
         "Karkotus"
       ],
-      "imageUrl": "/images/donald trump/5.jpg",
+      "imageUrl": "/images/donald trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2654,7 +2611,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/5.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2683,7 +2640,7 @@
       ]
     },
     {
-      "mainTitle": "Trumpin Iran-neuvottelut herättävät kiistoja",
+      "mainTitle": "Iran tyrmäsi Trumpin neuvotteluväitteet",
       "mainCategories": [
         "Ulkomaat",
         "Israel",
@@ -2757,25 +2714,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011152906.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trumpin ja Netanjahun lehdistötilaisuus peruttu – syy tuntematon",
-          "content": "Lehtitietojen mukaan Netanjahu aikoi puhua Trumpille erityisesti Iranin ydinohjelmasta.",
-          "date": "2025-04-07T17:24:44.000Z",
-          "categories": [
-            "yhdysvallat",
-            "lehdistötilaisuus",
-            "ulkomaat",
-            "israel",
-            "donald trump",
-            "benjamin netanjahu",
-            "lähi-itä",
-            "gazan kaista"
-          ],
-          "link": "https://yle.fi/a/74-20154535?origin=rss"
         }
       ]
     },
@@ -2786,7 +2724,7 @@
         "Palvelunestohyökkäys",
         "Hakkerit"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2816,60 +2754,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011153918.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Venäjä-mieliseltä ryhmältä palvelunestohyökkäyksiä vaalisivustoille ja puolueiden sivuille – \"Pullistelua\", sanoo asiantuntija",
-          "content": "Suomalaisille sivustoille on kohdistunut tänään palvelunestohyökkäyksiä, joiden tekijäksi on ilmoittautunut Venäjä-mielinen haktivistiryhmä NoName057(16).",
-          "date": "2025-04-08T10:18:53.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/venaja-mieliselta-ryhmalta-palvelunestohyokkayksia/11586038?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Metsähallitus sulkee autiotupien kamiinat",
-      "mainCategories": [
-        "Kotimaa",
-        "Metsähallitus"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kamiinan alle viritetyt tulet olleet lähellä polttaa autiotupia – Metsähallitus sulkee kamiinoiden alalokerot pysyvästi",
-          "content": "Autiotupien käyttäjät ovat virittäneet tulia virheellisesti kamiinoiden alle. Metsähallitus on päätynyt vaaratilanteiden vuoksi poistamaan useita autiotupien tulipesiä pois käytöstä.",
-          "date": "2025-04-08T09:34:44.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kamiinan-alle-viritetyt-tulet-olleet-lahella-poltt/11584539?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Joku sytytti autiotuvan kamiinan täysin väärin – Metsähallitus muistuttaa tulenkäytön riskeistä",
-          "content": "",
-          "date": "2025-04-08T09:18:56.000Z",
-          "categories": [
-            "metsähallitus"
-          ],
-          "link": "https://www.ts.fi/uutiset/6619772"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Retkeilijät eivät osaa sytyttää tulia kamiinaan – Metsähallitus puuttuu asiaan",
-          "content": "Metsähallitus aikoo peukaloida autiotupien kamiinoita, koska retkeilijät sytyttävät tulia kamiinoiden vääriin osiin.",
-          "date": "2025-04-08T06:32:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011153169.html"
         }
       ]
     },
@@ -2952,7 +2836,7 @@
         "Työmarkkinat",
         "Lakot"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -3010,13 +2894,13 @@
       ]
     },
     {
-      "mainTitle": "Manna & Co hakeutui konkurssiin",
+      "mainTitle": "Finlaysonin ja Vallilan emoyhtiö konkurssiin",
       "mainCategories": [
         "Talous",
         "Konkurssi",
         "Pirkanmaa"
       ],
-      "imageUrl": "/images/talous/5.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -3041,16 +2925,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011153543.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "HS: Finlaysonin, Makian, Lexingtonin ja Vallilan emoyhtiö konkurssiin",
-          "content": "Osakkeenomistajat ovat hakeneet bränditalo Manna & Co Oy:n konkurssiin, kertoo Helsingin Sanomat. Manna & Co perustettiin vuonna 2021, kun kodintekstiiliyhtiö Finlayson, vaateyhtiö Makia ja sisustus- ja tekstiilialan yritys Vallila Interior yhdistyivät.",
-          "date": "2025-04-08T07:18:13.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hs-finlaysonin-makian-lexingtonin-ja-vallilan-emoy/11585652?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -3154,51 +3028,7 @@
       ]
     },
     {
-      "mainTitle": "Rikostutkintoja tekoälyllä tuotetusta lapsimateriaalista",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Suomessa on aloitettu rikostutkintoja tekoälyllä tuotetusta lasten hyväksikäyttömateriaalista – \"Sitä ei missään nimessä pitäisi olla olemassa\"",
-          "content": "Suomessa on aloitettu useita rikostutkintoja, jotka liittyvät tekoälyllä tuotettuun lasten hyväksikäyttömateriaaliin. Keskusrikospoliisin (KRP) mukaan tutkinnoissa eri puolilla Suomea on tehty kiinniottoja, kotietsintöjä sekä takavarikoita.",
-          "date": "2025-04-08T05:48:17.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/suomessa-on-aloitettu-rikostutkintoja-tekoalylla-t/11585347?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Suomessa aloitettu rikos­tutkintoja teko­älyllä tuotetusta lasten hyväksikäyttö­materiaalista",
-          "content": "Vaikka materiaalissa ei olisi todellista uhria, se on silti haitallista ja normalisoi lapsiin kohdistuvaa seksuaaliväkivaltaa, sanoo asiantuntija.",
-          "date": "2025-04-08T04:59:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011153166.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rikosepäilyt | Suomessa aloitettu rikostutkintoja tekoälyllä tuotetusta lasten hyväksikäyttö­materiaalista",
-          "content": "Keskusrikospoliisin mukaan tutkinnoissa eri puolilla Suomea on tehty kiinniottoja, kotietsintöjä sekä takavarikoita.",
-          "date": "2025-04-08T04:16:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011153126.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Etelä-Korean presidentinvaalit kesäkuussa 2025",
+      "mainTitle": "Etelä-Koreassa presidentinvaalit kesäkuussa 2025",
       "mainCategories": [
         "Ulkomaat",
         "Vaalit",
@@ -3249,6 +3079,40 @@
       ]
     },
     {
+      "mainTitle": "Suomessa tutkitaan tekoälyllä tuotettua lasten hyväksikäyttömateriaalia",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suomessa aloitettu rikos­tutkintoja teko­älyllä tuotetusta lasten hyväksikäyttö­materiaalista",
+          "content": "Vaikka materiaalissa ei olisi todellista uhria, se on silti haitallista ja normalisoi lapsiin kohdistuvaa seksuaaliväkivaltaa, sanoo asiantuntija.",
+          "date": "2025-04-08T04:59:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011153166.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Suomessa aloitettu rikostutkintoja tekoälyllä tuotetusta lasten hyväksikäyttö­materiaalista",
+          "content": "Keskusrikospoliisin mukaan tutkinnoissa eri puolilla Suomea on tehty kiinniottoja, kotietsintöjä sekä takavarikoita.",
+          "date": "2025-04-08T04:16:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011153126.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Kiina vastaa Yhdysvaltojen tulliuhkille",
       "mainCategories": [
         "Taloussanomat"
@@ -3285,7 +3149,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -3354,7 +3218,7 @@
         "Talous",
         "Tullit"
       ],
-      "imageUrl": "/images/yhdysvallat/1.jpg",
+      "imageUrl": "/images/yhdysvallat/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -3478,12 +3342,12 @@
       ]
     },
     {
-      "mainTitle": "Saksan ministeriltä kritiikki Elon Muskille",
+      "mainTitle": "EU valmistelee vastatoimia Yhdysvaltojen tulleille",
       "mainCategories": [
         "Politiikka",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/saksa/2.jpg",
+      "imageUrl": "/images/saksa/1.png",
       "relatedNews": [
         {
           "publisherId": "is",
