@@ -1,11 +1,47 @@
 {
-  "timestamp": "2025-04-10T04:53:25.938Z",
+  "timestamp": "2025-04-10T05:15:44.307Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Kokoomus ja SDP tiukassa vaalitaistossa",
+      "mainTitle": "Ulkoministeri Valtonen vierailee Washingtonissa",
+      "mainCategories": [
+        "Politiikka",
+        "Yhdysvallat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ulkoministeri Valtonen tapaa Yhdysvaltain ulkoministeri Rubion",
+          "content": "Valtonen käy keskusteluja myös Yhdysvaltojen hallinnon ja kongressin edustajien kanssa.",
+          "date": "2025-04-10T05:13:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011158645.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ulkoministeri Elina Valtonen vierailee tänään Washingtonissa",
+          "content": "",
+          "date": "2025-04-10T04:57:11.000Z",
+          "categories": [
+            "politiikka",
+            "elina valtonen",
+            "yhdysvallat"
+          ],
+          "link": "https://yle.fi/a/74-20155082?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kokoomus ja SDP lähes tasoissa vaaleissa",
       "mainCategories": [
         "Politiikka",
         "Kuntavaalit",
@@ -13,6 +49,18 @@
       ],
       "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle-gallup: Kokoomus kirii Sdp:tä kiinni",
+          "content": "Kärkikaksikko on lähes tasoissa.",
+          "date": "2025-04-10T05:06:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011158571.html"
+        },
         {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
@@ -48,18 +96,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011158578.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle-gallup: Kokoomus kirii Sdp:tä kiinni",
-          "content": "Kärkikaksikko on lähes tasoissa.",
-          "date": "2025-04-10T03:35:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011158571.html"
         },
         {
           "publisherId": "yle",
@@ -142,60 +178,80 @@
       ]
     },
     {
-      "mainTitle": "Trump lykkäsi tullit, pörssit nousussa",
+      "mainTitle": "Euroopan pörssit avautuivat nousuun",
       "mainCategories": [
-        "Taloussanomat",
-        "Pörssi"
+        "Talous",
+        "Pörssit",
+        "Tariffit"
       ],
-      "imageUrl": "/images/talous/2.jpg",
+      "imageUrl": "/images/talous/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Euroopan pörsseihin odotetaan reipasta nousupäivää",
+          "content": "Euroalueen pörssien futuurit olivat torstaiaamuna kahdeksan prosentin nousussa.",
+          "date": "2025-04-10T04:58:49.000Z",
+          "categories": [
+            "talous",
+            "euroopan pörssit",
+            "pörssit",
+            "tariffit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20155083?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Euroopan pörssit sulkeutuivat muutaman prosentin laskuun",
+          "content": "",
+          "date": "2025-04-09T16:38:06.000Z",
+          "categories": [
+            "talous",
+            "pörssit",
+            "euroopan pörssit",
+            "laskevat pörssikurssit",
+            "helsingin pörssi",
+            "frankfurtin pörssi"
+          ],
+          "link": "https://yle.fi/a/74-20155048?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Euroopan pörssit avautuivat nousuun eilisen sukelluksen jälkeen",
+          "content": "Helsingin pörssi avautui tänään eilistä valoisammissa tunnelmissa. Helsingin pörssin yleisindeksi oli heti kello kymmenen jälkeen lähes kahden prosentin nousussa.",
+          "date": "2025-04-08T08:21:16.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/euroopan-porssit-avautuivat-nousuun-eilisen-sukell/11585693?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin tullit aiheuttavat globaaleja vaikutuksia",
+      "mainCategories": [
+        "Talous",
+        "Tullit",
+        "Yhdysvallat"
+      ],
+      "imageUrl": "/images/donald trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
           "publisher": "Kauppalehti",
           "publisherUrl": "kauppalehti.fi",
-          "title": "Trumpin tullilykkäys sai Wall Streetin riemastumaan, myös Aasian pörsseissä kovaa nousua – KL seuraa",
-          "content": "Donald Trumpin kertoi keskiviikkona 90 päivän lykkäyksestä vastavuoroisiin tuontitulleihin. Kiina jäi lykkäyksen ulkopuolelle.",
-          "date": "2025-04-10T04:46:00.000Z",
+          "title": "Trump lykkäsi tulleja, mutta mitä siitä seuraa? – Tässä 3 tärkeintä asiaa kauppasodasta juuri nyt",
+          "content": "Trump lykkää laajoja tuontitulleja 90 päivällä. Kiinan tuontitullit nostettiin 125 prosenttiin. Kauppalehti koosti kolme tärkeintä pointtia keskiviikon markkinapäivästä.",
+          "date": "2025-04-10T04:58:00.000Z",
           "categories": [
-            "pörssi"
+            "sijoittaminen"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/trumpin-tullilykkays-sai-wall-streetin-riemastumaan-myos-aasian-porsseissa-kovaa-nousua-kl-seuraa/3c4bb6ad-93f2-4cbc-bbad-7b2f08aeb7bc"
+          "link": "https://www.kauppalehti.fi/uutiset/trump-lykkasi-tulleja-mutta-mita-siita-seuraa-tassa-3-tarkeinta-asiaa-kauppasodasta-juuri-nyt/2587a79c-6075-4ac5-8a02-7f39afe881f0"
         },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump ilmoitti suunnan­muutoksesta tulleihin – tästä on kyse",
-          "content": "Trumpin suunnanmuutos siivitti osakkeet ensin Yhdysvalloissa ja sitten Aasiassa kovaan nousuun.",
-          "date": "2025-04-10T02:53:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011158554.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump pani tullit jäihin – pörssi nousee kuin raketti",
-          "content": "Trump jäädytti kaikkien muiden paitsi Kiinan jättitullit 90 päiväksi. Sillä välin Yhdysvallat perii 10 prosentin tulleja.",
-          "date": "2025-04-09T18:58:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011158462.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin tullit aiheuttavat globaaleja talousvaikutuksia",
-      "mainCategories": [
-        "Talous",
-        "Yhdysvallat",
-        "Tullit"
-      ],
-      "imageUrl": "/images/donald trump/6.jpg",
-      "relatedNews": [
         {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
@@ -233,18 +289,6 @@
             "ulkomaat"
           ],
           "link": "https://www.iltalehti.fi/ulkomaat/a/ff64cf0b-8e3d-48b5-8008-c284e53e08aa"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Trump lykkäsi tulleja, mutta kauppasota Kiinan kanssa kiihtyy – Väistyykö taantumauhka?",
-          "content": "Trump lykkää laajoja tuontitulleja 90 päivällä. Kiinan tuontitullit nostettiin 125 prosenttiin. Kauppalehti koosti kolme tärkeintä pointtia keskiviikon markkinapäivästä.",
-          "date": "2025-04-10T02:30:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/trump-lykkasi-tulleja-mutta-kauppasota-kiinan-kanssa-kiihtyy-vaistyyko-taantumauhka/2587a79c-6075-4ac5-8a02-7f39afe881f0"
         },
         {
           "publisherId": "yle",
@@ -390,29 +434,95 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20154675?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tuberkuloosialtistuminen Kainuun ammattiopistossa",
+      "mainCategories": [
+        "Kotimaa",
+        "Terveys",
+        "Kainuu"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "KS: Kainuun ammatti­opistossa vakavaa tautia – Altistuneita jopa 30",
+          "content": "Jopa 30 henkilöä on voinut altistua tuberkuloositartunnalle.  Kainuun ammattiopistossa on alkuviikosta todettu tuberkuloositartunta, uutisoi Kainuun Sanomat. Tartuntataudeista vastaava lääkäri Lea Käsmä-Ronkainen kertoo Kainuun Sanomille, että keskiviikkona tehdyn arvion mukaan noin 30 henkilöä on voinut altistua tartunnalle.",
+          "date": "2025-04-10T04:57:04.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/784e6086-4f23-4c3a-8a73-c1d63f64a78e"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Suomalais­yritykset nostavat hintoja USA:n tullien takia – osa harkitsee tuotannon siirtoa",
-          "content": "Suomalaiset vientiyritykset joutuvat nostamaan hintojaan Yhdysvaltojen EU:lle asettaman tullimaksun vuoksi. Osa harkitsee myös tuotannon siirtämistä.",
-          "date": "2025-04-08T09:17:04.000Z",
+          "title": "Kymmenien epäillään altistuneen tuberkuloosille Kainuun ammattiopistossa",
+          "content": "Kainuun ammattiopiston kajaanilaisella opiskelijalla on todettu tuberkuloosi. Alustavan arvion mukaan noin kolmekymmentä on saattanut altistua tuberkuloosille.",
+          "date": "2025-04-09T09:13:46.000Z",
           "categories": [
-            "talous",
-            "donald trump",
-            "kansainvälinen kauppa",
-            "tuontitulli",
-            "vienti",
-            "yhdysvallat",
-            "teleste",
-            "peikko group",
-            "kotimaa",
-            "varsinais-suomi",
-            "pohjanmaa",
-            "päijät-häme"
+            "terveys",
+            "kainuu",
+            "opiskelijat",
+            "tuberkuloosi",
+            "tartuntataudit",
+            "taudit",
+            "kajaani",
+            "kainuun ammattiopisto",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20154473?origin=rss"
+          "link": "https://yle.fi/a/74-20154891?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump lykkäsi tullit, pörssit nousussa",
+      "mainCategories": [
+        "Taloussanomat",
+        "Pörssi"
+      ],
+      "imageUrl": "/images/talous/5.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Trumpin tullilykkäys sai Wall Streetin riemastumaan, myös Aasian pörsseissä kovaa nousua – KL seuraa",
+          "content": "Donald Trumpin kertoi keskiviikkona 90 päivän lykkäyksestä vastavuoroisiin tuontitulleihin. Kiina jäi lykkäyksen ulkopuolelle.",
+          "date": "2025-04-10T04:46:00.000Z",
+          "categories": [
+            "pörssi"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/trumpin-tullilykkays-sai-wall-streetin-riemastumaan-myos-aasian-porsseissa-kovaa-nousua-kl-seuraa/3c4bb6ad-93f2-4cbc-bbad-7b2f08aeb7bc"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump ilmoitti suunnan­muutoksesta tulleihin – tästä on kyse",
+          "content": "Trumpin suunnanmuutos siivitti osakkeet ensin Yhdysvalloissa ja sitten Aasiassa kovaan nousuun.",
+          "date": "2025-04-10T02:53:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011158554.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump pani tullit jäihin – pörssi nousee kuin raketti",
+          "content": "Trump jäädytti kaikkien muiden paitsi Kiinan jättitullit 90 päiväksi. Sillä välin Yhdysvallat perii 10 prosentin tulleja.",
+          "date": "2025-04-09T18:58:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011158462.html"
         }
       ]
     },
@@ -423,7 +533,7 @@
         "Ranska",
         "Palestiinalaisalueet"
       ],
-      "imageUrl": "/images/ranska/1.jpg",
+      "imageUrl": "/images/ranska/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -474,7 +584,7 @@
         "Taloussanomat",
         "Sijoittaminen"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/9.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -515,13 +625,13 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvaltojen kauppasota vaikuttaa osakemarkkinoihin",
+      "mainTitle": "Kauppasota aiheuttaa pörssien heilahtelua",
       "mainCategories": [
         "Talous",
         "Kauppasodat",
         "Keskuspankit"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -786,7 +896,7 @@
       ]
     },
     {
-      "mainTitle": "Yökerhon romahdus Dominikaanisessa tasavallassa 184 kuollutta",
+      "mainTitle": "Yökerhon romahduksessa kuolleita 184 Dominikaanisessa tasavallassa",
       "mainCategories": [
         "Ulkomaat",
         "Onnettomuudet",
@@ -862,7 +972,7 @@
         "Yhdysvallat",
         "Iran"
       ],
-      "imageUrl": "/images/yhdysvallat/2.jpg",
+      "imageUrl": "/images/yhdysvallat/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -958,7 +1068,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/1.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1083,7 +1193,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/9.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1113,13 +1223,13 @@
       ]
     },
     {
-      "mainTitle": "Trumpin vaikutus osakemarkkinoihin jatkuu voimakkaana",
+      "mainTitle": "Trumpin vaikutus osakemarkkinoihin jatkuu",
       "mainCategories": [
         "Talous",
         "Taloussanomat",
         "Sijoittaminen"
       ],
-      "imageUrl": "/images/talous/4.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -1224,7 +1334,7 @@
         "Saksa",
         "Hallitukset"
       ],
-      "imageUrl": "/images/saksa/2.jpg",
+      "imageUrl": "/images/saksa/1.png",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -1320,7 +1430,7 @@
         "Taloussanomat",
         "Tullit"
       ],
-      "imageUrl": "/images/talous/4.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1436,50 +1546,7 @@
       ]
     },
     {
-      "mainTitle": "Trumpin toimet aiheuttavat talouskriisin pelkoa",
-      "mainCategories": [
-        "Talous",
-        "Maailmantalous",
-        "Laskusuhdanne"
-      ],
-      "imageUrl": "/images/talous/8.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Rahoituksen professori Vesa Puttonen lausuu kyynisen arvion Donald Trumpista",
-          "content": "Aalto-yliopiston rahoituksen professori Vesa Puttonen sanoo Iltalehdelle, ettei koe olevansa sopiva asiantuntija vastaamaan Trumpin toimintaan. ”En tiedä, minkä alan ihminen olisi sopiva.” Yhdysvaltojen pörssit ovat kuluneen päivän aikana heitelleet kuin pahin saippuasarja. Uutiset presidentti Donald Trumpin määräämistä tulleista ovat saaneet maailmantalouden turbulenssiin. Trump rohkaisi ihmisiä ostamaan osakkeita omassa Truth Social -viestipalvelussaan kello 17 Suomen aikaan.",
-          "date": "2025-04-09T18:32:39.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.iltalehti.fi/talous/a/c4641135-f11e-4e89-8f8f-2d9e62cf45b2"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Olemme Lehman-hetkessä” – asian­tuntijat vertaavat Trump-kriisiä historian suuriin talous­mullistuksiin",
-          "content": "Maailmantalouden Trump-kriisi on yhtä arvaamaton kuin aiheuttajansa.",
-          "date": "2025-04-09T12:24:17.000Z",
-          "categories": [
-            "talous",
-            "maailmantalous",
-            "donald trump",
-            "laskusuhdanne",
-            "taloustieteilijät",
-            "kauppapolitiikka",
-            "tullit",
-            "protektionismi",
-            "yhdysvallat"
-          ],
-          "link": "https://yle.fi/a/74-20154899?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Finnairin lennolla häiriöitä ja välilasku",
+      "mainTitle": "Finnairin lennolla häiriötilanteita matkustajille",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -1531,7 +1598,7 @@
         "Tuontitulli",
         "Tullit"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1595,7 +1662,7 @@
         "Rautatieliikenne",
         "Kiuruvesi"
       ],
-      "imageUrl": "/images/sähkö/1.jpg",
+      "imageUrl": "/images/sähkö/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1680,43 +1747,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011157992.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Euroopan pörssit laskussa, Helsingin nousussa",
-      "mainCategories": [
-        "Talous",
-        "Pörssit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Euroopan pörssit sulkeutuivat muutaman prosentin laskuun",
-          "content": "",
-          "date": "2025-04-09T16:38:06.000Z",
-          "categories": [
-            "talous",
-            "pörssit",
-            "euroopan pörssit",
-            "laskevat pörssikurssit",
-            "helsingin pörssi",
-            "frankfurtin pörssi"
-          ],
-          "link": "https://yle.fi/a/74-20155048?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Euroopan pörssit avautuivat nousuun eilisen sukelluksen jälkeen",
-          "content": "Helsingin pörssi avautui tänään eilistä valoisammissa tunnelmissa. Helsingin pörssin yleisindeksi oli heti kello kymmenen jälkeen lähes kahden prosentin nousussa.",
-          "date": "2025-04-08T08:21:16.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/euroopan-porssit-avautuivat-nousuun-eilisen-sukell/11585693?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -1817,7 +1847,7 @@
         "Ennakkoäänestys",
         "Vaalit"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1892,7 +1922,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi tutkii kuollutta koiraa Sastamalassa",
+      "mainTitle": "Sastamalassa tutkitaan kuollutta koiraa",
       "mainCategories": [
         "Kotimaa",
         "Eläimet",
@@ -1934,7 +1964,7 @@
       ]
     },
     {
-      "mainTitle": "Karhujen pihakäynnit lisääntyneet Suomessa",
+      "mainTitle": "Karhuja karkotettava pihapiireistä välittömästi",
       "mainCategories": [
         "Kotimaa",
         "Eläimet",
@@ -2018,7 +2048,7 @@
       ]
     },
     {
-      "mainTitle": "Rikostutkinta lapsen kuolemasta päiväkodissa",
+      "mainTitle": "Rikostutkinta käynnistyi Pyhäjoen lapsikuolemasta",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -2221,7 +2251,7 @@
       ]
     },
     {
-      "mainTitle": "Alvar Aallon kotitalossa syttyi tulipalo",
+      "mainTitle": "Alvar Aallon kotitalon katto syttyi tuleen",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -2352,56 +2382,13 @@
       ]
     },
     {
-      "mainTitle": "Kauppasota kiihtyy Kiinan ja USA:n välillä",
-      "mainCategories": [
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/talous/8.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kauppasota kovenee: Kiinalta raju vastaus USA:lle",
-          "content": "Kiinan ilmoitus sysäsi pörssit syvempään laskuun.",
-          "date": "2025-04-09T11:40:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011157369.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Valkoinen talo: Hirmu­tullit Kiinalle voimaan",
-          "content": "Ilta-Sanomat on seurannut tässä artikkelissa Trumpin tullipäätöksiä ja niiden poikkeuksellisen voimakkaita seurauksia markkinoihin.",
-          "date": "2025-04-08T17:13:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011150777.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kiina ei anna periksi Yhdysvaltain painostuksen ja tulliuhkausten alla – Aasian pörssikurssit lähtivät nousuun",
-          "content": "Kiina ilmoitti maanantaina, ettei se aio antaa periksi Yhdysvaltain painostuksen ja uhkausten alla. Yhdysvaltain presidentti Donald Trump uhkasi aiemmin maanantaina asettaa Kiinalle 50 prosentin lisätuontitulleja, jos maa ei peru omia vastatoimiaan aiemmin ilmoitetuille tulleille.",
-          "date": "2025-04-08T04:54:18.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kiina-ei-anna-periksi-yhdysvaltain-painostuksen-ja/11585307?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Hallitus sai eduskunnan luottamuksen äänestyksessä",
       "mainCategories": [
         "Politiikka",
         "Eduskunta",
         "Koulutus"
       ],
-      "imageUrl": "/images/eduskunta/4.jpg",
+      "imageUrl": "/images/eduskunta/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2435,7 +2422,7 @@
       ]
     },
     {
-      "mainTitle": "Ennakkoäänestys vilkastunut aluevaaleissa 2025",
+      "mainTitle": "Ennakkoäänestys vilkastui aluevaaleissa 2025",
       "mainCategories": [
         "Politiikka",
         "Vaalit",
@@ -2659,7 +2646,7 @@
         "Satakunta",
         "Kotimaa"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -2696,7 +2683,7 @@
       ]
     },
     {
-      "mainTitle": "Trump määräsi hiilikaivostoiminnan lisäämistä",
+      "mainTitle": "Trump lisää hiilikaivostoimintaa Yhdysvalloissa",
       "mainCategories": [
         "Ulkomaat",
         "Energia",
@@ -2916,7 +2903,7 @@
       ]
     },
     {
-      "mainTitle": "VR suunnittelee irtisanomisia lähijunakonduktööreistä",
+      "mainTitle": "VR suunnittelee 130 konduktöörin irtisanomisia",
       "mainCategories": [
         "Liikenne",
         "Taloussanomat"
@@ -2950,7 +2937,7 @@
       ]
     },
     {
-      "mainTitle": "Ajokortin poikkeusluvan kriteereitä tarkistetaan",
+      "mainTitle": "Ajokortin poikkeusluvan kriteerit tarkistuvat",
       "mainCategories": [
         "Liikenne",
         "Nuoret",
@@ -2989,7 +2976,7 @@
       ]
     },
     {
-      "mainTitle": "Kelan pääjohtajan valinta viivästyy edelleen",
+      "mainTitle": "Kelan pääjohtajan valinta viivästyi jälleen",
       "mainCategories": [
         "Politiikka"
       ],
@@ -3061,7 +3048,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/1.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -3095,7 +3082,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/9.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -3124,7 +3111,7 @@
       ]
     },
     {
-      "mainTitle": "Kaksi ruumista palaneesta talosta Jämsässä",
+      "mainTitle": "Kaksi ruumista löytyi Jämsän tulipalosta",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -3164,7 +3151,7 @@
         "Palvelunestohyökkäys",
         "Hakkerit"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -3242,12 +3229,12 @@
       ]
     },
     {
-      "mainTitle": "Finlaysonin ja Vallilan emoyhtiö konkurssissa",
+      "mainTitle": "Manna & Co hakeutuu konkurssiin",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -3291,7 +3278,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
