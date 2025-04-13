@@ -1,16 +1,26 @@
 {
-  "timestamp": "2025-04-13T17:29:37.383Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-04-13T17:40:41.096Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Sdp ja kokoomus tiukassa vaalitaistossa",
+      "mainTitle": "SDP:n vaalivoitto ennakoitu Helsingissä",
       "mainCategories": [
         "Politiikka",
         "Suomi"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -18,11 +28,23 @@
           "publisherUrl": "is.fi",
           "title": "Ennakkoäänet julki: Sdp ottamassa historiallisen vaalivoiton Helsingissä – ero kokoomukseen häviävän pieni",
           "content": "Kokoomus on johtanut Helsinkiä yli 30 vuotta, mutta sunnuntai saattaa muuttaa tilanteen. Ennakkoäänien perusteella Helsingissä käydään äärimmäisen tiukkaa kisaa ykköspuolueen paikasta.",
-          "date": "2025-04-13T17:24:00.000Z",
+          "date": "2025-04-13T17:30:00.000Z",
           "categories": [
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011166457.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "IL-Vaaliennuste: SDP voittaa kuntavaalit, kokoomus jää selvästi",
+          "content": "IL-Ennusteen mukaan SDP tekee kuntavaalijytkyn. Tässä on Iltalehden ennuste kuntavaalien tuloksesta: SDP 23,4 % (kuntavaaleissa 2021 17,7 %)",
+          "date": "2025-04-13T17:09:08.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/9f2acf37-9a52-41fc-b21f-21094bd47885"
         },
         {
           "publisherId": "hs",
@@ -51,54 +73,11 @@
       ]
     },
     {
-      "mainTitle": "Sdp johtaa vaaleja, perussuomalaiset romahtavat",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "/images/vaalit/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sdp kärjessä, perus­suomalaisille tyly romahdus – Purra: ”Jatkamme kanveesissa”",
-          "content": "IS seuraa hetki hetkeltä kireää ja jännittävää taistoa alue- ja kuntavaalien voitosta.",
-          "date": "2025-04-13T17:24:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011159125.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Vaalit | ”Aikamoinen paukku tämä on” – Kunta­vaaleista tulossa Sdp:n juhlaa ja perus­suomalaisten tuskaa",
-          "content": "Kunta- ja aluevaalit järjestetään tänään. HS seuraa tässä artikkelissa vaalipäivän käänteitä.",
-          "date": "2025-04-13T17:21:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011152680.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Vaalit | Perussuomalaiset romahti – Tältä näyttää koko maan tilanne",
-          "content": "Sdp johti sekä kunta- että aluevaaleja ääntenlaskennan alkuvaiheessa.",
-          "date": "2025-04-13T17:16:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011166333.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Julkkislääkärit menestyivät aluevaaleissa",
       "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Kokkola",
+        "Helsinki"
       ],
       "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
@@ -127,89 +106,80 @@
             "alue- ja kuntavaalit 2025"
           ],
           "link": "https://yle.fi/a/74-20153230?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Markku Ekoluoma pääsi aamun ensimmäisenä äänestäjänä kurkkaamaan, että vaaliuurna on varmasti tyhjä",
+          "content": "Vaalitoimitsija on nähnyt vuosikymmenien aikana äänestämisen arvostamisen laskun ja tapahtuman arkipäivistymisen.",
+          "date": "2025-04-13T07:39:01.000Z",
+          "categories": [
+            "politiikka",
+            "kokkola",
+            "helsinki",
+            "äänestäminen",
+            "poliittinen osallistuminen",
+            "alue- ja kuntavaalit 2025",
+            "keski-pohjanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20155672?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Kuntavaalien tulokset alkavat selvitä",
+      "mainTitle": "Kunta- ja aluevaalien tulokset julki",
       "mainCategories": [
-        "Politiikka",
-        "Vaalit",
-        "Savonlinna"
+        "Politiikka"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yli puolet äänistä laskettu Savonlinnassa, SDP ja Keskusta rinta rinnan, Liike Nyt aiempaakin vahvempi",
-          "content": "Kuluvalla valtuustokaudella Savonlinnan suurimman puolueen manttelin ovat pukeneet sekä SPD että Keskusta. Molemmilla on 11 valtuutettua.",
-          "date": "2025-04-13T17:18:07.000Z",
-          "categories": [
-            "vaalit",
-            "savonlinna",
-            "kuntavaalit",
-            "kuntavaalit 2025",
-            "etelä-savo",
-            "alue- ja kuntavaalit 2025",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20155740?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tältä näyttää Kuopion kuntavaalitulos, kun iso osa ennakkoäänistä on laskettu",
-          "content": "Keskusta on ennakkoäänten perusteella yhä Kuopion suurin puolue. SDP on nousemassa kokoomuksen ohi.",
-          "date": "2025-04-13T17:14:16.000Z",
-          "categories": [
-            "politiikka",
-            "kuopio",
-            "pohjois-savo",
-            "alue- ja kuntavaalit 2025"
-          ],
-          "link": "https://yle.fi/a/74-20155733?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "IL-Vaaliennuste: SDP voittaa kuntavaalit, kokoomus jää selvästi",
-          "content": "IL-Ennusteen mukaan SDP tekee kuntavaalijytkyn. Tässä on Iltalehden ennuste kuntavaalien tuloksesta: SDP 23,4 % (kuntavaaleissa 2021 17,7 %)",
-          "date": "2025-04-13T17:09:08.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Vaalit | ”Aikamoinen paukku tämä on” – Kunta­vaaleista tulossa Sdp:n juhlaa ja perus­suomalaisten tuskaa",
+          "content": "Kunta- ja aluevaalit järjestetään tänään. HS seuraa tässä artikkelissa vaalipäivän käänteitä.",
+          "date": "2025-04-13T17:21:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/9f2acf37-9a52-41fc-b21f-21094bd47885"
+          "link": "https://www.hs.fi/politiikka/art-2000011152680.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tältä näyttää Etelä-Savon tuleva aluevaltuusto, kun yli puolet äänistä laskettu",
-          "content": "Etelä-Savon hyvinvointialueen äänistä on laskettu 60,3 prosenttia.",
-          "date": "2025-04-13T17:07:50.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Vaalit | Perussuomalaiset romahti – Tältä näyttää koko maan tilanne",
+          "content": "Sdp johti sekä kunta- että aluevaaleja ääntenlaskennan alkuvaiheessa.",
+          "date": "2025-04-13T17:16:00.000Z",
           "categories": [
-            "politiikka",
-            "aluevaalit 2025",
-            "alue- ja kuntavaalit 2025",
-            "kuntavaalit 2025",
-            "etelä-savo"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20155721?origin=rss"
+          "link": "https://www.hs.fi/politiikka/art-2000011166333.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Vaalit | Vaali-ilta huipentuu: Seuraa ainakin näitä asioita",
+          "content": "Tiedossa on jännittävät kunta- ja aluevaalit. Voittaako kokoomus jälleen vai nouseeko Sdp 20 vuoden tauon jälkeen ykköseksi? Nähdäänkö Helsingissä punainen jytky? Miten pahasti perussuomalaiset romahtavat?",
+          "date": "2025-04-13T13:44:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011163832.html"
         }
       ]
     },
     {
-      "mainTitle": "Kuntavaalien ja aluevaalien tulokset julkaistu",
+      "mainTitle": "Kuntavaalien ja aluevaalien tulospalvelut avattu",
       "mainCategories": [
         "Politiikka",
         "Vaalit",
         "Tulokset"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -332,29 +302,17 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011160689.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ennakkoäänet julki: Tämä on tilanne nyt – Lindtman: ”Huikea tulos”",
-          "content": "Tästä artikkelista löydät vaalien tulosillan tuoreimmat tiedot hetki hetkeltä. Iltalehti seuraa alue- ja kuntavaalien tulosiltaa suorana lähetyksenä sunnuntaina. Studiolähetys alkoi kello 18.45 ja jatkuu vaali-illan loppuun asti. Ennakkoäänet tulivat julki kello 20, minkä jälkeen alkaa vaalipäivän ääntenlaskenta.",
-          "date": "2025-04-12T17:26:14.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/933eb435-c02e-4340-b03d-29d575626485"
         }
       ]
     },
     {
-      "mainTitle": "SDP johtaa ennakkoäänissä kuntavaaleissa",
+      "mainTitle": "SDP ja kokoomus tiukassa pormestarikisassa",
       "mainCategories": [
         "Politiikka",
         "Vaalit",
-        "Pirkanmaa"
+        "Kotimaa"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -397,12 +355,12 @@
           "content": "Kuntavaaleissa koko Pirkanmaan äänestysaktiivisuus oli 31,2 prosenttia ja aluevaaleissa 30,1 prosenttia.",
           "date": "2025-04-13T17:02:09.000Z",
           "categories": [
-            "politiikka",
+            "vaalit",
             "tampere",
             "alue- ja kuntavaalit 2025",
             "hyvinvointialueet",
             "kunnat",
-            "vaalit",
+            "politiikka",
             "pirkanmaa"
           ],
           "link": "https://yle.fi/a/74-20155719?origin=rss"
@@ -420,16 +378,16 @@
           "link": "https://www.iltalehti.fi/politiikka/a/aeda4f00-f2e5-4625-90d3-75977c1370b6"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Vaalit | Vaali-ilta huipentuu: Seuraa ainakin näitä asioita",
-          "content": "Tiedossa on jännittävät kunta- ja aluevaalit. Voittaako kokoomus jälleen vai nouseeko Sdp 20 vuoden tauon jälkeen ykköseksi? Nähdäänkö Helsingissä punainen jytky? Miten pahasti perussuomalaiset romahtavat?",
-          "date": "2025-04-13T13:44:00.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tätä kisaa koko Helsinki jännittää vaali-iltana",
+          "content": "Kokoomus lähtee ennakkosuosikkina Helsingin pormestarivaaliin, mutta SDP hengittää aivan perässä. Kuntavaalien jännitysnäytelmän yksi päänäyttämöistä on Helsinki ja sen pormestarivaali. Vaaleissa ratkaistaan johtaako Helsinkiä seuraavat neljä vuotta kokoomuksen nykyinen apulaispormestari Daniel Sazonov vai SDP:n kansanedustaja Eveliina Heinäluoma. Sazonov sai neljä vuotta sitten kuntavaaleissa 1307 ääntä. Heinäluoma puolestaan haali 6980 ääntä. Kevään 2023 eduskuntavaaleissa Sazonov jäi rannalle 2647 äänellä ja Heinäluoma puolestaan nousi eduskuntaan 15 837 äänellä.",
+          "date": "2025-04-13T15:14:01.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011163832.html"
+          "link": "https://www.iltalehti.fi/politiikka/a/7ff6ee2c-f061-4379-bc46-8dbd2116451a"
         },
         {
           "publisherId": "yle",
@@ -453,8 +411,8 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "SDP:n Nurminen kokoomuksen Kummolan edellä Tampereen pormestarikisassa – Yle seuraa vaaleja",
-          "content": "Tänään ratkeaa, ketkä pääsevät päättämään yhteisistä asioista uusissa alue- ja kunnanvaltuustoissa.",
+          "title": "SDP johtaa molemmissa vaaleissa, mutta iso kasa ääniä on vielä laskematta – Yle seuraa",
+          "content": "Pian ratkeaa, ketkä pääsevät päättämään yhteisistä asioista uusissa alue- ja kunnanvaltuustoissa.",
           "date": "2025-04-13T09:13:58.000Z",
           "categories": [
             "politiikka",
@@ -479,66 +437,32 @@
             "kymenlaakso"
           ],
           "link": "https://yle.fi/a/74-20155686?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Alue- ja kuntavaalien äänestys käynnissä",
-      "mainCategories": [
-        "Politiikka",
-        "Äänestäminen",
-        "Kuopio"
-      ],
-      "imageUrl": "/images/vaalit/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Alue- ja kuntavaalien äänestys loppusuoralla – tällaiset olivat tunnelmat Kuopion kaupungin­talolla",
-          "content": "Kaupungintalon äänestys­paikalta arvioidaan, että päivän aikana äänestäjiä käy kaikkiaan noin 900.",
-          "date": "2025-04-13T16:50:57.000Z",
-          "categories": [
-            "politiikka",
-            "kuopio",
-            "alue- ja kuntavaalit 2025",
-            "pohjois-savo"
-          ],
-          "link": "https://yle.fi/a/74-20155735?origin=rss"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Äänestysalueiden yhdistäminen aiheutti poikkeukselliset ruuhkat Mikkelissä",
-          "content": "Ajoittaisia ruuhkia on ollut kaikilla äänestyspaikoilla Mikkelissä, mutta eniten ruuhkaa on ollut Lähemäen koululla. ",
-          "date": "2025-04-13T16:24:42.000Z",
+          "title": "Kaksoisvaalit huipentuvat ääntenlaskentaan – seuraa ainakin näitä kymmentä asiaa Satakunnan vaali-illassa",
+          "content": "Keräsimme tähän artikkeliin alue- ja kuntavaalien kiinnostavia teemoja Satakunnasta. Mitä ainakin kannattaa seurata vaali-illan kuluessa?",
+          "date": "2025-04-13T05:55:41.000Z",
           "categories": [
-            "politiikka",
-            "mikkeli",
-            "äänestäminen",
-            "etelä-savo",
-            "alue- ja kuntavaalit 2025"
-          ],
-          "link": "https://yle.fi/a/74-20155762?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Markku Ekoluoma pääsi aamun ensimmäisenä äänestäjänä kurkkaamaan, että vaaliuurna on varmasti tyhjä",
-          "content": "Vaalitoimitsija on nähnyt vuosikymmenien aikana äänestämisen arvostamisen laskun ja tapahtuman arkipäivistymisen.",
-          "date": "2025-04-13T07:39:01.000Z",
-          "categories": [
-            "politiikka",
-            "kokkola",
-            "helsinki",
-            "äänestäminen",
-            "poliittinen osallistuminen",
+            "vaalit",
             "alue- ja kuntavaalit 2025",
-            "keski-pohjanmaa"
+            "satakunta",
+            "kuntavaalit",
+            "aluevaalit",
+            "kuntavaalit 2025",
+            "aluevaalit 2025",
+            "pori",
+            "rauma",
+            "kankaanpää",
+            "satakunnan hyvinvointialue",
+            "harjavalta",
+            "sampsa kataja",
+            "siikainen",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20155672?origin=rss"
+          "link": "https://yle.fi/a/74-20155000?origin=rss"
         }
       ]
     },
@@ -548,7 +472,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/3.png",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -617,7 +541,7 @@
         "Italia",
         "Vatikaani"
       ],
-      "imageUrl": "/images/yhdysvallat/3.jpg",
+      "imageUrl": "/images/yhdysvallat/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -655,7 +579,7 @@
       ]
     },
     {
-      "mainTitle": "Vaalipäivän tunnelmat ja tapahtumat 2025",
+      "mainTitle": "Alue- ja kuntavaalien tulokset ja tunnelmat",
       "mainCategories": [
         "Politiikka",
         "Vaalit",
@@ -667,7 +591,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Voittajat juhlivat ja häviäjien ilmeet vakavoituivat – katso vaalipäivän tunnelmia kuvakoosteesta",
+          "title": "Voittajilla riemu repesi – katso vaalipäivän tunnelmia kuvakoosteesta",
           "content": "Poimimme kuvagalleriaan alue- ja kuntavaalien vaalipäivän näyttävimmät hetket.",
           "date": "2025-04-13T16:33:39.000Z",
           "categories": [
@@ -693,6 +617,18 @@
           "link": "https://www.is.fi/politiikka/art-2000011166561.html"
         },
         {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Nyt on vaalipäivä – etsi oma ehdokkaasi vaalikoneesta",
+          "content": "Ilta-Sanomien vaalikoneesta löydät itsellesi sopivan ehdokkaan alue- ja kuntavaaleissa.",
+          "date": "2025-04-13T04:31:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011070516.html"
+        },
+        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -706,6 +642,18 @@
             "vaalit"
           ],
           "link": "https://yle.fi/a/74-20154599?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "PS:lle täystyrmäys: Purra perui kaiken – IL seuraa",
+          "content": "Tästä artikkelista löydät vaalien tulosillan tuoreimmat tiedot hetki hetkeltä. Iltalehti seuraa alue- ja kuntavaalien tulosiltaa suorana lähetyksenä sunnuntaina. Studiolähetys alkoi kello 18.45 ja jatkuu vaali-illan loppuun asti. Ennakkoäänet tulivat julki kello 20, minkä jälkeen alkaa vaalipäivän ääntenlaskenta.",
+          "date": "2025-04-12T17:26:14.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/933eb435-c02e-4340-b03d-29d575626485"
         }
       ]
     },
@@ -805,7 +753,7 @@
         "Kotimaa",
         "Politiikka"
       ],
-      "imageUrl": "/images/venäjä/3.png",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -974,7 +922,7 @@
         "Tullit",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/talous/9.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1020,7 +968,7 @@
         "Tullit",
         "Apple"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1128,12 +1076,12 @@
       ]
     },
     {
-      "mainTitle": "Trumpin kauppasota horjuttaa maailmantaloutta",
+      "mainTitle": "Trumpin kauppasota horjuttaa maailman taloutta",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/9.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1192,7 +1140,7 @@
         "Venäjä",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/3.png",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1222,13 +1170,13 @@
       ]
     },
     {
-      "mainTitle": "Fortum haluaa ostaa osuuden Uniperista",
+      "mainTitle": "Fortum haluaa ostaa Uniperin osuuden",
       "mainCategories": [
         "Talous",
         "Energia",
         "Fortum"
       ],
-      "imageUrl": "/images/talous/4.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1276,65 +1224,7 @@
       ]
     },
     {
-      "mainTitle": "Satakunnan vaali-illan keskeiset teemat",
-      "mainCategories": [
-        "Vaalit",
-        "Kuntavaalit",
-        "Aluevaalit"
-      ],
-      "imageUrl": "/images/vaalit/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kaksoisvaalit huipentuvat ääntenlaskentaan – seuraa ainakin näitä kymmentä asiaa Satakunnan vaali-illassa",
-          "content": "Keräsimme tähän artikkeliin alue- ja kuntavaalien kiinnostavia teemoja Satakunnasta. Mitä ainakin kannattaa seurata vaali-illan kuluessa?",
-          "date": "2025-04-13T05:55:41.000Z",
-          "categories": [
-            "vaalit",
-            "alue- ja kuntavaalit 2025",
-            "satakunta",
-            "kuntavaalit",
-            "aluevaalit",
-            "kuntavaalit 2025",
-            "aluevaalit 2025",
-            "pori",
-            "rauma",
-            "kankaanpää",
-            "satakunnan hyvinvointialue",
-            "harjavalta",
-            "sampsa kataja",
-            "siikainen",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20155000?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin konkari ja ensikertalainen valmistautuvat ääntenlaskuun – Kajaanissa on etu, jota kaikkialta Suomesta ei löydy",
-          "content": "Sunnuntaina äänestyspaikoilla lasketaan sekä aluevaalin että kuntavaalin äänimäärät. Vaaliliput erottaa toisistaan värin avulla.",
-          "date": "2025-04-12T12:31:57.000Z",
-          "categories": [
-            "vaalit",
-            "äänestäminen",
-            "aluevaalit",
-            "kuntavaalit",
-            "kajaani",
-            "oulu",
-            "alue- ja kuntavaalit 2025",
-            "kotimaa",
-            "kainuu",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20155128?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Dominikaanisessa tasavallassa yökerhoturma vaatii 226 kuolonuhria",
+      "mainTitle": "Dominikaanisessa tasavallassa yökerhoturma vaati 226 kuolonuhria",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1408,7 +1298,7 @@
         "Yhdysvallat",
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysvallat/3.jpg",
+      "imageUrl": "/images/yhdysvallat/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1470,7 +1360,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1601,7 +1491,7 @@
       ]
     },
     {
-      "mainTitle": "Suomen väestönsuojat kiinnostavat maailmalla",
+      "mainTitle": "Suomen väestönsuojat kiinnostavat kansainvälisesti",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1641,7 +1531,7 @@
         "Palestiinalaisalueet",
         "Hamas"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1683,7 +1573,7 @@
         "Ydinvoima",
         "Kotimaa"
       ],
-      "imageUrl": "/images/sähkö/3.jpg",
+      "imageUrl": "/images/sähkö/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1745,7 +1635,7 @@
         "Liikenne",
         "Finnair"
       ],
-      "imageUrl": "/images/talous/4.jpg",
+      "imageUrl": "/images/talous/2.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -2022,7 +1912,7 @@
         "Talous",
         "Argentiina"
       ],
-      "imageUrl": "/images/talous/5.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2120,7 +2010,7 @@
       "mainCategories": [
         "Suomi"
       ],
-      "imageUrl": "/images/asuminen/1.jpg",
+      "imageUrl": "/images/asuminen/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2236,7 +2126,7 @@
         "Tutkimus",
         "Kuluttajatutkimus"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
