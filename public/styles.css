@@ -25,3 +25,10 @@ p {
 a {
   word-break: break-all;
 }
+
+.screenshots > * {
+  margin: 10px;
+  width: 400px;
+  /* border: 1px solid gray; */
+  box-shadow: 3px 3px 10px #c9c9c9;
+}
