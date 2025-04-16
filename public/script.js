@@ -21,6 +21,18 @@ const images = {
       "license": "CC BY-NC 2.0"
     }
   ],
+  "alkoholi": [
+    {
+      "filename": "1.jpg",
+      "source": "https://heytipple.com/blog/how-to-sell-alcohol-online-part-1",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.essedielleenologia.com/en/news/alcohol-free-low-alcohol-wines-decree-italy/",
+      "license": "CC0 1.0"
+    },
+  ],
   "asuminen": [
     {
       "filename": "1.jpg",
@@ -540,11 +552,6 @@ const images = {
   ],
   "ukraina": [
     {
-      "filename": "1.jpg",
-      "source": "https://www.cid.org.nz/connect/news/crisis-unfolds-following-attack-on-ukraine-dam/",
-      "license": "CC0 1.0"
-    },
-    {
       "filename": "2.jpg",
       "source": "https://afuo.org.au/community/today-we-celebrate-ukrainian-unity-day/",
       "license": "CC0 1.0"
@@ -584,11 +591,6 @@ const images = {
       "license": "CC0 1.0"
     },
     {
-      "filename": "3.png",
-      "source": "https://picryl.com/media/map-russia-flag-1796d2",
-      "license": "PDM 1.0"
-    },
-    {
       "filename": "4.jpg",
       "source": "https://www.goodfon.com/city/wallpaper-moscow-russia-kremlin-city-616.html",
       "license": "CC BY-NC 4.0"
@@ -602,11 +604,6 @@ const images = {
       "filename": "6.jpg",
       "source": "https://www.pickpik.com/moscow-the-kremlin-river-navigation-kremlevskaya-embankment-dome-151604",
       "license": "CC0 1.0"
-    },
-    {
-      "filename": "7.jpg",
-      "source": "https://www.deviantart.com/think0/art/Russia-Grungy-Flag-111353394",
-      "license": "CC BY-ND 3.0"
     },
   ],
   "vladimir putin": [
