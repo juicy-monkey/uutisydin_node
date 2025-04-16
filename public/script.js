@@ -474,29 +474,9 @@ const images = {
   ],
   "talous": [
     {
-      "filename": "1.jpg",
-      "source": "https://www.pickpik.com/money-bank-note-euro-banknote-paper-money-bill-148500",
-      "license": "CC0 1.0"
-    },
-    {
-      "filename": "2.jpg",
-      "source": "https://pxhere.com/fi/photo/926983",
-      "license": "CC0 1.0"
-    },
-    {
       "filename": "3.jpg",
       "source": "https://theberkshireedge.com/capital-ideas-how-much-will-the-stock-market-gain-or-lose-in-2025/",
       "license": "CC BY-ND 4.0"
-    },
-    {
-      "filename": "4.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:10_euro_banknotes_and_10_euro_cent_coins_20180207.jpg",
-      "license": "CC BY-SA 4.0"
-    },
-    {
-      "filename": "5.jpg",
-      "source": "https://pxhere.com/fi/photo/859216",
-      "license": "CC0 1.0"
     },
     {
       "filename": "6.jpg",
@@ -512,11 +492,6 @@ const images = {
       "filename": "8.jpg",
       "source": "https://www.agenzianova.com/en/news/Lazio-economy-grows-by-04-percent-driven-by-tourism-services-and-construction-decline/",
       "license": "CC BY-ND 4.0"
-    },
-    {
-      "filename": "9.jpg",
-      "source": "https://www.goodfon.com/macro/wallpaper-coins-economy-paper.html",
-      "license": "CC BY-NC 4.0"
     },
   ],
   "terveydenhuolto": [
