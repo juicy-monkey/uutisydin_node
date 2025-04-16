@@ -292,11 +292,30 @@ const images = {
       "license": "CC0 1.0",
     }
   ],
+  "kiina": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.freemalaysiatoday.com/category/highlight/2025/04/11/china-slaps-125-tariffs-on-us-goods-but-to-ignore-further-hikes/",
+      "license": "CC BY 4.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.datamarnews.com/noticias/wsj-chinas-economy-faces-a-sour-end-to-the-year/",
+      "license": "CC0 1.0"
+    }
+  ],
   "leipomo": [
     {
       "filename": "1.jpg",
       "source": "https://pxhere.com/en/photo/1416594",
       "license": "CC0 1.0"
+    }
+  ],
+  "maatalous": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.pexels.com/fi-fi/kuva/maisema-maaseutu-maatalous-ruoho-9875722/",
+      "license": "CC0"
     }
   ],
   "marco rubio": [
@@ -460,6 +479,20 @@ const images = {
       "license": "CC0 1.0"
     }
   ],
+  "sari essayah": [
+    {
+      "filename": "1.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Sari_Essayah_-_Hallituksen_tiedotustilaisuus_31.08.2023_-_53153987937.jpg",
+      "license": "CC BY 2.0"
+    },
+  ],
+  "sofia virta": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kansanedustaja_Sofia_Virta_2023_%28cropped%29.jpg",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
   "suomen hallitus": [
     {
       "filename": "1.jpg",
@@ -579,6 +612,13 @@ const images = {
       "license": "CC BY-SA 4.0"
     },
   ],
+  "valtioneuvosto": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Valtioneuvosto,_Helsinki_IMG_1112.jpg",
+      "license": "CC BY-SA 4.0"
+    },
+  ],
   "venäjä": [
     {
       "filename": "1.jpeg",
@@ -611,6 +651,13 @@ const images = {
       "filename": "1.jpg",
       "source": "https://www.freemalaysiatoday.com/category/business/2025/02/07/putin-hails-russias-strong-2024-economic-growth/",
       "license": "CC BY 4.0"
+    }
+  ],
+  "xi jinping": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.flickr.com/photos/unisgeneva/32270494731",
+      "license": "CC BY-NC-ND 2.0"
     }
   ],
   "zelensky": [
