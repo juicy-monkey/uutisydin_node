@@ -488,7 +488,7 @@ const images = {
   ],
   "sari essayah": [
     {
-      "filename": "1.png",
+      "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Sari_Essayah_-_Hallituksen_tiedotustilaisuus_31.08.2023_-_53153987937.jpg",
       "license": "CC BY 2.0"
     },
@@ -684,7 +684,7 @@ const images = {
       "license": "CC0 1.0"
     }
   ],
-  "yhdysvallat": [
+  "yhdysval": [
     {
       "filename": "1.jpg",
       "source": "https://pxhere.com/fi/photo/1520929",
