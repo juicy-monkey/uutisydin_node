@@ -455,7 +455,7 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
-  "sähkö": [
+  "sähköntuotan": [
     {
       "filename": "1.jpg",
       "source": "https://picryl.com/media/france-rhone-river-industry-craft-fda029",
