@@ -474,8 +474,23 @@ const images = {
   ],
   "talous": [
     {
+      "filename": "1.jpg",
+      "source": "https://www.agenzianova.com/en/news/case-of-svb-the-ministry-of-the-economy-follows-the-mediobanca-developments-there-is-no-risk-of-a-domino-effect/",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "2.jpeg",
+      "source": "https://www.pexels.com/photo/stock-exchange-board-210607/",
+      "license": "CC0"
+    },
+    {
       "filename": "3.jpg",
       "source": "https://theberkshireedge.com/capital-ideas-how-much-will-the-stock-market-gain-or-lose-in-2025/",
+      "license": "CC BY-ND 4.0"
+    },
+    {
+      "filename": "4.jpeg",
+      "source": "https://www.value-health-economics-policy.org/our-research/2020-special-issue-covid-19-responses-in-the-making",
       "license": "CC BY-ND 4.0"
     },
     {
