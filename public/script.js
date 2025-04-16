@@ -33,6 +33,13 @@ const images = {
       "license": "CC0 1.0"
     },
   ],
+  "antti kaikkonen": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Antti_Kaikkonen_%28antti-kaikkonen--10%29.jpg",
+      "license": "CC BY 4.0"
+    },
+  ],
   "asuminen": [
     {
       "filename": "1.jpg",
@@ -86,7 +93,7 @@ const images = {
       "license": "CC BY-NC-ND 3.0 NL",
     },
   ],
-  "donald trump": [
+  "trump": [
     {
       "filename": "1.jpg",
       "source": "https://snl.no/Donald_Trump",
@@ -469,15 +476,15 @@ const images = {
   ],
   "saksa": [
     {
-      "filename": "1.png",
-      "source": "https://picryl.com/media/germany-german-germany-flag-architecture-buildings-cc32f4",
-      "license": "PDM 1.0"
+      "filename": "1.jpg",
+      "source": "https://www.freemalaysiatoday.com/category/business/2025/02/17/german-voters-demand-change-as-europes-biggest-economy-stalls/",
+      "license": "CC BY 4.0"
     },
     {
       "filename": "2.jpg",
-      "source": "https://itoldya420.getarchive.net/media/federal-republic-of-germany-germany-schland-f4aabf",
-      "license": "CC0 1.0"
-    }
+      "source": "https://www.pexels.com/photo/flag-of-germany-17412355/",
+      "license": "CC0"
+    },
   ],
   "sari essayah": [
     {
