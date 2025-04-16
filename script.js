@@ -21,6 +21,25 @@ const images = {
       "license": "CC BY-NC 2.0"
     }
   ],
+  "alkoholi": [
+    {
+      "filename": "1.jpg",
+      "source": "https://heytipple.com/blog/how-to-sell-alcohol-online-part-1",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.essedielleenologia.com/en/news/alcohol-free-low-alcohol-wines-decree-italy/",
+      "license": "CC0 1.0"
+    },
+  ],
+  "antti kaikkonen": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Antti_Kaikkonen_%28antti-kaikkonen--10%29.jpg",
+      "license": "CC BY 4.0"
+    },
+  ],
   "asuminen": [
     {
       "filename": "1.jpg",
@@ -74,7 +93,7 @@ const images = {
       "license": "CC BY-NC-ND 3.0 NL",
     },
   ],
-  "donald trump": [
+  "trump": [
     {
       "filename": "1.jpg",
       "source": "https://snl.no/Donald_Trump",
@@ -280,11 +299,30 @@ const images = {
       "license": "CC0 1.0",
     }
   ],
+  "kiina": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.freemalaysiatoday.com/category/highlight/2025/04/11/china-slaps-125-tariffs-on-us-goods-but-to-ignore-further-hikes/",
+      "license": "CC BY 4.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.datamarnews.com/noticias/wsj-chinas-economy-faces-a-sour-end-to-the-year/",
+      "license": "CC0 1.0"
+    }
+  ],
   "leipomo": [
     {
       "filename": "1.jpg",
       "source": "https://pxhere.com/en/photo/1416594",
       "license": "CC0 1.0"
+    }
+  ],
+  "maatalous": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.pexels.com/fi-fi/kuva/maisema-maaseutu-maatalous-ruoho-9875722/",
+      "license": "CC0"
     }
   ],
   "marco rubio": [
@@ -378,7 +416,7 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
-  "petteri orpo": [
+  "pääministeri orpo": [
     {
       "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Petteri-Orpo-O45A3040.jpg",
@@ -438,14 +476,28 @@ const images = {
   ],
   "saksa": [
     {
-      "filename": "1.png",
-      "source": "https://picryl.com/media/germany-german-germany-flag-architecture-buildings-cc32f4",
-      "license": "PDM 1.0"
+      "filename": "1.jpg",
+      "source": "https://www.freemalaysiatoday.com/category/business/2025/02/17/german-voters-demand-change-as-europes-biggest-economy-stalls/",
+      "license": "CC BY 4.0"
     },
     {
       "filename": "2.jpg",
-      "source": "https://itoldya420.getarchive.net/media/federal-republic-of-germany-germany-schland-f4aabf",
-      "license": "CC0 1.0"
+      "source": "https://www.pexels.com/photo/flag-of-germany-17412355/",
+      "license": "CC0"
+    },
+  ],
+  "sari essayah": [
+    {
+      "filename": "1.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Sari_Essayah_-_Hallituksen_tiedotustilaisuus_31.08.2023_-_53153987937.jpg",
+      "license": "CC BY 2.0"
+    },
+  ],
+  "sofia virta": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kansanedustaja_Sofia_Virta_2023_%28cropped%29.jpg",
+      "license": "CC BY-SA 4.0"
     }
   ],
   "suomen hallitus": [
@@ -455,7 +507,7 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
-  "sähkö": [
+  "sähköntuotan": [
     {
       "filename": "1.jpg",
       "source": "https://picryl.com/media/france-rhone-river-industry-craft-fda029",
@@ -475,13 +527,13 @@ const images = {
   "talous": [
     {
       "filename": "1.jpg",
-      "source": "https://www.pickpik.com/money-bank-note-euro-banknote-paper-money-bill-148500",
+      "source": "https://www.agenzianova.com/en/news/case-of-svb-the-ministry-of-the-economy-follows-the-mediobanca-developments-there-is-no-risk-of-a-domino-effect/",
       "license": "CC0 1.0"
     },
     {
-      "filename": "2.jpg",
-      "source": "https://pxhere.com/fi/photo/926983",
-      "license": "CC0 1.0"
+      "filename": "2.jpeg",
+      "source": "https://www.pexels.com/photo/stock-exchange-board-210607/",
+      "license": "CC0"
     },
     {
       "filename": "3.jpg",
@@ -489,14 +541,9 @@ const images = {
       "license": "CC BY-ND 4.0"
     },
     {
-      "filename": "4.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:10_euro_banknotes_and_10_euro_cent_coins_20180207.jpg",
-      "license": "CC BY-SA 4.0"
-    },
-    {
-      "filename": "5.jpg",
-      "source": "https://pxhere.com/fi/photo/859216",
-      "license": "CC0 1.0"
+      "filename": "4.jpeg",
+      "source": "https://www.value-health-economics-policy.org/our-research/2020-special-issue-covid-19-responses-in-the-making",
+      "license": "CC BY-ND 4.0"
     },
     {
       "filename": "6.jpg",
@@ -512,11 +559,6 @@ const images = {
       "filename": "8.jpg",
       "source": "https://www.agenzianova.com/en/news/Lazio-economy-grows-by-04-percent-driven-by-tourism-services-and-construction-decline/",
       "license": "CC BY-ND 4.0"
-    },
-    {
-      "filename": "9.jpg",
-      "source": "https://www.goodfon.com/macro/wallpaper-coins-economy-paper.html",
-      "license": "CC BY-NC 4.0"
     },
   ],
   "terveydenhuolto": [
@@ -550,11 +592,6 @@ const images = {
   ],
   "ukraina": [
     {
-      "filename": "1.jpg",
-      "source": "https://www.cid.org.nz/connect/news/crisis-unfolds-following-attack-on-ukraine-dam/",
-      "license": "CC0 1.0"
-    },
-    {
       "filename": "2.jpg",
       "source": "https://afuo.org.au/community/today-we-celebrate-ukrainian-unity-day/",
       "license": "CC0 1.0"
@@ -582,6 +619,13 @@ const images = {
       "license": "CC BY-SA 4.0"
     },
   ],
+  "valtioneuvosto": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Valtioneuvosto,_Helsinki_IMG_1112.jpg",
+      "license": "CC BY-SA 4.0"
+    },
+  ],
   "venäjä": [
     {
       "filename": "1.jpeg",
@@ -592,11 +636,6 @@ const images = {
       "filename": "2.jpeg",
       "source": "https://www.sipa.columbia.edu/news/russia-confirms-yevgeny-prigozhin-died-plane-crash",
       "license": "CC0 1.0"
-    },
-    {
-      "filename": "3.png",
-      "source": "https://picryl.com/media/map-russia-flag-1796d2",
-      "license": "PDM 1.0"
     },
     {
       "filename": "4.jpg",
@@ -613,17 +652,19 @@ const images = {
       "source": "https://www.pickpik.com/moscow-the-kremlin-river-navigation-kremlevskaya-embankment-dome-151604",
       "license": "CC0 1.0"
     },
-    {
-      "filename": "7.jpg",
-      "source": "https://www.deviantart.com/think0/art/Russia-Grungy-Flag-111353394",
-      "license": "CC BY-ND 3.0"
-    },
   ],
   "vladimir putin": [
     {
       "filename": "1.jpg",
       "source": "https://www.freemalaysiatoday.com/category/business/2025/02/07/putin-hails-russias-strong-2024-economic-growth/",
       "license": "CC BY 4.0"
+    }
+  ],
+  "xi jinping": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.flickr.com/photos/unisgeneva/32270494731",
+      "license": "CC BY-NC-ND 2.0"
     }
   ],
   "zelensky": [
