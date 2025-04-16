@@ -378,7 +378,7 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
-  "petteri orpo": [
+  "pääministeri orpo": [
     {
       "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Petteri-Orpo-O45A3040.jpg",
