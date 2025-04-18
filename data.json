@@ -1,15 +1,139 @@
 {
-  "timestamp": "2025-04-18T14:49:37.699Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-04-18T15:16:49.457Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Trumpin ja keskuspankin välinen konflikti jatkuu",
+      "mainCategories": [
+        "Talous"
+      ],
+      "imageUrl": "/images/trump/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rahapolitiikka | Trump pelaa vaarallista peliä keskus­pankin kanssa – ”Seuraukset voivat olla hyvin vakavia”",
+          "content": "Keskuspankin pääjohtaja Jerome Powell on viitannut kintaalla presidentti Donald Trumpin puheille.",
+          "date": "2025-04-18T15:14:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011179801.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppasota | Trump ryöpytti keskus­pankin johtaja Powellia ja vihjaili tämän erottamisella",
+          "content": "Presidentti on tyytymätön siihen, ettei keskuspankki ole taipunut hänen toiveisiinsa. Pörssireaktio nokitteluun jäi maltilliseksi.",
+          "date": "2025-04-17T17:51:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011179095.html"
+        }
+      ]
+    },
     {
       "mainTitle": "Hallitus suunnittelee ay-jäsenmaksujen verovähennyksen poistoa",
       "mainCategories": [
         "Politiikka",
-        "Hallitus",
-        "Ammattiliitot"
+        "Taloussanomat",
+        "Hallituspolitiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -51,18 +175,6 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Ay-liike on raivoissaan",
-          "content": "Palkansaajajärjestöjen johtajat lyttäävät hallituksen puoliväliriihisuunnitelmat. Iltalehti uutisoi perjantaina, että hallitus on aikeissa poistaa työmarkkinajärjestöjen jäsenmaksujen verovähennysoikeuden. Asiasta kertoi ensimmäisenä Helsingin Sanomat. Suunnitelma oli esillä jo hallitusneuvotteluissa, mutta sitä ei silloin kuitenkaan kirjattu hallitusohjelmaan.",
-          "date": "2025-04-18T09:54:07.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/4039d68c-6b81-4e88-a3bf-a692d900306c"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
           "title": "Tämä kaikki tiedetään kehysriihen väännöistä: Hallitus aikoo poistaa ay-maksujen verovähennys­oikeuden",
           "content": "Ensi viikon päätöksiä pohjustetaan pääsiäisen aikana. Hallitus aikoo poistaa ammattiliittojen jäsenmaksujen verovähennysoikeuden. Asiasta kertoi ensimmäisenä Helsingin Sanomat. Sen, että verovähennysoikeuden poistaminen on hallituksen päätettävänä puoliväliriihessä, vahvistavat hallituslähteet myös Iltalehdelle. Hallitus aikaa poistaa myös työnantajapuolen järjestöjen jäsenmaksujen verovähennysoikeuden.",
           "date": "2025-04-18T08:46:40.000Z",
@@ -94,20 +206,6 @@
             "hallituspolitiikka"
           ],
           "link": "https://www.ts.fi/uutiset/6631200"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yrittäjät ja palkansaajat yllättyivät: hallitus haluaa vero­vähennys­oikeuden pois ay-jäsenmaksuilta",
-          "content": "Suomen Ammattiliittojen Keskusjärjestö SAK tuomitsee hallituksen suunnitelman. HS kertoi lähteisiinsä perustuen, että hallitus aikoo poistaa ammattiliittojen jäsenmaksun verovähennysoikeuden.",
-          "date": "2025-04-18T07:07:02.000Z",
-          "categories": [
-            "politiikka",
-            "hallitus",
-            "ammattiliitot"
-          ],
-          "link": "https://yle.fi/a/74-20156971?origin=rss"
         },
         {
           "publisherId": "is",
@@ -159,95 +257,6 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisliikenne rauhoittunut ja sujuva",
-      "mainCategories": [
-        "Liikenne",
-        "Kotimaa",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen menoliikenne hiljentynyt",
-          "content": "Pääsiäisen paluuliikenteen vilkkaimman päivän odotetaan olevan maanantai.",
-          "date": "2025-04-18T14:25:35.000Z",
-          "categories": [
-            "liikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157004?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen menoliikenne vilkastumassa",
-          "content": "",
-          "date": "2025-04-18T10:38:07.000Z",
-          "categories": [
-            "liikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20156984?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pääsiäisliikenne | Kehä I:llä oli ruuhkaa aiheuttanut onnettomuus, liikenne kulkee jälleen",
-          "content": "Pääsiäisen menoliikenne on muutoin sujunut toistaiseksi rauhallisesti.",
-          "date": "2025-04-17T15:30:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011178877.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ympäristöministeri tyrmää ilmastolaista luopumisen",
-      "mainCategories": [
-        "Politiikka",
-        "Ympäristö",
-        "Ilmasto"
-      ],
-      "imageUrl": "/images/riikka purra/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ympäristöministeri Sari Multala tyrmää Riikka Purran puheet ilmastolaista luopumisesta",
-          "content": "Valtiovarainministeri Riikka Purra (ps.) toteaa Ilta-Sanomissa, että perussuomalaisten kantana on ilmastolaista luopuminen. ",
-          "date": "2025-04-18T14:14:26.000Z",
-          "categories": [
-            "ympäristö",
-            "ilmasto",
-            "ilmastolaki",
-            "politiikka",
-            "kotimaa",
-            "puoliväliriihi"
-          ],
-          "link": "https://yle.fi/a/74-20156996?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Riikka Purra kertoo nyt kaiken perus­suomalaisten tulevaisuudesta – varoitus hallitus­kumppaneille",
-          "content": "Valtiovarainministeri Riikka Purra (ps) käy IS:n haastattelussa läpi perus­suomalaisten tulevaisuutta, omaa jatkoaan puheenjohtajana ja puoliväliriihen linjauksia. Hänen mukaansa ilmastolaista luopuminen on puolueen kanta ja hallitus tulee rikkomaan ilmastolakia.",
-          "date": "2025-04-18T04:05:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011171854.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Poika epäilty äitinsä murhasta Hämeenlinnassa",
       "mainCategories": [
         "Kotimaa",
@@ -294,127 +303,24 @@
       ]
     },
     {
-      "mainTitle": "Poliisilausuntoja uhkaa uusi lakko",
+      "mainTitle": "Yhdysvallat harkitsee Venäjän pakotteiden poistamista",
       "mainCategories": [
-        "Työmarkkinat",
-        "Poliisi",
-        "Työriidat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työtaistelut | Itä-Uudenmaan ja Kaakkois-Suomen poliisi­laitokset menossa lakkoon ensi viikolla",
-          "content": "Lakko koskisi laitosten kaikkia toimipisteitä. Välttämättömästä suojelutyöstä poliisi huolehtii myös lakon aikana.",
-          "date": "2025-04-18T13:52:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011179777.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi ja järjestöt sopivat mahdollisen uuden lakon aikaisesta suojelutyöstä",
-          "content": "Työriidan sovittelua jatketaan vielä pääsiäismaanantaina.",
-          "date": "2025-04-18T13:43:36.000Z",
-          "categories": [
-            "työmarkkinat",
-            "poliisi",
-            "työriidat",
-            "lakot"
-          ],
-          "link": "https://yle.fi/a/74-20157000?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisilakon uusi vaihe uhkaa – neuvotteluiden jatko pyhien jälkeen",
-          "content": "Ellei sopua synny, on toinen poliisilakko alkamassa tiistaina.",
-          "date": "2025-04-16T17:30:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011176076.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Huhtikuussa vaihtelevaa säätä Suomessa",
-      "mainCategories": [
-        "Kotimaa",
-        "Sää",
-        "Lämpötila"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uusi ennuste lupaa pakkasöitä ja lumisadetta",
-          "content": "Huhtikuu jatkuu Suomessa tavallista viileämpänä. Osa pääsiäisen sateista saattaa tulla maan keskiosassa asti lumena tai räntänä.",
-          "date": "2025-04-18T12:57:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011178960.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisenä tulossa lähes hellelukemia ja lunta",
-          "content": "Pääsiäisen sää vaihtelee maan etelä- ja keskiosissa aurinkoisista hellelukemista sateisiin viiden asteen lämpötiloihin. ",
-          "date": "2025-04-17T18:53:19.000Z",
-          "categories": [
-            "sää",
-            "lämpötila",
-            "aurinkoinen sää",
-            "pääsiäinen",
-            "meteorologit",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20156930?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Pääsiäisviikonlopun sää hämmentää – meteorologin mukaan takatalven uhka olemassa",
-          "content": "",
-          "date": "2025-04-17T12:07:09.000Z",
-          "categories": [
-            "sääennusteet"
-          ],
-          "link": "https://www.ts.fi/uutiset/6630727"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvallat uhkaa vetäytyä rauhanneuvotteluista",
-      "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Ukraina"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kova lausunto Trumpin ulko­ministeriltä — Tätä se merkitsee",
-          "content": "Mikäli Yhdysvallat vetäytyy rauhanprosessista, tarkoittaisi se Mika Aaltolan mukaan sitä, että nykymuotoiset aseleponeuvottelut ovat epäonnistuneet eikä tilanne ollut kypsä ratkaistavaksi. Venäjältä odotetaan lähipäivinä liikahdusta suhteessa Yhdysvaltain ehdottamaan rauhanmalliin Ukrainan sodan lopettamiseksi. Näin arvioi Iltalehdelle europarlamentaarikko Mika Aaltola (kok) Yhdysvaltain ulkoministeri Marco Rubion tämänpäiväisiä lausuntoja.",
-          "date": "2025-04-18T12:47:20.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Bloomberg: Yhdysvallat valmis poistamaan Venäjän pakotteita",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
+          "date": "2025-04-18T13:53:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/b71d889e-b4e1-403d-b271-83d6e1c9203d"
+          "link": "https://www.is.fi/ulkomaat/art-2000011152375.html"
         },
         {
           "publisherId": "hs",
@@ -441,64 +347,38 @@
           "link": "https://www.ts.fi/uutiset/6631230"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tutkijat: Venäjä venyttää aseleponeuvotteluita, koska se ei tarvitse rauhaa – ja Ukrainalle sopimuksessa piilee riski",
-          "content": "Tutkijan mukaan aseleposopimukseen voi sisältyä Ukrainan kannalta suuri riski. Trump voisi syyttää Ukrainaa aselevon rikkomisesta ja käyttää sitä tekosyynä aseavun lopettamiselle.",
-          "date": "2025-04-18T04:00:38.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "ukraina",
-            "ulkomaat",
-            "rauhanneuvottelut",
-            "aseleposopimukset",
-            "aseleponeuvottelut",
-            "kansainvälinen politiikka",
-            "aselepo",
-            "tulitauko",
-            "pami aalto",
-            "ukrainan asevoimat",
-            "ukrainan sota"
-          ],
-          "link": "https://yle.fi/a/74-20156354?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ukraina: Aiesopimus mineraaleista allekirjoitettu USA:n kanssa",
-          "content": "Aiemmin torstaina Trump sanoi, että mineraalisopimus tultaneen allekirjoittamaan ensi viikon torstaina.",
-          "date": "2025-04-17T22:13:20.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156952?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Saadaanko Ukrainaan tulitauko pääsiäiseksi? Näin tutkijat arvioivat",
-          "content": "Ulkopoliittisen instituutin tutkijan mukaan neuvotteluja Yhdysvaltojen ja Putinin välillä voidaan käyttää myös ansana Ukrainalle.",
-          "date": "2025-04-17T08:18:00.000Z",
+          "title": "”Koko sivistynyt maailma odottaa, onko Venäjä todella tosissaan” – Torstain Ukraina-uutiset lyhyesti",
+          "content": "Ukrainan tilanne oli torstaina vahvasti esillä maailmanpolitiikassa.",
+          "date": "2025-04-17T23:56:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011176849.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011179406.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | ”Koko sivistynyt maailma odottaa, onko Venäjä todella tosissaan” – Minuutissa kärryille Ukrainan käänteistä",
+          "content": "Ukrainan tilanne oli torstaina vahvasti esillä maailmanpolitiikassa.",
+          "date": "2025-04-17T23:49:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011179403.html"
         }
       ]
     },
     {
       "mainTitle": "Hamas hylkäsi Israelin aselepoehdotuksen",
       "mainCategories": [
-        "Ulkomaat",
         "Maailma",
-        "Hamas"
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -511,20 +391,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011179376.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hamas vaikuttaa hylänneen Israelin aselepoehdotuksen",
-          "content": "",
-          "date": "2025-04-17T20:37:02.000Z",
-          "categories": [
-            "gazan sota",
-            "hamas",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156949?origin=rss"
         },
         {
           "publisherId": "is",
@@ -549,29 +415,16 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011176341.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hamas valmistelee vastausta Israelin aselepoehdotukseen",
-          "content": "Hamasin mukaan Israelin ehdotukseen sisältyy muun muassa uusi 45 päivän aselepo, kymmenien panttivankien vapauttaminen sekä vaatimus Hamasin riisumisesta aseista.",
-          "date": "2025-04-17T00:56:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011176342.html"
         }
       ]
     },
     {
-      "mainTitle": "Ranskassa vankilaiskujen tutkinta käynnistyi",
+      "mainTitle": "Ranskassa vankilaiskujen sarja jatkuu",
       "mainCategories": [
-        "Ulkomaat",
-        "Ranska",
-        "Oikeus"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/ranska/3.jpg",
+      "imageUrl": "/images/ranska/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -584,22 +437,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011179736.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mystisten vankilaiskujen sarja puhuttaa Ranskassa – tutkija: Vankilaolot ruokkivat epäluottamusta oikeusvaltiota kohtaan",
-          "content": "Ranskan kansallinen terrorisminvastainen syyttäjänvirasto aloitti tiistaina iskuista tutkinnan",
-          "date": "2025-04-18T05:12:37.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "ranska",
-            "oikeus",
-            "järjestäytynyt rikollisuus",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156964?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -616,209 +453,11 @@
       ]
     },
     {
-      "mainTitle": "Huthit: Yhdysvaltain satamaiskussa lähes 60 kuollut",
+      "mainTitle": "Yhdysvallat päättää Ukrainan aselevosta pian",
       "mainCategories": [
-        "Ulkomaat",
-        "Konfliktit",
-        "Huthit"
+        "Ulkomaat"
       ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Huthit: Lähes 60 kuollut Yhdysvaltain satamaiskussa",
-          "content": "Paikallisviranomaisten mukaan yli 120 ihmistä on loukkaantunut iskuissa.",
-          "date": "2025-04-18T11:53:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011179732.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jemenin huthit: Uhriluku nousee  USA:n iskussa öljysatamaan",
-          "content": "Paikallisviranomaisten mukaan yli 120 ihmistä on loukkaantunut iskuissa.",
-          "date": "2025-04-18T00:20:43.000Z",
-          "categories": [
-            "konfliktit",
-            "huthit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156956?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suklaan tuotanto aiheuttaa ympäristöongelmia",
-      "mainCategories": [
-        "Elintarvikkeet",
-        "Kaakao",
-        "Suklaa"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Suosikkimunat voivat olla pahaksi maailmalle",
-          "content": "Suklaantuotantoon liittyy valitettavia ongelmia. Suosikkiherkku suklaan tuotantoon liittyy valitettavasti edelleen metsäkatoa, köyhyyttä ja lapsityövoimaa, kirjoittaa ympäristöjärjestö WWF Suomi tiedotteessaan. Suklaa on globaalisti yksi merkittävimmistä metsäkatoa aiheuttavista tuotteista. Lisäksi lapsityövoima on alalla suuri ongelma. Norsunluurannikko ja Ghana ovat maailman suurimmat kaakaontuottajamaat, ja ne ovat menettäneet suuren osan metsäpeitteestään kaakaonviljelyn vuoksi.",
-          "date": "2025-04-18T11:44:10.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/0ee9c3fc-0aa1-4f29-86cf-50d216db7d95"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäissuklaata tehdään pian ehkä jopa oluesta",
-          "content": "Kaakao on loppumassa ilmastonmuutoksen vuoksi. Siksi perinteiselle suklaalevylle etsitään korvaajia. ",
-          "date": "2025-04-17T18:10:39.000Z",
-          "categories": [
-            "elintarvikkeet",
-            "kaakao",
-            "suklaa",
-            "makeiset",
-            "ilmastonmuutos",
-            "kaakao (pavut)",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20156784?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hoitojonot lyhenevät uusilla ratkaisuilla",
-      "mainCategories": [
-        "Terveydenhuolto",
-        "Leikkausjonot",
-        "Hoitojonot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Näin moni on laittoman pitkään hoitojonossa",
-          "content": "Hyvinvointiala Hali ry arvioi, että kiireettömän erikoissairaanhoidon hoitojonot olisi purettavissa laillisen mittaisiksi noin 100 miljoonan euron panostuksella. Sosiaali- ja terveysalan palveluja tuottavia yrityksiä ja järjestöjä edustava Hali arvioi, että kiireettömän erikoissairaanhoidon laittomista hoitojonoista olisi päästävissä noin 100 miljoonan euron panostuksella. – Arvio sisältää hyvin paljon epävarmuutta, mutta on samansuuntainen, mitä HUS on arvioinut aikaisemmin omalta osaltaan, Halin pääekonomisti Joel Kuuva sanoo.",
-          "date": "2025-04-18T10:55:27.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/0c915480-031e-4a04-aeaf-3cb5856d5146"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sairaala hoksasi, että moni operaatio hoituu muualla kuin leikkaussalissa – näin hoitojonoja puretaan pakkoraossa",
-          "content": "Tuhannet jonottavat yhä hyvinvointialueilla leikkaukseen yli sallitun puoli vuotta. Hyvinvointialueet yrittävät lyhentää jonoja monin keinoin. ",
-          "date": "2025-04-18T06:21:07.000Z",
-          "categories": [
-            "terveydenhuolto",
-            "leikkausjonot",
-            "hoitojonot",
-            "päijät-häme",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20150960?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Auto-onnettomuus Fuengirolassa, kaksi kuollut",
-      "mainCategories": [
-        "Onnettomuudet",
-        "Espanja",
-        "Tieliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Espanja | Auto syöksyi pizzerian terassin yli Fuengirolassa, kaksi ihmistä kuoli",
-          "content": "Yliajosta epäilty nainen on otettu kiinni. Viranomaisten mukaan hänellä ei ollut ajokorttia.",
-          "date": "2025-04-18T10:45:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011179668.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Auto syöksyi pizzerian terassin yli Fuengirolassa, kaksi ihmistä kuoli",
-          "content": "",
-          "date": "2025-04-18T10:35:28.000Z",
-          "categories": [
-            "onnettomuudet",
-            "espanja",
-            "tieliikenne",
-            "tieliikenneonnettomuudet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156983?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Poliisit vaativat palkankorotuksia valtion kiistassa",
-      "mainCategories": [
-        "Työmarkkinat",
-        "Työmarkkinapolitiikka",
-        "Poliisi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tällaisista rahoista poliisit lakkoon saaneessa valtion palkkakiistassa on kyse",
-          "content": "Osapuolten näkemyksiä erottaa 84 miljoonan euron aukko. Valtion mielestä yleinen palkankorotuslinja on vanhentunut ja kohtuuttoman korkea, työntekijät vaativat samoja korotuksia kuin muutkin.",
-          "date": "2025-04-18T10:34:39.000Z",
-          "categories": [
-            "työmarkkinat",
-            "työmarkkinapolitiikka",
-            "poliisi",
-            "palkat",
-            "valtiovarainministeriö",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20156813?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "HS: Tällaiset ovat poliisien palkat",
-          "content": "Helsingin Sanomien kokoamien tietojen mukaan poliisit eivät ole valtion pienipalkkaisimpiin kuuluva ammattiryhmä.",
-          "date": "2025-04-16T15:15:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011175088.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainan aselevosta neuvotellaan ensi viikolla",
-      "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Ukraina"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -841,47 +480,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011179321.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eurooppa kampeaa mukaan Ukrainan-aseleponeuvotteluihin Ranskan johdolla",
-          "content": "Pariisissa päätettiin neuvottelujen jatkamisesta Lontoossa ensi viikolla.",
-          "date": "2025-04-17T18:29:19.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "ukraina",
-            "aselepo",
-            "pariisi",
-            "emmanuel macron",
-            "ranska",
-            "marco rubio",
-            "volodymyr zelenskyi",
-            "yhdysvallat",
-            "rauhanneuvottelut",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156939?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ukrainan tukineuvottelut jatkuvat ensi viikolla",
-          "content": "",
-          "date": "2025-04-17T17:56:48.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ranska",
-            "ulkomaat",
-            "ukraina",
-            "venäjä",
-            "marco rubio",
-            "steve witkoff"
-          ],
-          "link": "https://yle.fi/a/74-20156940?origin=rss"
         }
       ]
     },
@@ -921,51 +519,12 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisen tapahtumat ja menovinkit Suomessa",
-      "mainCategories": [
-        "Pääsiäinen",
-        "Kuvataide",
-        "Helsinki"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kohtuuhintaista tekemistä löytyy myös pääsiäiseksi – katso 19 vinkkiä ympäri Suomen",
-          "content": "Keräsimme tärppejä pääsiäispyhien tapahtumista ja käyntikohteista eri puolilta Suomea.",
-          "date": "2025-04-18T07:04:01.000Z",
-          "categories": [
-            "kuvataide",
-            "helsinki",
-            "pääsiäinen",
-            "juhlapäivät",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20156862?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Tässä tusina syytä lähteä liikkeelle pääsiäisenä: nappaa menovinkit Turun seudulle",
-          "content": "",
-          "date": "2025-04-17T16:30:00.000Z",
-          "categories": [
-            "pääsiäinen"
-          ],
-          "link": "https://www.ts.fi/teemat/6630453"
-        }
-      ]
-    },
-    {
       "mainTitle": "Yhdysvallat perustuslailliseen kriisiin?",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -997,8 +556,8 @@
       "mainTitle": "Rauman telakka neuvottelee jäänmurtajista Yhdysvaltojen kanssa",
       "mainCategories": [
         "Talous",
-        "Politiikka",
-        "Taloussanomat"
+        "Taloussanomat",
+        "Jäänmurtajat"
       ],
       "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
@@ -1027,18 +586,6 @@
           "link": "https://www.is.fi/taloussanomat/art-2000011179427.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "HS: Rauman telakka neuvottelee USA:n kanssa useiden jäänmurtajan rakentamisesta",
-          "content": "Neuvottelut eivät takaa tilausta, sillä että USA on tiedustellut useilta maailman telakoilta niiden valmiutta rakentaa jäänmurtajia 36 kuukaudessa.",
-          "date": "2025-04-18T00:29:39.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20156958?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1050,54 +597,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011175980.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS-analyysi | Yhdysvallat lähetti yllättäen kyselyn jään­murtajia rakentaville telakoille",
-          "content": "Yhdysvaltojen rannikkovartiosto etsii telakoita, jotka pystyvät rakentamaan jäänsärkijöitä nopealla aikataululla.",
-          "date": "2025-04-17T07:30:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011173594.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump vierailee kuningas Charlesin luona",
-      "mainCategories": [
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump vierailee ”ystävänsä”, kuningas Charlesin luona syyskuussa",
-          "content": "Trump ja kuningas Charles tapaavat syyskuussa.",
-          "date": "2025-04-18T02:41:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011179437.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump: Kuningas Charles kutsui vierailulle syyskuussa",
-          "content": "",
-          "date": "2025-04-17T21:35:05.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "keir starmer",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156951?origin=rss"
         }
       ]
     },
@@ -1136,80 +635,10 @@
       ]
     },
     {
-      "mainTitle": "Yli 120 000 ääntä hylättiin vaaleissa",
-      "mainCategories": [
-        "Vaalit",
-        "Äänestäminen",
-        "Kunnat"
-      ],
-      "imageUrl": "/images/vaalit/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Vaaleissa yli 120 000 hylättyä ääntä – ratkaisuksi sähköinen äänestys",
-          "content": "",
-          "date": "2025-04-18T02:00:00.000Z",
-          "categories": [
-            "lukijoilta"
-          ],
-          "link": "https://www.ts.fi/lukijoilta/6630186"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tällaisia terveisiä löytyy hylätyistä äänestys­lipuista – joku onnistui kirjoittamaan ehdokkaansa numeron verellä",
-          "content": "Suurin osa äänestys­lippujen hylkäämisestä johtui siitä, että ehdokkaiden numerot oli kirjoitettu vääriin lippuihin.",
-          "date": "2025-04-17T17:29:48.000Z",
-          "categories": [
-            "vaalit",
-            "äänestäminen",
-            "hylätyt äänet (vaalit)",
-            "kunnat",
-            "hyvinvointialueet",
-            "kontiolahti",
-            "alue- ja kuntavaalit 2025",
-            "kotimaa",
-            "pohjois-karjala"
-          ],
-          "link": "https://yle.fi/a/74-20156438?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Yli 1 600 oululaisen ääni hylättiin kuntavaaleissa – Aluevaaleissa mitätöitiin Pohjois-Pohjanmaalla lähes 13 000 ääntä",
-          "content": "Noin 70 000 ääntä hylättiin, kun äänestäjät merkitsivät vääriä numeroita.",
-          "date": "2025-04-17T11:50:17.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/yli-1-600-oululaisen-aani-hylattiin-kuntavaaleissa/11599476?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nämä olivat yleisimmät syyt äänestyslipukkeen hylkäämiselle alue- ja kuntavaaleissa",
-          "content": "Oikeusministeriön vaalijohtajan mukaan tuoreista luvuista voi päätellä, että sekoittumista on tapahtunut vaaliuurnilla ”suuressa määrin”. ",
-          "date": "2025-04-17T10:27:13.000Z",
-          "categories": [
-            "politiikka",
-            "oikeusministeriö",
-            "vaalit",
-            "hylätyt äänet (vaalit)",
-            "alue- ja kuntavaalit 2025"
-          ],
-          "link": "https://yle.fi/a/74-20156725?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Paavin pääsiäisosallistuminen epävarmaa",
+      "mainTitle": "Paavin pääsiäisosallistuminen epävarmaa toipumisen vuoksi",
       "mainCategories": [
         "Ulkomaat",
-        "Juhlat",
-        "Paavit"
+        "Maailma"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1225,30 +654,6 @@
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011179421.html"
         },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Paavin osallistuminen pääsiäisseremonioihin epävarmaa",
-          "content": "",
-          "date": "2025-04-17T22:38:22.000Z",
-          "categories": [
-            "juhlat",
-            "paavit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156953?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Paavin osallistuminen pääsiäiseen epävarmaa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -1276,13 +681,12 @@
       ]
     },
     {
-      "mainTitle": "Kauppasota Yhdysvaltojen ja Kiinan välillä",
+      "mainTitle": "Yhdysvallat ja Kiina neuvottelevat tuontitulleista",
       "mainCategories": [
-        "Talous",
-        "Wto",
-        "Ulkomaat"
+        "Maailma",
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1297,70 +701,16 @@
           "link": "https://www.hs.fi/maailma/art-2000011179407.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "WTO: Trumpin tullit johtavat tavarakaupan rajuun pudotukseen",
-          "content": "Yhdysvaltain ja Kiinan välinen tavarakauppa on loppumassa lähes kokonaan, arvioi WTO.",
-          "date": "2025-04-16T15:51:59.000Z",
-          "categories": [
-            "talous",
-            "wto",
-            "ulkomaat",
-            "kansainvälinen kauppa",
-            "kansainväliset talousjärjestöt",
-            "donald trump",
-            "kauppapolitiikka",
-            "tuontitulli",
-            "yhdysvallat"
-          ],
-          "link": "https://yle.fi/a/74-20156654?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | WTO varoittaa: Trumpin tullit romahduttavat viennin Yhdys­valtoihin",
-          "content": "Jo nykyiset tullipäätökset romahduttaisivat WTO:n mukaan sekä tuonnin että viennin Pohjois-Amerikasta. Jos tulleja kiristetään, voivat seuraukset maailmantaloudelle olla rajut.",
-          "date": "2025-04-16T15:08:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011175610.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjän hyökkäys herättää kansainvälistä huolta",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "”Koko sivistynyt maailma odottaa, onko Venäjä todella tosissaan” – Torstain Ukraina-uutiset lyhyesti",
-          "content": "Ukrainan tilanne oli torstaina vahvasti esillä maailmanpolitiikassa.",
-          "date": "2025-04-17T23:56:00.000Z",
+          "title": "WSJ: Trumpin hallinnolta uusi vaatimus tullineuvotteluihin",
+          "content": "Kiina julistaa, ettei pelkää kauppasotaa Yhdysvaltojen kanssa.",
+          "date": "2025-04-16T19:54:00.000Z",
           "categories": [
-            "ulkomaat"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011179406.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | ”Koko sivistynyt maailma odottaa, onko Venäjä todella tosissaan” – Minuutissa kärryille Ukrainan käänteistä",
-          "content": "Ukrainan tilanne oli torstaina vahvasti esillä maailmanpolitiikassa.",
-          "date": "2025-04-17T23:49:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011179403.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000011176231.html"
         }
       ]
     },
@@ -1501,326 +851,7 @@
       ]
     },
     {
-      "mainTitle": "Matkustaja ampui kaapparin Belizessä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Rikosepäilyt",
-        "Belize"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Matkustaja ampui pienkoneen kaapanneen miehen Belizessä",
-          "content": "",
-          "date": "2025-04-17T20:31:39.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "belize",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156948?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lentokone yritettiin kaapata – matkustaja ampui kaapparin",
-          "content": "Kolme ihmistä haavoittui Tropic Airin lentokoneessa Belizessä.",
-          "date": "2025-04-17T20:00:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011179318.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Neljä kuollut köysirataonnettomuudessa Italiassa",
-      "mainCategories": [
-        "Onnettomuudet",
-        "Italia",
-        "Napoli"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Italia | Ainakin neljä on kuollut köysi­radalla sattuneessa onnettomuudessa",
-          "content": "Onnettomuuteen joutunut kaapelivaunu oli jyrkän rotkon yläpuolella, kun kaapeli katkesi.",
-          "date": "2025-04-17T19:38:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011179236.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Neljä ihmistä kuoli köysirataonnettomuudessa Italiassa",
-          "content": "Onnettomuuteen joutunut kaapelivaunu oli jyrkän rotkon yläpuolella, kun kaapeli katkesi.",
-          "date": "2025-04-17T18:29:27.000Z",
-          "categories": [
-            "onnettomuudet",
-            "italia",
-            "kuolema, hengenvaara ja loukkaantuminen",
-            "napoli",
-            "köysiradat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156942?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump kritisoi keskuspankin johtajaa Powellia",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Trump ryöpytti keskus­pankin johtaja Powellia ja vihjaili tämän erottamisella",
-          "content": "Presidentti on tyytymätön siihen, ettei keskuspankki ole taipunut hänen toiveisiinsa. Pörssireaktio nokitteluun jäi maltilliseksi.",
-          "date": "2025-04-17T17:51:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011179095.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump haluaa potkut merkittävälle virkamiehelle: ”Poistuminen ei voi tulla riittävän ajoissa”",
-          "content": "Presidentti on tyytymätön siihen, ettei keskuspankki ole taipunut hänen toiveisiinsa.",
-          "date": "2025-04-17T12:47:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011178538.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump ja Meloni neuvottelivat kauppasopimuksesta",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Kauppasodat"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump otti vastaan Italian pääministerin: Kauppasopimus EU:n kanssa syntyy sataprosenttisesti",
-          "content": "Italian pääministeri Giorgia Meloni on Washingtonissa presidentti Donald Trumpin vieraana.  ",
-          "date": "2025-04-17T17:28:26.000Z",
-          "categories": [
-            "yhdysvallat",
-            "kauppasodat",
-            "giorgia meloni",
-            "italia",
-            "donald trump",
-            "kansainvälinen politiikka",
-            "kansainvälinen kauppa",
-            "euroopan unioni",
-            "kauppapolitiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156934?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Italian pääministeri Meloni tapaa Trumpin Washingtonissa, kaksikolla hyvät välit",
-          "content": "Giorgia Meloni oli ainoa EU-johtaja, joka kutsuttiin Trumpin virkaanastujaisiin tammikuussa.",
-          "date": "2025-04-17T00:30:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011176340.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Italian pääministeri Meloni tapaa Trumpin Washingtonissa",
-          "content": "",
-          "date": "2025-04-16T22:46:16.000Z",
-          "categories": [
-            "politiikka",
-            "euroopan unioni",
-            "giorgia meloni",
-            "donald trump",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20156677?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Giorgia Melonilla on tuhannen tariffitaalan paikka vetää matto Euroopan jalkojen alta",
-          "content": "Ei ole lainkaan selvää, että Trump olisi kiinnostunut siltojen rakentamisesta, vaikka Meloni siinä onnistuisikin, kirjoittaa ulkomaantoimittaja Anni Huttunen.",
-          "date": "2025-04-16T17:27:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011175742.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallituksen työttömyysturvauudistus herättää huolta",
-      "mainCategories": [
-        "Työttömyysturva",
-        "Politiikka",
-        "Työmarkkinat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hallitus aikoo kiristää työttömien rangaistuksia – tutkija tyrmää aikeet ja varoittaa seuraamuksista",
-          "content": "Ylen selvityksen mukaan karenssien määrät ovat jo ennestään jyrkässä kasvussa. Tutkija ei usko karenssien työllisyysvaikutukseen. ",
-          "date": "2025-04-17T17:17:23.000Z",
-          "categories": [
-            "työmarkkinat",
-            "työttömyysturva",
-            "työttömyyskorvaukset",
-            "rangaistukset",
-            "sanktiot",
-            "karenssi",
-            "työvoimapolitiikka",
-            "työnhaku",
-            "sosiaalipolitiikka",
-            "kotimaa",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20153716?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Hallitus on valmistellut ansio­sidonnaiseen työttömyys­turvaan isoa mullistusta, joka uhkaa käydä liian kalliiksi",
-          "content": "Hallitus on selvittänyt ansiosidonnaisen työttömyysturvan ulottamista kaikille työttömille. Uudistus näyttää olevan liian kallis, kirjoittaa politiikan toimittaja Hannu Tikkala.",
-          "date": "2025-04-16T16:23:30.000Z",
-          "categories": [
-            "politiikka",
-            "talous",
-            "työllisyys",
-            "työelämä",
-            "puoliväliriihi",
-            "mauri kotamäki",
-            "työttömyys",
-            "hallitukset",
-            "työllisyys ja työttömyys",
-            "työttömyysturva"
-          ],
-          "link": "https://yle.fi/a/74-20156548?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Maahanmuutto ja veroale jakavat mielipiteitä",
-      "mainCategories": [
-        "Politiikka",
-        "Puoliväliriihi",
-        "Elinkeinoelämä"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Purran näkemys maahanmuutosta saa täystyrmäyksen – veroale jakaa mielipiteitä",
-          "content": "Palkansaajajärjestö SAK ja työnantajien EK haluavat Suomeen työvoimaa ulkomailta.    ",
-          "date": "2025-04-17T17:01:50.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20156894?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Purra Ylelle: Hallitus ei edistä maahanmuuttoa puoliväliriihessä",
-          "content": "Elinkeinoelämä on esittänyt kymmenientuhansien kansainvälisten osaajien houkuttelemista Suomeen vuosittain. Valtiovarainministeri tyrmää esityksen.",
-          "date": "2025-04-17T13:04:37.000Z",
-          "categories": [
-            "politiikka",
-            "riikka purra",
-            "puoliväliriihi",
-            "elinkeinoelämän keskusliitto (ek)",
-            "elinkeinoelämä",
-            "veroaste",
-            "valtiovarainministeriö",
-            "verotus",
-            "talous",
-            "hallitukset"
-          ],
-          "link": "https://yle.fi/a/74-20156853?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ilmastotavoitteet uhkaavat metsäteollisuutta taloudellisesti",
-      "mainCategories": [
-        "Metsät",
-        "Teollisuus",
-        "Elinkeinoelämä"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Taloustieteilijä laski: Tällainen olisi ilmastotavoitteiden takia tehtävien hakkuurajoitusten hintalappu",
-          "content": "Hakkuurajoitukset laskisivat puunmyyntituloja kuudella miljardilla, valtion tuloja 5,5 miljardilla ja yritysten maksamia palkkoja 7,5 miljardilla eurolla vuosien 2026-2035 aikana.",
-          "date": "2025-04-17T16:26:02.000Z",
-          "categories": [
-            "metsät",
-            "teollisuus",
-            "elinkeinoelämä",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20156801?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Puunmyyntitulojen ja ilmastotavoitteiden ristiriita kärjistyy: Metsäala varoittaa miljarditappioista",
-          "content": "Uuden selvityksen mukaan metsähakkuiden vähentäminen vähentäisi alan tuottoja vuosittain sadoilla miljoonilla euroilla.",
-          "date": "2025-04-17T12:11:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011176545.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kuntavaalien ja aluevaalien äänivirheet selvitetty",
+      "mainTitle": "Kuntavaaleissa hylättiin yli 1 600 ääntä",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1838,6 +869,16 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011166635.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Yli 1 600 oululaisen ääni hylättiin kuntavaaleissa – Aluevaaleissa mitätöitiin Pohjois-Pohjanmaalla lähes 13 000 ääntä",
+          "content": "Noin 70 000 ääntä hylättiin, kun äänestäjät merkitsivät vääriä numeroita.",
+          "date": "2025-04-17T11:50:17.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/yli-1-600-oululaisen-aani-hylattiin-kuntavaaleissa/11599476?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -1912,53 +953,9 @@
       ]
     },
     {
-      "mainTitle": "Venäjä poisti Talebanin terroristiluokituksen",
+      "mainTitle": "Arto Satosen Kela-valinta epävarma",
       "mainCategories": [
-        "Afganistan",
-        "Ulkomaat",
-        "Taliban"
-      ],
-      "imageUrl": "/images/venäjä/1.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Venäjä ei luokittele Talibania enää terroristijärjestöksi",
-          "content": "Venäjä toivoo, että luokituksen poistaminen helpottaisi Afganistanin vakauttamista.",
-          "date": "2025-04-17T15:24:10.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "afganistan",
-            "ulkomaat",
-            "taliban",
-            "keski-aasia",
-            "venäjä",
-            "terroristijärjestöt",
-            "islam"
-          ],
-          "link": "https://yle.fi/a/74-20156924?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Terrorismi | Venäjä: Taleban ei ole terroristi­järjestö",
-          "content": "Venäjä haluaa tiivistää suhteitaan Afganistanin Taleban-hallintoon, koska se tarvitsee apua muiden joukkoja vastaan.",
-          "date": "2025-04-17T14:57:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011178812.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Olkiluodon kakkosreaktori käynnistyy toukokuussa",
-      "mainCategories": [
-        "Energia",
-        "Eurajoki",
-        "Kotimaa"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1966,44 +963,36 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ydinvoima | Olkiluodon kakkos­reaktori käyntiin taas toukokuussa",
-          "content": "Myös kolmosreaktori on pysähdyksissä vuosihuollon takia.",
-          "date": "2025-04-17T15:24:00.000Z",
+          "title": "Kommentti | Arto Satosesta on tulossa perus­suomalaisten romahduksen ensimmäinen ”uhri”",
+          "content": "Satonen saattaa yhä nousta Kelan pääjohtajaksi, mutta tällä hetkellä se vaikuttaa epätodennäköiseltä, kirjoittaa politiikan toimittaja Teemu Muhonen.",
+          "date": "2025-04-17T15:49:00.000Z",
           "categories": [
-            "talous"
+            "tilaajille",
+            "politiikka"
           ],
-          "link": "https://www.hs.fi/talous/art-2000011179022.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011178709.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Olkiluoto 2 palaa tuotantoon vasta toukokuussa – silloinkin vajaalla teholla",
-          "content": "Teollisuuden voiman mukaan OL2:n generaattorin roottori vaihdetaan vararoottoriin. Voimala saataneen käyttöön 10.5.",
-          "date": "2025-04-17T13:38:53.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HS: Tummia pilviä Arto Satosen Kela-valinnan ylle – nyt puhuu Purra",
+          "content": "Kun perussuomalaiset saavat vapaat kädet, on mahdollista, ettei Arto Satosta valittaisikaan Kelan pääjohtajaksi.",
+          "date": "2025-04-16T17:38:00.000Z",
           "categories": [
-            "energia",
-            "olkiluodon ydinvoimalaitos",
-            "eurajoki",
-            "kotimaa",
-            "ydinvoima",
-            "ydinenergia",
-            "olkiluoto",
-            "sähköntuotanto",
-            "satakunta"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20156901?origin=rss"
+          "link": "https://www.is.fi/politiikka/art-2000011175571.html"
         }
       ]
     },
     {
-      "mainTitle": "Euroopan keskuspankki leikkaa ohjauskorkoa jälleen",
+      "mainTitle": "Euroopan keskuspankki leikkaa korkoja jälleen",
       "mainCategories": [
         "Talous",
-        "Rahapolitiikka",
-        "Euribor"
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2016,36 +1005,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011177514.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Keskuspankki laski jälleen ohjauskorkojaan",
-          "content": "",
-          "date": "2025-04-17T12:17:26.000Z",
-          "categories": [
-            "korkotaso"
-          ],
-          "link": "https://www.ts.fi/uutiset/6630371"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Keskuspankki laski korkoja jo seitsemättä kertaa vuoden sisään – pääjohtaja Lagarde: ”Taloutta varjostaa poikkeuksellinen epävarmuus”",
-          "content": "Euroopan keskuspankki ilmoitti tänään laskevansa ohjauskorkoa 0,25 prosenttiyksiköllä. EKP:n pääjohtaja Christine Lagarde pitää puheen klo kello 15.45 Suomen aikaa. ",
-          "date": "2025-04-17T04:00:38.000Z",
-          "categories": [
-            "talous",
-            "euroopan keskuspankki",
-            "rahapolitiikka",
-            "euribor",
-            "asuntolainat",
-            "euroalue",
-            "korko"
-          ],
-          "link": "https://yle.fi/a/74-20156551?origin=rss"
         },
         {
           "publisherId": "is",
@@ -2070,21 +1029,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011176336.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Euroopan keskuspankilta odotetaan tänään koronlaskua",
-          "content": "",
-          "date": "2025-04-16T22:54:44.000Z",
-          "categories": [
-            "talous",
-            "euroopan keskuspankki",
-            "talletuskorko",
-            "ohjauskorko"
-          ],
-          "link": "https://yle.fi/a/74-20156678?origin=rss"
         }
       ]
     },
@@ -2122,107 +1066,10 @@
       ]
     },
     {
-      "mainTitle": "Länsiradan rahoitussopimus ei kelpaa ministerille",
-      "mainCategories": [
-        "Politiikka",
-        "Länsirata",
-        "Liikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle ja TS: Tunnin junasta uusi sopu – ministeri: ei kelpaa",
-          "content": "Yle kertoi aiemmin, että Lulu Ranne ohjasi keskeyttämään neuvottelut radan rahoituksesta.",
-          "date": "2025-04-17T14:26:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011178889.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Länsirata-neuvottelut keskeyttänyt ministeri Lulu Ranne tyrmää kuntien kustannussovun: ”Erittäin kaukana”",
-          "content": "Länsiradan osakaskunnat kertovat päässeensä sopuun rakennusvaiheen kustannuksista.",
-          "date": "2025-04-17T09:49:44.000Z",
-          "categories": [
-            "liikenne",
-            "kunnat",
-            "politiikka",
-            "valtiot, maat ja kansakunnat",
-            "länsirata",
-            "lulu ranne",
-            "varsinais-suomi",
-            "talouspoliittinen ministerivaliokunta",
-            "liikenne- ja viestintäministeriö",
-            "espoo",
-            "turku",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20156792?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kunnat pääsivät sopuun Länsiradan rahoituksesta viikkoja sitten, sanoo Heikkinen – ei kelpaa ministeri Ranteelle",
-          "content": "",
-          "date": "2025-04-17T09:09:37.000Z",
-          "categories": [
-            "länsirata"
-          ],
-          "link": "https://www.ts.fi/uutiset/6630490"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Liikenneonnettomuudet hidastavat liikennettä Oulussa ja Kehä Ykkösellä",
-      "mainCategories": [
-        "Liikenne",
-        "Liikenneonnettomuudet",
-        "Autoilu"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Liikenne purkautuu Kehä Ykkösellä kolarin jälkeen",
-          "content": "Liikenne kulkee jälleen Kehä Ykkösellä. Peräänajokolarin jälkeen onnettomuuspaikka ruuhkautui välillä Tuusulanväylän ja Pukinmäen itään päin.",
-          "date": "2025-04-17T14:21:39.000Z",
-          "categories": [
-            "liikenne",
-            "liikenneonnettomuudet",
-            "autoilu",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20156915?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kuorma-auto ja henkilöauto kolaroivat Pohjantiellä Oulussa – haittasi liikennettä pohjoisen suuntaan",
-          "content": "Pohjantiellä eli Oulun moottoritiellä on tapahtunut liikenneonnettomuus välillä Kontinkankaan liittymä – Laanilan liittymä. Onnettomuuden seurauksena toinen pohjoiseen kulkeva ajokaista on suljettu liikenteeltä.",
-          "date": "2025-04-17T10:39:15.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kuorma-auto-ja-henkiloauto-kolaroivat-pohjantiella/11599297?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Krista Kiuru hakee Kuntaliiton varatoimitusjohtajaksi",
       "mainCategories": [
         "Politiikka",
-        "Kansanedustajat",
-        "Kotimaa"
+        "Kuntaliitto"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -2261,77 +1108,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011178482.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Krista Kiuru hakee Kuntaliiton varatoimitusjohtajaksi",
-          "content": "Kuntaliiton mukaan paikkaa haki 18 ihmistä.",
-          "date": "2025-04-17T11:58:12.000Z",
-          "categories": [
-            "politiikka",
-            "krista kiuru",
-            "suomalaiset poliitikot",
-            "kansanedustajat",
-            "susanna huovinen",
-            "kotimaa",
-            "satakunta",
-            "lappi",
-            "pohjois-pohjanmaa",
-            "keski-suomi"
-          ],
-          "link": "https://yle.fi/a/74-20156861?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pia Kauma tapasi Venäjän delegaation tulkin",
-      "mainCategories": [
-        "Politiikka",
-        "Venäjä",
-        "Etyj"
-      ],
-      "imageUrl": "/images/venäjä/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "HBL: Etyjin Kaumalla oli venäläisiä tavatessa apunaan Putinin entinen tulkki",
-          "content": "Kauman toiminnasta nousi keskustelua hänen tavattuaan Venäjän delegaation edustajan Parlamenttienvälisen liiton kokouksen yhteydessä.",
-          "date": "2025-04-17T13:31:20.000Z",
-          "categories": [
-            "politiikka",
-            "venäjä",
-            "etyj",
-            "kansainvälinen politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20156895?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjä | HBL: Pia Kaumalla oli kohu­kokouksessa neuvon­antajanaan Putinin entinen tulkki",
-          "content": "Kauman toiminnasta nousi kohu hänen tavattuaan Venäjän delegaation edustajan Parlamenttienvälisen liiton kokouksen yhteydessä.",
-          "date": "2025-04-17T08:50:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011177321.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "HBL: Pia Kauman neuvon­antajana kohu­tapaamisessa oli Putinin entinen tulkki",
-          "content": "Darija Bojarskaja, joka on aiemmin työskennellyt Venäjän ulkoministeriössä ja presidentti Vladimir Putinin tulkkina.",
-          "date": "2025-04-17T08:30:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011177193.html"
         }
       ]
     },
@@ -2427,47 +1203,6 @@
       ]
     },
     {
-      "mainTitle": "Kelan pääjohtajan valinta epävarma",
-      "mainCategories": [
-        "Politiikka",
-        "Kansaneläkelaitos",
-        "Perussuomalaiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Purran mukaan PS-valtuutettujen ei tarvitse tukea Satosta Kelan johtoon – pyysimme heitä kommentoimaan, näin kävi",
-          "content": "Pääjohtajan valinta siirtyi vaalien yli, koska kokoomuksen valtuutetut vaativat lisäkuulemista. Kelan valtuusto valitsee uuden pääjohtajan ennen vappua.",
-          "date": "2025-04-17T12:33:28.000Z",
-          "categories": [
-            "politiikka",
-            "kansaneläkelaitos",
-            "perussuomalaiset",
-            "kansallinen kokoomus",
-            "suomen politiikka",
-            "julkiset virat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20156757?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "HS: Tummia pilviä Arto Satosen Kela-valinnan ylle – nyt puhuu Purra",
-          "content": "Kun perussuomalaiset saavat vapaat kädet, on mahdollista, ettei Arto Satosta valittaisikaan Kelan pääjohtajaksi.",
-          "date": "2025-04-16T17:38:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011175571.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Hallituksen esitys Ottawan sopimuksesta lausuntokierrokselle",
       "mainCategories": [
         "Politiikka"
@@ -2505,7 +1240,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2546,7 +1281,7 @@
       ]
     },
     {
-      "mainTitle": "Iltalehden toimittajan kunnianloukkausepäilyt tutkinnassa",
+      "mainTitle": "Iltalehden toimittajaan kohdistuvat kunnianloukkaukset tutkinnassa",
       "mainCategories": [
         "Politiikka",
         "Kotimaa"
@@ -2580,7 +1315,7 @@
       ]
     },
     {
-      "mainTitle": "Kokkolan Veden lahjontakohut vuosilta 2015–2021",
+      "mainTitle": "Kokkolan Veden lahjontakohut käsittelyssä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2614,11 +1349,8 @@
       ]
     },
     {
-      "mainTitle": "Kevään lämpöennätykset rikottu Oulussa ja Raumalla",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
+      "mainTitle": "Oulussa rikottiin kevään lämpöennätys",
+      "mainCategories": [],
       "imageUrl": "",
       "relatedNews": [
         {
@@ -2632,33 +1364,19 @@
           "link": "https://www.kaleva.fi/kevaan-lampoennatys-rikkoutui-oulussa-jalleen-lahe/11599239?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uusi lämpöennätys pamahti",
-          "content": "Torstaina ei ole odotettavissa yhtä korkeita lämpötiloja.",
-          "date": "2025-04-16T15:55:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011175164.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kevät | Raumalla mitattiin uusi kevään lämpö­ennätys",
-          "content": "Torstaina ei ole odotettavissa yhtä korkeita lämpötiloja, sillä päivästä on tulossa keskiviikkoa pilvisempi.",
-          "date": "2025-04-16T15:16:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011174923.html"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Poikkeuksellinen lämpöaalto sai oululaiset janoisiksi – Selvitimme, milloin patiot aukeavat",
+          "content": "Ilmatieteenlaitoksen mukaan keskiviikkona ja torstaina saadaan nauttia poikkeuksellisen lämpimästä säästä, ennen kuin viikonlopuksi palataan karusti ajalle tyypilliseen säähän. Oululaiset ottivat terassikelistä kaiken irti.",
+          "date": "2025-04-16T16:30:00.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/poikkeuksellinen-lampoaalto-sai-oululaiset-janoisi/11597634?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
-      "mainTitle": "Purra lupaa veronkevennyksiä eri tuloryhmille",
+      "mainTitle": "Purra lupaa veronkevennyksiä suurituloisille",
       "mainCategories": [
         "Politiikka"
       ],
@@ -2691,36 +1409,35 @@
       ]
     },
     {
-      "mainTitle": "Viinien myynnin laajentaminen ruokakaupoissa",
+      "mainTitle": "Pia Kauma kohtasi Venäjän delegaation edustajan",
       "mainCategories": [
-        "Politiikka",
-        "Alkoholi"
+        "Politiikka"
       ],
-      "imageUrl": "/images/alkoholi/1.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Alkoholin maahantuojat ja valmistajat: Päätöksiä viinien vapauttamisesta ei pitäisi tehdä hallituksen puoliväliriihessä",
-          "content": "",
-          "date": "2025-04-17T09:20:38.000Z",
-          "categories": [
-            "alkoholi"
-          ],
-          "link": "https://www.ts.fi/uutiset/6630412"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Alkoholi | Hallituksen tilaama viini­selvitys valmistui: Kolme vaihto­ehtoa vahvojen viinien vapauttamiselle",
-          "content": "Keskiviikkona julkaistiin selvitys viinien myynnin laajentamisesta ruokakaupoissa. Alko sanoo, että sen sijaan Alkojen aukioloaikoja voisi pidentää.",
-          "date": "2025-04-16T15:17:00.000Z",
+          "title": "Venäjä | HBL: Pia Kaumalla oli kohu­kokouksessa neuvon­antajanaan Putinin entinen tulkki",
+          "content": "Kauman toiminnasta nousi kohu hänen tavattuaan Venäjän delegaation edustajan Parlamenttienvälisen liiton kokouksen yhteydessä.",
+          "date": "2025-04-17T08:50:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011173987.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011177321.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HBL: Pia Kauman neuvon­antajana kohu­tapaamisessa oli Putinin entinen tulkki",
+          "content": "Darija Bojarskaja, joka on aiemmin työskennellyt Venäjän ulkoministeriössä ja presidentti Vladimir Putinin tulkkina.",
+          "date": "2025-04-17T08:30:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011177193.html"
         }
       ]
     },
@@ -2730,7 +1447,7 @@
         "Suomi",
         "Kotimaa"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2759,13 +1476,12 @@
       ]
     },
     {
-      "mainTitle": "Ara-vuokrat nousevat nopeammin kuin vapaarahoitteiset",
+      "mainTitle": "Ara-vuokrat nousivat vapaarahoitteisia nopeammin",
       "mainCategories": [
         "Talous",
-        "Vuokrat",
-        "Tilastokeskus"
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/1.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2780,22 +1496,6 @@
           "link": "https://www.hs.fi/talous/art-2000011176501.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ara-vuokrat nousivat taas selvästi vapaarahoitteisia nopeammin",
-          "content": "",
-          "date": "2025-04-17T06:01:13.000Z",
-          "categories": [
-            "talous",
-            "vuokrat",
-            "tilastokeskus",
-            "asuminen",
-            "kustannukset"
-          ],
-          "link": "https://yle.fi/a/74-20156707?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -2806,77 +1506,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011176462.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Elisa paransi tulostaan odotuksia enemmän",
-      "mainCategories": [
-        "Talous",
-        "Elisa",
-        "Liikevoitto"
-      ],
-      "imageUrl": "/images/talous/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Osavuosikatsaukset | Elisa paransi tulostaan odotuksia enemmän – mahdollisten tullien vaikutus jäänee vähäiseksi",
-          "content": "Elisan vertailukelpoinen liikevoitto puolestaan kasvoi muutaman prosentin.",
-          "date": "2025-04-17T06:47:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011176621.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Elisa kasvatti tulostaan ja liikevaihtoaan",
-          "content": "",
-          "date": "2025-04-17T05:47:31.000Z",
-          "categories": [
-            "talous",
-            "elisa",
-            "liikevoitto"
-          ],
-          "link": "https://yle.fi/a/74-20156702?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Aasian pörssit nousussa Trumpin myötä",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Aasiassa pörssit nousussa Trumpin kehuttua kauppaneuvotteluja Japanin kanssa",
-          "content": "",
-          "date": "2025-04-17T05:08:59.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20156689?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "WSJ: Trumpin hallinnolta uusi vaatimus tullineuvotteluihin",
-          "content": "Kiina julistaa, ettei pelkää kauppasotaa Yhdysvaltojen kanssa.",
-          "date": "2025-04-16T19:54:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011176231.html"
         }
       ]
     },
@@ -3001,7 +1630,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -3030,12 +1659,46 @@
       ]
     },
     {
+      "mainTitle": "Meloni ja Trump tapaavat Washingtonissa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/7.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Italian pääministeri Meloni tapaa Trumpin Washingtonissa, kaksikolla hyvät välit",
+          "content": "Giorgia Meloni oli ainoa EU-johtaja, joka kutsuttiin Trumpin virkaanastujaisiin tammikuussa.",
+          "date": "2025-04-17T00:30:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011176340.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kommentti | Giorgia Melonilla on tuhannen tariffitaalan paikka vetää matto Euroopan jalkojen alta",
+          "content": "Ei ole lainkaan selvää, että Trump olisi kiinnostunut siltojen rakentamisesta, vaikka Meloni siinä onnistuisikin, kirjoittaa ulkomaantoimittaja Anni Huttunen.",
+          "date": "2025-04-16T17:27:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011175742.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Yhdysvaltain pörssit laskussa Fedin kommenttien vuoksi",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
