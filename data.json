@@ -1,17 +1,8 @@
 {
-  "timestamp": "2025-04-18T20:39:17.775Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-04-18T20:50:10.378Z",
+  "successCount": 14,
+  "failureCount": 8,
   "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
     {
       "url": {
         "publisherId": "yle",
@@ -53,15 +44,6 @@
         "publisherId": "yle",
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
       },
       "reason": {}
@@ -95,6 +77,52 @@
     }
   ],
   "feeds": [
+    {
+      "mainTitle": "Yhdysvallat kohtaa perustuslaillisen kriisin",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Perheenisä viruu paha­maineisessa vankilassa – yhdysvaltalaispoliitikolle tyly vastaanotto",
+          "content": "Demokraattisenaattori tapasi El Salvadorissa miehen, jonka kohtelusta on nousemassa perustuslaillinen kriisi Yhdysvalloissa.",
+          "date": "2025-04-18T20:41:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011179894.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Tutkijat: Yhdysvallat ajautumassa perustuslailliseen kriisiin – syynä El Salvadoriin karkotettu mies",
+          "content": "Ulkomaiseen vankilaan laittomasti karkotetun miehen tapaus on kärjistänyt Trumpin hallinnon ja oikeuslaitoksen välisen konfliktin.",
+          "date": "2025-04-18T06:25:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011179415.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tutkijat: Yhdysvallat ajautumassa perustuslailliseen kriisiin – syynä El Salvadoriin karkotettu mies",
+          "content": "Ulkomaiseen vankilaan laittomasti karkotetun miehen tapaus on kärjistänyt Trumpin hallinnon ja oikeuslaitoksen välisen konfliktin.",
+          "date": "2025-04-18T00:13:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011179412.html"
+        }
+      ]
+    },
     {
       "mainTitle": "Yhdysvallat uhkaa vetäytyä neuvotteluista",
       "mainCategories": [
@@ -150,6 +178,94 @@
             "ukrainan sota"
           ],
           "link": "https://www.ts.fi/uutiset/6631230"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kennedyn murhasta julkaistiin uusia asiakirjoja",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Murha",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | ”RFK täytyy hävittää, kuten veljensä” – Robert F. Kennedyn murhasta julkaistiin 10 000 sivua aineistoa",
+          "content": "Dokumenttien joukossa on Kennedyn murhaajan muistiinpanoja, joissa hän myönsi pakkomielteensä senaattorin tappamiseen.",
+          "date": "2025-04-18T19:33:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180223.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Robert F. Kennedyn murhasta julkaistiin 10 000 sivua dokumentteja",
+          "content": "Monet kansallisarkiston tänään perjantaina julkaisemista sivuista ovat olleet julkisia jo aiemmin, mutta kaikkia ei ollut digitalisoitu.",
+          "date": "2025-04-18T16:41:26.000Z",
+          "categories": [
+            "yhdysvallat",
+            "robert f. kennedy",
+            "murha",
+            "kennedyn suku",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20157015?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tulipalo Vantaalla, asukkaita kehotetaan pysymään sisällä",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Uusimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tulipalo Vantaalla juna-aseman tuntumassa",
+          "content": "Pelastuslaitos kehottaa lähialueen asukkaita pysymään sisällä.",
+          "date": "2025-04-18T18:43:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011180191.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Autiotalo palaa Vantaan Hiekkaharjussa, lähialueen asukkaita kehotetaan pysymään sisällä",
+          "content": "",
+          "date": "2025-04-18T18:36:13.000Z",
+          "categories": [
+            "onnettomuudet",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20157020?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Vantaalla palaa juna-aseman lähellä",
+          "content": "Sammutustyöt ovat käynnissä. Lähialueen asukkaita pyydetään pysymään sisällä. Autiotalo palaa Vantaan Hiekkaharjussa. Pelastuslaitos sai hälytyksen rakennuspalosta Hiekkaharjuntielle hieman ennen kello 21 perjantai-iltana. Sammutustyöt ovat käynnissä ja kestävät vielä tuntikausia, pelastuslaitos tiedotti kello 22 jälkeen. Pelastuslaitoksen mukaan tulipalossa ei loukkaantunut ketään.",
+          "date": "2025-04-18T18:23:19.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/69b9c635-bb89-49a4-9499-9ca7fa3e356d"
         }
       ]
     },
@@ -212,10 +328,11 @@
       ]
     },
     {
-      "mainTitle": "Poliisilaakko ensi viikolla Itä-Uudellamaalla",
+      "mainTitle": "Poliisilaitosten lakko ensi viikolla",
       "mainCategories": [
-        "Politiikka",
-        "Taloussanomat"
+        "Työmarkkinat",
+        "Poliisi",
+        "Työriidat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -242,6 +359,21 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011179777.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi ja järjestöt sopivat mahdollisen uuden lakon aikaisesta suojelutyöstä",
+          "content": "Työriidan sovittelua jatketaan vielä pääsiäismaanantaina.",
+          "date": "2025-04-18T13:43:36.000Z",
+          "categories": [
+            "työmarkkinat",
+            "poliisi",
+            "työriidat",
+            "lakot"
+          ],
+          "link": "https://yle.fi/a/74-20157000?origin=rss"
         }
       ]
     },
@@ -283,10 +415,10 @@
       "mainTitle": "Hallituksen suunnitelma ay-jäsenmaksujen verovähennyksestä",
       "mainCategories": [
         "Politiikka",
-        "Taloussanomat",
-        "Hallituspolitiikka"
+        "Hallitus",
+        "Ammattiliitot"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -347,6 +479,20 @@
           "link": "https://www.ts.fi/uutiset/6631200"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yrittäjät ja palkansaajat yllättyivät: hallitus haluaa vero­vähennys­oikeuden pois ay-jäsenmaksuilta",
+          "content": "Suomen Ammattiliittojen Keskusjärjestö SAK tuomitsee hallituksen suunnitelman. HS kertoi lähteisiinsä perustuen, että hallitus aikoo poistaa ammattiliittojen jäsenmaksun verovähennysoikeuden.",
+          "date": "2025-04-18T07:07:02.000Z",
+          "categories": [
+            "politiikka",
+            "hallitus",
+            "ammattiliitot"
+          ],
+          "link": "https://yle.fi/a/74-20156971?origin=rss"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -383,11 +529,53 @@
       ]
     },
     {
-      "mainTitle": "Trumpin ja keskuspankin välinen konflikti jatkuu",
+      "mainTitle": "Meloni ja Trump keskustelevat kauppasuhteista",
+      "mainCategories": [
+        "Ulkomaat",
+        "Rooma",
+        "Italia"
+      ],
+      "imageUrl": "/images/trump/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Italian pääministeri Meloni on Trumpin eurooppalainen valittu",
+          "content": "Giorgia Meloni keskusteli eilen Washingtonissa presidentti Trumpin kanssa EU:n ja Yhdysvaltain kauppasuhteista. Keskustelut jatkuvat tänään Roomassa varapresidentti J.D. Vancen kanssa.",
+          "date": "2025-04-18T16:48:42.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "donald trump",
+            "giorgia meloni",
+            "rooma",
+            "italia",
+            "yhdysvallat",
+            "italian pääministeri",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20157003?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Italian pääministeri Meloni tapaa Trumpin Washingtonissa, kaksikolla hyvät välit",
+          "content": "Giorgia Meloni oli ainoa EU-johtaja, joka kutsuttiin Trumpin virkaanastujaisiin tammikuussa.",
+          "date": "2025-04-17T00:30:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011176340.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin ja keskuspankin välinen konflikti",
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -412,6 +600,82 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011179095.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pääsiäisliikenne rauhoittunut onnettomuudesta huolimatta",
+      "mainCategories": [
+        "Liikenne",
+        "Kotimaa",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääsiäisen menoliikenne hiljentynyt",
+          "content": "Pääsiäisen paluuliikenteen vilkkaimman päivän odotetaan olevan maanantai.",
+          "date": "2025-04-18T14:25:35.000Z",
+          "categories": [
+            "liikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20157004?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pääsiäisliikenne | Kehä I:llä oli ruuhkaa aiheuttanut onnettomuus, liikenne kulkee jälleen",
+          "content": "Pääsiäisen menoliikenne on muutoin sujunut toistaiseksi rauhallisesti.",
+          "date": "2025-04-17T15:30:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011178877.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Multala vastustaa Purran ilmastolaista luopumista",
+      "mainCategories": [
+        "Politiikka",
+        "Ympäristö",
+        "Ilmasto"
+      ],
+      "imageUrl": "/images/riikka purra/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ympäristöministeri Sari Multala tyrmää Riikka Purran puheet ilmastolaista luopumisesta",
+          "content": "Valtiovarainministeri Riikka Purra (ps.) toteaa Ilta-Sanomissa, että perussuomalaisten kantana on ilmastolaista luopuminen. ",
+          "date": "2025-04-18T14:14:26.000Z",
+          "categories": [
+            "ympäristö",
+            "ilmasto",
+            "ilmastolaki",
+            "politiikka",
+            "kotimaa",
+            "puoliväliriihi"
+          ],
+          "link": "https://yle.fi/a/74-20156996?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Riikka Purra kertoo nyt kaiken perus­suomalaisten tulevaisuudesta – varoitus hallitus­kumppaneille",
+          "content": "Valtiovarainministeri Riikka Purra (ps) käy IS:n haastattelussa läpi perus­suomalaisten tulevaisuutta, omaa jatkoaan puheenjohtajana ja puoliväliriihen linjauksia. Hänen mukaansa ilmastolaista luopuminen on puolueen kanta ja hallitus tulee rikkomaan ilmastolakia.",
+          "date": "2025-04-18T04:05:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011171854.html"
         }
       ]
     },
@@ -467,7 +731,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -513,7 +777,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ranska/3.jpg",
+      "imageUrl": "/images/ranska/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -546,7 +810,7 @@
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -608,47 +872,13 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat perustuslaillisen kriisin partaalla",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Tutkijat: Yhdysvallat ajautumassa perustuslailliseen kriisiin – syynä El Salvadoriin karkotettu mies",
-          "content": "Ulkomaiseen vankilaan laittomasti karkotetun miehen tapaus on kärjistänyt Trumpin hallinnon ja oikeuslaitoksen välisen konfliktin.",
-          "date": "2025-04-18T06:25:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011179415.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tutkijat: Yhdysvallat ajautumassa perustuslailliseen kriisiin – syynä El Salvadoriin karkotettu mies",
-          "content": "Ulkomaiseen vankilaan laittomasti karkotetun miehen tapaus on kärjistänyt Trumpin hallinnon ja oikeuslaitoksen välisen konfliktin.",
-          "date": "2025-04-18T00:13:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011179412.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Rauman telakka neuvottelee jäänmurtajista Yhdysvaltojen kanssa",
       "mainCategories": [
         "Talous",
         "Taloussanomat",
         "Jäänmurtajat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -980,18 +1210,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011177708.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Vaalit | Vaalien tulokset on vahvistettu",
-          "content": "Äänestysaktiivisuus laski kuntavaaleissa ja nousi aluevaaleissa.",
-          "date": "2025-04-16T20:40:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011176222.html"
         }
       ]
     },
@@ -1001,7 +1219,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1088,7 +1306,7 @@
       ]
     },
     {
-      "mainTitle": "Raiskaussyytteet Oulussa ja seksuaalirikokset",
+      "mainTitle": "Raiskaussyytteet Oulussa jatkuvat jälleen",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1122,7 +1340,7 @@
       ]
     },
     {
-      "mainTitle": "Väkivaltaiset rikokset ja tuomiot Suomessa",
+      "mainTitle": "Väkivaltaisia rikoksia käsitellään oikeudessa",
       "mainCategories": [
         "Suomi"
       ],
@@ -1216,7 +1434,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1291,7 +1509,7 @@
       ]
     },
     {
-      "mainTitle": "Kokkolan Veden lahjontakohut käsittelyssä",
+      "mainTitle": "Kokkolan Veden lahjontakohut oikeudessa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1325,11 +1543,11 @@
       ]
     },
     {
-      "mainTitle": "Pia Kauman kohu neuvonantajasta Venäjältä",
+      "mainTitle": "Pia Kauma kohtasi Venäjän delegaation edustajan",
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1358,12 +1576,12 @@
       ]
     },
     {
-      "mainTitle": "Ydinvoimalan asiakirjojen salakuljetusyritys Venäjälle",
+      "mainTitle": "Ydinvoimalan asiakirjojen vienti Venäjälle epäilyttävää",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1397,7 +1615,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1465,7 +1683,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1499,7 +1717,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
