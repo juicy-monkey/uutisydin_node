@@ -1,17 +1,8 @@
 {
-  "timestamp": "2025-04-18T17:50:36.344Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-04-18T18:21:30.508Z",
+  "successCount": 13,
+  "failureCount": 9,
   "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
     {
       "url": {
         "publisherId": "yle",
@@ -212,10 +203,11 @@
       ]
     },
     {
-      "mainTitle": "Poliisilaakko ensi viikolla Itä-Uudellamaalla",
+      "mainTitle": "Poliisilaitosten lakko ensi viikolla",
       "mainCategories": [
-        "Politiikka",
-        "Taloussanomat"
+        "Työmarkkinat",
+        "Poliisi",
+        "Työriidat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -242,11 +234,26 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011179777.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi ja järjestöt sopivat mahdollisen uuden lakon aikaisesta suojelutyöstä",
+          "content": "Työriidan sovittelua jatketaan vielä pääsiäismaanantaina.",
+          "date": "2025-04-18T13:43:36.000Z",
+          "categories": [
+            "työmarkkinat",
+            "poliisi",
+            "työriidat",
+            "lakot"
+          ],
+          "link": "https://yle.fi/a/74-20157000?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Trump ja Kiina neuvottelevat tuontitulleista",
+      "mainTitle": "Trumpin hallinto neuvottelee Kiinan kanssa",
       "mainCategories": [
         "Taloussanomat",
         "Maailma"
@@ -295,10 +302,10 @@
       "mainTitle": "Hallituksen suunnitelma ay-jäsenmaksujen verovähennyksestä",
       "mainCategories": [
         "Politiikka",
-        "Taloussanomat",
-        "Hallituspolitiikka"
+        "Hallitus",
+        "Ammattiliitot"
       ],
-      "imageUrl": "/images/talous/1.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -359,6 +366,20 @@
           "link": "https://www.ts.fi/uutiset/6631200"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yrittäjät ja palkansaajat yllättyivät: hallitus haluaa vero­vähennys­oikeuden pois ay-jäsenmaksuilta",
+          "content": "Suomen Ammattiliittojen Keskusjärjestö SAK tuomitsee hallituksen suunnitelman. HS kertoi lähteisiinsä perustuen, että hallitus aikoo poistaa ammattiliittojen jäsenmaksun verovähennysoikeuden.",
+          "date": "2025-04-18T07:07:02.000Z",
+          "categories": [
+            "politiikka",
+            "hallitus",
+            "ammattiliitot"
+          ],
+          "link": "https://yle.fi/a/74-20156971?origin=rss"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -399,7 +420,7 @@
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -424,6 +445,82 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011179095.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pääsiäisliikenne rauhoittunut onnettomuudesta huolimatta",
+      "mainCategories": [
+        "Liikenne",
+        "Kotimaa",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääsiäisen menoliikenne hiljentynyt",
+          "content": "Pääsiäisen paluuliikenteen vilkkaimman päivän odotetaan olevan maanantai.",
+          "date": "2025-04-18T14:25:35.000Z",
+          "categories": [
+            "liikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20157004?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pääsiäisliikenne | Kehä I:llä oli ruuhkaa aiheuttanut onnettomuus, liikenne kulkee jälleen",
+          "content": "Pääsiäisen menoliikenne on muutoin sujunut toistaiseksi rauhallisesti.",
+          "date": "2025-04-17T15:30:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011178877.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ympäristöministeri tyrmää ilmastolaista luopumisen",
+      "mainCategories": [
+        "Politiikka",
+        "Ympäristö",
+        "Ilmasto"
+      ],
+      "imageUrl": "/images/riikka purra/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ympäristöministeri Sari Multala tyrmää Riikka Purran puheet ilmastolaista luopumisesta",
+          "content": "Valtiovarainministeri Riikka Purra (ps.) toteaa Ilta-Sanomissa, että perussuomalaisten kantana on ilmastolaista luopuminen. ",
+          "date": "2025-04-18T14:14:26.000Z",
+          "categories": [
+            "ympäristö",
+            "ilmasto",
+            "ilmastolaki",
+            "politiikka",
+            "kotimaa",
+            "puoliväliriihi"
+          ],
+          "link": "https://yle.fi/a/74-20156996?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Riikka Purra kertoo nyt kaiken perus­suomalaisten tulevaisuudesta – varoitus hallitus­kumppaneille",
+          "content": "Valtiovarainministeri Riikka Purra (ps) käy IS:n haastattelussa läpi perus­suomalaisten tulevaisuutta, omaa jatkoaan puheenjohtajana ja puoliväliriihen linjauksia. Hänen mukaansa ilmastolaista luopuminen on puolueen kanta ja hallitus tulee rikkomaan ilmastolakia.",
+          "date": "2025-04-18T04:05:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011171854.html"
         }
       ]
     },
@@ -479,7 +576,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -525,7 +622,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ranska/1.jpg",
+      "imageUrl": "/images/ranska/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -620,12 +717,12 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat perustuslailliseen kriisiin?",
+      "mainTitle": "Yhdysvallat perustuslaillisen kriisin partaalla",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -736,12 +833,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjän toimien odotus Ukrainan kriisissä",
+      "mainTitle": "Venäjän toimien odotetaan vaikuttavan Ukrainaan",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -940,7 +1037,7 @@
       ]
     },
     {
-      "mainTitle": "Kuntavaalien ja aluevaalien äänivirheet paljastuivat",
+      "mainTitle": "Kuntavaaleissa ja aluevaaleissa ääniä hylättiin",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1047,7 +1144,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1167,7 +1264,7 @@
       ]
     },
     {
-      "mainTitle": "Raiskaussyytteet vanhusta ja lapsia vastaan",
+      "mainTitle": "Raiskaussyytteet lisääntyvät Oulussa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1258,7 +1355,7 @@
       ]
     },
     {
-      "mainTitle": "Hallituksen esitys Ottawan sopimuksesta lausuntokierrokselle",
+      "mainTitle": "Hallituksen esitys Ottawan sopimuksesta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1295,7 +1392,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1404,7 +1501,7 @@
       ]
     },
     {
-      "mainTitle": "Purra lupaa veronkevennyksiä suurituloisille",
+      "mainTitle": "Purra lupaa veronkevennyksiä eri tuloryhmille",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1437,7 +1534,7 @@
       ]
     },
     {
-      "mainTitle": "Pia Kauma kohtasi Venäjän delegaation edustajan",
+      "mainTitle": "Pia Kauman kohutapaaminen Venäjän edustajan kanssa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1475,7 +1572,7 @@
         "Suomi",
         "Kotimaa"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1509,7 +1606,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1607,12 +1704,12 @@
       ]
     },
     {
-      "mainTitle": "Valkoinen talo puolustaa karkotuspäätöstä",
+      "mainTitle": "Valkoinen talo puolustaa karkotuspäätöksiä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1646,7 +1743,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1675,12 +1772,12 @@
       ]
     },
     {
-      "mainTitle": "Trump lakkautti sensuuriviraston Yhdysvalloissa",
+      "mainTitle": "Trump lakkautti sensuuriviraston Valkoisessa talossa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
