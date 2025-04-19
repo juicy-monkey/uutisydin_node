@@ -1,8 +1,17 @@
 {
-  "timestamp": "2025-04-18T20:50:10.378Z",
-  "successCount": 14,
-  "failureCount": 8,
+  "timestamp": "2025-04-19T03:28:17.685Z",
+  "successCount": 12,
+  "failureCount": 10,
   "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
     {
       "url": {
         "publisherId": "yle",
@@ -36,6 +45,15 @@
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
       },
       "reason": {}
     },
@@ -78,13 +96,218 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Yhdysvallat kohtaa perustuslaillisen kriisin",
+      "mainTitle": "Yhdysvaltain iskut tappoivat 80 Huthia",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Huthit: Yhdys­valtain satama­iskut tappoivat ainakin 80",
+          "content": "Yhdysvallat ilmoitti maaliskuussa aloittavansa suuren iskuoperaation Jemeniin.",
+          "date": "2025-04-19T02:35:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011180317.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Jemen | Huthit: Yhdys­valtain satama­iskut tappoivat ainakin 80",
+          "content": "Yhdysvallat ilmoitti maaliskuussa aloittavansa suuren iskuoperaation Jemeniin.",
+          "date": "2025-04-19T02:32:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180316.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat harkitsee Krimin tunnustamista",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/venäjä/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Yhdys­vallat uhkaa vetäytyä rauhan­neuvotteluista – tämä juttu auttaa sinut minuutissa ajan tasalle",
+          "content": "Bloombergin mukaan Yhdysvallat harkitsee tunnustavansa Krimin liittämisen Venäjään osana rauhanpyrkimyksiä.",
+          "date": "2025-04-19T02:27:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180303.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina-seuranta | Bloomberg: Yhdysvallat harkitsee tunnustavansa Krimin liittämisen Venäjään",
+          "content": "HS seuraa Venäjän hyökkäyssotaa ja sen seurauksia hetki hetkeltä.",
+          "date": "2025-04-18T21:41:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011161330.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Liettua vahvistaa Suwałkin käytävää",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Politico: Liettua ryhtyy vahvistamaan Venäjän mahdollisena kohteena pidettyä aluetta",
+          "content": "Liettua pohtii sekä kulkuyhteyksien vahvistamista että mahdollisia rajaesteitä.",
+          "date": "2025-04-19T02:26:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011180315.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Liettua | Suwałkin käytävä on Naton heikko kohta – Nyt Liettua ryhtyy vahvistamaan sitä, kertoo Politico",
+          "content": "Liettua pohtii sekä kulkuyhteyksien vahvistamista että mahdollisia rajaesteitä.",
+          "date": "2025-04-19T02:19:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180306.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kevätmyrskyt aiheuttivat neljä kuolemaa Euroopassa",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/ranska/2.jpg",
       "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kevätmyrskyt iskivät Alpeille – Neljä kuollut",
+          "content": "Myrskyt riepottelivat Italiaa, Ranskaa ja Sveitsiä. Neljä ihmistä on kuollut torstaina Alppeja riepotelleissa kevätmyrskyissä Pohjois-Italiassa ja Ranskassa, kertoo uutistoimisto AFP. Vuoristossa satoi torstaina runsaasti lunta. Brittiläinen 27-vuotias lomailija jäi lumivyöryn alle Itä-Ranskassa sijaitsevassa alppikylässä. The Guardianin mukaan lumivyöry kuljetti hänet 15 metrin päähän alas vuorenrinnettä torstaina aamulla. Hänet vietiin sairaalaan, jossa hän kuoli illalla.",
+          "date": "2025-04-19T02:20:16.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/e0a763d6-5944-4887-a8b8-ee4b57ef1bb0"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Neljä kuoli Eurooppaa riepottelevissa myrskyissä",
+          "content": "Myrskyt sulkivat teitä, pysäyttivät junia ja katkoivat sähköjä Ranskassa, Italiassa ja Sveitsissä.",
+          "date": "2025-04-19T00:44:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011180300.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Myrskyt | Neljä kuoli myrskyissä Ranskassa ja Italiassa",
+          "content": "Myrskyt sulkivat teitä, pysäyttivät junia ja katkoivat sähköjä Ranskassa, Italiassa ja Sveitsissä.",
+          "date": "2025-04-18T23:50:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180295.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat vähentää joukkojaan Syyriassa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yhdysvallat aikoo vähentää Syyriassa olevien joukkojensa määrää",
+          "content": "Yhdysvaltalaissotilaita on Syyriassa tulevaisuudessa alle tuhat.",
+          "date": "2025-04-18T23:04:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011180294.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Syyria | Yhdysvallat aikoo vähentää Syyriassa olevien joukkojensa määrää",
+          "content": "Yhdysvaltalaissotilaita on Syyriassa tulevaisuudessa alle tuhat.",
+          "date": "2025-04-18T23:01:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180293.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat ja El Salvador kriisissä karkotuksen vuoksi",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Senaattori: Vahingossa karkotettu mies on siirretty eri vankilaan",
+          "content": "Trumpin liittolaisena karkotuksissa ollut El Salvadorin presidentti syytti kaksikkoa ”margaritojen siemailusta”.",
+          "date": "2025-04-18T22:53:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011180292.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "El Salvador | Senaattori: Vahingossa karkotettu mies on siirretty paha­maineisesta vankilasta",
+          "content": "Niin Yhdysvallat kuin El Salvadorkin ovat antaneet ymmärtää, ettei Kilmar Abrego Garciaa aiota enää päästää Yhdysvaltoihin.",
+          "date": "2025-04-18T22:46:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180287.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -108,164 +331,40 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011179415.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tutkijat: Yhdysvallat ajautumassa perustuslailliseen kriisiin – syynä El Salvadoriin karkotettu mies",
-          "content": "Ulkomaiseen vankilaan laittomasti karkotetun miehen tapaus on kärjistänyt Trumpin hallinnon ja oikeuslaitoksen välisen konfliktin.",
-          "date": "2025-04-18T00:13:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011179412.html"
         }
       ]
     },
     {
-      "mainTitle": "Yhdysvallat uhkaa vetäytyä neuvotteluista",
+      "mainTitle": "Auto-onnettomuus Fuengirolassa, kaksi kuollut",
       "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Yhdysvaltojen kärsivällisyys on loppumassa",
-          "content": "Tähän artikkeliin on koottu Ukrainan sodan keskeisimmät tapahtumat perjantailta 18. huhtikuuta 2025. Kyseessä on sodan 1150. päivä. Yhdysvaltain presidentti Donald Trump kertoi perjantaina, että Yhdysvallat tulee vetäytymään rauhanneuvotteluissa, jos tuloksia ei saada pian aikaan. Aiheesta uutisoivat Reuters ja AFP. – Ei ole tiettyä päivien lukumäärää, mutta haluamme saada sen aikaan nopeasti, Trump sanoi.",
-          "date": "2025-04-18T20:20:06.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/f83d379b-d564-45a5-baf5-836b2e72ec90"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukraina-seuranta | Trump: Yhdysvallat voi vetäytyä rauhan­neuvotteluista, jos ase­lepoa ei synny pian",
-          "content": "HS seuraa Venäjän hyökkäyssotaa ja sen seurauksia hetki hetkeltä.",
-          "date": "2025-04-18T17:47:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011161330.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump väläytti: Tällaisessa tilanteessa Yhdysvallat vetäytyy neuvotteluista",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
-          "date": "2025-04-18T17:30:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011152375.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Yhdysvallat uhkaa vetäytyä Ukrainan aseleponeuvotteluista",
-          "content": "",
-          "date": "2025-04-18T08:18:20.000Z",
-          "categories": [
-            "ukrainan sota"
-          ],
-          "link": "https://www.ts.fi/uutiset/6631230"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kennedyn murhasta julkaistiin uusia asiakirjoja",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Murha",
+        "Maailma",
         "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | ”RFK täytyy hävittää, kuten veljensä” – Robert F. Kennedyn murhasta julkaistiin 10 000 sivua aineistoa",
-          "content": "Dokumenttien joukossa on Kennedyn murhaajan muistiinpanoja, joissa hän myönsi pakkomielteensä senaattorin tappamiseen.",
-          "date": "2025-04-18T19:33:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011180223.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Robert F. Kennedyn murhasta julkaistiin 10 000 sivua dokumentteja",
-          "content": "Monet kansallisarkiston tänään perjantaina julkaisemista sivuista ovat olleet julkisia jo aiemmin, mutta kaikkia ei ollut digitalisoitu.",
-          "date": "2025-04-18T16:41:26.000Z",
-          "categories": [
-            "yhdysvallat",
-            "robert f. kennedy",
-            "murha",
-            "kennedyn suku",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157015?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tulipalo Vantaalla, asukkaita kehotetaan pysymään sisällä",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Uusimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tulipalo Vantaalla juna-aseman tuntumassa",
-          "content": "Pelastuslaitos kehottaa lähialueen asukkaita pysymään sisällä.",
-          "date": "2025-04-18T18:43:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011180191.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Autiotalo palaa Vantaan Hiekkaharjussa, lähialueen asukkaita kehotetaan pysymään sisällä",
-          "content": "",
-          "date": "2025-04-18T18:36:13.000Z",
-          "categories": [
-            "onnettomuudet",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157020?origin=rss"
-        },
-        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Vantaalla palaa juna-aseman lähellä",
-          "content": "Sammutustyöt ovat käynnissä. Lähialueen asukkaita pyydetään pysymään sisällä. Autiotalo palaa Vantaan Hiekkaharjussa. Pelastuslaitos sai hälytyksen rakennuspalosta Hiekkaharjuntielle hieman ennen kello 21 perjantai-iltana. Sammutustyöt ovat käynnissä ja kestävät vielä tuntikausia, pelastuslaitos tiedotti kello 22 jälkeen. Pelastuslaitoksen mukaan tulipalossa ei loukkaantunut ketään.",
-          "date": "2025-04-18T18:23:19.000Z",
+          "title": "Auto syöksyi terassille Espanjan suosikki­kohteessa – Kaksi kuollut",
+          "content": "Päihtynyt kuski kaahasi Fuengirolan rantakadulla aiheuttaen kahden ihmisen kuoleman. Henkilöauto ajoi pizzerian terassin yli Espanjan Aurinkorannikolla Fuengirolassa. Kiirastorstaina illalla sattuneessa onnettomuudessa kuoli kaksi ja loukkaantui ainakin kahdeksan ihmistä, uutisoi paikallismediat Fuengirola.fi ja El Español. Fuengirola.fi:n tavoittamien silminnäkijöiden mukaan kuski ajoi huomattavaa ylinopeutta vilkkaalla rantakadulla ja syöksyi pizzerian terassin yli. Viranomaiset kuvailivat tapahtumaa joukkoyliajoksi.",
+          "date": "2025-04-18T21:37:35.000Z",
           "categories": [
-            "kotimaa"
+            "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/69b9c635-bb89-49a4-9499-9ca7fa3e356d"
+          "link": "https://www.iltalehti.fi/ulkomaat/a/a829894c-0399-42ba-adc2-ef4d18019869"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Espanja | Auto syöksyi pizzerian terassin yli Fuengirolassa, kaksi ihmistä kuoli",
+          "content": "Yliajosta epäilty nainen on otettu kiinni. Viranomaisten mukaan hänellä ei ollut ajokorttia.",
+          "date": "2025-04-18T10:45:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011179668.html"
         }
       ]
     },
@@ -328,11 +427,10 @@
       ]
     },
     {
-      "mainTitle": "Poliisilaitosten lakko ensi viikolla",
+      "mainTitle": "Poliisilaista uusi lakko ensi viikolla",
       "mainCategories": [
-        "Työmarkkinat",
-        "Poliisi",
-        "Työriidat"
+        "Politiikka",
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -359,21 +457,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011179777.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi ja järjestöt sopivat mahdollisen uuden lakon aikaisesta suojelutyöstä",
-          "content": "Työriidan sovittelua jatketaan vielä pääsiäismaanantaina.",
-          "date": "2025-04-18T13:43:36.000Z",
-          "categories": [
-            "työmarkkinat",
-            "poliisi",
-            "työriidat",
-            "lakot"
-          ],
-          "link": "https://yle.fi/a/74-20157000?origin=rss"
         }
       ]
     },
@@ -415,10 +498,10 @@
       "mainTitle": "Hallituksen suunnitelma ay-jäsenmaksujen verovähennyksestä",
       "mainCategories": [
         "Politiikka",
-        "Hallitus",
-        "Ammattiliitot"
+        "Taloussanomat",
+        "Hallituspolitiikka"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -479,20 +562,6 @@
           "link": "https://www.ts.fi/uutiset/6631200"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yrittäjät ja palkansaajat yllättyivät: hallitus haluaa vero­vähennys­oikeuden pois ay-jäsenmaksuilta",
-          "content": "Suomen Ammattiliittojen Keskusjärjestö SAK tuomitsee hallituksen suunnitelman. HS kertoi lähteisiinsä perustuen, että hallitus aikoo poistaa ammattiliittojen jäsenmaksun verovähennysoikeuden.",
-          "date": "2025-04-18T07:07:02.000Z",
-          "categories": [
-            "politiikka",
-            "hallitus",
-            "ammattiliitot"
-          ],
-          "link": "https://yle.fi/a/74-20156971?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -529,53 +598,11 @@
       ]
     },
     {
-      "mainTitle": "Meloni ja Trump keskustelevat kauppasuhteista",
-      "mainCategories": [
-        "Ulkomaat",
-        "Rooma",
-        "Italia"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Italian pääministeri Meloni on Trumpin eurooppalainen valittu",
-          "content": "Giorgia Meloni keskusteli eilen Washingtonissa presidentti Trumpin kanssa EU:n ja Yhdysvaltain kauppasuhteista. Keskustelut jatkuvat tänään Roomassa varapresidentti J.D. Vancen kanssa.",
-          "date": "2025-04-18T16:48:42.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "donald trump",
-            "giorgia meloni",
-            "rooma",
-            "italia",
-            "yhdysvallat",
-            "italian pääministeri",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157003?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Italian pääministeri Meloni tapaa Trumpin Washingtonissa, kaksikolla hyvät välit",
-          "content": "Giorgia Meloni oli ainoa EU-johtaja, joka kutsuttiin Trumpin virkaanastujaisiin tammikuussa.",
-          "date": "2025-04-17T00:30:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011176340.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin ja keskuspankin välinen konflikti",
+      "mainTitle": "Trumpin ja keskuspankin välinen konflikti jatkuu",
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -604,134 +631,12 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisliikenne rauhoittunut onnettomuudesta huolimatta",
-      "mainCategories": [
-        "Liikenne",
-        "Kotimaa",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen menoliikenne hiljentynyt",
-          "content": "Pääsiäisen paluuliikenteen vilkkaimman päivän odotetaan olevan maanantai.",
-          "date": "2025-04-18T14:25:35.000Z",
-          "categories": [
-            "liikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157004?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pääsiäisliikenne | Kehä I:llä oli ruuhkaa aiheuttanut onnettomuus, liikenne kulkee jälleen",
-          "content": "Pääsiäisen menoliikenne on muutoin sujunut toistaiseksi rauhallisesti.",
-          "date": "2025-04-17T15:30:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011178877.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Multala vastustaa Purran ilmastolaista luopumista",
-      "mainCategories": [
-        "Politiikka",
-        "Ympäristö",
-        "Ilmasto"
-      ],
-      "imageUrl": "/images/riikka purra/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ympäristöministeri Sari Multala tyrmää Riikka Purran puheet ilmastolaista luopumisesta",
-          "content": "Valtiovarainministeri Riikka Purra (ps.) toteaa Ilta-Sanomissa, että perussuomalaisten kantana on ilmastolaista luopuminen. ",
-          "date": "2025-04-18T14:14:26.000Z",
-          "categories": [
-            "ympäristö",
-            "ilmasto",
-            "ilmastolaki",
-            "politiikka",
-            "kotimaa",
-            "puoliväliriihi"
-          ],
-          "link": "https://yle.fi/a/74-20156996?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Riikka Purra kertoo nyt kaiken perus­suomalaisten tulevaisuudesta – varoitus hallitus­kumppaneille",
-          "content": "Valtiovarainministeri Riikka Purra (ps) käy IS:n haastattelussa läpi perus­suomalaisten tulevaisuutta, omaa jatkoaan puheenjohtajana ja puoliväliriihen linjauksia. Hänen mukaansa ilmastolaista luopuminen on puolueen kanta ja hallitus tulee rikkomaan ilmastolakia.",
-          "date": "2025-04-18T04:05:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011171854.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Poika epäilty äitinsä murhasta Hämeenlinnassa",
-      "mainCategories": [
-        "Kotimaa",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Epäilty murha Hämeenlinnassa: Poika surmasi äitinsä",
-          "content": "Hämeenlinnan murhasta epäillyllä miehellä on taustallaan tuore tuomio äitiinsä kohdistuneista rikoksista. Hämeenlinnassa viime viikonloppuna tapahtuneen epäillyn murhan uhri on iäkkäämpi nainen, jonka oma poika on epäiltynä teosta. Pojalla on taustallaan tuore tuomio äitiinsä kohdistuneista rikoksista. Murhatapauksen tutkinta aloitettiin keskiviikkona 16. huhtikuuta, kun poliisi kävi uhrin asunnolla uhrin omaisten pyynnöstä. Poliisi löysi uhrin kuolleena.",
-          "date": "2025-04-18T14:12:29.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/2bba00df-ae77-4645-8663-e81effad3246"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Henkirikokset | Ihminen löytyi kuolleena kotoaan – poliisi tutkii murhana",
-          "content": "Epäilty murha tapahtui Hämeenlinnassa viime viikonloppuna.",
-          "date": "2025-04-18T07:18:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011178630.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uutta tietoa Hämeenlinnan murhasta",
-          "content": "Rikos tapahtui Hämeenlinnan kantakaupungissa viime viikonloppuna.",
-          "date": "2025-04-18T07:11:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011179485.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Hamas hylkäsi Israelin aselepoehdotuksen",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -777,7 +682,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ranska/2.jpg",
+      "imageUrl": "/images/ranska/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -810,7 +715,7 @@
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -872,13 +777,47 @@
       ]
     },
     {
+      "mainTitle": "Hämeenlinnassa tutkitaan murhaa kotitaloudessa",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Henkirikokset | Ihminen löytyi kuolleena kotoaan – poliisi tutkii murhana",
+          "content": "Epäilty murha tapahtui Hämeenlinnassa viime viikonloppuna.",
+          "date": "2025-04-18T07:18:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011178630.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uutta tietoa Hämeenlinnan murhasta",
+          "content": "Rikos tapahtui Hämeenlinnan kantakaupungissa viime viikonloppuna.",
+          "date": "2025-04-18T07:11:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011179485.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Rauman telakka neuvottelee jäänmurtajista Yhdysvaltojen kanssa",
       "mainCategories": [
         "Talous",
         "Taloussanomat",
         "Jäänmurtajat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -954,12 +893,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjän toimien odotetaan vaikuttavan Ukrainaan",
+      "mainTitle": "Venäjän toiminta Ukrainan kriisissä herättää huolta",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1162,7 +1101,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1214,56 +1153,9 @@
       ]
     },
     {
-      "mainTitle": "Euroopan keskuspankki leikkaa korkoja jälleen",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/talous/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rahapolitiikka | Euroopan keskuspankki leikkaa korkoja ja varoittaa kauppa­sodasta",
-          "content": "Kyseessä on seitsemäs 0,25 prosenttiyksikön koronleikkaus vajaan vuoden kuluessa.",
-          "date": "2025-04-17T15:12:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011177514.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Euroopan keskuspankilta odotetaan tänään koronlaskua",
-          "content": "Pankilta odotetaan yleisesti 0,25 prosenttiyksikön laskua talletuskorkoon.",
-          "date": "2025-04-17T00:24:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011176337.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rahapolitiikka | Euroopan keskuspankilta odotetaan tänään koronlaskua",
-          "content": "Euroopan keskuspankilta odotetaan yleisesti 0,25 prosenttiyksikön laskua talletuskorkoon.",
-          "date": "2025-04-17T00:21:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011176336.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Krista Kiuru hakee Kuntaliiton varatoimitusjohtajaksi",
       "mainCategories": [
-        "Politiikka",
-        "Kuntaliitto"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1280,18 +1172,6 @@
           "link": "https://www.hs.fi/politiikka/art-2000011178470.html"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kuntaliiton varatoimitusjohtajaksi pyrkii mielenkiintoisia nimiä, mukana myös varsinaissuomalainen kandidaatti",
-          "content": "",
-          "date": "2025-04-17T13:05:57.000Z",
-          "categories": [
-            "kuntaliitto"
-          ],
-          "link": "https://www.ts.fi/uutiset/6630825"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1306,7 +1186,7 @@
       ]
     },
     {
-      "mainTitle": "Raiskaussyytteet Oulussa jatkuvat jälleen",
+      "mainTitle": "Raiskaussyytteet Oulussa ja lapsirikokset",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1340,7 +1220,7 @@
       ]
     },
     {
-      "mainTitle": "Väkivaltaisia rikoksia käsitellään oikeudessa",
+      "mainTitle": "Väkivaltaiset rikokset johtavat vankeusrangaistuksiin",
       "mainCategories": [
         "Suomi"
       ],
@@ -1371,18 +1251,6 @@
           "link": "https://www.hs.fi/suomi/art-2000011178574.html"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Raunistulan puukotustapauksen miehistä yhdelle tuomio tapon yrityksestä",
-          "content": "",
-          "date": "2025-04-17T11:58:55.000Z",
-          "categories": [
-            "rikos ja oikeus"
-          ],
-          "link": "https://www.ts.fi/uutiset/6630554"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1397,7 +1265,7 @@
       ]
     },
     {
-      "mainTitle": "Hallituksen esitys Ottawan sopimuksesta lausuntokierrokselle",
+      "mainTitle": "Hallituksen esitys Ottawan sopimuksesta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1475,7 +1343,7 @@
       ]
     },
     {
-      "mainTitle": "Iltalehden toimittajaan kohdistuvat kunnianloukkaukset tutkinnassa",
+      "mainTitle": "Iltalehden toimittajan kunnianloukkausepäilyt tutkinnassa",
       "mainCategories": [
         "Politiikka",
         "Kotimaa"
@@ -1509,7 +1377,7 @@
       ]
     },
     {
-      "mainTitle": "Kokkolan Veden lahjontakohut oikeudessa",
+      "mainTitle": "Kokkolan Veden lahjontakohut oikeudenkäynnissä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1581,7 +1449,7 @@
         "Suomi",
         "Kotimaa"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1610,12 +1478,12 @@
       ]
     },
     {
-      "mainTitle": "Ara-vuokrat nousivat vapaarahoitteisia nopeammin",
+      "mainTitle": "Ara-vuokrat nousevat nopeammin kuin vapaarahoitteiset",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1640,142 +1508,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011176462.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump ei tue Israelin iskuja Iraniin",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "New York Times: Trump ei antanut tukeaan Israelin suunnitelmille iskeä Iraniin",
-          "content": "Trumpin mukaan Yhdysvallat ei aio tukea Israelin iskuja sinä aikana, kun ydinneuvottelut Iranin kanssa ovat käynnissä.",
-          "date": "2025-04-17T02:41:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011176364.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | New York Times: Trump ei antanut tukeaan Israelin suunnitelmille iskeä Iraniin",
-          "content": "Trumpin mukaan Yhdysvallat ei aio tukea Israelin iskuja sinä aikana, kun ydinneuvottelut Iranin kanssa ovat käynnissä.",
-          "date": "2025-04-17T02:37:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011176363.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Valkoinen talo puolustaa karkotuspäätöstä",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Valkoinen talo: Vahingossa karkotettu perheenisä ”ei enää koskaan asu Yhdysvalloissa”",
-          "content": "Karoline Leavitt syytti jälleen vahingossa maasta poistetun miehen kuuluneen väkivaltaiseen MS-13-jengiin.",
-          "date": "2025-04-17T02:29:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011176362.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Valkoinen talo: Vahingossa karkotettu perheenisä ”ei enää koskaan asu Yhdysvalloissa”",
-          "content": "Karoline Leavitt syytti jälleen vahingossa maasta poistetun miehen kuuluneen väkivaltaiseen MS-13-jengiin.",
-          "date": "2025-04-17T02:19:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011176356.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvaltain pörssit laskussa Fedin kommenttien vuoksi",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yhdysvaltain pörssit sulkivat selkeässä laskussa Fedin pääjohtajan kommenttien jälkeen",
-          "content": "Fedin pääjohtaja Jerome Powell arvioi, että tullimaksut aiheuttavat erittäin todennäköisesti ainakin väliaikaista nousua inflaatiolukemiin, mutta vaikutukset voivat olla myös pysyvämpiä.",
-          "date": "2025-04-17T00:17:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011176335.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pörssit | Yhdysvaltain pörssit sulkivat selkeässä laskussa Fedin pääjohtajan kommenttien jälkeen",
-          "content": "Fedin pääjohtaja Jerome Powell arvioi, että tullimaksut aiheuttavat erittäin todennäköisesti ainakin väliaikaista nousua inflaatiolukemiin, mutta vaikutukset voivat olla myös pysyvämpiä.",
-          "date": "2025-04-17T00:11:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011176332.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump lakkautti sensuuriviraston Yhdysvalloissa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpin hallinto lakkautti ”sensuuriviraston”",
-          "content": "Valkoinen talo syyttää Yhdysvaltojen entistä hallintoa amerikkalaisten puheen sensuroimisesta.",
-          "date": "2025-04-16T22:36:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011176323.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Trumpin hallinto lakkautti ”sensuuriviraston”",
-          "content": "Valkoinen talo syyttää Yhdysvaltojen entistä hallintoa amerikkalaisten puheen sensuroimisesta.",
-          "date": "2025-04-16T22:29:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011176320.html"
         }
       ]
     }
