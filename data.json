@@ -1,8 +1,99 @@
 {
-  "timestamp": "2025-04-21T06:48:19.292Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-04-21T07:16:56.014Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
       "mainTitle": "Venäjä iski Ukrainaan lennokeilla jälleen",
@@ -10,7 +101,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -51,48 +142,12 @@
       ]
     },
     {
-      "mainTitle": "Ajoavustimet aiheuttavat vaaratilanteita liikenteessä",
-      "mainCategories": [
-        "Liikenne",
-        "Ajoavustinjärjestelmät",
-        "Autot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Äkkijarrutuksia ja hidastamista viiteenkymppiin moottoritiellä – Autoilijat kertovat ajoavustimien aiheuttamista vaaratilanteista",
-          "content": "Vastuu ajamisesta on aina kuljettajalla, muistuttaa Traficom.",
-          "date": "2025-04-21T06:33:24.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/akkijarrutuksia-ja-hidastamista-viiteenkymppiin-mo/11602105?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Auton järjestelmistä johtuvat häikät ovat lisääntyneet",
-          "content": "",
-          "date": "2025-04-21T05:15:04.000Z",
-          "categories": [
-            "liikenne",
-            "ajoavustinjärjestelmät",
-            "autot"
-          ],
-          "link": "https://yle.fi/a/74-20157189?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Puolustusministeri Hegseth jakoi salaisia tietoja",
       "mainCategories": [
         "Ulkomaat",
-        "Yhdysvallat",
-        "Jemen"
+        "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -131,128 +186,16 @@
           "link": "https://www.iltalehti.fi/ulkomaat/a/0fac34c1-d53a-42bb-bd82-f495e0d8bd15"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "NYT: Yhdysvaltain puolustusministeri jakoi tietoja iskuista Jemeniin toisessakin Signal-keskusteluryhmässä",
-          "content": "New York Timesin mukaan kyseessä olivat käytännössä samat hyökkäyssuunnitelmat, joita puolustusministeri Hegseth jakoi Atlantic-lehden paljastamassa Signal-ryhmässä.",
-          "date": "2025-04-20T21:13:14.000Z",
-          "categories": [
-            "yhdysvallat",
-            "presidentti trumpin hallinto",
-            "pete hegseth",
-            "jemen",
-            "yhdysvaltain puolustusministeri",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157179?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pääsiäisen paluuliikenne huipentuu tänään",
-      "mainCategories": [
-        "Liikenne",
-        "Kotimaa",
-        "Pääsiäinen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Liikenne | Pääsiäisen paluu­liikenne vilkkaimmillaan tänään",
-          "content": "Paluuliikenteen huippu saavutetaan puolenpäivän ja iltakahdeksan välillä, arvioi Fintraffic.",
-          "date": "2025-04-21T03:22:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011181910.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen paluuliikenne vilkkaimmillaan tänään",
-          "content": "",
-          "date": "2025-04-21T01:26:22.000Z",
-          "categories": [
-            "liikenne",
-            "pääsiäinen",
-            "tieliikenne",
-            "pääsiäisliikenne",
-            "fintraffic",
-            "liikennesää"
-          ],
-          "link": "https://yle.fi/a/74-20157183?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen paluuliikenne on alkanut, ja se kiihtyy maanantaina",
-          "content": "Paluuliikenne on vilkkaimmillaan maanantaina puolesta päivästä eteenpäin.",
-          "date": "2025-04-20T13:27:23.000Z",
-          "categories": [
-            "liikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157143?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump toivoo rauhansopimusta Ukrainalle ja Venäjälle",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/4.jpg",
-      "relatedNews": [
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Trumpilta viesti Ukrainalle ja Venäjälle",
-          "content": "Yhdysvaltain presidentti ei täsmentänyt, onko neuvotteluissa tapahtunut edistystä.",
-          "date": "2025-04-21T03:03:00.000Z",
+          "title": "Viesti­kohu laajenee: ministeri jakoi tietoa myös toiseen ryhmään, kertoo yhdys­valtalais­lehti",
+          "content": "Puolustusministerin itse luomaan Signal-ryhmään kuuluivat muun muassa hänen vaimonsa ja veljensä, kertoo The New York Times.",
+          "date": "2025-04-20T21:44:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011181905.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump toivoo Venäjän ja Ukrainan välistä rauhansopimusta vielä ”tällä viikolla”",
-          "content": "Aiemmin tällä viikolla Yhdysvallat uhkasi vetäytyä Venäjän ja Ukrainan aselepoa koskevista neuvotteluista, ellei edistymistä ole nähtävissä pian.",
-          "date": "2025-04-20T23:57:27.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "yhdysvallat",
-            "donald trump",
-            "venäjä",
-            "ukraina",
-            "rauhanneuvottelut",
-            "aseelliset konfliktit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157181?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Asiantuntija: Tähän Putin pyrkii nyt",
-          "content": "Tutkija Jussi Hanhimäki arvioi, että Trumpin turhautuminen rauhanneuvotteluiden tilaan alkaa näkyä.",
-          "date": "2025-04-20T14:59:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011180559.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011181885.html"
         }
       ]
     },
@@ -260,8 +203,7 @@
       "mainTitle": "Kiina uhkaa vastatoimilla kauppasodassa",
       "mainCategories": [
         "Talous",
-        "Kiina",
-        "Yhdysvallat"
+        "Taloussanomat"
       ],
       "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
@@ -288,81 +230,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011181899.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kiina kritisoi USA:n kanssa kauppasopimuksia Kiinan kustannuksella solmivia maita",
-          "content": "Kiina uhkaa vastatoimilla niitä, jotka tekevät Kiinan etujen vastaisen sopimuksen Yhdysvaltojen kanssa.",
-          "date": "2025-04-21T02:07:01.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "kiina",
-            "yhdysvallat",
-            "tullit",
-            "talous",
-            "kauppasopimukset",
-            "kansainvälinen kauppa",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157184?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvaltojen ilmaiskut tappoivat kymmeniä Jemenissä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Sodat",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Huthit: Yhdys­valtojen ilma­iskut tappoivat ainakin 12",
-          "content": "Ministeriön mukaan Yhdysvallat teki iskuja torille ja asuinalueelle.",
-          "date": "2025-04-21T01:05:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011181894.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Huthit: Yhdysvaltain ilmaiskut tappoivat ainakin 12 ihmistä Jemenissä",
-          "content": "Yhdysvallat on tehnyt viime aikoina lähes päivittäisiä iskuja Jemeniin.",
-          "date": "2025-04-21T00:40:08.000Z",
-          "categories": [
-            "sodat",
-            "gazan sota",
-            "yhdysvallat",
-            "huthit",
-            "jemen",
-            "lähi-itä",
-            "konfliktit",
-            "punainenmeri",
-            "sanaa",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157182?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Jemen | Huthit: Yhdys­valtain satama­iskut tappoivat ainakin 80",
-          "content": "Yhdysvallat ilmoitti maaliskuussa aloittavansa suuren iskuoperaation Jemeniin.",
-          "date": "2025-04-19T08:15:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011180316.html"
         }
       ]
     },
@@ -372,7 +239,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -401,13 +268,12 @@
       ]
     },
     {
-      "mainTitle": "Israelin armeija myöntää virheitä tulituksessa",
+      "mainTitle": "Israel myöntää virheen avustustyöntekijöiden kuolemassa",
       "mainCategories": [
-        "Ulkomaat",
-        "Israel",
-        "Levottomuudet"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -422,94 +288,24 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011181860.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Palestiinan Punainen Puolikuu: Israelin tutkinta ambulanssien ampumisesta täynnä valheita",
-          "content": "Israelin armeija kertoi aiemmin sunnuntaina, että ampumistapauksissa havaittiin muun muassa useita ammatillisia epäonnistumisia sekä käskyjen rikkomuksia.",
-          "date": "2025-04-20T19:45:32.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Gazan sota | Järjestö: Israel valehtelee avustus­työntekijöiden tappamisesta",
+          "content": "Maaliskuun lopulla 15 avustustyöntekijää kuoli, kun Israelin joukot tulittivat ambulansseja Gazan kaistan eteläosassa.",
+          "date": "2025-04-20T20:07:00.000Z",
           "categories": [
-            "gazan sota",
-            "punainen risti",
-            "israel",
-            "lähi-itä",
-            "levottomuudet",
-            "palestiinalaisalueet",
-            "ampumavälikohtaukset",
-            "israelin puolustusvoimat",
-            "gazan kaista",
-            "ulkomaat"
+            "maailma"
           ],
-          "link": "https://yle.fi/a/74-20157178?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Israelin armeijan tutkinta ambulanssien ampumisesta valmistui – myöntää ”ammatilliset epäonnistumiset”",
-          "content": "Israelin joukkojen tulituksessa kuoli 15 ensihoitajaa ja avustustyöntekijää. Israelin armeijan mukaan kuusi oli Hamasin terroristeja.",
-          "date": "2025-04-20T14:21:49.000Z",
-          "categories": [
-            "gazan sota",
-            "gazan kaista",
-            "ensihoitajat",
-            "israel",
-            "israelin puolustusvoimat",
-            "hälytysajoneuvot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157156?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000011181565.html"
         }
       ]
     },
     {
-      "mainTitle": "Brittihävittäjät puolustavat Naton ilmatilaa",
+      "mainTitle": "Leijona ja norsu tappoivat Keniassa",
       "mainCategories": [
-        "Ulkomaat",
-        "Britannia",
-        "Nato"
-      ],
-      "imageUrl": "/images/nato/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Telegraph: Brittien hävittäjät nousivat puolustamaan Naton ilmatilaa venäläis­koneilta",
-          "content": "Venäläiskoneet lensivät liian lähelle Naton ilmatilaa.",
-          "date": "2025-04-20T20:53:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011181848.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Britannian hävittäjät nousivat tunnistamaan venäläiskoneita Itämerellä kolmesti tällä viikolla",
-          "content": "Torstaina brittihävittäjät kävivät tunnistamassa Iljušin Il-20-tiedustelukoneen Itämeren yllä lähellä Naton ilmatilaa.",
-          "date": "2025-04-20T12:58:16.000Z",
-          "categories": [
-            "britannia",
-            "nato",
-            "hävittäjät",
-            "itämeri",
-            "ilmavoimat",
-            "ilmatila",
-            "venäjä",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157145?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Leijona tappoi nuoren tytön Keniassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Onnettomuudet",
-        "Leijonat"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -526,22 +322,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011181872.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Leijona tappoi 14-vuotiaan tytön Nairobin laitamilla Keniassa",
-          "content": "Nairobin kansallispuistossa, joka sijaitsee vain noin 10 kilometrin päässä kaupungin keskustasta, elää leijonia.",
-          "date": "2025-04-20T15:18:11.000Z",
-          "categories": [
-            "onnettomuudet",
-            "leijonat",
-            "nairobin kansallispuisto",
-            "kenia",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157162?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -556,11 +336,9 @@
       ]
     },
     {
-      "mainTitle": "Sateet jatkuvat pääsiäisen aikana Suomessa",
+      "mainTitle": "Sateinen sää jatkuu eteläisessä Suomessa",
       "mainCategories": [
-        "Sää",
-        "Sääennusteet",
-        "Kotimaa"
+        "Suomi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -577,44 +355,16 @@
           "link": "https://www.hs.fi/suomi/art-2000011181640.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tänään on satanut paikoin yhtä paljon kuin tavallisesti koko huhtikuussa – ja huomenna jatkuu",
-          "content": "Huhtikuun alku on ollut todella kuivaa ja vähäsateista, mutta nyt vettä on tullut runsaasti.",
-          "date": "2025-04-20T13:24:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Lämpö­tilat putoavat ja vettä tulee ”aika reippaasti”",
+          "content": "Etelän sadealueilla elohopea jää alle kymmenen plusasteen.",
+          "date": "2025-04-19T23:39:00.000Z",
           "categories": [
-            "sää",
-            "sääennusteet",
-            "sateinen sää",
-            "etelä-suomi",
-            "lämpötila",
-            "lumi",
-            "kotimaa"
+            "suomi"
           ],
-          "link": "https://yle.fi/a/74-20157144?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Etelä-Suomeen saapuu sunnuntaina runsaita sateita Baltiasta – tulvavaroitus Lounais-Suomeen ja Kanta-Hämeeseen",
-          "content": "Baltiasta saapuva kostea ilmamassa kohtaa Suomessa kylmän ilmamassan. Seurauksena on runsaita sateita.",
-          "date": "2025-04-19T10:07:58.000Z",
-          "categories": [
-            "sää",
-            "tulvat",
-            "tulvavaroitus",
-            "varsinais-suomi",
-            "kanta-häme",
-            "satakunta",
-            "uusimaa",
-            "länsi-uusimaa",
-            "sade",
-            "sääennusteet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157063?origin=rss"
+          "link": "https://www.hs.fi/suomi/art-2000011181098.html"
         }
       ]
     },
@@ -622,8 +372,7 @@
       "mainTitle": "Sofia Virta myöntää virheelliset tiedot metsähakkuista",
       "mainCategories": [
         "Politiikka",
-        "Metsät",
-        "Päätehakkuu"
+        "Paikalliset"
       ],
       "imageUrl": "/images/metsä/1.jpg",
       "relatedNews": [
@@ -686,23 +435,6 @@
             "politiikka"
           ],
           "link": "https://www.iltalehti.fi/politiikka/a/f3e21dba-518d-4bf9-9b93-22538d005080"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vihreiden Sofia Virta myöntää Ylelle kertoneensa väärää tietoa julkisuuteen puolisonsa metsähakkuista",
-          "content": "Virran kommentti liittyy uutisointiin hänen puolisonsa metsän avohakkuista Naantalissa.",
-          "date": "2025-04-20T08:06:21.000Z",
-          "categories": [
-            "politiikka",
-            "metsät",
-            "sofia virta",
-            "päätehakkuu",
-            "luonto",
-            "avohakkuut"
-          ],
-          "link": "https://yle.fi/a/74-20157083?origin=rss"
         }
       ]
     },
@@ -741,51 +473,11 @@
       ]
     },
     {
-      "mainTitle": "Tutkijat löysivät ennennäkemättömän värin",
+      "mainTitle": "Hallitus suunnittelee yhteisöveron kevennystä",
       "mainCategories": [
-        "Tutkimus",
-        "Väritutkimus",
-        "Väri"
+        "Politiikka"
       ],
       "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tutkijat kertovat löytäneensä värin, jota kukaan ei ole aiemmin nähnyt",
-          "content": "Tutkimuksesta voi olla apua erityisesti värisokeille ihmisille, uskoo tutkimustiimi.",
-          "date": "2025-04-20T17:39:17.000Z",
-          "categories": [
-            "tutkimus",
-            "väritutkimus",
-            "väri",
-            "tiede"
-          ],
-          "link": "https://yle.fi/a/74-20157125?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tiede | Tutkijat väittävät löytäneensä uuden värin",
-          "content": "Turkoosia muistuttava väri on tutkijoiden mukaan ennennäkemätön.",
-          "date": "2025-04-20T09:25:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011181143.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallitus suunnittelee yhteisöveron keventämistä",
-      "mainCategories": [
-        "Politiikka",
-        "Verotus",
-        "Talous"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -800,22 +492,6 @@
           "link": "https://www.is.fi/politiikka/art-2000011181739.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "HS: Hallitus aikoo laskea yhteisöveroa",
-          "content": "Päätös yhteisöveron keventämisestä on määrä tehdä hallituksen puoliväliriihessä tiistaina ja keskiviikkona, Helsingin Sanomat kirjoittaa.",
-          "date": "2025-04-20T17:34:25.000Z",
-          "categories": [
-            "verotus",
-            "yhteisövero",
-            "hallitus",
-            "puoliväliriihi",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20157170?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -826,69 +502,15 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011181677.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hallitus kaavailee tulo- ja yhteisöveron laskemista – tätä siitä seuraisi",
-          "content": "Hallitus kaavailee kehysriihessä veronkevennyksiä palkkoihin ja yritysten maksamiin yhteisöveroihin.",
-          "date": "2025-04-19T09:20:37.000Z",
-          "categories": [
-            "verotus",
-            "politiikka",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20156752?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Finnairin työnseisaukset vapun jälkeen",
-      "mainCategories": [
-        "Työmarkkinat",
-        "Työnseisaukset",
-        "Lentoliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Taas uusia työnseisauksia – koskee Finnairia",
-          "content": "Nyt ilmoitetut työnseisaukset ovat vapun jälkeisenä maanantaina.",
-          "date": "2025-04-20T16:03:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011181663.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "IAU ilmoitti uusista työnseisauksista",
-          "content": "",
-          "date": "2025-04-20T14:05:24.000Z",
-          "categories": [
-            "työmarkkinat",
-            "ilmailualan liitto (iau)",
-            "palvelualojen työnantajat palta",
-            "työnseisaukset",
-            "lentoliikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157158?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kuluttajariidat asunnosta ja autosta",
+      "mainTitle": "Kuluttajariidat asunnon ja auton korvauksista",
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -917,11 +539,9 @@
       ]
     },
     {
-      "mainTitle": "Nuoret vahingoittivat autoja Tampereella",
+      "mainTitle": "Nuoret epäillyt autojen vahingoittamisesta Tampereella",
       "mainCategories": [
-        "Rikosepäilyt",
-        "Autot",
-        "Tampere"
+        "Suomi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -938,230 +558,24 @@
           "link": "https://www.hs.fi/suomi/art-2000011181557.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pariakymmentä autoa vahingoitettu Tampereella – poliisi ottanut kaksi epäiltyä kiinni",
-          "content": "Poliisin tämänhetkisen tiedon mukaan 18:aa eri ajoneuvoa on vahingoitettu ja ainakin yhdestä ajoneuvosta on anastettu omaisuutta. ",
-          "date": "2025-04-20T13:19:03.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "autot",
-            "tampere",
-            "pirkanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157148?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump suunnittelee Afrikan-toimintojen lakkauttamista",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Afrikka",
-        "Diplomatia"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | NYT: Trump suunnittelee ulko­ministeriön Afrikan toimintojen lakkauttamista",
-          "content": "Presidentti kaavailee rajuja leikkauksia ulkoministeriön toimintoihin.",
-          "date": "2025-04-20T14:15:00.000Z",
+          "title": "Rikosepäilyt | Kutsumattomat vieraat tunkeutuivat koti­bileisiin Tampereella: alaikäistä lyötiin puukolla",
+          "content": "Puukotuksen uhri on 17-vuotias ja puukotuksesta epäilty täysi-ikäinen.",
+          "date": "2025-04-20T09:24:00.000Z",
           "categories": [
-            "maailma"
+            "suomi"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011181475.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trumpin leikkuri on lakkauttamassa Yhdysvaltain ulkoministeriön Afrikan-toiminnot",
-          "content": "Lisäksi lakkautusuhka kohdistuu ulkoministeriön osastoihin, jotka työskentelevät demokratia-, ihmisoikeus-, ilmasto- ja pakolaiskysymysten parissa.",
-          "date": "2025-04-20T12:22:54.000Z",
-          "categories": [
-            "yhdysvallat",
-            "yhdysvaltain ulkoministeriö",
-            "donald trump",
-            "afrikka",
-            "diplomatia",
-            "ulkopolitiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157142?origin=rss"
+          "link": "https://www.hs.fi/suomi/art-2000011181308.html"
         }
       ]
     },
     {
-      "mainTitle": "Ay-jäsenmaksun verovähennysoikeuden poistosta huolta",
+      "mainTitle": "Kevät aikaisessa, lajit kärsivät ja menestyvät",
       "mainCategories": [
-        "Politiikka",
-        "Talous",
-        "Perussuomalaiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ay-jäsenmaksun verovähennysoikeuden poisto vaikuttaisi noin kahteen miljoonaan suomalaiseen",
-          "content": "Suuri osa liittojen jäsenistä on pieni- ja keskituloisia palkansaajia.",
-          "date": "2025-04-20T14:03:35.000Z",
-          "categories": [
-            "talous",
-            "palkansaajajärjestöt ja ammattiliitot",
-            "ay-jäsenmaksut",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20157122?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Perussuomalaisten ay-väki huolestui hallituksen aikeista: ”Hyökkäys suomalaisen työntekijän asemaa vastaan”",
-          "content": "Perussuomalaisten ay-aktiivien yhdistys vetoaa perussuomalaisiin ministereihin ja kansanedustajiin, ettei hallitus poistaisi ammattiliittojen jäsenmaksun verovähennysoikeutta.",
-          "date": "2025-04-19T09:14:00.000Z",
-          "categories": [
-            "politiikka",
-            "perussuomalaiset",
-            "verovähennykset",
-            "ay-jäsenmaksut",
-            "työmarkkinapolitiikka"
-          ],
-          "link": "https://yle.fi/a/74-20157061?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Jättiaallot aiheuttivat kuolemia Australiassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Onnettomuudet",
-        "Hukkuminen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jättiaallot ovat riepotelleet Australiaa, jo kuusi ihmistä on hukkunut",
-          "content": "Pelastuspalveluita tarjoavan Surf Life Saving Australia -järjestön mukaan kyseessä on ollut Uudessa Etelä-Walesissa pahin pääsiäinen järjestön mittaushistoriassa. ",
-          "date": "2025-04-20T13:03:34.000Z",
-          "categories": [
-            "onnettomuudet",
-            "hukkuminen",
-            "australia",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157147?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Valtavat aallot veivät ihmisiä mukanaan Australiassa: ainakin viisi kuollut",
-          "content": "Australian ilmatieteen laitos on varoittanut vaarallisista olosuhteista.",
-          "date": "2025-04-19T23:05:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011181091.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Paavi vaatii aselepoa Gazassa",
-      "mainCategories": [
-        "Uskonnot",
-        "Franciscus",
-        "Vatikaani"
-      ],
-      "imageUrl": "/images/gaza/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pääsiäinen | Paavi toivotti heiveröisesti hyvää pääsiäistä ja ajeli Paavi­mobiililla",
-          "content": "Perinteisessä urbi et orbi -puheessaan paavi Franciscus vaati aselepoa Gazan kaistalle.",
-          "date": "2025-04-20T12:30:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011181428.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Paavi lausui muutaman sanan Urbi et orbi -puheestaan – tuomitsi antisemitismin ja vetosi tulitauon puolesta Gazassa",
-          "content": "Paavi Franciscus ei puhunut itse, koska hänen äänensä on heikko keuhkokuumeen jäljiltä.",
-          "date": "2025-04-20T04:35:17.000Z",
-          "categories": [
-            "uskonnot",
-            "franciscus",
-            "vatikaani",
-            "paavit",
-            "pääsiäinen",
-            "messut",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157117?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Vasa-laivan kaatumisriski vaatii toimenpiteitä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ruotsi",
-        "Hylyt"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Vasa-laiva uhkaa kaatua",
-          "content": "Lähes 400 vuotta sitten vain noin vartin kestäneellä ensipurjehduksella uponneelle laivalle rakennetaan teräksistä \"selkärankaa\". Vasan hylky oli 1960-luvulla näyttämö kaikkien aikojen suomalaiselle teekkarijäynälle.",
-          "date": "2025-04-20T11:57:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011181407.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ruotsin kuuluisa Vasa-laiva uhkaa keikahtaa taas kumoon",
-          "content": "Lähes 400 vuotta sitten vain noin vartin kestäneellä ensipurjehduksella uponneelle laivalle rakennetaan teräksistä selkärankaa. ",
-          "date": "2025-04-20T11:20:48.000Z",
-          "categories": [
-            "ruotsi",
-            "hylyt",
-            "meriarkeologia",
-            "vasat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157140?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kevät etenee aikaisemmin Suomessa",
-      "mainCategories": [
-        "Kotimaa",
-        "Luonto",
-        "Linnut"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1178,21 +592,6 @@
           "link": "https://www.is.fi/kotimaa/art-2000011181384.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Voikukka kukkii ”väärään vuodenaikaan” – kevään merkit ovat tänä vuonna aikaisessa",
-          "content": "Luontoliiton mukaan osa lajeista häviää ja osa voittaa, kun keväät varhaistuvat.",
-          "date": "2025-04-20T07:37:26.000Z",
-          "categories": [
-            "luonto",
-            "linnut",
-            "kukat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157124?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1207,218 +606,36 @@
       ]
     },
     {
-      "mainTitle": "Polttoaineiden hinnat laskeneet Trumpin myötä",
+      "mainTitle": "Australiassa kuusi kuollut valtavissa aalloissa",
       "mainCategories": [
-        "Hinnat",
-        "Bensiini",
-        "Diesel"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Bensa ja diesel ovat halventuneet Trumpin kauppasodan myötä – asiantuntijan mukaan pumppuhinnat voivat yhä laskea",
-          "content": "Polttoaineiden hinnat eivät ole ehtineet täysimääräisesti reagoida raakaöljyn halpenemiseen, kertoo Hanna Kalenoja Keskuskauppakamarista. ",
-          "date": "2025-04-20T11:23:14.000Z",
-          "categories": [
-            "hinnat",
-            "bensiini",
-            "diesel",
-            "öljy",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20157139?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Bensapumpulla näkyvä muutos",
-          "content": "Polttoaineiden hinnat eivät ole ehtineet täysimääräisesti reagoida raakaöljyn halpenemiseen, kertoo Hanna Kalenoja Keskuskauppakamarista.",
-          "date": "2025-04-20T11:22:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011181381.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kolme astronauttia palasi Maahan 220 päivän jälkeen",
-      "mainCategories": [
-        "Avaruus",
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Avaruus | Kolme avaruuslentäjää palasi Maahan – Mukana vanhin yhä työtään tekevä yhdysvaltalais­astronautti",
-          "content": "Kolmikko vietti avaruudessa 220 päivää tehden tutkimuksia Kansainvälisellä avaruusasemalla.",
-          "date": "2025-04-20T11:03:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011181348.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vanhin yhä työtään tekevä 70-vuotias astronautti palasi maahan syntymäpäivänään",
-          "content": "Kaksi venäläistä ja yksi yhdysvaltalainen avaruuslentäjä palasivat Maahan kansainväliseltä avaruusasemalta.",
-          "date": "2025-04-20T09:42:58.000Z",
-          "categories": [
-            "avaruus",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157136?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Putinin tulitauko ei rauhoita tilannetta",
-      "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "/images/ukraina/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Putin ilmoitti tulitauosta – Sekä Ukrainan että Venäjän mukaan iskut jatkuvat",
-          "content": "Ukrainan presidentti Volodomyr Zelenskyin mukaan Venäjä on jatkanut sotatoimia ainakin osassa alueita tulitauon julistamisesta huolimatta. Myös Venäjä kertoo Ukrainan jatkaneen iskuja.",
-          "date": "2025-04-20T10:50:00.000Z",
-          "categories": [
-            "ukrainan kriisi"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/putin-ilmoitti-tulitauosta-seka-ukrainan-etta-venajan-mukaan-iskut-jatkuvat/f0cac445-9305-4595-a493-5959e798449c"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | Putin ilmoitti tuli­tauosta – Kerromme minuutissa, mitä tilanteesta tiedetään nyt",
-          "content": "Ukrainan mukaan sotatoimet eivät olisi ainakaan täysin tauonneet Putinin ilmoituksesta huolimatta.",
-          "date": "2025-04-20T02:03:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011181108.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | Asiantuntija ei usko Putinin julistamaan tuli­taukoon: ”Poliittista peliä”",
-          "content": "Venäjän tulitaukoilmoitus on poliittista peliä, jonka aikana voidaan odottaa provokaatioita, sanoo Ukrainan sotaa seuraava asiantuntija John Helin.",
-          "date": "2025-04-19T17:07:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011180606.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvaltojen talous ja dollari heikkenevät",
-      "mainCategories": [
-        "Talous",
-        "Yhdysvallat",
-        "Korko"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kaiken tullisekoilun keskellä on yksi selvä asia: Trump kohtasi voittajansa",
-          "content": "Dollarin ja Yhdysvaltain talouden asema on ollut maailman sijoittajille kuin peruskallio. Nyt rahoitusmaailman lait menivät uusiksi. ",
-          "date": "2025-04-20T10:35:27.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "yhdysvaltain dollari",
-            "korko",
-            "lainamarkkinat",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20155423?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Yhdysvaltojen talous horjuu, kun dollari rapistuu – ”Trump ei ymmärrä talouden perusasioita”",
-          "content": "Sijoittajien luottamus Yhdysvaltoihin horjuu, ja dollari on heikentynyt merkittävästi.",
-          "date": "2025-04-19T13:15:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011180432.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Evakkojen liputuspäivä muistuttaa menneistä traumoista",
-      "mainCategories": [
-        "Kotimaa",
-        "Sodat",
-        "Evakuointi"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Paluu evakosta kotiin oli synkkä: Lapin sota teki Kantomaan perheen lapsista täysorpoja",
-          "content": "Tänään sunnuntaina vietetään ensimmäistä kertaa evakkojen liputuspäivää. Evakon kokeneen Pauli Kantomaan lapsuusperheen kohtalo on Lapin sodan surullisimpia.",
-          "date": "2025-04-20T07:27:04.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Australia | Valtavat aallot vieneet ihmisiä mukanaan: ainakin kuusi kuollut",
+          "content": "Ihmiset ovat menneet varoituksista huolimatta rantakalliolle kalastamaan.",
+          "date": "2025-04-20T06:36:00.000Z",
           "categories": [
-            "sodat",
-            "lapin sota",
-            "evakuointi",
-            "evakot",
-            "lappi",
-            "ylitornio",
-            "pakolaiset",
-            "kotimaa"
+            "maailma"
           ],
-          "link": "https://yle.fi/a/74-20156256?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tänään liputetaan ensimmäistä kertaa evakkojen kunniaksi",
-          "content": "",
-          "date": "2025-04-20T00:09:59.000Z",
-          "categories": [
-            "yhteiskunta",
-            "karjalan liitto",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157113?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000011181084.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Tänään liputetaan ensimmäistä kertaa evakkojen kunniaksi",
-          "content": "Liputuksella muistetaan Suomen sodissa kotiseutunsa pysyvästi tai väliaikaisesti jättäneitä.",
-          "date": "2025-04-19T22:41:00.000Z",
+          "title": "Valtavat aallot veivät ihmisiä mukanaan Australiassa: ainakin viisi kuollut",
+          "content": "Australian ilmatieteen laitos on varoittanut vaarallisista olosuhteista.",
+          "date": "2025-04-19T23:05:00.000Z",
           "categories": [
-            "kotimaa"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011181079.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011181091.html"
         }
       ]
     },
@@ -1466,42 +683,7 @@
       ]
     },
     {
-      "mainTitle": "Trumpin vastaiset mielenosoitukset Yhdysvalloissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Mielenosoitukset"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tuhannet vastustavat Trumpia mielenosoituksissa ympäri Yhdysvaltoja",
-          "content": "Tuhannet ihmiset kokoontuivat mielenosoituksiin eri puolilla Yhdysvaltoja.",
-          "date": "2025-04-20T04:26:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011181135.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trumpin politiikkaa vastustavia protesteja eri puolilla Yhdysvaltoja",
-          "content": "Ihmiset kantoivat kylttejä, joissa luki muun muassa ”Ei kuninkaita Amerikassa” ja ”Vastustakaa tyranniaa.”",
-          "date": "2025-04-19T23:34:29.000Z",
-          "categories": [
-            "mielenosoitukset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157112?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Oulaisista löytynyt henkilö tunnistettu",
+      "mainTitle": "Oulaisista löytynyt henkilö ei ole rikoksen uhri",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1541,47 +723,18 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011180853.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Punkit lisääntyvät kaupungeissa, varovaisuus tarpeen",
-      "mainCategories": [
-        "Kotimaa",
-        "Luonto",
-        "Puutiaiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yllättävä tieto punkeista – kaupunkilaisten syytä olla varuillaan",
-          "content": "Punkit ovat jälleen liikkeellä eli luonnossa liikkuvien on syytä olla varuillaan.",
-          "date": "2025-04-20T04:15:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011180598.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Punkkeja vaanii kaupungeissa luultua enemmän – myös tautiriski voi olla suurempi kuin maalla",
-          "content": "Punkkeja on myös muualla kuin saaristossa, ja luultua enemmän. Kaupungeissa erityisesti oravat toimivat punkkien isäntinä.",
-          "date": "2025-04-19T11:01:06.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Yksi ihminen loukkaantui ampumisessa Järvenpäässä",
+          "content": "Tekijä on yhä karkuteillä, mutta hänen henkilöllisyytensä on poliisin tiedossa.",
+          "date": "2025-04-19T11:29:00.000Z",
           "categories": [
-            "luonto",
-            "puutiaiset",
-            "punkit",
-            "turku",
-            "borrelioosi",
-            "varsinais-suomi",
-            "kotimaa"
+            "suomi"
           ],
-          "link": "https://yle.fi/a/74-20156469?origin=rss"
+          "link": "https://www.hs.fi/suomi/art-2000011180547.html"
         }
       ]
     },
@@ -1620,12 +773,79 @@
       ]
     },
     {
-      "mainTitle": "USA ja Iran edistyvät ydineuvotteluissa",
+      "mainTitle": "Evakkojen muistopäivä liputetaan jatkossa",
       "mainCategories": [
-        "Ulkomaat",
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tavat | Pääsiäissunnuntaina liputetaan ensimmäistä kertaa evakoille",
+          "content": "Evakkojen muistopäivää vietetään jatkossa aina 20. huhtikuuta.",
+          "date": "2025-04-20T03:01:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011181119.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tänään liputetaan ensimmäistä kertaa evakkojen kunniaksi",
+          "content": "Liputuksella muistetaan Suomen sodissa kotiseutunsa pysyvästi tai väliaikaisesti jättäneitä.",
+          "date": "2025-04-19T22:41:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011181079.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Putinin tulitauko herättää epäilyksiä",
+      "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Putin ilmoitti tuli­tauosta – Kerromme minuutissa, mitä tilanteesta tiedetään nyt",
+          "content": "Ukrainan mukaan sotatoimet eivät olisi ainakaan täysin tauonneet Putinin ilmoituksesta huolimatta.",
+          "date": "2025-04-20T02:03:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011181108.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Asiantuntija ei usko Putinin julistamaan tuli­taukoon: ”Poliittista peliä”",
+          "content": "Venäjän tulitaukoilmoitus on poliittista peliä, jonka aikana voidaan odottaa provokaatioita, sanoo Ukrainan sotaa seuraava asiantuntija John Helin.",
+          "date": "2025-04-19T17:07:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011180606.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "USA ja Iran edistyvät ydineuvotteluissa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1652,40 +872,25 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011181097.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yhdysvallat kertoi edistyksestä Iran-neuvotteluissa",
-          "content": "",
-          "date": "2025-04-19T20:32:16.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iran | Yhdysvallat ja Iran kävivät neuvotteluja Iranin ydin­ohjelmasta Roomassa",
+          "content": "Neuvotteluja jatketaan ensi lauantaina Omanissa.",
+          "date": "2025-04-19T15:35:00.000Z",
           "categories": [
-            "kansainvälinen politiikka",
-            "ulkomaat"
+            "maailma"
           ],
-          "link": "https://yle.fi/a/74-20157108?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yhdysvaltojen ja Iranin neuvottelut Iranin ydinohjelmasta käynnistyivät Roomassa",
-          "content": "Iranin edustajien mukaan Iran ei neuvottele Yhdysvaltojen kanssa kansalliseen turvallisuuteen liittyvistä asioista vaan pakotteiden poistamisesta.",
-          "date": "2025-04-19T12:12:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011180593.html"
+          "link": "https://www.hs.fi/maailma/art-2000011180452.html"
         }
       ]
     },
     {
       "mainTitle": "Ase­kauppoja Israelille vastustava aloite eduskuntaan",
       "mainCategories": [
-        "Politiikka",
-        "Yhteiskunta",
-        "Kansalaisaloitteet"
+        "Politiikka"
       ],
-      "imageUrl": "/images/eduskunta/1.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1698,20 +903,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011181075.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asehankintoja Israelista vastustava kansalaisaloite etenee eduskuntaan",
-          "content": "",
-          "date": "2025-04-19T22:59:26.000Z",
-          "categories": [
-            "yhteiskunta",
-            "kansalaisaloitteet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157111?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -1728,46 +919,12 @@
       ]
     },
     {
-      "mainTitle": "Sateet ja lämpötilat laskevat etelässä",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lämpötiloihin raju pudotus – vettä tulee ”aika reippaasti”",
-          "content": "Etelän sadealueilla elohopea jää alle kymmenen plusasteen.",
-          "date": "2025-04-19T23:44:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011181103.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Lämpö­tilat putoavat ja vettä tulee ”aika reippaasti”",
-          "content": "Etelän sadealueilla elohopea jää alle kymmenen plusasteen.",
-          "date": "2025-04-19T23:39:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011181098.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Netanjahu: Panttivangit ilman Hamasin vaatimuksia",
       "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1780,19 +937,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011181063.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Netanjahu: Panttivangit voidaan tuoda takaisin ilman Hamasin vaatimuksiin suostumista",
-          "content": "Gazassa kuoli lauantaina ensimmäinen israelilaissotilas sotatoimien jatkumisen jälkeen.",
-          "date": "2025-04-19T19:56:43.000Z",
-          "categories": [
-            "gazan sota",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20157106?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -1809,122 +953,36 @@
       ]
     },
     {
-      "mainTitle": "Poliisioperaatioita ja ampumisia eri paikkakunnilla",
+      "mainTitle": "Trumpin kauppasota heikentää Yhdysvaltojen taloutta",
       "mainCategories": [
-        "Kotimaa",
-        "Rikokset",
-        "Uusimaa"
+        "Talous"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iso poliisioperaatio Espoossa – osallisena ”vaarallinen henkilö” ja veitsi",
-          "content": "Paikalla on useita poliisin partioita.",
-          "date": "2025-04-19T14:31:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppasota | Tekikö Trump rahaa markkinoiden heilunnalla? HS vastaa lukijoiden tulli­sotkua koskeviin kysymyksiin",
+          "content": "Donald Trumpin käynnistämä kauppasota on kylvänyt markkinoille epävarmuutta parin viikon ajan. Kysymyksiä on herännyt myös Helsingin Sanomien lukijoissa. Vastaamme tässä jutussa lukijoiden lähettämiin kysymyksiin.",
+          "date": "2025-04-19T18:33:00.000Z",
           "categories": [
-            "kotimaa"
+            "tilaajille",
+            "talous"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011180625.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi selvitti epäselvää tilannetta Espoon Painiityssä – kaksi otettu kiinni, toista epäillään huumausainerikoksesta",
-          "content": "Alueelta raportoitiin hätäkeskukseen mahdollisesti vaarallisesta henkilöstä. Paikalla oli useita ihmisiä, ja yhdellä oli veitsi. ",
-          "date": "2025-04-19T13:02:11.000Z",
-          "categories": [
-            "poliisi",
-            "espoo",
-            "rikokset",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157080?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Valtaajat työllistivät poliisia Helsingin Kaivohuoneella – kaksi nuorta otettiin kiinni",
-          "content": "Helsingin poliisin johtokeskuksesta kerrotaan, että Kaivohuoneelta häipyi kymmeniä ihmisiä eri suuntiin, kun virkavalta saapui paikalle.",
-          "date": "2025-04-19T11:34:17.000Z",
-          "categories": [
-            "rikokset",
-            "helsingin kaivohuone",
-            "valtaus",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157073?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi tutkii tapon yritystä Järvenpäässä – ampuja yhä vapaalla jalalla",
-          "content": "Tekijää ei ole saatu kiinni.",
-          "date": "2025-04-19T11:30:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011180565.html"
+          "link": "https://www.hs.fi/talous/art-2000011177253.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Rikosepäilyt | Yksi ihminen loukkaantui ampumisessa Järvenpäässä",
-          "content": "Tekijä on yhä karkuteillä, mutta hänen henkilöllisyytensä on poliisin tiedossa.",
-          "date": "2025-04-19T11:29:00.000Z",
+          "title": "Kauppasota | Yhdysvaltojen talous horjuu, kun dollari rapistuu – ”Trump ei ymmärrä talouden perusasioita”",
+          "content": "Sijoittajien luottamus Yhdysvaltoihin horjuu, ja dollari on heikentynyt merkittävästi.",
+          "date": "2025-04-19T13:15:00.000Z",
           "categories": [
-            "suomi"
+            "talous"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011180547.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ammuntatapauksessa Järvenpäässä yksi loukkaantui",
-      "mainCategories": [
-        "Kotimaa",
-        "Ampuminen",
-        "Rikokset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Järvenpäässä ammuttiin eilen, yksi loukkaantui",
-          "content": "Järvenpäässä ammuttiin eilen ulkoalueella useita laukauksia, ja yksi ihminen haavoittui.",
-          "date": "2025-04-19T11:50:18.000Z",
-          "categories": [
-            "ampuminen",
-            "rikokset",
-            "esitutkinta",
-            "poliisi",
-            "järvenpää",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20157075?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "IL: Ihmistä ammuttiin Järvenpäässä",
-          "content": "Poliisilta saadun tiedon mukaan ampuja on yhä karkuteillä.",
-          "date": "2025-04-19T10:00:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011180517.html"
+          "link": "https://www.hs.fi/talous/art-2000011180432.html"
         }
       ]
     },
@@ -1960,11 +1018,11 @@
       ]
     },
     {
-      "mainTitle": "Trumpin toinen kausi mullisti maailman",
+      "mainTitle": "Trumpin toinen kausi mullisti maailman.",
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
