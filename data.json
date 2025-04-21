@@ -1,17 +1,8 @@
 {
-  "timestamp": "2025-04-21T07:16:56.014Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-04-21T07:37:47.854Z",
+  "successCount": 13,
+  "failureCount": 9,
   "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
     {
       "url": {
         "publisherId": "yle",
@@ -145,9 +136,10 @@
       "mainTitle": "Puolustusministeri Hegseth jakoi salaisia tietoja",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma"
+        "Yhdysvallat",
+        "Jemen"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -186,16 +178,57 @@
           "link": "https://www.iltalehti.fi/ulkomaat/a/0fac34c1-d53a-42bb-bd82-f495e0d8bd15"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Viesti­kohu laajenee: ministeri jakoi tietoa myös toiseen ryhmään, kertoo yhdys­valtalais­lehti",
-          "content": "Puolustusministerin itse luomaan Signal-ryhmään kuuluivat muun muassa hänen vaimonsa ja veljensä, kertoo The New York Times.",
-          "date": "2025-04-20T21:44:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "NYT: Yhdysvaltain puolustusministeri jakoi tietoja iskuista Jemeniin toisessakin Signal-keskusteluryhmässä",
+          "content": "New York Timesin mukaan kyseessä olivat käytännössä samat hyökkäyssuunnitelmat, joita puolustusministeri Hegseth jakoi Atlantic-lehden paljastamassa Signal-ryhmässä.",
+          "date": "2025-04-20T21:13:14.000Z",
           "categories": [
+            "yhdysvallat",
+            "presidentti trumpin hallinto",
+            "pete hegseth",
+            "jemen",
+            "yhdysvaltain puolustusministeri",
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011181885.html"
+          "link": "https://yle.fi/a/74-20157179?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pääsiäisen paluuliikenne huipentuu tänään",
+      "mainCategories": [
+        "Liikenne",
+        "Kotimaa",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Liikenne | Pääsiäisen paluu­liikenne vilkkaimmillaan tänään",
+          "content": "Paluuliikenteen huippu saavutetaan puolenpäivän ja iltakahdeksan välillä, arvioi Fintraffic.",
+          "date": "2025-04-21T03:22:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011181910.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääsiäisen paluuliikenne kiihtyy puolen päivän jälkeen",
+          "content": "Paluuliikenne jatkuu vilkkaana ilta kahdeksaan saakka, arvioi Tieliikennekeskus.",
+          "date": "2025-04-20T13:27:23.000Z",
+          "categories": [
+            "liikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20157143?origin=rss"
         }
       ]
     },
@@ -205,7 +238,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -239,7 +272,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -268,7 +301,7 @@
       ]
     },
     {
-      "mainTitle": "Israel myöntää virheen avustustyöntekijöiden kuolemassa",
+      "mainTitle": "Israel myöntää virheen Gazassa tapahtuneessa.",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -369,7 +402,7 @@
       ]
     },
     {
-      "mainTitle": "Sofia Virta myöntää virheelliset tiedot metsähakkuista",
+      "mainTitle": "Sofia Virta myöntää virheelliset tiedot",
       "mainCategories": [
         "Politiikka",
         "Paikalliset"
@@ -423,18 +456,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011181279.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Näin Sofia Virta selittää pötypuheitaan – Käytti myös toista väärää termiä",
-          "content": "Vihreiden puheenjohtaja Sofia Virta kertoo Instagramissa, että hän ei tiennyt suojus- ja siemenpuuhakkuita päätehakkuiksi. Vihreiden puheenjohtaja Sofia Virta myöntää, että hän on antanut julkisuuteen väärää tietoa puolisonsa metsässä tapahtuneista hakkuista. Ensin Seiska ja myöhemmin Iltalehti kertoivat, että asiakirjalähteiden perusteella Virran puolison metsässä oli tehty runsaasti enemmän päätehakkuita kuin mitä Virta väitti.",
-          "date": "2025-04-20T08:36:30.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/f3e21dba-518d-4bf9-9b93-22538d005080"
         }
       ]
     },
@@ -473,11 +494,51 @@
       ]
     },
     {
-      "mainTitle": "Hallitus suunnittelee yhteisöveron kevennystä",
+      "mainTitle": "Tutkijat löysivät ennennäkemättömän värin",
       "mainCategories": [
-        "Politiikka"
+        "Tutkimus",
+        "Väritutkimus",
+        "Väri"
       ],
       "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tutkijat kertovat löytäneensä värin, jota kukaan ei ole aiemmin nähnyt",
+          "content": "Tutkimuksesta voi olla apua erityisesti värisokeille ihmisille, uskoo tutkimustiimi.",
+          "date": "2025-04-20T17:39:17.000Z",
+          "categories": [
+            "tutkimus",
+            "väritutkimus",
+            "väri",
+            "tiede"
+          ],
+          "link": "https://yle.fi/a/74-20157125?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tiede | Tutkijat väittävät löytäneensä uuden värin",
+          "content": "Turkoosia muistuttava väri on tutkijoiden mukaan ennennäkemätön.",
+          "date": "2025-04-20T09:25:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011181143.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hallitus suunnittelee yhteisöveron keventämistä",
+      "mainCategories": [
+        "Politiikka",
+        "Verotus",
+        "Yhteisövero"
+      ],
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -490,6 +551,22 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011181739.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS: Hallitus aikoo laskea yhteisöveroa",
+          "content": "Päätös yhteisöveron keventämisestä on määrä tehdä hallituksen puoliväliriihessä tiistaina ja keskiviikkona, Helsingin Sanomat kirjoittaa.",
+          "date": "2025-04-20T17:34:25.000Z",
+          "categories": [
+            "verotus",
+            "yhteisövero",
+            "hallitus",
+            "puoliväliriihi",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20157170?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -506,11 +583,11 @@
       ]
     },
     {
-      "mainTitle": "Kuluttajariidat asunnon ja auton korvauksista",
+      "mainTitle": "Kuluttajariidat asunnosta ja autosta",
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -606,6 +683,88 @@
       ]
     },
     {
+      "mainTitle": "Yhdysvaltojen talous ja dollari heikkenevät",
+      "mainCategories": [
+        "Talous",
+        "Yhdysvallat",
+        "Korko"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kaiken tullisekoilun keskellä on yksi selvä asia: Trump kohtasi voittajansa",
+          "content": "Dollarin ja Yhdysvaltain talouden asema on ollut maailman sijoittajille kuin peruskallio. Nyt rahoitusmaailman lait menivät uusiksi. ",
+          "date": "2025-04-20T10:35:27.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "yhdysvaltain dollari",
+            "korko",
+            "lainamarkkinat",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20155423?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppasota | Yhdysvaltojen talous horjuu, kun dollari rapistuu – ”Trump ei ymmärrä talouden perusasioita”",
+          "content": "Sijoittajien luottamus Yhdysvaltoihin horjuu, ja dollari on heikentynyt merkittävästi.",
+          "date": "2025-04-19T13:15:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011180432.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Evakkojen liputuspäivä muistuttaa menneistä traumoista",
+      "mainCategories": [
+        "Kotimaa",
+        "Sodat",
+        "Evakuointi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Paluu evakosta kotiin oli synkkä: Lapin sota teki Kantomaan perheen lapsista täysorpoja",
+          "content": "Tänään sunnuntaina vietetään ensimmäistä kertaa evakkojen liputuspäivää. Evakon kokeneen Pauli Kantomaan lapsuusperheen kohtalo on Lapin sodan surullisimpia.",
+          "date": "2025-04-20T07:27:04.000Z",
+          "categories": [
+            "sodat",
+            "lapin sota",
+            "evakuointi",
+            "evakot",
+            "lappi",
+            "ylitornio",
+            "pakolaiset",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20156256?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tänään liputetaan ensimmäistä kertaa evakkojen kunniaksi",
+          "content": "Liputuksella muistetaan Suomen sodissa kotiseutunsa pysyvästi tai väliaikaisesti jättäneitä.",
+          "date": "2025-04-19T22:41:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011181079.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Australiassa kuusi kuollut valtavissa aalloissa",
       "mainCategories": [
         "Maailma",
@@ -640,7 +799,7 @@
       ]
     },
     {
-      "mainTitle": "Taistelut jatkuvat Ukrainassa huolimatta tulitauosta",
+      "mainTitle": "Taistelut jatkuvat huolimatta tulitauosta",
       "mainCategories": [
         "Ulkomaat"
       ],
@@ -683,7 +842,7 @@
       ]
     },
     {
-      "mainTitle": "Oulaisista löytynyt henkilö ei ole rikoksen uhri",
+      "mainTitle": "Oulaisista löytynyt henkilö tunnistettu",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -773,45 +932,11 @@
       ]
     },
     {
-      "mainTitle": "Evakkojen muistopäivä liputetaan jatkossa",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tavat | Pääsiäissunnuntaina liputetaan ensimmäistä kertaa evakoille",
-          "content": "Evakkojen muistopäivää vietetään jatkossa aina 20. huhtikuuta.",
-          "date": "2025-04-20T03:01:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011181119.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tänään liputetaan ensimmäistä kertaa evakkojen kunniaksi",
-          "content": "Liputuksella muistetaan Suomen sodissa kotiseutunsa pysyvästi tai väliaikaisesti jättäneitä.",
-          "date": "2025-04-19T22:41:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011181079.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Putinin tulitauko herättää epäilyksiä",
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -924,7 +1049,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -949,40 +1074,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011181062.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin kauppasota heikentää Yhdysvaltojen taloutta",
-      "mainCategories": [
-        "Talous"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Tekikö Trump rahaa markkinoiden heilunnalla? HS vastaa lukijoiden tulli­sotkua koskeviin kysymyksiin",
-          "content": "Donald Trumpin käynnistämä kauppasota on kylvänyt markkinoille epävarmuutta parin viikon ajan. Kysymyksiä on herännyt myös Helsingin Sanomien lukijoissa. Vastaamme tässä jutussa lukijoiden lähettämiin kysymyksiin.",
-          "date": "2025-04-19T18:33:00.000Z",
-          "categories": [
-            "tilaajille",
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011177253.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Yhdysvaltojen talous horjuu, kun dollari rapistuu – ”Trump ei ymmärrä talouden perusasioita”",
-          "content": "Sijoittajien luottamus Yhdysvaltoihin horjuu, ja dollari on heikentynyt merkittävästi.",
-          "date": "2025-04-19T13:15:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011180432.html"
         }
       ]
     },
@@ -1018,11 +1109,11 @@
       ]
     },
     {
-      "mainTitle": "Trumpin toinen kausi mullisti maailman.",
+      "mainTitle": "Trumpin toinen kausi mullisti maailman tilanteen",
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
