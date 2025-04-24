@@ -533,11 +533,6 @@ const images = {
   ],
   "talous": [
     {
-      "filename": "1.jpg",
-      "source": "https://www.agenzianova.com/en/news/case-of-svb-the-ministry-of-the-economy-follows-the-mediobanca-developments-there-is-no-risk-of-a-domino-effect/",
-      "license": "CC0 1.0"
-    },
-    {
       "filename": "2.jpeg",
       "source": "https://www.pexels.com/photo/stock-exchange-board-210607/",
       "license": "CC0"
