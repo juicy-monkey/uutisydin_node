@@ -1,4 +1,3 @@
-import fs from 'fs';
 import Parser from 'rss-parser'
 import { NewsItem, RSSFeed, RSSResult } from './interfaces';
 import { clusterFeeds as createNewsClusters, generateClusterTitle, getSuitableImageUrl, parserFn } from './functions';
@@ -92,7 +91,6 @@ export const generateFeeds = async () => {
             feeds: clusterFeeds
         }
 
-        fs.writeFileSync('public/data.json', JSON.stringify(response, null, 2));
         return response
 
     } catch (error) {
