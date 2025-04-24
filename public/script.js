@@ -253,7 +253,7 @@ const images = {
       "license": "CC BY-SA 4.0"
     }
   ],
-  "jd vance": [
+  "j. d. vance": [
     {
       "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/gageskidmore/53068382792",
