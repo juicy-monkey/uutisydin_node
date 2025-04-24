@@ -253,7 +253,7 @@ const images = {
       "license": "CC BY-SA 4.0"
     }
   ],
-  "jd vance": [
+  "j. d. vance": [
     {
       "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/gageskidmore/53068382792",
@@ -409,6 +409,13 @@ const images = {
       "license": "CC BY-ND 4.0"
     }
   ],
+  "paavi": [
+    {
+      "filename": "1.jpg",
+      "source": "https://en.wikipedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
   "pentagon": [
     {
       "filename": "1.jpg",
@@ -525,11 +532,6 @@ const images = {
     }
   ],
   "talous": [
-    {
-      "filename": "1.jpg",
-      "source": "https://www.agenzianova.com/en/news/case-of-svb-the-ministry-of-the-economy-follows-the-mediobanca-developments-there-is-no-risk-of-a-domino-effect/",
-      "license": "CC0 1.0"
-    },
     {
       "filename": "2.jpeg",
       "source": "https://www.pexels.com/photo/stock-exchange-board-210607/",
@@ -707,16 +709,16 @@ const baseImageURL = "https://juicy-monkey.github.io/uutisydin_node";
 
 function displayImages(imageData) {
   const container = document.getElementById("image-list");
-  
+
   for (const keyword in imageData) {
     // Category title
     const categoryTitle = document.createElement("h2");
     categoryTitle.textContent = keyword;
     container.appendChild(categoryTitle);
-    
+
     const list = document.createElement("div");
     list.className = "list";
-    
+
     imageData[keyword].forEach(image => {
       const source = `${baseImageURL}/images/${keyword}/${image.filename}`;
       console.log(source)
