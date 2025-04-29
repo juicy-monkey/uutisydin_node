@@ -1,26 +1,4 @@
 const images = {
-  "alexander stubb": [
-    {
-      "filename": "1.jpg",
-      "source": "https://www.freemalaysiatoday.com/category/world/2024/09/18/finnish-president-wants-end-of-single-state-veto-at-un-security-council/",
-      "license": "CC BY 4.0"
-    },
-    {
-      "filename": "2.jpg",
-      "source": "https://www.flickr.com/photos/nato/53775161166/",
-      "license": "CC BY-NC-ND 2.0"
-    },
-    {
-      "filename": "3.jpg",
-      "source": "https://www.flickr.com/photos/friendsofeurope/44555692744",
-      "license": "CC BY-NC-ND 2.0"
-    },
-    {
-      "filename": "4.jpg",
-      "source": "https://www.flickr.com/photos/arcticfrontiers/16299086946/",
-      "license": "CC BY-NC 2.0"
-    }
-  ],
   "alkoholi": [
     {
       "filename": "1.jpg",
@@ -93,43 +71,6 @@ const images = {
       "license": "CC BY-NC-ND 3.0 NL",
     },
   ],
-  "trump": [
-    {
-      "filename": "1.jpg",
-      "source": "https://snl.no/Donald_Trump",
-      "license": "CC BY-SA 2.0"
-    },
-    {
-      "filename": "2.jpg",
-      "source": "https://www.opinium.com/resource-center/tump-in-a-uk-context/",
-      "license": "CC0 1.0"
-    },
-    {
-      "filename": "3.jpg",
-      "source": "https://medillonthehill.medill.northwestern.edu/2024/11/market/",
-      "license": "CC0 1.0"
-    },
-    {
-      "filename": "4.jpg",
-      "source": "https://www.flickr.com/photos/gageskidmore/53953046884",
-      "license": "CC BY-SA 2.0"
-    },
-    {
-      "filename": "5.jpg",
-      "source": "https://www.freemalaysiatoday.com/category/business/2025/04/01/trump-says-will-be-kind-with-tariffs-as-deadline-looms/",
-      "license": "CC BY 4.0"
-    },
-    {
-      "filename": "6.jpg",
-      "source": "https://www.bigenergygroup.co.uk/insights/drill-baby-drill-unpacking-trumps-energy-agenda",
-      "license": "CC0 1.0"
-    },
-    {
-      "filename": "7.jpg",
-      "source": "https://www.freemalaysiatoday.com/category/world/2025/04/03/trump-approval-falls-to-43-lowest-since-returning-to-office/",
-      "license": "CC BY 4.0"
-    },
-  ],
   "eduskunta": [
     {
       "filename": "1.jpg",
@@ -196,6 +137,18 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
+  "espanja": [
+    {
+      "filename": "1.jpg",
+      "source": "https://itoldya420.getarchive.net/media/spain-flag-flutter-54db03",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.flickr.com/photos/subtlepanda/3888866534",
+      "license": "CC BY 2.0"
+    },
+  ],
   "euroopan keskuspankki": [
     {
       "filename": "1.jpg",
@@ -245,6 +198,18 @@ const images = {
       "source": "https://www.flickr.com/photos/86084595@N08/37867134336",
       "license": "CC BY-NC-ND 2.0"
     }
+  ],
+  "italia": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.rawpixel.com/image/5905716",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.pexels.com/photo/victor-emmanuel-ii-monument-and-the-italian-flag-rome-italy-16133336/",
+      "license": "CC0"
+    },
   ],
   "itämeri": [
     {
@@ -299,6 +264,18 @@ const images = {
       "license": "CC0 1.0",
     }
   ],
+  "kanada": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.fxleaders.com/news/2025/04/28/canada-elections-2025-will-political-shifts-send-usd-cad-soaring-or-crashing/",
+      "license": "CC0 1.0",
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.rawpixel.com/image/3337585",
+      "license": "CC0 1.0",
+    }
+  ],
   "kiina": [
     {
       "filename": "1.jpg",
@@ -318,7 +295,7 @@ const images = {
       "license": "CC0 1.0"
     }
   ],
-  "maatalous": [
+  "maatalou": [
     {
       "filename": "1.jpg",
       "source": "https://www.pexels.com/fi-fi/kuva/maisema-maaseutu-maatalous-ruoho-9875722/",
@@ -347,12 +324,24 @@ const images = {
       "license": "CC BY-SA 2.0",
     },
   ],
+  "mark carney": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.flickr.com/photos/bankofengland/10475759255/",
+      "license": "CC BY-ND 2.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.heute.at/i/liberale-gewinnen-parlamentswahl-in-kanada-120105388/doc-1iq02bag94",
+      "license": "CC BY 4.0"
+    },
+  ],
   "mark rutte": [
     {
       "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_met_with_Dutch_PM_Mark_Rutte_in_occasion_of_possible_Russian_invasion_%2826%29.jpg",
       "license": "CC BY 4.0"
-    }
+    },
   ],
   "metsä": [
     {
@@ -373,7 +362,7 @@ const images = {
       "license": "CC BY-NC 2.0"
     }
   ],
-  "oikeudenkäynti": [
+  "oikeudenkäyn": [
     {
       "filename": "1.jpg",
       "source": "https://picryl.com/media/hammer-court-judge-f3fd65",
@@ -395,7 +384,14 @@ const images = {
       "filename": "2.jpg",
       "source": "https://www.flickr.com/photos/worldeconomicforum/52100818760",
       "license": "CC BY-NC-SA 2.0"
-    }
+    },
+  ],
+  "olkiluoto": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Olkiluoto_Nuclear_Power_Plant_2015-07-21_001.jpg",
+      "license": "CC BY 3.0"
+    },
   ],
   "osakemarkkin": [
     {
@@ -507,7 +503,29 @@ const images = {
       "license": "CC BY-SA 4.0"
     }
   ],
-  "suomen hallitus": [
+  "stubb": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.freemalaysiatoday.com/category/world/2024/09/18/finnish-president-wants-end-of-single-state-veto-at-un-security-council/",
+      "license": "CC BY 4.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.flickr.com/photos/nato/53775161166/",
+      "license": "CC BY-NC-ND 2.0"
+    },
+    {
+      "filename": "3.jpg",
+      "source": "https://www.flickr.com/photos/friendsofeurope/44555692744",
+      "license": "CC BY-NC-ND 2.0"
+    },
+    {
+      "filename": "4.jpg",
+      "source": "https://www.flickr.com/photos/arcticfrontiers/16299086946/",
+      "license": "CC BY-NC 2.0"
+    }
+  ],
+  "suomen hallitu": [
     {
       "filename": "1.jpg",
       "source": "https://www.flickr.com/photos/finnishgovernment/53198097769",
@@ -563,7 +581,7 @@ const images = {
       "license": "CC BY-ND 4.0"
     },
   ],
-  "terveydenhuolto": [
+  "terveydenhuol": [
     {
       "filename": "1.jpg",
       "source": "https://pxhere.com/en/photo/917209",
@@ -579,6 +597,43 @@ const images = {
       "source": "https://www.flickr.com/photos/elentir/4504031924",
       "license": "CC BY-SA 2.0"
     }
+  ],
+  "trump": [
+    {
+      "filename": "1.jpg",
+      "source": "https://snl.no/Donald_Trump",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.opinium.com/resource-center/tump-in-a-uk-context/",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "3.jpg",
+      "source": "https://medillonthehill.medill.northwestern.edu/2024/11/market/",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "4.jpg",
+      "source": "https://www.flickr.com/photos/gageskidmore/53953046884",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "filename": "5.jpg",
+      "source": "https://www.freemalaysiatoday.com/category/business/2025/04/01/trump-says-will-be-kind-with-tariffs-as-deadline-looms/",
+      "license": "CC BY 4.0"
+    },
+    {
+      "filename": "6.jpg",
+      "source": "https://www.bigenergygroup.co.uk/insights/drill-baby-drill-unpacking-trumps-energy-agenda",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "7.jpg",
+      "source": "https://www.freemalaysiatoday.com/category/world/2025/04/03/trump-approval-falls-to-43-lowest-since-returning-to-office/",
+      "license": "CC BY 4.0"
+    },
   ],
   "tuulivoima": [
     {
