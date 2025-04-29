@@ -332,7 +332,7 @@ const images = {
     },
     {
       "filename": "2.jpg",
-      "source": "https://www.flickr.com/photos/bankofengland/10475759255/",
+      "source": "https://www.heute.at/i/liberale-gewinnen-parlamentswahl-in-kanada-120105388/doc-1iq02bag94",
       "license": "CC BY 4.0"
     },
   ],
@@ -384,7 +384,14 @@ const images = {
       "filename": "2.jpg",
       "source": "https://www.flickr.com/photos/worldeconomicforum/52100818760",
       "license": "CC BY-NC-SA 2.0"
-    }
+    },
+  ],
+  "olkiluoto": [
+    {
+      "filename": "1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Olkiluoto_Nuclear_Power_Plant_2015-07-21_001.jpg",
+      "license": "CC BY 3.0"
+    },
   ],
   "osakemarkkin": [
     {
