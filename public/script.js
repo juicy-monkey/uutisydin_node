@@ -199,6 +199,18 @@ const images = {
       "license": "CC BY-NC-ND 2.0"
     }
   ],
+  "italia": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.rawpixel.com/image/5905716",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.pexels.com/photo/victor-emmanuel-ii-monument-and-the-italian-flag-rome-italy-16133336/",
+      "license": "CC0"
+    },
+  ],
   "itämeri": [
     {
       "filename": "1.jpg",
