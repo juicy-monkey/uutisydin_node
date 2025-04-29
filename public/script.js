@@ -240,6 +240,18 @@ const images = {
       "license": "CC0 1.0",
     }
   ],
+  "kanada": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.fxleaders.com/news/2025/04/28/canada-elections-2025-will-political-shifts-send-usd-cad-soaring-or-crashing/",
+      "license": "CC0 1.0",
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.rawpixel.com/image/3337585",
+      "license": "CC0 1.0",
+    }
+  ],
   "kiina": [
     {
       "filename": "1.jpg",
