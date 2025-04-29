@@ -324,12 +324,24 @@ const images = {
       "license": "CC BY-SA 2.0",
     },
   ],
+  "mark carney": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.flickr.com/photos/bankofengland/10475759255/",
+      "license": "CC BY-ND 2.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.flickr.com/photos/bankofengland/10475759255/",
+      "license": "CC BY 4.0"
+    },
+  ],
   "mark rutte": [
     {
       "filename": "1.jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_met_with_Dutch_PM_Mark_Rutte_in_occasion_of_possible_Russian_invasion_%2826%29.jpg",
       "license": "CC BY 4.0"
-    }
+    },
   ],
   "metsä": [
     {
