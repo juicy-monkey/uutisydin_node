@@ -137,6 +137,18 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
+  "espanja": [
+    {
+      "filename": "1.jpg",
+      "source": "https://itoldya420.getarchive.net/media/spain-flag-flutter-54db03",
+      "license": "CC0 1.0"
+    },
+    {
+      "filename": "2.jpg",
+      "source": "https://www.flickr.com/photos/subtlepanda/3888866534",
+      "license": "CC BY 2.0"
+    },
+  ],
   "euroopan keskuspankki": [
     {
       "filename": "1.jpg",
