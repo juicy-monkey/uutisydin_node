@@ -168,6 +168,13 @@ const images = {
       "license": "CC0 1.0"
     }
   ],
+  "finnair": [
+    {
+      "filename": "1.jpg",
+      "source": "https://www.flickr.com/photos/76908380@N04/35071620021",
+      "license": "CC BY 2.0",
+    },
+  ],
   "gaza": [
     {
       "filename": "1.jpg",
