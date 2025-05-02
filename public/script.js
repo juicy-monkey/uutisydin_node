@@ -599,11 +599,6 @@ const images = {
       "source": "https://picryl.com/media/doctor-medical-medicine-health-medical-9ce6bf",
       "license": "PDM 1.0"
     },
-    {
-      "filename": "4.jpg",
-      "source": "https://www.flickr.com/photos/elentir/4504031924",
-      "license": "CC BY-SA 2.0"
-    }
   ],
   "trump": [
     {
