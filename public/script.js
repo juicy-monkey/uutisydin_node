@@ -42,6 +42,13 @@ const images = {
       "license": "CC BY 2.0"
     }
   ],
+  "australia": [
+    {
+      "filename": "1.jpg",
+      "source": "https://pxhere.com/fi/photo/893208",
+      "license": "CC0 1.0"
+    },
+  ],
   "netanjahu": [
     {
       "filename": "1.jpeg",
