@@ -1,154 +1,110 @@
 {
-  "timestamp": "2025-05-12T06:50:54.584Z",
-  "successCount": 12,
-  "failureCount": 10,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2025-05-12T07:16:35.129Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Ukraina raportoi Venäjän lennokkihyökkäyksistä",
+      "mainTitle": "Yhdysvallat ja Kiina jäädyttävät tullit 90 päiväksi",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Talous",
+        "Kiina",
+        "Yhdysvallat"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Länsi ehdotti tulitaukoa – Venäjältä yöllä tyly reaktio",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
-          "date": "2025-05-12T06:49:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011226378.html"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ukraina-seuranta | Ukrainan rauta­tie­verkosto: Venäjä iski lennokeilla maanantaina",
-          "content": "HS seuraa Venäjän hyökkäyssotaa ja sen seurauksia hetki hetkeltä.",
-          "date": "2025-05-12T05:12:00.000Z",
+          "title": "Kauppasota | Yhdysvallat ja Kiina ovat jäädyttäneet osan tulleistaan 90 päiväksi",
+          "content": "Asiasta sovittiin Geneven neuvotteluissa.",
+          "date": "2025-05-12T07:14:00.000Z",
           "categories": [
-            "maailma"
+            "talous"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011223979.html"
+          "link": "https://www.hs.fi/talous/art-2000011226767.html"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Ukraina sanoo Venäjän iskeneen yli sadalla lennokilla heti yksipuolisen tulitauon päätyttyä",
-          "content": "",
-          "date": "2025-05-11T08:17:21.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Yhdysvallat on pian hätää kärsimässä aloittamansa kauppasodan takia",
+          "content": "Yhdysvaltojen ja Kiinan kauppaneuvottelijat tapaavat lauantaina. Yhdysvallat on todennäköisesti pian valmis perääntymään kauppasodassa, kirjoittaa ulkomaantoimittaja Elli-Alina Hiilamo.",
+          "date": "2025-05-10T09:09:31.000Z",
           "categories": [
-            "maailma"
+            "talous",
+            "kiina",
+            "yhdysvallat",
+            "kauppasodat",
+            "tullit",
+            "kansainvälinen kauppa",
+            "maailmantalous",
+            "kauppasuhteet",
+            "ulkomaat"
           ],
-          "link": "https://www.ts.fi/uutiset/6657937"
+          "link": "https://yle.fi/a/74-20160972?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "PKK lopettaa toimintansa yli 40 vuoden jälkeen",
+      "mainTitle": "Kesän tiemerkintätyöt käynnistyneet maanteillä",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Liikenne",
+        "Väylävirasto",
+        "Nopeusrajoitukset"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Maanteillä tehdään nyt tiemerkintätöitä – liikenteeltä toivotaan erityistä varovaisuutta",
+          "content": "",
+          "date": "2025-05-12T07:04:33.000Z",
+          "categories": [
+            "tiet"
+          ],
+          "link": "https://www.ts.fi/uutiset/6658662"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Keskiviiva ja muut tiemerkinnät maalataan kesällä uusiksi – autoilijoille jonotusta luvassa",
+          "content": "Kesän tiemerkintätyöt maanteillä ovat käynnistyneet eteläisestä Suomesta alkaen, kertoo Väylävirasto",
+          "date": "2025-05-12T06:05:06.000Z",
+          "categories": [
+            "liikenne",
+            "väylävirasto",
+            "nopeusrajoitukset",
+            "tie- ja katumerkinnät"
+          ],
+          "link": "https://yle.fi/a/74-20161145?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "PKK lopettaa toimintansa historian myötä",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Turkki | Historiallinen päätös: Kurdi­järjestö PKK on päättänyt hajota",
+          "content": "PKK on taistellut vuodesta 1984 ajaakseen itsenäistä valtiota kurdeille.",
+          "date": "2025-05-12T07:02:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011226525.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -162,27 +118,40 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011226642.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Turkki | Historiallinen päätös: Kurdi­järjestö PKK on päättänyt hajota",
-          "content": "PKK on taistellut vuodesta 1984 ajaakseen itsenäistä valtiota kurdeille.",
-          "date": "2025-05-12T06:42:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Media: Kurdijärjestö PKK on päättänyt lakkauttaa toimintansa",
+          "content": "",
+          "date": "2025-05-12T06:25:56.000Z",
           "categories": [
-            "maailma"
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011226525.html"
+          "link": "https://yle.fi/a/74-20161149?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ukrainan ja Venäjän neuvottelut käynnistyvät Turkissa",
+      "mainTitle": "Zelenskyi ja Putin neuvotteluihin Turkissa",
       "mainCategories": [
+        "Ulkomaat",
         "Maailma",
-        "Ulkomaat"
+        "Rauhanneuvottelut"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Zelenskyi ehdotti Putinille tapaamista – tämä tilanteesta tiedetään",
+          "content": "Tästä pääset kartalle tilanteesta Venäjän hyökkäyssodassa Ukrainassa.",
+          "date": "2025-05-12T07:01:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011226361.html"
+        },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
@@ -194,6 +163,18 @@
             "ulkomaat"
           ],
           "link": "https://www.iltalehti.fi/ulkomaat/a/57a502b1-6fe5-4b0d-b9fa-2152ef1a746e"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Zelenskyiltä valtaisa ehdotus Putinille",
+          "content": "Putin ehdotti lauantain ja sunnuntain välisenä yönä pitämässä tiedotus­tilaisuudessa suoria neuvotteluja.",
+          "date": "2025-05-12T04:22:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011226327.html"
         },
         {
           "publisherId": "hs",
@@ -220,16 +201,33 @@
           "link": "https://www.iltalehti.fi/ulkomaat/a/9d7938fe-10f1-4c86-b093-b817df904659"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | Tutkija uskoo, että Kiinalla on osuutensa Putinin tarjouksessa istua neuvottelu­pöytään kaksin Ukrainan kanssa",
-          "content": "Apulaisprofessori Rinna Kullaa uskoo, että Venäjän kutsun taustalla saattaa hääriä Kiina.",
-          "date": "2025-05-11T11:46:00.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Zelenskyi: Haluamme täyden aselevon, odotan Putinia Turkissa",
+          "content": "",
+          "date": "2025-05-11T18:03:43.000Z",
           "categories": [
-            "maailma"
+            "rauhanneuvottelut"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011225457.html"
+          "link": "https://www.ts.fi/uutiset/6658243"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump: Zelenskyin pitäisi suostua Putinin ehdottamiin neuvotteluihin torstaina – Zelenskyi: Odotan Putinia Turkissa",
+          "content": "Putin ei ole kommentoinut tarjousta kuukauden tulitauosta, vaan ehdottanut neuvotteluja Ukrainan kanssa Istanbulissa",
+          "date": "2025-05-11T16:23:48.000Z",
+          "categories": [
+            "yhdysvallat",
+            "venäjän hyökkäys",
+            "vladimir putin",
+            "donald trump",
+            "volodymyr zelenskyi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161091?origin=rss"
         },
         {
           "publisherId": "is",
@@ -244,6 +242,37 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011225458.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Zelenskyi toiveikas: Venäjä harkitsee sodan lopettamista – maanantai on käännekohta",
+          "content": "Venäjä on tiukassa paikassa, hyväksyykö se ehdotetun tulitauon?",
+          "date": "2025-05-11T08:28:05.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ukraina",
+            "ulkomaat",
+            "venäjä",
+            "rauhanneuvottelut",
+            "volodymyr zelenskyi",
+            "vladimir putin",
+            "kansainvälinen politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20161048?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Putinilta ehdotus Ukrainalle – Macron: Ei riitä",
+          "content": "Länsijohtajat ilmoittivat lauantaina, että Venäjään kohdistetaan pakotteita, jos se ei suostu maanantaina alkavaan tulitaukoon.",
+          "date": "2025-05-11T07:25:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011225226.html"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -254,6 +283,254 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011225234.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Euroopan johtajat: Trump seisoo tulitaukoehdotuksen takana",
+          "content": "Stubbin mukaan tulitauon jälkeen on heti aloitettava rauhansopimusneuvottelut.",
+          "date": "2025-05-10T12:57:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011224626.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump: Intia ja Pakistan suostuivat tuli­taukoon",
+          "content": "Yhdysvallat toimi neuvotteluissa välittäjänä, Trump sanoo.",
+          "date": "2025-05-10T12:12:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011224668.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kesätyöpaikkojen määrä laskussa Suomessa",
+      "mainCategories": [
+        "Työelämä",
+        "Kotimaa",
+        "Tyoelama"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kesätyö­paikkojen määrä syöksyssä – Näillä aloilla eniten töitä tarjolla",
+          "content": "Epävarma taloustilanne ja synkkä työllisyystilanne näkyvät kesätyöpaikkojen määrässä. Kesätyöpaikkojen määrä on laskenut selvästi viime vuosista, kertoo Suomen suurin työnhakupalvelu Duunitori. – Kesätyönhakukausi alkoi lupaavasti, ja kesätyöilmoituksia julkaistiin edellistä kautta enemmän. Valitettavasti tilanne on kääntynyt huonompaan suuntaan, sillä epävarma taloustilanne ja synkkä työllisyystilanne heijastuvat myös kesätyöpaikkojen määrään, sanoo Duunitorin viestintäpäällikkö Maiju Karhunen sanoo tiedotteessa.",
+          "date": "2025-05-12T06:49:46.000Z",
+          "categories": [
+            "tyoelama"
+          ],
+          "link": "https://www.iltalehti.fi/tyoelama/a/bee6c013-38e9-4d1f-bfce-7f70a4bbd520"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kesätyönhakukausi edellistä heikompi",
+          "content": "Duunitorilla on havaittu, että hakijoiden joukossa myös kokeneita osaajia.",
+          "date": "2025-05-12T04:09:23.000Z",
+          "categories": [
+            "työelämä",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20161118?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainan sodassa vaaditaan välitöntä tulitaukoa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Rauhanneuvottelut",
+        "Venäjä"
+      ],
+      "imageUrl": "/images/venäjä/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Länsi ehdotti tulitaukoa – Venäjältä yöllä tyly reaktio",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
+          "date": "2025-05-12T06:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011226378.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Putin ehdottaa ensi viikolle suoria neuvotteluita Venäjän ja Ukrainan välillä – Macron: Tämä on ensimmäinen askel",
+          "content": "Ukrainan tukijat uhkasivat vain tunteja aiemmin Venäjää uusilla pakotteilla, jos maa ei hyväksy maanantaina alkavaa 30 päivän aselepoa.",
+          "date": "2025-05-11T05:29:03.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/putin-ehdottaa-ensi-viikolle-suoria-neuvotteluita/11625896?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ukrainan rauhantien uusi solmu: Länsi vaatii tulitaukoa heti, Venäjä neuvotteluja",
+          "content": "Ranskan presidentin Emmanuel Macronin mukaan taisteluiden keskeyttäminen ei vaadi mitään neuvotteluja.",
+          "date": "2025-05-11T05:16:42.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "rauhanneuvottelut",
+            "ulkomaat",
+            "vladimir putin",
+            "venäjä",
+            "ukraina",
+            "aselepo",
+            "keir starmer",
+            "emmanuel macron"
+          ],
+          "link": "https://yle.fi/a/74-20161033?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Presidentti Stubb: Venäjälle asetetaan lisäpakotteita, jos se ei suostu 30 päivän aselepoon Ukrainassa",
+          "content": "Ranskan presidentti Macronin mukaan Yhdysvallat on sitoutunut valvomaan Ukrainan ja Venäjän aselepoa.",
+          "date": "2025-05-10T18:30:40.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/presidentti-stubb-venajalle-asetetaan-lisapakottei/11625638?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hilla Groupin toimitusjohtaja sai potkut",
+      "mainCategories": [
+        "Media",
+        "Journalismi",
+        "Paikallislehdet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "KP: Kohuun ajautunut Hilla Groupin toimitusjohtaja sai potkut",
+          "content": "Toimitusjohtajan väitetty kyseenalainen käytös nousi uutiseksi aiemmin viime viikolla.",
+          "date": "2025-05-12T06:48:00.000Z",
+          "categories": [
+            "media"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/kp-kohuun-ajautunut-hilla-groupin-toimitusjohtaja-sai-potkut/9900e597-a9ac-472f-b5db-1252140ddb96"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Keskipohjanmaa: Hilla Groupin toimitus­johtaja eroaa",
+          "content": "Mikko Luoma jättää tehtävänsä yhteisellä sopimuksella.",
+          "date": "2025-05-11T18:47:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011226100.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hilla Groupin toimitusjohtaja jättää tehtävänsä – antoi potkut aiemmin tällä viikolla Keskipohjanmaan päätoimittajalle",
+          "content": "Hilla Groupin toimitusjohtaja Mikko Luomaa on kritisoitu epäasiallisesta käytöksestä ja painostamisesta. Hän on kiistänyt väitteet.",
+          "date": "2025-05-11T17:08:16.000Z",
+          "categories": [
+            "media",
+            "journalismi",
+            "paikallislehdet",
+            "keski-pohjanmaa",
+            "hilla group",
+            "sanomalehdet",
+            "kainuu"
+          ],
+          "link": "https://yle.fi/a/74-20161095?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Israel valmistautuu taisteluiden kiihtymiseen Gazassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Hamas",
+        "Israel"
+      ],
+      "imageUrl": "/images/gaza/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Netanjahu: Panttivangin vapauttaminen ei johda tuli­taukoon – Israel valmistautuu kiihdyttämään taisteluita Gazassa",
+          "content": "Israelilais-amerikkalainen panttivanki saattaa päästä vapaaksi jo tänään.",
+          "date": "2025-05-12T06:27:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011226549.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Netanjahu: Israel ei ole panttivangin vapauttamisesta huolimatta sitoutunut tulitaukoon Hamasin kanssa",
+          "content": "Äärijärjestö Hamas kertoi sunnuntain ja maanantain välisenä yönä vapauttavansa viimeisen elossa olevan israelilais-amerikkalaisen panttivangin osana Gazan tulitaukopyrkimyksiä.",
+          "date": "2025-05-12T04:38:04.000Z",
+          "categories": [
+            "gazan sota",
+            "israel",
+            "hamas",
+            "panttivangit",
+            "benjamin netanjahu",
+            "gazan kaista",
+            "levottomuudet",
+            "sieppausten uhrit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161123?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hamas aikoo vapauttaa yhdys­valtalais-israelilaisen pantti­vangin",
+          "content": "Hamasin mukaan panttivanki vapautetaan osana Yhdysvaltojen kanssa käytyjä neuvotteluja.",
+          "date": "2025-05-11T20:22:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011226186.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hamas vapauttaa israelilais-amerikkalaisen panttivangin osana Gazan tulitaukopyrkimyksiä",
+          "content": "Hamas kertoi aiemmin käyvänsä Yhdysvaltojen kanssa suoria neuvotteluja tulitauosta Gazaan. ",
+          "date": "2025-05-11T17:57:17.000Z",
+          "categories": [
+            "gazan sota",
+            "gazan kaista",
+            "hamas",
+            "lähi-itä",
+            "aselepo",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161098?origin=rss"
         }
       ]
     },
@@ -293,7 +570,49 @@
       ]
     },
     {
-      "mainTitle": "Suomalaiset toivovat kolmen suuren hallitusta",
+      "mainTitle": "Hyvinvointialueiden alijäämä kasvaa huolestuttavasti",
+      "mainCategories": [
+        "Hyvinvointialueet",
+        "Oikeuskanslerit",
+        "Lappi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hyvinvointialueiden yhteenlaskettu alijäämä on jo 2,45 miljardia – Nyt alueet harkitsevat lisärahan hakemista valtiolta",
+          "content": "Alijäämien pois maksaminen vähentää väistämättä hyvinvointialueiden lakisääteisiin palveluihin käytettävissä olevaa rahaa. Etelä-Karjalassa valmistellaan jo lisärahahakua.",
+          "date": "2025-05-12T05:54:49.000Z",
+          "categories": [
+            "hyvinvointialueet",
+            "oikeuskanslerit",
+            "etelä-karjalan hyvinvointialue",
+            "lappi",
+            "sote-uudistus",
+            "satakunnan hyvinvointialue",
+            "valtiovarainministeriö",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20159978?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Nämä luvut hätkähdyttivät asiantuntijat",
+          "content": "Asiantuntijat kyseenalaistavat valtiovarainministeriön hyvinvointialueiden rahoituslaskelmien realistisuuden. VM myöntää osan alueiden taloussuunnitelmiin liittyvät epävarmuudet. Suomalaisten sote-palveluiden rahoitukseen liittyy vaiettu piirre, joka voi keikauttaa yksittäisen hyvinvointialueen pahoihin ongelmiin – tai jopa säästää ikäviltä leikkauksilta. Kuntien ja hyvinvointialueiden talouden asiantuntijat Eero Laesterä ja Tuomas Hanhela tekivät kaksi hätkähdyttävää havaintoa, kun he hiljattain selvittivät, miten Etelä-Pohjanmaan hyvinvointialue selviäisi sopeutusurakastaan.",
+          "date": "2025-05-12T04:01:41.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/ef416d8f-576a-49b9-9918-1410b4476478"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomalaiset toivovat sinipunamultahallitusta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -324,6 +643,19 @@
           "link": "https://www.hs.fi/politiikka/art-2000011226303.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "MT-kysely: Suomalaiset toivovat seuraavasta hallituksesta sinipunamultaa",
+          "content": "",
+          "date": "2025-05-12T02:09:14.000Z",
+          "categories": [
+            "politiikka",
+            "maaseudun tulevaisuus"
+          ],
+          "link": "https://yle.fi/a/74-20161112?origin=rss"
+        },
+        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
@@ -338,10 +670,49 @@
       ]
     },
     {
-      "mainTitle": "Lämpötilat nousevat Suomessa loppuviikolla",
+      "mainTitle": "Lakkovaroitus yliopistoille Suomessa",
+      "mainCategories": [
+        "Työelämä",
+        "Kotimaa",
+        "Uusimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Lakkovaroitus nyt myös Turun yliopistoon",
+          "content": "",
+          "date": "2025-05-12T05:22:38.000Z",
+          "categories": [
+            "lakkovaroitus"
+          ],
+          "link": "https://www.ts.fi/uutiset/6658451"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lakkovaroitus Helsingin ja Turun yliopistoon",
+          "content": "Lakon piirissä ovat kaikki yliopistojen yleisen työehtosopimuksen piiriin kuuluvat työt.",
+          "date": "2025-05-12T05:14:22.000Z",
+          "categories": [
+            "työelämä",
+            "kotimaa",
+            "uusimaa",
+            "varsinais-suomi"
+          ],
+          "link": "https://yle.fi/a/74-20161130?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lämpötilat nousevat loppuviikolla Suomessa",
       "mainCategories": [
         "Kotimaa",
-        "Suomi"
+        "Sää",
+        "Lämpötila"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -370,6 +741,21 @@
           "link": "https://www.iltalehti.fi/saauutiset/a/3f91a13d-5ba4-4179-a8cb-b8acf8b072b6"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sää lämpenee alkuviikosta, mutta keskiviikosta on tulossa viikon kylmin päivä",
+          "content": "Alkuviikosta lämpötila voi nousta yli viidentoista asteen varsinkin maan länsiosissa.",
+          "date": "2025-05-11T13:11:55.000Z",
+          "categories": [
+            "sää",
+            "lämpötila",
+            "sääennusteet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20161061?origin=rss"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -380,28 +766,93 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011225316.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäjä iski lennokeilla Ukrainaan jälleen",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/ukraina/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina-seuranta | Ukrainan rauta­tie­verkosto: Venäjä iski lennokeilla maanantaina",
+          "content": "HS seuraa Venäjän hyökkäyssotaa ja sen seurauksia hetki hetkeltä.",
+          "date": "2025-05-12T05:12:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011223979.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Ukraina sanoo Venäjän iskeneen yli sadalla lennokilla heti yksipuolisen tulitauon päätyttyä",
+          "content": "",
+          "date": "2025-05-11T08:17:21.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.ts.fi/uutiset/6657937"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Stubbin presidenttivierailu Keniassa ja Tansaniassa",
+      "mainCategories": [
+        "Politiikka",
+        "Kenia",
+        "Tansania"
+      ],
+      "imageUrl": "/images/stubb/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Stubb saapuu Afrikkaan – paikallinen toimittaja jätti hänelle toiveen",
+          "content": "Presidentti Stubb vierailee Keniassa ja Tansaniassa. ",
+          "date": "2025-05-12T02:20:35.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "kenia",
+            "itä-afrikka",
+            "tansania",
+            "alexander stubb",
+            "politiikka",
+            "ulkopolitiikka",
+            "ihmisoikeudet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20159878?origin=rss"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "\"Kylmä kupla\" viilentää pian Suomen – kesähaaveet jäihin",
-          "content": "Lähiviikkojen viimeisistä lämpimistä päivistä nautitaan maanantaina ja tiistaina.",
-          "date": "2025-05-10T19:01:00.000Z",
+          "title": "Stubbin Kenian-vierailu alkaa",
+          "content": "Kyseessä on ensimmäinen presidenttitason vierailu Suomesta Keniaan.",
+          "date": "2025-05-12T00:23:00.000Z",
           "categories": [
-            "kotimaa"
+            "politiikka"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011224690.html"
+          "link": "https://www.is.fi/politiikka/art-2000011226288.html"
         }
       ]
     },
     {
-      "mainTitle": "Trump saa 400 miljoonan dollarin lahjan Qatarilta",
+      "mainTitle": "Trump saa luksuslahjan Qatarilta ensi viikolla",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma"
+        "Yhdysvallat",
+        "Qatar"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -428,6 +879,20 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011226295.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Qatar toppuuttelee mediatietoja lentokoneen lahjoittamisesta Trumpille",
+          "content": "ABC News kertoi aiemmin, että Trump harkitsisi ottavansa vastaan Qatarin kuninkaalliselta perheeltä jumbon eli Boeing 747:n. ",
+          "date": "2025-05-11T23:17:56.000Z",
+          "categories": [
+            "yhdysvallat",
+            "qatar",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161107?origin=rss"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -450,28 +915,89 @@
             "ulkomaat"
           ],
           "link": "https://www.iltalehti.fi/ulkomaat/a/a09deae3-34ab-4a04-9def-44944a590f50"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Uusi Air Force One? Trump saamassa satojen miljoonien ökylahjan Qatarin kuningasperheeltä",
+          "content": "Yhdysvaltain presidentin lahja aiotaan julkistaa hänen Lähi-itään ensi viikolla suuntautuvalla vierailullaan.",
+          "date": "2025-05-11T17:35:24.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "qatar",
+            "jumbojetit",
+            "yhdysvaltain presidentti",
+            "lähi-itä",
+            "lentokoneet",
+            "boeing",
+            "air force one",
+            "donald trumpin perhe",
+            "yhdysvaltojen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161089?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Puola syyttää Venäjää ostoskeskuksen tuhopoltosta",
+      "mainTitle": "Trump aikoo laskea lääkkeiden hintoja",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Yhdysvallat",
+        "Ulkomaat",
+        "Talous"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Puola syyttää Venäjää ostos­keskuksen tuho­poltosta",
-          "content": "Puolan pääministerin mukaan palo aiheutui Venäjän tiedustelupalveluiden tilaamasta tuhopoltosta.",
-          "date": "2025-05-11T23:33:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Trump aikoo määrätä lääkkeiden hinnan huomattavasta alentamisesta",
+          "content": "Trump yritti alentaa lääkkeiden hintoja myös jo ensimmäisellä presidenttikaudellaan.",
+          "date": "2025-05-12T00:56:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011226248.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump kertoo laskevansa ”lähes välittömästi” lääkkeiden hintoja Yhdysvalloissa",
+          "content": "Viimeksi Trumpin pyrkimykset kaatuivat lääketeollisuuden vastustukseen. ",
+          "date": "2025-05-12T00:08:52.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161110?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäjä syyllistyi Varsovan ostoskeskuksen tulipaloon",
+      "mainCategories": [
+        "Ulkomaat",
+        "Rikokset",
+        "Tulipalot"
+      ],
+      "imageUrl": "/images/venäjä/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Puola: Venäjä aiheutti massiivisen tulipalon ostos­keskuksessa",
+          "content": "Puolan pääministeri julkaisi kovasanaisen viestin Varsovan jättipalosta. Puolan pääministeri Donald Tusk syyttää Venäjää valtavasta palosta Puolan pääkaupungissa Varsovassa. Marywilskan ostoskeskus syttyi palamaan 12. toukokuuta 2024. Tusk julkaisi suorasanaisen syytöksen Venäjälle viestipalvelu X:ssä vain päivää ennen palon vuosipäivää.",
+          "date": "2025-05-12T00:50:25.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011226280.html"
+          "link": "https://www.iltalehti.fi/ulkomaat/a/fd76938e-4587-4494-8834-ca8593ccd5be"
         },
         {
           "publisherId": "hs",
@@ -484,49 +1010,66 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011226158.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Varsovan ostoskeskuksen tulipalosta tulee kuluneeksi vuosi – Tusk: Venäjä tilasi tuhopolton",
+          "content": "Tusk sanoi jo viime vuoden toukokuussa, että Venäjä oli todennäköisesti palon takana.",
+          "date": "2025-05-11T18:40:43.000Z",
+          "categories": [
+            "rikokset",
+            "tulipalot",
+            "donald tusk",
+            "varsova",
+            "venäjä",
+            "sabotaasi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161101?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Hamas aikoo vapauttaa panttivangin",
+      "mainTitle": "USA:n ja Kiinan neuvottelut jatkuvat",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Talous",
+        "Taloussanomat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Hamas aikoo vapauttaa yhdys­valtalais-israelilaisen pantti­vangin",
-          "content": "Hamasin mukaan panttivanki vapautetaan osana Yhdysvaltojen kanssa käytyjä neuvotteluja.",
-          "date": "2025-05-11T20:22:00.000Z",
+          "title": "Näin USA:n ja Kiinan neuvottelut sujuivat",
+          "content": "Talousjättien suhteet ovat olleet koetuksella.",
+          "date": "2025-05-12T00:27:00.000Z",
           "categories": [
-            "ulkomaat"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011226186.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000011226291.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Gaza | Hamas ja USA keskustelleet tuli­tauosta – Hamas aikoo vapauttaa yhdys­valtalaisen pantti­vangin",
-          "content": "Qatarissa pidetyissä keskusteluissa puhuttiin myös vankienvaihdosta ja humanitaarisesta avusta.",
-          "date": "2025-05-11T19:38:00.000Z",
+          "title": "Kauppasota | Trump kertoi neuvottelujen Kiinan kanssa sujuneen hyvin",
+          "content": "Maiden neuvottelut jatkuvat sunnuntaina.",
+          "date": "2025-05-11T01:23:00.000Z",
           "categories": [
-            "maailma"
+            "talous"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011226089.html"
+          "link": "https://www.hs.fi/talous/art-2000011225220.html"
         }
       ]
     },
     {
-      "mainTitle": "Yhdysvaltojen ja Kiinan kauppaneuvottelut etenevät",
+      "mainTitle": "Yhdysvaltojen ja Kiinan kauppaneuvotteluissa edistystä",
       "mainCategories": [
-        "Taloussanomat",
         "Maailma",
-        "Talous"
+        "Taloussanomat"
       ],
       "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
@@ -543,16 +1086,14 @@
           "link": "https://www.hs.fi/maailma/art-2000011225980.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Trump kertoi neuvottelujen Kiinan kanssa sujuneen hyvin",
-          "content": "Maiden neuvottelut jatkuvat sunnuntaina.",
-          "date": "2025-05-11T01:23:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011225220.html"
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sekä Yhdysvallat että Kiina kertovat merkittävästä edistymisestä kauppaneuvotteluissa",
+          "content": "Neuvottelujen yksityiskohdista kerrotaan huomenna maanantaina.",
+          "date": "2025-05-11T16:00:26.000Z",
+          "categories": [],
+          "link": "https://yle.fi/a/74-20161087?origin=rss"
         },
         {
           "publisherId": "is",
@@ -565,18 +1106,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011225210.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kiinan valtion­media: Neuvottelut Yhdys­valtain kanssa tärkeä askel",
-          "content": "Sveitsin Genevessä lauantaina alkaneista neuvotteluista toivotaan helpotusta maiden välille leimahtaneeseen kauppasotaan.",
-          "date": "2025-05-10T22:06:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011225200.html"
         }
       ]
     },
@@ -641,9 +1170,11 @@
     {
       "mainTitle": "Intian ja Pakistanin välinen konflikti jatkuu",
       "mainCategories": [
-        "Maailma"
+        "Maailma",
+        "Konfliktit",
+        "Pakistan"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -656,6 +1187,55 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011226104.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Intian ja Pakistanin tulitauko kestänyt pääosin",
+          "content": "",
+          "date": "2025-05-11T10:21:35.000Z",
+          "categories": [
+            "konfliktit",
+            "pakistan",
+            "ulkomaat",
+            "intia",
+            "aselepo",
+            "kriisinhallinta",
+            "jammu ja kashmir"
+          ],
+          "link": "https://yle.fi/a/74-20161060?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mediat: Pakistanin tekemät iskut Intiaan antoivat osviittaa Kiinan sotilaallisista kyvyistä",
+          "content": "Kiina on Pakistanin tärkein asetoimittaja, kun Intia taas on viime vuosina ostanut aseita etenkin länsimaista.",
+          "date": "2025-05-11T07:58:59.000Z",
+          "categories": [
+            "konfliktit",
+            "pakistan",
+            "intia",
+            "aseet",
+            "kashmir ",
+            "aseteollisuus",
+            "kiina",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161037?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Intian ja Pakistanin konflikti | Intia syyttää Pakistanin rikkoneen toistuvasti aselepoa – Ulkoministeriön mukaan maa aikoo vastata asein",
+          "content": "Pakistan puolestaan syyttää Intian syyllistyneen rikkomuksiin.",
+          "date": "2025-05-10T20:44:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011224659.html"
         },
         {
           "publisherId": "hs",
@@ -672,26 +1252,56 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan sota: Aselevosta ja rauhansopimuksesta keskustellaan",
+      "mainTitle": "Rovaniemelle suunnitellaan suurta datakeskusta",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat",
-        "Rauhanneuvottelut"
+        "Energia",
+        "Rovaniemi",
+        "Hukkalämpö"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/datakeskus/3.jpg",
       "relatedNews": [
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Zelenskyi: Haluamme täyden aselevon, odotan Putinia Turkissa",
-          "content": "",
-          "date": "2025-05-11T18:03:43.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Investoinnit | Rovaniemelle suunnitellaan valtavaa data­keskusta, kaupungin­hallitus käsittelee maanantaina",
+          "content": "Ylen mukaan datakeskus olisi valmistuttuaan yksi Suomen suurimmista rakennuksista.",
+          "date": "2025-05-11T17:51:00.000Z",
           "categories": [
-            "rauhanneuvottelut"
+            "suomi"
           ],
-          "link": "https://www.ts.fi/uutiset/6658243"
+          "link": "https://www.hs.fi/suomi/art-2000011225989.html"
         },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Rovaniemelle suunnitteilla jättimäinen datakeskus: koko 25 jalka­pallokenttää",
+          "content": "Kiinteistökehittäjä FCDC suunnittelee Rovaniemelle massiivista datakeskusta. Kyseessä on  miljardiluokan hanke.",
+          "date": "2025-05-11T14:13:08.000Z",
+          "categories": [
+            "energia",
+            "rovaniemi",
+            "hukkalämpö",
+            "tietotekniikka",
+            "datakeskus",
+            "lappi",
+            "talous",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20160881?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump vaatii Ukrainaa suostumaan Putinin ehdotukseen",
+      "mainCategories": [
+        "Ulkomaat",
+        "Kotimaa",
+        "Maailma"
+      ],
+      "imageUrl": "/images/venäjä/6.jpg",
+      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -705,35 +1315,53 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011226051.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Putinilla ei vieläkään ole syytä sopia rauhaa",
-          "content": "Neuvottelut Ukrainassa alkavat vasta kun ne ovat kaikille vähiten huono vaihtoehto, kirjoittaa HS:n ulkomaantoimittaja John Helin.",
-          "date": "2025-05-11T17:00:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Yksi sana tulitaukoehdotuksessa ei ole Putinin mieleen",
+          "content": "Putin ei halua näyttäytyä johtajana, joka suostuu muiden ehtoihin, vaan sellaisena, jonka ehdotuksiin muut joutuvat suostumaan, kirjoittaa Ylen Ukrainan-toimittaja Maxim Fedorov.",
+          "date": "2025-05-11T11:53:00.000Z",
           "categories": [
-            "maailma"
+            "venäjän hyökkäys",
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011225751.html"
+          "link": "https://yle.fi/a/74-20161065?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pelaako Venäjä aikaa, vai pelkääkö se Trumpin koventavan linjaansa? Näin tutkija arvioi Putinin ehdotusta neuvotteluista",
+          "content": "Turvallisuuspolitiikan tutkijan mukaan Putinin viimeöisen lausunnon taustalla voi olla pelko siitä, että Yhdysvaltain presidentti Donald Trump ottaa kovemman linjan Venäjään. ",
+          "date": "2025-05-11T08:55:06.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "venäjän hyökkäys ukrainaan 2022",
+            "kotimaa",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161043?origin=rss"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Euroopan johtajat: Trump seisoo tulitaukoehdotuksen takana",
-          "content": "Stubbin mukaan tulitauon jälkeen on heti aloitettava rauhansopimusneuvottelut.",
-          "date": "2025-05-10T12:57:00.000Z",
+          "title": "Venäjän hyökkäys | Asiantuntija: Tulitaukoehdotus ei jää vain sanahelinäksi",
+          "content": "Ulkopoliittisen instituutin johtaja Hiski Haukkala uskoo, että Euroopan ja Yhdysvaltojen on ryhdyttävä toimiin, jos Venäjä ei kunnioita vaatimusta 30 päivän tulitauosta.",
+          "date": "2025-05-10T16:29:00.000Z",
           "categories": [
             "maailma"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011224626.html"
+          "link": "https://www.hs.fi/maailma/art-2000011224833.html"
         }
       ]
     },
     {
       "mainTitle": "Ilmalaiva putosi Pyhäjärveen Tampereella",
       "mainCategories": [
-        "Suomi"
+        "Onnettomuudet",
+        "Ilmalaivat",
+        "Tampere"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -748,6 +1376,23 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011225852.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ilmalaiva putosi järveen Tampereella – oli tekemässä kaupungista 3D-mallinnusta",
+          "content": "Hitaasti lentävän, miehittämättömän aluksen kappaleita  putosi Pyhäjärveen, mutta vahinkoja ei tullut.",
+          "date": "2025-05-11T15:19:14.000Z",
+          "categories": [
+            "onnettomuudet",
+            "ilmalaivat",
+            "tampere",
+            "pyhäjärvi",
+            "kotimaa",
+            "pirkanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20161084?origin=rss"
         },
         {
           "publisherId": "is",
@@ -769,7 +1414,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/datakeskus/1.jpg",
+      "imageUrl": "/images/datakeskus/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -794,6 +1439,53 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011225174.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Iran ja Yhdysvallat jatkavat ydinneuvotteluja",
+      "mainCategories": [
+        "Iran",
+        "Yhdysvallat",
+        "Ydintekniikka"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sekä Iran että Yhdysvallat varovaisen myönteisiä ydinneuvottelujen neljännen kierroksen jälkeen",
+          "content": "Iranin ja Yhdysvaltain ydinneuvottelut jatkuvat, neuvottelujen välittäjä Oman kertoo aikataulun myöhemmin.",
+          "date": "2025-05-11T14:02:39.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "iran",
+            "yhdysvallat",
+            "ydintekniikka",
+            "ydinaseet",
+            "lähi-itä",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161078?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Iranin ja USA:n ydinneuvottelujen neljäs kierros alkoi Omanissa – Iran toivoo etenemistä ratkaisevaan pisteeseen",
+          "content": "Kiistaa on aiheuttanut erityisesti oikeus rikastaa uraania, mistä Iran ei ulkoministerinsä mukaan ole valmis neuvottelemaan. ",
+          "date": "2025-05-11T10:48:02.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "uraanin rikastaminen",
+            "iran",
+            "yhdysvallat",
+            "ydintekniikka",
+            "ydinaseet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20161063?origin=rss"
         }
       ]
     },
@@ -878,13 +1570,111 @@
       ]
     },
     {
-      "mainTitle": "Äitienpäivänä kunniamerkkejä lähes 40 äidille",
+      "mainTitle": "Kiinan mahdollinen rooli Venäjän neuvotteluissa",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa"
+        "Ykkösaamu",
+        "Ukraina",
+        "Venäjä"
+      ],
+      "imageUrl": "/images/venäjä/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Tutkija uskoo, että Kiinalla on osuutensa Putinin tarjouksessa istua neuvottelu­pöytään kaksin Ukrainan kanssa",
+          "content": "Apulaisprofessori Rinna Kullaa uskoo, että Venäjän kutsun taustalla saattaa hääriä Kiina.",
+          "date": "2025-05-11T11:46:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011225457.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tulitaukosopimus Ukrainan ja Venäjän välille on mahdollinen viikonlopun aikana, asiantuntija arvioi",
+          "content": "Ulkopoliittisen instituutin johtajan Hiski Haukkalan mukaan Euroopan suurmaiden käynnissä oleva vierailu Kiovaan on merkittävä. ",
+          "date": "2025-05-10T07:38:10.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ykkösaamu",
+            "hiski haukkala",
+            "ukraina",
+            "venäjä",
+            "yhdysvallat",
+            "politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20160968?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hyönteistuhojen kasvu aiheuttaa miljoonatappioita",
+      "mainCategories": [
+        "Luonto",
+        "Kirjanpainajat",
+        "Tuhoeläimet"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä aiheuttaa metsän­omistajille miljoona­tappiot vuosittain – tuhot lisääntyneet",
+          "content": "Ilmaston lämmetessä hyönteistuhojen ennakoidaan edelleen lisääntyvän.",
+          "date": "2025-05-11T10:40:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011225344.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kirjanpainajan tuhot metsissä ovat lisääntyneet viime vuosina",
+          "content": "",
+          "date": "2025-05-11T06:31:51.000Z",
+          "categories": [
+            "luonto",
+            "kirjanpainajat",
+            "tuhoeläimet",
+            "tuhohyönteiset",
+            "metsät",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20161039?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Äitienpäivänä kunniamerkin sai 36 äitiä",
+      "mainCategories": [
+        "Kotimaa",
+        "Juhlat",
+        "Äitienpäivä"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Äitienpäivänä kunniamerkin sai 36 äitiä",
+          "content": "Sunnuntaina äitejä juhlistettiin perinteiseen tapaan Helsingissä valtakunnallisessa äitienpäiväjuhlassa.",
+          "date": "2025-05-11T09:06:55.000Z",
+          "categories": [
+            "juhlat",
+            "äitienpäivä",
+            "äitienpäivänkunniamerkki",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20161054?origin=rss"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -912,29 +1702,169 @@
       ]
     },
     {
-      "mainTitle": "Venäjä ja Ukraina neuvotteluihin ensi viikolla",
-      "mainCategories": [],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "mainTitle": "Port Sudanin tulipalo saatu hallintaan",
+      "mainCategories": [
+        "Onnettomuudet",
+        "Sudan",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Putin ehdottaa ensi viikolle suoria neuvotteluita Venäjän ja Ukrainan välillä – Macron: Tämä on ensimmäinen askel",
-          "content": "Ukrainan tukijat uhkasivat vain tunteja aiemmin Venäjää uusilla pakotteilla, jos maa ei hyväksy maanantaina alkavaa 30 päivän aselepoa.",
-          "date": "2025-05-11T05:29:03.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/putin-ehdottaa-ensi-viikolle-suoria-neuvotteluita/11625896?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sudan | Satamakaupungin polttoaine­varastossa riehunut tulipalo saatu viimein hallintaan",
+          "content": "Port Sudan on tähän saakka saanut olla kohtalaisen rauhassa kaksi vuotta kestäneeltä sodalta.",
+          "date": "2025-05-11T06:49:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011225328.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Presidentti Stubb: Venäjälle asetetaan lisäpakotteita, jos se ei suostu 30 päivän aselepoon Ukrainassa",
-          "content": "Ranskan presidentti Macronin mukaan Yhdysvallat on sitoutunut valvomaan Ukrainan ja Venäjän aselepoa.",
-          "date": "2025-05-10T18:30:40.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/presidentti-stubb-venajalle-asetetaan-lisapakottei/11625638?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sudanin satamakaupungin polttoainevarastossa riehunut tulipalo saatu hallintaan",
+          "content": "Port Sudan on tärkeä humanitaarisen avun läpikulkupaikka.",
+          "date": "2025-05-11T06:44:03.000Z",
+          "categories": [
+            "onnettomuudet",
+            "sudan",
+            "ulkomaat",
+            "arabimaat",
+            "afrikka",
+            "tulipalot",
+            "yk",
+            "avustustoiminta",
+            "port sudan"
+          ],
+          "link": "https://yle.fi/a/74-20161044?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Albanian vaalit ja EU-kelpoisuus arvioinnissa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Albania",
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Albanian vaaleissa punnitaan maan EU-kelpoisuutta",
+          "content": "Albania yrittää päästä eroon korruption ja takapajuisuuden leimasta.",
+          "date": "2025-05-11T06:15:50.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "albania",
+            "ulkomaat",
+            "politiikka",
+            "puolueet",
+            "lahjonta",
+            "yhteiskunnalliset tapahtumat",
+            "vaalit"
+          ],
+          "link": "https://yle.fi/a/74-20161038?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Albaniassa äänestetään tänään parlamentista",
+          "content": "Tuoreissa mielipidemittauksissa sosialistipuolue on ollut varsin selvässä johdossa.",
+          "date": "2025-05-11T00:07:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011225213.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Maakuntalentojen jatko epävarmaa rahoituksen vuoksi",
+      "mainCategories": [
+        "Politiikka",
+        "Liikenne",
+        "Lentoliikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ministeri Ranne: Maakuntalennot jatkuvat varmasti – ”Mutta meillä ei ole mitään rahoja valmiina”",
+          "content": "Maakuntien kaupungeissa on ollut epäselvyyttä siitä, mitä hallitus on luvannut maakuntalentojen jatkosta.",
+          "date": "2025-05-11T05:33:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011225286.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ministeri Ranne lupaa maakuntalentojen jatkuvan varmasti, vaikka niihin ei ole varattu rahaa",
+          "content": "",
+          "date": "2025-05-11T05:09:39.000Z",
+          "categories": [
+            "politiikka",
+            "liikenne",
+            "lentoliikenne",
+            "maakunnat",
+            "pohjois-karjala",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20161032?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Roihuvuoren kirsikkajuhla pelastui tänä keväänä",
+      "mainCategories": [
+        "Kotimaa",
+        "Luonto",
+        "Kirsikkapuut"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Helsingin lähiön vetonaula veti puoleensa tuhansia – nyt puhuu mies ilmiön takana",
+          "content": "Tänä keväänä juhla saatiin pelastettua, mutta puiden kannalta pahin voi olla vielä edessä, varoittaa kirsikkapuiston isä.",
+          "date": "2025-05-11T04:10:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011224043.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Video: Tältä näyttää Roihuvuoren kirsikkajuhlan kukkaloisto rajun karsimisen jälkeen",
+          "content": "Roihuvuoren perinteinen hanami-juhla uhkasi peruuntua kirsikkapuiden liian rajun karsimisen takia. ",
+          "date": "2025-05-10T15:28:59.000Z",
+          "categories": [
+            "luonto",
+            "kirsikan kukinta",
+            "kirsikkapuut",
+            "roihuvuori",
+            "helsinki",
+            "hanami",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20161013?origin=rss"
         }
       ]
     },
@@ -969,64 +1899,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011224765.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Intian ja Pakistanin aselevon rikkomukset",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Intian ja Pakistanin konflikti | Intia syyttää Pakistanin rikkoneen toistuvasti aselepoa – Ulkoministeriön mukaan maa aikoo vastata asein",
-          "content": "Pakistan puolestaan syyttää Intian syyllistyneen rikkomuksiin.",
-          "date": "2025-05-10T20:44:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011224659.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "AFP: Intialais­lähde syyttää Pakistanin rikkoneen aselepo­sopimusta",
-          "content": "Intialainen hallituslähde sanoo uutistoimisto AFP:lle Pakistanin rikkoneen maiden aiemmin tänään solmimaa aseleposopimusta.",
-          "date": "2025-05-10T16:27:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011225005.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Intia syyttää Pakistanin rikkoneen toistuvasti lauantaina solmittua aselepoa",
-          "content": "",
-          "date": "2025-05-10T12:26:11.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.ts.fi/uutiset/6657545"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ainakin 11 kuollut Intian yöllisissä iskuissa Pakistaniin – Pakistan vastasi omilla iskuillaan",
-          "content": "Intia iski myös aivan Pakistanin pääkaupungin lähistölle.",
-          "date": "2025-05-10T09:22:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011224495.html"
         }
       ]
     },
@@ -1196,40 +2068,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011224391.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nigeria ei ole pyytänyt luovutusta",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Oikeusministeriö: Nigeria ei ole pyytänyt terrorismirikoksesta epäillyn ex-kuntapoliitikon luovutusta",
-          "content": "Nigerialaismediat kertoivat aiemmin luovutuspyynnöstä. Maan oikeusministeri korjasi tietoja eilen.",
-          "date": "2025-05-10T08:46:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011224446.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rikosepäilyt | OM: Nigeria ei ole pyytänyt terrorismi­rikoksesta epäillyn lahtelais­miehen luovutusta",
-          "content": "Nigerialaismediat kertoivat aiemmin luovutuspyynnöstä. Maan oikeusministeri korjasi tietoja perjantaina.",
-          "date": "2025-05-10T07:14:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011224365.html"
         }
       ]
     }
