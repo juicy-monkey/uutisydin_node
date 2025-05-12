@@ -1,49 +1,136 @@
 {
-  "timestamp": "2025-05-12T07:16:35.129Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-05-12T07:39:10.898Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Yhdysvallat ja Kiina jäädyttävät tullit 90 päiväksi",
+      "mainTitle": "Yhdysvallat ja Kiina sopivat tulleista",
       "mainCategories": [
         "Talous",
-        "Kiina",
+        "Pörssit",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yhdysvallat ja Kiina sopivat tulleista",
+          "content": "Tieto tullitauosta on sinkauttanut pörssikurssit voimakkaaseen nousuun Hongkongin ja Shanghain pörsseissä.",
+          "date": "2025-05-12T07:37:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011226777.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pörssit innostuivat heti Kiinan ja USA:n välirauhasta kauppasodassa",
+          "content": "",
+          "date": "2025-05-12T07:31:02.000Z",
+          "categories": [
+            "talous",
+            "pörssit",
+            "yhdysvallat",
+            "kiina"
+          ],
+          "link": "https://yle.fi/a/74-20161172?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Patrian tekoälyhanke sai 45 miljoonaa euroa",
+      "mainCategories": [
+        "Teknologia",
+        "Kotimaa",
+        "Talous"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puolustus | Patrian johtama sodan­käynnin teko­äly­hanke sai 45 miljoonan EU-rahoituksen",
+          "content": "Hankkeella kehitetään parviälyohjattua lähetin-vastaanotinjärjestelmää.",
+          "date": "2025-05-12T07:23:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011226816.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Patrian johtama sodankäynnin tekoälyhanke sai 45 miljoonan EU-rahoituksen",
+          "content": "",
+          "date": "2025-05-12T06:50:21.000Z",
+          "categories": [
+            "teknologia",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20161157?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "USA ja Kiina jäädyttävät tullit 90 päiväksi",
+      "mainCategories": [
+        "Ulkomaat",
+        "Talous"
+      ],
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
           "title": "Kauppasota | Yhdysvallat ja Kiina ovat jäädyttäneet osan tulleistaan 90 päiväksi",
-          "content": "Asiasta sovittiin Geneven neuvotteluissa.",
-          "date": "2025-05-12T07:14:00.000Z",
+          "content": "Bloombergin mukaan Yhdysvallat laskee Kiinan viennille määrätyt 145 prosentin tullit 30 prosenttiin ja Kiina Yhdysvaltojen viennille määrätyt tullit 125 prosentista kymmeneen prosenttiin.",
+          "date": "2025-05-12T07:21:00.000Z",
           "categories": [
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011226767.html"
         },
         {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "USA ja Kiina sopuun tulleista",
+          "content": "Yhdysvallat ja Kiina sopivat tullien jäädyttämisestä Genevessä järjestetyissä neuvotteluissa. Yhdysvallat ja Kiina ovat jäädyttäneet osan tulleistaan 90 päiväksi. Yhdysvaltain valtiovarainministerin Scott Bessentin mukaan molemmat maat laskevat tuontitullejaan 115 prosenttiyksikköä, uutistoimisto AFP kertoo.",
+          "date": "2025-05-12T07:20:59.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/82b260d2-ea2e-46da-be45-e7ff5963c85a"
+        },
+        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Analyysi: Yhdysvallat on pian hätää kärsimässä aloittamansa kauppasodan takia",
-          "content": "Yhdysvaltojen ja Kiinan kauppaneuvottelijat tapaavat lauantaina. Yhdysvallat on todennäköisesti pian valmis perääntymään kauppasodassa, kirjoittaa ulkomaantoimittaja Elli-Alina Hiilamo.",
-          "date": "2025-05-10T09:09:31.000Z",
+          "title": "Kiina ja Yhdysvallat jäädyttävät tullinsa 90 päiväksi",
+          "content": "",
+          "date": "2025-05-12T07:14:52.000Z",
           "categories": [
-            "talous",
-            "kiina",
-            "yhdysvallat",
-            "kauppasodat",
-            "tullit",
-            "kansainvälinen kauppa",
-            "maailmantalous",
-            "kauppasuhteet",
             "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20160972?origin=rss"
+          "link": "https://yle.fi/a/74-20161162?origin=rss"
         }
       ]
     },
@@ -86,7 +173,7 @@
       ]
     },
     {
-      "mainTitle": "PKK lopettaa toimintansa historian myötä",
+      "mainTitle": "PKK lopettaa toimintansa yli 40 vuoden jälkeen",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
@@ -469,7 +556,7 @@
         "Hamas",
         "Israel"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -803,7 +890,7 @@
       ]
     },
     {
-      "mainTitle": "Stubbin presidenttivierailu Keniassa ja Tansaniassa",
+      "mainTitle": "Stubbin historiallinen vierailu Keniaan ja Tansaniaan",
       "mainCategories": [
         "Politiikka",
         "Kenia",
@@ -846,7 +933,7 @@
       ]
     },
     {
-      "mainTitle": "Trump saa luksuslahjan Qatarilta ensi viikolla",
+      "mainTitle": "Trump harkitsee Qatarilta saatavaa luksuskoneetta",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -905,18 +992,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011225978.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Trump on saamassa 400 miljoonan dollarin lahjan",
-          "content": "Qatar on ABC Newsin mukaan lahjoittamassa Donald Trumpille satojen miljoonien dollarien arvoisen lentokoneen. Donald Trumpin hallinto on saamassa arvioiden mukaan peräti noin 400 miljoonan dollarin arvoisen lahjan Qatarin hallitsijasuvulta, kertoo ABC News. Kyseessä on ”lentäväksi palatsiksi” kutsuttu luksusluokan Boeing 747-8 -lentokone. ABC Newsin mukaan lahja on tarkoitus paljastaa Trumpille ensi viikolla, kun hän vierailee öljyvaroistaan tunnetussa Qatarissa.",
-          "date": "2025-05-11T18:56:14.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/a09deae3-34ab-4a04-9def-44944a590f50"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -948,7 +1023,7 @@
         "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -985,7 +1060,7 @@
         "Rikokset",
         "Tulipalot"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -1034,10 +1109,10 @@
     {
       "mainTitle": "USA:n ja Kiinan neuvottelut jatkuvat",
       "mainCategories": [
-        "Talous",
-        "Taloussanomat"
+        "Taloussanomat",
+        "Talous"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1062,16 +1137,29 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011225220.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Trump kommentoi neuvotteluja Kiinan kanssa",
+          "content": "Neuvottelujen odotetaan jatkuvan tänään.",
+          "date": "2025-05-10T23:53:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011225210.html"
         }
       ]
     },
     {
       "mainTitle": "Yhdysvaltojen ja Kiinan kauppaneuvotteluissa edistystä",
       "mainCategories": [
-        "Maailma",
-        "Taloussanomat"
+        "Talous",
+        "Kiina",
+        "Yhdysvallat"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1089,23 +1177,21 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Sekä Yhdysvallat että Kiina kertovat merkittävästä edistymisestä kauppaneuvotteluissa",
-          "content": "Neuvottelujen yksityiskohdista kerrotaan huomenna maanantaina.",
-          "date": "2025-05-11T16:00:26.000Z",
-          "categories": [],
-          "link": "https://yle.fi/a/74-20161087?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin Trump kommentoi neuvotteluja Kiinan kanssa",
-          "content": "Neuvottelujen odotetaan jatkuvan tänään.",
-          "date": "2025-05-10T23:53:00.000Z",
+          "title": "Analyysi: Yhdysvallat on pian hätää kärsimässä aloittamansa kauppasodan takia",
+          "content": "Yhdysvaltojen ja Kiinan kauppaneuvottelijat tapaavat lauantaina. Yhdysvallat on todennäköisesti pian valmis perääntymään kauppasodassa, kirjoittaa ulkomaantoimittaja Elli-Alina Hiilamo.",
+          "date": "2025-05-10T09:09:31.000Z",
           "categories": [
-            "taloussanomat"
+            "talous",
+            "kiina",
+            "yhdysvallat",
+            "kauppasodat",
+            "tullit",
+            "kansainvälinen kauppa",
+            "maailmantalous",
+            "kauppasuhteet",
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011225210.html"
+          "link": "https://yle.fi/a/74-20160972?origin=rss"
         }
       ]
     },
@@ -1258,7 +1344,7 @@
         "Rovaniemi",
         "Hukkalämpö"
       ],
-      "imageUrl": "/images/datakeskus/3.jpg",
+      "imageUrl": "/images/datakeskus/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1414,7 +1500,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/datakeskus/2.jpg",
+      "imageUrl": "/images/datakeskus/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1449,7 +1535,7 @@
         "Yhdysvallat",
         "Ydintekniikka"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1570,49 +1656,7 @@
       ]
     },
     {
-      "mainTitle": "Kiinan mahdollinen rooli Venäjän neuvotteluissa",
-      "mainCategories": [
-        "Ykkösaamu",
-        "Ukraina",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/1.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | Tutkija uskoo, että Kiinalla on osuutensa Putinin tarjouksessa istua neuvottelu­pöytään kaksin Ukrainan kanssa",
-          "content": "Apulaisprofessori Rinna Kullaa uskoo, että Venäjän kutsun taustalla saattaa hääriä Kiina.",
-          "date": "2025-05-11T11:46:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011225457.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tulitaukosopimus Ukrainan ja Venäjän välille on mahdollinen viikonlopun aikana, asiantuntija arvioi",
-          "content": "Ulkopoliittisen instituutin johtajan Hiski Haukkalan mukaan Euroopan suurmaiden käynnissä oleva vierailu Kiovaan on merkittävä. ",
-          "date": "2025-05-10T07:38:10.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ykkösaamu",
-            "hiski haukkala",
-            "ukraina",
-            "venäjä",
-            "yhdysvallat",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20160968?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hyönteistuhojen kasvu aiheuttaa miljoonatappioita",
+      "mainTitle": "Hyönteistuhojen kasvu metsänomistajille haitaksi",
       "mainCategories": [
         "Luonto",
         "Kirjanpainajat",
@@ -2034,40 +2078,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011223216.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suuret yritykset pidentävät maksuaikoja laittomasti",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yrittäjägallup: Suuret yritykset pidentävät laittomasti maksuaikoja",
-          "content": "Pk-yrityksillä on ollut ongelmia myös valtio- ja kuntaomisteisten yhtiöiden kanssa.",
-          "date": "2025-05-10T08:51:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011224459.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yrittäjägallup | Suuret yritykset pidentävät laittomasti maksuaikoja",
-          "content": "Pk-yrityksillä on ollut ongelmia myös valtio- ja kuntaomisteisten yhtiöiden kanssa.",
-          "date": "2025-05-10T07:35:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011224391.html"
         }
       ]
     }
