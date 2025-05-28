@@ -1,16 +1,118 @@
 {
-  "timestamp": "2025-05-28T16:19:31.386Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-05-28T16:47:22.599Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Pääministeri Orpo vieraili Ukrainassa.",
+      "mainCategories": [
+        "Ulkomaat",
+        "Ukraina",
+        "Politiikka"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Pääministeri Orpo teki viime hetkeen asti salatun vierailun Ukrainassa: \"Täällä ei ole toivottomuutta\"",
+          "content": "",
+          "date": "2025-05-28T16:38:13.000Z",
+          "categories": [
+            "ukrainan sota",
+            "petteri orpo",
+            "ukraina",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6675768"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Täällä Petteri Orpo vieraili heti matkansa aluksi – ”Tuttu maku”",
+          "content": "Suomen pääministeri tutustui yritysjohtajien kanssa turkulaislähtöisen hampurilaisketjun uuteen tehtaaseen Kiovan liepeillä Ukrainassa.",
+          "date": "2025-05-28T16:34:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011264076.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Orpo vierailulla Ukrainassa – Kommentoi Trumpia",
+          "content": "Ukrainassa vieraileva pääministeri Petteri Orpo (kok) vastasi median kysymyksiin. Mitä tapahtuu Suomen ja Venäjän suhteille? Kuka painostaa Kremliä, jos Yhdysvallat kävelee pois? Muun muassa tällaisia kysymyksiä sai eteensä Ukrainassa vieraileva pääministeri Petteri Orpo (kok), joka piti tiedotustilaisuuden suomalaiselle medialle.",
+          "date": "2025-05-28T16:24:19.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/6c238d0a-8c19-46c0-8dc6-3be673cc9d6b"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääministeri Orpo on vierailulla Kiovassa – Suomi ja Ukraina julistaneet väestönsuojakoalition",
+          "content": "Orpo allekirjoitti Kiovassa sopimuksia, jotka pohjustavat Suomen ja Ukrainan yhteistyötä.",
+          "date": "2025-05-28T16:23:23.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ukraina",
+            "petteri orpo",
+            "väestönsuojat",
+            "venäjän hyökkäys ukrainaan 2022",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20164696?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Petteri Orpo yllätysvierailulla Kiovassa",
+          "content": "Ilta-Sanomat seuraa Orpon vierailua tässä artikkelissa.",
+          "date": "2025-05-28T16:22:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011264848.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Petteri Orpo kohtasi pysäyttävän näyn Kiovassa – vahva viesti Trumpille",
+          "content": "Orpon mukaan suhteiden rakentaminen Venäjän kanssa tuntuu mahdottomalta ajatukselta Venäjän jatkaessa sotaansa Ukrainassa.",
+          "date": "2025-05-28T16:22:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011265291.html"
+        }
+      ]
+    },
     {
       "mainTitle": "Venäjän tulevaisuus epävarma Putinin vuoksi",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -96,21 +198,11 @@
             "suomen sosialidemokraattinen puolue"
           ],
           "link": "https://yle.fi/a/74-20164590?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Hallintovaliokunta kannattaa jatkoa käännytyslaille, vihreät ja vasemmisto vastustivat",
-          "content": "Eduskunnan hallintovaliokunta kannattaa niin kutsutun käännytyslain jatkamista vuoden 2026 loppuun asti.",
-          "date": "2025-05-27T13:40:54.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hallintovaliokunta-kannattaa-jatkoa-kaannytyslaill/11647400?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
-      "mainTitle": "Rovaniemen hamsterin seikkailu päättyi onnellisesti",
+      "mainTitle": "Rovaniemen karkulaishamsteri löytyi leikkipuistosta",
       "mainCategories": [
         "Kotimaa",
         "Eläimet",
@@ -229,7 +321,7 @@
       ]
     },
     {
-      "mainTitle": "Taurus-ohjus Ukrainalle herättää keskustelua",
+      "mainTitle": "Saksa harkitsee Taurus-ohjuksia Ukrainalle",
       "mainCategories": [
         "Ukraina",
         "Saksa",
@@ -284,7 +376,7 @@
       ]
     },
     {
-      "mainTitle": "Väkivaltarikos Helsingissä johtaa poliisioperaatioon",
+      "mainTitle": "Helsingissä puukotustapaus ja nyrkkitappelu",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -293,35 +385,11 @@
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Väkivaltarikos Helsingissä – poliisilla iso operaatio",
-          "content": "Paikalla on useita poliisipartioita ja ensihoidon yksiköitä.",
-          "date": "2025-05-28T15:14:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011265446.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Väkivaltarikos Helsingissä – Iso poliisi­operaatio ",
-          "content": "Epäilty tekijä on poliisin hallussa. Tilanne on parhaillaan kesken. Kyläsaarenkadulla Helsingin Verkkosaaressa on parhaillaan meneillään poliisioperaatio väkivaltarikokseen liittyen. Epäilty tekijä on poliisin hallussa. Helsingin poliisin johtokeskuksen mukaan paikalla on ensihoitoa vaativa tehtävä ja tilanne on monelta osalta edelleen kesken.",
-          "date": "2025-05-28T15:09:17.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/abd28896-92a6-41aa-a253-d604f4994ecd"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Helsingissä käynnissä poliisitehtävä – neljä otettu kiinni, osalla sairaalahoitoa vaativia vammoja",
-          "content": "Kyläsaarenkadulla tapahtui keskiviikkona alkuillasta epäilty väkivaltarikos.",
+          "title": "Poliisi epäilee tapon yritystä Helsingin Kyläsaaressa – silminnäkijä: kahta puukotettiin",
+          "content": "Poliisin mukaan tilanteessa osallisena oli neljä ihmistä.",
           "date": "2025-05-28T15:01:19.000Z",
           "categories": [
             "rikosepäilyt",
@@ -331,11 +399,35 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20164686?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Poliisinauha porilaisen rivitalon pihalla – Kaksi valko­haalarista henkilöä kiinnitti huomion",
+          "content": "Lounais-Suomen poliisi tutki Porin Laviassa sijaitsevan rivitalon päätyasuntoa. Iltalehdelle toimitetussa videopätkässä porilaisen asunnon oven luona on kumartuneena kaksi valkohaalarista henkilöä, joilla on huput päässään. Oheisessa kuvassa näkyy puolestaan poliisinauhaa. Tapauksen tutkinnanjohtaja, rikoskomisario Kimmo Hiltula ei halua kertoa asiasta mitään, ei edes sitä minkä tyyppistä epäiltyä rikosta poliisi tutkii. Hän kuitenkin lupaa, että poliisi tiedottaa heti, kun se on mahdollista.",
+          "date": "2025-05-28T14:13:31.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/66133767-b173-4d44-92e3-591fb131a281"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Nyrkki­tappelu Kontulassa – viisi poliisi­partiota paikalle",
+          "content": "Kaksi ihmistä selvittivät välejään nyrkein.",
+          "date": "2025-05-28T13:32:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011264874.html"
         }
       ]
     },
     {
-      "mainTitle": "Motonet lisää sähköautojen latausasemia",
+      "mainTitle": "Motonet rakentaa sähköautojen latausasemia",
       "mainCategories": [
         "Talous",
         "Auto"
@@ -374,7 +466,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -510,13 +602,13 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat syyttää Kiinaa kyberhyökkäyksestä",
+      "mainTitle": "Yhdysvallat syyttää Kiinaa kyberhyökkäyksestä Tšekissä",
       "mainCategories": [
         "Tšekki",
         "Kiina",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -562,7 +654,7 @@
         "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -649,7 +741,7 @@
       ]
     },
     {
-      "mainTitle": "Oulussa murhasta epäilty vangittu mies",
+      "mainTitle": "Oulussa murhasta epäilty vangittu 22-vuotias",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -683,7 +775,7 @@
       ]
     },
     {
-      "mainTitle": "Betoniseinäonnettomuus Turussa tuomitsi asentajan.",
+      "mainTitle": "Betoniseinäonnettomuus Turussa tuomitsi asentajan",
       "mainCategories": [
         "Onnettomuudet",
         "Turku",
@@ -730,7 +822,7 @@
       ]
     },
     {
-      "mainTitle": "Suomi irtautumassa Ottawan sopimuksesta",
+      "mainTitle": "Suomi irtautuu Ottawan sopimuksesta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -775,7 +867,7 @@
       ]
     },
     {
-      "mainTitle": "Äiti haastaa Hämeenlinnan oikeuteen uskonnollisesta tilaisuudesta",
+      "mainTitle": "Äiti haastaa Hämeenlinnan oikeuteen koulutapahtumasta",
       "mainCategories": [
         "Kotimaa",
         "Yhteiskunta",
@@ -1016,46 +1108,6 @@
       ]
     },
     {
-      "mainTitle": "Hyttysten levinneisyyksiä tutkitaan Pohjois-Suomessa",
-      "mainCategories": [
-        "Luonto",
-        "Hyttyset",
-        "Tiede"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Konenäkö ja dna-teknologia valjastetaan hyttysennusteiden laatimiseen – Pohjois-Suomessa alkava tutkimus selvittää myös hyttysten roolia hillan pölyttäjänä",
-          "content": "Pohjois-Suomessa ja Ruotsissa alkaa mittava tutkimus, jolla selvitetään ensimmäistä kertaa eri hyttyslajien levinneisyyksiä ja vuosittaisia runsausvaihteluita. Tutkimuksessa yhdistellään uusimpia dna-menetelmiä, konenäköä ja mallinnusta hyttysten esiintymiseen vaikuttavien tekijöiden selvittämiseksi.",
-          "date": "2025-05-28T12:12:49.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/konenako-ja-dna-teknologia-valjastetaan-hyttysennu/11648429?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomessa alkaa ainutlaatuinen tutkimus hyttysistä – tavoitteena ennustaa tulevia hyttyskesiä",
-          "content": "Hyttyset eivät ole olleet suosittuja tutkimuskohteita, mutta nyt niiden määrää aletaan viimein kartoittaa. Potentiaalisesti hyttysennuste voisi toimia kuin sääennuste.",
-          "date": "2025-05-28T02:43:13.000Z",
-          "categories": [
-            "luonto",
-            "hyttyset",
-            "tiede",
-            "oulu",
-            "oulun yliopisto",
-            "lappi",
-            "pohjois-pohjanmaa",
-            "kainuu"
-          ],
-          "link": "https://yle.fi/a/74-20164472?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Sinimusta liike hyväksyttiin puoluerekisteriin",
       "mainCategories": [
         "Politiikka",
@@ -1095,10 +1147,10 @@
       ]
     },
     {
-      "mainTitle": "Anneli Auerille uudet syytteet seksuaalirikoksista",
+      "mainTitle": "Anneli Auerin seksuaalirikosjuttu jatkuu syksyllä",
       "mainCategories": [
-        "Kotimaa",
         "Suomi",
+        "Kotimaa",
         "Rikosepäilyt"
       ],
       "imageUrl": "",
@@ -1146,18 +1198,6 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6675369"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Anneli Auerille jälleen syytteet seksuaali­rikoksista",
-          "content": "Syytteitä käsitellään Varsinais-Suomen käräjäoikeudessa ensi syksynä. Valtakunnansyyttäjä on toimittanut haastehakemuksen Varsinais-Suomen käräjäoikeuteen Anneli Auerin ja hänen entisen miesystävänsä Jens Kukan asiassa, joka koskee seksuaali- ja väkivaltarikoksia. Korkein oikeus päätti 5. joulukuuta 2024 pääosin purkaa Turun hovioikeuden kesäkuussa 2023 antaman lainvoimaisen tuomion ja Varsinais-Suomen käräjäoikeuden kesäkuussa 2012 antaman tuomion oikeudenkäymiskaaren mukaisella, erittäin painavalla syyllä.",
-          "date": "2025-05-28T11:07:23.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/3fea0918-0afc-4bc2-a1d4-cec034ac7f42"
         }
       ]
     },
@@ -1217,7 +1257,7 @@
         "Hyvinkää",
         "Kulttuuri"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1485,7 +1525,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1526,7 +1566,7 @@
       ]
     },
     {
-      "mainTitle": "Gazan avustustoiminta kaaoksessa ja väkivaltaa",
+      "mainTitle": "Gazan avustusjakelu aiheutti kaaoksen ja loukkaantumisia",
       "mainCategories": [
         "Ulkomaat",
         "Palestiinalaisalueet",
@@ -1739,7 +1779,7 @@
         "Talous",
         "Terveys"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1924,7 +1964,7 @@
       ]
     },
     {
-      "mainTitle": "Sähköpotkulautailuun ikä- ja promillerajat",
+      "mainTitle": "Sähköpotkulautojen käyttöön ikä- ja promillerajat",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -1943,16 +1983,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011262880.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sähköpotkulautailuun tulee 15 vuoden ikäraja ja promilleraja",
-          "content": "Sähköpotkulautailuun tulee 15 vuoden ikäraja ja promilleraja",
-          "date": "2025-05-27T15:28:31.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/sahkopotkulautailuun-tulee-15-vuoden-ikaraja-ja-pr/11647820?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -1992,7 +2022,7 @@
         "Venäjä",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2044,7 +2074,7 @@
         "Politiikka",
         "Perussuomalaiset"
       ],
-      "imageUrl": "/images/jussi halla-aho/2.jpg",
+      "imageUrl": "/images/jussi halla-aho/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2078,7 +2108,7 @@
       ]
     },
     {
-      "mainTitle": "Teuvo Hakkaraiselle ehdollinen vankeustuomio veropetoksesta",
+      "mainTitle": "Teuvo Hakkaraiselle vankeustuomio vero­petoksesta",
       "mainCategories": [
         "Kotimaa",
         "Suomi",
@@ -2123,16 +2153,6 @@
           "link": "https://www.hs.fi/suomi/art-2000011258716.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Teuvo Hakkaraiselle ehdollista vankeutta törkeästä veropetoksesta",
-          "content": "Keski-Suomen käräjäoikeus on tuominnut entisen europarlamentaarikon Teuvo Hakkaraisen törkeästä veropetoksesta kahdeksan kuukauden ehdolliseen vankeuteen.",
-          "date": "2025-05-27T09:40:15.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/teuvo-hakkaraiselle-ehdollista-vankeutta-torkeasta/11647170?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -2147,7 +2167,7 @@
       ]
     },
     {
-      "mainTitle": "Liikemiehen rakennus paloi Virossa",
+      "mainTitle": "Kopteriturmassa kuolleen liikemiehen rakennus paloi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2222,7 +2242,7 @@
       ]
     },
     {
-      "mainTitle": "Liverpoolissa auto-onnettomuudessa 11 loukkaantui",
+      "mainTitle": "Liverpoolissa auto-onnettomuudessa 47 loukkaantui",
       "mainCategories": [
         "Maailma"
       ],
@@ -2289,82 +2309,7 @@
       ]
     },
     {
-      "mainTitle": "Saksan Merz kritisoi Israelin iskuja Suomessa",
-      "mainCategories": [
-        "Politiikka",
-        "Saksa",
-        "Suomi"
-      ],
-      "imageUrl": "/images/saksa/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Saksan Merz arvosteli Israelin iskuja vieraillessaan Suomessa",
-          "content": "Pääministeri Orpo ja liittokansleri Merz tapaavat Turussa. Keskustelujen aiheina ovat Suomen ja Saksan kahdenväliset suhteet sekä ajankohtaiset EU- ja kansainväliset kysymykset.",
-          "date": "2025-05-27T13:29:55.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/saksan-merz-arvosteli-israelin-iskuja-vieraillessa/11647388?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Orpon ja Merzin henkilösuhde hyödyttää Suomea",
-          "content": "Vaikea maailmantilanne tiivistää Saksan ja Pohjoimaiden suhdetta. Suomen ja Saksan suhteissa Orpon ja Merzin tuttavuudesta voi olla apua.",
-          "date": "2025-05-27T10:01:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011261413.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Merz Suomessa | Merz haluaa tiivistää keskustelua Israelin kanssa: ”Nyt ei enää voida ymmärtää”",
-          "content": "Saksan Israel-linja on kiristynyt viime päivinä. Liittokansleri Friedrich Merz ei kuitenkaan tarjonnut Suomen-vierailullaan tiistaina vastauksia siihen, mitä tämä tarkoittaa konkreettisina toimina.",
-          "date": "2025-05-27T08:29:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011260265.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämä suomalainen asia teki vaikutuksen Saksan Merziin",
-          "content": "Orpo ja Merz keskustelivat Suomen ja Saksan välisistä suhteista sekä ajankohtaisista EU- ja kansainvälisistä kysymyksistä.",
-          "date": "2025-05-27T07:07:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011254185.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Merz: Venäjä ja Putin ei ole kiinnostunut tulitauosta – Orpo kehui Saksan olevan tärkeä kumppani Suomelle",
-          "content": "Petteri Orpo ja Friedrich Merz korostivat Suomen ja Saksan hyviä suhteita ja yhteisiä intressejä politiikassa, taloudessa ja turvallisuudessa. Merz tapaa myös presidentti Alexander Stubbin Kultarannassa.",
-          "date": "2025-05-27T06:15:35.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "saksa",
-            "suomi",
-            "petteri orpo",
-            "friedrich merz",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20164146?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallitus rajaa paperittomien terveyspalveluja",
+      "mainTitle": "Hallitus esittää paperittomien terveyspalvelujen rajoituksia",
       "mainCategories": [
         "Politiikka",
         "Paperittomat",
@@ -2443,7 +2388,7 @@
         "Asuminen",
         "Asumiskulut"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2488,6 +2433,71 @@
       ]
     },
     {
+      "mainTitle": "Orpon ja Merzin keskustelut Suomen ja Saksan suhteista",
+      "mainCategories": [
+        "Politiikka",
+        "Saksa",
+        "Suomi"
+      ],
+      "imageUrl": "/images/saksa/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kommentti | Orpon ja Merzin henkilösuhde hyödyttää Suomea",
+          "content": "Vaikea maailmantilanne tiivistää Saksan ja Pohjoimaiden suhdetta. Suomen ja Saksan suhteissa Orpon ja Merzin tuttavuudesta voi olla apua.",
+          "date": "2025-05-27T10:01:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011261413.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Merz Suomessa | Merz haluaa tiivistää keskustelua Israelin kanssa: ”Nyt ei enää voida ymmärtää”",
+          "content": "Saksan Israel-linja on kiristynyt viime päivinä. Liittokansleri Friedrich Merz ei kuitenkaan tarjonnut Suomen-vierailullaan tiistaina vastauksia siihen, mitä tämä tarkoittaa konkreettisina toimina.",
+          "date": "2025-05-27T08:29:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011260265.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä suomalainen asia teki vaikutuksen Saksan Merziin",
+          "content": "Orpo ja Merz keskustelivat Suomen ja Saksan välisistä suhteista sekä ajankohtaisista EU- ja kansainvälisistä kysymyksistä.",
+          "date": "2025-05-27T07:07:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011254185.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Merz: Venäjä ja Putin ei ole kiinnostunut tulitauosta – Orpo kehui Saksan olevan tärkeä kumppani Suomelle",
+          "content": "Petteri Orpo ja Friedrich Merz korostivat Suomen ja Saksan hyviä suhteita ja yhteisiä intressejä politiikassa, taloudessa ja turvallisuudessa. Merz tapaa myös presidentti Alexander Stubbin Kultarannassa.",
+          "date": "2025-05-27T06:15:35.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "saksa",
+            "suomi",
+            "petteri orpo",
+            "friedrich merz",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20164146?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Teslan myynti EU:ssa romahtaa edelleen",
       "mainCategories": [
         "Talous",
@@ -2528,7 +2538,7 @@
       ]
     },
     {
-      "mainTitle": "UPM hylkää miljardihankkeen biojalostamosta",
+      "mainTitle": "UPM luopuu biojalostamohankkeestaan Rotterdamissa",
       "mainCategories": [
         "Talous",
         "Teollisuus",
@@ -2635,7 +2645,7 @@
       ]
     },
     {
-      "mainTitle": "Ranskan presidenttiparin lentokonesekoilu herättää keskustelua",
+      "mainTitle": "Ranskan presidenttiparin lentokonesekoilu herättää huomiota",
       "mainCategories": [
         "Ulkomaat"
       ],
@@ -2671,7 +2681,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2745,7 +2755,7 @@
       ]
     },
     {
-      "mainTitle": "Riihimäen ja Lahden junaliikenne palautuu normaaliksi",
+      "mainTitle": "Riihimäen ja Lahden junaliikenne keskeytyi",
       "mainCategories": [
         "Liikenne",
         "Junaliikenne",
@@ -2834,7 +2844,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
