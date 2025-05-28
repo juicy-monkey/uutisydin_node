@@ -1,17 +1,27 @@
 {
-  "timestamp": "2025-05-28T19:27:02.417Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-05-28T19:37:47.273Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Järjestyksenvalvoja tuomittiin kuolemantuottamuksesta",
+      "mainTitle": "Järjestyksenvalvoja sai tuomion kuolemantuottamuksesta",
       "mainCategories": [
         "Kotimaa",
         "Rikokset",
         "Pahoinpitely"
       ],
-      "imageUrl": "/images/ravintola/4.jpg",
+      "imageUrl": "/images/ravintola/3.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -46,11 +56,11 @@
       ]
     },
     {
-      "mainTitle": "Tom Cruisen vierailu nosti Pietarsaaren näkyvyyttä",
+      "mainTitle": "Tom Cruise vierailee Pietarsaaressa veneostoksilla",
       "mainCategories": [
+        "Suomi",
         "Ihmiset",
-        "Kotimaa",
-        "Pietarsaari"
+        "Nautor"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -58,7 +68,7 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "HS Pietarsaaressa | Paikalliset uskovat koti­kaupunkinsa nousevan Tom Cruisen ansiosta kartalle",
+          "title": "HS Pietarsaaressa | Pietar­saarelaiset tähti­vieraasta: ”Kyllä me tiedämme, että osaamme rakentaa veneitä”",
           "content": "Pikkukaupunki Pohjanmaalla nauttii Tom Cruisen vierailua seuranneesta media­huomiosta.",
           "date": "2025-05-28T19:19:00.000Z",
           "categories": [
@@ -67,42 +77,47 @@
           "link": "https://www.hs.fi/suomi/art-2000011263485.html"
         },
         {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Veneet | Pietarsaarelainen yritys myy luksus­veneitä: nyt yksi asiakas on tiettävästi Tom Cruise",
+          "content": "Nautor Swan on arvostettu veneveistämö, jonka veneen­rakennus­teknologiakeskus sijaitsee Pietarsaaressa. Keskiviikkona siellä vieraili Tom Cruise.",
+          "date": "2025-05-28T17:15:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011263336.html"
+        },
+        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Niina Seikkula oli harvoja, jotka tapasivat Pohjanmaalla vierailleen Tom Cruisen – ”Jäi vähän epätodellinen olo”",
-          "content": "Lentoaseman henkilökunta sai ainutlaatuisen tilaisuuden kohdata maailmantähden kasvotusten.",
-          "date": "2025-05-28T14:19:34.000Z",
+          "title": "Tämänkaltaisen jahdin Tom Cruise ostaa Pietarsaaresta",
+          "content": "Ylellisen purjeveneen ostajat suosivat tammea ja tiikkiä. Veneen valmistaminen voi kestää yli kaksi vuotta. ",
+          "date": "2025-05-28T13:19:47.000Z",
           "categories": [
             "ihmiset",
-            "tom cruise",
-            "kokkola-pietarsaaren lentoasema",
+            "nautor",
             "pietarsaari",
-            "kruunupyy",
-            "viihde",
+            "veneenrakennus",
+            "yritykset",
+            "kotimaa",
             "pohjanmaa",
-            "keski-pohjanmaa",
-            "kotimaa"
+            "keski-pohjanmaa"
           ],
-          "link": "https://yle.fi/a/74-20164621?origin=rss"
+          "link": "https://yle.fi/a/74-20164507?origin=rss"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kuuskymppiseksi kivan näköinen, tuumivat kokkolalaissisarukset Tom Cruisesta",
-          "content": "",
-          "date": "2025-05-28T11:02:14.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pietarsaari | Kari Liimattaa ei Tom Cruise hetkauta: ”Ollaan me täällä kroisoksiin totuttu”",
+          "content": "Mediatietojen mukaan Hollywood-tähti saapui Pietarsaareen veneostoksille. Paikkakuntalainen Kari Liimatta näki vilauksen veneen mastosta.",
+          "date": "2025-05-28T07:56:00.000Z",
           "categories": [
-            "hollywood",
-            "kulttuuri",
-            "puheenaihe",
-            "elokuva",
-            "ihmiset",
-            "kotimaa",
-            "uutiset"
+            "suomi"
           ],
-          "link": "https://www.ts.fi/uutiset/6675339"
+          "link": "https://www.hs.fi/suomi/art-2000011263561.html"
         }
       ]
     },
@@ -273,13 +288,13 @@
       ]
     },
     {
-      "mainTitle": "Petteri Orpon vierailu Ukrainassa herätti huomiota",
+      "mainTitle": "Petteri Orpo vieraili Ukrainassa ja Kiovassa",
       "mainCategories": [
         "Ulkomaat",
         "Politiikka",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -371,7 +386,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Pääministeri Orpo on vierailulla Kiovassa – Suomi ja Ukraina julistaneet väestönsuojakoalition",
+          "title": "Pääministeri Orpo vieraili Kiovassa – Suomi ja Ukraina julistivat väestönsuojakoalition",
           "content": "Orpo allekirjoitti Kiovassa sopimuksia, jotka pohjustavat Suomen ja Ukrainan yhteistyötä.",
           "date": "2025-05-28T16:23:23.000Z",
           "categories": [
@@ -411,7 +426,7 @@
       ]
     },
     {
-      "mainTitle": "Epävakaista säätä valmistujaisjuhlissa ennustetaan",
+      "mainTitle": "Epävakainen sää valmistujaisjuhlissa viikonloppuna",
       "mainCategories": [
         "Sää",
         "Meteorologit",
@@ -501,61 +516,7 @@
       ]
     },
     {
-      "mainTitle": "Tom Cruise ostaa luksusveneen Pietarsaaressa",
-      "mainCategories": [
-        "Suomi",
-        "Ihmiset",
-        "Nautor"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Veneet | Pietarsaarelainen yritys myy luksus­veneitä: nyt yksi asiakas on tiettävästi Tom Cruise",
-          "content": "Nautor Swan on arvostettu veneveistämö, jonka veneen­rakennus­teknologiakeskus sijaitsee Pietarsaaressa. Keskiviikkona siellä vieraili Tom Cruise.",
-          "date": "2025-05-28T17:15:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011263336.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tämänkaltaisen jahdin Tom Cruise ostaa Pietarsaaresta",
-          "content": "Ylellisen purjeveneen ostajat suosivat tammea ja tiikkiä. Veneen valmistaminen voi kestää yli kaksi vuotta. ",
-          "date": "2025-05-28T13:19:47.000Z",
-          "categories": [
-            "ihmiset",
-            "nautor",
-            "pietarsaari",
-            "veneenrakennus",
-            "yritykset",
-            "kotimaa",
-            "pohjanmaa",
-            "keski-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20164507?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pietarsaari | Kari Liimattaa ei Tom Cruise hetkauta: ”Ollaan me täällä kroisoksiin totuttu”",
-          "content": "Mediatietojen mukaan Hollywood-tähti saapui Pietarsaareen veneostoksille. Paikkakuntalainen Kari Liimatta näki vilauksen veneen mastosta.",
-          "date": "2025-05-28T07:56:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011263561.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjän tulevaisuus herättää huolta tutkijoissa",
+      "mainTitle": "Venäjän tulevaisuus huolestuttaa asiantuntijoita",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -634,21 +595,11 @@
             "suomen sosialidemokraattinen puolue"
           ],
           "link": "https://yle.fi/a/74-20164590?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Hallintovaliokunta kannattaa jatkoa käännytyslaille, vihreät ja vasemmisto vastustivat",
-          "content": "Eduskunnan hallintovaliokunta kannattaa niin kutsutun käännytyslain jatkamista vuoden 2026 loppuun asti.",
-          "date": "2025-05-27T13:40:54.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hallintovaliokunta-kannattaa-jatkoa-kaannytyslaill/11647400?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
-      "mainTitle": "Rovaniemen karkulaishamsteri löytyi leikkipuistosta",
+      "mainTitle": "Rovaniemen hamsterin seikkailu päättyi onnellisesti",
       "mainCategories": [
         "Kotimaa",
         "Eläimet",
@@ -755,13 +706,13 @@
       ]
     },
     {
-      "mainTitle": "Taurus-ohjus Ukrainalle herättää keskustelua",
+      "mainTitle": "Saksa harkitsee Taurus-ohjuksia Ukrainalle",
       "mainCategories": [
         "Ukraina",
         "Saksa",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -810,7 +761,7 @@
       ]
     },
     {
-      "mainTitle": "Väkivaltarikos Helsingissä ja Porissa tutkinnassa",
+      "mainTitle": "Väkivaltarikokset Helsingissä ja Porissa tutkinnassa",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -895,13 +846,62 @@
       ]
     },
     {
+      "mainTitle": "Tom Cruise vierailee Pohjanmaalla",
+      "mainCategories": [
+        "Ihmiset",
+        "Kotimaa",
+        "Pietarsaari"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Niina Seikkula oli harvoja, jotka tapasivat Pohjanmaalla vierailleen Tom Cruisen – ”Jäi vähän epätodellinen olo”",
+          "content": "Lentoaseman henkilökunta sai ainutlaatuisen tilaisuuden kohdata maailmantähden kasvotusten.",
+          "date": "2025-05-28T14:19:34.000Z",
+          "categories": [
+            "ihmiset",
+            "tom cruise",
+            "kokkola-pietarsaaren lentoasema",
+            "pietarsaari",
+            "kruunupyy",
+            "viihde",
+            "pohjanmaa",
+            "keski-pohjanmaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20164621?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Kuuskymppiseksi kivan näköinen, tuumivat kokkolalaissisarukset Tom Cruisesta",
+          "content": "",
+          "date": "2025-05-28T11:02:14.000Z",
+          "categories": [
+            "hollywood",
+            "kulttuuri",
+            "puheenaihe",
+            "elokuva",
+            "ihmiset",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6675339"
+        }
+      ]
+    },
+    {
       "mainTitle": "Yhdysvallat syyttää Kiinaa kyberhyökkäyksestä",
       "mainCategories": [
         "Tšekki",
         "Kiina",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -947,7 +947,7 @@
         "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -980,7 +980,7 @@
       ]
     },
     {
-      "mainTitle": "Betoniseinäonnettomuus Turussa johti tuomioon",
+      "mainTitle": "Betoniseinäonnettomuus Turussa tuomitsi asentajan",
       "mainCategories": [
         "Onnettomuudet",
         "Turku",
@@ -1202,46 +1202,6 @@
       ]
     },
     {
-      "mainTitle": "Hyttysten levinneisyyksiä tutkitaan Pohjois-Suomessa",
-      "mainCategories": [
-        "Luonto",
-        "Hyttyset",
-        "Tiede"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Konenäkö ja dna-teknologia valjastetaan hyttysennusteiden laatimiseen – Pohjois-Suomessa alkava tutkimus selvittää myös hyttysten roolia hillan pölyttäjänä",
-          "content": "Pohjois-Suomessa ja Ruotsissa alkaa mittava tutkimus, jolla selvitetään ensimmäistä kertaa eri hyttyslajien levinneisyyksiä ja vuosittaisia runsausvaihteluita. Tutkimuksessa yhdistellään uusimpia dna-menetelmiä, konenäköä ja mallinnusta hyttysten esiintymiseen vaikuttavien tekijöiden selvittämiseksi.",
-          "date": "2025-05-28T12:12:49.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/konenako-ja-dna-teknologia-valjastetaan-hyttysennu/11648429?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomessa alkaa ainutlaatuinen tutkimus hyttysistä – tavoitteena ennustaa tulevia hyttyskesiä",
-          "content": "Hyttyset eivät ole olleet suosittuja tutkimuskohteita, mutta nyt niiden määrää aletaan viimein kartoittaa. Potentiaalisesti hyttysennuste voisi toimia kuin sääennuste.",
-          "date": "2025-05-28T02:43:13.000Z",
-          "categories": [
-            "luonto",
-            "hyttyset",
-            "tiede",
-            "oulu",
-            "oulun yliopisto",
-            "lappi",
-            "pohjois-pohjanmaa",
-            "kainuu"
-          ],
-          "link": "https://yle.fi/a/74-20164472?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Sinimusta liike hyväksyttiin puoluerekisteriin",
       "mainCategories": [
         "Politiikka",
@@ -1336,7 +1296,7 @@
       ]
     },
     {
-      "mainTitle": "Iisalmen koulujen psykologitarve kasvaa",
+      "mainTitle": "Iisalmen koulujen mielenterveyspalvelut tarpeen arvioinnissa",
       "mainCategories": [
         "Hyvinvointi",
         "Koulut",
@@ -1447,7 +1407,7 @@
         "Ranska",
         "Skandaalit"
       ],
-      "imageUrl": "/images/ranska/2.jpg",
+      "imageUrl": "/images/ranska/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1492,7 +1452,7 @@
       ]
     },
     {
-      "mainTitle": "Espoon tappo: 20-vuotias tuomittiin 11 vuodeksi",
+      "mainTitle": "Espoon tappo: 20-vuotias sai 11 vuotta",
       "mainCategories": [
         "Kotimaa",
         "Oikeudenkäynnit",
@@ -1635,7 +1595,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1762,13 +1722,13 @@
       ]
     },
     {
-      "mainTitle": "Saksa poistaa aseiden kantamarajoitukset Ukrainalle",
+      "mainTitle": "Saksa poistaa aseiden kantamarajoitteet Ukrainalle",
       "mainCategories": [
         "Ukraina",
         "Saksa",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/saksa/1.jpg",
+      "imageUrl": "/images/saksa/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1875,7 +1835,7 @@
         "Talous",
         "Terveys"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2025,7 +1985,7 @@
       ]
     },
     {
-      "mainTitle": "Sähköpotkulautailuun ikä- ja promillerajat",
+      "mainTitle": "Sähköpotkulautojen käyttöön ikä- ja promillerajat",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -2044,16 +2004,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011262880.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sähköpotkulautailuun tulee 15 vuoden ikäraja ja promilleraja",
-          "content": "Sähköpotkulautailuun tulee 15 vuoden ikäraja ja promilleraja",
-          "date": "2025-05-27T15:28:31.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/sahkopotkulautailuun-tulee-15-vuoden-ikaraja-ja-pr/11647820?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -2126,7 +2076,7 @@
       ]
     },
     {
-      "mainTitle": "Teuvo Hakkaraiselle ehdollinen vankeustuomio veropetoksesta",
+      "mainTitle": "Teuvo Hakkaraiselle vankeustuomio vero­petoksesta",
       "mainCategories": [
         "Kotimaa",
         "Suomi",
@@ -2171,16 +2121,6 @@
           "link": "https://www.hs.fi/suomi/art-2000011258716.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Teuvo Hakkaraiselle ehdollista vankeutta törkeästä veropetoksesta",
-          "content": "Keski-Suomen käräjäoikeus on tuominnut entisen europarlamentaarikon Teuvo Hakkaraisen törkeästä veropetoksesta kahdeksan kuukauden ehdolliseen vankeuteen.",
-          "date": "2025-05-27T09:40:15.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/teuvo-hakkaraiselle-ehdollista-vankeutta-torkeasta/11647170?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -2195,7 +2135,7 @@
       ]
     },
     {
-      "mainTitle": "Kopteriturmassa kuolleen liikemiehen rakennus paloi",
+      "mainTitle": "Liikemiehen rakennus tuhoutui tulipalossa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2229,7 +2169,7 @@
       ]
     },
     {
-      "mainTitle": "Metsähallitus esittää yli miljoona hehtaaria suojeluun",
+      "mainTitle": "Yli miljoona hehtaaria metsiä suojeluun",
       "mainCategories": [
         "Metsät",
         "Luonnonsuojelu",
@@ -2270,7 +2210,7 @@
       ]
     },
     {
-      "mainTitle": "Liverpoolissa auto-onnettomuudessa 11 loukkaantui",
+      "mainTitle": "Liverpoolissa auto-onnettomuus, 11 sairaalahoidossa",
       "mainCategories": [
         "Maailma"
       ],
@@ -2371,82 +2311,7 @@
       ]
     },
     {
-      "mainTitle": "Saksan liittokansleri Merz vierailee Suomessa",
-      "mainCategories": [
-        "Politiikka",
-        "Saksa",
-        "Suomi"
-      ],
-      "imageUrl": "/images/saksa/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Saksan Merz arvosteli Israelin iskuja vieraillessaan Suomessa",
-          "content": "Pääministeri Orpo ja liittokansleri Merz tapaavat Turussa. Keskustelujen aiheina ovat Suomen ja Saksan kahdenväliset suhteet sekä ajankohtaiset EU- ja kansainväliset kysymykset.",
-          "date": "2025-05-27T13:29:55.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/saksan-merz-arvosteli-israelin-iskuja-vieraillessa/11647388?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Orpon ja Merzin henkilösuhde hyödyttää Suomea",
-          "content": "Vaikea maailmantilanne tiivistää Saksan ja Pohjoimaiden suhdetta. Suomen ja Saksan suhteissa Orpon ja Merzin tuttavuudesta voi olla apua.",
-          "date": "2025-05-27T10:01:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011261413.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Merz Suomessa | Merz haluaa tiivistää keskustelua Israelin kanssa: ”Nyt ei enää voida ymmärtää”",
-          "content": "Saksan Israel-linja on kiristynyt viime päivinä. Liittokansleri Friedrich Merz ei kuitenkaan tarjonnut Suomen-vierailullaan tiistaina vastauksia siihen, mitä tämä tarkoittaa konkreettisina toimina.",
-          "date": "2025-05-27T08:29:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011260265.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämä suomalainen asia teki vaikutuksen Saksan Merziin",
-          "content": "Orpo ja Merz keskustelivat Suomen ja Saksan välisistä suhteista sekä ajankohtaisista EU- ja kansainvälisistä kysymyksistä.",
-          "date": "2025-05-27T07:07:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011254185.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Merz: Venäjä ja Putin ei ole kiinnostunut tulitauosta – Orpo kehui Saksan olevan tärkeä kumppani Suomelle",
-          "content": "Petteri Orpo ja Friedrich Merz korostivat Suomen ja Saksan hyviä suhteita ja yhteisiä intressejä politiikassa, taloudessa ja turvallisuudessa. Merz tapaa myös presidentti Alexander Stubbin Kultarannassa.",
-          "date": "2025-05-27T06:15:35.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "saksa",
-            "suomi",
-            "petteri orpo",
-            "friedrich merz",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20164146?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallitus esittää rajauksia paperittomien terveyspalveluihin",
+      "mainTitle": "Hallitus esittää paperittomien terveyspalvelujen rajoituksia",
       "mainCategories": [
         "Politiikka",
         "Paperittomat",
@@ -2525,7 +2390,7 @@
         "Asuminen",
         "Asumiskulut"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2566,6 +2431,71 @@
             "talous"
           ],
           "link": "https://yle.fi/a/74-20164321?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Orpon ja Merzin keskustelut Suomen ja Saksan suhteista",
+      "mainCategories": [
+        "Politiikka",
+        "Saksa",
+        "Suomi"
+      ],
+      "imageUrl": "/images/saksa/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kommentti | Orpon ja Merzin henkilösuhde hyödyttää Suomea",
+          "content": "Vaikea maailmantilanne tiivistää Saksan ja Pohjoimaiden suhdetta. Suomen ja Saksan suhteissa Orpon ja Merzin tuttavuudesta voi olla apua.",
+          "date": "2025-05-27T10:01:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011261413.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Merz Suomessa | Merz haluaa tiivistää keskustelua Israelin kanssa: ”Nyt ei enää voida ymmärtää”",
+          "content": "Saksan Israel-linja on kiristynyt viime päivinä. Liittokansleri Friedrich Merz ei kuitenkaan tarjonnut Suomen-vierailullaan tiistaina vastauksia siihen, mitä tämä tarkoittaa konkreettisina toimina.",
+          "date": "2025-05-27T08:29:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011260265.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä suomalainen asia teki vaikutuksen Saksan Merziin",
+          "content": "Orpo ja Merz keskustelivat Suomen ja Saksan välisistä suhteista sekä ajankohtaisista EU- ja kansainvälisistä kysymyksistä.",
+          "date": "2025-05-27T07:07:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011254185.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Merz: Venäjä ja Putin ei ole kiinnostunut tulitauosta – Orpo kehui Saksan olevan tärkeä kumppani Suomelle",
+          "content": "Petteri Orpo ja Friedrich Merz korostivat Suomen ja Saksan hyviä suhteita ja yhteisiä intressejä politiikassa, taloudessa ja turvallisuudessa. Merz tapaa myös presidentti Alexander Stubbin Kultarannassa.",
+          "date": "2025-05-27T06:15:35.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "saksa",
+            "suomi",
+            "petteri orpo",
+            "friedrich merz",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20164146?origin=rss"
         }
       ]
     },
@@ -2722,7 +2652,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2796,7 +2726,7 @@
       ]
     },
     {
-      "mainTitle": "Riihimäen ja Lahden junaliikenne keskeytyi",
+      "mainTitle": "Riihimäen ja Lahden junaliikenne palautuu normaaliksi",
       "mainCategories": [
         "Liikenne",
         "Junaliikenne",
