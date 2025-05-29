@@ -1,23 +1,43 @@
 {
-  "timestamp": "2025-05-29T17:35:04.788Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "ts",
-        "publisher": "Turun Sanomat",
-        "publisherUrl": "ts.fi",
-        "rssUrl": "https://www.ts.fi/rss.xml"
-      },
-      "reason": {
-        "errno": -104,
-        "code": "ECONNRESET",
-        "syscall": "read"
-      }
-    }
-  ],
+  "timestamp": "2025-05-29T17:49:38.842Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Haribon karkit aiheuttivat huonovointisuutta Hollannissa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ihmiset söivät Haribon karkkeja Hollannissa – sitten alkoivat oireet",
+          "content": "Useat henkilöt olivat ilmoittaneet huonovointisuudesta syötyään Haribon makeisia.",
+          "date": "2025-05-29T17:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011266517.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Hollanti | Haribon karkeista löytyi kannabista",
+          "content": "Asia kävi ilmi, kun karkkeja syönyt perhe ilmoitti oireistaan poliisille.",
+          "date": "2025-05-29T14:27:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011266378.html"
+        }
+      ]
+    },
     {
       "mainTitle": "Keskustan avustaja jättää tehtävänsä pornokohun vuoksi",
       "mainCategories": [
@@ -114,7 +134,7 @@
       ]
     },
     {
-      "mainTitle": "Tuomari keskeytti Trumpin Harvard-aikeet",
+      "mainTitle": "Trumpin hallinnon Harvard-aikeet keskeytetty",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -284,11 +304,11 @@
       ]
     },
     {
-      "mainTitle": "Epäilty murha Porissa, poliisi tutkii",
+      "mainTitle": "Epäilty murha Porissa herättää huomiota",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
-        "Murha"
+        "Henkirikokset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -327,6 +347,23 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011266108.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Poliisi tutkii epäiltyä murhaa Porissa",
+          "content": "",
+          "date": "2025-05-29T09:12:41.000Z",
+          "categories": [
+            "henkirikokset",
+            "rikosepäilyt",
+            "poliisi",
+            "lounais-suomen poliisilaitos",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6676146"
         },
         {
           "publisherId": "yle",
@@ -394,7 +431,7 @@
         "Yhdysvallat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -464,7 +501,7 @@
         "Yhdysvallat",
         "Kiina"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -609,7 +646,7 @@
       ]
     },
     {
-      "mainTitle": "Ranskalaiskirurgi tuomittiin pedofiliasta sadoille uhreille",
+      "mainTitle": "Ranskalaiskirurgi tuomittiin pedofiliasta satojen uhreiden vuoksi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -649,7 +686,7 @@
         "Yhdysvallat",
         "Tullit"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -689,7 +726,7 @@
         "Israel",
         "Palestiinalaiset"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -723,9 +760,9 @@
     {
       "mainTitle": "Karhu harhaili Loimaan keskustassa",
       "mainCategories": [
+        "Loimaa",
         "Kotimaa",
-        "Eläimet",
-        "Karhu"
+        "Eläimet"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -744,6 +781,23 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20164761?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Loimaan keskustassa juoksenteli karhu – katso videot suurpedon seikkailusta",
+          "content": "",
+          "date": "2025-05-29T08:33:53.000Z",
+          "categories": [
+            "suurpedot",
+            "karhut",
+            "loimaa",
+            "video",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6676128"
         },
         {
           "publisherId": "is",
@@ -860,7 +914,7 @@
       ]
     },
     {
-      "mainTitle": "OP:n Vuokratuotto-rahaston riippumattomuus kyseenalaistettu",
+      "mainTitle": "OP:n kiinteistörahaston riippumattomuus kyseenalaistettu",
       "mainCategories": [
         "Talous",
         "Kotimaa"
@@ -994,12 +1048,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjä valmistelee pitkää sotaa Ukrainassa",
+      "mainTitle": "Venäjä jatkaa sotatoimia Ukrainassa vuosia",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1084,7 +1138,7 @@
         "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1157,6 +1211,22 @@
           "link": "https://www.kaleva.fi/paaministeri-orpo-teki-viime-hetkeen-asti-salatun/11649343?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Petteri Orpo kävi Kiovan Hesellä",
+          "content": "",
+          "date": "2025-05-28T16:38:13.000Z",
+          "categories": [
+            "ukrainan sota",
+            "petteri orpo",
+            "ukraina",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6675768"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1222,7 +1292,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1331,6 +1401,46 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011264602.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukraina haluaa rauhanehdot ennen neuvotteluja",
+      "mainCategories": [
+        "Ulkomaat",
+        "Venäjä",
+        "Ukraina"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ukraina hyväksyy Venäjän neuvottelukutsun, haluaa kuitenkin nähdä rauhanehdot ennen tapaamista",
+          "content": "Ulkoministeri Sergei Lavrovin mukaan Venäjä aikoo esittää rauhanehtonsa neuvotteluissa. Ukrainan puolustusministeri haluaa nähdä ne jo ennen tapaamista.",
+          "date": "2025-05-28T20:00:03.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20164720?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Venäjä ehdottaa Ukrainalle rauhanneuvotteluja ensi maanantaiksi",
+          "content": "",
+          "date": "2025-05-28T17:40:48.000Z",
+          "categories": [
+            "ukrainan sota",
+            "venäjä",
+            "ukraina",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6675803"
         }
       ]
     },
@@ -1457,7 +1567,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1535,7 +1645,7 @@
       ]
     },
     {
-      "mainTitle": "Suomi irtautumassa Ottawan sopimuksesta",
+      "mainTitle": "Suomi irtautuu Ottawan sopimuksesta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1580,7 +1690,7 @@
       ]
     },
     {
-      "mainTitle": "Hyttysten levinneisyyksiä tutkitaan Pohjois-Suomessa",
+      "mainTitle": "Hyttysten levinneisyyksiä selvitetään tutkimuksessa",
       "mainCategories": [
         "Luonto",
         "Hyttyset",
@@ -1662,7 +1772,8 @@
       "mainTitle": "Anneli Auerin seksuaalirikosjuttu jatkuu syksyllä",
       "mainCategories": [
         "Suomi",
-        "Kotimaa"
+        "Kotimaa",
+        "Rikosepäilyt"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1689,6 +1800,26 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011264521.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Auerin epäiltyjen seksuaalirikosten käsittely alkaa syksyllä",
+          "content": "",
+          "date": "2025-05-28T11:14:08.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "varsinais-suomen käräjäoikeus",
+            "seksuaalirikokset",
+            "turun hovioikeus",
+            "korkein oikeus",
+            "valtakunnansyyttäjä",
+            "rikos ja oikeus",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6675369"
         }
       ]
     },
@@ -1699,7 +1830,7 @@
         "Hyvinkää",
         "Kulttuuri"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1737,7 +1868,7 @@
       ]
     },
     {
-      "mainTitle": "Finnair peruu yli 100 lentoa lakkojen vuoksi",
+      "mainTitle": "Finnair peruu yli sata lentoa lakkojen vuoksi",
       "mainCategories": [
         "Liikenne",
         "Finnair",
@@ -1784,9 +1915,9 @@
       "mainCategories": [
         "Talous",
         "Yrityssaneeraus",
-        "Lakea"
+        "Kotimaa"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1811,6 +1942,23 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011263810.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Lakea hakeutuu saneeraukseen, toimitusjohtaja lähtee",
+          "content": "",
+          "date": "2025-05-28T08:20:03.000Z",
+          "categories": [
+            "yrityssaneeraus",
+            "konkurssit",
+            "taloyhtiöt",
+            "talous",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6675027"
         },
         {
           "publisherId": "yle",
@@ -1848,7 +1996,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1889,7 +2037,7 @@
       ]
     },
     {
-      "mainTitle": "KHO: Yli-Viikari hävisi irtisanomiskannanoton",
+      "mainTitle": "KHO: Yli-Viikari hävisi irtisanomiskannan",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
