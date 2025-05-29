@@ -1,45 +1,171 @@
 {
-  "timestamp": "2025-05-29T07:49:26.230Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-05-29T08:22:06.963Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Venäjä haluaa jatkaa sotaa Ukrainassa",
+      "mainTitle": "Orpon hallitus pattitilanteessa Palestiinan tunnustamisessa",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Politiikka",
+        "Israel",
+        "Palestiinalaisalueet"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Asiantuntija: Venäjä viestii kiihtyneillä ilma­iskuillaan haluavansa jatkaa sotaa",
-          "content": "Ukrainan sotaa seuraavan asiantuntijan John Helinin mukaan Venäjä viestii ilmaiskuillaan Ukrainalle ja Yhdysvalloille, että se haluaa jatkaa sotaa.",
-          "date": "2025-05-29T07:40:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Palestiinan tunnustaminen on ajanut Orpon hallituksen pattitilanteeseen",
+          "content": "Orpon hallitus joutuu miettimään, miten se järjestää rivinsä, jos Ranska ja muut länsimaat tunnustavat Palestiinan kesäkuussa, kirjoittaa Ylen politiikan toimittaja Hannu Tikkala. ",
+          "date": "2025-05-29T08:13:47.000Z",
           "categories": [
-            "maailma"
+            "politiikka",
+            "lähi-itä",
+            "israel",
+            "palestiina (valtio)",
+            "ranska",
+            "suomen politiikka",
+            "perussuomalaiset",
+            "arabimaat",
+            "palestiinalaisalueet",
+            "puolueet",
+            "hallitukset"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011265526.html"
+          "link": "https://yle.fi/a/74-20164683?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yle kysyi kansanedustajilta, pitäisikö Suomen tunnustaa Palestiina – näin vastaukset jakaantuivat",
+          "content": "Ylen kyselyyn vastanneista kansanedustajista enemmistö kannattaa Palestiinan tunnustamista. Hallituspuolueita kysymys jakaa.",
+          "date": "2025-05-29T03:40:36.000Z",
+          "categories": [
+            "gazan sota",
+            "eduskunta",
+            "kansanedustajat",
+            "palestiinalaisalueet",
+            "israel",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20164577?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "SDP:n kansanedustajat jakautuvat käännytyslain äänestyksessä",
+      "mainCategories": [
+        "Politiikka",
+        "Rajaturvallisuus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Eduskunnassa on tapahtumassa taas kohauttava SDP-repeämä",
+          "content": "Rajaturvallisuuslaista äänestetään jälleen eduskunnassa ja valokeila kohdistuu taas SDP:n kansanedustajiin. Eduskunnan hallintovaliokunta kannattaa rajaturvallisuuslain voimassaolon jatkamista. Valiokunta ehdotti tällä viikolla, että eduskunta hyväksyy hallituksen esityksen, jonka mukaan lain voimassaoloa jatkettaisiin vuoden 2026 loppuun.",
+          "date": "2025-05-29T08:13:37.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/ef9978d1-6142-4565-b13c-44261ab04afb"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Reuters: Nämä ovat Putinin rauhanehdot – lähteet kertovat uudesta yksityiskohdasta",
-          "content": "Kremlissä uskotaan, että Venäjä voisi jatkaa sotaa Ukrainassa vielä vuosia, lähteet kertovat Reutersille.",
-          "date": "2025-05-28T19:32:00.000Z",
+          "title": "Ainakin kolme Sdp:n kansanedustajaa äänestämässä käännytys­lakia vastaan",
+          "content": "Demaririvit rakoilevat jälleen, kun eduskunta päättää käännytyslaista toistamiseen.",
+          "date": "2025-05-28T15:56:00.000Z",
           "categories": [
-            "ulkomaat"
+            "politiikka"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011265400.html"
+          "link": "https://www.is.fi/politiikka/art-2000011264962.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Itäraja | Sdp:n rivit hajoamassa taas – Razmyar äänestää käännytys­lain jatkoa vastaan",
+          "content": "Myös Sdp:n Matias Mäkynen ja Johan Kvarnström kertoivat keskiviikkona aikovansa jälleen äänestää poikkeuslakia vastaan.",
+          "date": "2025-05-28T15:39:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011265389.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "SDP:n Matias Mäkynen Ylelle: Tulen vastustamaan käännytyslain jatkoa",
+          "content": "Ainakin kolme demariedustajaa aikoo äänestää lakiesitystä vastaan. SDP:n puheenjohtaja Antti Lindtmanin mukaan puole tukee kiistanalaisen lain jatkamista.",
+          "date": "2025-05-28T11:10:35.000Z",
+          "categories": [
+            "politiikka",
+            "rajaturvallisuus",
+            "matias mäkynen",
+            "suomen sosialidemokraattinen puolue"
+          ],
+          "link": "https://yle.fi/a/74-20164590?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Valtioneuvosto ei luovuta koulutusmateriaaleja",
+      "mainTitle": "Israel perustaa 22 uutta siirtokuntaa Länsirannalle",
+      "mainCategories": [
+        "Israel",
+        "Palestiinalaisalueet",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Länsiranta | Israel perustaa 22 uutta siirtokuntaa Länsirannalle",
+          "content": "Israelin siirtokunnat ovat kansainvälisen oikeuden mukaan laittomia.",
+          "date": "2025-05-29T07:49:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011266018.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Israel perustaa 22 uutta siirtokuntaa Länsirannalle",
+          "content": "Israelin siirtokunnat ovat kansainvälisen oikeuden mukaan laittomia. ",
+          "date": "2025-05-29T07:36:41.000Z",
+          "categories": [
+            "lähi-itä",
+            "israel",
+            "israelin siirtokunnat",
+            "palestiinalaisalueet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20164749?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Valtioneuvosto kieltäytyy luovuttamasta koulutusmateriaaleja",
       "mainCategories": [
         "Politiikka",
         "Rasismi",
@@ -95,7 +221,7 @@
         "Yhdysvallat",
         "Talous"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -155,7 +281,7 @@
         "Yhdysvallat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -302,7 +428,7 @@
         "Ukraina",
         "Väestönsuojat"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -479,7 +605,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -616,7 +742,7 @@
       ]
     },
     {
-      "mainTitle": "Venäjällä teinien syntymäpäiväjuhlat päättyivät tragediaan",
+      "mainTitle": "Teinien syntymäpäiväjuhlat päättyivät joukkomurhaan",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -717,7 +843,7 @@
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -756,7 +882,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -781,47 +907,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011263121.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kokkolassa kuolemaan johtanut riita ravintolassa",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikokset",
-        "Pahoinpitely"
-      ],
-      "imageUrl": "/images/ravintola/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "20 vuotta portsarina toiminut kuristi miehen hengiltä Kokkolassa",
-          "content": "Oikeuden mukaan kyse ei ollut tahallisesta henkirikoksesta vaan törkeästä kuolemantuottamuksesta. Vapaailtaa viettänyt järjestyksenvalvoja aiheutti toisen asiakkaan kuoleman kokkolalaisessa ravintolassa huhtikuussa 2024. Jo edeltävänä päivänä alkoholin juomisen aloittanut mies kertoi oikeudessa, ettei hänellä etenkään tätä nykyä oli liiemmin muistikuvia vuoden takaisista tapahtumista. Illanvietto päätyi läheistensä kanssa paikalliseen ravintolaan. Seuraavat paremmat muistikuvat olivat poliisin putkasta.",
-          "date": "2025-05-28T19:20:34.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/8618fe58-6535-4969-be48-38bbd3028a4f"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mies kuristi toisen ravintolassa puhelimen käytöstä tulleen riidan takia – sai kaksi ja puoli vuotta vankeutta",
-          "content": "Tapaus sattui Kokkolassa viime vuoden huhtikuussa. Syyttäjä vaati lähes kymmenen vuoden tuomiota taposta. Tuomio tuli kuitenkin pahoinpitelystä ja törkeästä kuolemantuottamuksesta.",
-          "date": "2025-05-28T18:16:33.000Z",
-          "categories": [
-            "rikokset",
-            "pahoinpitely",
-            "kuolemantuottamus",
-            "tuomiot",
-            "kokkola",
-            "keski-pohjanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20164706?origin=rss"
         }
       ]
     },
@@ -1031,7 +1116,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1060,66 +1145,7 @@
       ]
     },
     {
-      "mainTitle": "SDP:n kansanedustajat vastustavat käännytyslakia",
-      "mainCategories": [
-        "Politiikka",
-        "Rajaturvallisuus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ainakin kolme Sdp:n kansanedustajaa äänestämässä käännytys­lakia vastaan",
-          "content": "Demaririvit rakoilevat jälleen, kun eduskunta päättää käännytyslaista toistamiseen.",
-          "date": "2025-05-28T15:56:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011264962.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Itäraja | Sdp:n rivit hajoamassa taas – Razmyar äänestää käännytys­lain jatkoa vastaan",
-          "content": "Myös Sdp:n Matias Mäkynen ja Johan Kvarnström kertoivat keskiviikkona aikovansa jälleen äänestää poikkeuslakia vastaan.",
-          "date": "2025-05-28T15:39:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011265389.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "SDP:n Matias Mäkynen Ylelle: Tulen vastustamaan käännytyslain jatkoa",
-          "content": "Ainakin kolme demariedustajaa aikoo äänestää lakiesitystä vastaan. SDP:n puheenjohtaja Antti Lindtmanin mukaan puole tukee kiistanalaisen lain jatkamista.",
-          "date": "2025-05-28T11:10:35.000Z",
-          "categories": [
-            "politiikka",
-            "rajaturvallisuus",
-            "matias mäkynen",
-            "suomen sosialidemokraattinen puolue"
-          ],
-          "link": "https://yle.fi/a/74-20164590?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Hallintovaliokunta kannattaa jatkoa käännytyslaille, vihreät ja vasemmisto vastustivat",
-          "content": "Eduskunnan hallintovaliokunta kannattaa niin kutsutun käännytyslain jatkamista vuoden 2026 loppuun asti.",
-          "date": "2025-05-27T13:40:54.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hallintovaliokunta-kannattaa-jatkoa-kaannytyslaill/11647400?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suojelupoliisissa uusi rikosepäily hyllytettyyn ylitarkastajaan liittyen",
+      "mainTitle": "Suojelupoliisissa uusi rikosepäily hyllytettynä",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -1177,7 +1203,7 @@
         "Saksa",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1269,7 +1295,7 @@
       ]
     },
     {
-      "mainTitle": "Betoniseinäonnettomuus Turussa johtaa tuomioon",
+      "mainTitle": "Betoniseinäonnettomuus Turussa tuomitsi asentajan",
       "mainCategories": [
         "Onnettomuudet",
         "Turku",
@@ -1316,7 +1342,7 @@
       ]
     },
     {
-      "mainTitle": "Suomi irtautuu Ottawan sopimuksesta",
+      "mainTitle": "Suomi irtautumassa Ottawan sopimuksesta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1478,46 +1504,6 @@
       ]
     },
     {
-      "mainTitle": "Hyttysten levinneisyyksiä tutkitaan Pohjois-Suomessa",
-      "mainCategories": [
-        "Luonto",
-        "Hyttyset",
-        "Tiede"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Konenäkö ja dna-teknologia valjastetaan hyttysennusteiden laatimiseen – Pohjois-Suomessa alkava tutkimus selvittää myös hyttysten roolia hillan pölyttäjänä",
-          "content": "Pohjois-Suomessa ja Ruotsissa alkaa mittava tutkimus, jolla selvitetään ensimmäistä kertaa eri hyttyslajien levinneisyyksiä ja vuosittaisia runsausvaihteluita. Tutkimuksessa yhdistellään uusimpia dna-menetelmiä, konenäköä ja mallinnusta hyttysten esiintymiseen vaikuttavien tekijöiden selvittämiseksi.",
-          "date": "2025-05-28T12:12:49.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/konenako-ja-dna-teknologia-valjastetaan-hyttysennu/11648429?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomessa alkaa ainutlaatuinen tutkimus hyttysistä – tavoitteena ennustaa tulevia hyttyskesiä",
-          "content": "Hyttyset eivät ole olleet suosittuja tutkimuskohteita, mutta nyt niiden määrää aletaan viimein kartoittaa. Potentiaalisesti hyttysennuste voisi toimia kuin sääennuste.",
-          "date": "2025-05-28T02:43:13.000Z",
-          "categories": [
-            "luonto",
-            "hyttyset",
-            "tiede",
-            "oulu",
-            "oulun yliopisto",
-            "lappi",
-            "pohjois-pohjanmaa",
-            "kainuu"
-          ],
-          "link": "https://yle.fi/a/74-20164472?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Sinimusta liike hyväksyttiin puoluerekisteriin",
       "mainCategories": [
         "Politiikka",
@@ -1618,7 +1604,7 @@
         "Hyvinkää",
         "Kulttuuri"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1656,7 +1642,7 @@
       ]
     },
     {
-      "mainTitle": "Finnair peruu yli sata lentoa lakkojen vuoksi",
+      "mainTitle": "Finnair peruu yli 100 lentoa lakkojen vuoksi",
       "mainCategories": [
         "Lakot",
         "Kotimaa",
@@ -1759,7 +1745,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1868,7 +1854,7 @@
       ]
     },
     {
-      "mainTitle": "Aivoliittoa haetaan konkurssiin valtionavustuksen vuoksi",
+      "mainTitle": "Aivoliittoa haetaan konkurssiin valtionavustusten vuoksi",
       "mainCategories": [
         "Kotimaa",
         "Talous",
@@ -1944,48 +1930,7 @@
       ]
     },
     {
-      "mainTitle": "Tampere-Turku-juna myöhästyi henkilövahingon takia",
-      "mainCategories": [
-        "Liikenne",
-        "Junaliikenne",
-        "Raideliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tampere-Turku-juna myöhässä henkilövahingon vuoksi",
-          "content": "",
-          "date": "2025-05-27T20:46:00.000Z",
-          "categories": [
-            "liikenne",
-            "varsinais-suomi"
-          ],
-          "link": "https://yle.fi/a/74-20164464?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Juna Tampereelta Turkuun myöhästyi Loimaalla tapahtuneen henkilövahingon vuoksi",
-          "content": "",
-          "date": "2025-05-27T19:46:07.000Z",
-          "categories": [
-            "junaliikenne",
-            "raideliikenne",
-            "onnettomuudet",
-            "vr",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6674590"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sähköpotkulautailuun ikä- ja promillerajat",
+      "mainTitle": "Sähköpotkulautojen käyttöön ikä- ja promillerajat",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -2004,16 +1949,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011262880.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sähköpotkulautailuun tulee 15 vuoden ikäraja ja promilleraja",
-          "content": "Sähköpotkulautailuun tulee 15 vuoden ikäraja ja promilleraja",
-          "date": "2025-05-27T15:28:31.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/sahkopotkulautailuun-tulee-15-vuoden-ikaraja-ja-pr/11647820?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -2047,46 +1982,7 @@
       ]
     },
     {
-      "mainTitle": "Halla-ahon puheenjohtajuuden syyt paljastuvat syksyllä",
-      "mainCategories": [
-        "Politiikka",
-        "Perussuomalaiset"
-      ],
-      "imageUrl": "/images/jussi halla-aho/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Halla-ahon nousu masinoitiin salaisella Facebook-sivuilla: Ylen audiodraama avaa Soinin ja Halla-ahon valtataistoa",
-          "content": "Perussuomalaisten Jussi Halla-ahosta ilmestyy syksyllä myös elämäkerta.   ",
-          "date": "2025-05-27T17:59:03.000Z",
-          "categories": [
-            "politiikka",
-            "perussuomalaiset",
-            "timo soini",
-            "populistiset puolueet",
-            "jussi halla-aho",
-            "sininen tulevaisuus"
-          ],
-          "link": "https://yle.fi/a/74-20164442?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Perussuomalaiset | Kustantamo: Jussi Halla-ahon salatut syyt puheen­johtajuudesta luopumiseen paljastetaan elokuussa",
-          "content": "Halla-aho kertoi vuonna 2021 kirjaavansa luopumisensa syyt tiedotteeseen, joka julkaistaan vuonna 2031. Kirjailija Markku Heikkilä kuitenkin sanoo, että Halla-aho on kertonut hänelle tiedotteen sisällön ”yksityiskohtaisesti”.",
-          "date": "2025-05-27T08:13:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011260993.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Teuvo Hakkaraiselle ehdollinen vankeustuomio veropetoksesta",
+      "mainTitle": "Teuvo Hakkarainen tuomittiin törkeästä veropetoksesta",
       "mainCategories": [
         "Suomi",
         "Kotimaa",
@@ -2129,21 +2025,11 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011258716.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Teuvo Hakkaraiselle ehdollista vankeutta törkeästä veropetoksesta",
-          "content": "Keski-Suomen käräjäoikeus on tuominnut entisen europarlamentaarikon Teuvo Hakkaraisen törkeästä veropetoksesta kahdeksan kuukauden ehdolliseen vankeuteen.",
-          "date": "2025-05-27T09:40:15.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/teuvo-hakkaraiselle-ehdollista-vankeutta-torkeasta/11647170?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
-      "mainTitle": "Liikemiehen rakennus tuhoutui tulipalossa",
+      "mainTitle": "Kopteriturman liike­miehen rakennus paloi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2286,39 +2172,7 @@
       ]
     },
     {
-      "mainTitle": "Saksan Merz kritisoi Israelin iskuja Suomessa",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "/images/saksa/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Saksan Merz arvosteli Israelin iskuja vieraillessaan Suomessa",
-          "content": "Pääministeri Orpo ja liittokansleri Merz tapaavat Turussa. Keskustelujen aiheina ovat Suomen ja Saksan kahdenväliset suhteet sekä ajankohtaiset EU- ja kansainväliset kysymykset.",
-          "date": "2025-05-27T13:29:55.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/saksan-merz-arvosteli-israelin-iskuja-vieraillessa/11647388?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Orpon ja Merzin henkilösuhde hyödyttää Suomea",
-          "content": "Vaikea maailmantilanne tiivistää Saksan ja Pohjoimaiden suhdetta. Suomen ja Saksan suhteissa Orpon ja Merzin tuttavuudesta voi olla apua.",
-          "date": "2025-05-27T10:01:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011261413.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallitus esittää paperittomien terveyspalvelujen rajoituksia",
+      "mainTitle": "Hallitus esittää rajauksia paperittomien terveyspalveluihin",
       "mainCategories": [
         "Politiikka",
         "Paperittomat",
@@ -2397,7 +2251,7 @@
         "Asuminen",
         "Asumiskulut"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2442,14 +2296,25 @@
       ]
     },
     {
-      "mainTitle": "UPM hylkää miljardihankkeen biojalostamosta",
+      "mainTitle": "UPM luopuu biojalostamohankkeestaan Rotterdamissa",
       "mainCategories": [
         "Talous",
-        "Teollisuus",
-        "Upm"
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "UPM luopuu Rotterdamin biojalostamohankkeesta",
+          "content": "Mäntyöljypohjaiset biopolttoaineet halutaan hyväksyttää lentokonekäyttöön.",
+          "date": "2025-05-27T09:32:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011261483.html"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -2461,23 +2326,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011261226.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "UPM oli investoimassa jopa miljardin uuteen biojalostamoon – nyt yhtiö kertoo hylkäävänsä hankkeen",
-          "content": "Uusi jalostamo olisi moninkertaistanut UPM:n uusiutuvan polttoaineen tuotannon. ",
-          "date": "2025-05-27T08:16:16.000Z",
-          "categories": [
-            "teollisuus",
-            "upm",
-            "metsäteollisuus",
-            "biopolttoaineet",
-            "uusiutuvat energialähteet",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20164289?origin=rss"
         }
       ]
     },
