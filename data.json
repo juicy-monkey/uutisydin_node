@@ -1,8 +1,18 @@
 {
-  "timestamp": "2025-06-02T14:17:02.832Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-06-02T14:44:54.680Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
       "mainTitle": "Ruotsin kuningaspari vierailee Suomessa",
@@ -11,15 +21,15 @@
         "Kotimaa",
         "Uusimaa"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Kuninkaalliset | Suora lähetys käynnissä: Ruotsin kuningaspari vierailee Hanasaaressa",
+          "title": "Kuninkaalliset | Suora lähetys käynnissä: Ruotsin kuninkaan ja Stubbin puheet keräsivät raikuvat aplodit Hanasaaressa",
           "content": "Kuninkaalliset osallistuvat Hanasaaren kulttuurikeskuksen 50-vuotisjuhlaan. HS näyttää IS:n suoraa lähetystä tapahtumasta.",
-          "date": "2025-06-02T14:03:00.000Z",
+          "date": "2025-06-02T14:44:00.000Z",
           "categories": [
             "politiikka"
           ],
@@ -82,18 +92,39 @@
     {
       "mainTitle": "Etna-tulivuori purkautui, turistit pakenivat",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Luonto",
+        "Tulivuoret"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Katso, kuinka tulivuori Etna sylkee laavaa taivaan täydeltä",
+          "content": "Euroopan suurin yhä aktiivinen tulivuori muuttui laavasuihku­lähteeksi.",
+          "date": "2025-06-02T14:29:14.000Z",
+          "categories": [
+            "luonto",
+            "tulivuoret",
+            "sisilia",
+            "italia",
+            "catania",
+            "etna-tulivuori",
+            "seismologia",
+            "tulivuorenpurkaukset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20165325?origin=rss"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Tulivuoret | Etna syöksi ilmaan savua ja tuhkaa Sisiliassa",
+          "title": "Tulivuoret | Turistit pakenivat, kun Etna syöksi ilmaan savua ja tuhkaa Sisiliassa",
           "content": "Euroopan suurin aktiivinen tulivuori syöksi maanantaina savua, tuhkaa ja kiveä.",
-          "date": "2025-06-02T13:59:00.000Z",
+          "date": "2025-06-02T14:26:00.000Z",
           "categories": [
             "maailma"
           ],
@@ -333,13 +364,13 @@
       ]
     },
     {
-      "mainTitle": "Gazan taistelut jatkuvat aselevosta huolimatta",
+      "mainTitle": "Israel ja Hamas jatkavat taisteluja Gazassa",
       "mainCategories": [
         "Ulkomaat",
         "Hamas",
         "Palestiinalaisalueet"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -584,7 +615,7 @@
         "Ukraina",
         "Droonit"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -796,7 +827,7 @@
         "Verotus",
         "Politiikka"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -829,64 +860,7 @@
       ]
     },
     {
-      "mainTitle": "Karhu liikkuu Eurajoella, poliisi varoittaa",
-      "mainCategories": [
-        "Poliisi",
-        "Kotimaa",
-        "Eläimet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Karhu liikkuu Eurajoella – poliisilta vakava varoitus",
-          "content": "Karkottamisen suorittaa riistanhoitoyhdistyksen suurriistavirka-apuosasto.",
-          "date": "2025-06-02T12:30:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011273263.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Poliisi varoittaa: Eurajoella liikkuu karhu",
-          "content": "",
-          "date": "2025-06-02T12:12:30.000Z",
-          "categories": [
-            "karhut",
-            "lounais-suomen poliisilaitos",
-            "poliisi",
-            "suurpedot",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6679022"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Karhu liikkuu Eurajoella",
-          "content": "Poliisi muistuttaa, että karhua ei missään tapauksessa tule lähestyä. ",
-          "date": "2025-06-02T12:02:23.000Z",
-          "categories": [
-            "eläimet",
-            "karhu",
-            "poliisi",
-            "eurajoki",
-            "petoeläimet",
-            "satakunta"
-          ],
-          "link": "https://yle.fi/a/74-20165304?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainan ja Venäjän rauhanneuvottelut Istanbulissa alkoivat",
+      "mainTitle": "Ukrainan ja Venäjän rauhanneuvottelut Istanbulissa jatkuvat",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
@@ -966,18 +940,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011271990.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tässä ovat Ukrainan ehdot Venäjälle – Mukana yllättävä myönnytys",
-          "content": "Ukraina vaatii tapaamista Ukrainan presidentti Volodymyr Zelenskyin ja Venäjän presidentti Vladimir Putinin välillä sekä liudan kovia ehtoja kestävälle rauhalle.  Uutistoimisto Reuters on nähnyt Ukrainan ehdot kestävästä rauhasta, joiden perusteella Ukraina tavoittelee ratkaisua sotaan tänään maanantaina Istanbulissa alkavissa uusissa neuvotteluissa. Iltalehti julkaisee tässä jutussa sanasta sanaan Reutersin uutisoimat ehdot. Ukraina vaatii muun muassa täydellistä 30 päivän tulitaukoa sekä kaikkien sotavankien vaihtamista. Lisäksi Ukrainan suunnitelmaan kuuluu Ukrainan presidentti Volodymyr Zelenskyin sekä Venäjän presidentti Vladimir Putinin välinen tapaaminen.",
-          "date": "2025-06-02T07:27:58.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/66c75869-a958-499d-aea0-78b820b796a9"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1041,7 +1003,7 @@
       "mainTitle": "Verkkopankkihuijaukset kasvavat Suomessa nopeasti",
       "mainCategories": [
         "Kotimaa",
-        "Poliisi",
+        "Rikosepäilyt",
         "Verkkourkinta"
       ],
       "imageUrl": "",
@@ -1071,62 +1033,16 @@
           "content": "Kolmivaiheisen huijauksen ensimmäisessä vaiheessa uhrille soitetaan automaattipuhelu, jossa kerrotaan asiattomasta maksuliikenteestä uhrin verkkopankissa.  ",
           "date": "2025-06-02T11:03:54.000Z",
           "categories": [
-            "poliisi",
+            "rikosepäilyt",
             "verkkourkinta",
             "huijarit",
             "sisä-suomen poliisilaitos",
+            "poliisi",
             "kotimaa",
             "keski-suomi",
             "pirkanmaa"
           ],
           "link": "https://yle.fi/a/74-20165264?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pörssisähkön hinta nousee kesäkuussa",
-      "mainCategories": [
-        "Taloussanomat",
-        "Kotimaa",
-        "Sähkö"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pörssisähkön hinta hyppää tiistaina",
-          "content": "Toukokuussa saatiin nautti halvasta sähköstä, mutta kesäkuu näyttää tuovan ylämäkeä.",
-          "date": "2025-06-02T12:15:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011272933.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tiistaina suurta vaihtelua – Katso tästä pörssisähkön tuntihinnat",
-          "content": "Iltalehden päivittyvä taulukko näyttää pörssisähkön vallitsevan hinnan. Iltalehden palvelu mahdollistaa pörssisähkön hinnan seuraamisen. Tästä jutusta löytyvässä oheisessa graafissa näkyvät aina 48 tunnin hintatiedot. Seuraavan päivän tuntihinnat päivittyvät graafiin noin kello 14 tai hieman sen jälkeen, jolloin graafi näyttää kuluvan päivän ja seuraavan päivän tuntihinnat. Puolenyön jälkeen, ennen kuin seuraavan vuorokauden hinnat ovat vielä tiedossa, graafi näyttää edeltävän päivän ja kuluvan vuorokauden tuntihinnat. Voit katsoa graafista minkä tahansa tunnin pörssisähkön hinnan. Kuvaaja näyttää myös erikseen juuri käynnissä olevan tunnin hinnan sekä tiedossa olevista tulevista tuntihinnoista halvimman ja kalleimman tunnin hintoineen.",
-          "date": "2025-06-02T11:49:42.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/430a56af-648b-430b-a286-c04be41d5ad3"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Pörssisähkön hinta ampaisee nousuun",
-          "content": "Sähkön pörssihinta syöksyy ylös nollapäivien jälkeen.",
-          "date": "2025-06-02T10:52:00.000Z",
-          "categories": [
-            "sähkö"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/porssisahkon-hinta-ampaisee-nousuun/660422ef-0761-4116-804d-96ff75c08210"
         }
       ]
     },
@@ -1137,7 +1053,7 @@
         "Iran",
         "Ydinaseet"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1176,7 +1092,7 @@
         "Poliisitutkinta",
         "Väkivalta"
       ],
-      "imageUrl": "/images/alkoholi/1.jpg",
+      "imageUrl": "/images/alkoholi/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1214,7 +1130,7 @@
       ]
     },
     {
-      "mainTitle": "Koulupuukotusvideosta tehty toinen rikosilmoitus",
+      "mainTitle": "Koulupuukotusvideosta tehty kaksi rikosilmoitusta",
       "mainCategories": [
         "Rikosepäilyt",
         "Rikosilmoitukset",
@@ -1256,13 +1172,13 @@
       ]
     },
     {
-      "mainTitle": "Yle irtisanoo enintään 14 työntekijää",
+      "mainTitle": "Yle vähentää henkilöstöään 40:llä",
       "mainCategories": [
         "Muutosneuvottelut",
         "Talous",
         "Yle"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -1328,7 +1244,7 @@
       ]
     },
     {
-      "mainTitle": "Hovioikeus vapautti polttomurhan tekijän",
+      "mainTitle": "Polttomurhaaja vapautuu, joukkoampuja ei",
       "mainCategories": [
         "Kotimaa",
         "Oikeudenkäynnit",
@@ -1361,18 +1277,6 @@
           "link": "https://www.hs.fi/suomi/art-2000011271777.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Hyvinkään ampuja Eero Hiltunen halusi vapaaksi – Joutui pettymään",
-          "content": "Helsingin hovioikeus antoi ratkaisunsa asiassa tänään 2. kesäkuuta. Hyvinkään ampuja Eero Samuli Hiltunen, 31, ei pääse vapaaksi. Helsingin hovioikeus on tuoreella päätöksellään hylännyt Hiltusen ehdonalaishakemuksen. Rikosseuraamuslaitos ei puoltanut Hiltusen vapauttamista.",
-          "date": "2025-06-02T07:03:48.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/436e5284-5e88-4ee7-9abe-1ae46f60c10e"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -1399,7 +1303,7 @@
         "Ulkomaat",
         "Vaalit"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1465,13 +1369,13 @@
       ]
     },
     {
-      "mainTitle": "Kahdeksan loukkaantui Coloradon mielenosoituksessa",
+      "mainTitle": "Coloradossa mielenosoitukseen hyökkäys liekinheittimellä",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Colorado"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1517,60 +1421,13 @@
       ]
     },
     {
-      "mainTitle": "Perussuomalaisten kannatus heikentynyt vaalitappioiden myötä",
-      "mainCategories": [
-        "Politiikka",
-        "Perussuomalaiset",
-        "Puoluekokoukset"
-      ],
-      "imageUrl": "/images/vaalit/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Emilia Kullaksen kolumni: Seuraavissa vaaleissa tulee olemaan yksi teema ylitse muiden",
-          "content": "Seuraavatkin eduskuntavaalit ovat talousvaalit, kirjoittaa Elinkeinoelämän valtuuskunnan johtaja Emilia Kullas kolumnissaan. Perussuomalaiset kokoontuvat kesäkuun puolivälissä puoluekokoukseensa. Kannatusluvut ovat valuneet mataliksi. Valtiovarainministeripuolue ei saanut kunta- ja aluevaaleissa kannattajiaan liikkeelle. Suomi kuntoon, maahanmuutto kuriin ja velkaantumiselle stoppi. Näillä lupauksilla perussuomalaiset päätyivät kokoomuksen kanssa hallitukseen ja puheenjohtajansa Riikka Purran johdolla saksimaan julkisen sektorin ikuisesti kasvavia menoja.",
-          "date": "2025-06-02T07:02:32.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/a6057d37-6a03-4a36-93a2-3ed484a06cc8"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yli sata perussuomalaista kertoo puolueen tilanteesta: ”Köyhimmiltä leikkaaminen ei paljoakaan rahaa tuo”",
-          "content": "Perussuomalaiset valmistautuu tulevaan puoluekokoukseen vaalitappioiden jälkeen. Yle sai vastauksen yli sadalta puoluevaikuttajalta, jotka kertoivat syyt kannatuksen matelemiselle.",
-          "date": "2025-06-01T05:39:36.000Z",
-          "categories": [
-            "politiikka",
-            "perussuomalaiset",
-            "riikka purra",
-            "teemu keskisarja",
-            "arto luukkanen",
-            "orpon hallitus",
-            "puoluekokoukset",
-            "suomen poliittiset puolueet",
-            "suomen politiikka",
-            "puolueet",
-            "puoluejohto",
-            "puoluejohtajat",
-            "oikeistopuolueet"
-          ],
-          "link": "https://yle.fi/a/74-20163538?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kiina kiistää Trumpin tullisyytökset",
       "mainCategories": [
         "Yhdysvallat",
         "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1635,7 +1492,7 @@
       ]
     },
     {
-      "mainTitle": "Varkaudessa epäillään tuhopolttoja ja tulipaloja",
+      "mainTitle": "Poliisi tutkii Varkauden tulipaloja",
       "mainCategories": [
         "Tulipalot",
         "Kotimaa",
@@ -1733,7 +1590,7 @@
       ]
     },
     {
-      "mainTitle": "Hampurissa sairaalapalo, kolme kuollut",
+      "mainTitle": "Hampurissa sairaalapalo, kolme kuoli",
       "mainCategories": [
         "Ulkomaat",
         "Rikosepäilyt"
@@ -1822,7 +1679,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1863,48 +1720,7 @@
       ]
     },
     {
-      "mainTitle": "Yli tuhat siirtolaista ylitti kanaalin",
-      "mainCategories": [
-        "Ulkomaat",
-        "Onnettomuudet",
-        "Britannia"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yli tuhat siirtolaista ylitti Englannin kanaalin Britanniaan lauantaina",
-          "content": "AFP:n lukujen mukaan 15 ihmistä on kuollut tähän mennessä tänä vuonna yrittäessään ylittää Englannin kanaalia.",
-          "date": "2025-06-01T14:41:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271195.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lähes 200 siirtolaista pelastettiin Englannin kanaalista",
-          "content": "",
-          "date": "2025-06-01T08:29:47.000Z",
-          "categories": [
-            "onnettomuudet",
-            "englannin kanaali",
-            "britannia",
-            "ranska",
-            "merivartiostot",
-            "siirtolaisuus",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165114?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi siltaa romahti Venäjällä, kuolonuhreja.",
+      "mainTitle": "Venäjällä siltojen romahdus, useita kuollut",
       "mainCategories": [
         "Maailma"
       ],
@@ -1931,37 +1747,6 @@
           "date": "2025-06-01T07:05:33.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/kaksi-siltaa-romahti-venajalla-useita-kuoli-tutkit/11652236?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Äiti ja taapero pelastautuivat autosta",
-      "mainCategories": [
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Äiti ja taapero hurjassa vaaratilanteessa taukopaikalla",
-          "content": "Auto oli ajautunut penkkaa alas jokeen, jonne oli arvion mukaan noin viiden metrin pudotus.",
-          "date": "2025-06-01T13:07:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011270869.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Äiti ja tytär joutuivat auton mukana veden varaan Tervolassa – \"Onni onnettomuudessa monessakin mielessä\"",
-          "content": "Henkilöauto valui veteen Tervolassa – poliisi ohjaa liikennettä Ossauskosken voimalaitoksella",
-          "date": "2025-06-01T09:24:39.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/aiti-ja-tytar-joutuivat-auton-mukana-veden-varaan/11652357?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -2051,7 +1836,7 @@
       ]
     },
     {
-      "mainTitle": "Ajo- ja lepoaikarikkomukset jatkuvat liikenteessä",
+      "mainTitle": "Ajo- ja lepoaikarikkomuksia liikenteessä yhä paljon",
       "mainCategories": [
         "Liikenne",
         "Suomi"
@@ -2085,12 +1870,12 @@
       ]
     },
     {
-      "mainTitle": "Trump peruutti miljardööri­astronautin ehdokkuuden Nasan johtajaksi",
+      "mainTitle": "Trump peruutti miljardööriastronautin ehdokkuuden",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
