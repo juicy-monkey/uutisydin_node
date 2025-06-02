@@ -1,11 +1,305 @@
 {
-  "timestamp": "2025-06-02T09:18:29.344Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-06-02T09:41:59.180Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Ampumistapaus Helsingissä: mies kuollut, nainen loukkaantunut",
+      "mainTitle": "Finnair peruu 110 lentoa työtaistelun vuoksi",
+      "mainCategories": [
+        "Taloussanomat",
+        "Lentoliikenne",
+        "Finnair"
+      ],
+      "imageUrl": "/images/finnair/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Finnairin 110 lentoa peruttu",
+          "content": "Työtaistelutoimet aiheuttavat jälleen Finnairille peruutuksia. Finnair peruu noin 110 lentoa ensi keskiviikkona. Perumiset johtuvat Ilmailualan Unionin työtaistelutoimista. Neljä tuntia kestävät toimet kohdistuvat moniin olennaisiin toimintoihin Finnairin lentojen kannalta. Perumiset vaikuttavat Finnairin mukaan noin 11 000 matkustajaan.",
+          "date": "2025-06-02T09:39:39.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/9e2ce16d-3609-4c2c-b899-ec5b36be4cc7"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Finnair peruu 110 lentoa keskiviikolta",
+          "content": "",
+          "date": "2025-06-02T09:32:12.000Z",
+          "categories": [
+            "lakot",
+            "ilmailu",
+            "lentokentät",
+            "lentokoneet",
+            "talous",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6678793"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Työtaistelut | Finnair peruu keski­viikolta 110 lentoa, vaikuttaa 11 000 asiakkaaseen",
+          "content": "Ilmailualan Unioni hylkäsi viime viikolla sovittelijan sovintoesityksen lentoliikenteen palveluiden työriitaan.",
+          "date": "2025-06-02T08:18:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011272150.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Finnair peruu keskiviikolta yli sata lentoa",
+          "content": "Lentojen peruutusten arvioidaan vaikuttavan noin 11 000 asiakkaaseen.",
+          "date": "2025-06-02T08:15:05.000Z",
+          "categories": [
+            "liikenne",
+            "lentoliikenne",
+            "finnair",
+            "työtaistelut",
+            "ilmailualan liitto (iau)",
+            "työmarkkinapolitiikka"
+          ],
+          "link": "https://yle.fi/a/74-20165230?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnair peruu keskiviikolta noin 110 lentoa",
+          "content": "Peruutusten arvioidaan vaikuttavan noin 11 000 asiakkaaseen.",
+          "date": "2025-06-02T08:10:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011272127.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uudet lentolakot iskevät – noin 50 lentoa peruttu",
+          "content": "Finnairin lennoissa on odotettavissa häiriöitä myös keskiviikkona.",
+          "date": "2025-06-02T03:30:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011271470.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Finnair perunut kymmeniä lentoja tältä päivältä lakon vuoksi",
+          "content": "",
+          "date": "2025-06-01T21:35:38.000Z",
+          "categories": [
+            "työelämä",
+            "finnair",
+            "lakot",
+            "ilmailualan liitto (iau)",
+            "lentoliikenne",
+            "työtaistelut",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20165153?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnair peruu kymmeniä lentoja maanantailta",
+          "content": "Finnair on henkilökohtaisesti yhteydessä asiakkaisiin, joita perumiset koskevat.",
+          "date": "2025-05-31T09:47:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011269737.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Koulupuukotusvideosta tehty toinen rikosilmoitus",
+      "mainCategories": [
+        "Rikosepäilyt",
+        "Rikosilmoitukset",
+        "Pirkkala"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Koulupuukotus­videon levittämisestä kirjattu toinenkin rikos­ilmoitus",
+          "content": "Pirkkalan koulupuukotuksesta kuvatun videon levittämisestä on kirjattu toinenkin rikosilmoitus.",
+          "date": "2025-06-02T09:32:00.000Z",
+          "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000011272436.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pirkkalan koulupuukotusvideon levittämisestä uusi rikosilmoitus – Poliisi: ”Video on julkaistu MV-lehden sivuilla”",
+          "content": "Puukotusvideon levittämisestä on kirjattu kaksi rikosilmoitusta. Väkivaltakuvauksen levittäminen on rikos, josta voi seurata sakkoa tai enintään kaksi vuotta vankeutta.",
+          "date": "2025-06-02T08:26:25.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "rikosilmoitukset",
+            "pirkkala",
+            "puukotus",
+            "poliisi",
+            "koulut",
+            "kotimaa",
+            "pirkanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20165232?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukraina onnistui massiivisissa drooni-iskuissa Venäjälle",
+      "mainCategories": [
+        "Ulkomaat",
+        "Droonit",
+        "Ukraina"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tämä tiedetään Ukrainan drooni-iskuista: salainen palvelu suunnitteli operaatiota puolitoista vuotta",
+          "content": "Droonilaatikot kuljetettiin Venäjän lentotukikohtien lähelle kuorma-autoilla, puulaatikoissa. ",
+          "date": "2025-06-02T09:29:47.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20165203?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "ISW: Tämän takia Ukraina onnistui drooni-iskuissaan",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
+          "date": "2025-06-02T07:58:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011226378.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ukrainalta kova väite drooni-iskujen tuhoista – tämä tiedetään kohteista",
+          "content": "Ukraina onnistui iskuissaan Olenjan ja Belajan lentotukikohtiin.",
+          "date": "2025-06-02T07:19:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011271371.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Zelenskyi kommentoi Ukrainan massiivisia drooni-iskuja",
+          "content": "Zelenskyin mukaan iskussa tuhottiin 34 prosenttia Venäjän strategisista pommikoneista, jotka voivat kuljettaa risteilyohjuksia.",
+          "date": "2025-06-01T21:10:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011271535.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Ukrainan droonihyökkäys on nolo tapaus Venäjän johdolle – Kreml ei kiirehtinyt kommentoimaan lentokenttäiskuja",
+          "content": "Drooni-isku osui myös Venäjän ydinasepelotteeseen. Se kasaa Venäjän johdolle paineita näyttävään vastaiskuun, arvioi ulkomaantoimittaja Heikki Heiskanen.",
+          "date": "2025-06-01T18:12:42.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ukraina",
+            "droonit",
+            "ukrainan kriisi 2022",
+            "venäjän hyökkäys ukrainaan 2022",
+            "ukrainan turvallisuuspalvelu",
+            "ukrainan asevoimat",
+            "murmanskin alue",
+            "irkutskin alue",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20165147?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Näin Ukraina tuhosi suuren osan Venäjän ilma­voimista – droonit tuotiin puu­laatikoissa tukikohtien viereen",
+          "content": "Turvallisuuspalvelu SBU teki hyökkäykset eri puolilla Venäjää kaukana Ukrainasta.",
+          "date": "2025-06-01T15:39:54.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "droonit",
+            "ulkomaat",
+            "ukraina",
+            "ilmavoimat",
+            "pommikoneet"
+          ],
+          "link": "https://yle.fi/a/74-20165142?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ukraina sanoo tuhonneensa drooneilla 40 Venäjän raskasta pommikonetta – iskuja Siperiassa ja lähellä Suomen rajaa",
+          "content": "Jos tiedot pitävät paikkansa, kyseessä on sodan selvästi suurin isku Venäjän pommikoneita vastaan.",
+          "date": "2025-06-01T11:43:33.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "pommikoneet",
+            "ulkomaat",
+            "venäjä",
+            "ukraina",
+            "droonit",
+            "ukrainan sota",
+            "aseelliset konfliktit",
+            "sotilaslentokoneet",
+            "ilmavoimat"
+          ],
+          "link": "https://yle.fi/a/74-20165130?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ampuminen Helsingissä: mies kuollut, nainen loukkaantunut",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -13,6 +307,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ampuminen arvoalueella Helsingissä: Mies kuollut, nainen sairaalassa",
+          "content": "Poliisi epäilee, että kuusikymppinen mies yritti tappaa samassa asunnossa asuneen naisen ampumalla tätä kiväärimallisella aseella. Epäilty ampuja löydettiin kuolleena asunnosta.",
+          "date": "2025-06-02T09:23:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011272096.html"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -33,18 +339,6 @@
           "link": "https://yle.fi/a/74-20165243?origin=rss"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ampuminen arvoalueella Helsingissä: Mies kuollut, nainen sairaalassa",
-          "content": "Poliisi epäilee, että kuusikymppinen mies yritti tappaa samassa asunnossa asuneen naisen ampumalla tätä kiväärimallisella aseella. Epäilty ampuja löydettiin kuolleena asunnosta.",
-          "date": "2025-06-02T08:57:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011272096.html"
-        },
-        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
@@ -59,13 +353,13 @@
       ]
     },
     {
-      "mainTitle": "Yle irtisanoo lähes 40 työntekijää",
+      "mainTitle": "Yle vähentää henkilöstöään lähes 40:llä",
       "mainCategories": [
         "Media",
         "Muutosneuvottelut",
         "Talous"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -328,7 +622,7 @@
         "Puola",
         "Vaalit"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -406,107 +700,13 @@
       ]
     },
     {
-      "mainTitle": "Finnair peruu yli 110 lentoa keskiviikkona",
-      "mainCategories": [
-        "Taloussanomat",
-        "Lentoliikenne",
-        "Finnair"
-      ],
-      "imageUrl": "/images/finnair/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työtaistelut | Finnair peruu keski­viikolta 110 lentoa, vaikuttaa 11 000 asiakkaaseen",
-          "content": "Ilmailualan Unioni hylkäsi viime viikolla sovittelijan sovintoesityksen lentoliikenteen palveluiden työriitaan.",
-          "date": "2025-06-02T08:18:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011272150.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair peruu keskiviikolta yli sata lentoa",
-          "content": "Lentojen peruutusten arvioidaan vaikuttavan noin 11 000 asiakkaaseen.",
-          "date": "2025-06-02T08:15:05.000Z",
-          "categories": [
-            "liikenne",
-            "lentoliikenne",
-            "finnair",
-            "työtaistelut",
-            "ilmailualan liitto (iau)",
-            "työmarkkinapolitiikka"
-          ],
-          "link": "https://yle.fi/a/74-20165230?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Finnair peruu keskiviikolta noin 110 lentoa",
-          "content": "Peruutusten arvioidaan vaikuttavan noin 11 000 asiakkaaseen.",
-          "date": "2025-06-02T08:10:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011272127.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uudet lentolakot iskevät – noin 50 lentoa peruttu",
-          "content": "Finnairin lennoissa on odotettavissa häiriöitä myös keskiviikkona.",
-          "date": "2025-06-02T03:30:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011271470.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair perunut kymmeniä lentoja tältä päivältä lakon vuoksi",
-          "content": "",
-          "date": "2025-06-01T21:35:38.000Z",
-          "categories": [
-            "työelämä",
-            "finnair",
-            "lakot",
-            "ilmailualan liitto (iau)",
-            "lentoliikenne",
-            "työtaistelut",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165153?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Finnair peruu kymmeniä lentoja maanantailta",
-          "content": "Finnair on henkilökohtaisesti yhteydessä asiakkaisiin, joita perumiset koskevat.",
-          "date": "2025-05-31T09:47:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011269737.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Ukraina ja Venäjä neuvottelevat rauhasta Istanbulissa",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -691,7 +891,7 @@
         "Yhdysvallat",
         "Colorado"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -934,13 +1134,13 @@
       ]
     },
     {
-      "mainTitle": "Ukraina iski Venäjän sotilaslentokentille",
+      "mainTitle": "Ukraina iski Venäjälle merkittävästi",
       "mainCategories": [
         "Ulkomaat",
         "Ukraina",
-        "Droonit"
+        "Venäjä"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -953,27 +1153,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011271489.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Ukrainan droonihyökkäys on nolo tapaus Venäjän johdolle – Kreml ei kiirehtinyt kommentoimaan lentokenttäiskuja",
-          "content": "Drooni-isku osui myös Venäjän ydinasepelotteeseen. Se kasaa Venäjän johdolle paineita näyttävään vastaiskuun, arvioi ulkomaantoimittaja Heikki Heiskanen.",
-          "date": "2025-06-01T18:12:42.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "droonit",
-            "ukrainan kriisi 2022",
-            "venäjän hyökkäys ukrainaan 2022",
-            "ukrainan turvallisuuspalvelu",
-            "ukrainan asevoimat",
-            "murmanskin alue",
-            "irkutskin alue",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165147?origin=rss"
         },
         {
           "publisherId": "is",
@@ -1004,23 +1183,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20165145?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin Ukraina tuhosi suuren osan Venäjän ilma­voimista – droonit tuotiin puu­laatikoissa tukikohtien viereen",
-          "content": "Turvallisuuspalvelu SBU teki hyökkäykset eri puolilla Venäjää kaukana Ukrainasta.",
-          "date": "2025-06-01T15:39:54.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "droonit",
-            "ulkomaat",
-            "ukraina",
-            "ilmavoimat",
-            "pommikoneet"
-          ],
-          "link": "https://yle.fi/a/74-20165142?origin=rss"
         },
         {
           "publisherId": "is",
@@ -1054,57 +1216,13 @@
       ]
     },
     {
-      "mainTitle": "Ukraina iski Venäjän pommikoneisiin drooneilla",
-      "mainCategories": [
-        "Ulkomaat",
-        "Pommikoneet",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Zelenskyi kommentoi Ukrainan massiivisia drooni-iskuja",
-          "content": "Zelenskyin mukaan iskussa tuhottiin 34 prosenttia Venäjän strategisista pommikoneista, jotka voivat kuljettaa risteilyohjuksia.",
-          "date": "2025-06-01T21:10:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271535.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ukraina sanoo tuhonneensa drooneilla 40 Venäjän raskasta pommikonetta – iskuja Siperiassa ja lähellä Suomen rajaa",
-          "content": "Jos tiedot pitävät paikkansa, kyseessä on sodan selvästi suurin isku Venäjän pommikoneita vastaan.",
-          "date": "2025-06-01T11:43:33.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "pommikoneet",
-            "ulkomaat",
-            "venäjä",
-            "ukraina",
-            "droonit",
-            "ukrainan sota",
-            "aseelliset konfliktit",
-            "sotilaslentokoneet",
-            "ilmavoimat"
-          ],
-          "link": "https://yle.fi/a/74-20165130?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Hamas vaatii pysyvää aselepoa Gazassa",
       "mainCategories": [
         "Ulkomaat",
         "Hamas",
         "Palestiinalaisalueet"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1164,7 +1282,7 @@
       ]
     },
     {
-      "mainTitle": "Thunberg purjehtii Gazaan humanitaarista apua varten",
+      "mainTitle": "Thunberg purjehtii Gazaan humanitaarisen avun kanssa",
       "mainCategories": [
         "Ulkomaat",
         "Israel",
@@ -1206,7 +1324,7 @@
       ]
     },
     {
-      "mainTitle": "Hampurissa sairaalapalo, kolme kuoli",
+      "mainTitle": "Hampurissa sairaalapalo, kolme kuollut",
       "mainCategories": [
         "Ulkomaat",
         "Rikosepäilyt"
@@ -1241,7 +1359,7 @@
       ]
     },
     {
-      "mainTitle": "Kesäkuun sää vaihtelevaa, hellettä ei näy",
+      "mainTitle": "Kesäkuu alkaa vaihtelevassa säässä",
       "mainCategories": [
         "Sää",
         "Meteorologit",
@@ -1286,7 +1404,7 @@
         "Maailma",
         "Israel"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1463,7 +1581,7 @@
       ]
     },
     {
-      "mainTitle": "Äiti ja taapero pelastautuivat autosta",
+      "mainTitle": "Äiti ja taapero pelastautuivat onnettomuudesta",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -1482,16 +1600,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011270869.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Äiti ja tytär joutuivat auton mukana veden varaan Tervolassa – \"Onni onnettomuudessa monessakin mielessä\"",
-          "content": "Henkilöauto valui veteen Tervolassa – poliisi ohjaa liikennettä Ossauskosken voimalaitoksella",
-          "date": "2025-06-01T09:24:39.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/aiti-ja-tytar-joutuivat-auton-mukana-veden-varaan/11652357?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -1757,7 +1865,7 @@
       ]
     },
     {
-      "mainTitle": "Ajo- ja lepoaikarikkomukset jatkuvat liikenteessä",
+      "mainTitle": "Ajo- ja lepoaikarikkomuksia liikenteessä jatkuvasti",
       "mainCategories": [
         "Liikenne",
         "Suomi"
@@ -1830,11 +1938,11 @@
       ]
     },
     {
-      "mainTitle": "Koulujen päättäjäiset herättivät suurta juhlintaa",
+      "mainTitle": "Kaivopuistossa juhlittiin koulujen päättymistä",
       "mainCategories": [
+        "Kotimaa",
         "Juhlat",
-        "Turku",
-        "Kotimaa"
+        "Päättäjäiset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1849,25 +1957,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011270477.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Sukujuhlia, musiikkifestarit ja munkkikahveja – näin turkulaiset juhlistivat koulujen päättäjäispäivää",
-          "content": "",
-          "date": "2025-05-31T17:40:16.000Z",
-          "categories": [
-            "kesä",
-            "juhlat",
-            "turku",
-            "festivaalit",
-            "ylioppilaat",
-            "ammattiin valmistuneet",
-            "koululaiset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6677659"
         },
         {
           "publisherId": "yle",
@@ -1894,7 +1983,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1997,7 +2086,7 @@
         "Finnvera",
         "Risteilyalukset"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2038,50 +2127,6 @@
             "varsinais-suomi"
           ],
           "link": "https://yle.fi/a/74-20165052?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ähtärin eläinpuistoon saapui silmälasikarhu",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/kiina/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Silmälasikarhu Tao saapui Ähtärin eläinpuistoon",
-          "content": "Tänä kesänä eläinpuistoon muuttaa kolme silmälasikarhua tiloihin, jotka vapautuivat takaisin Kiinaan lähetetyiltä pandoilta.",
-          "date": "2025-05-31T10:37:59.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/silmalasikarhu-tao-saapui-ahtarin-elainpuistoon/11651474?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Eläimet | Ähtäri sai uuden asukkaan: silmälasikarhu Taon",
-          "content": "Tänä kesänä eläinpuistoon muuttaa kolme silmälasikarhua tiloihin, jotka vapautuivat takaisin Kiinaan lähetetyiltä pandoilta.",
-          "date": "2025-05-31T09:51:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011269711.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tässä on Ähtärin pandojen tiloihin muuttanut uusi asukas",
-          "content": "Tao muutti Ähtärin eläinpuistoon tiloihin, jotka vapautuivat takaisin Kiinaan lähetetyiltä pandoilta.",
-          "date": "2025-05-31T09:29:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011269836.html"
         }
       ]
     }
