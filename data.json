@@ -1,9 +1,134 @@
 {
-  "timestamp": "2025-06-02T15:18:16.018Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-06-02T15:42:29.843Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Ruotsin kuningaspari vierailee Hanasaaressa",
+      "mainCategories": [
+        "Kotimaa",
+        "Kuninkaalliset",
+        "Uusimaa"
+      ],
+      "imageUrl": "/images/stubb/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kuninkaalliset | Ruotsin kuninkaan ja Stubbin puheet keräsivät raikuvat aplodit Hanasaaressa",
+          "content": "Ruotsin kuningaspari osallistuu Hanasaaren kulttuurikeskuksen 50-vuotisjuhlaan.",
+          "date": "2025-06-02T15:39:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011271570.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Stubb Hanasaaren 50-vuotisjuhlassa: ”Kun ajattelen Pohjolaa, tunnen olevani turvassa”",
+          "content": "Kuningaspari osallistuu Hanasaaren ruotsalais-suomalaisen kulttuurikeskuksen 50-vuotisjuhlallisuuksiin.",
+          "date": "2025-06-02T08:44:05.000Z",
+          "categories": [
+            "kuninkaalliset",
+            "ruotsin kuningas kaarle xii",
+            "kuningatar silvia",
+            "ruotsin kuninkaalliset",
+            "hanasaaren kulttuurikeskus",
+            "hanasaari, espoo",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20164996?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ruotsin kuningaspari vierailee Suomessa",
+          "content": "Kuninkaalliset osallistuvat Hanasaaren kulttuurikeskuksen 50-vuotisjuhlaan. Kuningas ja presidentti Stubb pitävät puheet juhlassa.",
+          "date": "2025-06-02T02:46:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011271572.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Helsingin uusi pormestari Daniel Sazonov",
+      "mainCategories": [
+        "Politiikka",
+        "Helsinki",
+        "Pormestarit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tässä on Helsingin uusi pormestari",
+          "content": "Kaupunginvaltuusto on valinnut ensimmäisessä kokouksessaan Helsingin uudeksi pormestariksi Daniel Sazonovin (kok).  Kokoomuksen Daniel Sazonov on Helsingin uusi pormestari. Helsingin kaupunginvaltuusto valitsi Sazonovin maanantain kokouksessaan. Valtuuston kokous jatkuu vielä.",
+          "date": "2025-06-02T15:35:04.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/9b7fc178-57bd-4462-9d41-00f4bb6c9cd8"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tässä ovat Helsingin uudet pormestarit",
+          "content": "Daniel Sazonov (kok.) on odotetusti Helsingin uusi pormestari.",
+          "date": "2025-06-02T15:34:08.000Z",
+          "categories": [
+            "politiikka",
+            "helsinki",
+            "daniel sazonov",
+            "pormestarit",
+            "helsingin pormestari",
+            "kunnanvaltuustot",
+            "kaupunginvaltuustot",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20165364?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tuleva pormestari Daniel Sazonov kaipaa lisää elinvoimaa: ”Ydinkeskusta on Helsingin ja koko Suomen käyntikortti”",
+          "content": "Daniel Sazonov kaipaa elinvoimaa erityisesti pääkaupungin ytimeen, jota hän kuvailee koko Suomen käyntikortiksi. Yksi tapa on ottaa ”tehot irti” huoltotunneleista.",
+          "date": "2025-06-02T12:38:23.000Z",
+          "categories": [
+            "politiikka",
+            "helsinki",
+            "pormestarit",
+            "helsingin pormestari",
+            "daniel sazonov",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20164853?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Määräaikaisten työsopimusten säännöksiin muutoksia",
       "mainCategories": [
@@ -19,7 +144,7 @@
           "publisherUrl": "kauppalehti.fi",
           "title": "Työsopimuslain uudistus etenee: Tällaisia muutoksia määräaikaisuuksiin voi tulla",
           "content": "Työnantajille tulisi useita helpotuksia määräaikaisiin työsopimuksiin, takaisinottovelvollisuuteen sekä lomautusilmoitusaikaan, esittää kolmikantainen työryhmä mietinnössään.",
-          "date": "2025-06-02T15:15:00.000Z",
+          "date": "2025-06-02T15:35:00.000Z",
           "categories": [
             "politiikka"
           ],
@@ -73,14 +198,37 @@
       ]
     },
     {
-      "mainTitle": "Ukraina tuhosi Venäjän pommikoneita drooni-iskussa",
+      "mainTitle": "Ukrainan drooni-iskut aiheuttivat suuria tuhoja Venäjälle",
       "mainCategories": [
         "Ulkomaat",
         "Ukraina",
         "Droonit"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sotahistorioitsija: Ukraina haluaa liioitella drooni-iskujen tuhoja – maarintamalla tapahtuma ei näy mitenkään",
+          "content": "Yle pyysi sotahistorioitsija Lasse Laaksosta arvioimaan Ukrainan drooni-iskujen merkitystä. ",
+          "date": "2025-06-02T15:27:59.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ukrainan sota",
+            "ukraina",
+            "venäjä",
+            "lasse laaksonen",
+            "sotahistorioitsija",
+            "volodymyr zelenskyi",
+            "aseelliset konfliktit",
+            "droonit",
+            "pommikoneet",
+            "ukrainan asevoimat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20165336?origin=rss"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -104,16 +252,21 @@
           "link": "https://yle.fi/a/74-20165206?origin=rss"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Analyysi: Syyllisten etsintä alkoi Venäjällä heti",
-          "content": "Ukrainan täydellisyyttä hipova isku nostaa Venäjän vainoharhaisuuden uudelle tasolle, kirjoittaa Iltalehden ulkomaantoimittaja Mikael Shepelenko. Venäjän suuret ja enemmän tai vähemmän valtion ohjauksessa toimivat mediat eivät ole tehneet suurta numeroa operaatio Hämähäkinverkkona tunnetusta, poikkeuksellisen laajasta ja kekseliäästä drooni-iskusta. Venäläiset uutistoimistot sekä suuret sanoma- ja iltapäivälehdet uutisoivat aiheesta yksinomaan Venäjän puolustusministeriön tai aluejohtajien Telegram-kanavien tietojen perusteella.",
-          "date": "2025-06-02T12:39:46.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Tutkija pitää Ukrainan pommikoneiskuja valtavana onnistumisena ja arvioi Venäjän hautovan isoa kostoa",
+          "content": "",
+          "date": "2025-06-02T11:15:05.000Z",
           "categories": [
-            "ulkomaat"
+            "ukrainan sota",
+            "ukraina",
+            "venäjä",
+            "lennokit",
+            "maailma",
+            "uutiset"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/d34f0fae-1d9d-46d4-85b8-0c2bf174918c"
+          "link": "https://www.ts.fi/uutiset/6678944"
         },
         {
           "publisherId": "hs",
@@ -172,6 +325,18 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011271371.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ukrainan massiivinen isku aiheutti myrskyn Venäjällä: ”Venäjän Pearl Harbor”",
+          "content": "Ukraina iski tuhoisasti lentotukikohtiin Venäjällä.",
+          "date": "2025-06-02T02:55:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011271489.html"
         },
         {
           "publisherId": "is",
@@ -272,6 +437,23 @@
           "link": "https://yle.fi/a/74-20165133?origin=rss"
         },
         {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Ukraina kertoo tuhonneensa seitsemän miljardin arvosta venäläisiä pommikoneita iskussaan",
+          "content": "",
+          "date": "2025-06-01T13:09:07.000Z",
+          "categories": [
+            "ukrainan sota",
+            "ukraina",
+            "venäjä",
+            "sota",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6677999"
+        },
+        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -291,18 +473,6 @@
             "ilmavoimat"
           ],
           "link": "https://yle.fi/a/74-20165130?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjä kylvää kauhua uudella keinolla: ”Pahempaa kuin venäläisen ruletin pelaaminen”",
-          "content": "Ukrainalaisilla on kiire tehostaa omaa droonityötään suojellakseen jalkaväkeään.",
-          "date": "2025-06-01T06:30:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011268516.html"
         }
       ]
     },
@@ -413,7 +583,7 @@
       ]
     },
     {
-      "mainTitle": "Turun kirkosta löytyi keskiaikaisia hautoja",
+      "mainTitle": "Maarian kirkosta löytyi keskiaikaisia hautoja",
       "mainCategories": [
         "Turku",
         "Arkeologia",
@@ -496,7 +666,7 @@
         "Maailma",
         "Venäjä"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -538,7 +708,7 @@
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
-          "title": "Ukrainan ja Venäjän neuvottelut päättyivät Istanbulissa – \"Eivät päättyneet negatiivisesti\"",
+          "title": "Venäjän ja Ukrainan neuvottelut loppuivat lyhyeen – Ukrainan mukaan Venäjä hylkäsi ehdottoman aselevon",
           "content": "",
           "date": "2025-06-02T11:23:53.000Z",
           "categories": [
@@ -642,60 +812,6 @@
       ]
     },
     {
-      "mainTitle": "Ruotsin kuningaspari vierailee Hanasaaressa",
-      "mainCategories": [
-        "Kotimaa",
-        "Kuninkaalliset",
-        "Uusimaa"
-      ],
-      "imageUrl": "/images/stubb/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kuninkaalliset | Suora lähetys käynnissä: Ruotsin kuninkaan ja Stubbin puheet keräsivät raikuvat aplodit Hanasaaressa",
-          "content": "Ruotsin kuningaspari osallistuu Hanasaaren kulttuurikeskuksen 50-vuotisjuhlaan. HS näyttää IS:n suoraa lähetystä tapahtumasta.",
-          "date": "2025-06-02T15:00:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011271570.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Stubb Hanasaaren 50-vuotisjuhlassa: ”Kun ajattelen Pohjolaa, tunnen olevani turvassa”",
-          "content": "Kuningaspari osallistuu Hanasaaren ruotsalais-suomalaisen kulttuurikeskuksen 50-vuotisjuhlallisuuksiin.",
-          "date": "2025-06-02T08:44:05.000Z",
-          "categories": [
-            "kuninkaalliset",
-            "ruotsin kuningas kaarle xii",
-            "kuningatar silvia",
-            "ruotsin kuninkaalliset",
-            "hanasaaren kulttuurikeskus",
-            "hanasaari, espoo",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20164996?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ruotsin kuningaspari vierailee Suomessa",
-          "content": "Kuninkaalliset osallistuvat Hanasaaren kulttuurikeskuksen 50-vuotisjuhlaan. Kuningas ja presidentti Stubb pitävät puheet juhlassa.",
-          "date": "2025-06-02T02:46:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011271572.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "66-vuotias mies epäiltynä ampumatapauksesta Helsingissä",
       "mainCategories": [
         "Kotimaa",
@@ -762,110 +878,6 @@
       ]
     },
     {
-      "mainTitle": "Tuplatullit vaikuttavat teräsmarkkinoihin Yhdysvalloissa",
-      "mainCategories": [
-        "Maailma",
-        "Teräs"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Tuplatullit iskevät nyt teräsmarkkinoihin – Asiakkaat ostavat vain pakolliset, sanoo suomalaisyhtiö",
-          "content": "Yhdysvaltojen presidentti Donald Trumpin perjantainen lausunto terästullien kaksinkertaistamisesta 50 prosenttiin on aiheuttanut markkinoilla voimakkaita reaktioita. Mutta Outokumpu ja SSAB voivat hyötyvät paikallisesta tuotannostaan Yhdysvalloissa.",
-          "date": "2025-06-02T14:45:00.000Z",
-          "categories": [
-            "teräs"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/tuplatullit-iskevat-nyt-terasmarkkinoihin-asiakkaat-ostavat-vain-pakolliset-sanoo-suomalaisyhtio/7cfb980b-536c-4c32-98b5-91cc9f69107a"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Trump tuplaa teräksen ja alumiinin tuontitullit, EU valmis vastatoimiin",
-          "content": "Presidentin mukaan tullien kaksinkertaistaminen 50 prosenttiin turvaa maan teräs- ja alumiiniteollisuutta. Muutos tulee voimaan ensi viikolla.",
-          "date": "2025-05-31T15:29:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011269569.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yle vähentää henkilöstöään 40:llä",
-      "mainCategories": [
-        "Muutosneuvottelut",
-        "Talous",
-        "Yle"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Yle vähentää lähes 40 työntekijää – Irtisanomisia 14",
-          "content": "Alkuvuonna Yle kertoi muutosneuvottelujen jälkeen noin 300 työntekijän vähennyksestä.",
-          "date": "2025-06-02T14:34:12.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/yle-vahentaa-lahes-40-tyontekijaa-irtisanomisia-14/11654102?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Yle vähentää jälleen henkilöstöään",
-          "content": "",
-          "date": "2025-06-02T09:02:20.000Z",
-          "categories": [
-            "yle",
-            "muutosneuvottelut",
-            "talous",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6678742"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ylen muutosneuvottelut ohi – väki vähenee 40:llä",
-          "content": "Alun perin irtisanomistarpeeksi kerrottiin enimmillään 37 henkilöä.",
-          "date": "2025-06-02T08:15:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011272146.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ylen toiset muutosneuvottelut päätökseen: enintään 14 irtisanotaan",
-          "content": "Neuvottelujen jälkeen henkilöstömäärä vähenee lähes neljälläkymmenellä.",
-          "date": "2025-06-02T08:02:31.000Z",
-          "categories": [
-            "media",
-            "muutosneuvottelut",
-            "lomautukset ja irtisanomiset",
-            "talous",
-            "yritykset",
-            "yle",
-            "työelämä",
-            "irtisanominen",
-            "työntekijät",
-            "kulttuuri"
-          ],
-          "link": "https://yle.fi/a/74-20165210?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Etna-tulivuori purkautui, turistit pakenivat",
       "mainCategories": [
         "Ulkomaat",
@@ -921,7 +933,7 @@
       ]
     },
     {
-      "mainTitle": "Foodoran emoyhtiölle 330 miljoonan sakot",
+      "mainTitle": "Foodoran emoyhtiölle 330 miljoonan euron sakot",
       "mainCategories": [
         "Ruoka",
         "Ulkomaat",
@@ -969,13 +981,13 @@
       ]
     },
     {
-      "mainTitle": "Israel ja Hamas jatkavat taisteluja Gazassa",
+      "mainTitle": "Gazan taistelut jatkuvat aselevosta huolimatta",
       "mainCategories": [
         "Ulkomaat",
         "Hamas",
         "Palestiinalaisalueet"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1110,7 +1122,7 @@
         "Verotus",
         "Politiikka"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1196,7 +1208,7 @@
         "Iran",
         "Ydinaseet"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1229,13 +1241,13 @@
       ]
     },
     {
-      "mainTitle": "Kaksi miestä myi alkoholia väkivalloin",
+      "mainTitle": "Ylivieskassa alkoholin myyntirikos ja väkivalta",
       "mainCategories": [
         "Rikosepäilyt",
         "Poliisitutkinta",
         "Väkivalta"
       ],
-      "imageUrl": "/images/alkoholi/1.jpg",
+      "imageUrl": "/images/alkoholi/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1273,44 +1285,62 @@
       ]
     },
     {
-      "mainTitle": "Koulupuukotusvideosta tehty kaksi rikosilmoitusta",
+      "mainTitle": "Yle vähentää henkilöstöään lähes 40:llä",
       "mainCategories": [
-        "Rikosepäilyt",
-        "Rikosilmoitukset",
-        "Pirkkala"
+        "Muutosneuvottelut",
+        "Talous",
+        "Yle"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Yle vähentää jälleen henkilöstöään",
+          "content": "",
+          "date": "2025-06-02T09:02:20.000Z",
+          "categories": [
+            "yle",
+            "muutosneuvottelut",
+            "talous",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6678742"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Koulupuukotus­videon levittämisestä kirjattu toinenkin rikos­ilmoitus",
-          "content": "Pirkkalan koulupuukotuksesta kuvatun videon levittämisestä on kirjattu toinenkin rikosilmoitus.",
-          "date": "2025-06-02T09:32:00.000Z",
+          "title": "Ylen muutosneuvottelut ohi – väki vähenee 40:llä",
+          "content": "Alun perin irtisanomistarpeeksi kerrottiin enimmillään 37 henkilöä.",
+          "date": "2025-06-02T08:15:00.000Z",
           "categories": [
-            "tampereen seutu"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000011272436.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000011272146.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Pirkkalan koulupuukotusvideon levittämisestä uusi rikosilmoitus – videota levitettiin verkossa",
-          "content": "Puukotusvideon levittämisestä on kirjattu kaksi rikosilmoitusta. Väkivaltakuvauksen levittäminen on rikos, josta voi seurata sakkoa tai enintään kaksi vuotta vankeutta.",
-          "date": "2025-06-02T08:26:25.000Z",
+          "title": "Ylen toiset muutosneuvottelut päätökseen: enintään 14 irtisanotaan",
+          "content": "Neuvottelujen jälkeen henkilöstömäärä vähenee lähes neljälläkymmenellä.",
+          "date": "2025-06-02T08:02:31.000Z",
           "categories": [
-            "rikosepäilyt",
-            "rikosilmoitukset",
-            "pirkkala",
-            "puukotus",
-            "poliisi",
-            "koulut",
-            "kotimaa",
-            "pirkanmaa"
+            "media",
+            "muutosneuvottelut",
+            "lomautukset ja irtisanomiset",
+            "talous",
+            "yritykset",
+            "yle",
+            "työelämä",
+            "irtisanominen",
+            "työntekijät",
+            "kulttuuri"
           ],
-          "link": "https://yle.fi/a/74-20165232?origin=rss"
+          "link": "https://yle.fi/a/74-20165210?origin=rss"
         }
       ]
     },
@@ -1445,7 +1475,7 @@
         "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1510,69 +1540,13 @@
       ]
     },
     {
-      "mainTitle": "Varkaudessa useita tulipaloja tutkitaan",
-      "mainCategories": [
-        "Tulipalot",
-        "Kotimaa",
-        "Onnettomuudet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Auran urheilukentän huoltorakennuksessa syttyi tulipalo – poliisi tutkii syttymissyytä",
-          "content": "",
-          "date": "2025-06-02T04:44:15.000Z",
-          "categories": [
-            "tulipalot",
-            "aura",
-            "varsinais-suomen pelastuslaitos",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6678335"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi epäilee, että Varkaudessa liikkuu tuhopolttaja – tänä aamuna tuhoutui grillirakennus, roskakatos ja matkailuauto",
-          "content": "Poliisi epäilee tulipalojen olleen tahallaan sytytettyjä ja liittyvän toisiinsa.  Lisäksi poliisi tutkii noin kaksi viikkoa sitten tulipalossa tuhoutuneen rivitalon syttymissyytä.",
-          "date": "2025-06-02T03:24:58.000Z",
-          "categories": [
-            "onnettomuudet",
-            "varkaus",
-            "pohjois-savon pelastuslaitos",
-            "tulipalot",
-            "pohjois-savo",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165158?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Rivitalolla syttyi palo kahdesti yön aikana – poliisin epäilykset heräsivät",
-          "content": "Asiaa tutkitaan tuhotyönä.",
-          "date": "2025-06-01T08:39:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011270812.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Thunberg ja Cunningham purjehtivat Gazaan",
       "mainCategories": [
         "Ulkomaat",
         "Israel",
         "Palestiinalaisalueet"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1608,7 +1582,7 @@
       ]
     },
     {
-      "mainTitle": "Hampurissa sairaalapalo, kolme kuollut",
+      "mainTitle": "Hampurissa sairaalapalo, kolme kuoli",
       "mainCategories": [
         "Ulkomaat",
         "Rikosepäilyt"
@@ -1697,7 +1671,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1738,7 +1712,7 @@
       ]
     },
     {
-      "mainTitle": "Venäjällä siltojen romahdus, useita kuollut",
+      "mainTitle": "Kaksi siltaa romahti Venäjällä, kuolonuhreja.",
       "mainCategories": [
         "Maailma"
       ],
@@ -1765,37 +1739,6 @@
           "date": "2025-06-01T07:05:33.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/kaksi-siltaa-romahti-venajalla-useita-kuoli-tutkit/11652236?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Äiti ja taapero pelastautuivat autosta",
-      "mainCategories": [
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Äiti ja taapero hurjassa vaaratilanteessa taukopaikalla",
-          "content": "Auto oli ajautunut penkkaa alas jokeen, jonne oli arvion mukaan noin viiden metrin pudotus.",
-          "date": "2025-06-01T13:07:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011270869.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Äiti ja tytär joutuivat auton mukana veden varaan Tervolassa – \"Onni onnettomuudessa monessakin mielessä\"",
-          "content": "Henkilöauto valui veteen Tervolassa – poliisi ohjaa liikennettä Ossauskosken voimalaitoksella",
-          "date": "2025-06-01T09:24:39.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/aiti-ja-tytar-joutuivat-auton-mukana-veden-varaan/11652357?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -1901,12 +1844,12 @@
       ]
     },
     {
-      "mainTitle": "Trump peruutti miljardööriastronautin ehdokkuuden",
+      "mainTitle": "Trump peruutti miljardööri­astronautin ehdokkuuden Nasan johtajaksi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1974,7 +1917,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
