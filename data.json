@@ -1,11 +1,102 @@
 {
-  "timestamp": "2025-06-03T04:54:36.421Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-06-03T05:17:56.423Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Trump avaa Alaskan öljynporaukselle",
+      "mainTitle": "Trump avaa Alaskan öljynporauksen erämaata",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -39,99 +130,25 @@
       ]
     },
     {
-      "mainTitle": "Etelä-Koreassa presidentinvaalit käynnissä",
+      "mainTitle": "Ukrainan drooni-iskut aiheuttavat huolta Venäjällä",
       "mainCategories": [
+        "Maailma",
         "Ulkomaat",
-        "Vaalit"
+        "Ukraina"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Etelä-Korean pakettilähetit saavat harvinaisen tauon äänestääkseen presidentinvaaleissa",
-          "content": "",
-          "date": "2025-06-03T04:04:04.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "etelä-korea",
-            "etelä-korean presidentti",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165394?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eteläkorealaiset äänestävät ennenaikaisissa presidentinvaaleissa",
-          "content": "",
-          "date": "2025-06-02T22:26:04.000Z",
-          "categories": [
-            "vaalit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165383?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Maanjäristys ravisteli Kreikkaa ja Turkkia",
-      "mainCategories": [
-        "Ulkomaat",
-        "Onnettomuudet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Maanjäristys iski Kreikkaan",
-          "content": "Järistys tuntui Rodoksen saarella ja Turkissa. Kreikan Dodekanesian saaria ravisteli tiistain vastaisena yönä maanjäristys. Järistys oli voimakkuudeltaan 5,8 magnitudia, kertoo Välimeren seismologinen keskus EMSC. Dodekanesian saariryhmään kuuluvat suositut lomakohteet Rodos ja Kos. Iltalehden lukijoilta saamien yhteydenottojen perusteella järistys tuntui ainakin Rodoksen saarella ja Marmariksen lomakohteessa Turkissa.",
-          "date": "2025-06-03T03:34:26.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asiantuntijalta suora näkemys Ukrainan poikkeuksellisesta iskusta Venäjälle: ”Eniten yli viivan”",
+          "content": "Ukrainan poikkeukselliset iskut lentotukikohtiin antavat doktriinin mukaan Venäjälle perusteen käyttää ydinaseita. Tutkijat kertovat, onko pahin mahdollinen uhkakuva vaarassa toteutua.",
+          "date": "2025-06-03T02:55:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/6704d7cd-7093-4cad-ae45-372f2e5f3ca5"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Maa järisi Marmariksen lomakaupungissa Turkissa",
-          "content": "Järistys tuntui myös muun muassa Kreikan Rodoksen saarella.",
-          "date": "2025-06-02T23:40:28.000Z",
-          "categories": [
-            "onnettomuudet",
-            "dodekanesian saaret",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165385?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainan drooni-iskut aiheuttivat suuria tuhoja Venäjälle",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ukraina",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/ukraina/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Näin Ukrainan megaisku voi vaikuttaa Suomeen",
-          "content": "Iltalehden sota-asiantuntijan mukaan Venäjällä on Suomen lähialueilla paljon kohteita, joihin Ukraina voisi iskeä. Ukrainan sunnuntaina toteuttama droonioperaatio yllätti Kremlin täysin ja oli presidentti Vladimir Putinin asevoimille kiistatta nöyryyttävä tappio. Venäläisten propagandistien joukossa sitä on kuvailtu jopa Venäjän huonoimmaksi päiväksi sitten 22. kesäkuuta 1941, jolloin Saksa aloitti operaatio Barbarossan ja hyökkäyksensä Neuvostoliittoon toisessa maailmansodassa.",
-          "date": "2025-06-03T02:38:16.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/a082d239-f8d3-4a17-8cf9-bba75447088e"
+          "link": "https://www.is.fi/ulkomaat/art-2000011271773.html"
         },
         {
           "publisherId": "is",
@@ -144,75 +161,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011226378.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Video venäläisistä kuorma-auton katolla leviää",
-          "content": "Ukraina teki jättimäisen iskun, video venäläisistä kuorma-auton katolla leviää.",
-          "date": "2025-06-02T19:18:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011272940.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Analyysi: Ukraina iski Venäjää sinne, minne se todella sattuu – Tätä se tarkoittaa sodan jatkon kannalta",
-          "content": "Ukrainan operaatio osoittaa, miten Venäjällä oli ammottavia aukkoja arvokkaimman lentokalustonsa suojauksessa. Nyt venäläisillä on käsissään lukuisia ongelmia, kirjoittaa Iltalehden sota-asiantuntija Emil Kastehelmi. Päivämäärä 1.6.2025 jäänee Venäjän sotilasilmailun historiaan mustana päivänä. Ukraina toteutti menestyksekkäästi Operaatio Hämähäkinverkoksi kutsumansa droonihyökkäyksen. Uutiset ympäri maailmaa täyttyivät videoista, joissa Ukrainan droonit moukaroivat Venäjän arvokkaimpia ja erittäin vaikeasti korvattavia strategisia pommikoneita.",
-          "date": "2025-06-02T17:36:54.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/e5a887bd-f6ed-4ca7-969c-5d4a312f5397"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sotahistorioitsija: Ukraina haluaa liioitella drooni-iskujen tuhoja – maarintamalla tapahtuma ei näy mitenkään",
-          "content": "Yle pyysi sotahistorioitsija Lasse Laaksosta arvioimaan Ukrainan drooni-iskujen merkitystä. ",
-          "date": "2025-06-02T15:27:59.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukrainan sota",
-            "ukraina",
-            "venäjä",
-            "lasse laaksonen",
-            "sotahistorioitsija",
-            "volodymyr zelenskyi",
-            "aseelliset konfliktit",
-            "droonit",
-            "pommikoneet",
-            "ukrainan asevoimat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165336?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yle paikansi videon: Ukraina tuhosi pommikoneita aivan Suomen lähellä",
-          "content": "Ukraina tuhosi yli sadalla droonilla toistakymmentä Venäjän asevoimien pommikonetta ja aiheutti miljardien tuhot.",
-          "date": "2025-06-02T15:14:28.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "droonit",
-            "ukraina",
-            "venäjä",
-            "ukrainan asevoimat",
-            "pommikoneet",
-            "ukrainan sota",
-            "venäjän asevoimat",
-            "olenjan lentotukikohta",
-            "ulkomaat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165206?origin=rss"
         },
         {
           "publisherId": "ts",
@@ -242,85 +190,15 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011271639.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tämä video näyttää, miten Ukraina väitetysti epäonnistui drooni-iskussa Venäjän Kaukoidässä",
-          "content": "Vahvistamattomilla videoilla näkyy, kuinka Ukrainan drooneja kuljettava perävaunu räjähtää. Ukraina kertoo tuhonneensa laajassa drooni-iskussa 13 venäläistä konetta.",
-          "date": "2025-06-02T09:43:13.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "venäjä",
-            "sotilaslentokentät",
-            "pommikoneet",
-            "droonit",
-            "sotilastukikohdat",
-            "ukrainan sota",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165207?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tämä tiedetään Ukrainan drooni-iskuista: salainen palvelu suunnitteli operaatiota puolitoista vuotta",
-          "content": "Droonilaatikot kuljetettiin Venäjän lentotukikohtien lähelle kuorma-autoilla, puulaatikoissa. ",
-          "date": "2025-06-02T09:29:47.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "yle uutiset somenostot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165203?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ukrainalta kova väite drooni-iskujen tuhoista – tämä tiedetään kohteista",
-          "content": "Ukraina onnistui iskuissaan Olenjan ja Belajan lentotukikohtiin.",
-          "date": "2025-06-02T07:19:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271371.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ukrainan massiivinen isku aiheutti myrskyn Venäjällä: ”Venäjän Pearl Harbor”",
-          "content": "Ukraina iski tuhoisasti lentotukikohtiin Venäjällä.",
-          "date": "2025-06-02T02:55:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271489.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Zelenskyi kommentoi Ukrainan massiivisia drooni-iskuja",
-          "content": "Zelenskyin mukaan iskussa tuhottiin 34 prosenttia Venäjän strategisista pommikoneista, jotka voivat kuljettaa risteilyohjuksia.",
-          "date": "2025-06-01T21:10:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271535.html"
         }
       ]
     },
     {
-      "mainTitle": "Venäjä vaatii Ukrainalta alueita tulitauolle",
+      "mainTitle": "Venäjä asettaa ehtoja Ukrainan tulitauolle",
       "mainCategories": [
         "Maailma",
-        "Rauhanneuvottelut",
-        "Ukraina"
+        "Ulkomaat",
+        "Rauhanneuvottelut"
       ],
       "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
@@ -335,6 +213,18 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011274212.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Venäjä esitti neuvotteluissa kaksi vaihtoehtoa Ukrainalle",
+          "content": "Venäjä ja Ukraina neuvottelivat maanantaina Istanbulissa toista kertaa yli kolmen vuoden tauon jälkeen.",
+          "date": "2025-06-02T20:30:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011274085.html"
         },
         {
           "publisherId": "ts",
@@ -353,6 +243,18 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6678942"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näillä keinoin Venäjä pantaisiin polvilleen – tutkija nostaa esille yhden kriittisen asian",
+          "content": "Ulkopoliittisen instituutin Sinikukka Saari ei näe pikaista ratkaisua Ukrainan sodan neuvotteluille.",
+          "date": "2025-06-02T04:05:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011267011.html"
         },
         {
           "publisherId": "hs",
@@ -381,11 +283,10 @@
       ]
     },
     {
-      "mainTitle": "Chiquita irtisanoo työntekijät Panamassa",
+      "mainTitle": "Chiquita irtisanoo lakkoilevat työntekijät Panamassa",
       "mainCategories": [
-        "Yritykset",
-        "Ulkomaat",
-        "Talous"
+        "Talous",
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -412,31 +313,16 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011274205.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Banaanijätti Chiquita aikoo irtisanoa kaikki työntekijänsä Panamassa",
-          "content": "",
-          "date": "2025-06-03T01:21:49.000Z",
-          "categories": [
-            "yritykset",
-            "chiquita brands international inc.",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165387?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Yhdysvallat ja Iran neuvottelevat ydinsopimuksesta",
+      "mainTitle": "Trump: Yhdysvallat ehdottaa ydinsopimusta Iranille",
       "mainCategories": [
-        "Ulkomaat",
-        "Iaea",
-        "Iran"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -461,59 +347,16 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011274199.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump: Ydinsopimus Iranin kanssa ei sallisi uraanin rikastamista",
-          "content": "Mediatietojen mukaan Yhdysvallat on tarjonnut Iranille mahdollisuutta rikastaa osan uraanista ennalta määritellyn ajan. ",
-          "date": "2025-06-03T01:27:11.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "iaea",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165388?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iran vaatii Yhdysvalloilta takeita pakotteista luopumisesta",
-          "content": "Iran penäsi maanantaina Yhdysvalloilta takeita siitä, että maan vastaisista pakotteista luovuttaisiin ydinsopimukseen pääsemiseksi.",
-          "date": "2025-06-02T12:07:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011273216.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iran vaati Yhdysvalloilta todisteita pakotteiden poistamisesta vastineeksi ydinohjelmaneuvottelujen jatkamiselle",
-          "content": "",
-          "date": "2025-06-02T08:40:33.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "iran",
-            "ydinaseet",
-            "iaea",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165241?origin=rss"
         }
       ]
     },
     {
       "mainTitle": "Coloradon polttopullohyökkäys mielenosoituksessa",
       "mainCategories": [
-        "Ulkomaat",
         "Maailma",
-        "Yhdysvallat"
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -552,19 +395,6 @@
           "link": "https://www.hs.fi/maailma/art-2000011274193.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Coloradon polttopullohyökkäyksestä epäiltyä syytetään viharikoksesta",
-          "content": "Ainakin 12 ihmistä loukkaantui, kun hyökkääjä heitti palopommeja väkijoukkoon.",
-          "date": "2025-06-02T22:50:07.000Z",
-          "categories": [
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165384?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -579,54 +409,12 @@
       ]
     },
     {
-      "mainTitle": "Ilmailualan työnseisaus uhkaa lentoliikennettä",
-      "mainCategories": [
-        "Kotimaa",
-        "Työmarkkinat",
-        "Liikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ilmailualan Unioni ilmoitti jälleen uudesta työnseisauksesta, kertoo sovittelija",
-          "content": "",
-          "date": "2025-06-03T00:42:37.000Z",
-          "categories": [
-            "työmarkkinat",
-            "ilmailualan liitto (iau)",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165386?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lentoliikenteen palveluja koskeva työriidan sovittelu jatkuu perjantaina",
-          "content": "",
-          "date": "2025-06-02T13:39:35.000Z",
-          "categories": [
-            "liikenne",
-            "lentoliikenne",
-            "ilmailualan liitto (iau)",
-            "työriidat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165332?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Britannia vahvistaa puolustustaan Venäjän uhkaa vastaan",
       "mainCategories": [
         "Ulkomaat",
-        "Britannia",
-        "Analyysi"
+        "Maailma"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -663,49 +451,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011272709.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Britannia haluaa johtaa Euroopan puolustusta hurjalla aseistus­suunnitelmallaan",
-          "content": "Pääministeri Keir Starmer maalaa aseostojen tarvetta Venäjän-uhan takia briteille, jotka pelkäävät menojen kasvua elinkustannus­kriisissä, kirjoittaa kirjeenvaihtaja Kirsi Crowley.",
-          "date": "2025-06-02T16:19:10.000Z",
-          "categories": [
-            "britannia",
-            "analyysi",
-            "asevarustelu",
-            "ydinaseet",
-            "venäjä",
-            "venäjän hyökkäys",
-            "nato",
-            "nato-yhteistyö",
-            "mark rutte",
-            "puolustusmenot",
-            "ukrainan kriisi 2022",
-            "ukrainan sota",
-            "venäjän hyökkäys ukrainaan 2022",
-            "verkkohyökkäykset",
-            "kirsi crowley",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165318?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Starmer: Britannia ei voi jättää Venäjän uhkaa huomiotta",
-          "content": "",
-          "date": "2025-06-02T07:44:46.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "keir starmer",
-            "konservatiivipuolue (britannia)",
-            "puolustuspolitiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165217?origin=rss"
         }
       ]
     },
@@ -744,43 +489,6 @@
       ]
     },
     {
-      "mainTitle": "Tusk mittauttaa hallituksensa luottamuksen Puolassa",
-      "mainCategories": [
-        "Vaalit",
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Puolan Tusk aikoo mittauttaa hallituksensa luottamuksen",
-          "content": "",
-          "date": "2025-06-02T21:57:40.000Z",
-          "categories": [
-            "vaalit",
-            "donald tusk",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165382?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puola | Pääministeri Tusk mittauttaa hallituksensa luottamuksen parlamentin äänestyksessä",
-          "content": "Esitys on reaktio presidentinvaalien tulokseen ja konservatiivien vaatimukseen virkamieshallituksesta.",
-          "date": "2025-06-02T20:51:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011274155.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Meksikon vaaleissa valittiin 900 tuomaria",
       "mainCategories": [
         "Maailma",
@@ -815,126 +523,10 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan ja Venäjän neuvottelut Istanbulissa päättyivät tuloksetta",
+      "mainTitle": "Etna-tulivuoren purkaus aiheutti paniikkia",
       "mainCategories": [
         "Ulkomaat",
-        "Ukraina",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Venäjä esitti neuvotteluissa kaksi vaihtoehtoa Ukrainalle",
-          "content": "Venäjä ja Ukraina neuvottelivat maanantaina Istanbulissa toista kertaa yli kolmen vuoden tauon jälkeen.",
-          "date": "2025-06-02T20:30:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011274085.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tämä Ukrainan ja Venäjän neuvotteluista jäi käteen",
-          "content": "Ukrainan ja Venäjän delegaatiot tapasivat toista kertaa tänä keväänä Turkin Istanbulissa. Ukrainan ja Venäjän toisen kierroksen neuvottelut päättyivät maanantain Turkin Istanbulissa jälleen ilman lupausta ehdottomasta tulitauosta. Alle puolitoista tuntia kestäneiden neuvotteluiden tärkein anti oli jälleen molempien osapuolten sitoutuminen vankienvaihtoon, joka koskettaa Ukrainan puolustusministeri Rustem Umerovin mukaan koskettaa vakavasti haavoittuneita ja alle 25-vuotiaita henkilöitä.",
-          "date": "2025-06-02T18:46:58.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/910836f9-a5db-4c7b-8b23-8c26db0b4a49"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tutkija rauhanneuvotteluista: Venäjä ei halua rauhaa",
-          "content": "Ulkopoliittisen instituutin vanhemman tutkijan Jussi Lassilan mukaan Istanbulissa käydyt rauhanneuvottelut ovat Venäjältä ajanpeluuta ja se on vain neuvottelevinaan rauhasta.",
-          "date": "2025-06-02T16:38:45.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "venäjä",
-            "rauhanneuvottelut",
-            "turkki",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165355?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Venäjän ja Ukrainan neuvottelut loppuivat lyhyeen – Ukrainan mukaan Venäjä hylkäsi ehdottoman aselevon",
-          "content": "Ukrainan ja Venäjän väliset neuvottelut Turkin Istanbulissa ovat päättyneet, kertoo Turkin ulkoministeriön edustaja Öncü Keceli. Hän luonnehti runsaan tunnin kestäneiden neuvottelujen antia toteamalla, etteivät neuvottelut päättyneet negatiivisesti.",
-          "date": "2025-06-02T14:42:04.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/venajan-ja-ukrainan-neuvottelut-loppuivat-lyhyeen/11653681?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjän ja Ukrainan neuvottelut alkoivat – Turkki korosti USA:n roolia",
-          "content": "Venäjän on tarkoitus esitellä neuvotteluissa ehtonsa rauhalle. Ukraina kertoo olevansa valmis suuriin askeliin kohti rauhaa.",
-          "date": "2025-06-02T12:28:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011273323.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asiantuntija: Venäjä menetti ehkä vain noin kymmenen pommi­konetta Ukrainan iskussa",
-          "content": "Ukrainan ja Venäjän on tarkoitus neuvotella tänään rauhasta Istanbulissa. Asiantuntijat eivät usko, että neuvottelut johtavat suurempiin lopputuloksiin.",
-          "date": "2025-06-02T07:43:35.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "ukraina",
-            "rauhanneuvottelut",
-            "droonit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165179?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Neuvottelut jatkuvat – Venäjä aikoo esitellä muistion rauhan­ehdoistaan",
-          "content": "Venäjän ja Ukrainan valtuuskunnat tapasivat viime kuussa Istanbulissa ensimmäisissä suorissa neuvotteluissa yli kolmeen vuoteen.",
-          "date": "2025-06-02T07:33:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271990.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näillä keinoin Venäjä pantaisiin polvilleen – tutkija nostaa esille yhden kriittisen asian",
-          "content": "Ulkopoliittisen instituutin Sinikukka Saari ei näe pikaista ratkaisua Ukrainan sodan neuvotteluille.",
-          "date": "2025-06-02T04:05:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011267011.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Etna-tulivuoren purkaus herättää huolta Sisiliassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Luonto",
-        "Tulivuoret"
+        "Maailma"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -951,26 +543,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011273501.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Katso, kuinka tulivuori Etna sylkee laavaa taivaan täydeltä",
-          "content": "Euroopan suurin yhä aktiivinen tulivuori muuttui laavasuihku­lähteeksi.",
-          "date": "2025-06-02T14:29:14.000Z",
-          "categories": [
-            "luonto",
-            "tulivuoret",
-            "sisilia",
-            "italia",
-            "catania",
-            "etna-tulivuori",
-            "seismologia",
-            "tulivuorenpurkaukset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165325?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -981,52 +553,23 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011273500.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tampereen pormestariäänestys päättyi erikoisesti",
-      "mainCategories": [
-        "Kunnat",
-        "Pormestarit",
-        "Tampere"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Yle: Ilmari Nurmisen pormestari­äänestyksestä tuli erikoinen näytelmä",
-          "content": "Perussuomalaisten Joakim Vigelius pahoitteli Ylen mukaan sekaannusta Tampereen pormestariäänestyksessä.",
-          "date": "2025-06-02T18:26:00.000Z",
+          "title": "Tulivuori purkautui Italiassa – hätääntyneet turistit pakenevat",
+          "content": "Vulkaaninen järistys on saavuttanut erittäin korkeat arvot ja infraääniaktiivisuus on korkealla.",
+          "date": "2025-06-02T11:43:00.000Z",
           "categories": [
-            "politiikka"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011274021.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pormestarin valinnasta tuli teatteria Tampereella: PS:n vaatima äänestys piti uusia, koska yksi lippu revittiin",
-          "content": "Ilmari Nurminen (sd.) valittiin Tampereen pormestariksi ja entinen pormestari Kalervo Kummola (kok.) valtuuston johtoon.",
-          "date": "2025-06-02T15:56:03.000Z",
-          "categories": [
-            "kunnat",
-            "pormestarit",
-            "tampere",
-            "kuntapolitiikka",
-            "ilmari nurminen",
-            "pirkanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165337?origin=rss"
+          "link": "https://www.is.fi/ulkomaat/art-2000011272847.html"
         }
       ]
     },
     {
-      "mainTitle": "Orpon hallitus jakautunut Palestiina-kysymyksessä",
+      "mainTitle": "Orpon hallituksen Palestiina-linja herättää ristiriitoja",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1097,11 +640,10 @@
     {
       "mainTitle": "Stubb ja Innes-Stubb suojelijoina Helsinki Pride -viikolla",
       "mainCategories": [
-        "Kotimaa",
-        "Vähemmistöt",
-        "Uusimaa"
+        "Politiikka",
+        "Kotimaa"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/stubb/2.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -1116,48 +658,38 @@
           "link": "https://www.iltalehti.fi/kotimaa/a/e5937b57-a404-4755-aeb3-3e5b4a56a1c9"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Alexander Stubb ja Suzanne Innes-Stubb ovat Helsinki Pride -viikon suojelijoita tänä vuonna",
-          "content": "Pride-viikko järjestetään 23.–29.6. ja se huipentuu Pride-kulkueeseen lauantaina 28.6.",
-          "date": "2025-06-02T14:09:02.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pride-kulkue | Stubb on ensimmäinen istuva presidentti, joka suojelee Pridea",
+          "content": "Pride-viikkoa vietetään seksuaali- ja sukupuolivähemmistöjen tukemiseksi ja oikeuksien puolustamiseksi.",
+          "date": "2025-06-02T12:56:00.000Z",
           "categories": [
-            "tasa-arvo",
-            "helsinki pride",
-            "vähemmistöt",
-            "kotimaa",
-            "uusimaa"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20165343?origin=rss"
+          "link": "https://www.hs.fi/politiikka/art-2000011272937.html"
         }
       ]
     },
     {
-      "mainTitle": "Ruotsin kuningaspari vierailee Suomessa",
+      "mainTitle": "Ruotsin kuningaspari juhli Hanasaaressa",
       "mainCategories": [
-        "Kotimaa",
-        "Kuninkaalliset"
+        "Politiikka",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuvakooste: Kuningatar Silvia käytti kävelykeppiä Helsingin-vierailullaan",
-          "content": "Ruotsin kuningas Kaarle XVI Kustaa ja kuningatar Silvia vierailivat maanantaina Suomessa. ",
-          "date": "2025-06-02T16:55:41.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kuninkaalliset | Ruotsin kuninkaan ja Stubbin puheet keräsivät raikuvat aplodit Hanasaaressa",
+          "content": "Ruotsin kuningaspari osallistui Hanasaaren kulttuurikeskuksen 50-vuotisjuhlaan.",
+          "date": "2025-06-02T16:09:00.000Z",
           "categories": [
-            "kuninkaalliset",
-            "ruotsin kuninkaalliset",
-            "kansainvälinen politiikka",
-            "alexander stubb",
-            "kaarle xvi kustaa",
-            "kuningatar silvia",
-            "kotimaa"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20165216?origin=rss"
+          "link": "https://www.hs.fi/politiikka/art-2000011271570.html"
         },
         {
           "publisherId": "is",
@@ -1170,70 +702,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011271572.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Väkivaltaiset tapahtumat Varkaudessa ja Helsingissä",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Varkaus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nainen kuoli puukotuksen uhrina Varkaudessa – poliisi otti kiinni miehen, joka soitti hätäkeskukseen",
-          "content": "Poliisi epäilee miestä taposta.",
-          "date": "2025-06-02T16:37:50.000Z",
-          "categories": [
-            "poliisi",
-            "varkaus",
-            "väkivaltarikokset",
-            "henkirikokset",
-            "pohjois-savo",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165370?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi tutkii henki­rikosta Varkaudessa – hirveä tilanne asunnossa",
-          "content": "Asunnossa ollut mies soitti hätäkeskukseen. Poliisi epäilee häntä naisen taposta.",
-          "date": "2025-06-02T16:34:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011273903.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ratikkapysäkillä nukkunut mies sytytettiin tuleen Helsingin ydin­keskustassa – murhaaja­nainen pääsee vapaaksi",
-          "content": "Nainen ja kaksi miestä sytyttivät ratikkapysäkillä nukkumassa olleen miehen tuleen.",
-          "date": "2025-06-02T10:22:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011272321.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Vakava turma Turussa – nainen kuoli",
-          "content": "Pakettiauton kuljettajaa epäillään törkeästä liikenneturvallisuuden vaarantamisesta ja kuolemantuottamuksesta.",
-          "date": "2025-06-01T12:05:00.000Z",
-          "categories": [
-            "turun seutu"
-          ],
-          "link": "https://www.is.fi/turun-seutu/art-2000011271020.html"
         }
       ]
     },
@@ -1271,60 +739,11 @@
       ]
     },
     {
-      "mainTitle": "Helsingin uusi pormestari Daniel Sazonov",
-      "mainCategories": [
-        "Politiikka",
-        "Helsinki",
-        "Pormestarit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tässä ovat Helsingin uudet pormestarit",
-          "content": "Daniel Sazonov (kok.) on odotetusti Helsingin uusi pormestari. Eveliina Heinäluoma (sd.) valittiin kaupunginvaltuuston puheenjohtajaksi.",
-          "date": "2025-06-02T15:34:08.000Z",
-          "categories": [
-            "politiikka",
-            "helsinki",
-            "daniel sazonov",
-            "pormestarit",
-            "helsingin pormestari",
-            "kunnanvaltuustot",
-            "kaupunginvaltuustot",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165364?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tuleva pormestari Daniel Sazonov kaipaa lisää elinvoimaa: ”Ydinkeskusta on Helsingin ja koko Suomen käyntikortti”",
-          "content": "Daniel Sazonov kaipaa elinvoimaa erityisesti pääkaupungin ytimeen, jota hän kuvailee koko Suomen käyntikortiksi. Yksi tapa on ottaa ”tehot irti” huoltotunneleista.",
-          "date": "2025-06-02T12:38:23.000Z",
-          "categories": [
-            "politiikka",
-            "helsinki",
-            "pormestarit",
-            "helsingin pormestari",
-            "daniel sazonov",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20164853?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Finnair peruu yli sata lentoa",
+      "mainTitle": "Finnair peruu satoja lentoja työtaistelun vuoksi",
       "mainCategories": [
         "Talous",
         "Taloussanomat",
-        "Liikenne"
+        "Lakot"
       ],
       "imageUrl": "/images/finnair/1.jpg",
       "relatedNews": [
@@ -1370,36 +789,6 @@
           "link": "https://www.hs.fi/talous/art-2000011272150.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair peruu keskiviikolta yli sata lentoa",
-          "content": "Lentojen peruutusten arvioidaan vaikuttavan noin 11 000 asiakkaaseen.",
-          "date": "2025-06-02T08:15:05.000Z",
-          "categories": [
-            "liikenne",
-            "lentoliikenne",
-            "finnair",
-            "työtaistelut",
-            "ilmailualan liitto (iau)",
-            "työmarkkinapolitiikka",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165230?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Finnair peruu keskiviikolta noin 110 lentoa",
-          "content": "Peruutusten arvioidaan vaikuttavan noin 11 000 asiakkaaseen.",
-          "date": "2025-06-02T08:10:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011272127.html"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1414,13 +803,44 @@
       ]
     },
     {
-      "mainTitle": "Yle vähentää henkilöstöään lähes 40.",
+      "mainTitle": "Venäjän ja Ukrainan neuvottelut päättyivät ilman tulosta",
       "mainCategories": [
-        "Muutosneuvottelut",
-        "Talous",
-        "Yle"
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Venäjän ja Ukrainan neuvottelut loppuivat lyhyeen – Ukrainan mukaan Venäjä hylkäsi ehdottoman aselevon",
+          "content": "Ukrainan ja Venäjän väliset neuvottelut Turkin Istanbulissa ovat päättyneet, kertoo Turkin ulkoministeriön edustaja Öncü Keceli. Hän luonnehti runsaan tunnin kestäneiden neuvottelujen antia toteamalla, etteivät neuvottelut päättyneet negatiivisesti.",
+          "date": "2025-06-02T14:42:04.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/venajan-ja-ukrainan-neuvottelut-loppuivat-lyhyeen/11653681?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjän ja Ukrainan neuvottelut alkoivat – Turkki korosti USA:n roolia",
+          "content": "Venäjän on tarkoitus esitellä neuvotteluissa ehtonsa rauhalle. Ukraina kertoo olevansa valmis suuriin askeliin kohti rauhaa.",
+          "date": "2025-06-02T12:28:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011273323.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yle vähentää henkilöstöään 40:llä",
+      "mainCategories": [
+        "Taloussanomat",
+        "Yle",
+        "Muutosneuvottelut"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1459,134 +879,28 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011272146.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ylen toiset muutosneuvottelut päätökseen: enintään 14 irtisanotaan",
-          "content": "Neuvottelujen jälkeen henkilöstömäärä vähenee lähes neljälläkymmenellä.",
-          "date": "2025-06-02T08:02:31.000Z",
-          "categories": [
-            "media",
-            "muutosneuvottelut",
-            "lomautukset ja irtisanomiset",
-            "talous",
-            "yritykset",
-            "yle",
-            "työelämä",
-            "irtisanominen",
-            "työntekijät",
-            "kulttuuri"
-          ],
-          "link": "https://yle.fi/a/74-20165210?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Hallituksen esitys määräaikaisista työsopimuksista",
-      "mainCategories": [
-        "Politiikka",
-        "Työelämä",
-        "Työntekijät"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hallitus sallii määräaikaiset työt ilman perusteluja – sekä työnantajat että työntekijät tyytymättömiä",
-          "content": "Hallitus esittää määräaikaisten työsopimusten tekemisen helpottamista. Samalla lomautusilmoitusaika lyhenisi viikkoon.",
-          "date": "2025-06-02T12:39:59.000Z",
-          "categories": [
-            "työelämä",
-            "työntekijät",
-            "työllisyys",
-            "politiikka",
-            "työnantajajärjestöt",
-            "lainsäädäntö",
-            "työnantajat",
-            "palkansaajajärjestöt ja ammattiliitot",
-            "työsuhde",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20165285?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työmarkkinat | Hallitus poistamassa velvoitteen perustella määrä­aikainen työsuhde",
-          "content": "Velvoitteen poistaminen koskee ensimmäistä työsopimusta. Työmarkkinajärjestöt ovat esityksestä jyrkästi erimielisiä.",
-          "date": "2025-06-02T10:25:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011272334.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "VATT: Veronalennukset voivat johtaa leikkauksiin",
+      "mainTitle": "Foodoran emoyhtiö sai jättisakot EU:lta",
       "mainCategories": [
         "Talous",
-        "Verotus",
-        "Politiikka"
-      ],
-      "imageUrl": "/images/talous/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Suhdannepolitiikka | VATT: Hallituksen veron­alennukset voivat johtaa uusiin leikkauksiin",
-          "content": "Veronalennukset eivät tule maksamaan itseään takaisin, koska kyse on pysyvästä verotulojen pudotuksesta, arvioi VATT.",
-          "date": "2025-06-02T12:38:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011272936.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "VATT: Veronalennukset uhkaavat johtaa entistä suurempaan säästötarpeeseen",
-          "content": "Hallitus päätti keväällä useista veronalennuksista. Valtion taloudellisen tutkimuskeskuksen mukaan nyt ei kuitenkaan tarvita toimia, jotka piristäisivät taloutta. ",
-          "date": "2025-06-02T04:36:18.000Z",
-          "categories": [
-            "verotus",
-            "politiikka",
-            "talous",
-            "hallituksen talouspolitiikka",
-            "veronalennukset"
-          ],
-          "link": "https://yle.fi/a/74-20165171?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Foodoran emoyhtiölle 330 miljoonan sakot",
-      "mainCategories": [
-        "Ruoka",
-        "Ulkomaat",
         "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Foodoran emoyhtiölle jättisakot EU:lta",
-          "content": "330 miljoonan euron sakkojen syynä on kilpailulainsäädännön rikkominen. ",
-          "date": "2025-06-02T12:36:29.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kilpailuoikeus | Foodoran emoyhtiö sai EU:lta jättisakot",
+          "content": "Delivery Hero ja sen tytäryhtiö Glovo olivat sopineet muun muassa rekrytointirajoituksista ja maantieteellisistä markkinoista.",
+          "date": "2025-06-02T12:38:00.000Z",
           "categories": [
-            "ruoka",
-            "ulkomaat"
+            "talous"
           ],
-          "link": "https://yle.fi/a/74-20165315?origin=rss"
+          "link": "https://www.hs.fi/talous/art-2000011273161.html"
         },
         {
           "publisherId": "is",
@@ -1599,94 +913,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011273309.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Verkkopankkihuijaukset kasvavat Suomessa nopeasti",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Verkkourkinta"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Huijarit vievät suomalaisilta miljoonia, mutta pankit kiistävät laiminlyönnit – ”Paljon tapahtuu pinnan alla”",
-          "content": "Pankkiasiointi  ampaisee syksyllä turbovaihteelle: tilisiirto tapahtuu 10 sekunnissa. Samalla konnat keksivät uusia huijauksia. SP:n Marja Nykänen vaatii pankeilta enemmän tekoja.",
-          "date": "2025-06-02T12:27:46.000Z",
-          "categories": [
-            "kotitaloudet",
-            "pankit",
-            "huijaus",
-            "maksukortit",
-            "talous",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20163606?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jo kymmenet haksahtaneet uusimpaan verkkopankki­huijaukseen – näin se toimii",
-          "content": "Kolmivaiheisen huijauksen ensimmäisessä vaiheessa uhrille soitetaan automaatti­puhelu, jossa kerrotaan asiattomasta maksu­liikenteestä uhrin verkkopankissa.  ",
-          "date": "2025-06-02T11:03:54.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "verkkourkinta",
-            "huijarit",
-            "sisä-suomen poliisilaitos",
-            "poliisi",
-            "kotimaa",
-            "keski-suomi",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20165264?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin tuki auttoi Nawrockia voittoon",
-      "mainCategories": [
-        "Puola",
-        "Yhdysvallat",
-        "Eurooppa"
-      ],
-      "imageUrl": "/images/vaalit/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Trumpin väki kiritti kansallismielisen ehdokkaan Puolan presidentiksi",
-          "content": "Puolan presidentin­vaalit sunnuntaina voitti kansallis­mielinen Karol Nawrocki. Hän sai vetoapua Trumpin väeltä, kirjoittaa EU-kirjeenvaihtaja Hannele Muilu.",
-          "date": "2025-06-02T08:35:11.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "puola",
-            "laki ja oikeus -puolue (puola)",
-            "yhdysvallat",
-            "eurooppa",
-            "vaalit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20164351?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puola | Kansallismielinen ehdokas voitti Puolan presidentinvaalit",
-          "content": "Vaalit ratkesivat alle kahden prosenttiyksikön erotuksella.",
-          "date": "2025-06-02T05:22:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011271513.html"
         }
       ]
     },
@@ -1721,6 +947,40 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011271571.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Puolan presidentinvaalit ratkesivat tiukasti",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/vaalit/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puola | Kansallismielinen ehdokas voitti Puolan presidentinvaalit",
+          "content": "Vaalit ratkesivat alle kahden prosenttiyksikön erotuksella.",
+          "date": "2025-06-02T05:22:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011271513.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kansallismielinen ehdokas voitti Puolan presidentinvaalit",
+          "content": "Kisa oli todella tiukka.",
+          "date": "2025-06-02T04:44:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011271530.html"
         }
       ]
     },
@@ -1805,7 +1065,7 @@
       ]
     },
     {
-      "mainTitle": "Kaksi siltaa romahti Venäjällä, useita kuoli",
+      "mainTitle": "Venäjällä siltojen romahdus, useita kuollut",
       "mainCategories": [
         "Maailma"
       ],
@@ -1836,7 +1096,7 @@
       ]
     },
     {
-      "mainTitle": "Äiti ja taapero pelastautuivat autosta",
+      "mainTitle": "Äiti ja taapero pelastautuivat onnettomuudesta",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -1930,40 +1190,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011270875.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ajo- ja lepoaikarikkomukset jatkuvat liikenteessä",
-      "mainCategories": [
-        "Liikenne",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Liikenne | Kuljettaja piti yhden vapaan yli 50 päivän aikana – Ammatti­liikenteessä rikotaan jatkuvasti lepo­­aikoja",
-          "content": "Viime vuonna ajo- ja lepoaika­rikkomuksia tai ajopiirturi­rikkomuksia havaittiin 80 prosentissa tarkastetuista kuljetusalan yrityksistä.",
-          "date": "2025-06-01T07:49:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011270692.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Raskaassa liikenteessä ajo- ja lepoaikoja rikotaan yhä tasaiseen tahtiin",
-          "content": "",
-          "date": "2025-06-01T06:19:30.000Z",
-          "categories": [
-            "liikenne"
-          ],
-          "link": "https://yle.fi/a/74-20165109?origin=rss"
         }
       ]
     }
