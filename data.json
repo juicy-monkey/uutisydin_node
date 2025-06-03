@@ -1,8 +1,17 @@
 {
-  "timestamp": "2025-06-03T06:25:22.198Z",
-  "successCount": 13,
-  "failureCount": 9,
+  "timestamp": "2025-06-03T06:52:31.871Z",
+  "successCount": 12,
+  "failureCount": 10,
   "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
     {
       "url": {
         "publisherId": "yle",
@@ -87,11 +96,44 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Maanjäristys Turkin Marmariksessa, yksi kuollut",
+      "mainTitle": "Tampereen pormestarivaalissa riitaa ja sekaannusta",
       "mainCategories": [
-        "Maanjäristykset",
-        "Turkki",
-        "Maailma"
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pormestarivaali | Joakim Vigelius kertoo, miksi repi äänestyslapun",
+          "content": "Perussuomalaiset riitautti Ilmari Nurmisen valinnan Tampereen pormestariksi.",
+          "date": "2025-06-03T06:50:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011274401.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle: Ilmari Nurmisen pormestari­äänestyksestä tuli erikoinen näytelmä",
+          "content": "Perussuomalaisten Joakim Vigelius pahoitteli Ylen mukaan sekaannusta Tampereen pormestariäänestyksessä.",
+          "date": "2025-06-02T18:26:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011274021.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Maanjäristys Turkissa aiheutti kuoleman ja loukkaantumisia",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat",
+        "Maanjäristykset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -123,54 +165,16 @@
           "link": "https://www.hs.fi/maailma/art-2000011274336.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Turkin Marmariksessa ainakin yksi kuollut maanjäristyksessä",
-          "content": "",
-          "date": "2025-06-03T05:24:06.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Raju maanjäristys suomalaisten suosikki­kohteissa – Turkin viranomaiset: 14-vuotias kuoli",
+          "content": "Järistys tuntui Rodoksen saarella ja Turkissa. Yksi ihminen on kuollut ja kymmeniä loukkaantunut Turkissa sattuneessa maanjäristyksessä. Asiasta kertoo Turkin sisäministeriö uutistoimisto AFP:n mukaan. Sisäministeri Ali Yerlikayan mukaan 14-vuotias tyttö kuoli paniikkikohtauksen seurauksena. Tuhoutuneista rakennuksista ei heti kerrottu.",
+          "date": "2025-06-03T03:34:26.000Z",
           "categories": [
-            "onnettomuudet",
-            "maanjäristykset",
-            "seismologia",
-            "turkki",
-            "ulkomaat",
-            "luonnononnettomuudet"
+            "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20165403?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tampereen pormestariäänestyksessä sekaannus tapahtui",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tampere | Joakim Vigelius selittää, miksi Ilmari Nurmisen pormestari­valinnasta tuli sotku",
-          "content": "Perussuomalaisten Joakim Vigelius repäisi äänestyslapun erehdyksessä.",
-          "date": "2025-06-03T06:19:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011274401.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle: Ilmari Nurmisen pormestari­äänestyksestä tuli erikoinen näytelmä",
-          "content": "Perussuomalaisten Joakim Vigelius pahoitteli Ylen mukaan sekaannusta Tampereen pormestariäänestyksessä.",
-          "date": "2025-06-02T18:26:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011274021.html"
+          "link": "https://www.iltalehti.fi/ulkomaat/a/6704d7cd-7093-4cad-ae45-372f2e5f3ca5"
         }
       ]
     },
@@ -221,46 +225,6 @@
       ]
     },
     {
-      "mainTitle": "Inflaatio kiihtyi toukokuussa 2025",
-      "mainCategories": [
-        "Kuluttajat",
-        "Kuluttajahinnat",
-        "Tilastokeskus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hinnat nousivat toukokuussa – terveyspalvelut kallistuivat eniten",
-          "content": "Inflaatio kiihtyi toukokuussa myös huhtikuuhun verrattuna.",
-          "date": "2025-06-03T05:29:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011274304.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuluttajahinnat nousivat toukokuussa 2,1 prosenttia",
-          "content": "Eniten toukokuussa kallistuivat terveystuotteiden ja -palveluiden hinnat.",
-          "date": "2025-06-03T05:14:49.000Z",
-          "categories": [
-            "kuluttajat",
-            "kuluttajahinnat",
-            "tilastokeskus",
-            "talous",
-            "hinnat",
-            "inflaatio"
-          ],
-          "link": "https://yle.fi/a/74-20165400?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Trump avaa Alaskan öljynporaukselle",
       "mainCategories": [
         "Maailma",
@@ -295,25 +259,25 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan drooni-iskut aiheuttivat suuria tuhoja Venäjällä",
+      "mainTitle": "Ukrainan drooni-iskut aiheuttavat huolta Venäjällä",
       "mainCategories": [
+        "Maailma",
         "Ulkomaat",
-        "Ukraina",
-        "Venäjä"
+        "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Näin Ukrainan megaisku voi vaikuttaa Suomeen",
-          "content": "Iltalehden sota-asiantuntijan mukaan Venäjällä on Suomen lähialueilla paljon kohteita, joihin Ukraina voisi iskeä. Ukrainan sunnuntaina toteuttama droonioperaatio yllätti Kremlin täysin ja oli presidentti Vladimir Putinin asevoimille kiistatta nöyryyttävä tappio. Venäläisten propagandistien joukossa sitä on kuvailtu jopa Venäjän huonoimmaksi päiväksi sitten 22. kesäkuuta 1941, jolloin Saksa aloitti operaatio Barbarossan ja hyökkäyksensä Neuvostoliittoon toisessa maailmansodassa.",
-          "date": "2025-06-03T02:38:16.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asiantuntijalta suora näkemys Ukrainan poikkeuksellisesta iskusta Venäjälle: ”Eniten yli viivan”",
+          "content": "Ukrainan poikkeukselliset iskut lentotukikohtiin antavat doktriinin mukaan Venäjälle perusteen käyttää ydinaseita. Tutkijat kertovat, onko pahin mahdollinen uhkakuva vaarassa toteutua.",
+          "date": "2025-06-03T02:55:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/a082d239-f8d3-4a17-8cf9-bba75447088e"
+          "link": "https://www.is.fi/ulkomaat/art-2000011271773.html"
         },
         {
           "publisherId": "is",
@@ -326,40 +290,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011226378.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Video venäläisistä kuorma-auton katolla leviää",
-          "content": "Ukraina teki jättimäisen iskun, video venäläisistä kuorma-auton katolla leviää.",
-          "date": "2025-06-02T19:18:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011272940.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yle paikansi videon: Ukraina tuhosi pommikoneita aivan Suomen lähellä",
-          "content": "Ukraina tuhosi yli sadalla droonilla toistakymmentä Venäjän asevoimien pommikonetta ja aiheutti miljardien tuhot.",
-          "date": "2025-06-02T15:14:28.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "droonit",
-            "ukraina",
-            "venäjä",
-            "ukrainan asevoimat",
-            "pommikoneet",
-            "ukrainan sota",
-            "venäjän asevoimat",
-            "olenjan lentotukikohta",
-            "ulkomaat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20165206?origin=rss"
         },
         {
           "publisherId": "ts",
@@ -389,53 +319,17 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011271639.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ukrainalta kova väite drooni-iskujen tuhoista – tämä tiedetään kohteista",
-          "content": "Ukraina onnistui iskuissaan Olenjan ja Belajan lentotukikohtiin.",
-          "date": "2025-06-02T07:19:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271371.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ukrainan massiivinen isku aiheutti myrskyn Venäjällä: ”Venäjän Pearl Harbor”",
-          "content": "Ukraina iski tuhoisasti lentotukikohtiin Venäjällä.",
-          "date": "2025-06-02T02:55:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271489.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Zelenskyi kommentoi Ukrainan massiivisia drooni-iskuja",
-          "content": "Zelenskyin mukaan iskussa tuhottiin 34 prosenttia Venäjän strategisista pommikoneista, jotka voivat kuljettaa risteilyohjuksia.",
-          "date": "2025-06-01T21:10:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271535.html"
         }
       ]
     },
     {
-      "mainTitle": "Venäjä vaatii vetäytymistä tulitauon ehtona",
+      "mainTitle": "Venäjä asettaa ehtoja Ukrainan tulitauolle",
       "mainCategories": [
         "Maailma",
-        "Rauhanneuvottelut",
-        "Ukraina"
+        "Ulkomaat",
+        "Rauhanneuvottelut"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -448,6 +342,18 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011274212.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Venäjä esitti neuvotteluissa kaksi vaihtoehtoa Ukrainalle",
+          "content": "Venäjä ja Ukraina neuvottelivat maanantaina Istanbulissa toista kertaa yli kolmen vuoden tauon jälkeen.",
+          "date": "2025-06-02T20:30:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011274085.html"
         },
         {
           "publisherId": "ts",
@@ -466,6 +372,18 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6678942"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näillä keinoin Venäjä pantaisiin polvilleen – tutkija nostaa esille yhden kriittisen asian",
+          "content": "Ulkopoliittisen instituutin Sinikukka Saari ei näe pikaista ratkaisua Ukrainan sodan neuvotteluille.",
+          "date": "2025-06-02T04:05:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011267011.html"
         },
         {
           "publisherId": "hs",
@@ -494,11 +412,10 @@
       ]
     },
     {
-      "mainTitle": "Chiquita irtisanoo työntekijät Panamassa",
+      "mainTitle": "Chiquita irtisanoo lakkoilevat työntekijät Panamassa",
       "mainCategories": [
-        "Yritykset",
-        "Ulkomaat",
-        "Talous"
+        "Talous",
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -525,25 +442,11 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011274205.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Banaanijätti Chiquita aikoo irtisanoa kaikki työntekijänsä Panamassa",
-          "content": "",
-          "date": "2025-06-03T01:21:49.000Z",
-          "categories": [
-            "yritykset",
-            "chiquita brands international inc.",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165387?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Trump: Yhdysvallat ehdottaa ydinsopimusta Iranille",
+      "mainTitle": "Trump: Iranin ydinsopimus ei salli rikastamista",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -638,10 +541,9 @@
       "mainTitle": "Britannia vahvistaa puolustustaan Venäjän uhkaa vastaan",
       "mainCategories": [
         "Ulkomaat",
-        "Britannia",
-        "Analyysi"
+        "Maailma"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -678,33 +580,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011272709.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Britannia haluaa johtaa Euroopan puolustusta hurjalla aseistus­suunnitelmallaan",
-          "content": "Pääministeri Keir Starmer maalaa aseostojen tarvetta Venäjän-uhan takia briteille, jotka pelkäävät menojen kasvua elinkustannus­kriisissä, kirjoittaa kirjeenvaihtaja Kirsi Crowley.",
-          "date": "2025-06-02T16:19:10.000Z",
-          "categories": [
-            "britannia",
-            "analyysi",
-            "asevarustelu",
-            "ydinaseet",
-            "venäjä",
-            "venäjän hyökkäys",
-            "nato",
-            "nato-yhteistyö",
-            "mark rutte",
-            "puolustusmenot",
-            "ukrainan kriisi 2022",
-            "ukrainan sota",
-            "venäjän hyökkäys ukrainaan 2022",
-            "verkkohyökkäykset",
-            "kirsi crowley",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165318?origin=rss"
         }
       ]
     },
@@ -777,109 +652,10 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan ja Venäjän neuvottelut päättyivät tuloksetta",
+      "mainTitle": "Etna-tulivuoren purkaus aiheutti paniikkia",
       "mainCategories": [
         "Ulkomaat",
-        "Ukraina",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Venäjä esitti neuvotteluissa kaksi vaihtoehtoa Ukrainalle",
-          "content": "Venäjä ja Ukraina neuvottelivat maanantaina Istanbulissa toista kertaa yli kolmen vuoden tauon jälkeen.",
-          "date": "2025-06-02T20:30:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011274085.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tämä Ukrainan ja Venäjän neuvotteluista jäi käteen",
-          "content": "Ukrainan ja Venäjän delegaatiot tapasivat toista kertaa tänä keväänä Turkin Istanbulissa. Ukrainan ja Venäjän toisen kierroksen neuvottelut päättyivät maanantain Turkin Istanbulissa jälleen ilman lupausta ehdottomasta tulitauosta. Alle puolitoista tuntia kestäneiden neuvotteluiden tärkein anti oli jälleen molempien osapuolten sitoutuminen vankienvaihtoon, joka koskettaa Ukrainan puolustusministeri Rustem Umerovin mukaan koskettaa vakavasti haavoittuneita ja alle 25-vuotiaita henkilöitä.",
-          "date": "2025-06-02T18:46:58.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/910836f9-a5db-4c7b-8b23-8c26db0b4a49"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tutkija rauhanneuvotteluista: Venäjä ei halua rauhaa",
-          "content": "Ulkopoliittisen instituutin vanhemman tutkijan Jussi Lassilan mukaan Istanbulissa käydyt rauhanneuvottelut ovat Venäjältä ajanpeluuta ja se on vain neuvottelevinaan rauhasta.",
-          "date": "2025-06-02T16:38:45.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "venäjä",
-            "rauhanneuvottelut",
-            "turkki",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165355?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Venäjän ja Ukrainan neuvottelut loppuivat lyhyeen – Ukrainan mukaan Venäjä hylkäsi ehdottoman aselevon",
-          "content": "Ukrainan ja Venäjän väliset neuvottelut Turkin Istanbulissa ovat päättyneet, kertoo Turkin ulkoministeriön edustaja Öncü Keceli. Hän luonnehti runsaan tunnin kestäneiden neuvottelujen antia toteamalla, etteivät neuvottelut päättyneet negatiivisesti.",
-          "date": "2025-06-02T14:42:04.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/venajan-ja-ukrainan-neuvottelut-loppuivat-lyhyeen/11653681?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjän ja Ukrainan neuvottelut alkoivat – Turkki korosti USA:n roolia",
-          "content": "Venäjän on tarkoitus esitellä neuvotteluissa ehtonsa rauhalle. Ukraina kertoo olevansa valmis suuriin askeliin kohti rauhaa.",
-          "date": "2025-06-02T12:28:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011273323.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Neuvottelut jatkuvat – Venäjä aikoo esitellä muistion rauhan­ehdoistaan",
-          "content": "Venäjän ja Ukrainan valtuuskunnat tapasivat viime kuussa Istanbulissa ensimmäisissä suorissa neuvotteluissa yli kolmeen vuoteen.",
-          "date": "2025-06-02T07:33:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011271990.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näillä keinoin Venäjä pantaisiin polvilleen – tutkija nostaa esille yhden kriittisen asian",
-          "content": "Ulkopoliittisen instituutin Sinikukka Saari ei näe pikaista ratkaisua Ukrainan sodan neuvotteluille.",
-          "date": "2025-06-02T04:05:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011267011.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Etna-tulivuoren purkaus herättää huolta Sisiliassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Luonto",
-        "Tulivuoret"
+        "Maailma"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -896,26 +672,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011273501.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Katso, kuinka tulivuori Etna sylkee laavaa taivaan täydeltä",
-          "content": "Euroopan suurin yhä aktiivinen tulivuori muuttui laavasuihku­lähteeksi.",
-          "date": "2025-06-02T14:29:14.000Z",
-          "categories": [
-            "luonto",
-            "tulivuoret",
-            "sisilia",
-            "italia",
-            "catania",
-            "etna-tulivuori",
-            "seismologia",
-            "tulivuorenpurkaukset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20165325?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -926,6 +682,18 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011273500.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tulivuori purkautui Italiassa – hätääntyneet turistit pakenevat",
+          "content": "Vulkaaninen järistys on saavuttanut erittäin korkeat arvot ja infraääniaktiivisuus on korkealla.",
+          "date": "2025-06-02T11:43:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011272847.html"
         }
       ]
     },
@@ -1057,6 +825,37 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011271470.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäjän ja Ukrainan neuvottelut päättyivät ilman tulosta",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Venäjän ja Ukrainan neuvottelut loppuivat lyhyeen – Ukrainan mukaan Venäjä hylkäsi ehdottoman aselevon",
+          "content": "Ukrainan ja Venäjän väliset neuvottelut Turkin Istanbulissa ovat päättyneet, kertoo Turkin ulkoministeriön edustaja Öncü Keceli. Hän luonnehti runsaan tunnin kestäneiden neuvottelujen antia toteamalla, etteivät neuvottelut päättyneet negatiivisesti.",
+          "date": "2025-06-02T14:42:04.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/venajan-ja-ukrainan-neuvottelut-loppuivat-lyhyeen/11653681?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjän ja Ukrainan neuvottelut alkoivat – Turkki korosti USA:n roolia",
+          "content": "Venäjän on tarkoitus esitellä neuvotteluissa ehtonsa rauhalle. Ukraina kertoo olevansa valmis suuriin askeliin kohti rauhaa.",
+          "date": "2025-06-02T12:28:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011273323.html"
         }
       ]
     },
@@ -1206,7 +1005,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1308,7 +1107,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
