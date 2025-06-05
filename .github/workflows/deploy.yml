@@ -2,7 +2,7 @@ name: update-data
 
 on:
   schedule:
-    - cron: '*/15 3-20 * * *'  # Every ~15 minutes from 06:00 to 23:45 (UTC+3)
+    - cron: '*/30 4-19 * * *'  # Every ~30 minutes from 07:00 to 22:45 (UTC+3)
   workflow_dispatch:
 
 jobs:
