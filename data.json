@@ -1,9 +1,73 @@
 {
-  "timestamp": "2025-06-11T06:23:45.763Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-06-11T06:50:09.415Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Texas lähettää kansalliskaartin Los Angelesiin",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Levottomuudet"
+      ],
+      "imageUrl": "/images/trump/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suora lähetys: Texas määrää kansalliskaartin joukkoja kaduille – joukko­pidätyksiä Los Angelesissa",
+          "content": "Presidentti Trump vihjasi kapinalain käyttöönotolla.",
+          "date": "2025-06-11T06:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011286843.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump väitti estäneensä joukkoja lähettämällä Los Angelesin palamisen maan tasalle",
+          "content": "",
+          "date": "2025-06-10T17:02:46.000Z",
+          "categories": [
+            "yhdysvallat",
+            "levottomuudet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20167014?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump lähetti merijalkaväen kaduille – ”Koulutettu tappamaan, ei väkijoukkojen hallintaan”, sanoo Ylen Yhdysvaltain-toimittaja",
+          "content": "Presidentti Donald Trump haluaa näpäyttää toiminnalla Kalifornian Trump-kriittistä kuvernööriä, kertoo Ylen Yhdysvaltain-toimittaja Juri von Bonsdorff.",
+          "date": "2025-06-10T06:39:02.000Z",
+          "categories": [
+            "mielenosoitukset",
+            "merijalkaväki",
+            "los angeles",
+            "yhdysvallat",
+            "donald trump",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20166809?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Kaksi nuorta kuoli Laitilan onnettomuudessa",
       "mainCategories": [
@@ -13,6 +77,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Laitilan louhosturmassa kuolleet nuoret olivat euralaisia",
+          "content": "Kaksi nuorta kuoli tiistai-iltana tapahtuneessa onnettomuudessa. Laitilan tiistai-iltana tapahtuneessa auto-onnettomuudessa kuolleet nuoret olivat euralaisia, Euran kunnanjohtaja Kari Kankaanranta vahvistaa Iltalehdelle. – Meillä on Eurassa synkkä ja surullinen aamu, hyvin synkät tunnelmat on tällä hetkellä, Kankaanranta kertoo.",
+          "date": "2025-06-11T06:41:10.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/2f1a604a-3dbc-4bbf-8d75-c492f111a824"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -80,12 +156,16 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Kaksi nuorta kuoli Laitilassa auton ajauduttua veteen – kaksi pelastautui uppoavasta autosta",
-          "content": "Onnettomuus tiistai-iltana Varsinais-Suomen Laitilassa. Ylen tietojen mukaan autossa olleet nuoret ovat kotoisin Satakunnan Eurasta.",
+          "title": "Tällainen on louhos, johon kaksi nuorta hukkui auton mukana Laitilassa",
+          "content": "Onnettomuus sattui tiistai-iltana Varsinais-Suomen Laitilassa. Ylen tietojen mukaan autossa olleet nuoret ovat kotoisin Satakunnan Eurasta.",
           "date": "2025-06-10T19:38:36.000Z",
           "categories": [
             "onnettomuudet",
             "laitila",
+            "liikenneonnettomuudet",
+            "kuolema, hengenvaara ja loukkaantuminen",
+            "poliisi",
+            "vakka-suomen seutukunta",
             "kotimaa",
             "varsinais-suomi",
             "satakunta"
@@ -107,13 +187,165 @@
       ]
     },
     {
+      "mainTitle": "Suomen talouskasvu hidastuu merkittävästi",
+      "mainCategories": [
+        "Talous",
+        "Maailmanpankki",
+        "Yhdysvallat"
+      ],
+      "imageUrl": "/images/talous/7.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Suhdanne | Suomen Pankki: Talouskasvu sakkaa ja velkaantuminen pahenee",
+          "content": "Uuden ennusteen perusteella Suomen talous kasvaa ainoastaan 0,5 prosenttia tänä vuonna.",
+          "date": "2025-06-11T06:38:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011289759.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Maailmanpankki leikkaa jyrkästi ennustettaan – USA:n talouskasvu puolittuu",
+          "content": "",
+          "date": "2025-06-10T18:01:55.000Z",
+          "categories": [
+            "talous",
+            "maailmanpankki",
+            "yhdysvallat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20167018?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Greta Thunberg karkotettiin Israelista lentäen",
+      "mainCategories": [
+        "Ulkomaat",
+        "Aktivismi",
+        "Israel"
+      ],
+      "imageUrl": "/images/gaza/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Greta Thunberg pakotettiin lentämään",
+          "content": "Israel karkotti Thunbergin, ja hänet kuljetettiin lentokoneella Pariisiin.  Ilmastoaktivisti Greta Thunberg joutui palaamaan Israelista lentämällä. Thunberg on aiemmin kieltäytynyt ilmastosyistä lentämästä, mutta nyt hän astui koneeseen, kertoo ruotsalaislehti Expressen. Thunberg vietiin Ben Gurionin lentokentälle Tel Avivissa Israelissa sen jälkeen, kun Israelin laivasto esti hänen ja palestiinalaisia tukevien aktivistien matkan Gazaan. Israelista Thunberg lennätettiin Pariisiin. Israelin julkaisemissa kuvissa näkyi, kuinka Thunberg viedään koneeseen ja hänet istutetaan takariviin.",
+          "date": "2025-06-11T06:33:19.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/7e6a90bd-3395-4308-ba5f-9f8a68225eaf"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpilta suorat sanat Greta Thunbergista",
+          "content": "Thunberg syyttää Israelia aktivistien kidnappaamisesta.",
+          "date": "2025-06-10T15:25:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011291425.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Thunberg syyttää jälleen Israelia sieppauksesta",
+          "content": "",
+          "date": "2025-06-10T13:26:24.000Z",
+          "categories": [
+            "gazan sota",
+            "greta thunberg",
+            "aktivismi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20166981?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Israel | Greta Thunberg matkalla pois Israelista, viisi ranskalaista kieltäytynyt lähtemästä",
+          "content": "Israelin mukaan aktivistien on poistuttava maasta ja palattava kotimaihinsa tai he joutuvat oikeuteen.",
+          "date": "2025-06-10T09:35:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011289499.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "YK syyttää Israelia sotarikoksista ja rikoksista ihmisyyttä vastaan Gazassa",
+          "content": "",
+          "date": "2025-06-10T07:27:01.000Z",
+          "categories": [
+            "lähi-itä",
+            "israel",
+            "yk",
+            "gazan kaista",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20166838?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Israel: Greta Thunberg ja muut Gaza-avustuslaivan aktivistit ovat lentokentällä karkotettavana",
+          "content": "Avustusaluksella oli 12 ihmistä, muun muassa ruotsalaisaktivisti Greta Thunberg ja ranskalainen europarlamentaarikko.",
+          "date": "2025-06-10T02:00:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011289494.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Greta Thunbergin avustus­laiva saatettu satamaan Israelissa",
+          "content": "Kaikki aluksella olleet ovat Israelin mukaan kunnossa.",
+          "date": "2025-06-09T18:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011289426.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä Greta Thunbergin avustus­laivasta tiedetään: Israel pysäytti matkan – \"Näytös on ohi\"",
+          "content": "Mukana on myös europarlamentaarikko.",
+          "date": "2025-06-09T10:31:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011287053.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Venäjä iski Harkovaan, kaksi kuollut",
       "mainCategories": [
         "Ulkomaat",
         "Ukraina",
         "Venäjä"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -167,7 +399,7 @@
         "Energia",
         "Sähkömarkkinat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -431,84 +663,13 @@
       ]
     },
     {
-      "mainTitle": "Mielenosoitukset ja kaaos Los Angelesissa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Suora lähetys: Mielen­osoituksia ympäri Yhdysvaltoja – Los Angelesin ydin­keskustaan ulkona­liikkumis­kielto",
-          "content": "Presidentti Trump vihjasi kapinalain käyttöönotolla.",
-          "date": "2025-06-11T05:03:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011286843.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Los Angelesin mielenosoitukset | Asiantuntijat pitävät Trumpin päätöstä poikkeuksellisena: ”Venytetään juridiikkaa todella pahasti”",
-          "content": "Presidentti Donald Trump on määrännyt kansalliskaartin Los Angelesin mielenosoituksiin ilman osavaltion kuvernöörin pyyntöä.",
-          "date": "2025-06-10T16:18:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011290117.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kuvat näyttävät | Los Angeles ajautui kaaokseen",
-          "content": "Trumpin maahanmuutto- ja karkotuspolitiikkaa vastustavat mielenosoitukset jatkuvat Los Angelesissa tiistaina viidettä päivää. Presidentti on määrännyt kaupunkiin 4 000 kansalliskaartilaista ja satoja merijalkaväen sotilaita. HS:n kokoamat kuvat näyttävät, kuinka kaupungin kadut ovat peittyneet savuun ja kaaokseen.",
-          "date": "2025-06-10T08:29:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011289702.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Los Angelesin mielenosoittajien lipun­heiluttelu on oma maali",
-          "content": "Lipunheiluttelu vahvistaa presidentti Donald Trumpin perusviestiä, että levottomuuksien takana ovat ulkomaalaiset, kirjoittaa ulkomaantoimittaja Tommi Hannula.",
-          "date": "2025-06-09T16:19:00.000Z",
-          "categories": [
-            "tilaajille",
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011289009.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Toimittaja sai poliisin luodista Los Angelesin mellakoissa",
-          "content": "Mellakoita raportoinut toimittaja joutui poliisin luodin kohteeksi Los Angelesissa sunnuntaina. Kalifornian kuvernööri on kritisoinut Trumpin hallintoa kansalliskaartin lähettämisestä mielenosoitusten hillitsemiseksi.",
-          "date": "2025-06-09T09:04:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011287818.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Summa Defence listautuu pörssiin huomenna",
       "mainCategories": [
         "Talous",
         "Turku",
         "Pörssit"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -610,13 +771,13 @@
       ]
     },
     {
-      "mainTitle": "Bayer aloitti kierukoiden tuotannon Turussa",
+      "mainTitle": "Bayer aloitti tuotannon Turun tehtaalla",
       "mainCategories": [
         "Talous",
         "Lääketeollisuus",
         "Bayer"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -626,8 +787,8 @@
           "content": "",
           "date": "2025-06-11T02:00:00.000Z",
           "categories": [
-            "paikalliset",
             "bayer",
+            "paikalliset",
             "lääketeollisuus",
             "talous",
             "uutiset"
@@ -710,13 +871,13 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat ja Kiina saavuttivat kauppasopuun",
+      "mainTitle": "Yhdysvallat ja Kiina pääsivät sopuun",
       "mainCategories": [
         "Talous",
         "Kiina",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -923,7 +1084,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi ja voimankäyttö mielenosoituksissa Tampereella",
+      "mainTitle": "Poliisi arvioi voimankäyttöä ja turvallisuutta",
       "mainCategories": [
         "Tampere",
         "Pirkanmaa",
@@ -978,7 +1139,7 @@
         "Venäjä",
         "Öljy"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -991,16 +1152,6 @@
             "ulkomaat"
           ],
           "link": "https://www.iltalehti.fi/ulkomaat/a/23fc6c16-2d35-4b60-914d-525f4bea8459"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "EU-komissio haluaa iskeä Venäjän öljytuloihin – vielä auki, tukeeko myös Trump aloitetta",
-          "content": "Komissio haluaa lisäksi iskeä pakotteita Nord Stream -kaasuputkille.",
-          "date": "2025-06-10T14:24:22.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/eu-komissio-haluaa-iskea-venajan-oljytuloihin-viel/11663804?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -1040,7 +1191,7 @@
         "Terveys",
         "Rokotteet"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1186,16 +1337,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011291939.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Oppilas puukotti koulunkäyntiavustajan hengiltä Ranskassa",
-          "content": "14-vuotias poika puukotti tiistaina hengiltä 31-vuotiaan koulunkäyntiavustajan Nogentissa Ranskan itäosassa. Ranskan presidentti Emmanuel Macron tuomitsi teon jälkeen kouluja ravistelevan \"järkyttävän väkivallan aallon\".",
-          "date": "2025-06-10T18:54:50.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/oppilas-puukotti-koulunkayntiavustajan-hengilta-ra/11664019?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -1212,67 +1353,7 @@
       ]
     },
     {
-      "mainTitle": "Protestit Yhdysvalloissa laajenevat nopeasti",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Protestit leviävät Yhdysvalloissa",
-          "content": "Mielenosoituksia nähtiin muun muassa New Yorkissa, Dallasissa ja Houstonissa.  Mielenosoitukset levisivät Los Angelesista eri puolille Yhdysvaltoja maanantaina. Asiasta kertovat muun muassa Independent ja Axios.",
-          "date": "2025-06-10T18:41:52.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/231af92d-6569-4519-a74f-37a95ace8fc0"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Maa on menossa kohti fasismia” – näin Los Angelesin mielenosoittajat kommentoivat Ylelle",
-          "content": "Ammattiliitot ovat vahvasti mukana Los Angelesin mielenosoituksissa. Yle seurasi protestia, jossa vastustettiin erityisesti viranomaisten ratsioita siirtolaisten työpaikoille.",
-          "date": "2025-06-10T13:00:25.000Z",
-          "categories": [
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20166938?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Los Angelesin mielenosoitukset | Mitä Los Angelesissa oikein tapahtuu? Kokosimme pääkohdat",
-          "content": "Mielenosoituksissa vastustetaan maahanmuuttajien karkotuksia ja pidätyksiä. Kansalliskaartin määrääminen paikalle on poikkeuksellista.",
-          "date": "2025-06-09T07:29:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011287054.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Los Angeles täydessä kaaoksessa – kuvat kertovat",
-          "content": "Poliisi on pidättänyt useita kymmeniä mielenosoittajia.",
-          "date": "2025-06-09T07:10:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011287231.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Työterveyden alkoholitestit herättävät huolta",
+      "mainTitle": "Alkoholitestit työterveydessä herättävät huolta",
       "mainCategories": [
         "Työelämä",
         "Terveys",
@@ -1418,44 +1499,6 @@
       ]
     },
     {
-      "mainTitle": "Maailmanpankki leikkaa talouskasvuennusteita",
-      "mainCategories": [
-        "Talous",
-        "Maailmanpankki",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Maailmanpankki leikkaa jyrkästi ennustettaan – USA:n talouskasvu puolittuu",
-          "content": "",
-          "date": "2025-06-10T18:01:55.000Z",
-          "categories": [
-            "talous",
-            "maailmanpankki",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20167018?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Suhdanne | Suomen Pankki: Talouskasvu sakkaa ja velkaantuminen pahenee",
-          "content": "Uuden ennusteen perusteella Suomen talous kasvaa ainoastaan 0,5 prosenttia tänä vuonna.",
-          "date": "2025-06-10T11:47:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011289759.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Grazin kouluampuminen vaati 11 kuolonuhria",
       "mainCategories": [
         "Ulkomaat",
@@ -1553,48 +1596,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011291324.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump lähettää merijalkaväen Los Angelesiin",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Ulkomaat",
-        "Levottomuudet"
-      ],
-      "imageUrl": "/images/trump/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump väitti estäneensä joukkoja lähettämällä Los Angelesin palamisen maan tasalle",
-          "content": "",
-          "date": "2025-06-10T17:02:46.000Z",
-          "categories": [
-            "yhdysvallat",
-            "levottomuudet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20167014?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump lähetti merijalkaväen kaduille – ”Koulutettu tappamaan, ei väkijoukkojen hallintaan”, sanoo Ylen Yhdysvaltain-toimittaja",
-          "content": "Presidentti Donald Trump haluaa näpäyttää toiminnalla Kalifornian Trump-kriittistä kuvernööriä, kertoo Ylen Yhdysvaltain-toimittaja Juri von Bonsdorff.",
-          "date": "2025-06-10T06:39:02.000Z",
-          "categories": [
-            "mielenosoitukset",
-            "merijalkaväki",
-            "los angeles",
-            "yhdysvallat",
-            "donald trump",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20166809?origin=rss"
         }
       ]
     },
@@ -1757,6 +1758,65 @@
       ]
     },
     {
+      "mainTitle": "Los Angelesin mielenosoitukset jatkuvat kaaoksessa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Los Angelesin mielenosoitukset | Asiantuntijat pitävät Trumpin päätöstä poikkeuksellisena: ”Venytetään juridiikkaa todella pahasti”",
+          "content": "Presidentti Donald Trump on määrännyt kansalliskaartin Los Angelesin mielenosoituksiin ilman osavaltion kuvernöörin pyyntöä.",
+          "date": "2025-06-10T16:18:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011290117.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kuvat näyttävät | Los Angeles ajautui kaaokseen",
+          "content": "Trumpin maahanmuutto- ja karkotuspolitiikkaa vastustavat mielenosoitukset jatkuvat Los Angelesissa tiistaina viidettä päivää. Presidentti on määrännyt kaupunkiin 4 000 kansalliskaartilaista ja satoja merijalkaväen sotilaita. HS:n kokoamat kuvat näyttävät, kuinka kaupungin kadut ovat peittyneet savuun ja kaaokseen.",
+          "date": "2025-06-10T08:29:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011289702.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kommentti | Los Angelesin mielenosoittajien lipun­heiluttelu on oma maali",
+          "content": "Lipunheiluttelu vahvistaa presidentti Donald Trumpin perusviestiä, että levottomuuksien takana ovat ulkomaalaiset, kirjoittaa ulkomaantoimittaja Tommi Hannula.",
+          "date": "2025-06-09T16:19:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011289009.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Toimittaja sai poliisin luodista Los Angelesin mellakoissa",
+          "content": "Mellakoita raportoinut toimittaja joutui poliisin luodin kohteeksi Los Angelesissa sunnuntaina. Kalifornian kuvernööri on kritisoinut Trumpin hallintoa kansalliskaartin lähettämisestä mielenosoitusten hillitsemiseksi.",
+          "date": "2025-06-09T09:04:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011287818.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Nato vaatii jäsenmaiden puolustusmenojen nostoa",
       "mainCategories": [
         "Nato",
@@ -1797,7 +1857,7 @@
       ]
     },
     {
-      "mainTitle": "Juhannussään ennusteet vaihtelevaista ja epävakaista",
+      "mainTitle": "Juhannussään ennusteet vaihteleva ja epävakaa",
       "mainCategories": [
         "Suomi"
       ],
@@ -1830,13 +1890,13 @@
       ]
     },
     {
-      "mainTitle": "Kuvernööri Newsom haastaa Trumpin kansalliskaartin käytön",
+      "mainTitle": "Kuvernööri Newsom haastaa Trumpin kansalliskaartipäätöksen",
       "mainCategories": [
         "Politiikka",
         "Yhdysvallat",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1925,135 +1985,13 @@
       ]
     },
     {
-      "mainTitle": "Greta Thunberg karkotettavana Israelista",
-      "mainCategories": [
-        "Ulkomaat",
-        "Aktivismi",
-        "Israel"
-      ],
-      "imageUrl": "/images/gaza/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpilta suorat sanat Greta Thunbergista",
-          "content": "Thunberg syyttää Israelia aktivistien kidnappaamisesta.",
-          "date": "2025-06-10T15:25:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011291425.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Thunberg syyttää jälleen Israelia sieppauksesta",
-          "content": "",
-          "date": "2025-06-10T13:26:24.000Z",
-          "categories": [
-            "gazan sota",
-            "greta thunberg",
-            "aktivismi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20166981?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Israel | Greta Thunberg matkalla pois Israelista, viisi ranskalaista kieltäytynyt lähtemästä",
-          "content": "Israelin mukaan aktivistien on poistuttava maasta ja palattava kotimaihinsa tai he joutuvat oikeuteen.",
-          "date": "2025-06-10T09:35:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011289499.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "YK syyttää Israelia sotarikoksista ja rikoksista ihmisyyttä vastaan Gazassa –Ruotsalaisaktivisti Greta Thunberg matkalla pois Israelista",
-          "content": "YK:n ihmisoikeusneuvosto toteaa, että Israel on syyllistynyt Gazassa sotarikoksiin sekä rikoksiin ihmisyyttä vastaan.",
-          "date": "2025-06-10T08:20:16.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/yk-syyttaa-israelia-sotarikoksista-ja-rikoksista-i/11663197?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "YK syyttää Israelia sotarikoksista ja rikoksista ihmisyyttä vastaan Gazassa",
-          "content": "",
-          "date": "2025-06-10T07:27:01.000Z",
-          "categories": [
-            "lähi-itä",
-            "israel",
-            "yk",
-            "gazan kaista",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20166838?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Israel: Greta Thunberg ja muut Gaza-avustuslaivan aktivistit ovat lentokentällä karkotettavana",
-          "content": "Avustusaluksella oli 12 ihmistä, muun muassa ruotsalaisaktivisti Greta Thunberg ja ranskalainen europarlamentaarikko.",
-          "date": "2025-06-10T02:00:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011289494.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Greta Thunbergin avustus­laiva saatettu satamaan Israelissa",
-          "content": "Kaikki aluksella olleet ovat Israelin mukaan kunnossa.",
-          "date": "2025-06-09T18:49:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011289426.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämä Greta Thunbergin avustus­laivasta tiedetään: Israel pysäytti matkan – \"Näytös on ohi\"",
-          "content": "Mukana on myös europarlamentaarikko.",
-          "date": "2025-06-09T10:31:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011287053.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Israelin ulkoministeriö: Greta Thunberg \"hyvässä kunnossa\" matkalla Israeliin",
-          "content": "Greta Thunberg on matkalla Israeliin, kertoo maan ulkoministeriö.",
-          "date": "2025-06-09T06:56:51.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/israelin-ulkoministerio-greta-thunberg-hyvassa-kun/11661579?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Venäjän ilmatilaloukkaus Suomenlahdella epäilty",
       "mainCategories": [
         "Suomi",
         "Hävittäjät",
         "Kotimaa"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -2192,7 +2130,7 @@
         "Kansalliskaarti",
         "Mielenosoitukset"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2367,6 +2305,54 @@
       ]
     },
     {
+      "mainTitle": "Los Angelesin mielenosoitukset maahanmuuttoa vastaan",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "”Maa on menossa kohti fasismia” – näin Los Angelesin mielenosoittajat kommentoivat Ylelle",
+          "content": "Ammattiliitot ovat vahvasti mukana Los Angelesin mielenosoituksissa. Yle seurasi protestia, jossa vastustettiin erityisesti viranomaisten ratsioita siirtolaisten työpaikoille.",
+          "date": "2025-06-10T13:00:25.000Z",
+          "categories": [
+            "yhdysvallat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20166938?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Los Angelesin mielenosoitukset | Mitä Los Angelesissa oikein tapahtuu? Kokosimme pääkohdat",
+          "content": "Mielenosoituksissa vastustetaan maahanmuuttajien karkotuksia ja pidätyksiä. Kansalliskaartin määrääminen paikalle on poikkeuksellista.",
+          "date": "2025-06-09T07:29:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011287054.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Los Angeles täydessä kaaoksessa – kuvat kertovat",
+          "content": "Poliisi on pidättänyt useita kymmeniä mielenosoittajia.",
+          "date": "2025-06-09T07:10:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011287231.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Lakean asukkaille ei apua saneerauksessa",
       "mainCategories": [
         "Asuminen",
@@ -2521,7 +2507,7 @@
       ]
     },
     {
-      "mainTitle": "GPS-häiriöt lisääntyneet Suomenlahdella keväällä",
+      "mainTitle": "GPS-häiriöt lisääntyneet Suomenlahdella kesällä",
       "mainCategories": [
         "Veneily",
         "Liikenne",
@@ -2579,13 +2565,56 @@
       ]
     },
     {
+      "mainTitle": "Syyttäjä vaatii vankeutta valepommijutussa",
+      "mainCategories": [
+        "Rikosepäilyt",
+        "Puolueet",
+        "Oikeudenkäynnit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Oikeudenkäynnit | Syyttäjä vaatii ehdollista vankeutta miehelle, jota syytetään vale­pommien lähettämisestä puolue­toimistoihin",
+          "content": "Valepommeja lähetettiin vuonna 2023 eduskuntavaalien alla. 45-vuotiaalle pirkanmaalaismiehelle luettiin syytteet seitsemästä laittomasta uhkauksesta.",
+          "date": "2025-06-10T11:07:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011289774.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valepommikäräjien asianomistaja: ”Se oli aidon näköinen” – Yle seuraa toista käsittelypäivää",
+          "content": "45-vuotiaan miehen epäillään lähettäneen vuoden 2023 eduskuntavaalien alla eri puoluetoimistoihin saapuneet valepommit. ",
+          "date": "2025-06-10T05:21:02.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "puolueet",
+            "oikeudenkäynnit",
+            "kotimaa",
+            "tampere",
+            "helsinki",
+            "turku",
+            "pori",
+            "pirkanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20166804?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Venäläisten viholliskuvasto muuttuu Euroopassa",
       "mainCategories": [
         "Venäjä",
         "Yhdysvallat",
         "Vihamielisyys"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2623,7 +2652,7 @@
       ]
     },
     {
-      "mainTitle": "Kela varoittaa iäkkäiden lääkkeistä",
+      "mainTitle": "Kela varoittaa iäkkäiden lääkityksestä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2663,7 +2692,7 @@
         "Talouskasvu",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2829,7 +2858,7 @@
       ]
     },
     {
-      "mainTitle": "Finnair peruu lentoja lakkovaroituksen vuoksi",
+      "mainTitle": "Finnair peruu lentoja lakkojen vuoksi",
       "mainCategories": [
         "Talous",
         "Finnair",
@@ -3170,7 +3199,7 @@
       ]
     },
     {
-      "mainTitle": "Naton drooniharjoitus alkaa Itämerellä",
+      "mainTitle": "Naton drooniharjoitus alkaa Suomenlahdella",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
