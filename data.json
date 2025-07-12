@@ -1,9 +1,125 @@
 {
-  "timestamp": "2025-07-12T11:37:26.106Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-07-12T12:30:58.743Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Kesän lämpöennätys rikottu Suomessa",
+      "mainCategories": [
+        "Sää",
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Lämpöennätys!",
+          "content": "Lämpötila saattaa lauantain aikana nousta jopa yli 30 asteen. Porvoon Harabackan mittausasemalla on lauantaina mitattu 29,5 astetta lämpöä. Kyseessä on kesän lämpöennätys, sanoo Ilmatieteen laitoksen päivystävä meteorologi Janika Takala.",
+          "date": "2025-07-12T12:26:36.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/6cc26cfe-fe62-4732-be14-d84335c55b62"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lämpöennätys rikki!",
+          "content": "Koko maan eteläosaan on annettu lauantaille varoitus tukalasta helteestä.",
+          "date": "2025-07-12T12:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011361871.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kesän lämpöennätys meni rikki: Porvoossa mitattiin 29,2 astetta",
+          "content": "Suomen yllä on nyt hyvin lämmintä ilmamassaa, ja lämpötila on noussut monin paikoin hellelukemiin. Etelässä varoitetaan rajuista ukonilmoista.",
+          "date": "2025-07-12T11:46:13.000Z",
+          "categories": [
+            "sää"
+          ],
+          "link": "https://yle.fi/a/74-20172350?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Helsingissä voi olla viikon­loppuna tukalan lämmin, myös ukkoset mahdollisia",
+          "content": "Poutaisilla alueilla saatetaan yltää hellelukemiin.",
+          "date": "2025-07-11T07:49:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011359245.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Etlan tutkija kyseenalaistaa nelipäiväisen työviikon hyödyt",
+      "mainCategories": [
+        "Politiikka",
+        "Taloussanomat",
+        "Työelämä"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Etlan tutkimusjohtaja: Näyttö nelipäiväisestä työviikosta on onnetonta",
+          "content": "Nelipäiväisen työviikon hyötyjä on liioiteltu mediassa, arvioi Elinkeinoelämän tutkimuslaitoksen tutkimusjohtaja. Aihetta käsittelevistä raporteista ei voi tehdä luotettavia johtopäätöksiä työn tuottavuudesta tai hyvinvoinnista.",
+          "date": "2025-07-12T12:00:00.000Z",
+          "categories": [
+            "työelämä"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/4096a4d9-bf5f-415f-8e9a-327a71658b4a"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Etlan tutkimusjohtaja: Nelipäiväinen työviikko huteralla pohjalla",
+          "content": "Nelipäiväisen työviikon hyödyistä ei Etlan tutkijan mukaan ole kunnollista näyttöä.",
+          "date": "2025-07-11T14:15:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011359773.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Työajan lyhentäminen | Etlan tutkija tyrmää neli­päiväistä työ­viikkoa koskevat selvitykset",
+          "content": "Antti Kauhasen mukaan media on uutisoinut kritiikittömästi selvityksiä, joiden menetelmät eivät täytä akateemisia perusvaatimuksia.",
+          "date": "2025-07-11T09:54:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011360031.html"
+        }
+      ]
+    },
     {
       "mainTitle": "Poliisi ampui uhkaavasti käyttäytyneen miehen Helsingissä",
       "mainCategories": [
@@ -115,7 +231,7 @@
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -283,7 +399,7 @@
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -315,7 +431,7 @@
       ]
     },
     {
-      "mainTitle": "Venäjän iskut Ukrainaan jatkuvat jälleen",
+      "mainTitle": "Venäjä iski jälleen Ukrainaan yöllä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -349,7 +465,7 @@
       ]
     },
     {
-      "mainTitle": "IAU:n lakot jatkuvat työriidan vuoksi",
+      "mainTitle": "IAU:n lakkoja odotettavissa työriidan vuoksi",
       "mainCategories": [
         "Politiikka",
         "Työelämä",
@@ -437,7 +553,7 @@
       ]
     },
     {
-      "mainTitle": "Rankkoja sateita ja hellettä viikonloppuna",
+      "mainTitle": "Rankkoja sateita ja hellettä luvassa",
       "mainCategories": [
         "Suomi",
         "Sää",
@@ -480,18 +596,6 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Sää | Helsingissä voi olla viikon­loppuna tukalan lämmin, myös ukkoset mahdollisia",
-          "content": "Poutaisilla alueilla saatetaan yltää hellelukemiin.",
-          "date": "2025-07-11T07:49:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011359245.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
           "title": "Sää | Lämpöaalto saapuu Suomeen loppu­viikosta, sunnuntaille ja alkuviikkoon hellevaroitus",
           "content": "Osaan maata on luvassa myös rankkoja sateita ja voimakkaita ukkosia viikonloppuna.",
           "date": "2025-07-10T19:11:00.000Z",
@@ -503,51 +607,7 @@
       ]
     },
     {
-      "mainTitle": "Texasissa tulvissa kuolleita yli 130",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Texasin tulvissa kuolleiden määrä noussut noin 130:een",
-          "content": "Yhdysvalloissa Texasin osavaltiossa pahoissa tulvissa kuolleiden ihmisten määrä on noussut noin 130:een. Asiasta uutisoivat muun muassa uutiskanavat CNN ja ABC News.\nLisäksi kateissa on pitkälti toistasataa ihmistä.",
-          "date": "2025-07-12T08:14:18.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/texasin-tulvissa-kuolleiden-maara-noussut-noin-130/11700792?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Texasin tulvissa kuolleiden määrä noussut noin 130:een",
-          "content": "Texasissa perjantaina vieraillut presidentti Trump kommentoi tuhoja sanoen, ettei hän ollut koskaan nähnyt mitään vastaavaa.",
-          "date": "2025-07-12T05:30:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011361550.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lääkärin Trump-kommentti johti vakaviin seurauksiin",
-          "content": "Texasin osavaltiota koetelleissa tulvissa on kuollut yli sata ihmistä. Useat ovat edelleen kateissa.",
-          "date": "2025-07-10T17:59:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011358658.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Evakuointeja maastopalojen vuoksi Grand Canyonilla",
+      "mainTitle": "Maastopalot evakuoivat turisteja Grand Canyonilta",
       "mainCategories": [
         "Ulkomaat",
         "Kansallispuistot",
@@ -687,6 +747,40 @@
       ]
     },
     {
+      "mainTitle": "Texasissa tulvissa kuolleita yli 130",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Texasin tulvissa kuolleiden määrä noussut noin 130:een",
+          "content": "Texasissa perjantaina vieraillut presidentti Trump kommentoi tuhoja sanoen, ettei hän ollut koskaan nähnyt mitään vastaavaa.",
+          "date": "2025-07-12T05:30:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011361550.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lääkärin Trump-kommentti johti vakaviin seurauksiin",
+          "content": "Texasin osavaltiota koetelleissa tulvissa on kuollut yli sata ihmistä. Useat ovat edelleen kateissa.",
+          "date": "2025-07-10T17:59:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011358658.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Suviseuroilla häirintää tarratoiminnassa",
       "mainCategories": [
         "Kotimaa",
@@ -745,7 +839,7 @@
       ]
     },
     {
-      "mainTitle": "Lapsilisäuudistuksen vaikutus syntyvyyteen kyseenalainen",
+      "mainTitle": "Lapsilisäuudistukset eivät todennäköisesti nosta syntyvyyttä",
       "mainCategories": [
         "Perheet",
         "Syntyvyys",
@@ -801,7 +895,7 @@
       ]
     },
     {
-      "mainTitle": "Auto-onnettomuudet vähentyneet, mutta apu puuttuu",
+      "mainTitle": "Auto-onnettomuudet vähentyneet, mutta lakia rikotaan",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -859,7 +953,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -894,7 +988,7 @@
         "Yhdysvallat",
         "Texas"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1008,7 +1102,7 @@
         "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1578,40 +1672,6 @@
       ]
     },
     {
-      "mainTitle": "Etlan tutkija kyseenalaistaa nelipäiväisen työviikon",
-      "mainCategories": [
-        "Politiikka",
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Etlan tutkimusjohtaja: Nelipäiväinen työviikko huteralla pohjalla",
-          "content": "Nelipäiväisen työviikon hyödyistä ei Etlan tutkijan mukaan ole kunnollista näyttöä.",
-          "date": "2025-07-11T14:15:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011359773.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työajan lyhentäminen | Etlan tutkija tyrmää neli­päiväistä työ­viikkoa koskevat selvitykset",
-          "content": "Antti Kauhasen mukaan media on uutisoinut kritiikittömästi selvityksiä, joiden menetelmät eivät täytä akateemisia perusvaatimuksia.",
-          "date": "2025-07-11T09:54:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011360031.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Iran uhkaa tappaa rauhanpalkinnon saajaa",
       "mainCategories": [
         "Ulkomaat",
@@ -1743,7 +1803,7 @@
         "Ulkomaat",
         "Kauppasodat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1791,7 +1851,7 @@
         "Taloussanomat",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1918,7 +1978,7 @@
       ]
     },
     {
-      "mainTitle": "Gustavsberg-pöntöt siirtyvät Oras Groupille",
+      "mainTitle": "Oras Group ostaa Gustavsbergin brändit",
       "mainCategories": [
         "Talous",
         "Brändit",
@@ -2045,7 +2105,7 @@
       ]
     },
     {
-      "mainTitle": "Kadonnut perhe saa asianajajan avustuksen",
+      "mainTitle": "Kadonnut perhe hakee oikeudellista apua",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2079,7 +2139,7 @@
       ]
     },
     {
-      "mainTitle": "Sotarikoksia ja ihmisoikeusloukkauksia Sudanissa",
+      "mainTitle": "Sotarikoksia ja rikoksia ihmisyyttä vastaan Sudanissa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2118,7 +2178,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2147,12 +2207,12 @@
       ]
     },
     {
-      "mainTitle": "Tulli­kiistat kärjistyvät Yhdysvalloissa ja Kanadassa",
+      "mainTitle": "Tulli­kiistat syvenevät Yhdysvaltojen ja Kanadan välillä",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2177,40 +2237,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011359024.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "EU ja Israel sopivat avustustoimista Gazassa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/gaza/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Gaza | EU sopi Israelin kanssa humanitaarisen avun päästämisestä Gazaan",
-          "content": "Sovittuihin toimiin kuuluvat muun muassa avustusrekkojen huomattava lisääminen ja avustustyöntekijöiden suojeleminen.",
-          "date": "2025-07-10T19:56:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011358936.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "EU sopi Israelin kanssa humanitaarisen avun päästämisestä Gazaan",
-          "content": "Gazaan päästettävien ruokarekkojen määrää tulee lisästä huomattavasti.",
-          "date": "2025-07-10T12:05:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011358113.html"
         }
       ]
     },
