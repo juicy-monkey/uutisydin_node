@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-07-27T14:42:16.605Z",
+  "timestamp": "2025-07-27T15:16:18.380Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Helleputki jatkuu, ukkosia odotettavissa",
+      "mainTitle": "Helleputki jatkuu ja rikkoutuu ennätyksiä",
       "mainCategories": [
         "Kotimaa",
         "Sää",
@@ -14,10 +14,22 @@
       "imageUrl": "",
       "relatedNews": [
         {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Helle-ennätys rikkoutui taas",
+          "content": "Yli 30 asteen hellepäiviä on ollut nyt peräkkäin yhteensä 16 päivän ajan.",
+          "date": "2025-07-27T15:12:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011389904.html"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Iso sääkäänne alkuviikolla",
+          "title": "Meterorologi: Näin käy helleputken",
           "content": "Tietyillä alueilla lämpötilat laskevat alkuviikolla, mutta tilanne voi silti olla tukala.",
           "date": "2025-07-27T14:29:00.000Z",
           "categories": [
@@ -34,18 +46,6 @@
           "date": "2025-07-27T12:14:38.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/helleputkiennatys-rikkoutui-myos-sunnuntaina-maana/11715643?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Helle-ennätys rikkoutui taas",
-          "content": "Yli 30 asteen hellepäiviä on ollut nyt peräkkäin yhteensä 16 päivän ajan.",
-          "date": "2025-07-27T10:47:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011389904.html"
         },
         {
           "publisherId": "yle",
@@ -120,7 +120,80 @@
       ]
     },
     {
-      "mainTitle": "Maastopalot jatkuvat Kainuussa ja Lapissa",
+      "mainTitle": "Lapin maastopalot rauhoittuvat viikonlopun aikana",
+      "mainCategories": [
+        "Onnettomuudet",
+        "Lappi",
+        "Maastopalot"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lapissa maastopalot rauhoittuivat viikonloppuna – sunnuntaina palavaa maastoa on havaittu Muoniossa ja Kittilässä",
+          "content": "Sunnuntaina Lapissa syttyneet maastopalot on luokiteltu keskisuuriksi. Ilmatieteen laitos on antanut Lappiin varoituksen rajusta ukonilmasta.",
+          "date": "2025-07-27T15:00:51.000Z",
+          "categories": [
+            "onnettomuudet",
+            "lappi",
+            "maastopalot",
+            "metsäpalot",
+            "helle",
+            "muonio",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20174564?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Lapin maastopalot rauhoittuivat viikonlopun aikana, Kajaanin isoa paloa sammutettu jo toista päivää",
+          "content": "Savuhavainnoista kannattaa ilmoittaa heti, sanoo palomestari. Palot voivat levitä nopeasti, jos pelastuslaitos saa hälytyksen viiveellä.",
+          "date": "2025-07-27T14:05:04.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/lapin-maastopalot-rauhoittuivat-viikonlopun-aikana/11715710?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat uhkaa korkeilla tuontitulleilla",
+      "mainCategories": [
+        "Politiikka",
+        "Taloussanomat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpin ministeri jyrähtää tulleista",
+          "content": "Yhdysvallat on uhannut asettaa voimaan korkeat tuontitullit kauppa­kumppaneilleen, jos ne eivät pääse sopimukseen.",
+          "date": "2025-07-27T14:25:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011390142.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tullit | Von der Leyen ja Trump keskustelevat sunnuntaina kauppa­suhteista",
+          "content": "Yhdysvallat on uhannut nostaa tuontitulleja 30 prosenttiin elokuun alusta alkaen, ellei kauppasopimusta synny.",
+          "date": "2025-07-25T18:23:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011388396.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Maastopalot jatkuvat Kainuussa sammutustöissä",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -139,16 +212,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011390130.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Lapin maastopalot rauhoittuivat viikonlopun aikana, Kajaanin isoa paloa sammutettu jo toista päivää",
-          "content": "Savuhavainnoista kannattaa ilmoittaa heti, sanoo palomestari. Palot voivat levitä nopeasti, jos pelastuslaitos saa hälytyksen viiveellä.",
-          "date": "2025-07-27T14:05:04.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/lapin-maastopalot-rauhoittuivat-viikonlopun-aikana/11715710?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -267,11 +330,10 @@
       ]
     },
     {
-      "mainTitle": "Avustuslentoja ja taistelutaukoja Gazassa",
+      "mainTitle": "Avustuslentoja ja -kuljetuksia Gazaan",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma",
-        "Israel"
+        "Avustustoiminta"
       ],
       "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
@@ -289,18 +351,6 @@
           "link": "https://yle.fi/a/74-20174558?origin=rss"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Gazan sota | Mediat: Avustus­rekkoja alkanut päästä Gazaan",
-          "content": "Israel väittää aloittavansa ”tauot” sota­toimissa osassa Gazaa.",
-          "date": "2025-07-27T10:35:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011389655.html"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -314,110 +364,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20174529?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Israel aloittaa osittaiset taistelutauot Gazan kaistalla",
-          "content": "",
-          "date": "2025-07-27T07:15:06.000Z",
-          "categories": [
-            "israel",
-            "lähi-itä",
-            "palestiina",
-            "konfliktit",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6722872"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Muutama ilma­pudotus ja rekka ovat vain silmän­lumetta, jos Israel ei aidosti pura Gazan sulkua",
-          "content": "Tuhannet avustusrekat odottavat Jordaniassa ja Egyptissä pääsyä Gazaan, kirjoittaa HS:n toimittaja Anna-Liina Kauhanen.",
-          "date": "2025-07-27T06:11:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011389578.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Gazan sota | Israelin ase­voimat sanoo pudottaneensa Gazaan seitsemän lavallista avustus­tarvikkeita",
-          "content": "Yli sata avustus- ja ihmisoikeusjärjestöä varoitti aiemmin tällä viikolla massanälkiintymisen leviämisestä Gazan kaistalla.",
-          "date": "2025-07-27T03:50:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011389536.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Israel pysäytti jälleen Gazaan pyrkineen aktivistien avustuslaivan",
-          "content": "Aluksen oli määrä tuoda Gazaan pieni määrä avustustarvikkeita.",
-          "date": "2025-07-26T22:26:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011389574.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Gazan sota | Israel pysäytti jälleen Gazaan pyrkineen aktivistien avustuslaivan",
-          "content": "Aluksen oli määrä tuoda Gazaan pieni määrä avustustarvikkeita.",
-          "date": "2025-07-26T22:23:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011389566.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Israel pysäytti jälleen Gazaan pyrkineen aktivistien avustuslaivan",
-          "content": "Freedom Flotilla -aktivistiryhmän mukaan Israel nousi alukseen kansainvälisillä vesillä.",
-          "date": "2025-07-26T22:14:03.000Z",
-          "categories": [
-            "gazan sota",
-            "israel",
-            "lähi-itä",
-            "avustustoiminta",
-            "kansalaistoiminta",
-            "israelin puolustusvoimat",
-            "gazan saarto",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20174514?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Reuters: Israel ilmoitti tauosta asevoimien toimissa toistaiseksi osassa Gazaa",
-          "content": "Alkuviikosta yli sadan avustusjärjestön yhteisessä lausunnossa varoitettiin, että Gazan asukkaita uhkaa laaja nälänhätä.",
-          "date": "2025-07-26T19:36:38.000Z",
-          "categories": [
-            "gazan sota",
-            "israel",
-            "gazan kaista",
-            "lähi-itä",
-            "israelin puolustusvoimat",
-            "palestiinalaisalueet",
-            "humanitaarinen apu",
-            "kansainvälinen apu",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20174511?origin=rss"
         }
       ]
     },
@@ -585,18 +531,6 @@
             "tykistö"
           ],
           "link": "https://yle.fi/a/74-20174484?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rajakiista | Thaimaa varoittaa sodan uhasta Kambodžan kanssa",
-          "content": "Thaimaan ja Kambodžan pääministerit kertoivat perjantai-iltana suostuneensa Malesian tulitaukoehdotukseen. Myöhemmin Kambodža väitti Thaimaan vetäytyneen ehdotuksesta.",
-          "date": "2025-07-25T14:57:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011387734.html"
         }
       ]
     },
@@ -676,7 +610,7 @@
       ]
     },
     {
-      "mainTitle": "Kolme nuorta hukkui Kalajoen Hiekkasärkillä",
+      "mainTitle": "Kolme nuorta hukkui Kalajoella",
       "mainCategories": [
         "Kotimaa",
         "Kalajoki",
@@ -919,6 +853,70 @@
       ]
     },
     {
+      "mainTitle": "Israel aloittaa osittaiset taistelutauot Gazassa",
+      "mainCategories": [
+        "Maailma",
+        "Israel",
+        "Palestiina"
+      ],
+      "imageUrl": "/images/gaza/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Gazan sota | Mediat: Avustus­rekkoja alkanut päästä Gazaan",
+          "content": "Israel väittää aloittavansa ”tauot” sota­toimissa osassa Gazaa.",
+          "date": "2025-07-27T10:35:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011389655.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Israel aloittaa osittaiset taistelutauot Gazan kaistalla",
+          "content": "",
+          "date": "2025-07-27T07:15:06.000Z",
+          "categories": [
+            "israel",
+            "lähi-itä",
+            "palestiina",
+            "konfliktit",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6722872"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kommentti | Muutama ilma­pudotus ja rekka ovat vain silmän­lumetta, jos Israel ei aidosti pura Gazan sulkua",
+          "content": "Tuhannet avustusrekat odottavat Jordaniassa ja Egyptissä pääsyä Gazaan, kirjoittaa HS:n toimittaja Anna-Liina Kauhanen.",
+          "date": "2025-07-27T06:11:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011389578.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Gazan sota | Israelin ase­voimat sanoo pudottaneensa Gazaan seitsemän lavallista avustus­tarvikkeita",
+          "content": "Yli sata avustus- ja ihmisoikeusjärjestöä varoitti aiemmin tällä viikolla massanälkiintymisen leviämisestä Gazan kaistalla.",
+          "date": "2025-07-27T03:50:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011389536.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Etsintöjä jatkettu Kiteellä ja Iissä",
       "mainCategories": [
         "Kotimaa",
@@ -977,13 +975,13 @@
       ]
     },
     {
-      "mainTitle": "Trump golfaa ennen EU-keskusteluja Skotlannissa",
+      "mainTitle": "Trump ja von der Leyen neuvottelevat Skotlannissa",
       "mainCategories": [
         "Skotlanti",
         "Ulkomaat",
         "Golf"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1001,6 +999,30 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20174539?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump ja von der Leyen tapaavat Skotlannissa – asialistalla Yhdysvaltain ja EU:n kauppadiili",
+          "content": "Mediatietojen mukaan osapuolet ovat lähellä sopimusta, joka toisi EU-tuotteille 15 prosentin tullit.",
+          "date": "2025-07-27T00:10:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011389590.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppasota | Trump ja von der Leyen tapaavat Skotlannissa – asialistalla Yhdysvaltain ja EU:n kauppadiili",
+          "content": "Mediatietojen mukaan osapuolet ovat lähellä sopimusta, joka toisi EU-tuotteille 15 prosentin tullit.",
+          "date": "2025-07-27T00:07:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011389582.html"
         },
         {
           "publisherId": "yle",
@@ -1278,49 +1300,76 @@
       ]
     },
     {
-      "mainTitle": "Trump ja von der Leyen neuvottelevat kauppasopimuksesta",
+      "mainTitle": "Israel pysäytti avustuslaivan Gazaan",
       "mainCategories": [
-        "Talous",
-        "Politiikka",
-        "Taloussanomat"
+        "Ulkomaat",
+        "Israel",
+        "Avustustoiminta"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Trump ja von der Leyen tapaavat Skotlannissa – asialistalla Yhdysvaltain ja EU:n kauppadiili",
-          "content": "Mediatietojen mukaan osapuolet ovat lähellä sopimusta, joka toisi EU-tuotteille 15 prosentin tullit.",
-          "date": "2025-07-27T00:10:00.000Z",
+          "title": "Israel pysäytti jälleen Gazaan pyrkineen aktivistien avustuslaivan",
+          "content": "Aluksen oli määrä tuoda Gazaan pieni määrä avustustarvikkeita.",
+          "date": "2025-07-26T22:26:00.000Z",
           "categories": [
-            "taloussanomat"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011389590.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011389574.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Trump ja von der Leyen tapaavat Skotlannissa – asialistalla Yhdysvaltain ja EU:n kauppadiili",
-          "content": "Mediatietojen mukaan osapuolet ovat lähellä sopimusta, joka toisi EU-tuotteille 15 prosentin tullit.",
-          "date": "2025-07-27T00:07:00.000Z",
+          "title": "Gazan sota | Israel pysäytti jälleen Gazaan pyrkineen aktivistien avustuslaivan",
+          "content": "Aluksen oli määrä tuoda Gazaan pieni määrä avustustarvikkeita.",
+          "date": "2025-07-26T22:23:00.000Z",
           "categories": [
-            "talous"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/talous/art-2000011389582.html"
+          "link": "https://www.hs.fi/maailma/art-2000011389566.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tullit | Von der Leyen ja Trump keskustelevat sunnuntaina kauppa­suhteista",
-          "content": "Yhdysvallat on uhannut nostaa tuontitulleja 30 prosenttiin elokuun alusta alkaen, ellei kauppasopimusta synny.",
-          "date": "2025-07-25T18:23:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Israel pysäytti jälleen Gazaan pyrkineen aktivistien avustuslaivan",
+          "content": "Freedom Flotilla -aktivistiryhmän mukaan Israel nousi alukseen kansainvälisillä vesillä.",
+          "date": "2025-07-26T22:14:03.000Z",
           "categories": [
-            "politiikka"
+            "gazan sota",
+            "israel",
+            "lähi-itä",
+            "avustustoiminta",
+            "kansalaistoiminta",
+            "israelin puolustusvoimat",
+            "gazan saarto",
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011388396.html"
+          "link": "https://yle.fi/a/74-20174514?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Reuters: Israel ilmoitti tauosta asevoimien toimissa toistaiseksi osassa Gazaa",
+          "content": "Alkuviikosta yli sadan avustusjärjestön yhteisessä lausunnossa varoitettiin, että Gazan asukkaita uhkaa laaja nälänhätä.",
+          "date": "2025-07-26T19:36:38.000Z",
+          "categories": [
+            "gazan sota",
+            "israel",
+            "gazan kaista",
+            "lähi-itä",
+            "israelin puolustusvoimat",
+            "palestiinalaisalueet",
+            "humanitaarinen apu",
+            "kansainvälinen apu",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20174511?origin=rss"
         }
       ]
     },
@@ -1386,7 +1435,7 @@
       ]
     },
     {
-      "mainTitle": "Qstock-festivaali käynnistyi rauhallisesti",
+      "mainTitle": "Qstock-festivaali käynnistyi rauhallisesti Oulussa",
       "mainCategories": [
         "Tapahtumat",
         "Oulu",
@@ -1427,13 +1476,13 @@
       ]
     },
     {
-      "mainTitle": "Suomen luottoluokitus laski historiallisen alhaalle",
+      "mainTitle": "Suomen luottoluokitus laski historialliseen tasoon",
       "mainCategories": [
         "Talous",
         "Politiikka",
         "Luottoluokitukset"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1630,7 +1679,7 @@
       ]
     },
     {
-      "mainTitle": "Vesijettionnettomuus Valkeakoskella, kaksi loukkaantui",
+      "mainTitle": "Vesijetin onnettomuus Valkeakoskella, kaksi loukkaantui",
       "mainCategories": [
         "Onnettomuudet",
         "Kotimaa",
@@ -1905,13 +1954,13 @@
       ]
     },
     {
-      "mainTitle": "Israelin iskussa Gazassa kuoli 25 ihmistä",
+      "mainTitle": "Israelin iskut Gazassa aiheuttavat kuolemia ja haavoittumisia",
       "mainCategories": [
         "Israel",
         "Hamas",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1983,7 +2032,7 @@
       ]
     },
     {
-      "mainTitle": "Bussiturma Perussa vaati 18 kuolonuhria",
+      "mainTitle": "Bussiturmassa Perussa kuoli 18 ihmistä",
       "mainCategories": [
         "Ulkomaat",
         "Onnettomuudet",
@@ -2055,7 +2104,7 @@
       ]
     },
     {
-      "mainTitle": "Lapin tulipalon vuoksi junat myöhästyvät 11 tuntia",
+      "mainTitle": "Lapissa veturin palo aiheutti myöhästymisiä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2089,7 +2138,7 @@
       ]
     },
     {
-      "mainTitle": "Brittimedia raportoi Suomen helteistä",
+      "mainTitle": "Suomen helteet herättivät brittimediahuomiota",
       "mainCategories": [
         "Maailma",
         "Kotimaa"
