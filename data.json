@@ -1,198 +1,192 @@
 {
-  "timestamp": "2025-08-10T07:37:30.395Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-08-10T08:20:33.220Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Hollolan koulupaloa epäillään tuhotyöksi",
+      "mainTitle": "Kanadan maastopalot värjäsivät Suomen taivasta",
       "mainCategories": [
         "Kotimaa",
-        "Onnettomuudet",
-        "Tulipalot"
+        "Suomi",
+        "Luonto"
+      ],
+      "imageUrl": "/images/kanada/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Erikoinen näky Suomen taivaalla – Tässä syy",
+          "content": "Ilmatieteen laitoksen mukaan ilmanlaatu ei ole vaarantunut. Lauantai-iltana taivaalla saattoi nähdä erikoisen näköisen, punaiseksi värjäytyneen auringon. Ilmatieteen laitoksen päivystävän meteorologin Jaakko Savelan mukaan taustalla on Kanadan metsäpalot. – Sieltä on kantautunut hiukkasia, ja se vaikuttaa siihen miten valo heijastuu ilmakehän läpi, hän selittää.",
+          "date": "2025-08-10T08:07:18.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/51d9ecad-70f2-4e45-89fa-b512f5736909"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Upea yötaivas ikuistettiin kuviin – Katso Kalevan lukijoiden lähettämiä kuvia Kanadan maastopalojen punertamasta taivaasta ja täysikuusta",
+          "content": "Lukijan kuvat näyttävät lauantai-iltana näkyneen punertavan auringon.",
+          "date": "2025-08-10T07:01:16.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/upea-yotaivas-ikuistettiin-kuviin-katso-kalevan-lu/11731043?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kanadan maastopaloista kantautui savua Suomen ylle lauantai-iltana",
+          "content": "Ilmatieteen laitoksen mukaan auringonlasku saattoi illalla näkyä tavallista punertavampana.",
+          "date": "2025-08-09T19:41:19.000Z",
+          "categories": [
+            "luonto",
+            "maastopalot",
+            "ilmatieteen laitos",
+            "ilmakehä",
+            "suomi",
+            "pohjois-amerikka",
+            "kanada",
+            "metsäpalot",
+            "auringonlasku",
+            "savu",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20176668?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ilmanlaatu | Kanadan maasto­palojen savu värjäsi auringon­laskua Suomessa",
+          "content": "Auringonlasku saattoi näkyä punaisena, sanottiin Ilmatieteen laitokselta.",
+          "date": "2025-08-09T19:12:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011418203.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Illalla auringonlasku saattoi olla kauniin punertava, mutta sillä on ikävä syy – Kanadan maastopaloista kantautui illaksi savua Suomen ylle",
+          "content": "Kanadan maastopaloista kantautuu savua Suomeen illalla, mikä voi näyttäytyä punertavana auringonlaskuna osassa maata.",
+          "date": "2025-08-09T10:24:40.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/illalla-auringonlasku-saattoi-olla-kauniin-punerta/11730318?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suomen taivaalle voi ilmestyä lauantai-iltana näyttävä näky – tässä syy",
+          "content": "Auringonlasku voi näyttäytyä osassa maata tavallista punertavampana.",
+          "date": "2025-08-09T09:28:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011417575.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Synnytykset kestävät pidempään nykyään",
+      "mainCategories": [
+        "Terveys",
+        "Synnytys",
+        "Äitiys"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Hollolassa | Koulurakennuksen paloa epäillään tuhotyöksi",
-          "content": "Palava rakennus on koulukeskuksessa sijaitseva Kankaan koulu, joka on vaativan erityisen tuen koulu perusopetuksen oppilaille.",
-          "date": "2025-08-10T07:24:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011418279.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Palaneen koulun rehtori: ”Ensireaktio oli järkytys” – Näin käy huomisen koulupäivän",
-          "content": "Noin 80 oppilaan koulunkäynti jatkuu näillä näkymin maanantaina muissa tiloissa. Kankaan koulu Hollolassa Päijät-Hämeessä syttyi tuleen varhain sunnuntaiaamuna. Koulun rehtori Minna Tsutsunen kertoo saaneensa tiedon palosta heti aamulla kello seitsemän herätessään. Hän kertoo saaneensa yön aikana viestin eräältä henkilökunnan jäseneltä ja epäilee, että myös pelastuslaitos oli yrittänyt ottaa yhteyttä.",
-          "date": "2025-08-10T06:55:57.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/662f25f6-717a-44e8-bdad-d82446ad77be"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Palaneen koulun rehtori kertoo tuhoista – näin käy maanantain koulupäivän",
-          "content": "Erityisen tuen koulun tilat paloivat lähes kokonaan.",
-          "date": "2025-08-10T05:48:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011418334.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kuvat näyttävät koulun kaamean tuhon Hollolassa – epäillään tuhotyöksi",
-          "content": "Koulurakennus syttyi tuleen Hollolassa sunnuntain vastaisena yönä.",
-          "date": "2025-08-10T04:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011418278.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Koulu tuhoutunut Hollolassa – Video näyttää julkean totuuden",
-          "content": "Päivystävän palomestarin mukaan sammutustyöt tulevat jatkumaan useita tunteja. Kankaan koulu Hollolassa Päijät-Hämeessä syttyi tuleen varhain aamuyöllä sunnuntaina. Päijät-Hämeen pelastuslaitoksen mukaan tulipalon syttymissyy on toistaiseksi epäselvä.",
-          "date": "2025-08-10T00:02:53.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/0417e012-49a1-4518-85e6-c558053950f8"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Synnytykset kestävät nyt pari tuntia pidempään kuin vuosituhannen alussa",
+          "content": "Syitä alatiesynnytysten pidentymiseen voi löytyä sekä muuttuneista synnytyskäytännöistä että synnyttäjien ominaisuuksista.",
+          "date": "2025-08-10T08:00:00.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/synnytykset-kestavat-nyt-pari-tuntia-pidempaan-kui/11730989?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Palomestari epäilee Hollolan rajua koulupaloa tuhotyöksi – oppilaille etsitään väistötiloja",
-          "content": "Oppilaiden koulunkäynti jatkuu maanantaina normaalisti. Kankaan koulun oppilaille etsitään uusia tiloja koulukeskuksesta.",
-          "date": "2025-08-09T23:22:20.000Z",
+          "title": "Synnytysten kesto on kasvanut parilla tunnilla 20 vuodessa",
+          "content": "",
+          "date": "2025-08-10T02:58:59.000Z",
           "categories": [
-            "onnettomuudet",
-            "tulipalot",
-            "koulut",
-            "hollola",
-            "päijät-hämeen pelastuslaitos",
-            "kotimaa",
-            "päijät-häme"
+            "terveys",
+            "synnytys",
+            "terveyden ja hyvinvoinnin laitos",
+            "äitiys",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20176673?origin=rss"
+          "link": "https://yle.fi/a/74-20176676?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Stubb keskusteli Zelenskyin ja Trumpin kanssa",
+      "mainTitle": "Flow-festivaali houkuttelee goottityylillä",
       "mainCategories": [
-        "Ulkomaat",
-        "Kotimaa",
-        "Maailma"
+        "Musiikki",
+        "Helsinki",
+        "Muoti"
       ],
-      "imageUrl": "/images/stubb/4.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Euroopan johtajilta ja Stubbilta tiukka kannanotto – näin Zelenskyi kommentoi",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
-          "date": "2025-08-10T07:18:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Goottityyli valtasi Flow-festivaalin – katso kuvat upeista asuista",
+          "content": "Viikonloppuna Helsingissä vietetyn Flow'n tyyleissä mielikuvituksella ei ole rajoja.",
+          "date": "2025-08-10T07:47:33.000Z",
           "categories": [
-            "ulkomaat"
+            "musiikki",
+            "helsinki",
+            "flow festival",
+            "muoti",
+            "vaatteet",
+            "kulttuuri",
+            "viihde"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011373191.html"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Presidentti Stubb puhui puhelimessa Trumpin ja Zelenskyin kanssa",
-          "content": "Tasavallan presidentti Alexander Stubb puhui puhelimessa Ukrainan presidentin Volodymyr Zelenskyin ja Yhdysvaltain presidentin Donald Trumpin kanssa.",
-          "date": "2025-08-10T05:41:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/feeebc39-9c62-4dcc-b00a-fe11ef9ebe5d"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubb kutsuttiin pienen piirin huipputärkeään keskusteluun – asiantuntija kertoo syyn",
-          "content": "Presidentti Alexander Stubb on ottanut aktiivisen roolin maailmanpolitiikassa. Tutkija arvioi, miksi häntä kuunnellaan.",
-          "date": "2025-08-10T05:15:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011412577.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | Stubb keskusteli Zelenskyin ja Trumpin kanssa",
-          "content": "Zelenskyi kiittää Stubbia viestipalvelu X:ssä.",
-          "date": "2025-08-09T23:14:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011418275.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubb ja Trump keskustelivat puhelimessa",
-          "content": "Stubb keskusteli lauantaina myös Ukrainan presidentin Volodymyr Zelenskyin kanssa.",
-          "date": "2025-08-09T22:58:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011418269.html"
+          "link": "https://yle.fi/a/74-20176658?origin=rss"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Presidentti Stubb puhui puhelimessa Zelenskyin ja Trumpin kanssa",
-          "content": "Stubb jutteli viimeksi viisi päivää sitten presidentti Trumpin kanssa puhelimessa.",
-          "date": "2025-08-09T18:31:04.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "kotimaa",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20176664?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Zelenskyi puhui presidentti Stubbin kanssa: ”Kiitos tuesta, Alexander”",
+          "title": "Flow-festivaali jatkuu Helsingissä – kohuyhtye Kneecap nousee lavalle",
           "content": "",
-          "date": "2025-08-09T16:07:37.000Z",
+          "date": "2025-08-09T01:10:32.000Z",
           "categories": [
-            "venäjän hyökkäys",
-            "ulkomaat"
+            "musiikki",
+            "festivaalit",
+            "flow festival",
+            "tapahtumat",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20176654?origin=rss"
+          "link": "https://yle.fi/a/74-20176597?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Kahta puukotettiin Tampereen keskustassa",
+      "mainTitle": "Kaksi puukotettu Tampereen keskustassa",
       "mainCategories": [
         "Tampere",
         "Puukotus",
@@ -200,6 +194,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tampere | Puukotuksen uhrit ja epäilty tekijä tunsivat tiettävästi toisensa",
+          "content": "Poliisi kertoi tutkivansa tekoa kahtena tapon yrityksenä.",
+          "date": "2025-08-10T07:45:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011418429.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -313,11 +319,100 @@
       ]
     },
     {
-      "mainTitle": "Trump ja Putin neuvottelevat Alaskassa ensi viikolla",
+      "mainTitle": "Hollolan koulupalo epäillään tuhotyöksi",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Tulipalot"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS Hollolassa | Koulurakennuksen paloa epäillään tuhotyöksi",
+          "content": "Palava rakennus on koulukeskuksessa sijaitseva Kankaan koulu, joka on vaativan erityisen tuen koulu perusopetuksen oppilaille.",
+          "date": "2025-08-10T07:24:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011418279.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Palaneen koulun rehtori: ”Ensireaktio oli järkytys” – Näin käy huomisen koulupäivän",
+          "content": "Noin 80 oppilaan koulunkäynti jatkuu näillä näkymin maanantaina muissa tiloissa. Kankaan koulu Hollolassa Päijät-Hämeessä syttyi tuleen varhain sunnuntaiaamuna. Koulun rehtori Minna Tsutsunen kertoo saaneensa tiedon palosta heti aamulla kello seitsemän herätessään. Hän kertoo saaneensa yön aikana viestin eräältä henkilökunnan jäseneltä ja epäilee, että myös pelastuslaitos oli yrittänyt ottaa yhteyttä.",
+          "date": "2025-08-10T06:55:57.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/662f25f6-717a-44e8-bdad-d82446ad77be"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Palaneen koulun rehtori kertoo tuhoista – näin käy maanantain koulupäivän",
+          "content": "Erityisen tuen koulun tilat paloivat lähes kokonaan.",
+          "date": "2025-08-10T05:48:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011418334.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kuvat näyttävät koulun kaamean tuhon Hollolassa – epäillään tuhotyöksi",
+          "content": "Koulurakennus syttyi tuleen Hollolassa sunnuntain vastaisena yönä.",
+          "date": "2025-08-10T04:26:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011418278.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Koulu tuhoutunut Hollolassa – Video näyttää julkean totuuden",
+          "content": "Päivystävän palomestarin mukaan sammutustyöt tulevat jatkumaan useita tunteja. Kankaan koulu Hollolassa Päijät-Hämeessä syttyi tuleen varhain aamuyöllä sunnuntaina. Päijät-Hämeen pelastuslaitoksen mukaan tulipalon syttymissyy on toistaiseksi epäselvä.",
+          "date": "2025-08-10T00:02:53.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/0417e012-49a1-4518-85e6-c558053950f8"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Palomestari epäilee Hollolan rajua koulupaloa tuhotyöksi – oppilaille etsitään väistötiloja",
+          "content": "Oppilaiden koulunkäynti jatkuu maanantaina normaalisti. Kankaan koulun oppilaille etsitään uusia tiloja koulukeskuksesta.",
+          "date": "2025-08-09T23:22:20.000Z",
+          "categories": [
+            "onnettomuudet",
+            "tulipalot",
+            "koulut",
+            "hollola",
+            "päijät-hämeen pelastuslaitos",
+            "kotimaa",
+            "päijät-häme"
+          ],
+          "link": "https://yle.fi/a/74-20176673?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Zelenskyin mahdollinen kutsu Alaskaan neuvotteluihin",
       "mainCategories": [
         "Ulkomaat",
-        "Ukraina",
-        "Maailma"
+        "Maailma",
+        "Ukraina"
       ],
       "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
@@ -332,6 +427,18 @@
             "politiikka"
           ],
           "link": "https://www.kauppalehti.fi/uutiset/a/607581be-44b6-4b21-a2b5-3ef06656b346"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Mediat: Zelenskyin kutsumista Alaskaan harkitaan",
+          "content": "Venäjän ja Yhdysvaltain presidentit neuvottelevat perjantaina Alaskassa.",
+          "date": "2025-08-10T03:30:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011418301.html"
         },
         {
           "publisherId": "is",
@@ -425,90 +532,13 @@
       ]
     },
     {
-      "mainTitle": "Kanadan maastopalot värjäsivät Suomen taivasta",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa",
-        "Luonto"
-      ],
-      "imageUrl": "/images/kanada/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Upea yötaivas ikuistettiin kuviin – Katso Kalevan lukijoiden lähettämiä kuvia Kanadan maastopalojen punertamasta taivaasta ja täysikuusta",
-          "content": "Lukijan kuvat näyttävät lauantai-iltana näkyneen punertavan auringon.",
-          "date": "2025-08-10T07:01:16.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/upea-yotaivas-ikuistettiin-kuviin-katso-kalevan-lu/11731043?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kanadan maastopaloista kantautui savua Suomen ylle lauantai-iltana",
-          "content": "Ilmatieteen laitoksen mukaan auringonlasku saattoi illalla näkyä tavallista punertavampana.",
-          "date": "2025-08-09T19:41:19.000Z",
-          "categories": [
-            "luonto",
-            "maastopalot",
-            "ilmatieteen laitos",
-            "ilmakehä",
-            "suomi",
-            "pohjois-amerikka",
-            "kanada",
-            "metsäpalot",
-            "auringonlasku",
-            "savu",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20176668?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ilmanlaatu | Kanadan maasto­palojen savu värjäsi auringon­laskua Suomessa",
-          "content": "Auringonlasku saattoi näkyä punaisena, sanottiin Ilmatieteen laitokselta.",
-          "date": "2025-08-09T19:12:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011418203.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Illalla auringonlasku saattoi olla kauniin punertava, mutta sillä on ikävä syy – Kanadan maastopaloista kantautui illaksi savua Suomen ylle",
-          "content": "Kanadan maastopaloista kantautuu savua Suomeen illalla, mikä voi näyttäytyä punertavana auringonlaskuna osassa maata.",
-          "date": "2025-08-09T10:24:40.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/illalla-auringonlasku-saattoi-olla-kauniin-punerta/11730318?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Suomen taivaalle voi ilmestyä lauantai-iltana näyttävä näky – tässä syy",
-          "content": "Auringonlasku voi näyttäytyä osassa maata tavallista punertavampana.",
-          "date": "2025-08-09T09:28:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011417575.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Euroopan johtajat tukevat Ukrainaa ja painostavat Venäjää",
       "mainCategories": [
         "Ukraina",
         "Eurooppa",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -543,6 +573,92 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20176675?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Stubb keskusteli Trumpin ja Zelenskyin kanssa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Kotimaa",
+        "Maailma"
+      ],
+      "imageUrl": "/images/stubb/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Presidentti Stubb puhui puhelimessa Trumpin ja Zelenskyin kanssa",
+          "content": "Tasavallan presidentti Alexander Stubb puhui puhelimessa Ukrainan presidentin Volodymyr Zelenskyin ja Yhdysvaltain presidentin Donald Trumpin kanssa.",
+          "date": "2025-08-10T05:41:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/feeebc39-9c62-4dcc-b00a-fe11ef9ebe5d"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Stubb kutsuttiin pienen piirin huipputärkeään keskusteluun – asiantuntija kertoo syyn",
+          "content": "Presidentti Alexander Stubb on ottanut aktiivisen roolin maailmanpolitiikassa. Tutkija arvioi, miksi häntä kuunnellaan.",
+          "date": "2025-08-10T05:15:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011412577.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Stubb keskusteli Zelenskyin ja Trumpin kanssa",
+          "content": "Zelenskyi kiittää Stubbia viestipalvelu X:ssä.",
+          "date": "2025-08-09T23:14:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011418275.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Stubb ja Trump keskustelivat puhelimessa",
+          "content": "Stubb keskusteli lauantaina myös Ukrainan presidentin Volodymyr Zelenskyin kanssa.",
+          "date": "2025-08-09T22:58:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011418269.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Presidentti Stubb puhui puhelimessa Zelenskyin ja Trumpin kanssa",
+          "content": "Stubb jutteli viimeksi viisi päivää sitten presidentti Trumpin kanssa puhelimessa.",
+          "date": "2025-08-09T18:31:04.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "kotimaa",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20176664?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Zelenskyi puhui presidentti Stubbin kanssa: ”Kiitos tuesta, Alexander”",
+          "content": "",
+          "date": "2025-08-09T16:07:37.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20176654?origin=rss"
         }
       ]
     },
@@ -624,13 +740,13 @@
       ]
     },
     {
-      "mainTitle": "Kymmenet tuhannet mieltään osoittivat Tel Avivissa",
+      "mainTitle": "Kymmenetuhannet mieltään osoittivat Tel Avivissa",
       "mainCategories": [
         "Ulkomaat",
         "Israel",
         "Mielenosoitukset"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -675,62 +791,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20176670?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Zelenskyin mahdollinen kutsu Alaskaan",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/venäjä/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | Mediat: Zelenskyin kutsumista Alaskaan harkitaan",
-          "content": "Venäjän ja Yhdysvaltain presidentit neuvottelevat perjantaina Alaskassa.",
-          "date": "2025-08-10T03:30:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011418301.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kutsutaanko Zelenskyi Alaskaan? Tämä tiedetään nyt",
-          "content": "Mediatietojen mukaan Valkoinen talo on avoin Zelenskyin kutsumiselle.",
-          "date": "2025-08-10T03:23:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011418295.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Trump ja Putin tapaavat ensi perjantaina Alaskassa – \"Valtuuskuntamme vain lentää Beringinsalmen yli\"",
-          "content": "Sekä Venäjä että Ukraina joutuvat luopumaan hallitsemistaan alueista sodan päättämiseksi Ukrainassa, presidentti Trump sanoi.",
-          "date": "2025-08-09T04:22:18.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/trump-ja-putin-tapaavat-ensi-perjantaina-alaskassa/11730163?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Bloomberg: Yhdysvallat ja Venäjä suunnittelevat aseleposopimusta – kylmäävät ehdot julki",
-          "content": "Sopimus olisi näillä näkymin hyvin suotuisa Venäjän presidentti Vladimir Putinille.",
-          "date": "2025-08-08T20:25:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011416877.html"
         }
       ]
     },
@@ -834,7 +894,7 @@
         "Puolustusministeriö",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1146,11 +1206,9 @@
     {
       "mainTitle": "Israel suunnittelee Gazan kaupungin valtaamista",
       "mainCategories": [
-        "Maailma",
-        "Eurooppa",
-        "Israel"
+        "Maailma"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1168,6 +1226,18 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
+          "title": "Gazan sota | Viiden maan ulkoministerit tuomitsevat Israelin hyökkäyksen laajentamisen Gazassa",
+          "content": "Gazan kaupungin valtaussuunnitelmaa vastusti asevoimien komentajan lisäksi Israelin kansallisen turvallisuuden neuvonantaja, kertoo israelilaismedia Haaretz.",
+          "date": "2025-08-09T02:46:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011417357.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
           "title": "Gazan sota | Israel aikoo vallata Gazan kaupungin, asian­tuntijan mukaan se johtaisi ”hirvittävään tilanteeseen”",
           "content": "Suomen Lähi-idän instituutin johtajan mukaan Israelin suunnitelma vallata Gazan kaupunki on kansain­välisen oikeuden vastainen.",
           "date": "2025-08-08T11:09:00.000Z",
@@ -1175,30 +1245,11 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011414712.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ulkoministeri Valtonen: Suomi seuraa huolestuneena Israelin toimintaa Gazassa",
-          "content": "Israelin turvallisuuskabinetti hyväksyi perjantaina pääministeri Benjamin Netanjahun suunnitelman Gazan kaupungin valtaamisesta kokonaan.",
-          "date": "2025-08-08T08:06:27.000Z",
-          "categories": [
-            "gazan sota",
-            "kansainvälinen politiikka",
-            "elina valtonen",
-            "eurooppa",
-            "israel",
-            "lähi-idän kriisi",
-            "palestiinalaisalueet",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20176449?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "VR vaatii Väylävirastolta miljoonakorvauksia",
+      "mainTitle": "VR vaatii yli neljän miljoonan korvauksia",
       "mainCategories": [
         "Liikenne",
         "Suomi",
@@ -1255,11 +1306,11 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan sodan rauhansopimushaasteet jatkuvat",
+      "mainTitle": "Ukrainan sodan rauhansopimushaaveet ja haasteet",
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1424,7 +1475,7 @@
         "Diktaattorit",
         "Diktatuurit"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1528,7 +1579,7 @@
         "Venäjä",
         "Intia"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1763,7 +1814,7 @@
       ]
     },
     {
-      "mainTitle": "Maria Ohisalo sai toisen lapsen",
+      "mainTitle": "Maria Ohisalo sai toisen lapsensa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1796,7 +1847,7 @@
       ]
     },
     {
-      "mainTitle": "Hautaryöstöt tuhoavat Liedon muinaisia hautoja",
+      "mainTitle": "Hautaryöstöt tuhoavat Liedon muinaisjäännöksiä",
       "mainCategories": [
         "Suomi"
       ],
@@ -1829,11 +1880,11 @@
       ]
     },
     {
-      "mainTitle": "Flow-festivaali kohtaa boikottivaatimuksia",
+      "mainTitle": "Flow-festivaali kohtasi boikottimielenosoituksen",
       "mainCategories": [
         "Israel",
-        "Talous",
-        "Mielenosoitukset"
+        "Mielenosoitukset",
+        "Talous"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1896,7 +1947,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/saksa/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1933,21 +1984,11 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011415991.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Israelia vaaditaan perumaan suunnitelmansa Gazan hyökkäyksen laajentamisesta: \"Väärä päätös\"",
-          "content": "YK:n mukaan Israelin suunnitelma on kansainvälisen oikeuden linjan vastainen. Myös useat maat tuomitsevat suunnitelman.",
-          "date": "2025-08-08T08:43:27.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/israelia-vaaditaan-perumaan-suunnitelmansa-gazan-h/11729360?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
-      "mainTitle": "Purran budjettiehdotus ilman veronkiristyksiä",
+      "mainTitle": "Purran budjettiesitys ilman veronkiristyksiä",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1988,18 +2029,6 @@
             "politiikka"
           ],
           "link": "https://yle.fi/a/74-20176552?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Budjettiehdotus | Purran ehdotus ensi vuoden budjetiksi julkaistaan kokonaisuudessaan tänään",
-          "content": "Valtiovarainministeri Purran kiistellyssä ehdotuksessa kaavailtiin noin miljardin lisäsäästöjä valtion budjettiin.",
-          "date": "2025-08-08T08:09:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011414721.html"
         }
       ]
     },
@@ -2038,7 +2067,7 @@
       ]
     },
     {
-      "mainTitle": "Hallituksen romutuspalkkio herättää kritiikkiä",
+      "mainTitle": "Romutuspalkkio kasvattaisi hyvätuloisten tuloja",
       "mainCategories": [
         "Liikenne",
         "Autokanta",
@@ -2073,88 +2102,6 @@
             "talous"
           ],
           "link": "https://yle.fi/a/74-20176541?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hylkeiden joukkokuoleman syy edelleen tuntematon",
-      "mainCategories": [
-        "Eläimet",
-        "Porvoo",
-        "Hylkeet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Eläimet | Porvoon ja Loviisan saariston hylje­kuolemien syy ei selvinnyt tutkimuksissa",
-          "content": "Uudeltamaalta Porvoon rannikolta ja Loviisan saaristosta löytyi 19 kuollutta hyljettä heinäkuussa.",
-          "date": "2025-08-08T08:36:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011415400.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tutkimukset valmistuivat, mutta hylkeiden joukkokuoleman syy jäi mysteeriksi",
-          "content": "Lähes kaksikymmentä hyljettä löytyi heinäkuussa kuolleena Loviisan ja Porvoon seudulla. Nyt kuolinsyytutkimukset ovat valmiit.",
-          "date": "2025-08-08T08:04:22.000Z",
-          "categories": [
-            "eläimet",
-            "porvoo",
-            "hylkeet",
-            "loviisa",
-            "pellinki",
-            "halli (hylkeet)",
-            "kuolemansyyt",
-            "porvoon seutukunta",
-            "hylje",
-            "penikkatauti",
-            "kalastus",
-            "luonto",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20176466?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "With Securesta ostotarjous Risto Siilasmaalta",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "With Securesta ostotarjous – mukana perustaja Risto Siilasmaa",
-          "content": "With Securen hallitus suosittelee yksimielisesti ostotarjoukseen tarttumista.",
-          "date": "2025-08-08T07:52:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011415252.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ostotarjoukset | Risto Siilasmaa haluaa ostaa perustamansa With Securen pois pörssistä",
-          "content": "Siilasmaa ja pääoma­sijoittaja CVC ovat tehneet osto­tarjouksen Helsingin pörssissä noteeratusta tieto­turva­yhtiö With Securesta.",
-          "date": "2025-08-08T07:40:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011414859.html"
         }
       ]
     }
