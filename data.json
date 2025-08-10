@@ -1,18 +1,85 @@
 {
-  "timestamp": "2025-08-10T08:45:41.284Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-08-10T09:16:26.316Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Hevosten pitoon uusia sääntöjä ensi vuodesta",
+      "mainCategories": [
+        "Eläimet",
+        "Hevonen"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Hevosella pitää ensi vuodesta lähtien olla kaverina toinen hevonen, aaseja tai muuli",
+          "content": "Hevosten pitoa koskeviin sääntöihin on tulossa ensi vuonna tarkennuksia.",
+          "date": "2025-08-10T09:14:29.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/hevosella-pitaa-ensi-vuodesta-lahtien-olla-kaverin/11731048?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hevosella pitää ensi vuodesta lähtien olla kaverina toinen hevonen, aaseja tai muuli",
+          "content": "Hevosten pitoa koskeviin sääntöihin on tulossa ensi vuonna tarkennuksia.",
+          "date": "2025-08-10T06:35:37.000Z",
+          "categories": [
+            "eläimet",
+            "hevonen"
+          ],
+          "link": "https://yle.fi/a/74-20176682?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Hollolan koulurakennus tuhoutui tulipalossa",
       "mainCategories": [
         "Kotimaa",
-        "Tulipalot",
-        "Koulut"
+        "Koulut",
+        "Tulipalot"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hollolan kunnanjohtaja: ”Tunnelma on todella apea ja järkyttynyt” – oppilaat voidaan siirtää lakkautettuun kouluun",
+          "content": "Vaativan erityisen tuen oppilaat voivat joutua tyytymään alkuvaiheessa epäsopiviin tiloihin.",
+          "date": "2025-08-10T09:06:31.000Z",
+          "categories": [
+            "onnettomuudet",
+            "koulut",
+            "hollola",
+            "koululaiset",
+            "tulipalot",
+            "koulutus ja kasvatus",
+            "päijät-häme",
+            "perusopetus",
+            "lapset ja nuoret",
+            "kankaan koulu",
+            "salpakankaan koulu",
+            "lahden seutukunta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20176689?origin=rss"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -66,18 +133,6 @@
           "link": "https://www.is.fi/kotimaa/art-2000011418334.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kuvat näyttävät koulun kaamean tuhon Hollolassa – epäillään tuhotyöksi",
-          "content": "Koulurakennus syttyi tuleen Hollolassa sunnuntain vastaisena yönä.",
-          "date": "2025-08-10T04:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011418278.html"
-        },
-        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
@@ -93,7 +148,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Palomestari epäilee Hollolan rajua koulupaloa tuhotyöksi – oppilaille etsitään väistötiloja",
+          "title": "Palomestari epäilee Hollolan rajua koulupaloa tuhotyöksi",
           "content": "Oppilaiden koulunkäynti jatkuu maanantaina normaalisti. Kankaan koulun oppilaille etsitään uusia tiloja koulukeskuksesta.",
           "date": "2025-08-09T23:22:20.000Z",
           "categories": [
@@ -117,7 +172,7 @@
         "Ukraina",
         "Eurooppa"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -186,7 +241,7 @@
         "Suomi",
         "Luonto"
       ],
-      "imageUrl": "/images/kanada/1.jpg",
+      "imageUrl": "/images/kanada/2.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -259,7 +314,7 @@
       ]
     },
     {
-      "mainTitle": "Synnytykset pitenevät Suomessa kahdella tunnilla",
+      "mainTitle": "Synnytykset kestävät pidempään nykyään",
       "mainCategories": [
         "Terveys",
         "Synnytys",
@@ -296,7 +351,7 @@
       ]
     },
     {
-      "mainTitle": "Flow-festivaali houkutteli goottityylillä",
+      "mainTitle": "Flow-festivaali houkuttelee luovia tyylejä",
       "mainCategories": [
         "Musiikki",
         "Helsinki",
@@ -480,7 +535,7 @@
         "Ukraina",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -592,7 +647,7 @@
         "Kotimaa",
         "Maailma"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -755,7 +810,7 @@
         "Israel",
         "Mielenosoitukset"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -809,7 +864,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -834,16 +889,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011418295.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Trump ja Putin tapaavat ensi perjantaina Alaskassa – \"Valtuuskuntamme vain lentää Beringinsalmen yli\"",
-          "content": "Sekä Venäjä että Ukraina joutuvat luopumaan hallitsemistaan alueista sodan päättämiseksi Ukrainassa, presidentti Trump sanoi.",
-          "date": "2025-08-09T04:22:18.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/trump-ja-putin-tapaavat-ensi-perjantaina-alaskassa/11730163?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -953,13 +998,13 @@
       ]
     },
     {
-      "mainTitle": "Trump aikoo käyttää armeijaa huumekartelleja vastaan",
+      "mainTitle": "Trump suunnittelee armeijan käyttöä huumekartelleja vastaan",
       "mainCategories": [
         "Yhdysvallat",
         "Puolustusministeriö",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -991,7 +1036,7 @@
       ]
     },
     {
-      "mainTitle": "Purran budjettiesitys herättää voimakasta kritiikkiä",
+      "mainTitle": "Purran budjettiesitys herättää hallituksessa vastustusta",
       "mainCategories": [
         "Politiikka",
         "Puoluevaltuusto",
@@ -1205,7 +1250,7 @@
         "Ukraina",
         "Nato"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1358,7 +1403,7 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan sodan rauhansopimushaasteet jatkuvat",
+      "mainTitle": "Ukrainan sodan rauhansopimushaaveet ja haasteet",
       "mainCategories": [
         "Maailma"
       ],
@@ -1521,13 +1566,13 @@
       ]
     },
     {
-      "mainTitle": "Lukašenka epävarma tulevista vaaleista",
+      "mainTitle": "Lukašenka pohtii tulevia presidentinvaaleja",
       "mainCategories": [
         "Ulkomaat",
         "Diktaattorit",
         "Diktatuurit"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1606,13 +1651,13 @@
       ]
     },
     {
-      "mainTitle": "Trump ja Putin neuvottelivat rauhasta",
+      "mainTitle": "Trump ja Putin neuvottelevat rauhasta",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
         "Intia"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1847,7 +1892,7 @@
       ]
     },
     {
-      "mainTitle": "Maria Ohisalo sai toisen lapsensa",
+      "mainTitle": "Maria Ohisalo sai toisen lapsen",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1880,7 +1925,7 @@
       ]
     },
     {
-      "mainTitle": "Hautaryöstöt tuhoavat Liedon muinaisjäännöksiä",
+      "mainTitle": "Hautaryöstöt tuhoavat Liedon muinaisia hautoja",
       "mainCategories": [
         "Suomi"
       ],
@@ -1913,7 +1958,7 @@
       ]
     },
     {
-      "mainTitle": "Flow-festivaali kohtaa boikottivaatimuksia",
+      "mainTitle": "Flow-festivaali kohtaa boikottikampanjan",
       "mainCategories": [
         "Israel",
         "Mielenosoitukset",
@@ -2021,7 +2066,7 @@
       ]
     },
     {
-      "mainTitle": "Purran budjettiesitys ilman veronkiristyksiä",
+      "mainTitle": "Purran budjetti­ehdotus ilman veronkiristyksiä",
       "mainCategories": [
         "Politiikka"
       ],
@@ -2100,7 +2145,7 @@
       ]
     },
     {
-      "mainTitle": "VATT: Romutuspalkkio hyödyttää hyvätuloisia",
+      "mainTitle": "Hallituksen romutuspalkkio kyseenalaistettu tutkimuksessa",
       "mainCategories": [
         "Liikenne",
         "Autokanta",
