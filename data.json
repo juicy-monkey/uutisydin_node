@@ -1,29 +1,63 @@
 {
-  "timestamp": "2025-08-18T18:52:05.829Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-08-18T19:14:17.055Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Trump ja Zelenskyi tapasivat Valkoisessa talossa",
+      "mainTitle": "Trump, Zelenskyi ja Euroopan johtajat neuvottelivat",
       "mainCategories": [
         "Ulkomaat",
         "Politiikka",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Suora lähetys: Trump ja Euroopan johtajat kameroiden edessä – Stubb Zelenskyin vieressä",
+          "title": "Suora lähetys: Johtajat puhuvat sodan lopettamisesta pöydän ääressä – Trump kehui Stubbia",
           "content": "IS raportoi Trumpin, Zelenskyin ja Euroopan johtajien tapaamisen käänteet hetki hetkeltä tässä artikkelissa.",
-          "date": "2025-08-18T18:49:00.000Z",
+          "date": "2025-08-18T19:10:00.000Z",
           "categories": [
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011425610.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "KL seuraa historiallista iltaa: Zelenskyi ja Stubb vierekkäin",
+          "content": "Trumpin, Zelenskyin ja eurooppalaisten johtajien tapaamisessa keskustellaan muun muassa Trumpin ja Putinin tapaamisesta.",
+          "date": "2025-08-18T19:06:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/bdd58ee2-db62-4d58-be6d-04efa1809f28"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump ja Zelenskyi Valkoisessa talossa erilaisissa tunnelmissa kuin viimeksi – katso ero kuvista",
+          "content": "Trumpin ja Zelenskyin helmikuinen tapaaminen päättyi ilmiriitaan, kun Trump ja varapresidentti J.D. Vance syyttelivät Zelenskyiä muun muassa kiittämättömyydestä.",
+          "date": "2025-08-18T19:04:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011436429.html"
         },
         {
           "publisherId": "iltalehti",
@@ -94,18 +128,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011436361.html"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "KL seuraa historiallista iltaa: Trump kehui Zelenskyin asua",
-          "content": "Trumpin, Zelenskyin ja eurooppalaisten johtajien tapaamisessa keskustellaan muun muassa Trumpin ja Putinin tapaamisesta.",
-          "date": "2025-08-18T17:52:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/bdd58ee2-db62-4d58-be6d-04efa1809f28"
         },
         {
           "publisherId": "iltalehti",
@@ -219,7 +241,7 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Trump kehui Zelenskyin asua – IL seuraa historiallista iltaa",
+          "title": "Zelenskyi ja Stubb vierekkäin – IL seuraa historiallista iltaa",
           "content": "Trumpin, Zelenskyin ja eurooppalaisten johtajien tapaamisessa keskustellaan muun muassa Trumpin ja Putinin tapaamisesta.  Yhdysvaltain presidentti Donald Trump kohtaa maanantaina Ukrainan presidentin Volodymyr Zelenskyin historiallisessa tapaamisessa Washingtonissa Yhdysvalloissa. Tapaamiseen osallistuu myös Yhdysvaltain varapresidentti J. D. Vance. Zelenskyin ja Yhdysvaltain johdon tapaamista seuraa Trumpin, Zelenskyin sekä eurooppalaisten johtajien tapaaminen.",
           "date": "2025-08-18T13:30:39.000Z",
           "categories": [
@@ -400,7 +422,7 @@
       ]
     },
     {
-      "mainTitle": "Linnanmaan uimahallissa jatkuvia ulostelöytöjä",
+      "mainTitle": "Linnanmaan uimahallissa toistuvia ulostelöytöjä",
       "mainCategories": [
         "Kotimaa",
         "Liikunta",
@@ -465,16 +487,6 @@
             "oulun seutu"
           ],
           "link": "https://www.is.fi/oulun-seutu/art-2000011433779.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Ulostepiina Linnanmaan uimahallissa jatkuu: Kakkalöytö sulki kuntoaltaan jo neljättä kertaa",
-          "content": "Linnanmaan uimahallin ulostepiina jatkuu. Kuntoallas jouduttiin sulkemaan viime viikolla kahdesti.",
-          "date": "2025-08-18T06:47:47.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/ulostepiina-linnanmaan-uimahallissa-jatkuu-kakkalo/11739447?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -485,7 +497,7 @@
         "Ukraina",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -652,7 +664,7 @@
         "Espanja",
         "Maastopalot"
       ],
-      "imageUrl": "/images/espanja/1.jpg",
+      "imageUrl": "/images/espanja/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -771,7 +783,7 @@
         "Hamas",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -809,7 +821,7 @@
         "Politiikka",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -919,7 +931,7 @@
         "Muutosneuvottelut",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1000,7 +1012,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1029,12 +1041,12 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan turvatakuissa vaarallisia virheitä varoitus",
+      "mainTitle": "Ukrainan turvatakuissa vaarallisia virheitä",
       "mainCategories": [
         "Rauhanneuvottelut",
         "Politiikka"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -1124,7 +1136,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1153,7 +1165,7 @@
       ]
     },
     {
-      "mainTitle": "Kesälomien siirtoehdotus kouluissa selvityksessä",
+      "mainTitle": "Kesälomien siirtoehdotus kouluissa tutkitaan",
       "mainCategories": [
         "Politiikka",
         "Kotimaa",
@@ -1228,7 +1240,7 @@
         "Rahastot",
         "Norja"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1355,7 +1367,7 @@
         "Ulkomaat",
         "Ukraina"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1577,7 +1589,7 @@
       ]
     },
     {
-      "mainTitle": "Karhujen metsästys vaikeutuu lakimuutoksista huolimatta",
+      "mainTitle": "Karhujen metsästys vaikeutuu edelleen",
       "mainCategories": [
         "Kotimaa",
         "Eläimet",
@@ -1729,67 +1741,7 @@
       ]
     },
     {
-      "mainTitle": "Yksityislääkärikäynnit eivät kasvaneet tuista huolimatta",
-      "mainCategories": [
-        "Terveydenhuolto",
-        "Kansaneläkelaitos",
-        "Terveys"
-      ],
-      "imageUrl": "/images/terveydenhuol/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Yle: Hallituksen isot korotukset yksityislääkärikäyntien julkisiin tukiin eivät juuri näy käyntimäärissä",
-          "content": "Hallitus käytti alkuvuonna tukiin noin kolme kertaa enemmän verorahaa kuin aiemmin, mutta käyntimäärät ovat kasvaneet vain parilla prosentilla.",
-          "date": "2025-08-18T10:07:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/yle-hallituksen-isot-korotukset-yksityislaakarikay/11739558?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle: Orpon hallitus korotti yksityislääkärien Kela-korvauksia – näin kävi käynneille",
-          "content": "Hallituksen korottamiin yksityislääkärien Kela-korvauksiin on mennyt kymmeniä miljoonia euroja verorahaa. Tulokset ovat jääneet vaisuiksi.",
-          "date": "2025-08-18T06:06:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011434178.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yksityislääkärien Kela-korvaukset: hallituksen uudistus lähes kolmin­kertaisti kulut, mutta käynnit eivät juuri kasva",
-          "content": "Hallitus korotti yksityis­lääkärikäyntien tukia kannustaakseen ihmisiä julkiselta yksityiseen hoitoon. Verorahat valuvat muutoinkin yksityis­lääkärissä käyville ja terveysjäteille.",
-          "date": "2025-08-18T03:30:36.000Z",
-          "categories": [
-            "terveydenhuolto",
-            "kansaneläkelaitos",
-            "terveys",
-            "terveydenhoito",
-            "terveyden ja hyvinvoinnin laitos",
-            "yksityinen terveydenhuolto",
-            "lääkärit",
-            "politiikka",
-            "talous",
-            "terveyspalvelut",
-            "hinnankorotus",
-            "julkinen terveydenhuolto",
-            "perusturva",
-            "hinnoittelu",
-            "hinnat",
-            "sosiaali- ja terveyspalvelut"
-          ],
-          "link": "https://yle.fi/a/74-20176866?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Oulun puukotustapaukset tutkitaan pahoinpitelyinä",
+      "mainTitle": "Oulun puukotus tutkitaan törkeänä pahoinpitelynä",
       "mainCategories": [
         "Rikosepäilyt",
         "Puukotus",
@@ -1808,16 +1760,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011434991.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Mannerheiminpuiston puukotusta tutkitaan törkeänä pahoinpitelynä – uhri poistui sairaalasta itse",
-          "content": "Mannerheimin puistossa tapahtunutta puukotusta tutkitaan törkeänä pahoinpitelynä. Uhri poistui itse sairaalasta ja tekijäkin on vapautettu.",
-          "date": "2025-08-18T09:30:55.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/mannerheiminpuiston-puukotusta-tutkitaan-torkeana/11739448?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -1870,47 +1812,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011434370.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mira Luoti kertoo seksuaalisesta väkivallasta",
-      "mainCategories": [
-        "Elokuvat",
-        "Pmmp",
-        "Musiikki"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Yle: PMMP-yhtyeen Mira Luoti joutui seksuaalisen väkivallan uhriksi tv-kuvauksissa, mutta hänet maksettiin hiljaiseksi",
-          "content": "Mira Luoti kertoo joutuneensa seksuaalisen väkivallan uhriksi tv-kuvauksissa.",
-          "date": "2025-08-18T08:57:08.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/yle-pmmp-yhtyeen-mira-luoti-joutui-seksuaalisen-va/11739667?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "PMMP-elokuva: Mira Luoti joutui seksuaalisen väkivallan uhriksi tv-ohjelman kuvauksissa – maksettiin hiljaiseksi",
-          "content": "PMMP nousi suosikki­bändiksi myrkyllisessä ilmapiirissä. Ongelmat alalla jatkuvat. Paula Vesala ja Mira Luoti puhuvat kokemuksistaan avoimesti Ylen uudessa dokumentissa.",
-          "date": "2025-08-18T04:01:57.000Z",
-          "categories": [
-            "elokuvat",
-            "pmmp",
-            "paula vesala & mira luoti (pmmp)",
-            "musiikki",
-            "suomalaiset tv-dokumentit",
-            "paula vesala",
-            "mira luoti",
-            "yle uutiset somenostot",
-            "kulttuuri"
-          ],
-          "link": "https://yle.fi/a/74-20175228?origin=rss"
         }
       ]
     },
@@ -2004,31 +1905,52 @@
       ]
     },
     {
-      "mainTitle": "Rattijuoppo jäi kiinni kahdesti illassa",
-      "mainCategories": [],
-      "imageUrl": "",
+      "mainTitle": "Yksityislääkärien Kela-korvaukset nousivat merkittävästi",
+      "mainCategories": [
+        "Terveydenhuolto",
+        "Kansaneläkelaitos",
+        "Terveys"
+      ],
+      "imageUrl": "/images/terveydenhuol/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Kortiton rattijuoppo jäi kiinni kaksi kertaa samana iltana – kaahasi hurjat lukemat",
-          "content": "Mies oli jo valmiiksi ajokiellossa.",
-          "date": "2025-08-18T05:46:00.000Z",
+          "title": "Yle: Orpon hallitus korotti yksityislääkärien Kela-korvauksia – näin kävi käynneille",
+          "content": "Hallituksen korottamiin yksityislääkärien Kela-korvauksiin on mennyt kymmeniä miljoonia euroja verorahaa. Tulokset ovat jääneet vaisuiksi.",
+          "date": "2025-08-18T06:06:00.000Z",
           "categories": [
-            "oulun seutu"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/oulun-seutu/art-2000011434161.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000011434178.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sama kuski jäi kiinni kahdesti samana iltana – epäillään rattijuopumuksesta ja kortitta ajosta",
-          "content": "Sama kuljettaja jäi kaksi kertaa kiinni rattijuopumuksesta saman illan aikana.",
-          "date": "2025-08-18T04:41:43.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/sama-kuski-jai-kiinni-kahdesti-samana-iltana-epail/11739344?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yksityislääkärien Kela-korvaukset: hallituksen uudistus lähes kolmin­kertaisti kulut, mutta käynnit eivät juuri kasva",
+          "content": "Hallitus korotti yksityis­lääkärikäyntien tukia kannustaakseen ihmisiä julkiselta yksityiseen hoitoon. Verorahat valuvat muutoinkin yksityis­lääkärissä käyville ja terveysjäteille.",
+          "date": "2025-08-18T03:30:36.000Z",
+          "categories": [
+            "terveydenhuolto",
+            "kansaneläkelaitos",
+            "terveys",
+            "terveydenhoito",
+            "terveyden ja hyvinvoinnin laitos",
+            "yksityinen terveydenhuolto",
+            "lääkärit",
+            "politiikka",
+            "talous",
+            "terveyspalvelut",
+            "hinnankorotus",
+            "julkinen terveydenhuolto",
+            "perusturva",
+            "hinnoittelu",
+            "hinnat",
+            "sosiaali- ja terveyspalvelut"
+          ],
+          "link": "https://yle.fi/a/74-20176866?origin=rss"
         }
       ]
     },
@@ -2215,7 +2137,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2387,7 +2309,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2450,7 +2372,7 @@
       ]
     },
     {
-      "mainTitle": "Loviisan ydinvoimalassa alkaa vuosihuolto",
+      "mainTitle": "Loviisan ydinvoimalan vuosihuolto alkaa nyt",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
