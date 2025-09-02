@@ -1,44 +1,21 @@
 {
-  "timestamp": "2025-09-02T06:24:21.468Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-09-02T06:49:47.949Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Hallituksen budjettiriihi käynnissä",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Suora lähetys – Hallitus hakee säästöjä",
-          "content": "Kauppalehti seuraa hallituksen toista budjettiriihipäivää.",
-          "date": "2025-09-02T06:02:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/f0ba3ddd-bcdf-4a0f-8c98-37d980c17b0a"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Suora lähetys: Ministerit kommentoivat nyt eilistä kurikeskustelua – ”Seuraamuksia tulee”",
-          "content": "Hallituksen budjettivääntö alkaa. Eilen koko päivä kului keskusteluun siitä, minkälainen kielenkäyttö on sopivaa hallituspuolueiden edustajille ja millainen ei ole.",
-          "date": "2025-09-02T05:53:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011458192.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallituksen budjettiriihi käynnistyi erimielisyyksillä",
+      "mainTitle": "Hallituksen budjettiriihi käynnistyi erimielisyyksistä",
       "mainCategories": [
         "Politiikka",
         "Budjettiriihi",
@@ -51,8 +28,8 @@
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
           "title": "Budjettiriihi | Orpo: Sanktiot tulevat, hallituksella on yhteinen näkemys",
-          "content": "Purran mukaan hallitus ei sopinut maanantaina uudesta rangaistusmenettelystä kansanedustajille, vaikka osa hallituspuolueista näin on tulkinnut. HS näyttää Ilta-Sanomien suoraa lähetystä budjettiriihestä.",
-          "date": "2025-09-02T05:40:00.000Z",
+          "content": "Purran mukaan hallitus ei sopinut maanantaina uudesta rangaistusmenettelystä kansanedustajille, vaikka osa hallituspuolueista näin on tulkinnut.",
+          "date": "2025-09-02T06:49:00.000Z",
           "categories": [
             "politiikka"
           ],
@@ -197,7 +174,72 @@
       ]
     },
     {
-      "mainTitle": "Eagle S -käräjät alkavat Helsingissä",
+      "mainTitle": "Pohjoiskorealaiset sotilaat mieluummin kuolevat vangiksi",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina-seuranta | Pohjois­­korealaiset sotilaat tappavat itsensä mieluummin kuin jäävät vangeiksi, väittää valtion­media",
+          "content": "HS seuraa Venäjän hyökkäys­sotaa ja sen seurauksia hetki hetkeltä.",
+          "date": "2025-09-02T06:34:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011466335.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina-seuranta | Kyiv Post väittää: Ukraina iski uusilla risteily­­ohjuksilla FSB:n tuki­kohtaan Krimille",
+          "content": "HS seuraa Venäjän hyökkäys­sotaa ja sen seurauksia hetki hetkeltä.",
+          "date": "2025-09-01T18:28:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011403931.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hallituspuolueet kiistelevät rangaistusmenettelyistä",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "HS: Purra kiistää, että hallitus olisi sopinut uudesta rangaistusmenettelystä kansanedustajille – \"Toiset eivät voi määrittää, mitä yksi ryhmä tekee\"",
+          "content": "Hallituksen yhtenäisyyttä korostetaan budjettiriihen alla, kun pääministeri Orpo ja opetusministeri Adlercreutz vakuuttavat hallituspuolueiden sitoutuneen yhteiseen sanktiolinjaan asiattomista puheista. Perussuomalaisten puheenjohtaja Purra on kuitenkin aiemmin kyseenalaistanut uuden rangaistusmenettelyn olemassaolon.",
+          "date": "2025-09-02T06:29:45.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/hs-purra-kiistaa-etta-hallitus-olisi-sopinut-uudes/11757810?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Purra maanantaina sovitusta HS:lle: Muut eivät määritä, mitä yksi ryhmä tekee",
+          "content": "Purran mukaan mistään uudesta menettelystä ei sovittu. On epävarmaa, ovatko hallituspuolueet yksimielisiä maanantaina käymiensä keskustelujen lopputuloksesta.",
+          "date": "2025-09-01T23:00:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011466212.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Eagle S -käräjillä merimiesten syytteet käsittelyssä",
       "mainCategories": [
         "Oikeudenkäynnit",
         "Rikokset",
@@ -209,7 +251,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Istunto alkoi myöhässä, syytetyt pääsevät pian ääneen – Yle seuraa Eagle S -käräjiä",
+          "title": "”Olen noudattanut päällikön käskyjä” – Yle seuraa Eagle S -käräjiä",
           "content": "Eagle S -öljytankkerin kapteeni ja kaksi perämiestä kertovat näkemyksensä joulupäivän kaapelivaurioista tänään Helsingin käräjäoikeudessa.",
           "date": "2025-09-02T05:33:44.000Z",
           "categories": [
@@ -231,7 +273,7 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Nyt puhuu Davit, jonka ankkuri putosi Suomenlahteen – IL seuraa",
+          "title": "Kohuasianajaja syytää asiakirjoja oikeuteen – IL seuraa",
           "content": "Syyttäjä vaatii kokeneille merimiehille rangaistusta törkeästä tuhotyöstä ja törkeästä tietoliikenteen häirinnästä. Eagle S -käräjillä pääsevät tänään ääneen aluksen kapteeni ja perämiehet, joita syytetään törkeistä rikoksista. Öljytankkeri joutui valtavan kohun keskiöön joulupäivänä, kun sen pohjaa laahannut ankkuri katkaisi lukuisia kaapeleita aluksen halkoessa Suomenlahtea.",
           "date": "2025-09-02T05:30:19.000Z",
           "categories": [
@@ -248,7 +290,7 @@
         "Inflaatio",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -290,39 +332,6 @@
       ]
     },
     {
-      "mainTitle": "Ukraina iski risteilyohjuksilla Krimille",
-      "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "/images/ukraina/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukraina-seuranta | Putin Xille: Maidemme väliset suhteet ovat ennen­näkemättömällä tasolla",
-          "content": "HS seuraa Venäjän hyökkäys­sotaa ja sen seurauksia hetki hetkeltä.",
-          "date": "2025-09-02T04:57:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011466335.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukraina-seuranta | Kyiv Post väittää: Ukraina iski uusilla risteily­­ohjuksilla FSB:n tuki­kohtaan Krimille",
-          "content": "HS seuraa Venäjän hyökkäys­sotaa ja sen seurauksia hetki hetkeltä.",
-          "date": "2025-09-01T18:28:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011403931.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Belgia aikoo tunnustaa Palestiinan valtion",
       "mainCategories": [
         "Ulkomaat",
@@ -358,7 +367,7 @@
       ]
     },
     {
-      "mainTitle": "Oulun keskustan hotellihanke ja rikostilanne",
+      "mainTitle": "Oulussa hotelliksi muuttuva pankkitalo",
       "mainCategories": [],
       "imageUrl": "",
       "relatedNews": [
@@ -475,7 +484,7 @@
         "Turvallisuus",
         "Venezuela"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -586,7 +595,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -827,7 +836,7 @@
       ]
     },
     {
-      "mainTitle": "Kehitysvammainen mies menetti työpaikan 19 vuodessa",
+      "mainTitle": "Kehitysvammainen menetti työpaikan kauppamuutoksen vuoksi",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -861,7 +870,7 @@
       ]
     },
     {
-      "mainTitle": "Britannian kesä oli ennätyslämmin",
+      "mainTitle": "Britannian kesä rikkoi lämpöennätyksiä",
       "mainCategories": [
         "Ulkomaat",
         "Ilmasto",
@@ -1136,125 +1145,6 @@
       ]
     },
     {
-      "mainTitle": "Hallitus jatkaa keskustelua rasismista ja budjetista",
-      "mainCategories": [
-        "Politiikka",
-        "Budjetti",
-        "Rasismi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Pääministeri Orpon luottamus hallituksen yhteiseen tahtoon jatkaa vahvistui koko päivän kestäneissä keskusteluissa",
-          "content": "",
-          "date": "2025-09-01T17:08:50.000Z",
-          "categories": [
-            "budjetti",
-            "rasismi",
-            "hallitus",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6754092"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rasismi | Kertaamme hallituksen rasismi­ongelmien käänteet: Ylen video näyttää perus­suomalaisten asennoitumisen koulutukseen",
-          "content": "Budjettineuvottelut alkoivat maanantaina hallituksen keskinäisellä rasismikeskustelulla. Se ei ole ensimmäinen kerta, kun se joutuu puimaan samaa teemaa.",
-          "date": "2025-09-01T13:49:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011464367.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Hallituspuolueiden puheenjohtajat astuivat median eteen maanantaina illalla",
-          "content": "",
-          "date": "2025-09-01T07:13:28.000Z",
-          "categories": [
-            "budjetti",
-            "hallitus",
-            "hallituksen talouspolitiikka",
-            "valtiontalous",
-            "rasismi",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6753131"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Budjetti | Hallitus linjaa ensi vuoden budjetista – odotuksena noin miljardin lisä­säästöt",
-          "content": "Suurin jännitys kohdistunee siihen, löytääkö hallitus alkuviikon aikana yhteisen sävelen rasismikeskustelussa.",
-          "date": "2025-08-31T23:00:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011459385.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallituksen luottamus ja jatkosuunnitelmat selvillä",
-      "mainCategories": [
-        "Politiikka",
-        "Perussuomalaiset",
-        "Uutiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Orpo: Keskustelut ovat vahvistaneet luottamusta ja yhteistä tahtoa jatkaa eteenpäin",
-          "content": "",
-          "date": "2025-09-01T16:43:58.000Z",
-          "categories": [
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6754061"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Orpo puhui luottamuksen etsimisestä – kertoo, että kyse on hallituksen jatkosta tai kaatamisesta",
-          "content": "Myös perussuomalaisilla voisi olla syynsä rakentaa exit hallituksesta, kirjoittaa Ylen politiikan toimittaja Maria Stenroos.",
-          "date": "2025-09-01T14:38:31.000Z",
-          "categories": [
-            "politiikka",
-            "orpon hallitus",
-            "kansallinen kokoomus",
-            "perussuomalaiset"
-          ],
-          "link": "https://yle.fi/a/74-20180520?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kommentti: Hallituksessa kuohuu – Orpolla ja Purralla on vain yksi vaihtoehto",
-          "content": "Nyt vaikuttaisi siltä, että Purra ja Orpo ovat sunnuntaina sopineet jostain. Maanantaina kuullaan mistä, kirjoittaa politiikan toimittaja Iida Hallikainen.",
-          "date": "2025-08-31T14:38:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011463357.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Bandidos-juhlien vuoksi käännytyksiä rajalla",
       "mainCategories": [
         "Kotimaa",
@@ -1311,6 +1201,43 @@
       ]
     },
     {
+      "mainTitle": "Hallituksen tulevaisuus vaakalaudalla Orpon ja Purran neuvotteluissa",
+      "mainCategories": [
+        "Politiikka",
+        "Perussuomalaiset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Orpo puhui luottamuksen etsimisestä – kertoo, että kyse on hallituksen jatkosta tai kaatamisesta",
+          "content": "Myös perussuomalaisilla voisi olla syynsä rakentaa exit hallituksesta, kirjoittaa Ylen politiikan toimittaja Maria Stenroos.",
+          "date": "2025-09-01T14:38:31.000Z",
+          "categories": [
+            "politiikka",
+            "orpon hallitus",
+            "kansallinen kokoomus",
+            "perussuomalaiset"
+          ],
+          "link": "https://yle.fi/a/74-20180520?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Hallituksessa kuohuu – Orpolla ja Purralla on vain yksi vaihtoehto",
+          "content": "Nyt vaikuttaisi siltä, että Purra ja Orpo ovat sunnuntaina sopineet jostain. Maanantaina kuullaan mistä, kirjoittaa politiikan toimittaja Iida Hallikainen.",
+          "date": "2025-08-31T14:38:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011463357.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Perussuomalaiset hyväksyi EU:n ilmastotavoitteen",
       "mainCategories": [
         "Politiikka",
@@ -1351,7 +1278,7 @@
       ]
     },
     {
-      "mainTitle": "Yli 65-vuotiaat saavat halvempia lääkäriaikoja",
+      "mainTitle": "Yli 65-vuotiaat saavat halvemman lääkäripalvelun",
       "mainCategories": [
         "Terveyspalvelut",
         "Kotimaa",
@@ -1542,13 +1469,46 @@
       ]
     },
     {
-      "mainTitle": "Valtion enemmistöomistus Valmet Automotiveen",
+      "mainTitle": "Hallituksen rasismikeskustelu budjettineuvotteluissa",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Kertaamme hallituksen rasismi­ongelmien käänteet: Ylen video näyttää perus­suomalaisten asennoitumisen koulutukseen",
+          "content": "Budjettineuvottelut alkoivat maanantaina hallituksen keskinäisellä rasismikeskustelulla. Se ei ole ensimmäinen kerta, kun se joutuu puimaan samaa teemaa.",
+          "date": "2025-09-01T13:49:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011464367.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Budjetti | Hallitus linjaa ensi vuoden budjetista – odotuksena noin miljardin lisä­säästöt",
+          "content": "Suurin jännitys kohdistunee siihen, löytääkö hallitus alkuviikon aikana yhteisen sävelen rasismikeskustelussa.",
+          "date": "2025-08-31T23:00:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011459385.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Valtio ostaa enemmistön Valmet Automotiveesta",
       "mainCategories": [
         "Talous",
         "Uusikaupunki",
         "Nato"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1591,23 +1551,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011463966.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suomen valtiosta tulee Valmet Automotiven enemmistöomistaja",
-          "content": "",
-          "date": "2025-09-01T06:35:08.000Z",
-          "categories": [
-            "yrityskaupat",
-            "autoteollisuus",
-            "uusikaupunki",
-            "valmet automotive",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6753140"
         }
       ]
     },
@@ -1618,7 +1561,7 @@
         "Kiina",
         "Venäjä"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1650,7 +1593,58 @@
       ]
     },
     {
-      "mainTitle": "Kultaranta avautuu yleisölle 8. syyskuuta",
+      "mainTitle": "Häiriö Suomen ja Viron sähköyhteydessä",
+      "mainCategories": [
+        "Energia",
+        "Fingrid",
+        "Estlink"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Häiriöt | Suomen ja Viron välisessä sähkö­yhteydessä häiriö, voi jopa laskea hintoja",
+          "content": "Vika on paikannettu sähköasemalle Espooseen. Vian arvioitu korjausaikataulu on noin kolme viikkoa.",
+          "date": "2025-09-01T13:04:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011464092.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suomen ja Viron välinen sähköyhteys poikki",
+          "content": "Vian korjausaikataulu on Fingridin mukaan noin kolme viikkoa.",
+          "date": "2025-09-01T08:12:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011464083.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomen ja Viron välisessä Estlink 1 -sähköyhteydessä on häiriö – vika paikannettu Espooseen",
+          "content": "Mitään viitteitä ilkivallasta tai ulkopuolisesta vaikuttamisesta ei ole, kerrotaan Fingridistä.",
+          "date": "2025-09-01T06:21:35.000Z",
+          "categories": [
+            "energia",
+            "fingrid",
+            "estlink",
+            "talous",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20180367?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kultaranta avautuu yleisölle syyskuussa",
       "mainCategories": [
         "Politiikka",
         "Kultaranta",
@@ -1658,21 +1652,6 @@
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kultarannan ovet aukeavat yleisölle yhdeksi päiväksi",
-          "content": "",
-          "date": "2025-09-01T13:11:45.000Z",
-          "categories": [
-            "kultaranta",
-            "paikalliset",
-            "uutiset",
-            "tasavallan presidentti"
-          ],
-          "link": "https://www.ts.fi/uutiset/6753899"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -1706,75 +1685,7 @@
       ]
     },
     {
-      "mainTitle": "Häiriö Suomen ja Viron sähköyhteydessä",
-      "mainCategories": [
-        "Fingrid",
-        "Energia",
-        "Estlink"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Häiriöt | Suomen ja Viron välisessä sähkö­yhteydessä häiriö, voi jopa laskea hintoja",
-          "content": "Vika on paikannettu sähköasemalle Espooseen. Vian arvioitu korjausaikataulu on noin kolme viikkoa.",
-          "date": "2025-09-01T13:04:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011464092.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Suomen ja Viron välinen sähköyhteys poikki",
-          "content": "Vian korjausaikataulu on Fingridin mukaan noin kolme viikkoa.",
-          "date": "2025-09-01T08:12:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011464083.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suomen ja Viron välisessä sähköyhteydessä häiriö",
-          "content": "",
-          "date": "2025-09-01T06:50:13.000Z",
-          "categories": [
-            "sähkö",
-            "sähkökatkot",
-            "sähkönjakelu",
-            "uutiset",
-            "viro",
-            "fingrid"
-          ],
-          "link": "https://www.ts.fi/uutiset/6753262"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomen ja Viron välisessä Estlink 1 -sähköyhteydessä on häiriö – vika paikannettu Espooseen",
-          "content": "Mitään viitteitä ilkivallasta tai ulkopuolisesta vaikuttamisesta ei ole, kerrotaan Fingridistä.",
-          "date": "2025-09-01T06:21:35.000Z",
-          "categories": [
-            "energia",
-            "fingrid",
-            "estlink",
-            "talous",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20180367?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Äidin murhat ja syyttämättäjättämiset Suomessa",
+      "mainTitle": "Espoon murha ja äidin syytteet hylätty",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -1854,11 +1765,10 @@
       ]
     },
     {
-      "mainTitle": "Kuhmoisten veneturmassa yksi kuoli, kaksi loukkaantui",
+      "mainTitle": "Kuhmoisten veneonnettomuudessa yksi kuoli, kaksi loukkaantui",
       "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Vesiliikenne"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1875,24 +1785,6 @@
           "link": "https://www.is.fi/kotimaa/art-2000011465452.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi: Kuhmoisten veneturmassa kuollut ja loukkaantuneet olivat matkustajia – kuljettajaa epäillään rikoksista",
-          "content": "Poliisi epäilee kuljettajaa tällä hetkellä muun muassa törkeästä kuoleman­tuottamuksesta ja kahdesta törkeästä vamman­tuottamuksesta.",
-          "date": "2025-09-01T11:03:24.000Z",
-          "categories": [
-            "onnettomuudet",
-            "vesiliikenne",
-            "veneily",
-            "kuhmoinen",
-            "rikosepäilyt",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20180453?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1903,23 +1795,11 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011462859.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "He olivat osallisena Kuhmoisten tappavassa veneturmassa",
-          "content": "Yhden loukkaantuneen tila on edelleen epäselkeä.",
-          "date": "2025-08-31T11:44:00.000Z",
-          "categories": [
-            "tampereen seutu"
-          ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000011463292.html"
         }
       ]
     },
     {
-      "mainTitle": "Israel syyllistyy kansanmurhaan Gazassa, väittää IAGS",
+      "mainTitle": "Israel syyllistyy kansanmurhaan Gazassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1991,57 +1871,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011465096.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Laitilan louhosturma etenee syyteharkintaan",
-      "mainCategories": [
-        "Onnettomuudet",
-        "Syyteharkinta",
-        "Laitila"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Yle: Laitilan kesäkuinen louhosturma syyteharkintaan",
-          "content": "",
-          "date": "2025-09-01T11:43:55.000Z",
-          "categories": [
-            "onnettomuudet",
-            "rikosepäilyt",
-            "syyteharkinta",
-            "rikos ja oikeus",
-            "laitila",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6753779"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Laitilan traaginen louhos­turma syyte­harkintaan – poliisi tutki kahta törkeää kuolemantuottamusta",
-          "content": "Kaksi nuorta kuoli kesäkuussa henkilöauton ajauduttua veden täyttämään louhokseen Laitilassa. ",
-          "date": "2025-09-01T11:06:22.000Z",
-          "categories": [
-            "onnettomuudet",
-            "poliisi",
-            "syyteharkinta",
-            "poliisitutkinta",
-            "esitutkinta",
-            "varsinais-suomi",
-            "liikenneonnettomuudet",
-            "laitila",
-            "eura",
-            "satakunta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20180452?origin=rss"
         }
       ]
     },
@@ -2177,11 +2006,11 @@
     {
       "mainTitle": "Nato-esikunta aloitti toimintansa Mikkelissä",
       "mainCategories": [
+        "Suomi",
         "Kotimaa",
-        "Nato",
-        "Mikkeli"
+        "Nato"
       ],
-      "imageUrl": "/images/nato/2.jpg",
+      "imageUrl": "/images/nato/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2206,25 +2035,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011464619.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Naton pohjoinen maavoimajohtoporras aloitti toimintansa Mikkelissä",
-          "content": "",
-          "date": "2025-09-01T08:39:27.000Z",
-          "categories": [
-            "maanpuolustus",
-            "puolustusministeriö",
-            "puolustuspolitiikka",
-            "puolustusteollisuus",
-            "nato",
-            "mikkeli",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6753468"
         },
         {
           "publisherId": "yle",
@@ -2322,13 +2132,13 @@
       ]
     },
     {
-      "mainTitle": "Autoilija ajoi konsulaatin portista läpi",
+      "mainTitle": "Autoilija ajoi Venäjän konsulaattiin Australiassa",
       "mainCategories": [
         "Ulkomaat",
         "Turvallisuus",
         "Australia"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2411,7 +2221,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2474,7 +2284,7 @@
       ]
     },
     {
-      "mainTitle": "YK vaatii Jemenin hutheja vapauttamaan työntekijät",
+      "mainTitle": "YK vaatii huthien vapauttavan työntekijät",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
@@ -2725,7 +2535,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/saksa/2.jpg",
+      "imageUrl": "/images/saksa/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -2764,7 +2574,7 @@
       ]
     },
     {
-      "mainTitle": "Israel iski Hizbollahiin Etelä-Libanonissa",
+      "mainTitle": "Israel hyökkäsi Hizbollahin asemiin Libanonissa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
