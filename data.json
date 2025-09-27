@@ -1,8 +1,17 @@
 {
-  "timestamp": "2025-09-27T09:36:13.486Z",
-  "successCount": 13,
-  "failureCount": 9,
+  "timestamp": "2025-09-27T10:15:12.753Z",
+  "successCount": 12,
+  "failureCount": 10,
   "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
     {
       "url": {
         "publisherId": "yle",
@@ -87,7 +96,7 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Drooneja havaittu Tanskassa ja Norjassa",
+      "mainTitle": "Kadonnut lapsi etsinnässä Lofooteilla",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
@@ -98,126 +107,61 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Drooni­havainnot | Drooneja lensi yöllä Tanskan lento­tuki­kohdan yllä, myös Norjassa havaintoja tuki­kohdassa",
-          "content": "Osan Tanskan drooneista havaitsi puolustusvoimat ja osasta tuli vinkkejä paikallisilta.",
-          "date": "2025-09-27T09:27:00.000Z",
+          "title": "Norja | Lofooteilla etsitään kadonnutta lasta, pelastaja kuoli",
+          "content": "Ruotsalaisen tytön etsintä jatkuu Pohjois-Norjassa. Hänen perheensä joutui perjantaisella kalastusretkellä veden varaan.",
+          "date": "2025-09-27T10:04:00.000Z",
           "categories": [
             "maailma"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011522880.html"
+          "link": "https://www.hs.fi/maailma/art-2000011522634.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Järkyttävä tapaus Lofooteilla: Lapsi kateissa, pelastaja kuollut",
+          "content": "Nuori tyttö on ollut kateissa perjantaiaamupäivästä lähtien.  10–12-vuotias lapsi on kadonnut Norjan Lofooteilla. Asiasta kertovat muun muassa norjalaislehti VG ja maan yleisradioyhtiö NRK. Lasta on etsitty perjantaiaamupäivästä lähtien. Aftonbladetin mukaan kadonnut on 10-vuotias tyttö. VG puolestaan kertoo, että kadonnut tyttö on 11–12-vuotias.",
+          "date": "2025-09-27T05:45:47.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/783a3d42-2626-401b-9867-2ec3dddb4064"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Uusia droonihavaintoja Tanskassa",
-          "content": "Karupin lentotukikohta on Tanskan ilmavoimien pääasiallinen tukikohta.",
-          "date": "2025-09-27T09:16:00.000Z",
+          "title": "Traaginen tilanne Lofooteilla: lapsi katosi, pelastaja kuoli",
+          "content": "Ruotsalaista tyttöä on etsitty Nappstraumenin salmella perjantaista asti.",
+          "date": "2025-09-27T03:35:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011522862.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tanskassa uusia drooni­havaintoja – lensivät ilmavoimien päätukikohdassa",
-          "content": "",
-          "date": "2025-09-27T08:26:21.000Z",
-          "categories": [],
-          "link": "https://yle.fi/a/74-20185334?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tanskassa on uusi droonijahti päällä – tämä tilanteesta tiedetään",
-          "content": "Drooneja on havaittu myös sotilaskohteiden ja öljykenttien liepeillä.",
-          "date": "2025-09-25T14:54:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011518905.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011522624.html"
         }
       ]
     },
     {
-      "mainTitle": "Tanska sulki ilmatilan droonihavaintojen vuoksi",
+      "mainTitle": "Ukrainalaisten työntekijöiden hyväksikäyttö telakalla",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Suomi",
+        "Taloussanomat",
+        "Kotimaa"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Ilmatila suljettiin Tanskan suurimman sotilas­tukikohdan yllä – Syynä drooni­havainnot",
-          "content": "Tanskan Karupin lentotukikohdassa havaittiin drooneja perjantain ja lauantain välisenä yönä. Ilmatila Tanskan suurimman sotilastukikohdan yllä jouduttiin perjantain ja lauantain välisenä yönä sulkemaan hetkellisesti droonihavaintojen takia, kertoo Tanskan TV2. Kyseessä on Karupin lentotukikohta, jossa työskentelee noin 3 500 ihmistä. Tanskan puolustusvoimat kommentoi tapausta lyhyesti TV2:lle.",
-          "date": "2025-09-27T09:18:24.000Z",
+          "title": "Ukrainalaisten työntekijöiden kohtelu telakalla järkyttää – ”Kestämätöntä”",
+          "content": "Työntekijöitä painostettiin pitkiin päiviin ilman asianmukaista korvausta tai palkkaa. Telakkayhtiö Meyer Turkua vaaditaan puuttumaan ukrainalaisten työntekijöiden hyväksikäyttöön telakalla. STT uutisoi lauantaina telakan ongelmakohdista. Ukrainalaisia työntekijöitä on STT:n mukaan hyväksikäytetty räikeästi ja sen haastatteleman työntekijän mukaan päivät saattoivat venyä jopa 14 tunnin mittaisiksi eikä lisiä maksettu. Heitä painostettiin tekemään ylipitkiä työpäiviä ja heidän työehtojaan poljettiin räikeästi. Palkkaa myös maksettiin usean eri yrityksen suunnalta.",
+          "date": "2025-09-27T09:58:08.000Z",
           "categories": [
-            "ulkomaat"
+            "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/4bf767fa-772b-4624-8b2e-fc9955cc363b"
+          "link": "https://www.iltalehti.fi/kotimaa/a/effa0aa6-d836-4ba6-9eaa-70f12f21d0a6"
         },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Drooniepäilyt | Myös Ruotsissa eilisillalla droonihavaintoja lähellä laivastotukikohtaa",
-          "content": "Aalborgin kentän ilmatila oli suljettuna vain lyhyen aikaa. Macron lupasi yöllä Ranskan avun Tanskan ilmatilan turvaamiseen.",
-          "date": "2025-09-26T07:47:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011519582.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Tanskassa Aalborgin lentokentän ilmatila suljettiin väliaikaisesti drooniepäilyjen vuoksi",
-          "content": "Viranomaiset eivät ole onnistuneet vahvistamaan tuoreita epäilyjä.",
-          "date": "2025-09-26T04:07:17.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/tanskassa-aalborgin-lentokentan-ilmatila-suljettii/11787476?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Aalborgin lento­kentällä taas uusi drooni­epäily",
-          "content": "Tanskassa Aalborgin kentän ilmatila oli suljettuna lyhyen aikaa. Macron lupasi yöllä Ranskan avun Tanskan ilmatilan turvaamiseen.",
-          "date": "2025-09-26T00:02:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011519583.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tanska | Tanska: Droonihavaintojen taustalla ammattimainen taho, valmiustilaa nostettu",
-          "content": "Ainakin neljällä lentokentällä Tanskassa tehtiin droonihavaintoja torstain vastaisena yönä. Tanska kuvailee tapausta hybridihyökkäykseksi.",
-          "date": "2025-09-25T10:55:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011516883.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainalaisten työolot Turun telakalla huolestuttavat",
-      "mainCategories": [
-        "Suomi",
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/ukraina/3.jpg",
-      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -245,61 +189,214 @@
       ]
     },
     {
-      "mainTitle": "EU:n riippuvuus venäläisestä nikkelistä kasvaa",
+      "mainTitle": "Päivi Räsäselle uhkauksia ja törkypalautetta",
       "mainCategories": [
-        "Maanpuolustus",
-        "Nikkeli",
-        "Kotimaa"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Putin, anna meille jokapäiväinen nikkelimme – tarvitsemme aseita",
-          "content": "Eurooppa syö nikkeliä Putinin kädestä. Tämä on vienyt viimeiset järjen, moraalin ja eettisyyden rippeet päättäjiltä, kirjoittaa toimittaja Pasi Peiponen.",
-          "date": "2025-09-27T08:32:14.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HS: Päivi Räsänen sai rajun uhkauksen – lapset jäivät pois koulusta",
+          "content": "Konkarikansanedustaja saa edelleen törkypalautetta viikoittain.",
+          "date": "2025-09-27T09:53:00.000Z",
           "categories": [
-            "maanpuolustus",
-            "nikkeli",
-            "puolustustarviketeollisuus",
-            "venäjä",
-            "euroopan unioni",
-            "kotimaa",
-            "talous",
-            "ulkomaat"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20183949?origin=rss"
+          "link": "https://www.is.fi/politiikka/art-2000011522867.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomalaismepit Ylelle: EU aseistautuu venäläisellä nikkelillä – Suomi kuvion ytimessä",
-          "content": "Kotimainen puolustusteollisuus ei kommentoi suomalaismeppien väitteitä venäläisestä nikkelistä. Myös EU:ssa vaietaan aiheesta.",
-          "date": "2025-09-27T03:30:36.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Uhkaukset | ”Tulen nauttimaan, kun saan tappaa sinut” – Viestit näyttävät, millaisia uhkauksia Päivi Räsänen saa",
+          "content": "Yli 30 vuotta eduskunnassa ollut Päivi Räsänen sanoo, että on joutunut toteamaan, kuinka törkypalaute kuuluu kansanedustajan tehtävään. Tappouhkauksista hän tekee rikosilmoituksen.",
+          "date": "2025-09-26T11:15:00.000Z",
           "categories": [
-            "maanpuolustus",
-            "sotateollisuus",
-            "nikkeli",
-            "norilski nikel",
-            "euroopan komissio",
-            "euroopan unioni",
-            "kotimaa",
-            "ulkomaat",
-            "talous"
+            "tilaajille",
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20183889?origin=rss"
+          "link": "https://www.hs.fi/politiikka/art-2000011520546.html"
         }
       ]
     },
     {
-      "mainTitle": "Ammoniakkivuoto evakuoi työntekijät Torniossa",
+      "mainTitle": "EU suunnittelee droonimuuria itärajalle",
       "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Tornio"
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS-haastattelu | Puolustus­komissaari drooni­muurista: ”On oltava valmiina siihen, että Venäjä tekee tämän yhä uudelleen”",
+          "content": "EU:n puolustuskomissaari Andrius Kubilius sanoo, että niin sanottu droonimuuri maksaa ”yksinumeroisen” määrän miljardeja.",
+          "date": "2025-09-27T09:40:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011520007.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puolustus | Antti Häkkänen ja Andrius Kubilius keskustelivat droonimuurista – ”Droonimuuri on metafora”",
+          "content": "Puolustusministeri Antti Häkkänen ja pääministeri Petteri Orpo vaativat Etelä-Euroopalta solidaarisuutta EU:n droonimuurin rakentamisessa.",
+          "date": "2025-09-26T15:51:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011518593.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Häkkänen vaatii nopeita toimia – näin drooneja vastaan aiotaan puolustautua",
+          "content": "Orpon, Häkkäsen ja Kubiliuksen tapaamisen pääaiheena on droonimuuri, jota suunnitellaan EU:n itärajalle.",
+          "date": "2025-09-26T13:15:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011520369.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Turvallisuus | EU:n puolustus­komissaari keskustelee Orpon ja Häkkäsen kanssa drooni­muurista perjantaina",
+          "content": "Tapaamisessa käsitellään muun muassa EU:n itärajalle ehdotettua droonimuuria.",
+          "date": "2025-09-25T11:23:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011518268.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Puolustuskomissaari Kubilius saapuu Suomeen, keskusteluiden aiheena EU:n droonimuuri",
+          "content": "EU-komission puolustus- ja avaruusasioista vastaava komissaari Andrius Kubilius tapaa pääministeri Petteri Orpon (kok.) ja puolustusministeri Antti Häkkäsen (kok.) huomenna Helsingissä.",
+          "date": "2025-09-25T10:58:48.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/puolustuskomissaari-kubilius-saapuu-suomeen-keskus/11786686?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Droonihavaintoja Tanskassa ja Norjassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Drooni­havainnot | Tanskassa ja Norjassa havaintoja drooneista tuki­kohtien lähellä",
+          "content": "Osan Tanskan drooneista havaitsi puolustusvoimat ja osasta tuli vinkkejä paikallisilta.",
+          "date": "2025-09-27T09:27:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011522880.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tanskan suurimman sotilas­tukikohdan yllä havaittiin drooneja – Ilmatila suljettiin",
+          "content": "Tanskan Karupin lentotukikohdassa havaittiin drooneja perjantain ja lauantain välisenä yönä. Ilmatila Tanskan suurimman sotilastukikohdan yllä jouduttiin perjantain ja lauantain välisenä yönä sulkemaan hetkellisesti droonihavaintojen takia, kertoo Tanskan TV2. Kyseessä on Karupin lentotukikohta, jossa työskentelee noin 3 500 ihmistä. Tanskan puolustusvoimat kommentoi tapausta lyhyesti TV2:lle.",
+          "date": "2025-09-27T09:18:24.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/4bf767fa-772b-4624-8b2e-fc9955cc363b"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uusia droonihavaintoja Tanskassa",
+          "content": "Karupin lentotukikohta on Tanskan ilmavoimien pääasiallinen tukikohta.",
+          "date": "2025-09-27T09:16:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011522862.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin epäilyttävät drooni­havainnot sijoittuvat kartalla",
+          "content": "Viikon aikana Tanskassa, Norjassa ja Ruotsissa on tehty useita epäilyttäviä droonihavaintoja.",
+          "date": "2025-09-26T16:28:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011521459.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ruotsin rannikolla droonihavainto lähellä laivastotukikohtaa",
+          "content": "Ruotsissa Karlskronan rannikolla havaittiin eilisiltana drooni, joka lensi lähellä laivastotukikohtaa.",
+          "date": "2025-09-26T07:45:23.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/ruotsin-rannikolla-droonihavainto-lahella-laivasto/11787774?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tanskassa on uusi droonijahti päällä – tämä tilanteesta tiedetään",
+          "content": "Drooneja on havaittu myös sotilaskohteiden ja öljykenttien liepeillä.",
+          "date": "2025-09-25T14:54:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011518905.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asiantuntija yllättyi yhdestä asiasta Tanskan drooni­havainnoissa",
+          "content": "Kunnollisia droonien havainnointilaitteita on joillakin lentokentillä, mutta ei läheskään kaikilla, kertoo operatiivinen johtaja Ville Herva Sensofusionilta.",
+          "date": "2025-09-25T14:18:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011518569.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tanska | Tanska: Droonihavaintojen taustalla ammattimainen taho, valmiustilaa nostettu",
+          "content": "Ainakin neljällä lentokentällä Tanskassa tehtiin droonihavaintoja torstain vastaisena yönä. Tanska kuvailee tapausta hybridihyökkäykseksi.",
+          "date": "2025-09-25T10:55:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011516883.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Torniossa ammoniakkivuoto, työntekijät evakuoitu",
+      "mainCategories": [
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -316,24 +413,6 @@
           "link": "https://www.is.fi/kotimaa/art-2000011522789.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vaaratilanne Outokummun tehtaalla Torniossa – työntekijöitä evakuoitiin ammoniakkivuodon takia",
-          "content": "Ammoniakkivettä vuoti tehtaan kylmävalssaamon sisätiloihin. Koko rakennus evakuoitiin varotoimena.",
-          "date": "2025-09-27T07:39:03.000Z",
-          "categories": [
-            "onnettomuudet",
-            "tornio",
-            "vaaralliset kemikaalit",
-            "teollisuus",
-            "pelastustoimi",
-            "kotimaa",
-            "lappi"
-          ],
-          "link": "https://yle.fi/a/74-20185327?origin=rss"
-        },
-        {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
@@ -346,10 +425,9 @@
       ]
     },
     {
-      "mainTitle": "Suomalaispariskunta epäiltynä lapsen kidutuksesta Unkarissa",
+      "mainTitle": "Suomalaispariskunta epäiltynä lapsen kaltoinkohtelusta Unkarissa",
       "mainCategories": [
-        "Suomi",
-        "Ulkomaat"
+        "Suomi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -357,25 +435,13 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Unkari | Suomalais­paris­kunnan epäillään pitäneen lasta pimeässä huoneessa huonoissa olossa – Vaikuttivat tavallisilta, kertoo kaveri",
-          "content": "Pariskunnan epäillään pitäneen lasta teljetyssä huoneessa unkarilaiskylässä, jossa asuu suomalaisyhteisö. Poika oli syytteiden mukaan aliravittu ja likainen.",
+          "title": "Unkari | Paris­kunnan epäillään pitäneen lasta teljettynä huonoihin oloihin – Vaikuttivat tavallisilta, kertoo kaveri",
+          "content": "Perhe asui kylässä, jossa asuu muitakin suomalaisia. Adoptiopoika oli syytteiden mukaan aliravittu ja likainen.",
           "date": "2025-09-27T08:17:00.000Z",
           "categories": [
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011521982.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Syyte: Suomalainen pariskunta kidutti lastaan käsittämättömällä tavalla Unkarissa",
-          "content": "Poika muun muassa teljettiin pimeään huoneeseen, ja häntä pidettiin nälässä.",
-          "date": "2025-09-26T13:48:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011521773.html"
         },
         {
           "publisherId": "hs",
@@ -392,102 +458,12 @@
       ]
     },
     {
-      "mainTitle": "Ukrainalaisten työskentely Turun telakalla kyseenalaista",
+      "mainTitle": "Epstein-asiakirjoissa mainitaan Musk ja Andrew",
       "mainCategories": [
-        "Talous",
-        "Työntekijät",
-        "Turku"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ukrainalaisia on työskennellyt Turun telakalla yhtiöissä, joihin he eivät koskaan hakeneet töihin",
-          "content": "STT ei tavoittanut alihankintayritysten pääosin virolaisia vastuuhenkilöitä.",
-          "date": "2025-09-27T06:38:47.000Z",
-          "categories": [
-            "talous",
-            "työntekijät",
-            "turku",
-            "työsopimukset",
-            "työelämä",
-            "meyer turku oy",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20185324?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Ukrainalaisia on työskennellyt Turun telakalla yhtiöissä, joihin he eivät koskaan hakeneet töihin – jäljet johtavat Viron \"kuoriyhtiökuninkaaseen\"",
-          "content": "",
-          "date": "2025-09-27T06:04:15.000Z",
-          "categories": [
-            "turun telakka",
-            "uutiset",
-            "paikalliset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6778136"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lapsi kateissa Lofooteilla, pelastaja kuollut",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Järkyttävä tapaus Lofooteilla: Lapsi kateissa, pelastaja kuollut",
-          "content": "Nuori tyttö on ollut kateissa perjantaiaamupäivästä lähtien.  10–12-vuotias lapsi on kadonnut Norjan Lofooteilla. Asiasta kertovat muun muassa norjalaislehti VG ja maan yleisradioyhtiö NRK. Lasta on etsitty perjantaiaamupäivästä lähtien. Aftonbladetin mukaan kadonnut on 10-vuotias tyttö. VG puolestaan kertoo, että kadonnut tyttö on 11–12-vuotias.",
-          "date": "2025-09-27T05:45:47.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/783a3d42-2626-401b-9867-2ec3dddb4064"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Norja | Lofooteilla etsitään kadonnutta lasta, pelastaja kuoli",
-          "content": "Ruotsalaisen tytön etsintä jatkuu Pohjois-Norjassa. Hänen perheensä joutui perjantaisella kalastusretkellä veden varaan.",
-          "date": "2025-09-27T03:46:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011522634.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Traaginen tilanne Lofooteilla: lapsi katosi, pelastaja kuoli",
-          "content": "Ruotsalaista tyttöä on etsitty Nappstraumenin salmella perjantaista asti.",
-          "date": "2025-09-27T03:35:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011522624.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Elon Musk mainittu Epstein-asiakirjoissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Britannia"
-      ],
-      "imageUrl": "/images/elon musk/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -500,23 +476,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011522618.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lisää Epstein-asiakirjoja julki: Elon Musk mainitaan",
-          "content": "Tuoreet asiakirja­paljastukset kertovat, että Elon Muskilla oli yhteys tuomittuun seksuaali­rikolliseen Jeffrey Epsteiniin. Asiakirjoissa mainitaan myös Trumpin entinen neuvonantaja.",
-          "date": "2025-09-27T04:47:08.000Z",
-          "categories": [
-            "yhdysvallat",
-            "jeffrey epstein",
-            "elon musk",
-            "steve bannon",
-            "britannia",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20185316?origin=rss"
         },
         {
           "publisherId": "iltalehti",
@@ -538,7 +497,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -601,42 +560,6 @@
       ]
     },
     {
-      "mainTitle": "Kolumbian presidentti Petro mielenosoituksessa New Yorkissa",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Kolumbian presidentti osallistui Palestiina-mielen­osoitukseen New Yorkissa, USA peruu viisumin",
-          "content": "Presidentti Gustavo Petro vaati Palestiinan vapauttamista ja tottelemattomuutta Trumpia kohtaan puhuessaan väkijoukolle YK:n päämajan luona.",
-          "date": "2025-09-27T03:43:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011522623.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kolumbian presidentti kehotti Yhdysvaltain sotilaita vastustamaan Trumpia – viisumi jäihin",
-          "content": "Presidentti Gustavo Petro esiintyi New Yorkissa Gazan sotaa vastustavassa mielen­osoituksessa. Yhdysvaltain ulkoministeriön mukaan Petro yllytti puheellaan väkivaltaan.",
-          "date": "2025-09-27T03:03:38.000Z",
-          "categories": [
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20185313?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Petteri Orpon veronkevennysväitteet kyseenalaistettiin",
       "mainCategories": [
         "Politiikka"
@@ -682,7 +605,7 @@
       ]
     },
     {
-      "mainTitle": "Iran tukee aseleposopimuksia Gazassa",
+      "mainTitle": "Iran tukee aselevon ehdotuksia Gazassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -716,10 +639,10 @@
       ]
     },
     {
-      "mainTitle": "Tulipalo Huittisissa surmasi 300 sikaa",
+      "mainTitle": "Huittisissa tulipalo, 300 sikaa kuoli",
       "mainCategories": [
-        "Kotimaa",
-        "Suomi"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -746,18 +669,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011522508.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "300 sikaa kuollut tulipalossa – Mittavat vahingot",
-          "content": "Huittisissa on käynnissä mittava pelastusoperaatio. Arviolta 300 sikaa on kuollut tulipalossa. Satakunnan Huittisissa Vähäjoentiellä palaa sikalan rehustamo. Pelastuslaitos tiedotti kello 23 aikaan, että noin 300 sikaa on kuollut savukaasuihin. Rehustamo on tuhoutunut tulipalossa täysin ja myös osa sikalarakennuksesta. Pelastuslaitos jatkaa sammutustöitä myöhälle yöhön.",
-          "date": "2025-09-26T19:05:18.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/c3658faa-c8f7-4f88-88e8-c940c9110d92"
         }
       ]
     },
@@ -767,7 +678,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -801,7 +712,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -932,7 +843,7 @@
       ]
     },
     {
-      "mainTitle": "Nato varoittaa Venäjää ilmatilan loukkauksista",
+      "mainTitle": "Nato varoittaa Venäjää ilmatilaloukkauksista",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
@@ -991,12 +902,12 @@
       ]
     },
     {
-      "mainTitle": "Hegseth kutsuu kenraaleja poikkeuskokoukseen",
+      "mainTitle": "Yhdysvaltojen kenraalit kokoontuvat poikkeustapaamiseen",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1134,117 +1045,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011521875.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "EU suunnittelee droonimuuria itärajalleen",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Orpo peräänkuuluttaa Euroopan mailta solidaarisuutta droonimuurin rakentamiseksi EU:n itärajalle",
-          "content": "Euroopan komission puolustus- ja avaruusasioista vastaava komissaari Andrius Kubilius tapaa pääministeri Petteri Orpon sekä puolustusministeri Antti Häkkäsen Helsingissä. Keskusteluiden pääaiheena on droonimuurin rakentaminen unionin itärajalle. \nMedialle:\n• Klo 12.00 Kuvausmahdollisuus pääministeri Orpon ja komissaari Kubiliuksen tapaamisen alussa. Paikka: Hallituksen iso huone, eduskunta\n• Klo 12.30 Pääministeri Orpo on lyhyesti median tavattavana komissaaritapaamisen aiheista. Paikka: Hallituksen iso huone, eduskunta\n• Klo 15 Puolustusministeri Häkkänen ja komissaari Kubiliuksen tiedotustilaisuus. Paikka: Puolustusministeriö, Eteläinen Makasiinikatu 8.",
-          "date": "2025-09-26T16:43:29.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/orpo-peraankuuluttaa-euroopan-mailta-solidaarisuut/11788687?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puolustus | Antti Häkkänen ja Andrius Kubilius keskustelivat droonimuurista – ”Droonimuuri on metafora”",
-          "content": "Puolustusministeri Antti Häkkänen ja pääministeri Petteri Orpo vaativat Etelä-Euroopalta solidaarisuutta EU:n droonimuurin rakentamisessa.",
-          "date": "2025-09-26T15:51:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011518593.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Häkkänen vaatii nopeita toimia – näin drooneja vastaan aiotaan puolustautua",
-          "content": "Orpon, Häkkäsen ja Kubiliuksen tapaamisen pääaiheena on droonimuuri, jota suunnitellaan EU:n itärajalle.",
-          "date": "2025-09-26T13:15:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011520369.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Turvallisuus | EU:n puolustus­komissaari keskustelee Orpon ja Häkkäsen kanssa drooni­muurista perjantaina",
-          "content": "Tapaamisessa käsitellään muun muassa EU:n itärajalle ehdotettua droonimuuria.",
-          "date": "2025-09-25T11:23:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011518268.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Puolustuskomissaari Kubilius saapuu Suomeen, keskusteluiden aiheena EU:n droonimuuri",
-          "content": "EU-komission puolustus- ja avaruusasioista vastaava komissaari Andrius Kubilius tapaa pääministeri Petteri Orpon (kok.) ja puolustusministeri Antti Häkkäsen (kok.) huomenna Helsingissä.",
-          "date": "2025-09-25T10:58:48.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/puolustuskomissaari-kubilius-saapuu-suomeen-keskus/11786686?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "EU:n puolustus­komissaari tapaa Orpon ja Häkkäsen Helsingissä – aiheena droonimuuri",
-          "content": "Orpo: Viime päivien droonihavainnot alleviivaavat droonimuurin merkitystä.",
-          "date": "2025-09-25T10:56:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011518390.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "EU suunnittelee Venäjän varojen käyttöä Ukrainassa",
-      "mainCategories": [
-        "Politiikka",
-        "EU"
-      ],
-      "imageUrl": "/images/saksa/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "EU:n uusi ase Ukrainalle: Venäjän jäädytetyt varat – mutta miten se onnistuu?",
-          "content": "Ukrainan tuki voi mennä uusiksi, jos komission ja Saksan liittokanslerin radikaali muutos menee läpi, kirjoittaa Kauppalehden EU-kirjeenvaihtaja Kreeta Karvala.",
-          "date": "2025-09-26T15:59:00.000Z",
-          "categories": [
-            "eu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/d4817c01-ac48-427f-9d2a-034e2fb8a84a"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan tuki | Saksan uusi käänne voi avata merkittävän raha­hanan – Kysyimme asian­tuntijoilta, miten se toimii",
-          "content": "Jäädytettyyn venäläispääomaan koskemista on vältelty pitkään. Euroopan komissio ja Saksa pitävät uutta suunnitelmaa mahdollisena.",
-          "date": "2025-09-26T08:42:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011514911.html"
         }
       ]
     },
@@ -1547,7 +1347,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1610,7 +1410,7 @@
       ]
     },
     {
-      "mainTitle": "Järvisydän jatkaa toimintaa konkurssihakemuksesta huolimatta",
+      "mainTitle": "Järvisydäntä ei konkurssiin haettu",
       "mainCategories": [
         "Taloussanomat",
         "Suomi"
@@ -1662,7 +1462,7 @@
         "Politiikka",
         "Lääketeollisuus"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -1757,7 +1557,51 @@
       ]
     },
     {
-      "mainTitle": "Punkkien aiheuttamat taudit lisääntyvät Suomessa",
+      "mainTitle": "Drooniepäilyt sulkivat Aalborgin ilmatilan",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Drooniepäilyt | Myös Ruotsissa eilisillalla droonihavaintoja lähellä laivastotukikohtaa",
+          "content": "Aalborgin kentän ilmatila oli suljettuna vain lyhyen aikaa. Macron lupasi yöllä Ranskan avun Tanskan ilmatilan turvaamiseen.",
+          "date": "2025-09-26T07:47:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011519582.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Tanskassa Aalborgin lentokentän ilmatila suljettiin väliaikaisesti drooniepäilyjen vuoksi",
+          "content": "Viranomaiset eivät ole onnistuneet vahvistamaan tuoreita epäilyjä.",
+          "date": "2025-09-26T04:07:17.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/tanskassa-aalborgin-lentokentan-ilmatila-suljettii/11787476?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Aalborgin lento­kentällä taas uusi drooni­epäily",
+          "content": "Tanskassa Aalborgin kentän ilmatila oli suljettuna lyhyen aikaa. Macron lupasi yöllä Ranskan avun Tanskan ilmatilan turvaamiseen.",
+          "date": "2025-09-26T00:02:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011519583.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Punkkien aiheuttamat tautikuolemat kasvavat Suomessa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1796,7 +1640,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1837,7 +1681,7 @@
       ]
     },
     {
-      "mainTitle": "Alkoholilain muutos etenee eduskuntaan",
+      "mainTitle": "Alkoholilain muutos herättää erimielisyyksiä hallituksessa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1882,7 +1726,7 @@
       ]
     },
     {
-      "mainTitle": "Hallitus esittää limsojen veronkorotusta",
+      "mainTitle": "Hallitus esittää limsojen veron korotusta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1911,40 +1755,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011518959.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Luksussänkyjen alennukset hämmentävät asiakkaita",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hulluilla päivillä tarjouksessa luksussänky – hinta vetää hiljaiseksi",
-          "content": "Sänky on yli 15 000 euron alennuksessa.",
-          "date": "2025-09-25T12:11:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011518280.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Alennukset | Stockmannin kampanjassa myydään 59 000 euron sänkyä alennus­löytönä",
-          "content": "Stockmannin kampanjassa myytävän jenkkisängyn hinnalla saa kaksi henkilöautoa. Kyseessä ei ole hintavirhe, selittää sänkymallia välittävä Vepsäläinen.",
-          "date": "2025-09-25T10:02:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011517740.html"
         }
       ]
     },
