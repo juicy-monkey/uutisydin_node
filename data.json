@@ -1,11 +1,631 @@
 {
-  "timestamp": "2025-10-15T17:38:39.584Z",
+  "timestamp": "2025-10-15T18:23:21.663Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Ammuntatapaukset järkyttävät Helsingissä ja Porvoossa",
+      "mainTitle": "Ruotsin puoluejohtaja eroaa uhkausten vuoksi",
+      "mainCategories": [
+        "Ruotsi",
+        "Vihapuhe",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ruotsi | Puoluejohtaja eroaa ”vihan ja uhkausten” takia, yllätti puolueensa ja pääministerin",
+          "content": "Entinen ministeri Anna-Karin Hatt ilmoitti erostaan vain viisi kuukautta sen jälkeen, kun hän palasi politiikkaan. Äskettäisessä kyselyssä suuri joukko ruotsalaisia kansanedustajia kertoi kokemastaan turvattomuudesta.",
+          "date": "2025-10-15T18:21:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011562670.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ruotsalaispuolueen puheenjohtaja erosi yllättäen uhkausten takia – ”Joudun jatkuvasti katsomaan olkani yli”",
+          "content": "Keskusta­puolueen puheenjohtajan Anna-Karin Hattin eroilmoitus käynnisti Ruotsissa keskustelun yhteiskunnan ilmapiiristä.",
+          "date": "2025-10-15T16:01:08.000Z",
+          "categories": [
+            "ruotsi",
+            "ruotsin politiikka",
+            "keskustapuolue (ruotsi)",
+            "ruotsalaiset poliitikot",
+            "julkinen keskustelu",
+            "vihapuhe",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20188608?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Finnair peruu lentoja istuinten pesuongelmien vuoksi",
+      "mainCategories": [
+        "Kotimaa",
+        "Liikenne",
+        "Finnair"
+      ],
+      "imageUrl": "/images/finnair/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS: Finnairin on vaihdettava 2000 uutta istuinpäällistä",
+          "content": "Lentoyhtiö Finnair on perunut useita kymmeniä lentoja istuin­päällisten virheellisen pesutavan takia.",
+          "date": "2025-10-15T18:04:04.000Z",
+          "categories": [
+            "liikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20188615?origin=rss"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Finnair pesi penkit vedellä ja perui kymmeniä lentoja – Näin ei palauteta luottamusta",
+          "content": "Finnair jäi jo kesällä yhdessä vertailussa jumbosijalle luotettavuudessa. Lentokoneiden penkkien vesipesusta seuranneiden käänteiden viestintä ei tilannetta paranna, kirjoittaa Sanna Pekkonen.",
+          "date": "2025-10-15T18:00:00.000Z",
+          "categories": [
+            "ilmailu"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/d4e2d4a1-1473-4534-8c33-4fe883c40ce5"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pestyt penkit | Uusia istuin­päällisiä valmistetaan kiireellä, kahdeksan konetta vedettiin liikenteestä",
+          "content": "Finnairin pitää vaihtaa 2 000 päällistä. Niiden eteen paiskotaan ylitöitä Tampereella.",
+          "date": "2025-10-15T17:09:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011560551.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kommentti | Finnairin sähläys on noussut kiusallisiin mittoihin",
+          "content": "Asiakkaiden luottamus Finnairia kohtaan on vasta palautumassa työtaistelujen jälkeen. Siksi istuinten pesuohjekriisi osui ikävään saumaan, kirjoittaa taloustoimittaja Anni Lassila.",
+          "date": "2025-10-15T15:14:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011558745.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "AL: Finnairilta voi tulla uusia lentojen peruutuksia – Tässä syy",
+          "content": "Kaksi Finnairin lentokonetta vaurioitui kolareissa viime elokuussa. Koneet ovat edelleen korjaamatta, Aamulehti uutisoi. Kaksi Finnairin elokuussa kolaroitua lentokonetta on edelleen korjaamatta, mikä voi edelleen aiheuttaa muutoksia tai peruutuksia yhtiön lentoihin, Aamulehti uutisoi. Tiistaina 5. elokuuta Finnairin Airbus A350 -lentokone vaurioitui, kun sen siipi osui huoltohallin oveen Helsinki-Vantaan lentoasemalla. Lauantaina 16. elokuuta yhtiön ATR 72 -potkuriturbiinikone taas lähti Helsinki-Vantaalla tahattomasti liikkeelle ja törmäsi huoltolaitteeseen.",
+          "date": "2025-10-15T14:41:33.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/56c78a82-3dfa-4e8e-b550-6d39e850d1fe"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Finnair peruu edelleen lentoja väärin pestyjen istuinten takia – lentokoneita lainaan Tanskasta",
+          "content": "",
+          "date": "2025-10-15T12:01:21.000Z",
+          "categories": [
+            "lentoyhtiöt",
+            "finnair",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6795228"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Finnair | Finnair saattaa joutua perumaan lisää lentoja, syynä kolaroineet koneet",
+          "content": "Yhtiö on joutunut perumaan 13 lentoa Yhdysvaltoihin A350-koneen kolaroinnin seurauksena.",
+          "date": "2025-10-15T09:32:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011558890.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Finnair peruu keskiviikolta kaksi Oulun-lentoa – Syy edelleen istuinten vesipesussa",
+          "content": "Finnair peruu keskiviikkona kaksi Oulun-lentoa. Syy on edelleen istuinten vesipesussa.",
+          "date": "2025-10-15T09:12:56.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/finnair-peruu-keskiviikolta-kaksi-oulun-lentoa-syy/12291525?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Finnair peruu keskiviikkona vielä kahdeksan lentoa väärin pestyjen penkkien takia",
+          "content": "Tanskalainen DAT-lentoyhtiö korvaa osan perutuista lennoista.",
+          "date": "2025-10-15T06:58:23.000Z",
+          "categories": [
+            "liikenne",
+            "finnair",
+            "lentoliikenne",
+            "liikenne ja kuljetus",
+            "lentoliikennehäiriöt",
+            "yle uutiset somenostot",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20188443?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnair peruu lisää lentoja",
+          "content": "Vastoin ohjeita pestyt lentokoneen istuimet ovat aiheuttaneet peruutuksia Finnairin lentoliikenteeseen.",
+          "date": "2025-10-15T06:55:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011560522.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pestyt penkit | Finnairin peruu kahdeksan lentoa keskiviikkona väärin pestyjen penkkien takia",
+          "content": "Keskiviikosta alkaen Finnairin kumppaniyhtiö korvaa osan Finnairin lennoista.",
+          "date": "2025-10-15T06:48:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011560530.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pestyt penkit | Finnair ei vielä tiedä, milloin koneet saadaan taas ilmaan",
+          "content": "Finnair on joutunut perumaan kymmeniä lentoja, sillä kahdeksan koneen istuinten päälliset oli pesty vedellä.",
+          "date": "2025-10-14T15:48:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011559651.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tästä Finnairin penkkien pesu­sotkussa on kyse – lentoja saatetaan joutua vielä perumaan",
+          "content": "Viestintäpäällikön mukaan kahdeksassa Finnairin A320-laivaston koneessa on erilaiset penkit. Niiden puhdistusprosessi on saattanut vaikuttaa istuimien palosuojaan.",
+          "date": "2025-10-14T15:12:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011559643.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "”Ihan naurettava syy”, sanoo matkustaja Finnairin lentojen perumisesta penkkien vesipesun vuoksi",
+          "content": "Finnair on perunut useita kymmeniä lentoja, koska penkit oli pesty väärin. Kysyimme Helsinki-Vantaan lentokentällä, mitä ajatuksia tämä herättää.",
+          "date": "2025-10-14T14:38:18.000Z",
+          "categories": [
+            "liikenne",
+            "finnair",
+            "helsinki-vantaan lentoasema",
+            "matkustajaliikenne",
+            "lentokoneet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20188348?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnair peruu vielä tänään lentoja erikoisen syyn takia",
+          "content": "Yhtiö on perunut kymmeniä lentoja maanantaina ja tiistaina.",
+          "date": "2025-10-14T10:31:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011557954.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Näin Finnair vastaa kysymyksiin lentojen peruutuksia aiheuttaneesta penkkien pesusta",
+          "content": "Finnair ei kerro selvästi, onko liikenteestä poistetuilla koneilla lennätetty matkustajia ennen kuin penkkien pesuongelma tuli yhtiön tietoon. ",
+          "date": "2025-10-14T09:22:25.000Z",
+          "categories": [
+            "liikenne",
+            "finnair",
+            "penkit",
+            "syysloma",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20188252?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Sadun loma sai tylyn käänteen, kun Finnair perui lennon viime hetkellä – ”Osa perheestä oli jo koneessa”",
+          "content": "Tuhansien matkasuunnitelmat menivät uusiksi, kun Finnair perui lentoja väärin pestyjen istuimien takia.",
+          "date": "2025-10-14T09:17:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011558054.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HS: Tämä pieni asia koitui Finnairin kohtaloksi – kymmeniä lentoja peruttu",
+          "content": "Perinteinen vesipesu koitui monien matkasuunnitelmien kohtaloksi.",
+          "date": "2025-10-14T09:10:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011558405.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lentoliikenne | Istuinten vesipesu peruu Finnairilta vielä yli 20 lentoa",
+          "content": "Perumiset vaikuttavat yhteensä 5 000 matkustajaan.",
+          "date": "2025-10-14T08:33:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011557804.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Finnair peruu Oulun-lentoja väärin pestyjen istuinten vuoksi",
+          "content": "Finnair on perunut useita Oulun-lentoja maanantaina ja tiistaina paloturvallisuusriskin vuoksi. Peruutukset johtuvat vastoin ohjeita pestyistä istuimista.",
+          "date": "2025-10-14T07:30:44.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/finnair-peruu-oulun-lentoja-vaarin-pestyjen-istuin/12095317?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Finnairin penkkien pesu aiheuttaa lentojen perumisia keskiviikkonakin",
+          "content": "Finnair joutui ottamaan koneita pois käytöstä, koska niiden istuimia oli puhdistettu virheellisesti. Lentoja on peruttu noin 40. Finnair ei vielä tiedä, miten kauan tilanne jatkuu.",
+          "date": "2025-10-14T05:52:21.000Z",
+          "categories": [
+            "liikenne",
+            "finnair",
+            "lentoliikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20188214?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnair peruu kymmeniä lentoja",
+          "content": "Peruuntumiset vaikuttavat noin 5 000:n matkustajan suunnitelmiin.",
+          "date": "2025-10-13T19:35:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011557496.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lentoliikenne | Perheen lomakohde vaihtui Wienistä Espooksi, kun väärin pestyt penkit peruuttivat lennon",
+          "content": "Finnair on peruuttanut kymmeniä lentoja maanantailta ja tiistailta. Monelle lomalaiselle tilanne selvisi vasta lentokentällä.",
+          "date": "2025-10-13T18:57:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011557622.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Nato ja EU kehittävät droonipuolustusta",
+      "mainCategories": [
+        "Politiikka",
+        "Nato",
+        "Turvallisuus"
+      ],
+      "imageUrl": "/images/nato/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ilmapuolustus | Nato ja EU rakentavat drooni­puolustusta nyt pika­vauhtia – Rutte lupaa, että tuplatyötä ei tehdä",
+          "content": "Naton ja EU:n puolustusministerit kokoontuivat keskiviikkona Brysseliin. Viro toivoo Suomen helpottavan kansallisia säännöksiään Viron ilmatilassa toimimisesta.",
+          "date": "2025-10-15T17:59:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011554643.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomi saattaa pian lentää myös Viron ilmatilassa – ilmatilaloukkaus Virossa sai Nato-maat muuttamaan sääntöjään",
+          "content": "Nato-tehtäviin hävittäjiään lähettävillä mailla on niin paljon omia sääntöjä, että ilmatilaa ei pystytä tehokkaasti puolustamaan. ",
+          "date": "2025-10-15T14:08:48.000Z",
+          "categories": [
+            "nato",
+            "turvallisuus",
+            "puolustus",
+            "politiikka",
+            "kansainvälinen politiikka",
+            "ilmatilan loukkaus",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20188494?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hamas luovutti ruumiita Israelille ja vapautti panttivankeja",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/gaza/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Gaza-seuranta | Hamas luovuttaa vielä tänään kaksi ruumista – Satelliitti­kuvat näyttävät avustus­rekkojen jonon Egyptin ja Gazan rajalla",
+          "content": "Viimeisetkin Hamasin ottamat elossa olevat panttivangit on vapautettu Israeliin. HS seuraa Lähi-idän tilannetta hetki hetkeltä.",
+          "date": "2025-10-15T17:52:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011547711.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Neljän panttivangin ruumiit luovutettu Israeliin",
+          "content": "Gazassa on vielä 20 panttivangin ruumiit.",
+          "date": "2025-10-14T22:15:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011560258.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Israelilaismediat: Israel aikoo jälleen rajoittaa humanitaarisen avun pääsyä Gazaan",
+          "content": "Tilanne jatkuu, kunnes äärijärjestö Hamas on palauttanut kaikkien surmattujen panttivankien ruumiit.",
+          "date": "2025-10-14T15:29:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011559919.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hamasin erottamat pariskunnat pääsivät yhteen yli kahden vuoden jälkeen – ”Olen suunniltani tunteista ja ilosta”",
+          "content": "Hamas palautti maanantaina 20 elossa olevaa ja neljä kuollutta vankia Israelille. Vaihdossa se sai takaisin noin 2 000 Israelin vankiloissa ollutta palestiinalaista.",
+          "date": "2025-10-13T19:17:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011557598.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomen kansalaisuusvaatimuksiin muutoksia tuilla",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suomen kansalaisuus­vaatimuksiin iso muutos – kansalaisuutta ei saa, jos elää tuilla",
+          "content": "Eduskunta hyväksyi muutoksia kansalaisuuslakiin.",
+          "date": "2025-10-15T17:51:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011562541.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Maahanmuutto | Eduskunta päätti: Jatkossa Suomen kansalaisuutta ei saa, jos elää tuilla",
+          "content": "Edellytykset kansalaisuuden saamiseksi eivät vastaisuudessa täyty, jos hakija elää toimeentulotuella tai on turvautunut työttömyystukeen tai toimeentulotukeen yli kolmen kuukauden ajan kahden vuoden aikana.",
+          "date": "2025-10-15T13:15:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011561615.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Puoluejohtajat keskustelevat velkajarrusta A-studiossa",
+      "mainCategories": [
+        "Talous",
+        "Velkajarru",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "A-studiossa kohtaa neljä puoluejohtajaa: Millaisia leikkauksia velkajarrusta seuraa?",
+          "content": "Taloudesta ja turvallisuudesta väittelevät Petteri Orpo (kok.), Antti Lindtman (sd.), Sofia Virta (vihr.) ja Anders Adlercreutz (r.).",
+          "date": "2025-10-15T17:42:03.000Z",
+          "categories": [
+            "talous",
+            "velkajarru",
+            "työttömyys",
+            "puolustus",
+            "nato",
+            "kotimaa",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20188464?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Eduskuntapuolueet käsittelevät tänään velkajarrua",
+          "content": "",
+          "date": "2025-10-14T01:02:40.000Z",
+          "categories": [
+            "politiikka",
+            "talous",
+            "puolueet",
+            "suomen politiikka",
+            "velkajarru",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20188190?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Georgian syytökset Valtosta vastaan jatkuvat",
+      "mainCategories": [
+        "Politiikka",
+        "Georgia",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Georgialta raju väite Valtosesta – tutkija: Tässä syy",
+          "content": "Tutkija kertoo, kuinka Georgian myrskyisä poliittinen tilanne vaikutti ulkoministeri Valtosen vierailuun.",
+          "date": "2025-10-15T17:42:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011562601.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Georgialta kova syytös Valtosesta – tapaaminen pää­ministerin kanssa peruttu",
+          "content": "Ulkoministeri Valtosen väitetään osallistuneen ”laittomaan kampanjatilaisuuteen”.",
+          "date": "2025-10-15T11:51:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011561809.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Georgia | Pää­ministeri väittää kieltäytyneensä tapaamasta Elina Valtosta, tämä sanoo peruneensa ensin",
+          "content": "Georgian hallitus syyttää Suomen ulkoministeriä osallistumisesta ”laittomaan kampanjatilaisuuteen” ja ”valheellisten lausuntojen levittämisestä”.",
+          "date": "2025-10-15T11:36:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011561247.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Georgian pääministeri väittää peruneensa tapaamisen ulkoministeri Elina Valtosen kanssa – ulkoministeriö: Ei pidä paikkaansa",
+          "content": "Georgia syytti ulkoministeriä ”vallankaappauksen järjestäjien tukemisesta”. Elina Valtosen mukaan rauhanomaisilla mielenosoittajilla on oikeus ilmaista mielipiteensä. ",
+          "date": "2025-10-15T09:59:27.000Z",
+          "categories": [
+            "politiikka",
+            "elina valtonen",
+            "georgia",
+            "kansainvälinen politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20188468?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainalaismiestä ei luovuteta Saksaan",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/saksa/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Nord Stream | Deutsche Welle: Kaasuputkien räjäyttämisestä epäiltyä ei luovuteta Saksaan",
+          "content": "Saksalaissyyttäjät haluavat asettaa ukrainalaismiehen syytteisiin Saksassa.",
+          "date": "2025-10-15T17:40:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011562702.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nord Stream -sabotaasista epäiltyä ei luovuteta Saksaan",
+          "content": "",
+          "date": "2025-10-15T17:22:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20188614?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Väkivaltaiset tapahtumat Helsingissä ja Porvoossa",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -85,18 +705,6 @@
           "link": "https://yle.fi/a/74-20188568?origin=rss"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Porvoossa ammuttu – Mies kuoli",
-          "content": "Poliisi on eristänyt asunnon teknistä tutkintaa varten. Itä-Uudenmaan poliisin partio sai aamulla tehtävän Porvoon Kevätkumpuun. Alustavien tietojen mukaan kerrostaloasunnossa oli ammuttu aseella. Asunnosta löytyi noin kolmekymmentävuotias mies, jonka ensihoitoyksikön lääkäri totesi paikalla kuolleeksi, kertoo päivystävä tutkinnanjohtaja rikoskomisario Rauno Jämsä tiedotteessa.",
-          "date": "2025-10-15T12:38:07.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/969c6950-9456-471d-92ac-8e80a63252ff"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -130,7 +738,7 @@
       ]
     },
     {
-      "mainTitle": "Raahessa koira hyökkäsi lapsen kimppuun",
+      "mainTitle": "Raahessa koira hyökkäsi jälleen lapseen",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -176,7 +784,7 @@
       ]
     },
     {
-      "mainTitle": "Jämsäläismies tuomittu seksuaalirikoksista lapsia kohtaan",
+      "mainTitle": "Jämsäläismies tuomittu lapsiin kohdistuneista rikoksista",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -210,59 +818,13 @@
       ]
     },
     {
-      "mainTitle": "Egypti painostaa Israelia avaamaan Rafahin rajanylityspaikan",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Gaza-seuranta | Media: Egypti painostanut Israelia avaamaan Rafahin rajanylitys­paikan",
-          "content": "Viimeisetkin Hamasin ottamat elossa olevat panttivangit on vapautettu Israeliin. HS seuraa Lähi-idän tilannetta hetki hetkeltä.",
-          "date": "2025-10-15T16:50:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011547711.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Israelilaismediat: Israel aikoo jälleen rajoittaa humanitaarisen avun pääsyä Gazaan",
-          "content": "Tilanne jatkuu, kunnes äärijärjestö Hamas on palauttanut kaikkien surmattujen panttivankien ruumiit.",
-          "date": "2025-10-14T15:29:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011559919.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hamasin erottamat pariskunnat pääsivät yhteen yli kahden vuoden jälkeen – ”Olen suunniltani tunteista ja ilosta”",
-          "content": "Hamas palautti maanantaina 20 elossa olevaa ja neljä kuollutta vankia Israelille. Vaihdossa se sai takaisin noin 2 000 Israelin vankiloissa ollutta palestiinalaista.",
-          "date": "2025-10-13T19:17:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011557598.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Mediatalot vastustavat Pentagonin lehdistösääntöjä",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -538,7 +1100,7 @@
         "Vietnam",
         "Kotimaa"
       ],
-      "imageUrl": "/images/stubb/4.jpg",
+      "imageUrl": "/images/stubb/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -600,7 +1162,7 @@
         "Talous",
         "Velkajarru"
       ],
-      "imageUrl": "/images/eduskunta/1.jpg",
+      "imageUrl": "/images/eduskunta/2.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -677,23 +1239,6 @@
           "link": "https://yle.fi/a/74-20188223?origin=rss"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eduskuntapuolueet käsittelevät tänään velkajarrua",
-          "content": "",
-          "date": "2025-10-14T01:02:40.000Z",
-          "categories": [
-            "politiikka",
-            "talous",
-            "puolueet",
-            "suomen politiikka",
-            "velkajarru",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188190?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -714,7 +1259,7 @@
         "Kotimaa",
         "Poliisi"
       ],
-      "imageUrl": "/images/ravintola/1.jpg",
+      "imageUrl": "/images/ravintola/4.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -771,7 +1316,7 @@
         "Israel",
         "Tuomioistuimet"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -820,14 +1365,14 @@
         "Nato",
         "Puolustus"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Häkkäseltä kova viesti Ukrainan tukemisesta: ”Tarvitaan 40–50 miljardia euroa vuosittain”",
-          "content": "Puolustusministeri Antti Häkkänen (kok) linjasi Naton kokouksen jälkeen tiukkaan sävyyn, että mikäli Ukrainaa ei olla tukemassa, silloin ei myöskään edistetä rauhaa. Suomi ostaa Yhdysvaltain asevoimien varastoista aseita ja lahjoittaa ne Ukrainalle. Puolustusministeri Antti Häkkänen (kok) järjesti keskiviikkoiltana Naton päämajassa tiedotustilaisuuden.",
+          "title": "Antti Häkkäsen mitta täyttyi vapaa­matkustajiin – ”Kaikkienhan se pitäisi ymmärtää”",
+          "content": "Puolustusministeri Antti Häkkänen painotti tiukkaan sävyyn, että mikäli jokin Euroopan maa ei aseista tosissaan Ukrainaa, se ei silloin myöskään tue rauhaa. Suomi ostaa Yhdysvaltain asevoimien varastoista aseita ja lahjoittaa ne Ukrainalle. Puolustusministeri Antti Häkkänen (kok) järjesti keskiviikkoiltana Naton päämajassa tiedotustilaisuuden. Häkkänen korosti, että Ukrainan tappiot rintamalla kasvavat dramaattisesti, jos maan asevoimat ei saa jatkossakin moderneimpia amerikkalaisia asejärjestelmiä.",
           "date": "2025-10-15T14:52:13.000Z",
           "categories": [
             "politiikka"
@@ -940,250 +1485,6 @@
       ]
     },
     {
-      "mainTitle": "Finnair peruu lentoja istuinten pesuongelmien vuoksi",
-      "mainCategories": [
-        "Kotimaa",
-        "Finnair",
-        "Liikenne"
-      ],
-      "imageUrl": "/images/finnair/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "AL: Finnairilta voi tulla uusia lentojen peruutuksia – Tässä syy",
-          "content": "Kaksi Finnairin lentokonetta vaurioitui kolareissa viime elokuussa. Koneet ovat edelleen korjaamatta, Aamulehti uutisoi. Kaksi Finnairin elokuussa kolaroitua lentokonetta on edelleen korjaamatta, mikä voi edelleen aiheuttaa muutoksia tai peruutuksia yhtiön lentoihin, Aamulehti uutisoi. Tiistaina 5. elokuuta Finnairin Airbus A350 -lentokone vaurioitui, kun sen siipi osui huoltohallin oveen Helsinki-Vantaan lentoasemalla. Lauantaina 16. elokuuta yhtiön ATR 72 -potkuriturbiinikone taas lähti Helsinki-Vantaalla tahattomasti liikkeelle ja törmäsi huoltolaitteeseen.",
-          "date": "2025-10-15T14:41:33.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/56c78a82-3dfa-4e8e-b550-6d39e850d1fe"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Finnair peruu edelleen lentoja väärin pestyjen istuinten takia – lentokoneita lainaan Tanskasta",
-          "content": "",
-          "date": "2025-10-15T12:01:21.000Z",
-          "categories": [
-            "lentoyhtiöt",
-            "finnair",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6795228"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Finnair | Finnair saattaa joutua perumaan lisää lentoja, syynä kolaroineet koneet",
-          "content": "Yhtiö on joutunut perumaan 13 lentoa Yhdysvaltoihin A350-koneen kolaroinnin seurauksena.",
-          "date": "2025-10-15T09:32:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011558890.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Finnair peruu keskiviikolta kaksi Oulun-lentoa – Syy edelleen istuinten vesipesussa",
-          "content": "Finnair peruu keskiviikkona kaksi Oulun-lentoa. Syy on edelleen istuinten vesipesussa.",
-          "date": "2025-10-15T09:12:56.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/finnair-peruu-keskiviikolta-kaksi-oulun-lentoa-syy/12291525?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair peruu keskiviikkona vielä kahdeksan lentoa väärin pestyjen penkkien takia",
-          "content": "Tanskalainen DAT-lentoyhtiö korvaa osan perutuista lennoista.",
-          "date": "2025-10-15T06:58:23.000Z",
-          "categories": [
-            "liikenne",
-            "finnair",
-            "lentoliikenne",
-            "liikenne ja kuljetus",
-            "lentoliikennehäiriöt",
-            "yle uutiset somenostot",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188443?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Finnair peruu lisää lentoja",
-          "content": "Vastoin ohjeita pestyt lentokoneen istuimet ovat aiheuttaneet peruutuksia Finnairin lentoliikenteeseen.",
-          "date": "2025-10-15T06:55:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011560522.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pestyt penkit | Finnairin peruu kahdeksan lentoa keskiviikkona väärin pestyjen penkkien takia",
-          "content": "Keskiviikosta alkaen Finnairin kumppaniyhtiö korvaa osan Finnairin lennoista.",
-          "date": "2025-10-15T06:48:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011560530.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pestyt penkit | Finnair ei vielä tiedä, milloin koneet saadaan taas ilmaan",
-          "content": "Finnair on joutunut perumaan kymmeniä lentoja, sillä kahdeksan koneen istuinten päälliset oli pesty vedellä.",
-          "date": "2025-10-14T15:48:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011559651.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tästä Finnairin penkkien pesu­sotkussa on kyse – lentoja saatetaan joutua vielä perumaan",
-          "content": "Viestintäpäällikön mukaan kahdeksassa Finnairin A320-laivaston koneessa on erilaiset penkit. Niiden puhdistusprosessi on saattanut vaikuttaa istuimien palosuojaan.",
-          "date": "2025-10-14T15:12:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011559643.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Ihan naurettava syy”, sanoo matkustaja Finnairin lentojen perumisesta penkkien vesipesun vuoksi",
-          "content": "Finnair on perunut useita kymmeniä lentoja, koska penkit oli pesty väärin. Kysyimme Helsinki-Vantaan lentokentällä, mitä ajatuksia tämä herättää.",
-          "date": "2025-10-14T14:38:18.000Z",
-          "categories": [
-            "liikenne",
-            "finnair",
-            "helsinki-vantaan lentoasema",
-            "matkustajaliikenne",
-            "lentokoneet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188348?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Finnair peruu vielä tänään lentoja erikoisen syyn takia",
-          "content": "Yhtiö on perunut kymmeniä lentoja maanantaina ja tiistaina.",
-          "date": "2025-10-14T10:31:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011557954.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin Finnair vastaa kysymyksiin lentojen peruutuksia aiheuttaneesta penkkien pesusta",
-          "content": "Finnair ei kerro selvästi, onko liikenteestä poistetuilla koneilla lennätetty matkustajia ennen kuin penkkien pesuongelma tuli yhtiön tietoon. ",
-          "date": "2025-10-14T09:22:25.000Z",
-          "categories": [
-            "liikenne",
-            "finnair",
-            "penkit",
-            "syysloma",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188252?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sadun loma sai tylyn käänteen, kun Finnair perui lennon viime hetkellä – ”Osa perheestä oli jo koneessa”",
-          "content": "Tuhansien matkasuunnitelmat menivät uusiksi, kun Finnair perui lentoja väärin pestyjen istuimien takia.",
-          "date": "2025-10-14T09:17:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011558054.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "HS: Tämä pieni asia koitui Finnairin kohtaloksi – kymmeniä lentoja peruttu",
-          "content": "Perinteinen vesipesu koitui monien matkasuunnitelmien kohtaloksi.",
-          "date": "2025-10-14T09:10:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011558405.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Lentoliikenne | Istuinten vesipesu peruu Finnairilta vielä yli 20 lentoa",
-          "content": "Perumiset vaikuttavat yhteensä 5 000 matkustajaan.",
-          "date": "2025-10-14T08:33:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011557804.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Finnair peruu Oulun-lentoja väärin pestyjen istuinten vuoksi",
-          "content": "Finnair on perunut useita Oulun-lentoja maanantaina ja tiistaina paloturvallisuusriskin vuoksi. Peruutukset johtuvat vastoin ohjeita pestyistä istuimista.",
-          "date": "2025-10-14T07:30:44.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/finnair-peruu-oulun-lentoja-vaarin-pestyjen-istuin/12095317?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnairin penkkien pesu aiheuttaa lentojen perumisia keskiviikkonakin",
-          "content": "Finnair joutui ottamaan koneita pois käytöstä, koska niiden istuimia oli puhdistettu virheellisesti. Lentoja on peruttu noin 40. Finnair ei vielä tiedä, miten kauan tilanne jatkuu.",
-          "date": "2025-10-14T05:52:21.000Z",
-          "categories": [
-            "liikenne",
-            "finnair",
-            "lentoliikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188214?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Lentoliikenne | Perheen lomakohde vaihtui Wienistä Espooksi, kun väärin pestyt penkit peruuttivat lennon",
-          "content": "Finnair on peruuttanut kymmeniä lentoja maanantailta ja tiistailta. Monelle lomalaiselle tilanne selvisi vasta lentokentällä.",
-          "date": "2025-10-13T18:57:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011557622.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kelan etuuksiin tulossa korotuksia ensi vuonna",
       "mainCategories": [
         "Taloussanomat",
@@ -1287,7 +1588,7 @@
       ]
     },
     {
-      "mainTitle": "Hallituksen suhtautuminen työttömyyteen herättää keskustelua",
+      "mainTitle": "Hallituksen suhtautuminen työttömyyteen kyseenalaista",
       "mainCategories": [
         "Politiikka",
         "Välikysymykset",
@@ -1395,92 +1696,13 @@
       ]
     },
     {
-      "mainTitle": "Maskun valtuutetun somekäytös kyseenalaistaa luottamuksen",
-      "mainCategories": [
-        "Masku",
-        "Kokoomus",
-        "Paikallispolitiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Valtuutetun epäilyttävä somekäytös herätti muut puolueet pohtimaan luottamusta Maskussa",
-          "content": "",
-          "date": "2025-10-15T13:44:57.000Z",
-          "categories": [
-            "sosiaalinen media",
-            "kokoomus",
-            "masku",
-            "paikallispolitiikka",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6795344"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "TS: Maskulainen valtuutettu lisäsi Facebook-ryhmiin valetilejä, jotka tukivat häntä ja jakoivat vaalimainoksia",
-          "content": "Kokoomuksen valtuutettu Aki Simolan väitettyä toimintaa käsitellään valtuustoryhmässä illalla. Valetilit eivät pelkästään reagoineet päivityksiin vaan osallistuivat keskusteluun.",
-          "date": "2025-10-15T10:36:08.000Z",
-          "categories": [
-            "kunnat",
-            "masku",
-            "turun sanomat",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188507?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Maskun kokoomus tiesi häiriköinnistä valeprofiileilla, muttei puuttunut siihen",
-          "content": "",
-          "date": "2025-10-15T08:20:26.000Z",
-          "categories": [
-            "paikallispolitiikka",
-            "kokoomus",
-            "sosiaalinen media",
-            "masku",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6794911"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Valekeskustelijat kaappasivat Maskun Kuntalaisfoorumin – valtuutettu lisäsi kymmeniä tekaistuja tilejä",
-          "content": "",
-          "date": "2025-10-14T16:00:00.000Z",
-          "categories": [
-            "sosiaalinen media",
-            "paikallispolitiikka",
-            "politiikka",
-            "masku",
-            "kokoomus",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6793235"
-        }
-      ]
-    },
-    {
       "mainTitle": "Venäläinen sukellusvene ongelmissa Itämerellä",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
         "Sukellusveneet"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1604,7 +1826,7 @@
       ]
     },
     {
-      "mainTitle": "Etelä-Karjalan hyvinvointialueen budjetti lainvastainen",
+      "mainTitle": "Etelä-Karjalan budjetti todettiin lainvastaiseksi",
       "mainCategories": [
         "Hyvinvointialueet",
         "Lappeenranta",
@@ -1643,7 +1865,7 @@
       ]
     },
     {
-      "mainTitle": "Peruskoululaiset opiskelevat yhä enemmän islamia",
+      "mainTitle": "Peruskoululaisista yhä useampi opiskelee islamia",
       "mainCategories": [
         "Kotimaa",
         "Uskonto",
@@ -1747,57 +1969,7 @@
       ]
     },
     {
-      "mainTitle": "Georgian syytökset Valtosta vastaan jatkuvat",
-      "mainCategories": [
-        "Politiikka",
-        "Georgia",
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Georgialta kova syytös Valtosesta – tapaaminen pää­ministerin kanssa peruttu",
-          "content": "Ulkoministeri Valtosen väitetään osallistuneen ”laittomaan kampanjatilaisuuteen”.",
-          "date": "2025-10-15T11:51:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011561809.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Georgia | Pää­ministeri väittää kieltäytyneensä tapaamasta Elina Valtosta, tämä sanoo peruneensa ensin",
-          "content": "Georgian hallitus syyttää Suomen ulkoministeriä osallistumisesta ”laittomaan kampanjatilaisuuteen” ja ”valheellisten lausuntojen levittämisestä”.",
-          "date": "2025-10-15T11:36:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011561247.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Georgian pääministeri väittää peruneensa tapaamisen ulkoministeri Elina Valtosen kanssa – ulkoministeriö: Ei pidä paikkaansa",
-          "content": "Georgia syytti ulkoministeriä ”vallankaappauksen järjestäjien tukemisesta”. Elina Valtosen mukaan rauhanomaisilla mielenosoittajilla on oikeus ilmaista mielipiteensä. ",
-          "date": "2025-10-15T09:59:27.000Z",
-          "categories": [
-            "politiikka",
-            "elina valtonen",
-            "georgia",
-            "kansainvälinen politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20188468?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lääkärivirhe aiheutti potilaalle aivovaurion",
+      "mainTitle": "Oulun lääkärivirheestä syytteet aivovauriosta",
       "mainCategories": [
         "Terveydenhuolto",
         "Oulu",
@@ -1838,7 +2010,7 @@
       ]
     },
     {
-      "mainTitle": "Eduskunta keskustelee tosi-tv-osallistumisesta",
+      "mainTitle": "Eduskunta pohtii tosi-tv-osallistumisia",
       "mainCategories": [
         "Politiikka"
       ],
@@ -2009,7 +2181,7 @@
         "Yhdysvallat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2118,7 +2290,7 @@
       ]
     },
     {
-      "mainTitle": "Hitas-järjestelmän kohtuuhintaisuus kyseenalaistettu",
+      "mainTitle": "Hitas-järjestelmä ei enää tue kohtuuhintaista asumista",
       "mainCategories": [
         "Asuminen",
         "Asunnot",
@@ -2233,7 +2405,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2349,7 +2521,7 @@
       ]
     },
     {
-      "mainTitle": "Madagaskarin presidentti paennut vallankaappauksen myötä",
+      "mainTitle": "Madagaskarin presidentti paennut vallankaappauksen vuoksi",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
@@ -2424,7 +2596,7 @@
       ]
     },
     {
-      "mainTitle": "Mäkynen eriävässä mielipiteessä velkajarrusta",
+      "mainTitle": "Mäkynen eri mieltä SDP:n velkajarrusta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -2497,10 +2669,9 @@
       "mainTitle": "Postin osake nousi pörssin päälistalle",
       "mainCategories": [
         "Talous",
-        "Pörssit",
-        "Kotimaa"
+        "Pörssit"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2528,21 +2699,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011558827.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kaupankäynti Postin osakkeilla alkaa tänään Helsingin pörssin päälistalla",
-          "content": "",
-          "date": "2025-10-14T01:45:22.000Z",
-          "categories": [
-            "talous",
-            "pörssit",
-            "helsingin pörssi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188191?origin=rss"
         }
       ]
     },
@@ -2821,7 +2977,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
