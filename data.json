@@ -1,41 +1,808 @@
 {
-  "timestamp": "2025-10-20T07:16:37.419Z",
+  "timestamp": "2025-10-20T11:14:09.297Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Zelenskyi ja Trump riitelivät rauhanehdoista",
+      "mainTitle": "Venäjän talouskasvu päättymässä nopeasti",
+      "mainCategories": [
+        "Talous",
+        "Venäjä",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomen Pankki: Venäjän talouden nopea kasvu on ohi",
+          "content": "",
+          "date": "2025-10-20T11:05:19.000Z",
+          "categories": [
+            "venäjä",
+            "venäjän talous",
+            "suomen pankki",
+            "ulkomaat",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20189333?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sota | Suomen Pankki: Venäjän valtiolta loppuvat rahat",
+          "content": "Venäjä joutuu nyt kiristämään verotusta, leikkaamaan menoja ja ottamaan lainaa kotimaisilta liikepankeilta. Pankkikriisiä ei silti ole näköpiirissä.",
+          "date": "2025-10-20T11:00:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011571324.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ketjukolarit Lahdessa: ohjeet ja rikosilmoitukset",
+      "mainCategories": [
+        "Liikenne",
+        "Autoilu",
+        "Liikenneturvallisuus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kolme ohjetta: Näin toimit oikein, jos löydät itsesi keskeltä ketjukolaria",
+          "content": "Lahdessa tapahtui lauantaiaamuna useita ketjukolareita, joissa oli osallisina kymmeniä autoja. Tässä jutussa asiantuntija kertoo, miten ketjukolarissa kannattaa toimia.",
+          "date": "2025-10-20T11:01:23.000Z",
+          "categories": [
+            "liikenne",
+            "autoilu",
+            "liikenneturvallisuus",
+            "päijät-häme",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189262?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään nyt | Poliisi kirjasi Lahden kolari­sumasta kuusi rikos­ilmoitusta: kymmeniä vietiin sairaalaan tarkistettaviksi",
+          "content": "Lahdessa sattuneissa kolareissa oli mukana kymmeniä autoja. Poliisi kuvaili olosuhteita ”Konginkangas-keliksi”.",
+          "date": "2025-10-18T13:57:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011568332.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sään muutokset vaikuttavat ajokeliin.",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Säässä helpottava muutos",
+          "content": "Yöpakkasten aika on hetkeksi ohi.",
+          "date": "2025-10-20T11:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011570795.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Etelässäkin on yöllä pakkasta: tiet voivat olla liukkaita aamulla",
+          "content": "Maanantain vastaisena yönä on jälleen monin paikoin pakkasta.",
+          "date": "2025-10-19T15:27:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011569883.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Ajokeli taas huono isossa osassa maata, mutta lauantain jäätävä sumu puuttuu",
+          "content": "Etelässä on poutaista, pohjoisessa lumisateet ovat mahdollisia.",
+          "date": "2025-10-19T04:31:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011569216.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Liukkaus ja sumu aiheuttivat valtavan kolarisuman: Ensi yö ei näytä yhtä pahalta",
+          "content": "Meteorologi kehottaa pitämään silmällä, onko auton pinnalla kuuraa. Silloin sitä voi hyvinkin olla myös tien pinnassa.",
+          "date": "2025-10-18T15:36:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011568758.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Laaja verkkohäiriö vaikutti useisiin sovelluksiin",
+      "mainCategories": [
+        "Internet",
+        "Snapchat",
+        "Fortnite"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Laaja häiriö haittasi useiden sovellusten ja pelien toimintaa",
+          "content": "Verkkosivujen käyttöhäiriöitä seuraavan Downdetectorin mukaan häiriöitä raportoitiin myös Suomessa.",
+          "date": "2025-10-20T10:56:00.000Z",
+          "categories": [
+            "tietoliikenne"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/99d5cf47-e56a-48d9-80cf-ea05a3f45981"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Internet | Amazonin pilvi­palveluiden häiriöt ovat korjaantumassa",
+          "content": "Häiriö vaikutti lukuisiin verkkosivustoihin, kuten Snapchatin, tekoälyavustaja Alexan ja Fortniten toimintaan.",
+          "date": "2025-10-20T10:29:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011570834.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Useissa suurissa verkkosivustoissa ja sovelluksissa häiriöitä",
+          "content": "Muun muassa Snapchat, Fortnite, Duolingo ja Canva eivät toimineet kunnolla pilvipalvelinalustan häiriön vuoksi.",
+          "date": "2025-10-20T08:07:26.000Z",
+          "categories": [
+            "internet",
+            "snapchat",
+            "fortnite",
+            "duolingo",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189272?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Vesa Vihriälä vahvistaa Wahlroosin väitteet Etlasta",
+      "mainCategories": [
+        "Talous",
+        "Politiikka",
+        "Tiede"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ex-pomo vahvistaa: Björn Wahlroosin väitteet sekasorrosta ovat totta",
+          "content": "Vesa Vihriälä arvioi, että hyödyllistä sanottavaa saattaa olla muillakin kuin täsmälleen oman maailmankuvan jakavilla. Björn Wahlroos nosti syksyllä ilmestyneessä muistelmiensa 3. osassa Nurkkahuone (Otava) esiin sen, miten Elinkeinoelämän tutkimuslaitoksen Etlan johto meni vaihtoon 2019. – Calle (Haglund) otti vastaan puheenjohtajuuden keskellä luottamuskriisiä, jonka seurauksena sekä Vihriälä että Maliranta jättivät lopulta tehtävänsä. Kumpikin tunnusti lähtönsä jälkeen väriä, Vihriälä lähtemällä Juha Sipilän valtiosihteeriksi, ja Maliranta ottamalla vastaan Palkansaajien tutkimuslaitoksen Laboren johtajan tehtävän, Wahlroos kirjoittaa.",
+          "date": "2025-10-20T10:50:45.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/9c82557e-fde9-45ef-a05c-8e58b9ef8f7d"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Etla | Vesa Vihriälä vahvistaa Björn Wahlroosin esittämät väitteet ”puhdistuksista”",
+          "content": "Vesa Vihriälän mukaan Björn Wahlroosin kertomat tiedot Etlassa tehdyistä puhdistuksista ovat totta. Hänen mukaansa Wahlroosin kommentit vievät Suomea vaaralliselle tielle.",
+          "date": "2025-10-20T09:55:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011570413.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Nyt tuli tiukka kuitti Björn Wahlroosille – ”Minun hän katsoo paljastaneen värini”",
+          "content": "Ekonomisti Vesa Vihriälä pitää tutkijoiden ja tutkimuksen lyömistä poliittisella leimakirveellä synkkänä kehityskulkuna.",
+          "date": "2025-10-20T07:42:00.000Z",
+          "categories": [
+            "tiede"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/52811c72-9852-4648-b0a0-20fef04807e4"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ruotsalaiset rikolliset hallitsivat huumeverkostoa Suomessa",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikokset",
+        "Huumeet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ruotsalaiset ammattirikolliset pyörittivät suurta huumeverkostoa Suomesta käsin",
+          "content": "Poliisi pääsi alkuvuodesta laajan huumerikoskokonaisuuden jäljille. Ruotsalaiset ammattirikolliset pyörittivät verkostoa, jolla levitettiin huumeita Suomeen ja ulkomaille.",
+          "date": "2025-10-20T10:50:39.000Z",
+          "categories": [
+            "rikokset",
+            "huumeet",
+            "huumausainerikokset",
+            "huumeiden kauppa ja salakuljetus",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189325?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Poliisi tarkkaili ruotsalaisia Helsingissä – Paljastui valtava huumeliiga",
+          "content": "Verkoston potentiaalinen rikoshyöty olisi ollut lähes 2 miljoonaa euroa. Poliisi on paljastanut laajan huumeverkoston pääkaupunkiseudulla. Poliisi havaitsi alkuvuonna 2025 Helsingissä ihmisiä, jotka herättivät poliisin mielenkiinnon. Kansainvälisen yhteistyön avulla selvisi, että kyseessä olivat ruotsalaiset ammattirikolliset.",
+          "date": "2025-10-20T10:46:24.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/b0a56a2c-b7aa-40be-9ccd-6a17faa88a5e"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "”Meidän pitää hoitaa Suomi, tuutko mukaan veli?” Näin Mansikka valtasi Suomen huumebisnekset",
+          "content": "Ismail Abdo, lempinimeltään Mansikka, halusi vallata Suomen huumemarkkinat. Seurasi aggressiivista rikollisuutta, joka huipentui murhan yritykseen. MOT selvitti vallan verkostoa.",
+          "date": "2025-10-20T03:00:37.000Z",
+          "categories": [
+            "rikokset",
+            "järjestäytynyt rikollisuus",
+            "ruotsi",
+            "huumausainerikokset",
+            "poliisi",
+            "rikosepäilyt",
+            "huumeet",
+            "helsinki",
+            "uusimaa",
+            "keskusrikospoliisi (krp)",
+            "ismail abdo",
+            "rikolliset",
+            "mot",
+            "kotimaa",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20183734?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "EU-maat päättivät lopettaa venäläiskaasun tuonnin",
+      "mainCategories": [
+        "Politiikka",
+        "Ulkomaat",
+        "EU"
+      ],
+      "imageUrl": "/images/venäjä/5.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "EU | EU-maat sopuun: Venäläis­kaasun tuonnin loputtava vuoden 2027 loppuun mennessä",
+          "content": "Ehdotus koskee niin putkikaasua kuin nesteytettyä maakaasua.",
+          "date": "2025-10-20T10:43:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011571295.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "EU-maat sopuun: Venäjän kaasu­hanat EU:hun suljettava vuoden 2027 loppuun mennessä",
+          "content": "EU-parlamentti on vaatinut asiassa tätäkin nopeampaa aikataulua. Suomalaismeppi Ville Niinistön mukaan EU:n ei koskaan tule enää palata fossiilipolttoaineiden tuontiin Venäjältä.",
+          "date": "2025-10-20T10:41:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011571400.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "EU luopuu venäläisestä kaasusta vuoteen 2028 mennessä",
+          "content": "EU tuo edelleen venäläistä kaasua yli 15 miljardilla eurolla vuodessa. Maanantain päätöksen myötä Venäjän sotakassan rahoittamisesta aiotaan luopua vuoteen 2028 mennessä.",
+          "date": "2025-10-20T10:33:00.000Z",
+          "categories": [
+            "eu"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/12d63305-b28d-4442-b265-a5ce922b686b"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "EU-maat sopivat lopettavansa venäläisen maakaasun ja öljyn tuonnin vuoden 2027 loppuun mennessä",
+          "content": "Kaikki jäsenvaltiot kahta lukuun ottamatta tukivat tänään maanantaina Euroopan komission ehdotusta.",
+          "date": "2025-10-20T09:34:31.000Z",
+          "categories": [
+            "euroopan unioni",
+            "venäjän hyökkäys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189297?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kadonneen miehen etsinnät merellä jatkuvat",
+      "mainCategories": [
+        "Kotimaa",
+        "Suomi",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Merellä kadonneen etsinnät jatkuvat",
+          "content": "Merivartioston mukaan kyse on ”vanhemmasta miehestä”.",
+          "date": "2025-10-20T10:18:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011571272.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Töölössä kadonnut mies löytyi",
+          "content": "Mies oli nähty viimeksi Töölössä torstaina aamuyöllä.",
+          "date": "2025-10-20T04:37:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011567208.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kadonneet | Mies kateissa merellä Närpiössä, etsinnät lopetettiin tuloksettomina",
+          "content": "Merivartiosto etsi ”vanhempaa miestä” Närpiön ja Korsnäsin rajalla myöhään lauantai-iltana.",
+          "date": "2025-10-18T21:51:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011569192.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies kateissa merellä Närpiössä – etsinnät lopetettiin tuloksettomina",
+          "content": "Paikalla oli useita viranomaisyksiköitä ja meripelastus­helikopteri.",
+          "date": "2025-10-18T21:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011569187.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Poliisi jatkaa merellä kadonneen miehen etsintöjä",
+          "content": "Miestä on etsitty sunnuntaista lähtien. Merialueella Närpiön ja Korsnäsin rajalla kadonneen miehen etsintöjä jatketaan maanantaina. Miestä on etsitty sunnuntaista lähtien. Etsinnät päätettiin sunnuntai-iltana tuloksettomina.",
+          "date": "2025-10-18T20:37:13.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/9a95d09b-9459-4516-8845-5e128e9d742b"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Viking Gracen joukko­raiskauksen epäillyt kiinni jälleen",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Joukkoraiskaus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Viking Gracen joukko­raiskauksesta epäillyt on otettu kiinni",
+          "content": "Tapausta tutkii Lounais-Suomen poliisilaitos.",
+          "date": "2025-10-20T10:09:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011571149.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viking Gracen joukko­raiskauksesta epäillyt on otettu uudestaan kiinni",
+          "content": "Poliisi jatkaa asian esitutkintaa kuulusteluilla ja teknisellä tutkinnalla. Epäilty raiskaus tapahtui Viking Gracella viikonloppuna.",
+          "date": "2025-10-20T09:51:54.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "joukkoraiskaus",
+            "poliisitutkinta",
+            "epäillyt",
+            "raiskaus",
+            "m/s viking grace",
+            "varsinais-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189303?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisilta uutta tietoa epäillystä joukko­raiskauksesta Viking Grace -laivalla",
+          "content": "Raiskauksen tutkintavastuu siirtyi Suomen poliisille.",
+          "date": "2025-10-20T09:47:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011571159.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Viking Gracella paljastuneesta joukkoraiskauksesta epäillyt otettu jälleen kiinni",
+          "content": "",
+          "date": "2025-10-20T09:45:00.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "seksuaalirikokset",
+            "esitutkinta",
+            "lounais-suomen poliisilaitos",
+            "rikos ja oikeus",
+            "tukholma",
+            "ruotsinlaivat",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6799417"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Uusi käänne Viking Gracen epäillyssä joukko­raiskauksessa",
+          "content": "Suomen poliisi on ottanut neljä parikymppistä miestä kiinni. Heitä epäillään lauantain vastaisena yönä tehdystä joukkoraiskauksesta. Poliisi epäilee neljää Suomessa asuvaa parikymppistä miestä Ruotsin-laivalla viime viikonloppuna tapahtuneesta joukkoraiskauksesta. Miehet ovat kiinniotettuina, kertoo Lounais-Suomen poliisi tuoreessa tiedotteessaan. Epäillyt olivat jo kertaalleen pidätettyinä, mutta ruotsalaismedioiden mukaan heidät vapautettiin viikonlopun aikana.",
+          "date": "2025-10-20T09:39:39.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/ab1fbc93-4d05-4e73-89f7-6a92fe5b8046"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Epäilty joukko­raiskaus Viking Gracella – näin Suomen poliisi kommentoi",
+          "content": "Ruotsalaismedian mukaan rikos tapahtui Suomen vesillä.",
+          "date": "2025-10-19T07:02:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011569371.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Jannika B oli Viking Gracella, kun siellä tapahtui epäilty joukkoraiskaus",
+          "content": "”Te ootte perseestä”, artisti täräyttää epäillyille raiskaajille.",
+          "date": "2025-10-19T06:12:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011569265.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Viking Gracella epäilty joukko­raiskaus – ruotsalais­media: epäillyt vapautettu",
+          "content": "Neljää Suomessa asuvaa miestä epäillään naisen raiskauksesta.",
+          "date": "2025-10-18T17:24:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011568986.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Räjähdys Mellunkylässä aiheutti vahinkoa ja loukkaantumisia",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Uusimaa"
+      ],
+      "imageUrl": "/images/helsinki/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin räjähdyksen jäljet näkyvät Mellunkylässä",
+          "content": "Räjähdys herätti paljon huomiota eri puolilla Itä-Helsinkiä.",
+          "date": "2025-10-20T10:08:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011570322.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Pariskunta paljasti, millaista tuhoa Mellunkylän räjähdys teki – ”Ei tuota ihan äkkiseltään korjata”",
+          "content": "Räjähdyksen aiheuttama paineaalto aiheutti tuhoa pariskunnan kodissa. Mellunkylässä tapahtui maanantaina puolenyön aikaan räjähdys. Kadulle pysäköity pakettiauto ja sen sisällä olleet kaasupullot räjähtivät. Auto tuhoutui tilanteessa täysin ja räjähdyksestä seurannut paineaalto aiheutti vahinkoa naapuruston taloille. Räjähdyksen läheisyydessä sijaitsevan talon ikkunat ja seinä vaurioituivat tilanteessa pahoin. Naapurit kertovat Iltalehdelle, mitä heidän kodissaan tapahtui räjähdyksen seurauksena. He haluavat pysyä nimettöminä. Heidän henkilöllisyytensä on Iltalehden tiedossa.",
+          "date": "2025-10-20T08:40:01.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/b4692b4b-6465-4d69-8ead-11aa87acf69e"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ylen Ukrainan-toimittaja havahtui yöllisiin räjähdyksiin Mellunkylässä – ”Ajattelin, että missä maassa nyt olen”",
+          "content": "Räjähtäneet kaasupullot herättivät Mellunkylän asukkaat sikeästä unesta. Monet alkoivat hämmentyneinä etsiä syytä pamauksille.",
+          "date": "2025-10-20T08:11:59.000Z",
+          "categories": [
+            "onnettomuudet",
+            "itä-helsinki",
+            "mellunkylä",
+            "vesala",
+            "helsingin kaupungin pelastuslaitos",
+            "helsingin poliisilaitos",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189257?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uutta tietoa Mellun­kylän räjähdyksestä",
+          "content": "Poliisi pyytää havaintoja tapahtuneesta.",
+          "date": "2025-10-20T08:06:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011570454.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Näky Mirjan pihalla kertoo räjähdyksen voimasta – Tältä näyttää Mellunkylän turmapaikalla",
+          "content": "Naapurustossa Helsingin Mellunkylässä herättiin yöllä valtavan kovaan pamaukseen. Mellunkylän voimakas räjähdys herätti huomiota naapurustossa maanantaiyönä. Pakettiauton sisällä olleet kaasupullot aiheuttivat kaksi voimakasta räjähdystä, joiden aiheuttama paineaalto hajotti ikkunoita ja lennätti autonpaloja pitkin katua. Räjähdyspaikan lähellä asuva Jani Hoffström kertoo, että heräsi yöllä kovaan pamaukseen. Hetkeä myöhemmin kuului toinen räjähdys.",
+          "date": "2025-10-20T07:57:01.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/406246ce-ab01-4c47-9365-004432f233ca"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suuri räjähdys Mellunkylässä",
+          "content": "Kaksi henkilöä loukkaantui pakettiauton räjähdyksessä. Onnettomuusalueella liikkumista tulee välttää. IS:n lukija kertoo nähneensä tulipalon asuntonsa ikkunasta.",
+          "date": "2025-10-20T05:05:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011570193.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Pakettiautossa olleet kaasupullot räjähtivät Mellunkylässä – Kaksi ihmistä loukkaantui, romua lensi kymmenien metrien päähän",
+          "content": "Pakettiautossa olleet kaasupullot räjähtivät maanantain vastaisena yönä. Kaasupullojen räjähtämisen syy ei ole tiedossa.",
+          "date": "2025-10-20T05:01:17.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/pakettiautossa-olleet-kaasupullot-rajahtivat-mellu/12338856?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Helsingin Mellunkylässä räjähti pakettiauto – syytä ei vielä tiedetä, poliisi selvittää rikoksen mahdollisuutta",
+          "content": "Kaksi henkilöä loukkaantui pakettiauton räjähdyksessä Mellunkylässä.  Toinen loukkaantuneista on auton haltija.  Pakettiautossa oli ollut kaasupulloja. ",
+          "date": "2025-10-19T21:48:49.000Z",
+          "categories": [
+            "onnettomuudet",
+            "helsinki",
+            "uusimaa",
+            "mellunmäki",
+            "poliisi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189209?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tulli varoittaa vaarallisista muuntohuumeista",
+      "mainCategories": [
+        "Kotimaa",
+        "Huumeet",
+        "Tulli"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tullin valvontajohtaja: ”Pimeä verkko on erittäin suuri ongelma, koska tappavat muuntohuumeet tulevat sitä kautta”",
+          "content": "Lainsäädännössä on aukko, joka päästää lukuisat uudet muuntohuumeet läpi, sanoo Tulli. Niitä tulee vuodessa kymmenkunta.",
+          "date": "2025-10-20T10:07:24.000Z",
+          "categories": [
+            "päihteet",
+            "huumeet",
+            "tulli",
+            "helsinki",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189294?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tulli varoittaa erittäin vaarallisesta uudesta huumeesta – ”Yksikin tabletti voi johtaa kuolemaan”",
+          "content": "Ainetta ei ole havaittu aiemmin Euroopassa.",
+          "date": "2025-10-20T07:26:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011570385.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Tulli varoittaa erittäin vaarallisista huumetableteista –  \"Yksikin voi johtaa kuolemaan\"",
+          "content": "",
+          "date": "2025-10-20T06:20:50.000Z",
+          "categories": [
+            "huumeet",
+            "tulli",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6799027"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Työtapaturmat johtivat sakkoihin ja pelastuksiin",
+      "mainCategories": [
+        "Kotimaa",
+        "Oikeudenkäynnit",
+        "Kuopio"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Työntekijä tukehtui työkoneen hiekkasäiliöön Kuopiossa – käräjäoikeus hylkäsi syytteet kuoleman­tuottamuksesta",
+          "content": "Pohjois-Savon käräjäoikeus tuomitsi kaksi miestä sakko­rangaistukseen työturvallisuus­määräysten noudattamatta jättämisestä.",
+          "date": "2025-10-20T10:02:28.000Z",
+          "categories": [
+            "oikeudenkäynnit",
+            "kuopio",
+            "pohjois-savon käräjäoikeus",
+            "oikeus hylkää syytteet",
+            "tuomiot",
+            "pohjois-savo",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189296?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Työtapaturma Helsingissä – mies pelastettiin syvästä kuopasta",
+          "content": "Betoniauton pumppausletku kolahti työmiehen päähän.",
+          "date": "2025-10-20T09:20:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011570996.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump ehdottaa Donbassin luovuttamista Venäjälle",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trump: Näin Ukraina tulisi \"katkaista\"",
+          "content": "”Katkaistaan se niin kuin se nyt on”, Yhdysvaltain presidentti sanoo viitaten Donbasin alueen rintamalinjoihin. Yhdysvaltain presidentti Donald Trump ehdottaa Ukrainalle maan itäosien luovuttamista Venäjälle nykyisten rintamalinjojen mukaisesti. Trump kommentoi asiaa julkisuuteen sunnuntaina, painostettuaan median lähdetietojen mukaan ensin Ukrainan presidenttiä Volodymyr Zelenskyiä kaksikon perjantaisessa tapaamisessa kulissien takana. Mediatietojen mukaan Trump olisi vaatinut tapaamisessa Ukrainaa taipumaan Vladimir Putinin Venäjän vaatimuksiin eli käytännössä luovuttamaan Donetskin ja Luhanskin alueet Venäjälle.",
+          "date": "2025-10-20T09:58:44.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/64847a6a-ea14-4f69-8b47-6a004eb4ffdd"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
           "title": "Ukraina-seuranta | Zelenskyi valmis osallistumaan Trumpin ja Putinin tapaamiseen Budapestissä",
           "content": "HS seuraa Venäjän hyökkäys­sotaa ja sen seurauksia hetki hetkeltä.",
-          "date": "2025-10-20T07:16:00.000Z",
+          "date": "2025-10-20T08:04:00.000Z",
           "categories": [
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011532246.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Vieraskynä: Kitkerä pakkorauha – Ukraina ja Suomi todellisen koettelemuksen edessä",
-          "content": "Venäjä saa välirauhan myötä kipeästi tarvitsemansa hengähdystauon ja mahdollisuuden suunnata armeija toisaalle, kirjoittaa Venäjän ja Itä-Euroopan tutkimuksen vanhempi yliopistolehtori Arto Luukkanen. Ukrainan presidentti Zelenskyn perjantaisen vierailun tulokset 17. lokakuuta 2025 Washingtonissa olivat jokseenkin tylyt; vastaanotto tuntui tympeähköltä. Presidentti Trumpin neuvot Zelenskylle olivat suorasukaisia: Ukrainan on syytä allekirjoittaa rauha ilman vastalauseita. Tomahawk-ohjuksia ei tule.",
-          "date": "2025-10-20T04:33:07.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/5bd03e97-a351-4c59-9a74-5ed16acfe88e"
         },
         {
           "publisherId": "is",
@@ -163,902 +930,152 @@
       ]
     },
     {
-      "mainTitle": "Matkustajakone suistui Pietarissa hätälaskussa",
+      "mainTitle": "Seksuaalirikokset ja vangitsemiset lisääntyvät Suomessa",
       "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Lentoliikenne"
-      ],
-      "imageUrl": "/images/venäjä/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjä | Matkustaja­kone suistui kiito­tieltä tehtyään hätä­laskun Pietarissa",
-          "content": "Koneessa oli runsaat 160 matkustajaa, mutta kukaan heistä tai koneen henkilökunnasta ei loukkaantunut.",
-          "date": "2025-10-20T07:09:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011570455.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Lento-onnettomuus Pietarissa",
-          "content": "Hätälaskua tehnyt kone suistui kiitotieltä yhdellä Venäjän vilkkaimmista lentokentistä. Lentokone on suistunut kiitotieltä Venäjän Pietarin päälentokentällä, kertoo uutistoimisto AFP. Onnettomuus sattui varhain maanantaina, kun Airbusin A320-kone teki hätälaskua Pulkovon lentoasemalle. Hätälasku jouduttiin tekemään laskutelineen vian vuoksi.",
-          "date": "2025-10-20T06:51:27.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/8304e3af-83db-4ced-8474-d6c627989812"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Matkustajakone teki hätä­laskun Pietarissa",
-          "content": "Kyseessä oli Azerbaidzhanin Bakusta lähtenyt Airbusin A320-kone.",
-          "date": "2025-10-20T06:49:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011570515.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pietarissa matkustajakone suistui kiitotieltä tehtyään hätälaskun",
-          "content": "",
-          "date": "2025-10-20T06:33:37.000Z",
-          "categories": [
-            "venäjä",
-            "lentoliikenne",
-            "onnettomuudet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189236?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Louvren ryöstö paljastaa turvallisuuspuutteet Ranskassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ranska",
-        "Louvre"
-      ],
-      "imageUrl": "/images/ranska/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Louvren ryöstö mainehaitta Ranskalle, sanoo maan oikeusministeri",
-          "content": "Oikeusministeri myöntää, että ryöstö oli epäonnistuminen Ranskan viranomaisilta.",
-          "date": "2025-10-20T07:06:20.000Z",
-          "categories": [
-            "ranska",
-            "louvre",
-            "ryöstö",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189241?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Videoanalyysi: Koko maailma ihmettelee, miten helposti Louvren ryöstö onnistui",
-          "content": "Louvren museon murto ja varkaus osoittavat, miten Ranska on laiminlyönyt museoidensa turvallisuutta, kirjoittaa Ylen Ranskan-toimittaja Miina Väisänen.",
-          "date": "2025-10-19T18:00:01.000Z",
-          "categories": [
-            "uutiset",
-            "ulkomaat",
-            "kulttuuri"
-          ],
-          "link": "https://yle.fi/a/74-20189197?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomeen suunnitellaan fuusioreaktoria 2035 mennessä",
-      "mainCategories": [
-        "Energia",
-        "Talous",
-        "Fuusioenergia"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Suomeen kaavaillaan fuusioreaktoria, leikkaukset vasta alussa, Nokialta odotetaan hyvää tulosta – Katso maanantain Talousaamu täältä",
-          "content": "Kauppalehden Talousaamussa keskusteltiin maanantaina tuoreesta fuusioreaktoriuutisesta, alkavasta tulosviikosta ja hallituksen talouspolitiikasta.",
-          "date": "2025-10-20T07:06:00.000Z",
-          "categories": [
-            "talousaamu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/efda5491-18f5-49c3-b208-9c0753220863"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Fuusioenergian kehitysyhtiö aikoo rakentaa ensimmäisen suuren testireaktorin pian – VTT: Suomi on paras vaihtoehto",
-          "content": "Teollisen mittakaavan fuusioreaktori on määrä käynnistää vuoteen 2035 mennessä. Pohjoismaihin suunniteltava laitos voisi tulla Suomeen, jossa alan sääntely on kevenemässä. ",
-          "date": "2025-10-20T06:08:23.000Z",
-          "categories": [
-            "energia",
-            "fuusioenergia",
-            "st1",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20188892?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Fuusioenergia | Fuusioreaktoria rakentava ruotsalaisyhtiö etsii isoa tonttia Helsingin seudulta",
-          "content": "Ruotsalainen Novatron etsii sijoituspaikkaa ja rahoittajia kolmannelle koereaktorille, jonka hinta nousee 700–900 miljoonaan. Helsingin seutu nousi VTT:n tekemässä arviossa suosikiksi.",
-          "date": "2025-10-20T06:00:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011564726.html"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Suomeen suunnitellaan 100 MW:n fuusioreaktoria – Teknologiaa kuvaillaan läpimurroksi",
-          "content": "Fuusioenergia on ollut ikuinen lupaus, mutta nyt on tapahtumassa käänne. Viime vuosina myös yksityiset sijoittajat ovat kiinnostuneet fuusiokehityksestä. Nyt Suomessa ja Pohjoismaissa St1 Nordic puskee uutta asiaa eteenpäin.",
-          "date": "2025-10-20T06:00:00.000Z",
-          "categories": [
-            "energia"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/48509d85-a6a4-4c05-8cfe-e0f527ca8a44"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi loukkaantui Mellunkylän räjähdyksessä",
-      "mainCategories": [
-        "Kotimaa",
-        "Helsinki",
-        "Poliisi"
+        "Rikokset",
+        "Seksuaalirikokset",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Uutta tietoa Mellunkylän räjähdyksestä",
-          "content": "Räjähdyksessä loukkaantuneet olivat auton omistaja ja hänen läheisensä. Mellunkylän yöllisessä pakettiauton räjähdyksessä loukkaantuivat pakettiauton omistaja ja hänen läheisensä. Tutkinnanjohtajan, rikoskomisario Tuomas Lindholmin mukaan henkilöt eivät loukkaantuneet hengenvaarallisesti, ja toinen on päässyt pois sairaalahoidosta. Molemmat heistä ovat aikuisia.",
-          "date": "2025-10-20T07:04:45.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Seksuaalirikosvyyhti laajenee Pirkanmaalla – 19-vuotias mies vangittiin epäiltynä 17 rikoksesta",
+          "content": "Mies vangittiin ensimmäisen kerran elokuussa epäiltynä useista rikoksista.  Uudet rikosepäilyt koskevat  muun muassa yhdeksää seksuaalista kajoamista lapseen.",
+          "date": "2025-10-20T09:57:00.000Z",
           "categories": [
-            "kotimaa"
+            "rikosepäilyt",
+            "rikokset",
+            "seksuaalirikokset",
+            "lapset ja nuoret",
+            "nokia",
+            "tampere",
+            "kotimaa",
+            "pirkanmaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/aa90008f-042d-4c4b-aa06-40e12ac065d1"
+          "link": "https://yle.fi/a/74-20189282?origin=rss"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Suuri räjähdys Mellunkylässä",
-          "content": "Kaksi henkilöä loukkaantui pakettiauton räjähdyksessä. Onnettomuusalueella liikkumista tulee välttää. IS:n lukija kertoo nähneensä tulipalon asuntonsa ikkunasta.",
-          "date": "2025-10-20T05:05:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mies käytti teinityttöä seksuaalisesti hyväkseen useasti yli kahden vuoden ajan – sai reilut kaksi vuotta vankeutta",
+          "content": "Kymenlaakson käräjäoikeus­ tuomitsi nyt 35-vuotiaan miehen kahden vuoden ja neljän kuukauden vankeuteen lapsen törkeästä seksuaalisesta hyväksi­käytöstä.",
+          "date": "2025-10-20T08:31:35.000Z",
           "categories": [
+            "rikokset",
+            "kymenlaakso",
+            "lasten seksuaalinen hyväksikäyttö",
+            "vankeus",
+            "oikeus",
+            "oikeudenkäynnit",
+            "seksuaalirikokset",
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011570193.html"
+          "link": "https://yle.fi/a/74-20189271?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Israel keskeyttää avustuskuljetukset Gazaan",
+      "mainCategories": [
+        "Ulkomaat",
+        "Israel",
+        "Aselepo"
+      ],
+      "imageUrl": "/images/gaza/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Gaza-seuranta | Israel avaa rajanylitys­paikan avustus­kuljetuksia varten",
+          "content": "HS seuraa Lähi-idän tilannetta hetki hetkeltä.",
+          "date": "2025-10-20T09:47:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011547711.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Israel: Yksi raja-asema Gazaan on avattu taas avustuksille",
+          "content": "",
+          "date": "2025-10-20T09:29:48.000Z",
+          "categories": [
+            "gazan sota",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189295?origin=rss"
         },
         {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
-          "title": "Poliisi: Kaksi loukkaantui kaasupullojen räjähdyksessä Helsingin Mellunmäessä",
-          "content": "Räjähdyksessä loukkaantui kaksi ihmistä, joista toinen vietiin sairaalahoitoon.",
-          "date": "2025-10-20T05:01:17.000Z",
+          "title": "Israel keskeyttää avustuskuljetusten pääsyn Gazaan toistaiseksi",
+          "content": "Israel keskeyttää avustuskuljetusten pääsyn Gazaan toistaiseksi, kertoo Israelin turvallisuusviranomainen.",
+          "date": "2025-10-19T17:21:23.000Z",
           "categories": [],
-          "link": "https://www.kaleva.fi/poliisi-kaksi-loukkaantui-kaasupullojen-rajahdykse/12338856?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kaksi loukkaantui voimakkaassa räjähdyksessä Helsingissä",
-          "content": "",
-          "date": "2025-10-20T04:47:52.000Z",
-          "categories": [
-            "räjähdys",
-            "helsinki",
-            "poliisi",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6798930"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Video: Helsingin räjähdys tallentui kameralle",
-          "content": "Poliisi eristää aluetta edelleen maanantaiaamuna. Helsingin Mellunkylässä tapahtunut räjähdys tallentui kameralle. Pakettiauto räjähti Tuhkanummentien ja Untamalantien risteyksen läheisyydessä varhain maanantaina.",
-          "date": "2025-10-19T23:37:07.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/34570d5d-090e-4b31-9575-67f7a6f47d1a"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Helsingin Mellunkylässä räjähti pakettiauto – räjähdyksen syytä ei vielä tiedetä, poliisi selvittää rikoksen mahdollisuutta",
-          "content": "Pakettiauton sisällä olleet kaasupullot räjähtivät Mellunkylässä yöllä. Kaksi henkilöä loukkaantui räjähdyksessä, ja heidät vietiin sairaalahoitoon. ",
-          "date": "2025-10-19T21:48:49.000Z",
-          "categories": [
-            "onnettomuudet",
-            "helsinki",
-            "uusimaa",
-            "mellunmäki",
-            "poliisi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20189209?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Suuri räjähdys Helsingissä – Kaksi loukkaantui",
-          "content": "Poliisi jatkaa edelleen räjähdyspaikan eristystä. Se pyytää välttämään turhaa liikkumista alueella. Helsingin Mellunkylässä räjähti voimakkaasti varhain maanantaina. Untamalantien ja Tuhkanummentien risteyksen läheisyydessä räjähti pakettiauto. Tapaus sattui noin kello 0.20.",
-          "date": "2025-10-19T21:41:20.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/fa24e5d8-6d5b-4c30-8ec7-5cde1261d46d"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Minna Suomisen oikeudenkäynti siirtyi helmikuulle",
-      "mainCategories": [
-        "Henkirikokset",
-        "Turku",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/oikeudenkäyn/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Perheenäiti katosi mystisesti 13 vuotta sitten – oikeudenkäynti peruttiin yllättäen",
-          "content": "Minna Suomisen ruumista ei koskaan löydetty. Oikeudenkäynti jouduttiin perumaan maanantaina ennen kuin se ehti alkaakaan.",
-          "date": "2025-10-20T06:45:00.000Z",
-          "categories": [
-            "turun seutu"
-          ],
-          "link": "https://www.is.fi/turun-seutu/art-2000011566166.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kadonneen perheenäidin Minna Suomisen surmaoikeudenkäynti odotti yli kymmenen vuotta, jouduttiin perumaan tänä aamuna",
-          "content": "",
-          "date": "2025-10-20T06:05:00.000Z",
-          "categories": [
-            "henkirikokset",
-            "syytteet",
-            "turku",
-            "varsinais-suomen käräjäoikeus",
-            "rikos ja oikeus",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6797466"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Minna Suomisen katoamiseen liittyvät kysymykset jäivät vieläkin vaille vastausta – oikeuskäsittely siirtyi yllättäen helmikuulle",
-          "content": "13 vuotta sitten kadonneen Minna Suomisen kuolemaa piti käsitellä maanantaina Varsinais-Suomen käräjäoikeudessa. Käsittelyä siirrettiin yllättäen helmikuulle. ",
-          "date": "2025-10-20T05:30:32.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "henkirikokset",
-            "poliisitutkinta",
-            "epäillyt",
-            "varsinais-suomi",
-            "turku",
-            "kuolema",
-            "poliisi",
-            "oikeudenkäynnit",
-            "mynämäki",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20188582?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Perheenäidin taposta syytetty nainen, 35, saapui käräjille – Turhaan",
-          "content": "Poliisin mukaan Minna Suominen surmattiin raa’asti ja impulsiivisesti yli kymmenen vuotta sitten. Kahden lapsen äiti Minna Suominen katosi vuonna 2012. 35-vuotiasta naista syytetään hänen tapostaan. Istunnon oli määrä alkaa tänään maanantaina, mutta heti istunnon aluksi tapahtui jotain yllättävää. Oikeuden puheenjohtaja oli estynyt eikä istuntoa voitu järjestää. Tieto tuli sekä syyttäjälle että syytetyn avustajalle yllätyksenä.",
-          "date": "2025-10-20T05:07:33.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/204fd41c-4af1-45e8-8afd-ad3b6d0891b3"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Putinin vierailu EU-alueelle kyseenalaista",
-      "mainCategories": [
-        "Politiikka",
-        "Venäjä",
-        "Ukraina"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ulkoministeri Valtonen: Putinin kaltaisen sotarikollisen ei pitäisi olla tervetullut EU-alueelle",
-          "content": "",
-          "date": "2025-10-20T06:42:31.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "elina valtonen",
-            "vladimir putin",
-            "donald trump",
-            "euroopan unioni",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20189239?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Washington Post: Putin vaatii rauhanehtona Donetskin täyttä hallintaa",
-          "content": "",
-          "date": "2025-10-19T03:59:19.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "vladimir putin",
-            "venäjä",
-            "ukraina",
-            "donetskin alue",
-            "venäjän hyökkäys",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189140?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Rahtikone suistui mereen Hongkongissa",
-      "mainCategories": [
-        "Onnettomuudet",
-        "Hongkong",
-        "Lentoliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Hongkong | Rahtikone törmäsi lentokentällä olleeseen ajoneuvoon ja suistui mereen",
-          "content": "Onnettomuudessa kuoli kaksi ihmistä.",
-          "date": "2025-10-20T05:45:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011570301.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Rahtilentokone ajautunut ulos kiitotieltä Hongkongissa, kaksi ihmistä kuollut",
-          "content": "",
-          "date": "2025-10-19T23:14:56.000Z",
-          "categories": [
-            "onnettomuudet",
-            "hongkong",
-            "lentoliikenne",
-            "lentokentät",
-            "kiina",
-            "lentorahtiliikenne",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189212?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Konkurssihakemukset kasvussa syyskuussa 2025",
-      "mainCategories": [
-        "Talous",
-        "Konkurssi",
-        "Yritykset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Syyskuussa pantiin vireille lähes 290 konkurssia",
-          "content": "Konkurssihakemusten määrä on kasvanut erityisesti maa-, metsä- ja kalataloudessa.",
-          "date": "2025-10-20T05:37:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011570320.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lähes 290 yritystä haettiin konkurssiin syyskuussa",
-          "content": "",
-          "date": "2025-10-20T05:28:39.000Z",
-          "categories": [
-            "talous",
-            "konkurssi",
-            "yritykset"
-          ],
-          "link": "https://yle.fi/a/74-20189228?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Liukkaat ajokelit varoittavat autoilijoita",
-      "mainCategories": [
-        "Sää",
-        "Kotimaa",
-        "Liikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Autoilijan on syytä varoa: tiet voivat olla tänään petollisen liukkaita",
-          "content": "Ilmatieteen laitos varoittaa maanantaina huonosta ajokelistä liukkauden takia etelässä sekä Lapissa. Alkuviikosta sää lämpenee etenkin Lapissa.",
-          "date": "2025-10-20T05:31:52.000Z",
-          "categories": [
-            "sää",
-            "ilmatieteen laitos",
-            "liikennesää",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20189229?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Tiet voivat olla aamulla liukkaita, sää alkaa alku­viikosta lämmetä",
-          "content": "Eteläisessä Suomessa huonon ajokelin varoitus on voimassa aamuyhdeksään saakka.",
-          "date": "2025-10-20T04:12:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011570216.html"
+          "link": "https://www.kaleva.fi/israel-keskeyttaa-avustuskuljetusten-paasyn-gazaan/12338684?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Tiet jäätyvät taas – varoituksia aamuksi",
-          "content": "Ilmatieteen laitos varoittaa huonosta ajokelistä pohjoisemmassa Lapissa ja maan eteläosassa.",
-          "date": "2025-10-19T16:05:00.000Z",
+          "title": "Israel keskeyttää avustus­kuljetusten pääsyn Gazaan",
+          "content": "Viranomaisen mukaan keskeyttämispäätös on seurausta äärijärjestö Hamasin aselepo­rikkomuksista.",
+          "date": "2025-10-19T17:00:00.000Z",
           "categories": [
-            "kotimaa"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011569915.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Maanantaiaamu alkaa liukkaana, loppuviikko parempi ajokelien puolesta",
-          "content": "",
-          "date": "2025-10-19T15:21:26.000Z",
-          "categories": [
-            "liikenne",
-            "sääennusteet",
-            "ilmatieteen laitos",
-            "tiet",
-            "turvallisuus",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6798671"
+          "link": "https://www.is.fi/ulkomaat/art-2000011570004.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Ilmatieteen laitos varoittaa etelän autoilijoita kuurasta",
-          "content": "Etelässä kuura tekee teistä liukkaat, Lapissa puolestaan märät tien pinnat jäätyvät. ",
-          "date": "2025-10-19T13:38:05.000Z",
-          "categories": [
-            "sää",
-            "tieliikenne",
-            "kuura",
-            "keli",
-            "ilmatieteen laitos",
-            "kotimaa",
-            "liikenne"
-          ],
-          "link": "https://yle.fi/a/74-20189188?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kuuraiset tiet muuttavat ajokelin huonoksi aamuyöstä Varsinais-Suomessa",
-          "content": "",
-          "date": "2025-10-18T16:41:51.000Z",
-          "categories": [
-            "sääennusteet",
-            "ilmatieteen laitos",
-            "varoitukset",
-            "sää",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6798196"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Boliviassa presidentiksi nousee Rodrigo Paz",
-      "mainCategories": [
-        "Ulkomaat",
-        "Vaalit",
-        "Bolivia"
-      ],
-      "imageUrl": "/images/vaalit/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Bolivian presidentiksi nousemassa keskusta­oikeistolainen Rodrigo Paz",
-          "content": "Entisen presidentin pojan valinta presidentiksi päättää parikymmentä vuotta kestäneen sosialistivallan Boliviassa.",
-          "date": "2025-10-20T04:46:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011570243.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Bolivia | Bolivian presidentiksi nousemassa keskusta­oikeistolainen Rodrigo Paz",
-          "content": "Entisen presidentin pojan valinta presidentiksi päättää parikymmentä vuotta kestäneen sosialistivallan Boliviassa.",
-          "date": "2025-10-20T04:18:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011570222.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Rodrigo Paz voitti Bolivian presidentinvaalien toisen kierroksen",
-          "content": "Entisen presidentin pojan valinta presidentiksi päättää parikymmentä vuotta kestäneen sosialistivallan Boliviassa.",
-          "date": "2025-10-20T00:13:09.000Z",
-          "categories": [
-            "vaalit",
-            "etelä-amerikka",
-            "bolivia",
-            "presidentinvaalit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189214?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sosialistivalta päättymässä Boliviassa",
-          "content": "Presidentinvaalien toisella kierroksella kohtaavat senaattori Rodrigo Paz ja entinen presidentti Jorge ”Tuto” Quiroga. Molemmat ovat oikeistolaisia.",
-          "date": "2025-10-19T03:01:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011569225.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Bolivia | Sosialistivalta päättymässä, presidentin­vaalien toisella kierroksella vastakkain kaksi oikeistolaista ehdokasta",
-          "content": "Toinen ehdokas on senaattori Rodrigo Paz, toinen on entinen presidentti Jorge ”Tuto” Quiroga.",
-          "date": "2025-10-19T02:59:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011569219.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sosialistivalta on päättymässä Boliviassa – presidentinvaalien kakkoskierroksella vastakkain kaksi oikeiston ehdokasta",
-          "content": "",
-          "date": "2025-10-19T02:36:16.000Z",
-          "categories": [
-            "vaalit",
-            "etelä-amerikka",
-            "bolivia",
-            "oikeistopuolueet",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189138?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Gazan aselevon tilanne heikkenee edelleen",
-      "mainCategories": [
-        "Israel",
-        "Ulkomaat",
-        "Palestiinalaisalueet"
-      ],
-      "imageUrl": "/images/gaza/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Pidän hyvin mahdollisena, että koko homma leviää käsiin”, sanoo asiantuntija Gazan aselevosta",
-          "content": "Israelin ja Hamasin välinen aselepo rakoili pahasti sunnuntaina. Lähi-idän asiantuntija Olli Ruohomäki uskoo, että aselepoa rikotaan jatkossakin.",
-          "date": "2025-10-20T04:37:38.000Z",
-          "categories": [
-            "gazan sota",
-            "israel",
-            "gazan kaista",
-            "palestiinalaisalueet",
-            "aseelliset konfliktit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189221?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Israelin armeija sanoo jälleen jatkavansa aselepoa",
-          "content": "Israelilaissotilaita tulitettiin sunnuntaina Gazassa, mihin Israel vastasi ilma- ja kranaatti-iskuilla.",
-          "date": "2025-10-19T18:42:29.000Z",
+          "title": "Israel estää avustuskuljetukset Gazaan – jatkuvat ehkä huomenna",
+          "content": "Kaksi Israelin sotilasta on saanut surmansa, samoin ainakin 33 Gazan asukasta. ",
+          "date": "2025-10-19T16:02:20.000Z",
           "categories": [
             "lähi-itä",
             "gazan kaista",
             "ulkomaat",
             "israel",
-            "israelin puolustusvoimat",
             "aseelliset konfliktit",
+            "benjamin netanjahu",
             "aselepo",
-            "gazan sota"
+            "avustustoiminta"
           ],
-          "link": "https://yle.fi/a/74-20189206?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Gazan sota | Tilanne on erittäin huono sekä Israelille että Hamasille, sanovat asiantuntijat uusista iskuista",
-          "content": "Gazan hauras tulitauko on asiantuntijoiden mukaan nyt erittäin epävarmassa tilanteessa. Israel on tehnyt lisää ilmaiskuja kaistaleella sunnuntaina.",
-          "date": "2025-10-19T18:22:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011569817.html"
+          "link": "https://yle.fi/a/74-20189198?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Kadonneet miehet löytyivät eri paikoista",
+      "mainTitle": "Louvresta varastettiin arvokkaita kuninkaallisia koruja",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Töölössä kadonnut mies löytyi",
-          "content": "Mies oli nähty viimeksi Töölössä torstaina aamuyöllä.",
-          "date": "2025-10-20T04:37:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011567208.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kadonneet | Mies kateissa merellä Närpiössä, etsinnät lopetettiin tuloksettomina",
-          "content": "Merivartiosto etsi ”vanhempaa miestä” Närpiön ja Korsnäsin rajalla myöhään lauantai-iltana.",
-          "date": "2025-10-18T21:51:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011569192.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Mies kateissa merellä Närpiössä – etsinnät lopetettiin tuloksettomina",
-          "content": "Paikalla oli useita viranomaisyksiköitä ja meripelastus­helikopteri.",
-          "date": "2025-10-18T21:49:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011569187.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Huthit vangitsivat 20 YK:n työntekijää Jemenissä",
-      "mainCategories": [
-        "Konfliktit",
-        "Jemen",
-        "Yk"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Jemen | Huthit ottivat vangiksi 20 YK:n työntekijää",
-          "content": "Huthit hyökkäsivät YK:n tiloihin Jemenin pääkaupungissa Sanaassa.",
-          "date": "2025-10-20T04:28:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011570231.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Huthien kaappaamien YK:n työntekijöiden joukossa Unicefin Jemenin-edustaja",
-          "content": "Huthit hyökkäsivät lauantaina YK:n tiloihin Jemenin pääkaupungissa Sanaassa.",
-          "date": "2025-10-20T01:06:19.000Z",
-          "categories": [
-            "konfliktit",
-            "jemen",
-            "lähi-itä",
-            "unicef",
-            "yk",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189211?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jemenin huthikapinalliset ottivat kiinni YK:n työntekijöitä",
-          "content": "Huthit tekivät samankaltaisen operaation kahteen YK:n järjestöön viimeksi elokuussa. ",
-          "date": "2025-10-19T12:37:56.000Z",
-          "categories": [
-            "konfliktit",
-            "jemen",
-            "huthit",
-            "yk",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20189181?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Väittely Daavidin lingosta jatkuu Suomessa",
-      "mainCategories": [
-        "Politiikka",
-        "Maanpuolustus",
-        "Asekauppa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ministeriltä ja tutkijalta kovaa väittelyä Suomen ostamasta Daavidin lingosta – ”Kremlin pussiin pelataan”",
-          "content": "Maa- ja metsätalousministeri Sari Essayah ja Ulkopoliittisen instituutin tutkija Timo R. Stewart väittelevät X:ssä niin kutsutusta Daavidin lingosta, jonka Suomi lupautui ostamaan israelilaiskonserni Rafaelilta vuonna 2023.",
-          "date": "2025-10-19T20:07:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011570104.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ase­hankinnat | Timo R. Stewart kutsuu Daavidin linkoa virheeksi, näin vastaa puolustus­valio­kunnan Autto",
-          "content": "Puolustusvaliokunnan puheenjohtajasta Daavidin linko on toiminut ”vaikuttavasti”. Hän muistuttaa, että Israelissakin voi valta vaihtua.",
-          "date": "2025-10-19T08:43:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011569385.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Timo R. Stewartin kolumni: Suomi osti ”Daavidin lingon” ja työnsi päänsä luukkuun, josta on vaikea päästä irti",
-          "content": "Jos voisi harkita uudelleen, Suomi tuskin enää hankkisi elintärkeää asejärjestelmää Israelista. Nyt on aika pohtia, miten virheen kanssa eletään, Stewart kirjoittaa.",
-          "date": "2025-10-19T03:45:36.000Z",
-          "categories": [
-            "maanpuolustus",
-            "asekauppa",
-            "painostus",
-            "israel",
-            "palestiina (valtio)",
-            "suomi",
-            "gazan sota",
-            "aseelliset konfliktit",
-            "lähi-itä",
-            "gazan kaista",
-            "aseet",
-            "venäjän hyökkäys",
-            "palestiinalaisalueet",
-            "politiikka",
-            "timo r. stewart",
-            "venäjä",
-            "turvallisuuspolitiikka",
-            "kolumnit",
-            "kolumnit (yle radio 1)",
-            "kansanmurha"
-          ],
-          "link": "https://yle.fi/a/74-20188508?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Louvresta varastettiin arvokkaita koruja",
-      "mainCategories": [
+        "Maailma",
         "Ranska",
-        "Museot",
-        "Ulkomaat"
+        "Museot"
       ],
-      "imageUrl": "/images/ranska/3.jpg",
+      "imageUrl": "/images/ranska/1.jpg",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kuvat näyttävät | HS esittelee Louvresta varastetut kuninkaallisten korut",
+          "content": "Pariisin Louvre-museossa tapahtui sunnuntaina poikkeuksellinen rikos.",
+          "date": "2025-10-20T09:36:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011570525.html"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -1120,282 +1137,85 @@
       ]
     },
     {
-      "mainTitle": "Putin rakennutti ilmatorjuntajärjestelmän kesäasunnolleen",
+      "mainTitle": "Suomi harkitsee lisää asekauppoja Israelilta",
       "mainCategories": [
-        "Venäjä",
-        "Ulkomaat",
-        "Ilmatorjuntajärjestelmät"
+        "Politiikka",
+        "Maanpuolustus",
+        "Asekauppa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Mika Aaltola: Lisää aseita Israelilta",
+          "content": "Europarlamentaarikko Mika Aaltolan mukaan Suomen tulisi ostaa myös Arrow 3 -ohjuspuolustusjärjestelmä Daavidin lingon kylkeen. Suomessa on viime kuukausina esitetty kritiikkiä maan asekaupoista sodassa olevan Israelin kanssa. Europarlamentaarikko Mika Aaltola (kok) ei halua suitsia kauppoja, vaan tehdä niitä lisää. – Suomen tulee harkita Saksan esimerkkiä ja hankkia Israelista Arrow 3 -järjestelmä, johon Daavidin linko sopii, Aaltola kirjoittaa viestipalvelu X:ssä.",
+          "date": "2025-10-20T09:11:33.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/bb593fd7-4dc9-42e2-9900-33c474d3f850"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ministeriltä ja tutkijalta kovaa väittelyä Suomen ostamasta Daavidin lingosta – ”Kremlin pussiin pelataan”",
+          "content": "Maa- ja metsätalousministeri Sari Essayah ja Ulkopoliittisen instituutin tutkija Timo R. Stewart väittelevät X:ssä niin kutsutusta Daavidin lingosta, jonka Suomi lupautui ostamaan israelilaiskonserni Rafaelilta vuonna 2023.",
+          "date": "2025-10-19T20:07:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011570104.html"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Venäjä | Mediat: Putin rakennutti kartanonsa ympärille järeän ilmatorjunta­järjestelmän",
-          "content": "Uusi ilmatorjunta­järjestelmä rakennettiin sen jälkeen, kun Ukrainan iskut alkoivat yltää Valdain ylängölle asti.",
-          "date": "2025-10-19T17:57:00.000Z",
+          "title": "Ase­hankinnat | Timo R. Stewart kutsuu Daavidin linkoa virheeksi, näin vastaa puolustus­valio­kunnan Autto",
+          "content": "Puolustusvaliokunnan puheenjohtajasta Daavidin linko on toiminut ”vaikuttavasti”. Hän muistuttaa, että Israelissakin voi valta vaihtua.",
+          "date": "2025-10-19T08:43:00.000Z",
           "categories": [
-            "maailma"
+            "politiikka"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011569897.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011569385.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "SVT:n kuvat paljastavat: Putinin kesäasunnon ympärille rakennettu valtava ilmatorjuntajärjestelmä",
-          "content": "Putinin ilmasuoja on rakennettu sen jälkeen, kun Ukraina teki samalle seudulle drooni-iskun kaksi vuotta sitten. ",
-          "date": "2025-10-19T12:22:48.000Z",
+          "title": "Timo R. Stewartin kolumni: Suomi osti ”Daavidin lingon” ja työnsi päänsä luukkuun, josta on vaikea päästä irti",
+          "content": "Jos voisi harkita uudelleen, Suomi tuskin enää hankkisi elintärkeää asejärjestelmää Israelista. Nyt on aika pohtia, miten virheen kanssa eletään, Stewart kirjoittaa.",
+          "date": "2025-10-19T03:45:36.000Z",
           "categories": [
-            "venäjä",
-            "vladimir putin",
-            "ulkomaat",
-            "ilmatorjuntajärjestelmät",
-            "ilmatorjuntaohjukset",
-            "radio free europe",
-            "vapaa-ajan asunnot"
-          ],
-          "link": "https://yle.fi/a/74-20189177?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Israel keskeyttää avustuskuljetukset Gazaan",
-      "mainCategories": [
-        "Ulkomaat",
-        "Israel",
-        "Aselepo"
-      ],
-      "imageUrl": "/images/gaza/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Israel keskeyttää avustuskuljetusten pääsyn Gazaan toistaiseksi",
-          "content": "Israel keskeyttää avustuskuljetusten pääsyn Gazaan toistaiseksi, kertoo Israelin turvallisuusviranomainen.",
-          "date": "2025-10-19T17:21:23.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/israel-keskeyttaa-avustuskuljetusten-paasyn-gazaan/12338684?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Israel keskeyttää avustus­kuljetusten pääsyn Gazaan",
-          "content": "Viranomaisen mukaan keskeyttämispäätös on seurausta äärijärjestö Hamasin aselepo­rikkomuksista.",
-          "date": "2025-10-19T17:00:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011570004.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Israel estää avustuskuljetukset Gazaan – jatkuvat ehkä huomenna",
-          "content": "Kaksi Israelin sotilasta on saanut surmansa, samoin ainakin 33 Gazan asukasta. ",
-          "date": "2025-10-19T16:02:20.000Z",
-          "categories": [
-            "lähi-itä",
-            "gazan kaista",
-            "ulkomaat",
+            "maanpuolustus",
+            "asekauppa",
+            "painostus",
             "israel",
-            "aseelliset konfliktit",
-            "benjamin netanjahu",
-            "aselepo",
-            "avustustoiminta"
-          ],
-          "link": "https://yle.fi/a/74-20189198?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Gazan siviilipuolustusvirasto: Israelin iskuissa Gazaan on kuollut yli kymmenen ihmistä sunnuntaina",
-          "content": "",
-          "date": "2025-10-19T14:55:27.000Z",
-          "categories": [
-            "lähi-itä",
-            "israel",
-            "ulkomaat",
-            "gazan kaista",
-            "hamas",
-            "aseelliset konfliktit"
-          ],
-          "link": "https://yle.fi/a/74-20189194?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Israel iski Gazaan – Hamas syyllinen hyökkäyksiin",
-      "mainCategories": [
-        "Israel",
-        "Ulkomaat",
-        "Hamas"
-      ],
-      "imageUrl": "/images/gaza/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Israel iski Gazaan – syyttää Hamasia hyökkäyksistä",
-          "content": "Osapuolet syyttävät toisiaan lukuisista rikkomuksista.",
-          "date": "2025-10-19T16:18:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011569467.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Media: Israel tehnyt ilmaiskuja Gazan Rafahiin, syyttää Hamasia hyökkäyksestä sen joukkoja vastaan",
-          "content": "Israel on tehnyt ilmaiskuja Rafahin alueella eteläisellä Gazan kaistalla, kertovat israelilaismediat Jerusalem Post ja Haaretz.",
-          "date": "2025-10-19T09:56:06.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/media-israel-tehnyt-ilmaiskuja-gazan-rafahiin-syyt/12338391?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Israel teki uusia iskuja Gazaan – Hamas ja Israel syyttivät toisiaan aselevon rikkomisesta",
-          "content": "",
-          "date": "2025-10-19T09:07:46.000Z",
-          "categories": [
-            "israel",
-            "palestiina",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6798466"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Israel teki ilmaiskuja Gazaan",
-          "content": "Israel teki ilmaiskuja Rafahin alueella. Se syyttää Hamasia aselevon rikkomisesta.",
-          "date": "2025-10-19T08:33:26.000Z",
-          "categories": [
+            "palestiina (valtio)",
+            "suomi",
             "gazan sota",
-            "israel",
-            "ulkomaat",
+            "aseelliset konfliktit",
+            "lähi-itä",
             "gazan kaista",
-            "hamas",
-            "yle uutiset somenostot"
+            "aseet",
+            "venäjän hyökkäys",
+            "palestiinalaisalueet",
+            "politiikka",
+            "timo r. stewart",
+            "venäjä",
+            "turvallisuuspolitiikka",
+            "kolumnit",
+            "kolumnit (yle radio 1)",
+            "kansanmurha"
           ],
-          "link": "https://yle.fi/a/74-20189159?origin=rss"
+          "link": "https://yle.fi/a/74-20188508?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Pakkasta ja liukkaita teitä ennustettu",
-      "mainCategories": [
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Etelässäkin on yöllä pakkasta: tiet voivat olla liukkaita aamulla",
-          "content": "Maanantain vastaisena yönä on jälleen monin paikoin pakkasta.",
-          "date": "2025-10-19T15:27:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011569883.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Ajokeli taas huono isossa osassa maata, mutta lauantain jäätävä sumu puuttuu",
-          "content": "Etelässä on poutaista, pohjoisessa lumisateet ovat mahdollisia.",
-          "date": "2025-10-19T04:31:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011569216.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Liukkaus ja sumu aiheuttivat valtavan kolarisuman: Ensi yö ei näytä yhtä pahalta",
-          "content": "Meteorologi kehottaa pitämään silmällä, onko auton pinnalla kuuraa. Silloin sitä voi hyvinkin olla myös tien pinnassa.",
-          "date": "2025-10-18T15:36:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011568758.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Syksyn pakkasennätys rikkoontui, liukkaan ajokelin varoitus lähes koko maassa",
-          "content": "Vaalassa ja Taivalkoskella mitattiin varhain aamulla 8,6 astetta pakkasta.",
-          "date": "2025-10-18T08:51:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011568257.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Loukkaantunut karhu Alajärvellä, varoita!",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Karhu"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi varoittaa loukkaantuneesta karhusta Alajärvellä",
-          "content": "Poliisi pyytää välttämään liikkumista tietyillä alueilla.",
-          "date": "2025-10-19T13:32:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011569762.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Loukkaantunut karhu liikkuu Alajärvellä – ihmisiä pyydetään välttämään maastossa liikkumista",
-          "content": "Poliisi sai ilmoituksen loukkaantuneesta karhusta lauantai-iltana. Etsinnöistä huolimatta karhua ei ole löydetty.",
-          "date": "2025-10-19T12:43:04.000Z",
-          "categories": [
-            "poliisi",
-            "karhu",
-            "eläimet",
-            "petoeläimet",
-            "etelä-pohjanmaa",
-            "alajärvi",
-            "suurriistavirka-apu (srva)",
-            "pelastuspalvelu",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20189182?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Finnair siirtää ja peruu lentoja edelleen",
+      "mainTitle": "Finnairin lentoperuutukset jatkuvat istuinongelmien vuoksi",
       "mainCategories": [
         "Kotimaa",
         "Finnair",
@@ -1403,6 +1223,18 @@
       ],
       "imageUrl": "/images/finnair/1.jpg",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnairin penkkipiina jatkuu: Ongelma on saatu korjattu nyt yhdestä lentokoneesta",
+          "content": "Istuinpäälliset pestiin väärin kaikkiaan kahdeksasta koneesta. Viestinnästä ei osattu vielä antaa arviota siitä, koska lentojen peruutukset loppuvat.",
+          "date": "2025-10-20T08:57:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011570414.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -1527,6 +1359,917 @@
       ]
     },
     {
+      "mainTitle": "Minna Suomisen surmaoikeudenkäynti peruttiin yllättäen",
+      "mainCategories": [
+        "Henkirikokset",
+        "Turku",
+        "Rikosepäilyt"
+      ],
+      "imageUrl": "/images/oikeudenkäyn/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Perheenäiti katosi mystisesti 13 vuotta sitten – oikeudenkäynti peruttiin yllättäen",
+          "content": "Minna Suomisen ruumista ei koskaan löydetty. Oikeudenkäynti jouduttiin perumaan maanantaina ennen kuin se ehti alkaakaan.",
+          "date": "2025-10-20T08:42:00.000Z",
+          "categories": [
+            "turun seutu"
+          ],
+          "link": "https://www.is.fi/turun-seutu/art-2000011566166.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Kadonneen perheenäidin Minna Suomisen surmaoikeudenkäynti odotti yli kymmenen vuotta, mutta jouduttiin perumaan tänä aamuna",
+          "content": "",
+          "date": "2025-10-20T06:05:00.000Z",
+          "categories": [
+            "henkirikokset",
+            "syytteet",
+            "turku",
+            "varsinais-suomen käräjäoikeus",
+            "rikos ja oikeus",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6797466"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Minna Suomisen taposta syytetty nainen peitti kasvonsa – oikeuskäsittely siirtyi yllättäen helmikuulle",
+          "content": "13 vuotta sitten Turussa kadonneen Minna Suomisen kuolemaa piti käsitellä maanantaina Varsinais-Suomen käräjäoikeudessa. Käsittelyä siirrettiin yllättäen helmikuulle.",
+          "date": "2025-10-20T05:30:32.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "henkirikokset",
+            "poliisitutkinta",
+            "epäillyt",
+            "varsinais-suomi",
+            "turku",
+            "kuolema",
+            "poliisi",
+            "oikeudenkäynnit",
+            "mynämäki",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20188582?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kuntaliitto varoittaa hankintalain kustannuksista",
+      "mainCategories": [
+        "Politiikka",
+        "Lait",
+        "Talous"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuntaliitto: Hankintalain uudistamisesta satojen miljoonien kustannukset kunnille",
+          "content": "",
+          "date": "2025-10-20T08:32:58.000Z",
+          "categories": [
+            "lait",
+            "laki julkisista hankinnoista",
+            "talous",
+            "julkiset hankinnat",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20189281?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Hurja arvio pöytään – Kustannus 940 euroa per asukas",
+          "content": "Kuntaliitto teetätti konsulttiyrityksellään selvityksen hankintalain uudistamisesta. Sen mukaan kuntia uhkaavat isot lisäkustannukset. Kuntaliitto vastustaa voimakkaasti hallituksen ajamaa hankintalain uudistusta. Kuntaliiton omistama konsulttiyritys FCG on tehnyt Kuntaliitolle selvityksen, jossa kunnat arvioita mahdollisen lakiuudistuksen muutoskustannusvaikutuksia.",
+          "date": "2025-10-20T07:40:08.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/c3a10aad-3737-48c8-8f24-2b5d38b47003"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Epäilyttävä rakennelma löytyi Trumpin läheltä",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "FBI"
+      ],
+      "imageUrl": "/images/trump/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvaltain salainen palvelu löysi epäilyttävän kopin, josta on suora näköyhteys lentokoneesta poistuvaan Donald Trumpiin",
+          "content": "Hirvitornia muistuttava koppi löytyi läheltä Floridan Palm Beachin kansainvälistä lentokenttää. Trump kulkee sen kautta usein kartanoonsa Mar-a-Lagoon.",
+          "date": "2025-10-20T08:31:28.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "fbi",
+            "mar-a-lago",
+            "florida",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189280?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Yhdysvalloissa tehtiin pahaenteinen löytö – Suora yhteys Trumpin koneeseen",
+          "content": "Viranomaiset tutkivat epäilyttävää ”jahtitornia” Floridassa. Yhdysvalloissa tutkitaan epäilyttävää rakennelmaa, joka löytyi läheltä Air Force One -lentokoneen laskeutumispaikkaa Palm Beachin lentoasemalla Floridassa. Koneella lentää Yhdysvaltain presidentti Donald Trump. Amerikkalaismediassa rakennelmaa luonnehditaan esimerkiksi ”jahtitorniksi” sekä ”tarkka-ampujan torniksi”.",
+          "date": "2025-10-20T08:00:15.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/c00d9f73-262d-49df-b1f6-87ebf7ac3aa9"
+        }
+      ]
+    },
+    {
+      "mainTitle": "R-kioskeista suljetaan jopa 70 toimipistettä",
+      "mainCategories": [
+        "Talous"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "KL: Jopa 70 R-kioskia saatetaan sulkea lähi­tulevaisuudessa ",
+          "content": "R-kioski Oy:n uusi toimitusjohtaja vahvisti Kauppalehdelle tiedot kioskien karsimisesta. Jopa joka viides R-kioski saatetaan sulkea lähitulevaisuudessa, uutisoi Kauppalehti. Kauppalehden tietojen mukaan ketjun kioskiverkostosta saatetaan karsia jopa 70 toimipistettä vaikean markkinatilanteen vuoksi. Tällä hetkellä kioskeja on 338.",
+          "date": "2025-10-20T08:10:12.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.iltalehti.fi/talous/a/8f6e7c23-d286-4b30-8fcc-13f7331612e2"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppa | R-kioski laittaa ovia säppiin – joka viidettä kioskia uhkaa sulkeminen",
+          "content": "Liipasimella ovat nyt R-kioskit, jotka häviävät rahaa, sanoo toimitusjohtaja.",
+          "date": "2025-10-19T17:35:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011564753.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Louvren ryöstö paljastaa turvallisuuspuutteet",
+      "mainCategories": [
+        "Ulkomaat",
+        "Ranska",
+        "Louvre"
+      ],
+      "imageUrl": "/images/ranska/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ranskan oikeusministeri myöntää: Louvren turva­toimet olivat puutteelliset",
+          "content": "Pariisissa sijaitsevaan taidemuseoon murtauduttiin sunnuntaiaamuna.",
+          "date": "2025-10-20T07:54:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011570752.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Louvren ryöstö mainehaitta Ranskalle, sanoo maan oikeusministeri – museo pysyy maanantaina kiinni",
+          "content": "Oikeusministeri myöntää, että ryöstö oli epäonnistuminen Ranskan viranomaisilta.",
+          "date": "2025-10-20T07:06:20.000Z",
+          "categories": [
+            "ranska",
+            "louvre",
+            "ryöstö",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189241?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Videoanalyysi: Koko maailma ihmettelee, miten helposti Louvren ryöstö onnistui",
+          "content": "Louvren museon murto ja varkaus osoittavat, miten Ranska on laiminlyönyt museoidensa turvallisuutta, kirjoittaa Ylen Ranskan-toimittaja Miina Väisänen.",
+          "date": "2025-10-19T18:00:01.000Z",
+          "categories": [
+            "uutiset",
+            "ulkomaat",
+            "kulttuuri"
+          ],
+          "link": "https://yle.fi/a/74-20189197?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Louvresta vietiin Napoleonin koruja – tarkasti suunniteltu ryöstö kesti vain seitsemän minuuttia",
+          "content": "Kuuluisa Louvre-museo ryöstettiin Pariisissa sunnuntaina. Museo on ryöstön vuoksi suljettu.",
+          "date": "2025-10-19T09:24:20.000Z",
+          "categories": [
+            "museot",
+            "ranska",
+            "ulkomaat",
+            "louvre",
+            "kulttuuri"
+          ],
+          "link": "https://yle.fi/a/74-20189166?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Rahtikone onnettomuus Hongkongissa, kaksi kuollut",
+      "mainCategories": [
+        "Ulkomaat",
+        "Onnettomuudet",
+        "Hongkong"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Rahtilentokone ajautui mereen – kaksi kuoli",
+          "content": "Koneen kapteeni ei ilmoittanut ongelmista ennen laskeutumista.",
+          "date": "2025-10-20T07:50:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011570626.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Hongkong | Rahtikone törmäsi lentokentällä olleeseen ajoneuvoon ja suistui mereen",
+          "content": "Onnettomuudessa kuoli kaksi ihmistä.",
+          "date": "2025-10-20T05:45:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011570301.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Rahtilentokone ajautunut ulos kiitotieltä Hongkongissa, kaksi ihmistä kuollut",
+          "content": "",
+          "date": "2025-10-19T23:14:56.000Z",
+          "categories": [
+            "onnettomuudet",
+            "hongkong",
+            "lentoliikenne",
+            "lentokentät",
+            "kiina",
+            "lentorahtiliikenne",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189212?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Matkustajakone suistui hätälaskussa Pietarissa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Venäjä",
+        "Lentoliikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Matkustajakone teki hätä­laskun Pietarissa",
+          "content": "Kyseessä oli Azerbaidzhanin Bakusta lähtenyt Airbusin A320-kone.",
+          "date": "2025-10-20T07:44:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011570515.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjä | Matkustaja­kone suistui kiito­tieltä tehtyään hätä­laskun Pietarissa",
+          "content": "Koneessa oli runsaat 160 matkustajaa, mutta kukaan heistä tai koneen henkilökunnasta ei loukkaantunut.",
+          "date": "2025-10-20T07:09:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011570455.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pietarissa matkustajakone suistui kiitotieltä tehtyään hätälaskun",
+          "content": "",
+          "date": "2025-10-20T06:33:37.000Z",
+          "categories": [
+            "venäjä",
+            "lentoliikenne",
+            "onnettomuudet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189236?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Valtonen: Putin ei tervetullut EU:hun",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Valtonen: Putinin kaltaisen sotarikollisen ei tulisi olla tervetullut EU-alueelle",
+          "content": "Ulkoministeri Elina Valtosen mukaan Ukraina ei tarvitse lännen tukea minkäänlaisessa antautumisessa.",
+          "date": "2025-10-20T07:32:12.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/valtonen-putinin-kaltaisen-sotarikollisen-ei-tulis/12338828?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ulkoministeri Valtonen: Putinin kaltaisen sotarikollisen ei pitäisi olla tervetullut EU-alueelle",
+          "content": "",
+          "date": "2025-10-20T06:42:31.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "elina valtonen",
+            "vladimir putin",
+            "donald trump",
+            "euroopan unioni",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20189239?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin ja Putinin tapaaminen herättää huolta",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Peskov kommentoi Trumpin ja Putinin tapaamista",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
+          "date": "2025-10-20T06:29:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011570299.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kommentti | Trump ei vieläkään ymmärrä, miten Venäjä toimii",
+          "content": "Trumpin poukkoilu voi varmistaa, että Venäjä ottaa Ukrainassa kaiken, mitä voi, kirjoittaa HS ulkomaantoimittaja John Helin.",
+          "date": "2025-10-19T14:43:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011569309.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomi suosikkipaikka fuusioreaktorille",
+      "mainCategories": [
+        "Talous",
+        "Energia",
+        "Fuusioenergia"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Fuusioenergian kehitysyhtiö aikoo rakentaa ensimmäisen suuren testireaktorin pian – VTT: Suomi on paras vaihtoehto",
+          "content": "Teollisen mittakaavan fuusioreaktori on määrä käynnistää vuoteen 2035 mennessä. Pohjoismaihin suunniteltava laitos voisi tulla Suomeen, jossa alan sääntely on kevenemässä. ",
+          "date": "2025-10-20T06:08:23.000Z",
+          "categories": [
+            "energia",
+            "fuusioenergia",
+            "st1",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20188892?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Fuusioenergia | Fuusioreaktoria rakentava ruotsalaisyhtiö etsii isoa tonttia Helsingin seudulta",
+          "content": "Ruotsalainen Novatron etsii sijoituspaikkaa ja rahoittajia kolmannelle koereaktorille, jonka hinta nousee 700–900 miljoonaan. Helsingin seutu nousi VTT:n tekemässä arviossa suosikiksi.",
+          "date": "2025-10-20T06:00:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011564726.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump: Gazan aseleposopimus pitää Israelin iskuista huolimatta",
+      "mainCategories": [
+        "Israel",
+        "Ulkomaat",
+        "Hamas"
+      ],
+      "imageUrl": "/images/gaza/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Trumpin mukaan Gazan aseleposopimus pitää Israelin iskuista huolimatta – Israel salli taas avustukset Gazaan",
+          "content": "Israelin iskuissa Gazaan kuoli sunnuntaina gazalaisviranomaisten mukaan lähes 50 ihmistä.",
+          "date": "2025-10-20T06:07:03.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/trumpin-mukaan-gazan-aseleposopimus-pitaa-israelin/12338965?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Gazan siviilipuolustusvirasto: Israelin iskuissa Gazaan on kuollut yli kymmenen ihmistä sunnuntaina",
+          "content": "",
+          "date": "2025-10-19T14:55:27.000Z",
+          "categories": [
+            "lähi-itä",
+            "israel",
+            "ulkomaat",
+            "gazan kaista",
+            "hamas",
+            "aseelliset konfliktit"
+          ],
+          "link": "https://yle.fi/a/74-20189194?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Konkurssihakemukset kasvavat erityisesti maataloudessa",
+      "mainCategories": [
+        "Talous",
+        "Konkurssi",
+        "Yritykset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Syyskuussa pantiin vireille lähes 290 konkurssia",
+          "content": "Konkurssihakemusten määrä on kasvanut erityisesti maa-, metsä- ja kalataloudessa.",
+          "date": "2025-10-20T05:37:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011570320.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lähes 290 yritystä haettiin konkurssiin syyskuussa",
+          "content": "",
+          "date": "2025-10-20T05:28:39.000Z",
+          "categories": [
+            "talous",
+            "konkurssi",
+            "yritykset"
+          ],
+          "link": "https://yle.fi/a/74-20189228?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Liukkaat ajokelit varoittavat autoilijoita",
+      "mainCategories": [
+        "Kotimaa",
+        "Sää",
+        "Liikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Autoilijan on syytä varoa: tiet voivat olla tänään petollisen liukkaita",
+          "content": "Ilmatieteen laitos varoittaa maanantaina huonosta ajokelistä liukkauden takia etelässä sekä Lapissa. Alkuviikosta sää lämpenee etenkin Lapissa.",
+          "date": "2025-10-20T05:31:52.000Z",
+          "categories": [
+            "sää",
+            "ilmatieteen laitos",
+            "liikennesää",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20189229?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Tiet voivat olla aamulla liukkaita, sää alkaa alku­viikosta lämmetä",
+          "content": "Eteläisessä Suomessa huonon ajokelin varoitus on voimassa aamuyhdeksään saakka.",
+          "date": "2025-10-20T04:12:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011570216.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tiet jäätyvät taas – varoituksia aamuksi",
+          "content": "Ilmatieteen laitos varoittaa huonosta ajokelistä pohjoisemmassa Lapissa ja maan eteläosassa.",
+          "date": "2025-10-19T16:05:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011569915.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Maanantaiaamu alkaa liukkaana, loppuviikko parempi ajokelien puolesta",
+          "content": "",
+          "date": "2025-10-19T15:21:26.000Z",
+          "categories": [
+            "liikenne",
+            "sääennusteet",
+            "ilmatieteen laitos",
+            "tiet",
+            "turvallisuus",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6798671"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ilmatieteen laitos varoittaa etelän autoilijoita kuurasta",
+          "content": "Etelässä kuura tekee teistä liukkaat, Lapissa puolestaan märät tien pinnat jäätyvät. ",
+          "date": "2025-10-19T13:38:05.000Z",
+          "categories": [
+            "sää",
+            "tieliikenne",
+            "kuura",
+            "keli",
+            "ilmatieteen laitos",
+            "kotimaa",
+            "liikenne"
+          ],
+          "link": "https://yle.fi/a/74-20189188?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Boliviassa presidentiksi nousee Rodrigo Paz",
+      "mainCategories": [
+        "Ulkomaat",
+        "Vaalit",
+        "Bolivia"
+      ],
+      "imageUrl": "/images/vaalit/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Bolivian presidentiksi nousemassa keskusta­oikeistolainen Rodrigo Paz",
+          "content": "Entisen presidentin pojan valinta presidentiksi päättää parikymmentä vuotta kestäneen sosialistivallan Boliviassa.",
+          "date": "2025-10-20T04:46:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011570243.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Bolivia | Bolivian presidentiksi nousemassa keskusta­oikeistolainen Rodrigo Paz",
+          "content": "Entisen presidentin pojan valinta presidentiksi päättää parikymmentä vuotta kestäneen sosialistivallan Boliviassa.",
+          "date": "2025-10-20T04:18:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011570222.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Rodrigo Paz voitti Bolivian presidentinvaalien toisen kierroksen",
+          "content": "Entisen presidentin pojan valinta presidentiksi päättää parikymmentä vuotta kestäneen sosialistivallan Boliviassa.",
+          "date": "2025-10-20T00:13:09.000Z",
+          "categories": [
+            "vaalit",
+            "etelä-amerikka",
+            "bolivia",
+            "presidentinvaalit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189214?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Sosialistivalta päättymässä Boliviassa",
+          "content": "Presidentinvaalien toisella kierroksella kohtaavat senaattori Rodrigo Paz ja entinen presidentti Jorge ”Tuto” Quiroga. Molemmat ovat oikeistolaisia.",
+          "date": "2025-10-19T03:01:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011569225.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Bolivia | Sosialistivalta päättymässä, presidentin­vaalien toisella kierroksella vastakkain kaksi oikeistolaista ehdokasta",
+          "content": "Toinen ehdokas on senaattori Rodrigo Paz, toinen on entinen presidentti Jorge ”Tuto” Quiroga.",
+          "date": "2025-10-19T02:59:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011569219.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sosialistivalta on päättymässä Boliviassa – presidentinvaalien kakkoskierroksella vastakkain kaksi oikeiston ehdokasta",
+          "content": "",
+          "date": "2025-10-19T02:36:16.000Z",
+          "categories": [
+            "vaalit",
+            "etelä-amerikka",
+            "bolivia",
+            "oikeistopuolueet",
+            "politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189138?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Gazan aselevon tilanne heikkenee edelleen",
+      "mainCategories": [
+        "Israel",
+        "Ulkomaat",
+        "Palestiinalaisalueet"
+      ],
+      "imageUrl": "/images/gaza/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "”Pidän hyvin mahdollisena, että koko homma leviää käsiin”, sanoo asiantuntija Gazan aselevosta",
+          "content": "Israelin ja Hamasin välinen aselepo rakoili pahasti sunnuntaina. Lähi-idän asiantuntija Olli Ruohomäki uskoo, että aselepoa rikotaan jatkossakin.",
+          "date": "2025-10-20T04:37:38.000Z",
+          "categories": [
+            "gazan sota",
+            "israel",
+            "gazan kaista",
+            "palestiinalaisalueet",
+            "aseelliset konfliktit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189221?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Israelin armeija sanoo jälleen jatkavansa aselepoa",
+          "content": "Israelilaissotilaita tulitettiin sunnuntaina Gazassa, mihin Israel vastasi ilma- ja kranaatti-iskuilla.",
+          "date": "2025-10-19T18:42:29.000Z",
+          "categories": [
+            "lähi-itä",
+            "gazan kaista",
+            "ulkomaat",
+            "israel",
+            "israelin puolustusvoimat",
+            "aseelliset konfliktit",
+            "aselepo",
+            "gazan sota"
+          ],
+          "link": "https://yle.fi/a/74-20189206?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Gazan sota | Tilanne on erittäin huono sekä Israelille että Hamasille, sanovat asiantuntijat uusista iskuista",
+          "content": "Gazan hauras tulitauko on asiantuntijoiden mukaan nyt erittäin epävarmassa tilanteessa. Israel on tehnyt lisää ilmaiskuja kaistaleella sunnuntaina.",
+          "date": "2025-10-19T18:22:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011569817.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Huthit vangitsivat YK:n työntekijöitä Jemenissä",
+      "mainCategories": [
+        "Konfliktit",
+        "Jemen",
+        "Yk"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Jemen | Huthit ottivat vangiksi 20 YK:n työntekijää",
+          "content": "Huthit hyökkäsivät YK:n tiloihin Jemenin pääkaupungissa Sanaassa.",
+          "date": "2025-10-20T04:28:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011570231.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Huthien kaappaamien YK:n työntekijöiden joukossa Unicefin Jemenin-edustaja",
+          "content": "Huthit hyökkäsivät lauantaina YK:n tiloihin Jemenin pääkaupungissa Sanaassa.",
+          "date": "2025-10-20T01:06:19.000Z",
+          "categories": [
+            "konfliktit",
+            "jemen",
+            "lähi-itä",
+            "unicef",
+            "yk",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189211?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Jemenin huthikapinalliset ottivat kiinni YK:n työntekijöitä",
+          "content": "Huthit tekivät samankaltaisen operaation kahteen YK:n järjestöön viimeksi elokuussa. ",
+          "date": "2025-10-19T12:37:56.000Z",
+          "categories": [
+            "konfliktit",
+            "jemen",
+            "huthit",
+            "yk",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20189181?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Putin rakennutti ilmatorjuntajärjestelmän kesäasunnolleen",
+      "mainCategories": [
+        "Venäjä",
+        "Ulkomaat",
+        "Ilmatorjuntajärjestelmät"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjä | Mediat: Putin rakennutti kartanonsa ympärille järeän ilmatorjunta­järjestelmän",
+          "content": "Uusi ilmatorjunta­järjestelmä rakennettiin sen jälkeen, kun Ukrainan iskut alkoivat yltää Valdain ylängölle asti.",
+          "date": "2025-10-19T17:57:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011569897.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "SVT:n kuvat paljastavat: Putinin kesäasunnon ympärille rakennettu valtava ilmatorjuntajärjestelmä",
+          "content": "Putinin ilmasuoja on rakennettu sen jälkeen, kun Ukraina teki samalle seudulle drooni-iskun kaksi vuotta sitten. ",
+          "date": "2025-10-19T12:22:48.000Z",
+          "categories": [
+            "venäjä",
+            "vladimir putin",
+            "ulkomaat",
+            "ilmatorjuntajärjestelmät",
+            "ilmatorjuntaohjukset",
+            "radio free europe",
+            "vapaa-ajan asunnot"
+          ],
+          "link": "https://yle.fi/a/74-20189177?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Israel iski Gazaan – Hamas syyllinen hyökkäyksiin",
+      "mainCategories": [
+        "Ulkomaat",
+        "Israel",
+        "Palestiina"
+      ],
+      "imageUrl": "/images/gaza/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Israel iski Gazaan – syyttää Hamasia hyökkäyksistä",
+          "content": "Osapuolet syyttävät toisiaan lukuisista rikkomuksista.",
+          "date": "2025-10-19T16:18:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011569467.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Media: Israel tehnyt ilmaiskuja Gazan Rafahiin, syyttää Hamasia hyökkäyksestä sen joukkoja vastaan",
+          "content": "Israel on tehnyt ilmaiskuja Rafahin alueella eteläisellä Gazan kaistalla, kertovat israelilaismediat Jerusalem Post ja Haaretz.",
+          "date": "2025-10-19T09:56:06.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/media-israel-tehnyt-ilmaiskuja-gazan-rafahiin-syyt/12338391?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Israel teki uusia iskuja Gazaan – Hamas ja Israel syyttivät toisiaan aselevon rikkomisesta",
+          "content": "",
+          "date": "2025-10-19T09:07:46.000Z",
+          "categories": [
+            "israel",
+            "palestiina",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6798466"
+        }
+      ]
+    },
+    {
       "mainTitle": "Prinssi Andrew'n ongelmat jatkuvat kiristysväitteillä",
       "mainCategories": [
         "Maailma"
@@ -1572,73 +2315,6 @@
       ]
     },
     {
-      "mainTitle": "Neljää miestä epäillään joukkoraiskauksesta",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Turku"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Neljää miestä epäillään joukkoraiskauksesta Viking Gracella – tutkinta siirtyy Lounais-Suomen poliisille",
-          "content": "Teosta epäillyt neljä miestä vapautettiin eilen syyttäjän päätöksellä. Rikos tapahtui Suomen aluevesillä, joten myös tutkintavastuu siirtyy Suomeen.",
-          "date": "2025-10-19T09:08:27.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "turku",
-            "poliisi",
-            "epäillyt",
-            "poliisitutkinta",
-            "ruotsinlaivat",
-            "lounais-suomen poliisilaitos",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20189163?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Epäilty joukko­raiskaus Viking Gracella – näin Suomen poliisi kommentoi",
-          "content": "Ruotsalaismedian mukaan rikos tapahtui Suomen vesillä.",
-          "date": "2025-10-19T07:02:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011569371.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Viking Gracella epäilty joukko­raiskaus – ruotsalais­media: epäillyt vapautettu",
-          "content": "Neljää Suomessa asuvaa miestä epäillään naisen raiskauksesta.",
-          "date": "2025-10-18T17:24:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011568986.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Epäilty joukko­raiskaus Viking Gracella – uhri ja epäillyt Suomesta",
-          "content": "Neljä miestä on pidätetty.",
-          "date": "2025-10-18T09:12:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011568371.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Japanin poliittinen kriisi ratkeamassa",
       "mainCategories": [
         "Ulkomaat",
@@ -1679,7 +2355,7 @@
       ]
     },
     {
-      "mainTitle": "Asuntomarkkinoilla alennuksia ja tinkimismahdollisuuksia",
+      "mainTitle": "Asuntokaupassa alennuksia ja neuvotteluja nyt",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
@@ -1713,52 +2389,13 @@
       ]
     },
     {
-      "mainTitle": "Syyttömien vangitseminen maksoi valtiolle paljon",
-      "mainCategories": [
-        "Kotimaa",
-        "Oikeudenkäynnit",
-        "Tuomiot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Syyttömien vangitseminen kävi valtiolle kalliiksi",
-          "content": "Neljä parikymppistä miestä oli vankilassa yhdeksän kuukauden ajan ennen kuin Helsingin hovioikeus vapautti heidät.",
-          "date": "2025-10-19T06:09:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011569310.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Syyttömien vangitseminen katujengijutussa tuli valtiolle kalliiksi",
-          "content": "Neljä parikymppistä miestä oli vankilassa yhdeksän kuukauden ajan ennen kuin Helsingin hovioikeus vapautti heidät. ",
-          "date": "2025-10-19T05:19:09.000Z",
-          "categories": [
-            "oikeudenkäynnit",
-            "tuomiot",
-            "oikeus",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20189143?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Miljoonat mielenosoittajat vastustavat Trumpia",
       "mainCategories": [
         "Maailma",
         "Ulkomaat",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -1815,43 +2452,6 @@
       ]
     },
     {
-      "mainTitle": "Trump ei ole päättänyt Tomahawk-ohjuksista",
-      "mainCategories": [
-        "Politiikka",
-        "Kotimaa",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Vance: Trump ei ole vielä päättänyt Tomahawk-ohjuksista – IL seuraa sotaa",
-          "content": "Iltalehti seuraa Ukrainan sotaa ja sen seurauksia hetki hetkeltä. Aiemmat liveseurannat löydät täältä, täältä, täältä, täältä, täältä ja täältä.",
-          "date": "2025-10-19T05:28:15.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/758b4ebc-823a-4c47-9079-e5f67b44633b"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "USA:n Tomahawk-ohjukset ovat yhä pöydällä Venäjän painostusvoimana, sanoo Matti Vanhanen Ykkösaamussa",
-          "content": "Yhdysvaltain presidentin Donald Trumpin lailla Vanhanen uskoo, että Venäjällä olisi nyt monta hyvää syytä hidastaa tahtia.",
-          "date": "2025-10-18T09:12:34.000Z",
-          "categories": [
-            "politiikka",
-            "matti vanhanen",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20189062?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Huono ajokeli jatkuu maassa",
       "mainCategories": [
         "Liikenne",
@@ -1882,45 +2482,6 @@
             "liikenne"
           ],
           "link": "https://yle.fi/a/74-20189118?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tekoäly avuksi shoppailussa ja ostoksissa",
-      "mainCategories": [
-        "Näkökulma",
-        "Tekoäly",
-        "Verkkokauppa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Claer Barrett: Tuleeko tekoälystä tulevaisuuden shoppailukaveri? Valjastin tekoälyn avuksi kirjahyllyn ostoon ja vaikutuin",
-          "content": "",
-          "date": "2025-10-19T03:00:00.000Z",
-          "categories": [
-            "näkökulma",
-            "financial times",
-            "tekoäly",
-            "verkkokauppa",
-            "sunnuntai",
-            "teknologia",
-            "ilmiöt"
-          ],
-          "link": "https://www.ts.fi/ihmisetjailmiot/6796384"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Tekoäly on kuin henkilökohtainen shoppailukaveri, joka tietää toiveeni tarkalleen",
-          "content": "Toimittaja otti tekoälyn avuksi kirjahyllyä ostaessaan ja vaikuttui.",
-          "date": "2025-10-18T09:00:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/tekoaly-on-kuin-henkilokohtainen-shoppailukaveri-j/12335614?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -1993,11 +2554,11 @@
       ]
     },
     {
-      "mainTitle": "Talvi yllätti autoilijat ja aiheutti onnettomuuksia",
+      "mainTitle": "Ketjukolarit ja talviolosuhteet Suomessa",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
-        "Liikenne"
+        "Liikenneonnettomuudet"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -2030,69 +2591,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20189089?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Liikenneturva: Talvi yllätti autoilijat, mutta lämpimän alkusyksyn jälkeen se on ymmärrettävää",
-          "content": "Viime yö oli syksyn toistaiseksi kylmin. Tiehen tiivistyneet sumupisarat lisäsivät liukkautta entisestään.",
-          "date": "2025-10-18T09:56:54.000Z",
-          "categories": [
-            "liikenne",
-            "talvirenkaat",
-            "sää",
-            "tieliikenne",
-            "onnettomuudet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20189081?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Onnettomuudet | Tampereella 15 auton ketjukolari Kolmostien rampissa",
-          "content": "Lauantaiaamuna Suomessa on sattunut useita kolareita.",
-          "date": "2025-10-18T08:30:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011568419.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lahden liikenneonnettomuudessa kuusi rikosilmoitusta",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uutta tietoa Lahden jätti­onnettomuudesta – 6 rikos­ilmoitusta, kymmeniä sairaalaan",
-          "content": "Ympäri Suomea on tapahtunut lauantaiaamuna useita liikenne­onnettomuuksia, joista Lahden on isoin. IS seuraa liikennekaaosta tässä artikkelissa.",
-          "date": "2025-10-18T14:06:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011568319.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään nyt | Poliisi kirjasi Lahden kolari­sumasta kuusi rikos­ilmoitusta: kymmeniä vietiin sairaalaan tarkistettaviksi",
-          "content": "Lahdessa sattuneissa kolareissa oli mukana kymmeniä autoja. Poliisi kuvaili olosuhteita ”Konginkangas-keliksi”.",
-          "date": "2025-10-18T13:57:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011568332.html"
         }
       ]
     },
@@ -2127,44 +2625,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011568659.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "RKP vaatii muutoksia hyvinvointialueiden rahoitukseen",
-      "mainCategories": [
-        "Politiikka",
-        "Hyvinvointialueet",
-        "Terveyskeskukset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "RKP haluaa avata hyvinvointialueiden rahoituslain – myös ”haamudiagnoosit” huolestuttavat ministeri Adlercreutzia",
-          "content": "Taustalla ovat Etelä-Karjalan hyvinvointialueen talousvaikeuksiin liittyvät kantelut ja oikeudenkäynti.",
-          "date": "2025-10-18T13:21:45.000Z",
-          "categories": [
-            "hyvinvointialueet",
-            "terveyskeskukset",
-            "anders adlercreutz",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20189096?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Terveyden­hoito | Rkp vaatii muuttamaan lakia, jota oli itse edellisessä hallituksessa tekemässä",
-          "content": "Rkp:n mielestä hyvinvointialueet on ajettu mahdottomaan tilanteeseen.",
-          "date": "2025-10-18T10:04:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011568511.html"
         }
       ]
     }
