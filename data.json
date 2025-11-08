@@ -1,26 +1,8 @@
 {
-  "timestamp": "2025-11-08T05:39:47.920Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-11-08T06:22:48.533Z",
+  "successCount": 14,
+  "failureCount": 8,
   "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
     {
       "url": {
         "publisherId": "yle",
@@ -98,11 +80,23 @@
     {
       "mainTitle": "Maanjäristys Kotkassa aiheutti hälytyksiä",
       "mainCategories": [
-        "Kotimaa",
-        "Suomi"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Luonnonilmiöt | Maa järisi Kotkassa, ja Markku Niinivaara tunsi sen",
+          "content": "Asiasta soitettiin useita hätäpuheluita. Kaupungissa mitattiin voimakkuuden 1,8 maanjäristys vuonna 2022.",
+          "date": "2025-11-08T06:11:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011613399.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -114,40 +108,78 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011613396.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Luonnonilmiöt | Maa järisi Kotkassa",
-          "content": "Asiasta soitettiin useita hätäpuheluita. Kaupungissa mitattiin voimakkuuden 1,8 maanjäristys vuonna 2022.",
-          "date": "2025-11-08T05:21:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011613399.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Maa vavahteli Kotkassa",
-          "content": "Kotkassa koettiin myöhään perjantai-illalla maanjäristys. Helsingin yliopiston Seismologian instituutin ylläpitämä kartta kertoo kyseessä olleen 1.2 magnitudin järistys. Kartta päivittyy automaattisesti, joten maanjäristyksen voimakkuus ja paikka voivat vielä tarkentua myöhemmin.",
-          "date": "2025-11-07T23:23:12.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/c67ea832-0251-4699-a4c8-1b146bb0226b"
         }
       ]
     },
     {
-      "mainTitle": "Tuomari esti Trumpin kansalliskaartin lähetyksen",
+      "mainTitle": "Asumismenojen enimmäismäärä nousee 17 kunnassa",
+      "mainCategories": [
+        "Politiikka",
+        "Toimeentulotuki",
+        "Asuminen"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Asumismenojen enimmäismäärä toimeentulotuen saajille nousee 17 kunnassa – Oulussa muutos koskee vain kolmen hengen ruokakuntia",
+          "content": "Toimeentulotuessa hyväksyttävien asumiskustannusten enimmäisrajoihin on tulossa muutoksia ensi vuodelle 17 kunnassa.",
+          "date": "2025-11-08T06:06:54.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/asumismenojen-enimmaismaara-toimeentulotuen-saajil/12387777?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Toimeentulotuessa hyväksyttävien asumis­kustannusten rajoja nostetaan 17 kunnassa",
+          "content": "Muutokset ovat pääosin pieniä ja koskevat vain tiettyjä perhekokoja. Muissa kunnissa rajat säilyvät ennallaan. Muutokset tulevat voimaan ensi vuoden alussa. ",
+          "date": "2025-11-07T17:03:25.000Z",
+          "categories": [
+            "politiikka",
+            "toimeentulotuki",
+            "asuminen",
+            "asumiskulut",
+            "ii",
+            "joensuu",
+            "kaarina",
+            "kangasala",
+            "kirkkonummi",
+            "kokkola",
+            "kuusamo",
+            "lapinlahti",
+            "lempäälä",
+            "lieto",
+            "naantali",
+            "oulu",
+            "pirkkala",
+            "porvoo",
+            "pudasjärvi",
+            "turku",
+            "ylivieska",
+            "köyhyys ja sosiaaliturva",
+            "kotimaa",
+            "pohjois-pohjanmaa",
+            "pohjois-karjala",
+            "varsinais-suomi",
+            "pirkanmaa",
+            "uusimaa",
+            "keski-pohjanmaa",
+            "pohjois-savo"
+          ],
+          "link": "https://yle.fi/a/74-20192760?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tuomari esti Trumpin kansalliskaartisuunnitelmat",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -190,10 +222,10 @@
     {
       "mainTitle": "Trump myönsi Unkarille poikkeuksen pakotteista",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Maailma"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -218,6 +250,31 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011613410.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump antoi Unkarille luvan poiketa Venäjälle asetetuista öljypakotteista vuoden ajan",
+          "content": "Unkarin pääministeri Orbán on toistuvasti sanonut, ettei Unkari voi eikä halua luopua venäläisen öljyn ja kaasun tuonnista.",
+          "date": "2025-11-07T21:43:45.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192865?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Orban ja Trump tapaavat – yksi kysymys keskiössä",
+          "content": "Unkarin pääministeri ei haluaisi luopua venäläisestä energiasta, kuten Yhdysvaltain presidentti on toivonut.",
+          "date": "2025-11-07T00:43:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011610520.html"
         },
         {
           "publisherId": "hs",
@@ -298,6 +355,42 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011613402.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kreml kiistää Lavrovin epäsuosion väitteet",
+      "mainCategories": [
+        "Ulkomaat",
+        "Venäjä"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kreml kiistää, että ulkoministeri Lavrov oli joutunut Putinin epäsuosioon",
+          "content": "Lavrov keskusteli lokakuussa amerikkalaisen virkaveljensä kanssa Budapestin huippukokouksen ehdoista. Keskustelun jälkeen kokous peruttiin.",
+          "date": "2025-11-07T21:40:14.000Z",
+          "categories": [
+            "venäjä",
+            "sergei lavrov",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192864?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lehti: Sergei Lavrov näyttää joutuneen Vladimir Putinin epäsuosioon",
+          "content": "Väitetyn välirikon taustalla uskotaan olevan Lavrovin ja Yhdysvaltain ulkoministerin puhelinkeskustelu, jonka jälkeen Yhdysvallat perui Donald Trumpin ja Vladimir Putinin välille suunnitellun tapaamisen.",
+          "date": "2025-11-06T20:40:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011610279.html"
         }
       ]
     },
@@ -426,11 +519,11 @@
       ]
     },
     {
-      "mainTitle": "Fazerin Geisha-konvehteja väärissä pakkauksissa",
+      "mainTitle": "Fazerin pakkausvirhe Geisha-konvehdeissa",
       "mainCategories": [
         "Kotimaa",
-        "Suomi",
-        "Makeiset"
+        "Kuluttajat",
+        "Suklaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -445,6 +538,21 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011613295.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Fazer varoittaa: Vadelmajogurtti-suklaakonvehtipakkauksissa saattaa olla Geisha-konvehteja",
+          "content": "",
+          "date": "2025-11-07T16:59:47.000Z",
+          "categories": [
+            "kuluttajat",
+            "suklaa",
+            "fazer",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192846?origin=rss"
         },
         {
           "publisherId": "ts",
@@ -471,6 +579,200 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011613092.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Liimaa silmiin useita tapauksia Suomessa",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Silmät"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Liimaa on ruiskittu potilaiden silmiin Suomessa enemmänkin – yli viisi tapausta tiedossa",
+          "content": "Viime vuosien aikana Potilasvakuutuskeskukselle on tullut tietoon ainakin neljä tapausta, joissa liimaa on kulkeutunut potilaan silmiin. Keski-Suomen hyvinvointialueelle tiistainen viisivuotiaan pojan tragedia poiki myös lisää ilmoituksia vastaavista tilanteista. Terveyskeskus aikoo nyt muuttaa käytäntöjään.",
+          "date": "2025-11-07T19:15:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011612568.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Jo kolmen lapsen silmät liimattu umpeen Keski-Suomessa – hyvinvointi­alue tarkastelee ohjeistustaan",
+          "content": "Kolme lasta on saanut haavan liimauksen yhteydessä kemikaalia silmäänsä reilun vuoden sisällä Keski-Suomen hyvin­vointialueella. Hallinto­ylilääkärin mukaan ohjeistusta tarkennetaan.",
+          "date": "2025-11-07T18:09:32.000Z",
+          "categories": [
+            "onnettomuudet",
+            "keski-suomen hyvinvointialue",
+            "silmät",
+            "haavat",
+            "jyväskylä",
+            "laukaa",
+            "keski-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192809?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Nyt tuli syy sille, miksi viisi­vuotiaan lapsen silmät liimattiin umpeen – ”Hoitaja pahoitteli”",
+          "content": "Huhtasuon terveyskeskukselta on nyt kerrottu selitys sille, miksi viisivuotiaan pojan silmät liimattiin vahingossa umpeen. ”Hoitaja pahoitteli tapahtunutta”, äiti kertoo IS:lle.",
+          "date": "2025-11-07T13:24:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011612350.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "5-vuotiaan silmät liimattiin umpeen terveys­keskuksessa – nyt paljastui lisää vastaavia tapauksia",
+          "content": "Viisivuotias poika koki kauhun hetkiä, kun rutiinitoimenpiteen yhteydessä hänen silmänsä liimattiin vahingossa umpeen. Pojan äiti kertoo IS:n haastattelussa dramaattisesta päivästä. Hyvinvointialueen mukaan sattumus on poikinut uusia ilmoituksia samankaltaisista tapahtumista.",
+          "date": "2025-11-07T12:35:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011611914.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle: Myös toisen 5-vuotiaan silmä liimattiin vahingossa umpeen",
+          "content": "Ylen mukaan kyseessä on potilasvahinko.",
+          "date": "2025-11-07T06:54:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011610662.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Linnanmäki aloittaa muutosneuvottelut",
+      "mainCategories": [
+        "Kotimaa",
+        "Talous",
+        "Linnanmäki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Linnanmäki aloittaa maanantaina muutosneuvottelut",
+          "content": "",
+          "date": "2025-11-07T18:46:46.000Z",
+          "categories": [
+            "huvipuistot",
+            "muutosneuvottelut",
+            "uutiset",
+            "kotimaa"
+          ],
+          "link": "https://www.ts.fi/uutiset/6817404"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "IL: Linnanmäki aloittaa muutosneuvottelut",
+          "content": "Tavoitteita ei vielä tiedetä.",
+          "date": "2025-11-07T17:32:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011613220.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Linnanmäki aloittaa muutosneuvottelut",
+          "content": "",
+          "date": "2025-11-07T17:16:41.000Z",
+          "categories": [
+            "talous",
+            "linnanmäki",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192849?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Liikenneonnettomuudet aiheuttivat kuolemantapauksia",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Tieliikennekuolemat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ihminen yritti hypätä liikkuvan ratikan kyytiin – Pian toinen ratikka suistui raiteiltaan ",
+          "content": "Liikenneonnettomuudessa oli osallisena ihminen ja pikaraitiovaunu.  Ihminen loukkaantui koettaessaan hypätä liikkuvan pikaraitiovaunun kyytiin Helsingin Maunulassa. Välikohtaus sattui raitiolinja 15:n reitillä Pirjontien pysäkin läheisyydessä noin kello 19.30 perjantaina. Paikalla oli silminnäkijän mukaan useita pelastuslaitoksen ja poliisin yksiköitä.",
+          "date": "2025-11-07T18:32:50.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/590c9400-cc92-41ad-91fb-abce607d10e7"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Henkilöauton kuljettaja kuoli törmättyään rekkaan Rantasalmella",
+          "content": "Poliisi selvitti tapahtuma­paikalla muun muassa jälkien avulla, että henkilöauto oli ollut törmäyshetkellä väärällä ajokaistalla.",
+          "date": "2025-11-07T16:13:33.000Z",
+          "categories": [
+            "onnettomuudet",
+            "tieliikennekuolemat",
+            "liikenneonnettomuudet",
+            "rantasalmi",
+            "etelä-savo",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192838?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies kuoli törmättyään rekkaan",
+          "content": "Onnettomuus tapahtui perjantaina kello 9.30 aikaan Rantasalmentiellä.",
+          "date": "2025-11-07T15:54:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011613089.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Espoossa auton alle jäänyt 3-vuotias lapsi on kuollut",
+          "content": "Lapsen päälle ajanut kuljettaja oli lapsen huoltaja.",
+          "date": "2025-11-06T10:12:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011602814.html"
         }
       ]
     },
@@ -509,26 +811,97 @@
       ]
     },
     {
-      "mainTitle": "Valtiolta uudet etätyösuositukset työntekijöille",
+      "mainTitle": "Kolme miestä vangittu terrorismin rahoittamisesta",
       "mainCategories": [
+        "Kotimaa",
         "Suomi",
-        "Politiikka",
-        "Työelämä"
+        "Poliisi"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Valtiolle uudet suositukset etätyöstä – Tässä linjaus",
-          "content": "Uudella suosituksella kerrotaan haluttavan edistää työpaikkojen yhteisöllisyyttä ja työhyvinvointia sekä parantaa valtionhallinnon tuottavuutta.",
-          "date": "2025-11-07T17:15:00.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Kolme henkilöä vangittu terroristiryhmän rahoittamisesta epäiltynä",
+          "content": "",
+          "date": "2025-11-07T16:59:53.000Z",
           "categories": [
-            "työelämä"
+            "krp",
+            "rikos ja oikeus",
+            "uutiset",
+            "rikosepäilyt",
+            "terrorismi",
+            "kotimaa"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/44c78573-42fc-441e-8268-f1d5a45b54ae"
+          "link": "https://www.ts.fi/uutiset/6817324"
         },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kolme miestä on vangittu terrorismirikoksista epäiltynä Helsingissä – tämä heistä tiedetään",
+          "content": "Vangittavaksi vaaditut miehet liittyvät poliisin salaperäiseen operaatioon itärajalla.",
+          "date": "2025-11-07T16:57:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011610866.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Kolme kurdi­miestä vangittiin terrorismin rahoittamisesta, järjestö syyttää Turkin mielistelystä",
+          "content": "Kurdien demokraattista yhteisökeskusta johtava Kocer Xabur kertoo, että poliisi teki kotietsinnän järjestön osoitteeseen.",
+          "date": "2025-11-07T16:55:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011611107.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Helsingin käräjäoikeus vangitsi kolme miestä terroristiryhmän rahoittamisesta epäiltynä",
+          "content": "Keskusrikospoliisi ei tässä vaiheessa vahvista, minkä ryhmän rahoittamiseen epäilykset liittyvät. Rikoksesta epäillään kolmea miestä. ",
+          "date": "2025-11-07T13:37:16.000Z",
+          "categories": [
+            "poliisi",
+            "epäillyt",
+            "poliisin toimenpiteet",
+            "helsingin käräjäoikeus",
+            "ruokolahti",
+            "etelä-karjala",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192700?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS:n tiedot | Poliisi vaatii kolmea vangittavaksi terroristisen kurdi­järjestön rahoittamisesta",
+          "content": "Krp epäilee kolmea kurditaustaista miestä terroristiseksi luokitellun kurdijärjestön PKK:n rahoittamisesta.",
+          "date": "2025-11-07T07:16:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011609998.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Valtion uudet etätyösuositukset julkaistu",
+      "mainCategories": [
+        "Työelämä",
+        "Etätyö",
+        "Valtio"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -552,92 +925,75 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011612952.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kolme miestä vangittu terrorismin rahoituksesta",
-      "mainCategories": [
-        "Suomi",
-        "Krp",
-        "Uutiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
+        },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kolme henkilöä vangittu terroristiryhmän rahoittamisesta epäiltynä",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valtiolle uudet suositukset etätyöstä – lähipäiviä keskimäärin 12 kuussa",
           "content": "",
-          "date": "2025-11-07T16:59:53.000Z",
+          "date": "2025-11-07T13:22:18.000Z",
           "categories": [
-            "krp",
-            "rikos ja oikeus",
-            "uutiset",
-            "rikosepäilyt",
-            "terrorismi",
+            "työelämä",
+            "etätyö",
+            "valtio",
             "kotimaa"
           ],
-          "link": "https://www.ts.fi/uutiset/6817324"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rikosepäilyt | Kolme kurdi­miestä vangittiin terrorismin rahoittamisesta, järjestö syyttää Turkin mielistelystä",
-          "content": "Kurdien demokraattista yhteisökeskusta johtava Kocer Xabur kertoo, että poliisi teki kotietsinnän järjestön osoitteeseen.",
-          "date": "2025-11-07T16:55:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011611107.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS:n tiedot | Poliisi vaatii kolmea vangittavaksi terroristisen kurdi­järjestön rahoittamisesta",
-          "content": "Krp epäilee kolmea kurditaustaista miestä terroristiseksi luokitellun kurdijärjestön PKK:n rahoittamisesta.",
-          "date": "2025-11-07T07:16:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011609998.html"
+          "link": "https://yle.fi/a/74-20192805?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Louvren turvatoimien heikkoudet paljastuivat",
+      "mainTitle": "Hyvinvointi­alueet karsivat sosiaali- ja terveyspalveluista",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Hyvinvointialueet",
+        "Kotimaa",
+        "Työntekijät"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ranska | ABC: Louvren valvonta­kameroiden salasana oli ”Louvre”, kertoo työntekijä",
-          "content": "Museon turvatoimien riittävyyttä on kyseenalaistettu varkauden jälkeen.",
-          "date": "2025-11-07T16:58:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tutkija: Hyvinvointi­alueet säästävät pikku­asioista, ja se kertoo siitä, että keinot ovat loppumassa",
+          "content": "Nyt olisi hyvä hetki käydä koko maata koskeva keskustelu siitä, millä tasolla ja laajuudella sosiaali- ja terveyspalvelut halutaan Suomessa taata, arvioi tutkija.",
+          "date": "2025-11-07T16:10:39.000Z",
           "categories": [
-            "maailma"
+            "hyvinvointialueet",
+            "sosiaali- ja terveyspalvelut",
+            "työntekijät",
+            "tampereen yliopisto",
+            "terveyspalvelut",
+            "kotimaa"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011613143.html"
+          "link": "https://yle.fi/a/74-20192713?origin=rss"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Louvren valvontakamera­järjestelmän salasana oli nolostuttavan helppo",
-          "content": "Louvren johtaja myöntää, että museon turvajärjestelyissä on ”heikkouksia”.",
-          "date": "2025-11-06T06:00:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuuma vesi 10 senttiä, jälkiruoat pois – hyvinvointi­alueet karsivat nyt aivan kaikesta",
+          "content": "Hyvinvointi­alueet raapivat tällä hetkellä säästöjä aivan kaikesta. Kysyimme, onko kaikkein pienimmilläkin säästöillä oikeasti väliä.",
+          "date": "2025-11-07T12:23:35.000Z",
           "categories": [
-            "ulkomaat"
+            "hyvinvointialueet",
+            "säästöt",
+            "säästäminen",
+            "talous",
+            "talousvaikeudet",
+            "terveydenhoito",
+            "pohjois-savon hyvinvointialue",
+            "pohjanmaan hyvinvointialue",
+            "kotimaa",
+            "pohjanmaa",
+            "etelä-pohjanmaa",
+            "uusimaa",
+            "pohjois-savo",
+            "lappi",
+            "keski-suomi"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011607990.html"
+          "link": "https://yle.fi/a/74-20191573?origin=rss"
         }
       ]
     },
@@ -676,13 +1032,13 @@
       ]
     },
     {
-      "mainTitle": "Teboilin kriisi ja Lukoilin myynnit",
+      "mainTitle": "Teboilin kriisi syvenee Lukoilin myynnin myötä",
       "mainCategories": [
         "Talous",
         "Suomi",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -830,14 +1186,76 @@
       ]
     },
     {
-      "mainTitle": "Timo R. Stewart sai uhkailuja ja solvauksia",
+      "mainTitle": "Anneli Auerin tapaus herättää huolta",
       "mainCategories": [
-        "Politiikka",
-        "Tutkimus",
-        "Konfliktit"
+        "Kotimaa",
+        "Rikokset",
+        "Oikeudenkäynnit"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Anneli Auer toivoo Onnettomuus­tutkinta­keskuksen selvittävän, ovatko viranomaiset kohdelleet häntä kaltoin – Otkes vastaa",
+          "content": "Seksuaalirikoksista syytetyt Anneli Auer ja Jens Ihle toivovat, että heihin liittyvistä viranomaistoimista tehtäisiin puolueeton tutkinta.",
+          "date": "2025-11-07T13:36:51.000Z",
+          "categories": [
+            "rikokset",
+            "anneli auer",
+            "oikeudenkäynnit",
+            "onnettomuustutkintakeskus",
+            "oikeus",
+            "oikeusministeriö",
+            "turvallisuustutkinta",
+            "varsinais-suomi",
+            "turku",
+            "varsinais-suomen käräjäoikeus",
+            "seksuaalirikokset",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192698?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yhdysvaltalainen asiantuntija tyrmää Minna Joki-Erkkilän näkemyksen Anneli Auerin lapsista",
+          "content": "Anneli Auerin puolustuksen hankkima asiantuntija katsoo, että gynekologi tutki lapsia ennakkoasenteellisesti. ”Olen hyvin huolissani”, hän sanoo.",
+          "date": "2025-11-06T19:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011608125.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Timo R. Stewart palkittiin vuoden tieteentekijänä",
+      "mainCategories": [
+        "Kotimaa",
+        "Palkinnot",
+        "Tutkijat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suorapuheinen Gazan sodan kommentoija Timo R. Stewart on palkittu Vuoden tieteentekijänä",
+          "content": "Stewart kertoo, että vihapostin lähettäjät ovat yrittäneet vaientaa hänet.",
+          "date": "2025-11-07T12:45:05.000Z",
+          "categories": [
+            "palkinnot",
+            "timo r. stewart",
+            "tutkijat",
+            "tiede",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192750?origin=rss"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -980,7 +1398,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1094,7 +1512,7 @@
       ]
     },
     {
-      "mainTitle": "Mielenosoitus keskeytti rakennustyöt Rovaniemellä",
+      "mainTitle": "Mielenosoittajat keskeyttivät rakennustyöt Rovaniemellä",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -1215,7 +1633,7 @@
         "Taloussanomat",
         "Pakotteet"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1276,7 +1694,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1336,12 +1754,12 @@
       ]
     },
     {
-      "mainTitle": "Trump sopi lihavuuslääkkeiden hintojen alennuksesta",
+      "mainTitle": "Trump sopi lihavuuslääkkeiden hintojen alentamisesta",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1443,7 +1861,7 @@
         "Maailma",
         "Politiikka"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1520,7 +1938,7 @@
       ]
     },
     {
-      "mainTitle": "Göteborgin lentokentällä droonihavainto keskeytti lennot",
+      "mainTitle": "Göteborgin lentokentällä droonihavainto sulki kentän",
       "mainCategories": [
         "Maailma"
       ],
@@ -1615,7 +2033,7 @@
       ]
     },
     {
-      "mainTitle": "Orpo vakuutti hallituksen sitoutumisen ilmastokriisiin",
+      "mainTitle": "Pääministeri Orpo puolusti hallituksen ilmastotoimia",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1680,7 +2098,7 @@
       ]
     },
     {
-      "mainTitle": "Nancy Pelosi jättää politiikan eläkkeelle",
+      "mainTitle": "Nancy Pelosi jättää politiikan uransa jälkeen",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1745,7 +2163,7 @@
       ]
     },
     {
-      "mainTitle": "Tulipalo Loviisassa vaati yhden uhrin",
+      "mainTitle": "Tulipalo Loviisassa vaati yhden hengen.",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1813,7 +2231,7 @@
       ]
     },
     {
-      "mainTitle": "Aktian toimitusjohtaja pahoittelee luottamuskriisiä",
+      "mainTitle": "Aktian toimitusjohtaja pahoittelee luottamuksen heikentymistä",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
@@ -1843,41 +2261,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011608135.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sheinin myymälä avautui Ranskassa mielenosoitusten keskellä",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/ranska/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ranskalta raju vastaus Sheinin seksinukke­kohuun",
-          "content": "Sheinin verkkokauppa aiotaan kieltää toistaiseksi Ranskassa. Samaan aikaan ultrapikamuotijätti avasi maailman ensimmäisen pysyvän myymälänsä Pariisiin.",
-          "date": "2025-11-06T06:49:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011607991.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Pariisissa | Shein jakoi croissantteja ranskalaisille, mutta myymälässä odotti pettymys: ”En taida ostaa mitään”",
-          "content": "Sheinin ensimmäinen kauppa avautui Ranskassa mielenosoittajien huutaessa kadulla. Myymälässä jonottajat yllättyivät korkeista hinnoista ja ryppyisistä vaatteista.",
-          "date": "2025-11-06T06:20:00.000Z",
-          "categories": [
-            "tilaajille",
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011605683.html"
         }
       ]
     }
