@@ -1,84 +1,59 @@
 {
-  "timestamp": "2025-11-08T09:15:42.084Z",
-  "successCount": 14,
-  "failureCount": 8,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2025-11-08T09:36:52.391Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Halla-ahon tyttäret pohtivat politiikkaan lähtöä",
+      "mainTitle": "Nuoret aikuiset suosivat sijoittamista asunnon ostamisen sijaan",
+      "mainCategories": [
+        "Nuoret",
+        "Talous",
+        "Sijoittaminen"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "25–34-vuotiaiden käytöksessä tapahtui merkittävä muutos – ”Jonkinlainen buumi menossa”",
+          "content": "Isoissa kaupungeissa asunnon ostaminen ei ole välttämättä taloudellisesti mahdollista.",
+          "date": "2025-11-08T09:27:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011613542.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nuoret aikuiset ennemmin sijoittavat kuin ostavat asunnon",
+          "content": "Isoissa kaupungeissa asunnon ostaminen ei ole välttämättä taloudellisesti mahdollista.",
+          "date": "2025-11-08T07:46:13.000Z",
+          "categories": [
+            "nuoret",
+            "talous",
+            "sijoittaminen",
+            "asunnon hankinta"
+          ],
+          "link": "https://yle.fi/a/74-20192883?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Nuoret aikuiset ennemmin sijoittavat kuin ostavat asunnon – perinteinen vaurastumisen malli ei toimi",
+          "content": "Isoissa kaupungeissa asunnon ostaminen ei ole välttämättä taloudellisesti mahdollista.",
+          "date": "2025-11-08T07:15:36.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/nuoret-aikuiset-ennemmin-sijoittavat-kuin-ostavat/12387794?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Halla-ahon tyttäret pohtivat politiikkaa ja kiusaamista",
       "mainCategories": [
         "Politiikka"
       ],
@@ -154,7 +129,7 @@
       ]
     },
     {
-      "mainTitle": "Pörssin lokakuun nousutrendi ja sijoitusvihjeet",
+      "mainTitle": "Pörssin lokakuun nousutrendi ja sijoitusvinkit",
       "mainCategories": [
         "Sijoittaminen",
         "Osakkeet"
@@ -188,7 +163,7 @@
       ]
     },
     {
-      "mainTitle": "Milan Jaff kertoo rikollisen uransa taustasta",
+      "mainTitle": "Milan Jaff kertoo rikollisen taustansa",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -329,7 +304,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -352,6 +327,68 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011613426.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Asumismenojen enimmäismäärä nousee 17 kunnassa",
+      "mainCategories": [
+        "Politiikka",
+        "Toimeentulotuki",
+        "Asuminen"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Asumismenojen enimmäismäärä toimeentulotuen saajille nousee 17 kunnassa – Oulussa muutos koskee vain kolmen hengen ruokakuntia",
+          "content": "Toimeentulotuessa hyväksyttävien asumiskustannusten enimmäisrajoihin on tulossa muutoksia ensi vuodelle 17 kunnassa.",
+          "date": "2025-11-08T06:06:54.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/asumismenojen-enimmaismaara-toimeentulotuen-saajil/12387777?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Toimeentulotuessa hyväksyttävien asumis­kustannusten rajoja nostetaan 17 kunnassa",
+          "content": "Muutokset ovat pääosin pieniä ja koskevat vain tiettyjä perhekokoja. Muissa kunnissa rajat säilyvät ennallaan. Muutokset tulevat voimaan ensi vuoden alussa. ",
+          "date": "2025-11-07T17:03:25.000Z",
+          "categories": [
+            "politiikka",
+            "toimeentulotuki",
+            "asuminen",
+            "asumiskulut",
+            "ii",
+            "joensuu",
+            "kaarina",
+            "kangasala",
+            "kirkkonummi",
+            "kokkola",
+            "kuusamo",
+            "lapinlahti",
+            "lempäälä",
+            "lieto",
+            "naantali",
+            "oulu",
+            "pirkkala",
+            "porvoo",
+            "pudasjärvi",
+            "turku",
+            "ylivieska",
+            "köyhyys ja sosiaaliturva",
+            "kotimaa",
+            "pohjois-pohjanmaa",
+            "pohjois-karjala",
+            "varsinais-suomi",
+            "pirkanmaa",
+            "uusimaa",
+            "keski-pohjanmaa",
+            "pohjois-savo"
+          ],
+          "link": "https://yle.fi/a/74-20192760?origin=rss"
         }
       ]
     },
@@ -411,9 +448,9 @@
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
-        "Pakotteet"
+        "Venäjä"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -472,6 +509,25 @@
           "link": "https://yle.fi/a/74-20192865?origin=rss"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Orbanista Ukraina voi voittaa sodan, ”jos ihme tapahtuu” – tapasi Trumpin kanssa puhuakseen Venäjän öljystä",
+          "content": "Orban totesi, että monet maat uskovat Ukrainan voivan voittaa sodan rintamalla, ”mikä on väärä käsitys”. ",
+          "date": "2025-11-07T15:58:28.000Z",
+          "categories": [
+            "venäjä",
+            "donald trump",
+            "unkari",
+            "yhdysvallat",
+            "energia",
+            "kansainvälinen politiikka",
+            "viktor orbán",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192833?origin=rss"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -501,9 +557,10 @@
       "mainTitle": "Tuomari esti Trumpin kansalliskaartin lähettämisen",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma"
+        "Yhdysvallat",
+        "Portland"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -540,6 +597,53 @@
             "ulkomaat"
           ],
           "link": "https://www.iltalehti.fi/ulkomaat/a/4ceebd06-ba62-4b18-9ebd-ba8ffd800ed7"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tuomari: Trumpin hallinnolla ei valtuuksia kansalliskaartin lähettämiseen Portlandiin",
+          "content": "",
+          "date": "2025-11-08T03:12:26.000Z",
+          "categories": [
+            "yhdysvallat",
+            "portland",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192871?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sanna Marinin muistelmateos herättää keskustelua",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sanna Marin puhuu tänään yleisötilaisuudessa",
+          "content": "",
+          "date": "2025-11-08T00:05:48.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20192868?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lukijoilta suorat sanat Sanna Marinin kirjasta – ”Ei sanota puolella sanallakaan”",
+          "content": "Sanna Marinin muistelmateos julkaistiin tiistaina, ja sitä on jo ehditty kehua ja haukkua monipuolisesti.",
+          "date": "2025-11-06T19:55:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011609660.html"
         }
       ]
     },
@@ -578,6 +682,42 @@
       ]
     },
     {
+      "mainTitle": "Kreml kiistää Lavrovin epäsuosion väitteet",
+      "mainCategories": [
+        "Ulkomaat",
+        "Venäjä"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kreml kiistää, että ulkoministeri Lavrov oli joutunut Putinin epäsuosioon",
+          "content": "Lavrov keskusteli lokakuussa amerikkalaisen virkaveljensä kanssa Budapestin huippukokouksen ehdoista. Keskustelun jälkeen kokous peruttiin.",
+          "date": "2025-11-07T21:40:14.000Z",
+          "categories": [
+            "venäjä",
+            "sergei lavrov",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192864?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lehti: Sergei Lavrov näyttää joutuneen Vladimir Putinin epäsuosioon",
+          "content": "Väitetyn välirikon taustalla uskotaan olevan Lavrovin ja Yhdysvaltain ulkoministerin puhelinkeskustelu, jonka jälkeen Yhdysvallat perui Donald Trumpin ja Vladimir Putinin välille suunnitellun tapaamisen.",
+          "date": "2025-11-06T20:40:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011610279.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Pörssit laskevat tekoälykuplan pelossa",
       "mainCategories": [
         "Talous"
@@ -611,10 +751,11 @@
       ]
     },
     {
-      "mainTitle": "Netanjahusta pidätysmääräys Turkissa",
+      "mainTitle": "Netanjahusta annettu pidätysmääräys Turkissa",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Turkki",
+        "Israel"
       ],
       "imageUrl": "/images/netanjahu/1.jpeg",
       "relatedNews": [
@@ -641,16 +782,32 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011613301.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Turkissa syyttäjä on antanut Netanjahusta pidätysmääräyksen",
+          "content": "",
+          "date": "2025-11-07T19:00:19.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "turkki",
+            "israel",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192853?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Elon Muskille myönnettiin biljoonabonukset",
+      "mainTitle": "Elon Muskin biljoonabonukset hyväksyttiin Teslassa",
       "mainCategories": [
         "Talous",
-        "Maailma"
+        "Yritykset",
+        "Ilmarinen"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/elon musk/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -663,6 +820,18 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011610593.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yksi kuva näyttää, miten huima on Elon Muskin bonuspotti",
+          "content": "Muskin palkkiolla pyörittäisi Suomea useiden vuosien ajan.",
+          "date": "2025-11-07T17:15:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011611643.html"
         },
         {
           "publisherId": "hs",
@@ -698,15 +867,36 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011610501.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Elon Musk uhitteli ja Teslan yhtiökokous myöntyi bonusjärjestelyyn – arvo jopa biljoona dollaria eli tuhat miljardia",
+          "content": "Suomalaiset eläkeyhtiöt Varma ja Ilmarinen äänestivät historiallisen suurta palkitsemis­järjestelyä vastaan. Se oikeuttaa Muskin biljoonan dollarin osakepottiin, jos tavoitteet täyttyvät.",
+          "date": "2025-11-06T22:15:04.000Z",
+          "categories": [
+            "yritykset",
+            "elon musk",
+            "ilmarinen",
+            "tesla motors",
+            "talous",
+            "varma",
+            "osakkeet ja arvopaperit",
+            "sijoittaminen",
+            "sähköautot",
+            "eläkerahastot"
+          ],
+          "link": "https://yle.fi/a/74-20192486?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Fazerin Geisha-konvehteja väärissä pakkauksissa",
+      "mainTitle": "Fazerin pakkausvirhe Geisha-konvehdeissa",
       "mainCategories": [
         "Kotimaa",
-        "Suomi",
-        "Makeiset"
+        "Kuluttajat",
+        "Suklaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -721,6 +911,21 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011613295.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Fazer varoittaa: Vadelmajogurtti-suklaakonvehtipakkauksissa saattaa olla Geisha-konvehteja",
+          "content": "",
+          "date": "2025-11-07T16:59:47.000Z",
+          "categories": [
+            "kuluttajat",
+            "suklaa",
+            "fazer",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192846?origin=rss"
         },
         {
           "publisherId": "ts",
@@ -751,7 +956,7 @@
       ]
     },
     {
-      "mainTitle": "Liimaa silmiin useita tapauksia Suomessa",
+      "mainTitle": "Liimaa silmiin useissa tapauksissa Suomessa",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -829,11 +1034,112 @@
       ]
     },
     {
-      "mainTitle": "Kolme miestä vangittu terrorismin rahoituksesta",
+      "mainTitle": "Linnanmäki aloittaa muutosneuvottelut maanantaina",
       "mainCategories": [
+        "Kotimaa",
+        "Talous",
+        "Linnanmäki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Linnanmäki aloittaa maanantaina muutosneuvottelut",
+          "content": "",
+          "date": "2025-11-07T18:46:46.000Z",
+          "categories": [
+            "huvipuistot",
+            "muutosneuvottelut",
+            "uutiset",
+            "kotimaa"
+          ],
+          "link": "https://www.ts.fi/uutiset/6817404"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "IL: Linnanmäki aloittaa muutosneuvottelut",
+          "content": "Tavoitteita ei vielä tiedetä.",
+          "date": "2025-11-07T17:32:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011613220.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Linnanmäki aloittaa muutosneuvottelut",
+          "content": "",
+          "date": "2025-11-07T17:16:41.000Z",
+          "categories": [
+            "talous",
+            "linnanmäki",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192849?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Markkinaoikeus palautti OL3:n maksukiistan Energiavirastolle",
+      "mainCategories": [
+        "Ydinvoima",
+        "Markkinaoikeus",
+        "Fingrid"
+      ],
+      "imageUrl": "/images/olkiluoto/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Markkinaoikeus kumosi Energiaviraston päätöksen kiistassa OL3:n järjestelmäsuojan maksuista ",
+          "content": "Ydinvoimayhtiö Teollisuuden Voima ja kantaverkkoyhtiö Fingrid ovat olleet eri mieltä siitä, kumman kuuluisi maksaa Olkiluoto 3:n järjestelmäsuojan kustannuksia.",
+          "date": "2025-11-07T17:25:21.000Z",
+          "categories": [
+            "yritykset",
+            "ydinvoima",
+            "markkinaoikeus",
+            "energiavirasto",
+            "olkiluoto",
+            "olkiluodon ydinvoimalaitos",
+            "olkiluoto-3",
+            "teollisuuden voima oyj (tvo)",
+            "fingrid",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20192851?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Markkinaoikeus palautti kiistan Olkiluoto 3:n järjestelmänsuojan maksuista Energiavirastolle",
+          "content": "",
+          "date": "2025-11-07T14:22:13.000Z",
+          "categories": [
+            "markkinaoikeus",
+            "fingrid",
+            "sähköntuotanto",
+            "ydinvoima",
+            "uutiset",
+            "kotimaa"
+          ],
+          "link": "https://www.ts.fi/uutiset/6817163"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kolme miestä vangittu terrorismin rahoittamisesta",
+      "mainCategories": [
+        "Kotimaa",
         "Suomi",
-        "Krp",
-        "Uutiset"
+        "Poliisi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -855,6 +1161,18 @@
           "link": "https://www.ts.fi/uutiset/6817324"
         },
         {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kolme miestä on vangittu terrorismirikoksista epäiltynä Helsingissä – tämä heistä tiedetään",
+          "content": "Vangittavaksi vaaditut miehet liittyvät poliisin salaperäiseen operaatioon itärajalla.",
+          "date": "2025-11-07T16:57:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011610866.html"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -865,6 +1183,25 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011611107.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Helsingin käräjäoikeus vangitsi kolme miestä terroristiryhmän rahoittamisesta epäiltynä",
+          "content": "Keskusrikospoliisi ei tässä vaiheessa vahvista, minkä ryhmän rahoittamiseen epäilykset liittyvät. Rikoksesta epäillään kolmea miestä. ",
+          "date": "2025-11-07T13:37:16.000Z",
+          "categories": [
+            "poliisi",
+            "epäillyt",
+            "poliisin toimenpiteet",
+            "helsingin käräjäoikeus",
+            "ruokolahti",
+            "etelä-karjala",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192700?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -881,10 +1218,11 @@
       ]
     },
     {
-      "mainTitle": "Uudet etätyösuositukset valtiolta työntekijöille",
+      "mainTitle": "Valtiolta uudet etätyösuositukset työntekijöille",
       "mainCategories": [
-        "Suomi",
-        "Politiikka"
+        "Työelämä",
+        "Etätyö",
+        "Valtio"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -911,17 +1249,199 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011612952.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valtiolle uudet suositukset etätyöstä – lähipäiviä keskimäärin 12 kuussa",
+          "content": "",
+          "date": "2025-11-07T13:22:18.000Z",
+          "categories": [
+            "työelämä",
+            "etätyö",
+            "valtio",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192805?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Teboilin kriisi syvenee Lukoilin myydessä omaisuuttaan",
+      "mainTitle": "Hallitus keskittää ministeriöiden viestinnän",
+      "mainCategories": [
+        "Politiikka",
+        "Viestintä"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS: Päätös ministeriöiden viestinnän keskittämisestä on nyt tehty ",
+          "content": "",
+          "date": "2025-11-07T16:18:11.000Z",
+          "categories": [
+            "politiikka",
+            "viestintä"
+          ],
+          "link": "https://yle.fi/a/74-20192843?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS:n tiedot | Hallitus päätti viestinnän keskittämisestä valtioneuvoston kansliaan ja kiristi säästöjä",
+          "content": "Tulossa on uusi valtioneuvoston viestintäosasto, joka aloittaisi ensi vuonna.",
+          "date": "2025-11-07T15:21:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011612884.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tanska kieltää sosiaalisen median nuorilta",
+      "mainCategories": [
+        "Tanska",
+        "Ikärajat",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Internet | Tanska aikoo kieltää sosiaalisen median alle 15-vuotiailta",
+          "content": "Pääministeri Mette Frederiksen kertoi somekieltoaikeista lokakuussa.",
+          "date": "2025-11-07T16:15:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011613120.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tanska kieltää sosiaalisen median alle 15-vuotiailta",
+          "content": "",
+          "date": "2025-11-07T15:06:54.000Z",
+          "categories": [
+            "sosiaalinen media",
+            "tanska",
+            "ikärajat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192832?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Henkilöauton kuljettaja kuoli onnettomuudessa",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Tieliikennekuolemat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Henkilöauton kuljettaja kuoli törmättyään rekkaan Rantasalmella",
+          "content": "Poliisi selvitti tapahtuma­paikalla muun muassa jälkien avulla, että henkilöauto oli ollut törmäyshetkellä väärällä ajokaistalla.",
+          "date": "2025-11-07T16:13:33.000Z",
+          "categories": [
+            "onnettomuudet",
+            "tieliikennekuolemat",
+            "liikenneonnettomuudet",
+            "rantasalmi",
+            "etelä-savo",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192838?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies kuoli törmättyään rekkaan",
+          "content": "Onnettomuus tapahtui perjantaina kello 9.30 aikaan Rantasalmentiellä.",
+          "date": "2025-11-07T15:54:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011613089.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hyvinvointi­alueet karsivat sosiaali- ja terveyspalveluista",
+      "mainCategories": [
+        "Hyvinvointialueet",
+        "Kotimaa",
+        "Työntekijät"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tutkija: Hyvinvointi­alueet säästävät pikku­asioista, ja se kertoo siitä, että keinot ovat loppumassa",
+          "content": "Nyt olisi hyvä hetki käydä koko maata koskeva keskustelu siitä, millä tasolla ja laajuudella sosiaali- ja terveyspalvelut halutaan Suomessa taata, arvioi tutkija.",
+          "date": "2025-11-07T16:10:39.000Z",
+          "categories": [
+            "hyvinvointialueet",
+            "sosiaali- ja terveyspalvelut",
+            "työntekijät",
+            "tampereen yliopisto",
+            "terveyspalvelut",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192713?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuuma vesi 10 senttiä, jälkiruoat pois – hyvinvointi­alueet karsivat nyt aivan kaikesta",
+          "content": "Hyvinvointi­alueet raapivat tällä hetkellä säästöjä aivan kaikesta. Kysyimme, onko kaikkein pienimmilläkin säästöillä oikeasti väliä.",
+          "date": "2025-11-07T12:23:35.000Z",
+          "categories": [
+            "hyvinvointialueet",
+            "säästöt",
+            "säästäminen",
+            "talous",
+            "talousvaikeudet",
+            "terveydenhoito",
+            "pohjois-savon hyvinvointialue",
+            "pohjanmaan hyvinvointialue",
+            "kotimaa",
+            "pohjanmaa",
+            "etelä-pohjanmaa",
+            "uusimaa",
+            "pohjois-savo",
+            "lappi",
+            "keski-suomi"
+          ],
+          "link": "https://yle.fi/a/74-20191573?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Teboil ajaa alas toimintojaan kriisin vuoksi",
       "mainCategories": [
         "Talous",
         "Suomi",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -948,6 +1468,18 @@
           "link": "https://www.hs.fi/suomi/art-2000011611475.html"
         },
         {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HS: Teboil alkanut ajaa toimintojaan alas",
+          "content": "Asemille ei ole enää luvassa polttoainetäydennyksiä, kun säiliöt tyhjenevät.",
+          "date": "2025-11-07T11:25:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011611913.html"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -960,16 +1492,16 @@
           "link": "https://www.hs.fi/talous/art-2000011611574.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Teboil-kauppiaiden puheenjohtaja: \"Huonolta vaikuttaa\"",
-          "content": "Gunvor perui ostotarjouksensa Lukoilin ulkomaan toiminnoista. Se tuli Teboil-kauppiaille yllätyksenä.",
-          "date": "2025-11-07T06:23:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Teboil-yrittäjä sulkee aseman, jota hänen perheensä on pyörittänyt jo yli 40 vuotta",
+          "content": "Teboilin asemien tankit tyhjenevät, koska uutta polttoainetta ei ole tulossa. ",
+          "date": "2025-11-07T08:50:25.000Z",
           "categories": [
-            "taloussanomat"
+            "talous"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011610653.html"
+          "link": "https://yle.fi/a/74-20192718?origin=rss"
         }
       ]
     },
@@ -1007,11 +1539,13 @@
       ]
     },
     {
-      "mainTitle": "Meri-Lapin sosiaali- ja terveyspalvelut uhattuina",
+      "mainTitle": "Meri-Lapin sosiaali- ja terveyspalveluiden puolustus",
       "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Mielenosoitukset",
+        "Hyvinvointialueet"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/eduskunta/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1036,6 +1570,22 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011611442.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lappilaiset osoittavat mieltään Eduskuntatalolla sote-palveluiden puolesta",
+          "content": "",
+          "date": "2025-11-07T00:24:08.000Z",
+          "categories": [
+            "mielenosoitukset",
+            "kaisa juuso",
+            "hyvinvointialueet",
+            "länsi-pohjan sairaanhoitopiiri",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20192668?origin=rss"
         }
       ]
     },
@@ -1069,14 +1619,76 @@
       ]
     },
     {
-      "mainTitle": "Timo R. Stewart sai uhkailuja ja solvauksia",
+      "mainTitle": "Anneli Auerin tapaus herättää huolta",
       "mainCategories": [
-        "Politiikka",
-        "Tutkimus",
-        "Konfliktit"
+        "Kotimaa",
+        "Rikokset",
+        "Oikeudenkäynnit"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Anneli Auer toivoo Onnettomuus­tutkinta­keskuksen selvittävän, ovatko viranomaiset kohdelleet häntä kaltoin – Otkes vastaa",
+          "content": "Seksuaalirikoksista syytetyt Anneli Auer ja Jens Ihle toivovat, että heihin liittyvistä viranomaistoimista tehtäisiin puolueeton tutkinta.",
+          "date": "2025-11-07T13:36:51.000Z",
+          "categories": [
+            "rikokset",
+            "anneli auer",
+            "oikeudenkäynnit",
+            "onnettomuustutkintakeskus",
+            "oikeus",
+            "oikeusministeriö",
+            "turvallisuustutkinta",
+            "varsinais-suomi",
+            "turku",
+            "varsinais-suomen käräjäoikeus",
+            "seksuaalirikokset",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192698?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yhdysvaltalainen asiantuntija tyrmää Minna Joki-Erkkilän näkemyksen Anneli Auerin lapsista",
+          "content": "Anneli Auerin puolustuksen hankkima asiantuntija katsoo, että gynekologi tutki lapsia ennakkoasenteellisesti. ”Olen hyvin huolissani”, hän sanoo.",
+          "date": "2025-11-06T19:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011608125.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Timo R. Stewart Vuoden tieteentekijä 2025",
+      "mainCategories": [
+        "Kotimaa",
+        "Palkinnot",
+        "Tutkijat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suorapuheinen Gazan sodan kommentoija Timo R. Stewart on palkittu Vuoden tieteentekijänä",
+          "content": "Stewart kertoo, että vihapostin lähettäjät ovat yrittäneet vaientaa hänet.",
+          "date": "2025-11-07T12:45:05.000Z",
+          "categories": [
+            "palkinnot",
+            "timo r. stewart",
+            "tutkijat",
+            "tiede",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192750?origin=rss"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -1119,7 +1731,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/alkoholi/2.jpg",
+      "imageUrl": "/images/alkoholi/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1148,9 +1760,46 @@
       ]
     },
     {
+      "mainTitle": "Perussuomalaiset kyseenalaistaa Suomen ilmastotavoitteet",
+      "mainCategories": [
+        "Politiikka",
+        "Ilmasto"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS:n tiedot | Perussuomalaiset yrittää poistaa Suomen ilmastotavoitteen, hallituksella nelituntinen kokous",
+          "content": "Perussuomalaiset yrittää muuttaa Suomen ilmastotavoitetta ja lykätä ilmastostrategian valmistumista, HS:lle kerrotaan.",
+          "date": "2025-11-07T12:04:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011611562.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Perussuomalaiset haluaa luopua Suomen ilmastotavoitteesta – Jani Mäkelältä suorat sanat: ”Täysin epärealistista”",
+          "content": "Hallituspuolueet kiistelevät Suomen ilmastotavoitteista. Perussuomalaisten ja kokoomuksen linjat ovat täysin päinvastaiset.",
+          "date": "2025-11-06T20:50:39.000Z",
+          "categories": [
+            "ilmasto",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20192662?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "EU tiukentaa venäläisten viisumisääntöjä",
       "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Venäjä",
+        "Viisumit"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1167,6 +1816,21 @@
           "link": "https://www.hs.fi/politiikka/art-2000011611968.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "EU tiukentaa venäläisten viisumin­saantia: monikerta­viisumeita ei enää myönnetä",
+          "content": "",
+          "date": "2025-11-07T12:01:57.000Z",
+          "categories": [
+            "euroopan unioni",
+            "venäjä",
+            "viisumit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192783?origin=rss"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1181,7 +1845,49 @@
       ]
     },
     {
-      "mainTitle": "Timo Vornanen oikeudenkäynnissä ampuma-aserikoksista",
+      "mainTitle": "Ruotsissa 70 000 yhteyttä rikollisjengeihin",
+      "mainCategories": [
+        "Ruotsi",
+        "Jengiväkivalta",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ruotsi | Poliisi: Lähes 70 000 ihmisellä yhteyksiä rikollis­jengeihin",
+          "content": "Ruotsin poliisin mukaan yli 67 500 ihmistä kuuluu rikollisjengeihin vähintään yhteyksiensä kautta. Arvio kasvoi tuhansilla.",
+          "date": "2025-11-07T12:01:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011611271.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ruotsissa 67 500 rikollisjengeihin liittyvää ihmistä – vakavimmat väkivallanteot vähentyneet",
+          "content": "Tukholman alueella on ollut suuri murha-aalto, mutta pahin vaihe vaikuttaisi olevan ohi.",
+          "date": "2025-11-07T09:04:02.000Z",
+          "categories": [
+            "ruotsi",
+            "jengiväkivalta",
+            "ulkomaat",
+            "väkivaltarikokset",
+            "jengit",
+            "rikokset",
+            "järjestäytynyt rikollisuus",
+            "tukholma"
+          ],
+          "link": "https://yle.fi/a/74-20192728?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Timo Vornanen oikeuden edessä ampuma-aserikoksista",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1214,12 +1920,53 @@
       ]
     },
     {
-      "mainTitle": "Lavrovin ja Putinin välit heikkenevät",
+      "mainTitle": "Venäjä kykenee rajoitettuun hyökkäykseen Natoon",
+      "mainCategories": [
+        "Venäjä",
+        "Nato",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Saksalaiskenraali: Venäjä valmis pieneen hyökkäykseen Nato-maata vastaan vaikka heti",
+          "content": "Länsi pystyy estämään Venäjän hyökkäyshalut omalla toiminnallaan.",
+          "date": "2025-11-07T11:19:20.000Z",
+          "categories": [
+            "venäjä",
+            "nato",
+            "ulkomaat",
+            "saksa",
+            "puolustuspolitiikka",
+            "venäjän ilmavoimat",
+            "puolustusvoimat"
+          ],
+          "link": "https://yle.fi/a/74-20192771?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puolustus | Venäjä voisi hyökätä Naton alueelle laajasti jo vuonna 2029, arvioi saksalainen kenraali­luutnantti",
+          "content": "Venäjällä on jo nyt sotilaalliset edellytykset tehdä rajoitettu hyökkäys Naton alueelle, arvioi Saksan asevoimien johtoon kuuluva Alexander Sollfrank.",
+          "date": "2025-11-07T10:55:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011611424.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lavrovin ja Putinin suhteet heikkenevät",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1256,6 +2003,45 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011610427.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "SEO houkuttelee Teboil-yrittäjiä vaihtamaan verkostoa",
+      "mainCategories": [
+        "Talous",
+        "Teboil",
+        "Seo"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle: SEO ottanut yhteyttä lähes kaikkiin Teboil-yrittäjiin",
+          "content": "Osa Teboil-yrittäjistä on ottanut itse yhteyttä SEO:on.",
+          "date": "2025-11-07T11:13:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011611770.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "SEO taivuttelee nyt Teboil-yrittäjiä leiriinsä: ”Toisen epäonni on toisen onni”",
+          "content": "Huoltoasemaverkosto pyrkii saamaan Teboil-yrittäjiä vaihtamaan SEO:n leiriin.",
+          "date": "2025-11-07T10:41:18.000Z",
+          "categories": [
+            "talous",
+            "teboil",
+            "seo",
+            "huoltoasema",
+            "polttoaineet"
+          ],
+          "link": "https://yle.fi/a/74-20192759?origin=rss"
         }
       ]
     },
@@ -1300,7 +2086,7 @@
       ]
     },
     {
-      "mainTitle": "Mielenosoittajat keskeyttivät rakennustyöt Rovaniemellä",
+      "mainTitle": "Mielenosoitus keskeytti rakennustyöt Rovaniemellä",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -1362,9 +2148,11 @@
       ]
     },
     {
-      "mainTitle": "Suurpetohavainnot lähes kaksinkertaistuneet tänä vuonna",
+      "mainTitle": "Suurpetohavainnot lähes kaksinkertaistuneet Suomessa",
       "mainCategories": [
-        "Kotimaa"
+        "Kotimaa",
+        "Luonto",
+        "Suurpedot"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1389,17 +2177,32 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011610801.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kansalaisten karhu- ja susihavainnot miltei kaksinkertaistuneet ",
+          "content": "Suurpetohavaintoja on lähes 70 prosenttia enemmän kuin vuosi sitten.",
+          "date": "2025-11-07T06:33:01.000Z",
+          "categories": [
+            "luonto",
+            "suomen riistakeskus",
+            "suurpedot",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192685?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Gunvor peruu Lukoil-ostotarjouksensa",
+      "mainTitle": "Gunvor perui Lukoil-ostotarjouksensa",
       "mainCategories": [
         "Talous",
         "Taloussanomat",
-        "Pakotteet"
+        "Energia"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1412,6 +2215,18 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011610507.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Teboil-kauppiaiden puheenjohtaja: \"Huonolta vaikuttaa\"",
+          "content": "Gunvor perui ostotarjouksensa Lukoilin ulkomaan toiminnoista. Se tuli Teboil-kauppiaille yllätyksenä.",
+          "date": "2025-11-07T06:23:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011610653.html"
         },
         {
           "publisherId": "is",
@@ -1451,6 +2266,61 @@
           "date": "2025-11-07T05:10:22.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/gunvor-peruu-teboil-kaupat-yhdysvallat-kremlin-sat/12386181?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Gunvor vetäytyi Lukoil-kaupasta",
+          "content": "Gunvor-konserni perui ostotarjouksensa Yhdysvaltain valtiovarainministeriön kritisoitua kauppaa.",
+          "date": "2025-11-07T00:16:26.000Z",
+          "categories": [
+            "energia",
+            "lukoil",
+            "gunvor group",
+            "venäjän pakotteet",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20192667?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Droonihavainnot keskeyttävät lentoaseman toiminnan",
+      "mainCategories": [
+        "Turvallisuus",
+        "Lentoliikenne",
+        "Belgia"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Liègen lentoaseman toiminta keskeytettiin jälleen droonihavainnon takia",
+          "content": "Kyseessä on toinen kerta tällä viikolla, kun Liègen lentoasemalla on tehty droonihavainto.",
+          "date": "2025-11-07T06:57:46.000Z",
+          "categories": [
+            "turvallisuus",
+            "lentoliikenne",
+            "belgia",
+            "lentokentät",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192695?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lentoliikenne | Brysselin lentokentällä drooniepäily, ainakin yksi lento ohjattiin muualle",
+          "content": "Aiemmat droonihavainnot olivat ministerin mukaan koordinoitu hyökkäys.",
+          "date": "2025-11-06T21:54:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011610464.html"
         }
       ]
     },
@@ -1460,7 +2330,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1489,11 +2359,52 @@
       ]
     },
     {
-      "mainTitle": "Asuntokaupat vilkastuivat lokakuussa 2025",
+      "mainTitle": "Sudanin RSF-joukot suostuivat aselepoon",
       "mainCategories": [
-        "Talous"
+        "Ulkomaat",
+        "Sodat",
+        "Sudan"
       ],
       "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sudanin RSF-joukot ilmoittivat suostuvansa aselepoon",
+          "content": "Sudanin sisällissota on jatkunut jo yli kaksi vuotta.",
+          "date": "2025-11-07T06:39:24.000Z",
+          "categories": [
+            "sodat",
+            "sudan",
+            "aseelliset konfliktit",
+            "aselepo",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20192689?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Sudanin RSF-joukot ilmoittivat suostuvansa ase­lepoon",
+          "content": "Välittäjät vaativat Sudaniin kolme kuukautta kestävää humanitaarista aselepoa.",
+          "date": "2025-11-06T20:58:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011610459.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Asuntokauppa vilkastui lokakuussa 2025",
+      "mainCategories": [
+        "Talous",
+        "Asuminen",
+        "Kiinteistökauppa"
+      ],
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1504,6 +2415,32 @@
           "date": "2025-11-07T06:26:55.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/suomessa-tehtiin-lokakuussa-eniten-asuntokauppoja/12386088?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asuntokauppa räjähti kasvuun – ”Yön uhka on karkotettu pois”",
+          "content": "Asuntokaupan kasvu on positiivinen signaali koko Suomen kansantaloudelle ja työllisyydelle, sanoo Kiinteistönvälitysalan Keskusliiton toimitusjohtaja.",
+          "date": "2025-11-07T03:00:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011609911.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Asuntokauppa vilkastui lokakuussa: paras tilanne kolmeen vuoteen",
+          "content": "Kiinteistövälitysalan keskusliiton mukaan teollisuuden suurhankkeet piristävät asuntomarkkinoita. Myynneissä oltiin tällä tasolla viimeksi syyskuussa 2022.",
+          "date": "2025-11-06T23:30:36.000Z",
+          "categories": [
+            "asuminen",
+            "kiinteistökauppa",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20192656?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -1520,12 +2457,52 @@
       ]
     },
     {
+      "mainTitle": "Sanna Marin kirjakiertueella Yhdysvalloissa",
+      "mainCategories": [
+        "Politiikka",
+        "Yhdysvallat",
+        "Kulttuuri"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sanna Marin mainosti kirjaansa Hillary Clintonin kotikylässä, mutta vältteli Trumpin kritisointia",
+          "content": "Sanna Marin järjesti kirjatilaisuuden New Yorkin kupeessa pienessä Chappaquan kylässä. Nykyisestä työstään Tony Blair -instituutissa hän ei halunnut juuri puhua.",
+          "date": "2025-11-07T04:30:36.000Z",
+          "categories": [
+            "yhdysvallat",
+            "sanna marin",
+            "politiikka",
+            "hillary clinton",
+            "kulttuuri",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20191915?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yhdysvaltalaiset kysyivät Sanna Marinilta kysymyksen Trumpista – vastaus johti suuriin suosion­osoituksiin",
+          "content": "IS tapasi Sanna Marinin tämän kirjakiertueella Yhdysvalloissa.",
+          "date": "2025-11-06T18:00:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011608016.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Trump sopi lihavuuslääkkeiden hintojen alennuksesta",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1559,7 +2536,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1627,7 +2604,7 @@
         "Maailma",
         "Politiikka"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1658,41 +2635,47 @@
       ]
     },
     {
-      "mainTitle": "Droonihavainnot häiritsevät Brysselin lentoliikennettä",
+      "mainTitle": "Stubbin puhe ilmastohuippukokouksessa Brasiliassa",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Politiikka",
+        "Ilmasto",
+        "Brasilia"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/stubb/2.jpg",
       "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Lentoliikenne | Brysselin lentokentällä drooniepäily, ainakin yksi lento ohjattiin muualle",
-          "content": "Aiemmat droonihavainnot olivat ministerin mukaan koordinoitu hyökkäys.",
-          "date": "2025-11-06T21:54:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011610464.html"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Brysselin lentokentällä drooni­epäily – ainakin yksi lento ohjattiin muualle",
-          "content": "Aiemmat droonihavainnot olivat ministerin mukaan koordinoitu hyökkäys.",
-          "date": "2025-11-06T21:51:00.000Z",
+          "title": "Stubb päätti puheensa huippu­kokouksessa suomalaiseen sanontaan ja ilmoitti: ”Olen eri mieltä”",
+          "content": "Tasavallan presidentti on ilmastohuippukokouksessa Brasiliassa.",
+          "date": "2025-11-06T19:14:00.000Z",
           "categories": [
-            "ulkomaat"
+            "politiikka"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011610490.html"
+          "link": "https://www.is.fi/politiikka/art-2000011609916.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Stubbilla on taito, jonka vuoksi teräsjätti Outokumpu halusi tavata presidentin juuri ennen Brasilian ilmastokokousta",
+          "content": "YK:n ilmastokokous alkaa maailman maiden johtajien puheilla Brasilian Sao Paolossa. Suomalaisyritykset vetosivat Stubbiin, että tämä käyttäisi omia suhteitaan ilmastopolitiikan edistämiseen.",
+          "date": "2025-11-06T09:47:54.000Z",
+          "categories": [
+            "ilmasto",
+            "yk:n ilmastokokous",
+            "brasilia",
+            "terästeollisuus",
+            "presidentit",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20191492?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Göteborgin lentokentällä droonihavainto sulki kentän",
+      "mainTitle": "Göteborgin lentokentällä droonihavainto keskeytti lennot",
       "mainCategories": [
         "Maailma"
       ],
@@ -1723,11 +2706,12 @@
       ]
     },
     {
-      "mainTitle": "Metso vähentää 43 työpaikkaa Suomessa",
+      "mainTitle": "Metso irtisanoo 43 työntekijää Suomessa",
       "mainCategories": [
-        "Talous"
+        "Talous",
+        "Taloussanomat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1750,6 +2734,30 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011610082.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Metso irtisanoo 43 työn­tekijää Suomesta",
+          "content": "Irtisanottavien määrä pieneni muutosneuvottelujen aikana.",
+          "date": "2025-11-06T16:29:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011610083.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Metso irtisanoo 43 työntekijää Suomessa",
+          "content": "",
+          "date": "2025-11-06T15:31:30.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20192632?origin=rss"
         }
       ]
     },
@@ -1787,7 +2795,7 @@
       ]
     },
     {
-      "mainTitle": "Pääministeri Orpo puolusti hallituksen ilmastotoimia",
+      "mainTitle": "Orpo vakuutti hallituksen ilmastositoumuksista",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1814,40 +2822,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011610005.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Metso ja Fida irtisanovat työntekijöitä Suomessa",
-      "mainCategories": [
-        "Suomi",
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Metso irtisanoo 43 työn­tekijää Suomesta",
-          "content": "Irtisanottavien määrä pieneni muutosneuvottelujen aikana.",
-          "date": "2025-11-06T16:29:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011610083.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Irtisanomiset | Fida aloittaa muutos­neuvottelut",
-          "content": "Alustavan arvion mukaan toimenpiteet voivat johtaa noin 25 henkilön irtisanomiseen.",
-          "date": "2025-11-06T13:13:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011609555.html"
         }
       ]
     },
@@ -1886,6 +2860,44 @@
       ]
     },
     {
+      "mainTitle": "Doordashin osakekurssi laski rajusti",
+      "mainCategories": [
+        "Elinkeinoelämä",
+        "Doordash",
+        "Wolt"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Woltin emoyhtiön Doordashin osake laski rajusti",
+          "content": "Analyytikot sanoivat osakekurssin laskun johtuvan yhtiön investointisuunnitelmasta.",
+          "date": "2025-11-06T15:30:13.000Z",
+          "categories": [
+            "elinkeinoelämä",
+            "doordash",
+            "wolt",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20192631?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Woltin emoyhtiön kurssi rysähti",
+          "content": "Doordashin pörssikurssi kävi jyrkässä syöksyssä osavuosikatsauksen jälkeen.",
+          "date": "2025-11-06T10:08:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011608437.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Semperin lasten lasagne vedetty myynnistä",
       "mainCategories": [
         "Suomi"
@@ -1913,6 +2925,123 @@
           "date": "2025-11-06T14:56:29.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/era-semperin-lasten-lasagnea-vedetaan-pois-markkin/12385742?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Orpo harkitsee jääväämistä päätöksenteosta",
+      "mainCategories": [
+        "Politiikka",
+        "Länsirata",
+        "Uusimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Jättihanke | Orpo peruuttaa: En ehkä jääkään pois Tunnin juna -päätöksenteosta",
+          "content": "Pääministeri Petteri Orpo kertoo yhä jääväävänsä itsensä ministerivaliokunnassa mutta harkitsevansa vielä Turun valtuustoa.",
+          "date": "2025-11-06T13:53:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011609543.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS: Purra, Adlercreutz ja ehkä Orpokin aikovat jäävätä itsensä länsiradan käsittelystä – oikeusoppinut: Perusteetonta",
+          "content": "Käsien peseminen poliittisesti ei ole peruste itsensä jääväämiselle päätöksenteossa, emeritusprofessori Olli Mäenpää sanoo HS:n haastattelussa. Orpo sanoo miettivänsä vielä.",
+          "date": "2025-11-06T09:48:01.000Z",
+          "categories": [
+            "politiikka",
+            "länsirata",
+            "uusimaa",
+            "turku",
+            "kirkkonummi",
+            "talouspoliittinen ministerivaliokunta",
+            "liikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192502?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hallitus esittää kovempia rangaistuksia terrorismista",
+      "mainCategories": [
+        "Politiikka",
+        "Lainsäädäntö",
+        "Rikollisuus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Terrorismirikoksista voi vastaisuudessa napsahtaa kovempi rangaistus – näitä muutoksia hallitus esittää",
+          "content": "Hallitus haluaa muun muassa laajentaa terrorismirikosten rangaistavuuden alaa ja koventaa rangaistuksia.",
+          "date": "2025-11-06T12:50:12.000Z",
+          "categories": [
+            "politiikka",
+            "lainsäädäntö",
+            "rikollisuus",
+            "terrorismi",
+            "terrorisminvastainen toiminta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192555?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Hallitus esittää ankarampia rangaistuksia tietyistä terrorismirikoksista",
+          "content": "Asialista: https://valtioneuvosto.fi/paatokset/asialista?sessionId=243",
+          "date": "2025-11-06T12:25:25.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/hallitus-esittaa-ankarampia-rangaistuksia-tietyist/12385391?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ministeri Ikonen selvittää diagnoositietojen vaihtelua",
+      "mainCategories": [
+        "Politiikka",
+        "Terveydenhoito",
+        "Hyvinvointialueet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ministeri Ikonen teettää selvityksen hyvinvointialueiden diagnoositiedoista",
+          "content": "Kunta- ja alueministeri Anna-Kaisa Ikonen (kok.) asettaa selvityshenkilön tutkimaan hyvinvointialueiden diagnoosikäytäntöjen vaihtelua.",
+          "date": "2025-11-06T12:45:07.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/ministeri-ikonen-teettaa-selvityksen-hyvinvointial/12385431?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kunta- ja alueministeri teettää selvityksen hyvinvointialueiden diagnoositiedoista",
+          "content": "",
+          "date": "2025-11-06T11:16:54.000Z",
+          "categories": [
+            "politiikka",
+            "terveydenhoito",
+            "hyvinvointialueet",
+            "lääketieteellinen diagnoosi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20192543?origin=rss"
         }
       ]
     },
