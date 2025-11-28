@@ -1,28 +1,75 @@
 {
-  "timestamp": "2025-11-28T17:38:45.243Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "kaleva",
-        "publisher": "Kaleva",
-        "publisherUrl": "kaleva.fi",
-        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2025-11-28T18:23:21.010Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Andri Jermak eroaa korruptioskandaalin vuoksi",
+      "mainTitle": "Ukrainalaismies oikeudessa Nord Stream -räjäytyksestä",
+      "mainCategories": [
+        "Turvallisuus",
+        "Saksa",
+        "Italia"
+      ],
+      "imageUrl": "/images/saksa/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Media: Nord Stream -räjäytyksistä epäilty ukrainalaismies oli ensi kertaa oikeudessa Saksassa",
+          "content": "",
+          "date": "2025-11-28T18:14:14.000Z",
+          "categories": [
+            "turvallisuus",
+            "nord stream ag",
+            "itämeren kaasuputki",
+            "saksa",
+            "italia",
+            "epäillyt",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196894?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Italia | Nord Stream -kaasu­putken räjäytyksestä epäilty luovutettiin Saksaan",
+          "content": "Saksan viranomaisten mukaan mies joutuu oikeuden eteen perjantaina Karlsruhessa.",
+          "date": "2025-11-27T16:40:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011655966.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Zelenskyin kansliapäällikkö erosi korruptioskandaalista",
       "mainCategories": [
         "Ulkomaat",
         "Ukraina",
         "Korruptio"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Zelenskyin oikea käsi kaatui korruptioon",
+          "content": "Presidentti Volodymyr Zelenskyi suojeli kansliapäällikkö Andi Jermakia viimeiseen asti, kirjoittaa ulkomaantoimittaja Antti Kuronen.",
+          "date": "2025-11-28T18:12:47.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "ukraina",
+            "volodymyr zelenskyi",
+            "korruptio",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196709?origin=rss"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -49,6 +96,16 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6837141"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Korruptiovyyhdin varjostama Zelenskyin kansliapäällikkö erosi – viranomaiset tekivät etsinnän kotiin",
+          "content": "Ukrainan presidentin Volodymyr Zelenskyin kansliapäällikkö Andri Jermak on eronnut, kertoo presidentti muun muassa ukrainalaislehti Kyiv Independentin ja uutistoimisto AFP:n mukaan.",
+          "date": "2025-11-28T16:50:26.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/korruptiovyyhdin-varjostama-zelenskyin-kansliapaal/12423921?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -111,11 +168,170 @@
       ]
     },
     {
+      "mainTitle": "Airbus kutsuu A320-koneet päivitykseen",
+      "mainCategories": [
+        "Liikenne",
+        "Airbus",
+        "Lentoliikenne"
+      ],
+      "imageUrl": "/images/finnair/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lentäminen | Airbus kutsuu A320-koneita päivitykseen, myös Finnair lentää kone­tyypillä",
+          "content": "Päivitys koskee jopa 6 000:a konetta. A320-perheen koneissa on havaittu, että voimakas auringonsäteily voi vioittaa kriittisiä järjestelmätietoja.",
+          "date": "2025-11-28T18:08:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011658728.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Airbus tekee suuren A320-koneiden takaisinvedon – Finnairilla ei vielä virallista tietoa asiasta",
+          "content": "Airbusin mukaan taustalla on viimeaikainen tapaus, joka paljasti, että voimakas auringonsäteily voi vioittaa lennonohjauksen kannalta kriittisiä tietoja.",
+          "date": "2025-11-28T17:52:01.000Z",
+          "categories": [
+            "liikenne",
+            "airbus",
+            "lentoliikenne",
+            "lentokoneet",
+            "finnair",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196892?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Etyjin ministerineuvoston kokous Wienissä joulukuussa",
+      "mainCategories": [
+        "Politiikka",
+        "Ulkomaat",
+        "Ukraina"
+      ],
+      "imageUrl": "/images/venäjä/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Elina Valtonen kutsui venäläiset kokoukseen",
+          "content": "Etyjin ministerineuvoston kokous järjestetään 4.–5. joulukuuta Itävallassa. Suomen ulkoministeri Elina Valtonen (kok) emännöi ensi viikolla Euroopan turvallisuus- ja yhteistyöjärjestö Etyjin ministerineuvoston kokouksen Wienissä. Etyjin puheenjohtajamaana Suomi on velvollinen kutsumaan kokoukseen kaikki järjestön 57 jäsenvaltiota, joten myös Venäjä on saanut Valtosen kutsun.",
+          "date": "2025-11-28T18:00:21.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/8a019f6a-adb6-49a6-b7bc-baab8d6ad764"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Palaavatko suomalais­yritykset Venäjälle? EK:n Jyri Häkämies vastasi HAAPALA-TV:ssä",
+          "content": "Jos Ukrainaan syntyy rauha, millainen uhka Venäjä on Suomelle jatkossa? Jatkuuko kylmä kausi ikuisesti, vai avautuuko kauppa? EK:n toimitusjohtaja Jyri Häkämies vastasi HAAPALA-TV:ssä.",
+          "date": "2025-11-27T09:35:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011653043.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ykkösaamun vieraana  Elina Valtonen – mitä haluaisit kysyä ulko­ministe­riltä?",
+          "content": "EU-maiden ulkoministerit ovat kokoustaneet viime viikkoina tiiviisti Ukrainan rauhan­suunnitelmasta. Saako EU puumerkkinä suurten maiden suunnitelmiin? Tästä keskustellaan lauantain Ykkösaamussa.",
+          "date": "2025-11-27T09:10:43.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "elina valtonen",
+            "kansainvälinen politiikka",
+            "ukraina",
+            "venäjä",
+            "ykkösaamu",
+            "politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196474?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lukijoiden kysymykset | ”Miksi Euroopasta on tullut tällainen halvatun vätys?” – Asian­tuntija vastaa suomalaisten kysymyksiin",
+          "content": "Kysyimme lukijoilta, mikä pohdituttaa käynnissä olevissa Ukrainan rauhan­neuvotteluissa. Euroopan asema Yhdysvaltojen ja Venäjän välissä ja Suomen tilanne mietityttävät monia.",
+          "date": "2025-11-26T18:55:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011650859.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Orbán ja Putin keskustelivat energiasta Moskovassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Unkari",
+        "Venäjä"
+      ],
+      "imageUrl": "/images/venäjä/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Unkari | Orbán tapasi taas Putinin ja korosti Venäjän tärkeyttä energian­toimittajana",
+          "content": "Venäjän presidentti Vladimir Putin kiitteli tapaamisessa Unkarin pääministerin Viktor Orbánin ”tasapainoista kantaa” suhteessa Ukrainaan.",
+          "date": "2025-11-28T17:42:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011658699.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Orban Moskovassa tänään",
+          "content": "Unkarin pääministerin ja Venäjän itsevaltaisen presidentin on määrä keskustella energiasta.",
+          "date": "2025-11-28T07:35:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011656568.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Unkarin Orbán tapaa Putinin Moskovassa",
+          "content": "",
+          "date": "2025-11-28T05:23:30.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "unkari",
+            "venäjä",
+            "victor orban",
+            "vladimir putin",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196677?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Ukraina ja USA neuvottelevat rauhasta pian",
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -144,7 +360,111 @@
       ]
     },
     {
-      "mainTitle": "Frameryn osakkeet ylimerkitty ja myynnissä",
+      "mainTitle": "Nunnat saavat jäädä luostariinsa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Kansalaistoiminta",
+        "Nunnat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Nunnat karkasivat vanhainkodista ja valtasivat luostarin – Nyt tuli käänne",
+          "content": "Sisaret Bernadette, 88, Regina, 86, ja Rita, 82, elävät jälleen, missä haluavat. Kolme kahdeksankymppistä itävaltalaista nunnaa karkasi syyskuussa vanhainkodista ja valtasivat takaisin vanhan luostarinsa, uutisoi muiden muassa Iltalehti kolmisen kuukautta sitten. Nyt tarina on saanut uusia käänteitä.",
+          "date": "2025-11-28T17:19:56.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/d945ba3e-d4bd-4e77-ba86-8e7c222e71d5"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Onnellinen loppu: vanhainkodista karanneet nunnat saavat jäädä luostariinsa",
+          "content": "Nunnat ovat viettäneet suuren osan elämästään Schloss Goldensteinissa.",
+          "date": "2025-11-28T14:43:29.000Z",
+          "categories": [
+            "kansalaistoiminta",
+            "nunnat",
+            "luostarit",
+            "katolinen kirkko",
+            "suljetut yhteisöt",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196870?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "USA aikoo tunnustaa Venäjän miehityksen Ukrainassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Venäjä",
+        "Ukraina"
+      ],
+      "imageUrl": "/images/venäjä/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Telegraph: Yhdysvallat aikeissa tunnustaa Venäjän hallitsevan miehittämiään alueita Ukrainassa",
+          "content": "Yhdysvaltain erityislähettilään Steve Witkoffin on kerrottu vierailevan Venäjällä ensi viikolla rauhanneuvottelujen vuoksi.",
+          "date": "2025-11-28T16:54:28.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/telegraph-yhdysvallat-aikeissa-tunnustaa-venajan-h/12424000?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan kohtalo | Lehti­väite: USA valmis tunnustamaan Ukrainalta miehitettyjä alueita venäläisiksi",
+          "content": "The Telegraphin lähteen mukaan Euroopan kannalla ei ole merkitystä asiassa.",
+          "date": "2025-11-28T13:50:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011658212.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "The Telegraph: USA aikoo tunnustaa miehitetyn alueen venäläiseksi",
+          "content": "Sekä Ukraina että sen eurooppalaiset liittolaiset ovat vastustaneet suunnitelmia antaa Venäjälle hallinta miehitetyistä alueista.",
+          "date": "2025-11-28T13:21:25.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "venäjä",
+            "ukraina",
+            "yhdysvallat",
+            "donald trump",
+            "vladimir putin",
+            "the telegraph",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196847?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asiantuntija: Tämä piirre Trumpissa on ongelma Venäjälle",
+          "content": "Onko Ukrainan sodan kummallinen rauhanprosessi pattitilanteessa Venäjän takia?",
+          "date": "2025-11-27T13:59:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011653578.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Frameryn osakkeet ylimerkitty ja myynti keskeytetty",
       "mainCategories": [
         "Talous"
       ],
@@ -317,7 +637,7 @@
       ]
     },
     {
-      "mainTitle": "Ratinan joukkopuukotuksesta syytetty mielentilatutkimukseen",
+      "mainTitle": "Ratinan joukkopuukottaja mielentilatutkimukseen",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -385,13 +705,13 @@
       ]
     },
     {
-      "mainTitle": "Hallitus esitteli uuden kasvupaketin 2025",
+      "mainTitle": "Hallitus esitteli uuden kasvupaketin tänään",
       "mainCategories": [
         "Politiikka",
         "Talouskasvu",
         "Talous"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -431,7 +751,7 @@
       ]
     },
     {
-      "mainTitle": "Lasse Lehtonen myöhästeli Kelan tilaisuuksista",
+      "mainTitle": "Kelan pääjohtaja myöhästeli tilaisuuksista jälleen",
       "mainCategories": [
         "Politiikka",
         "Kansaneläkelaitos",
@@ -479,7 +799,7 @@
       ]
     },
     {
-      "mainTitle": "Tampereen lukiouudistus herättää opiskelijoiden huolta",
+      "mainTitle": "Tampereen lukioiden yt-neuvottelut herättävät kritiikkiä",
       "mainCategories": [
         "Koulutus",
         "Tampere",
@@ -561,7 +881,7 @@
       ]
     },
     {
-      "mainTitle": "Kansalliskaartilaisiin kohdistunut ampuminen Washingtonissa",
+      "mainTitle": "Kansalliskaartin ampumisessa yksi kuollut, toinen kriittinen",
       "mainCategories": [
         "Ampumavälikohtaukset",
         "Ulkomaat",
@@ -655,7 +975,7 @@
       ]
     },
     {
-      "mainTitle": "Keiteleeltä löytyi laaja kannabisfarmi",
+      "mainTitle": "Keiteleeltä löytyi suuri kannabisfarmi",
       "mainCategories": [
         "Kotimaa",
         "Huumausainerikokset",
@@ -743,7 +1063,7 @@
         "Belgia",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -794,7 +1114,7 @@
         "Shoppailu",
         "Kuluttajat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -991,7 +1311,7 @@
       ]
     },
     {
-      "mainTitle": "Hyvinvointialueet saavat lisäaikaa talouden tasapainotukseen",
+      "mainTitle": "Hyvinvointialueet saavat lisäaikaa talouden tasapainottamiseen",
       "mainCategories": [
         "Politiikka",
         "Hyvinvointialueet",
@@ -1040,61 +1360,7 @@
       ]
     },
     {
-      "mainTitle": "USA valmis tunnustamaan Venäjän miehitykset Ukrainassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Ukraina"
-      ],
-      "imageUrl": "/images/ukraina/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan kohtalo | Lehti­väite: USA valmis tunnustamaan Ukrainalta miehitettyjä alueita venäläisiksi",
-          "content": "The Telegraphin lähteen mukaan Euroopan kannalla ei ole merkitystä asiassa.",
-          "date": "2025-11-28T13:50:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011658212.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "The Telegraph: USA aikoo tunnustaa miehitetyn alueen venäläiseksi",
-          "content": "Sekä Ukraina että sen eurooppalaiset liittolaiset ovat vastustaneet suunnitelmia antaa Venäjälle hallinta miehitetyistä alueista.",
-          "date": "2025-11-28T13:21:25.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "ukraina",
-            "yhdysvallat",
-            "donald trump",
-            "vladimir putin",
-            "the telegraph",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20196847?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Asiantuntija: Tämä piirre Trumpissa on ongelma Venäjälle",
-          "content": "Onko Ukrainan sodan kummallinen rauhanprosessi pattitilanteessa Venäjän takia?",
-          "date": "2025-11-27T13:59:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011653578.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomi sulkee kolme suurlähetystöä 2026",
+      "mainTitle": "Suomi sulkee kolme suurlähetystöä",
       "mainCategories": [
         "Politiikka",
         "Ulkopolitiikka",
@@ -1309,7 +1575,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1339,7 +1605,7 @@
       ]
     },
     {
-      "mainTitle": "Tuulivoimaloiden etäisyys asutuksesta 1,25 km",
+      "mainTitle": "Hallitus päätti tuulivoimaloiden etäisyydestä",
       "mainCategories": [
         "Politiikka",
         "Kotimaa",
@@ -1499,6 +1765,16 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011653837.html"
         },
         {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Hongkongissa usean tornitalon tulipalon uhriluku nousi yli 40:een – satoja ihmisiä yhä kateissa",
+          "content": "Hongkongissa usean tornitalon tulipalossa on kuollut ainakin 44.",
+          "date": "2025-11-27T06:57:51.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/hongkongissa-usean-tornitalon-tulipalon-uhriluku-n/12419863?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1551,7 +1827,7 @@
       ]
     },
     {
-      "mainTitle": "YK kehottaa Yhdysvaltoja hyväksymään turvapaikanhakijat",
+      "mainTitle": "YK kehottaa Yhdysvaltoja turvapaikanhakijoille",
       "mainCategories": [
         "Maahanmuutto",
         "Yhdysvallat",
@@ -1600,7 +1876,7 @@
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1755,7 +2031,7 @@
       ]
     },
     {
-      "mainTitle": "Osakkeet kasvattivat työeläkevaroja 7 miljardia euroa",
+      "mainTitle": "Osakkeet kasvattivat työeläkevaroja 7 miljardia",
       "mainCategories": [
         "Talous",
         "Työeläkevakuutusyhtiö",
@@ -1793,47 +2069,7 @@
       ]
     },
     {
-      "mainTitle": "Orbán ja Putin keskustelevat energiasta Moskovassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Unkari",
-        "Venäjä"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Orban Moskovassa tänään",
-          "content": "Unkarin pääministerin ja Venäjän itsevaltaisen presidentin on määrä keskustella energiasta.",
-          "date": "2025-11-28T07:35:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011656568.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Unkarin Orbán tapaa Putinin Moskovassa",
-          "content": "",
-          "date": "2025-11-28T05:23:30.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "unkari",
-            "venäjä",
-            "victor orban",
-            "vladimir putin",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20196677?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nopeat tietovisat ajankohtaisista aiheista",
+      "mainTitle": "Nopeita tietovisoja ajankohtaisista aiheista",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -1882,7 +2118,7 @@
         "Valtiontalous",
         "Tilastokeskus"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1995,7 +2231,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2135,7 +2371,7 @@
       ]
     },
     {
-      "mainTitle": "Venäjän avaruuslento kyky heikentynyt",
+      "mainTitle": "Venäjä menetti avaruuslennot Sojuz-vian vuoksi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2165,78 +2401,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011656189.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ranskalaisvirkamies syytetty seksuaalisesta ahdistelusta",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/ranska/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Naiset menivät työ­haastatteluun Ranskan kulttuuri­ministeriöön – virkamies teki puistattavia tekoja",
-          "content": "Yli 200 naista syyttää, että ranskalainen virkamies juotti heille salaa nesteenpoistolääkettä kesken työhaastattelun.",
-          "date": "2025-11-27T20:29:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011654706.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ranska | Virkamies yritti saada naiset pissaamaan edessään ”työ­haastatteluissa”",
-          "content": "Yksi uhreista kertoo olleensa ulkona ikuisuuden kestäneessä työ­haastattelussa. Hän oli saanut mieheltä kahvin seassa nesteenpoisto­lääkettä, ja lopulta hänen oli pakko kyykistyä pissalle miehen eteen.",
-          "date": "2025-11-26T18:15:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011653062.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ranska palauttaa vapaaehtoisen asepalveluksen",
-      "mainCategories": [
-        "Ranska",
-        "Asepalvelus",
-        "Armeija"
-      ],
-      "imageUrl": "/images/ranska/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ranskalaisilla epäilyjä vapaa­ehtoisesta ase­palveluksesta: ”Se on virhe, palveluksen pitäisi olla pakollinen”",
-          "content": "Ranska käynnistää ensi vuonna nuorille vapaa­ehtoisen ase­palveluksen. Ensivaiheessa tähdätään kymmeneen­tuhanteen palveluksen suorittajaan vuodessa.",
-          "date": "2025-11-27T19:59:26.000Z",
-          "categories": [
-            "ranska",
-            "asepalvelus",
-            "armeija",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20196653?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ranska | Ranska palauttaa vapaa­ehtoisen ase­palveluksen",
-          "content": "Ensi kesänä tavoitteena on värvätä 3 000 vapaaehtoista ja vuoteen 2035 mennessä 50 000 vapaaehtoista.",
-          "date": "2025-11-27T17:04:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011656016.html"
         }
       ]
     },
@@ -2375,62 +2539,7 @@
       ]
     },
     {
-      "mainTitle": "Suomalaisyritysten paluu Venäjälle kysymysmerkki",
-      "mainCategories": [
-        "Politiikka",
-        "Ukraina",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/1.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Palaavatko suomalais­yritykset Venäjälle? EK:n Jyri Häkämies vastasi HAAPALA-TV:ssä",
-          "content": "Jos Ukrainaan syntyy rauha, millainen uhka Venäjä on Suomelle jatkossa? Jatkuuko kylmä kausi ikuisesti, vai avautuuko kauppa? EK:n toimitusjohtaja Jyri Häkämies vastasi HAAPALA-TV:ssä.",
-          "date": "2025-11-27T09:35:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011653043.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ykkösaamun vieraana  Elina Valtonen – mitä haluaisit kysyä ulko­ministe­riltä?",
-          "content": "EU-maiden ulkoministerit ovat kokoustaneet viime viikkoina tiiviisti Ukrainan rauhan­suunnitelmasta. Saako EU puumerkkinä suurten maiden suunnitelmiin? Tästä keskustellaan lauantain Ykkösaamussa.",
-          "date": "2025-11-27T09:10:43.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "elina valtonen",
-            "kansainvälinen politiikka",
-            "ukraina",
-            "venäjä",
-            "ykkösaamu",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20196474?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Lukijoiden kysymykset | ”Miksi Euroopasta on tullut tällainen halvatun vätys?” – Asian­tuntija vastaa suomalaisten kysymyksiin",
-          "content": "Kysyimme lukijoilta, mikä pohdituttaa käynnissä olevissa Ukrainan rauhan­neuvotteluissa. Euroopan asema Yhdysvaltojen ja Venäjän välissä ja Suomen tilanne mietityttävät monia.",
-          "date": "2025-11-26T18:55:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011650859.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi sotilasta ammuttiin Valkoisen talon lähellä",
+      "mainTitle": "Kaksi kansalliskaartin sotilasta ammuttiin Washingtonissa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2464,13 +2573,13 @@
       ]
     },
     {
-      "mainTitle": "Kuluttajien luottamus parani, teollisuus heikkeni",
+      "mainTitle": "Kuluttajien luottamus parani, teollisuuden heikkeni",
       "mainCategories": [
         "Talous",
         "Kuluttajat",
         "Teollisuus"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
