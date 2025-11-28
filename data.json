@@ -1,18 +1,40 @@
 {
-  "timestamp": "2025-11-28T17:14:17.644Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-11-28T17:38:45.243Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Zelenskyin kansliapäällikkö Andri Jermak erosi",
+      "mainTitle": "Andri Jermak eroaa korruptioskandaalin vuoksi",
       "mainCategories": [
+        "Ulkomaat",
         "Ukraina",
-        "Korruptio",
-        "Ulkomaat"
+        "Korruptio"
       ],
       "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Andri Jermak eroaa tehtävästään – tällainen on skandaalin keskelle ajautunut Zelenskyin kanslia­päällikkö",
+          "content": "Andri Jermakilla on ollut paljon valtaa Ukrainan hallinnossa.",
+          "date": "2025-11-28T17:22:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011658598.html"
+        },
         {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
@@ -27,16 +49,6 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6837141"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Korruptiovyyhdin varjostama Zelenskyin kansliapäällikkö erosi – viranomaiset tekivät etsinnän kotiin",
-          "content": "Ukrainan presidentin Volodymyr Zelenskyin kansliapäällikkö Andri Jermak on eronnut, kertoo presidentti muun muassa ukrainalaislehti Kyiv Independentin ja uutistoimisto AFP:n mukaan.",
-          "date": "2025-11-28T16:50:26.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/korruptiovyyhdin-varjostama-zelenskyin-kansliapaal/12423921?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -99,66 +111,35 @@
       ]
     },
     {
-      "mainTitle": "USA aikoo tunnustaa Venäjän miehityksen Ukrainassa",
+      "mainTitle": "Ukraina ja USA neuvottelevat rauhasta pian",
       "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Ukraina"
+        "Maailma"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Telegraph: Yhdysvallat aikeissa tunnustaa Venäjän hallitsevan miehittämiään alueita Ukrainassa",
-          "content": "Yhdysvaltain erityislähettilään Steve Witkoffin on kerrottu vierailevan Venäjällä ensi viikolla rauhanneuvottelujen vuoksi.",
-          "date": "2025-11-28T16:54:28.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/telegraph-yhdysvallat-aikeissa-tunnustaa-venajan-h/12424000?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Zelenskyi: Ukraina ja USA neuvottelevat pian",
+          "content": "Putinin mukaan Yhdysvaltain ja Ukrainan luonnostelema rauhansuunnitelma voi ”toimia pohjana tulevaisuuden sopimuksille”.",
+          "date": "2025-11-28T17:20:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011653576.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ukrainan kohtalo | Lehti­väite: USA valmis tunnustamaan Ukrainalta miehitettyjä alueita venäläisiksi",
-          "content": "The Telegraphin lähteen mukaan Euroopan kannalla ei ole merkitystä asiassa.",
-          "date": "2025-11-28T13:50:00.000Z",
+          "title": "Tämä tiedetään nyt | Ukraina ja Yhdysvallat neuvottelevat “pian” – rauhan työstämisessä edessä uusi neuvottelu­kierros",
+          "content": "Venäjä jatkaa sotatoimiaan eikä suostu myönnytyksiin.",
+          "date": "2025-11-27T15:49:00.000Z",
           "categories": [
             "maailma"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011658212.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "The Telegraph: USA aikoo tunnustaa miehitetyn alueen venäläiseksi",
-          "content": "Sekä Ukraina että sen eurooppalaiset liittolaiset ovat vastustaneet suunnitelmia antaa Venäjälle hallinta miehitetyistä alueista.",
-          "date": "2025-11-28T13:21:25.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "ukraina",
-            "yhdysvallat",
-            "donald trump",
-            "vladimir putin",
-            "the telegraph",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20196847?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Asiantuntija: Tämä piirre Trumpissa on ongelma Venäjälle",
-          "content": "Onko Ukrainan sodan kummallinen rauhanprosessi pattitilanteessa Venäjän takia?",
-          "date": "2025-11-27T13:59:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011653578.html"
+          "link": "https://www.hs.fi/maailma/art-2000011655172.html"
         }
       ]
     },
@@ -208,7 +189,7 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Taksit | Mittari­pakko ei vähennä harmaata taloutta yhtään, sanoo Boltin maa­johtaja",
+          "title": "Taksit | Boltin maajohtajan mukaan mittari­pakon perusteet ontuvat",
           "content": "Tiedot kyydeistä ovat kulkeneet verottajalle ja viranomaisille tähän asti alustayrityksiltä. ”Perinteinen” taksiyrittäjä pitää uudistusta hyvänä.",
           "date": "2025-11-28T15:59:00.000Z",
           "categories": [
@@ -404,13 +385,13 @@
       ]
     },
     {
-      "mainTitle": "Hallitus esitteli uuden kasvupaketin tänään",
+      "mainTitle": "Hallitus esitteli uuden kasvupaketin 2025",
       "mainCategories": [
         "Politiikka",
         "Talouskasvu",
         "Talous"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -450,7 +431,7 @@
       ]
     },
     {
-      "mainTitle": "Kelan pääjohtaja Lasse Lehtonen myöhästeli tilaisuuksista",
+      "mainTitle": "Lasse Lehtonen myöhästeli Kelan tilaisuuksista",
       "mainCategories": [
         "Politiikka",
         "Kansaneläkelaitos",
@@ -498,7 +479,7 @@
       ]
     },
     {
-      "mainTitle": "Tampereen lukioiden yt-neuvottelut herättävät kritiikkiä",
+      "mainTitle": "Tampereen lukiouudistus herättää opiskelijoiden huolta",
       "mainCategories": [
         "Koulutus",
         "Tampere",
@@ -580,13 +561,13 @@
       ]
     },
     {
-      "mainTitle": "Kansalliskaartilaisia ammuttiin Washingtonissa, yksi kuollut",
+      "mainTitle": "Kansalliskaartilaisiin kohdistunut ampuminen Washingtonissa",
       "mainCategories": [
         "Ampumavälikohtaukset",
         "Ulkomaat",
         "Rikosepäilyt"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -641,7 +622,7 @@
       ]
     },
     {
-      "mainTitle": "Hallitukselta miljardin euron kasvupaketti",
+      "mainTitle": "Hallitukselta miljardipaketti investointeihin Suomessa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -762,7 +743,7 @@
         "Belgia",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -813,7 +794,7 @@
         "Shoppailu",
         "Kuluttajat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1059,7 +1040,61 @@
       ]
     },
     {
-      "mainTitle": "Suomi sulkee kolme suurlähetystöä 2026 mennessä",
+      "mainTitle": "USA valmis tunnustamaan Venäjän miehitykset Ukrainassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Venäjä",
+        "Ukraina"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan kohtalo | Lehti­väite: USA valmis tunnustamaan Ukrainalta miehitettyjä alueita venäläisiksi",
+          "content": "The Telegraphin lähteen mukaan Euroopan kannalla ei ole merkitystä asiassa.",
+          "date": "2025-11-28T13:50:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011658212.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "The Telegraph: USA aikoo tunnustaa miehitetyn alueen venäläiseksi",
+          "content": "Sekä Ukraina että sen eurooppalaiset liittolaiset ovat vastustaneet suunnitelmia antaa Venäjälle hallinta miehitetyistä alueista.",
+          "date": "2025-11-28T13:21:25.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "venäjä",
+            "ukraina",
+            "yhdysvallat",
+            "donald trump",
+            "vladimir putin",
+            "the telegraph",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196847?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asiantuntija: Tämä piirre Trumpissa on ongelma Venäjälle",
+          "content": "Onko Ukrainan sodan kummallinen rauhanprosessi pattitilanteessa Venäjän takia?",
+          "date": "2025-11-27T13:59:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011653578.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomi sulkee kolme suurlähetystöä 2026",
       "mainCategories": [
         "Politiikka",
         "Ulkopolitiikka",
@@ -1078,18 +1113,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011658178.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Suomi sulkee suur­lähetystöjä",
-          "content": "Ulkoministeriö sulkee kolme Suomen suurlähetystöä.  Ulkoministeriö uudistaa edustustoverkostoaan. Ulkoministeriö on muuttamassa Suomen toimipisteitä ulkomailla. Ensimmäiseksi ministeriö avasi uuden pääkonsulaatin Houstoniin Yhdysvalloissa.",
-          "date": "2025-11-28T13:40:23.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/66b3662a-53fc-4472-baf4-872a786e8a00"
         },
         {
           "publisherId": "yle",
@@ -1130,7 +1153,7 @@
         "Maanpuolustus",
         "Kotimaa"
       ],
-      "imageUrl": "/images/nato/2.jpg",
+      "imageUrl": "/images/nato/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1225,7 +1248,7 @@
       ]
     },
     {
-      "mainTitle": "Suklaakavalus ja tukien väärinkäyttö tutkinnassa",
+      "mainTitle": "Suklaakavalta ja tukien väärinkäyttö tutkinnassa",
       "mainCategories": [
         "Kotimaa",
         "Poliisi",
@@ -1286,7 +1309,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1316,13 +1339,13 @@
       ]
     },
     {
-      "mainTitle": "Hallitus päätti tuulivoimaloiden etäisyydestä",
+      "mainTitle": "Tuulivoimaloiden etäisyys asutuksesta 1,25 km",
       "mainCategories": [
         "Politiikka",
         "Kotimaa",
         "Energia"
       ],
-      "imageUrl": "/images/tuulivoima/1.jpg",
+      "imageUrl": "/images/tuulivoima/2.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1476,16 +1499,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011653837.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Hongkongissa usean tornitalon tulipalon uhriluku nousi yli 40:een – satoja ihmisiä yhä kateissa",
-          "content": "Hongkongissa usean tornitalon tulipalossa on kuollut ainakin 44.",
-          "date": "2025-11-27T06:57:51.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hongkongissa-usean-tornitalon-tulipalon-uhriluku-n/12419863?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1544,7 +1557,7 @@
         "Yhdysvallat",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1587,7 +1600,7 @@
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1620,7 +1633,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1869,7 +1882,7 @@
         "Valtiontalous",
         "Tilastokeskus"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1982,7 +1995,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2069,39 +2082,6 @@
       ]
     },
     {
-      "mainTitle": "Ukraina ja Yhdysvallat neuvottelevat rauhasta",
-      "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "/images/ukraina/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Putin: Taistelut lakkaavat, kun Ukraina vetäytyy",
-          "content": "Putinin mukaan Yhdysvaltain ja Ukrainan luonnostelema rauhansuunnitelma voi toimia pohjana tulevaisuuden sopimuksille.",
-          "date": "2025-11-28T02:21:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011653576.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään nyt | Ukraina ja Yhdysvallat neuvottelevat “pian” – rauhan työstämisessä edessä uusi neuvottelu­kierros",
-          "content": "Venäjä jatkaa sotatoimiaan eikä suostu myönnytyksiin.",
-          "date": "2025-11-27T15:49:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011655172.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Guinea-Bissaussa presidentti syrjäytettiin vallankaappauksessa",
       "mainCategories": [
         "Maailma",
@@ -2155,7 +2135,7 @@
       ]
     },
     {
-      "mainTitle": "Venäjä menetti avaruuslennot Sojuz-vian vuoksi",
+      "mainTitle": "Venäjän avaruuslento kyky heikentynyt",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2189,12 +2169,12 @@
       ]
     },
     {
-      "mainTitle": "Ranskalaisvirkamies syytetty naisten häirinnästä",
+      "mainTitle": "Ranskalaisvirkamies syytetty seksuaalisesta ahdistelusta",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ranska/3.jpg",
+      "imageUrl": "/images/ranska/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2229,7 +2209,7 @@
         "Asepalvelus",
         "Armeija"
       ],
-      "imageUrl": "/images/ranska/1.jpg",
+      "imageUrl": "/images/ranska/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2401,7 +2381,7 @@
         "Ukraina",
         "Venäjä"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2450,7 +2430,7 @@
       ]
     },
     {
-      "mainTitle": "Kaksi kansalliskaartin sotilasta ammuttiin Washingtonissa",
+      "mainTitle": "Kaksi sotilasta ammuttiin Valkoisen talon lähellä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2484,13 +2464,13 @@
       ]
     },
     {
-      "mainTitle": "Kuluttajien luottamus parani, teollisuuden heikkeni",
+      "mainTitle": "Kuluttajien luottamus parani, teollisuus heikkeni",
       "mainCategories": [
         "Talous",
         "Kuluttajat",
         "Teollisuus"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
