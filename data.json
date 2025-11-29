@@ -1,8 +1,18 @@
 {
-  "timestamp": "2025-11-29T10:41:00.068Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-11-29T11:13:06.615Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
       "mainTitle": "Suomi tukee Ukrainan väestönsuojarakentamista",
@@ -61,7 +71,7 @@
       ]
     },
     {
-      "mainTitle": "Saksan laitaoikeiston nuoriso-osaston vastustaminen kiihtyy",
+      "mainTitle": "Saksassa mielenosoituksia laitaoikeiston nuorisopuoluetta vastaan",
       "mainCategories": [
         "Kansalaistoiminta",
         "Ulkomaat",
@@ -74,7 +84,7 @@
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
           "title": "Saksan laitaoikeiston nuoriso-osaston vastustajat ottivat rajusti yhteen poliisin kanssa",
-          "content": "Mielenosoittajat muun muassa estivät liikennettä häiritäkseen Saksan laitaoikeiston uuden nuoriso-osaston perustamiskokousta.",
+          "content": "Mielenosoittajat muun muassa estivät liikennettä häiritäkseen Saksan laitaoikeiston uuden nuoriso-osaston perustamiskokousta. Kokouksen aloitus viivästyi, kertoo AfD-puolue.",
           "date": "2025-11-29T10:04:31.000Z",
           "categories": [
             "kansalaistoiminta",
@@ -106,13 +116,13 @@
       ]
     },
     {
-      "mainTitle": "Jermak erosi Ukrainan korruptioskandaalissa",
+      "mainTitle": "Jermak eroaa Ukrainan korruptioskandaalissa",
       "mainCategories": [
         "Ukraina",
         "Korruptio",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -170,16 +180,6 @@
           "link": "https://www.ts.fi/uutiset/6837141"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Korruptiovyyhdin varjostama Zelenskyin kansliapäällikkö erosi – viranomaiset tekivät etsinnän kotiin",
-          "content": "Ukrainan presidentin Volodymyr Zelenskyin kansliapäällikkö Andri Jermak on eronnut, kertoo presidentti muun muassa ukrainalaislehti Kyiv Independentin ja uutistoimisto AFP:n mukaan.",
-          "date": "2025-11-28T16:50:26.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/korruptiovyyhdin-varjostama-zelenskyin-kansliapaal/12423921?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -228,7 +228,7 @@
         "Ulkomaat",
         "Mustameri"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "mainTitle": "15-vuotias poika törmäsi autoon mönkijällä",
+      "mainTitle": "15-vuotias poika yritti paeta poliisia",
       "mainCategories": [
         "Rikosepäilyt",
         "Oulu",
@@ -459,11 +459,11 @@
       ]
     },
     {
-      "mainTitle": "Finnairin lennot jatkuvat normaalisti päivitysten jälkeen",
+      "mainTitle": "Finnair sai ohjelmistopäivitykset valmiiksi",
       "mainCategories": [
-        "Lentokoneet",
         "Finnair",
-        "Ulkomaat"
+        "Lentokoneet",
+        "Liikenne"
       ],
       "imageUrl": "/images/finnair/1.jpg",
       "relatedNews": [
@@ -516,42 +516,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20196915?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Lentoliikenne | Airbusin ohjelmisto­päivitys vaikuttaa lentoihin maailman­laajuisesti",
-          "content": "Osassa lentoyhtiöitä vältytään perumisilta kokonaan, toisilla häiriöitä on enemmän. Kolumbialainen Avianca lakkasi jopa myymästä lippuja lähipäiville.",
-          "date": "2025-11-29T04:16:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011658944.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ainakin yksi lento­yhtiö lopetti lipun­myynnin Airbusin ohjelmisto­päivitysten takia",
-          "content": "Osa yhtiöistä pääsee helpommalla.",
-          "date": "2025-11-29T02:06:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011658949.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin Airbus-koneiden ongelmat vaikuttavat Finnairin asiakkaisiin",
-          "content": "Finnairin mukaan yhtiön laivastossa olevista Airbus-kapearunkokoneista ohjelmistopäivitys tarvitaan 12 koneeseen.",
-          "date": "2025-11-28T19:55:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011658735.html"
         },
         {
           "publisherId": "is",
@@ -622,18 +586,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011659073.html"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Riikka Purra sai lapsuudenkodissaan niin huonon esimerkin rahankäytöstä, että alkoi itse toimia täysin toisin",
-          "content": "Riikka Purra tekee melkein kaikki ostoksensa verkossa. Työssään valtiovarainiministeri kertoo ajattelevansa rahaa jatkuvasti, mutta omassa arjessaan hän ei ehdi vertailla hintoja niin paljon kuin olisi hänelle luontaista.",
-          "date": "2025-11-29T05:00:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/b8f40395-5286-4165-b78c-c3da0a6d68b8"
         },
         {
           "publisherId": "is",
@@ -772,10 +724,11 @@
       ]
     },
     {
-      "mainTitle": "Hongkongin tulipalon turvallisuusongelmat paljastuivat",
+      "mainTitle": "Hongkongin tornitalopalossa kuoli lähes 130 ihmistä",
       "mainCategories": [
         "Ulkomaat",
-        "Onnettomuudet"
+        "Onnettomuudet",
+        "Rikosepäilyt"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -783,7 +736,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Asukkaat olivat valittaneet Hongkongin tulipalotalon turvallisuudesta lähes vuoden ajan ennen paloa",
+          "title": "Asukkaat olivat valittaneet Hongkongin tulipalotalojen turvallisuudesta lähes vuoden ajan ennen paloa",
           "content": "Kiinan hallinto pyrkii reagoimaan ripeästi Hongkongissa tapahtuneeseen tornitalopaloon hillitäkseen Kiina-vastaista protestointia.",
           "date": "2025-11-29T07:28:20.000Z",
           "categories": [
@@ -803,6 +756,23 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011658784.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hongkongissa lisää kiinniottoja tornitalopalon tutkinnassa",
+          "content": "Viranomaisten mukaan lähes 130 ihmistä on kuollut palossa. ",
+          "date": "2025-11-28T12:24:57.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "hongkong",
+            "poliisi",
+            "pidättäminen",
+            "tulipalot",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20196820?origin=rss"
         },
         {
           "publisherId": "is",
@@ -925,7 +895,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -966,13 +936,47 @@
       ]
     },
     {
+      "mainTitle": "Airbusin ohjelmistopäivitys häiritsee lentoliikennettä",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lentoliikenne | Airbusin ohjelmisto­päivitys vaikuttaa lentoihin maailman­laajuisesti",
+          "content": "Osassa lentoyhtiöitä vältytään perumisilta kokonaan, toisilla häiriöitä on enemmän. Kolumbialainen Avianca lakkasi jopa myymästä lippuja lähipäiville.",
+          "date": "2025-11-29T04:16:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011658944.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ainakin yksi lento­yhtiö lopetti lipun­myynnin Airbusin ohjelmisto­päivitysten takia",
+          "content": "Osa yhtiöistä pääsee helpommalla.",
+          "date": "2025-11-29T02:06:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011658949.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Yhdysvallat keskeyttää turvapaikkapäätökset",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Maahanmuuttovirasto"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1126,7 +1130,7 @@
       ]
     },
     {
-      "mainTitle": "Sähköt palautettu Jyväskylässä katkoksen jälkeen",
+      "mainTitle": "Sähköt palautettu Jyväskylässä yli 4 000 kotitaloudelle",
       "mainCategories": [
         "Kotimaa",
         "Energia",
@@ -1216,7 +1220,7 @@
       ]
     },
     {
-      "mainTitle": "Ratinan puukottaja mielentilatutkimukseen",
+      "mainTitle": "Ratinan puukottaja mielenkiintotutkimukseen",
       "mainCategories": [
         "Suomi"
       ],
@@ -1303,13 +1307,13 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat harkitsee Venäjän alueita Ukrainassa",
+      "mainTitle": "USA harkitsee tunnustavansa Venäjän alueet Ukrainassa",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
         "Venäjä"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1323,16 +1327,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011656608.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Telegraph: Yhdysvallat aikeissa tunnustaa Venäjän hallitsevan miehittämiään alueita Ukrainassa",
-          "content": "Yhdysvaltain erityislähettilään Steve Witkoffin on kerrottu vierailevan Venäjällä ensi viikolla rauhanneuvottelujen vuoksi.",
-          "date": "2025-11-28T16:54:28.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/telegraph-yhdysvallat-aikeissa-tunnustaa-venajan-h/12424000?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -1426,7 +1420,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1488,7 +1482,7 @@
       ]
     },
     {
-      "mainTitle": "Kaikkiin takseihin pakolliset taksamittarit",
+      "mainTitle": "Taksamittarit pakollisiksi kaikkiin takseihin",
       "mainCategories": [
         "Taksit",
         "Kotimaa",
@@ -1582,7 +1576,7 @@
         "Talouskasvu",
         "Talous"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1671,7 +1665,7 @@
         "Belgia",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1716,7 +1710,7 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvalloissa alennusmyynnit vähentyneet tänä vuonna",
+      "mainTitle": "Yhdysvaltalaiset kuluttajat ostavat vähemmän alennuksilla",
       "mainCategories": [
         "Talous",
         "Alennusmyynti",
@@ -1879,10 +1873,10 @@
       ]
     },
     {
-      "mainTitle": "Hongkongin tulipalon uhriluku noussut 130:een",
+      "mainTitle": "Hongkongin tulipalon uhriluku lähes 130",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Maailma"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1897,6 +1891,18 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011656246.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uhriluku kasvaa: Jo lähes 130 kuollut Hongkongin palossa",
+          "content": "Tulipalo syttyi kerrostaloalueella, jossa on noin kaksituhatta asuntoa.",
+          "date": "2025-11-28T07:24:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011656556.html"
         },
         {
           "publisherId": "is",
@@ -1966,68 +1972,12 @@
       ]
     },
     {
-      "mainTitle": "Nato-joukot harjoittelevat Suomessa miinantorjuntaa",
-      "mainCategories": [
-        "Nato",
-        "Maanpuolustus",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/nato/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nato-joukot opettelevat miinantorjuntaa Suomen saaristossa – ”Vaikein ympäristö, jossa olen harjoitellut”, sanoo upseeri",
-          "content": "Saaristomeri on kiinnostava harjoitus­ympäristö ulkomaisille Nato-joukoille. Naton pysyvä miinantorjunta­osasto SNMCMG1 osallistuu merivoimien Freezing Winds 25 -harjoitukseen.",
-          "date": "2025-11-28T13:05:45.000Z",
-          "categories": [
-            "nato",
-            "merivoimat",
-            "puolustusvoimat",
-            "sotaharjoitukset",
-            "maanpuolustus",
-            "suomenlahti",
-            "saaristomeri",
-            "baltia",
-            "janne huusko",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20196421?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomen Ilmavoimilla taistelutapa, josta muut Nato-maat hakevat oppia – komentaja: ”Toimintamme on ainutlaatuista”",
-          "content": "Ilmavoimat harjoittelee Mikkelin lähellä lentotoimintaa maantiellä. Maantie­tukikohtien käytöllä varaudutaan lentokaluston hajauttamiseen eri puolille Suomea kriisi­tilanteissa.",
-          "date": "2025-11-27T10:56:02.000Z",
-          "categories": [
-            "maanpuolustus",
-            "ilmavoimat",
-            "nato",
-            "lentokoneiden varalaskupaikka",
-            "liikenne",
-            "hornet-hävittäjät",
-            "tieverkot",
-            "lentokoneet",
-            "väylävirasto",
-            "sotilastukikohdat",
-            "kotimaa",
-            "etelä-savo"
-          ],
-          "link": "https://yle.fi/a/74-20195021?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Trump tiukentaa maahanmuuttopolitiikkaansa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2057,13 +2007,13 @@
       ]
     },
     {
-      "mainTitle": "Tuulivoimaloiden etäisyys asutuksesta 1,25 km",
+      "mainTitle": "Hallitus päätti tuulivoimaloiden etäisyydestä",
       "mainCategories": [
         "Politiikka",
         "Kotimaa",
         "Energia"
       ],
-      "imageUrl": "/images/tuulivoima/1.jpg",
+      "imageUrl": "/images/tuulivoima/2.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -2135,58 +2085,6 @@
       ]
     },
     {
-      "mainTitle": "Hongkongin kerrostalopalon uhrit kasvavat",
-      "mainCategories": [
-        "Ulkomaat",
-        "Rikosepäilyt",
-        "Hongkong"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hongkongissa lisää kiinniottoja tornitalopalon tutkinnassa",
-          "content": "Viranomaisten mukaan lähes 130 ihmistä on kuollut palossa. ",
-          "date": "2025-11-28T12:24:57.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "hongkong",
-            "poliisi",
-            "pidättäminen",
-            "tulipalot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20196820?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uhriluku kasvaa: Jo lähes 130 kuollut Hongkongin palossa",
-          "content": "Tulipalo syttyi kerrostaloalueella, jossa on noin kaksituhatta asuntoa.",
-          "date": "2025-11-28T07:24:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011656556.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tulipalo | Kerrostalo­palossa jo 83 kuollutta – grafiikat näyttävät, miten Hong­kongin tulipalo eteni",
-          "content": "Rakennustelineitä ja styroksia epäillään syypäiksi palon leviämiseen valtavaksi suur­onnettomuudeksi, jossa ainakin 83 ihmistä on kuollut.",
-          "date": "2025-11-27T16:33:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011653573.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Sudenmetsästyslaki saa heikon arvion",
       "mainCategories": [
         "Politiikka",
@@ -2225,11 +2123,11 @@
       ]
     },
     {
-      "mainTitle": "Stubb peruutti Baltzarin arvonimen seksuaalirikoksen vuoksi",
+      "mainTitle": "Veijo Baltzarilta peruutettiin arvonimi",
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -2334,7 +2232,7 @@
       ]
     },
     {
-      "mainTitle": "Osakkeet kasvattivat työeläkevaroja 7 miljardia euroa",
+      "mainTitle": "Osakkeet kasvattivat työeläkevaroja 7 miljardia",
       "mainCategories": [
         "Talous",
         "Työeläkevakuutusyhtiö",
@@ -2427,7 +2325,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
