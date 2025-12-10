@@ -1,30 +1,230 @@
 {
-  "timestamp": "2025-12-10T13:34:46.937Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "hs",
-        "publisher": "Helsingin Sanomat",
-        "publisherUrl": "hs.fi",
-        "rssUrl": "https://www.hs.fi/rss/maailma.xml"
-      },
-      "reason": {
-        "errno": -104,
-        "code": "ECONNRESET",
-        "syscall": "read"
-      }
-    }
-  ],
+  "timestamp": "2025-12-10T14:19:14.137Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Kirjailija Sophie Kinsella on kuollut",
+      "mainCategories": [
+        "Kulttuuri",
+        "Kuolleet",
+        "Kuolema"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Kirjailija Sophie Kinsella on kuollut",
+          "content": "",
+          "date": "2025-12-10T14:07:57.000Z",
+          "categories": [
+            "kulttuuri"
+          ],
+          "link": "https://www.ts.fi/kulttuuri/6847540"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kirjailija Sophie Kinsella on kuollut",
+          "content": "Kinsella kertoi 18 kuukautta sitten sairastavansa aivosyöpää.",
+          "date": "2025-12-10T13:02:37.000Z",
+          "categories": [
+            "kuolleet",
+            "kuolema",
+            "kirjallisuus",
+            "kulttuuri",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20198994?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Nobelin rauhanpalkinto ja Venezuelan tilanne",
+      "mainCategories": [
+        "Palkinnot",
+        "Ulkomaat",
+        "Oslo"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nobelin rauhanpalkinnon vastaanotti palkitun tytär",
+          "content": "Nobel-komitean puheenjohtaja kehotti Venezuelan presidenttiä eroamaan.",
+          "date": "2025-12-10T13:58:09.000Z",
+          "categories": [
+            "palkinnot",
+            "nobelin rauhanpalkinto",
+            "ulkomaat",
+            "oslo",
+            "venezuela",
+            "nicolás maduro",
+            "norjan nobel-komitea"
+          ],
+          "link": "https://yle.fi/a/74-20199022?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nobelin rauhanpalkinnon voittaja tuleekin Osloon ",
+          "content": "Venezuelan opposition kärkihahmo María Corina Machado tulee kuin tuleekin Osloon, sanoo Norjan Nobel-instituutti. Palkintoseremoniaan hän ei osallistu.",
+          "date": "2025-12-10T06:16:17.000Z",
+          "categories": [
+            "palkinnot",
+            "venezuela",
+            "oslo",
+            "nobelin rauhanpalkinto",
+            "nobelin palkinnot",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20198872?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Jari Råmanista uusi eduskunnan oikeusasiamies",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Eduskunnan oikeusasiamiehen seuraaja selvisi",
+          "content": "Jari Råman toimii tällä hetkellä oikeusasiamiehen kanslian kansliapäällikkönä.",
+          "date": "2025-12-10T13:58:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011683247.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Eduskunta valitsi Jari Råmanin uudeksi eduskunnan oikeusasiamieheksi",
+          "content": "",
+          "date": "2025-12-10T13:36:34.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20199012?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Raumalla ja Lapissa rikoksia epäiltyjä miehiä kiinni",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Rauma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Puita poikki, maaliverkkoja hajalle, liikuntavälineitä rikki – oudosta ilkivalta-aallosta epäilty mies kiinni Raumalla",
+          "content": "Lounais-Suomen poliisi otti nelikymppisen miehen kiinni eilen. Häntä epäillään Raumalla puhuttaneesta vahingontekojen sarjasta.",
+          "date": "2025-12-10T13:51:36.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "rauma",
+            "poliisi",
+            "poliisitutkinta",
+            "ilkivalta",
+            "vahingonteko",
+            "kaaro, rauma",
+            "rauman seutukunta",
+            "lounais-suomen poliisilaitos",
+            "kotimaa",
+            "satakunta"
+          ],
+          "link": "https://yle.fi/a/74-20199019?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Rauman sarjasahaaja saatiin kiinni",
+          "content": "Poliisi epäilee neljäkymppistä miestä vahingonteoista.",
+          "date": "2025-12-10T13:44:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011683186.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Aura-auton kuljettaja löysi miehen henki­hieverissä tieltä – Kolmea epäillään rikoksista Lapissa",
+          "content": "Poliisi on vaiennut tapahtuneesta ja pyytää tutkintarauhaa. Lapin poliisi tiedottaa Tervolassa marraskuun lopussa tapahtuneesta väkivaltarikoksesta. Poliisin mukaan aura-auton kuljettaja ilmoitti hätäkeskukseen löytäneensä miehen makaamasta maassa Tervolassa perjantai-iltana 27. marraskuuta hieman ennen puolta yötä. Poliisipartiolle selvisi paikalla, että mies oli pahoinpidelty raa’asti ja jätetty tielle.",
+          "date": "2025-12-10T09:52:34.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/f8876ede-4c7b-40da-bbf5-553d89996419"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sazonov vaatii Tallinnan tunnelin käsittelyä",
+      "mainCategories": [
+        "Liikenne",
+        "Helsinki",
+        "Uusimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "HS: Sazonov haluaa tunnelin Helsingistä Tallinnaan",
+          "content": "Helsingin pormestari Daniel Sazonov vaatii HS:n haastattelussa, että Tallinnan tunneli otettaisiin uudelleen käsittelyyn. Tunnelin on arvioitu kustantavan 18–20 miljardia euroa. Helsingin pormestari Daniel Sazonov sanoo Helsingin Sanomien haastattelussa, että Tallinnan ja Helsingin välinen tunneli tulisi ottaa jälleen tarkastelun alle. Sazonov perustelee näkemystään sillä, ettei Suomen ole hyvä jäädä EU:n rautatieverkoston ulkopuolelle. Hänen mielestään Suomen tulisi hakea EU-rahaa sekä tunneliin että Länsirataan, joka yhdistäisi Helsingin Tukholmaan Tallinnan kautta.",
+          "date": "2025-12-10T13:33:33.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/807e30b9-761d-4841-80a3-88d65e4a72a5"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Helsingin eteläisten rantojen tulevaisuus ratkeaa tänään – valtuusto päättää satamatunnelista ",
+          "content": "Helsingin valtuusto päättää tänään kello 16.00 alkaen toteutuuko 300 miljoonaa euroa maksava tunneli Länsiväylältä Jätkäsaareen Länsisatamaan.  ",
+          "date": "2025-12-10T13:23:57.000Z",
+          "categories": [
+            "liikenne",
+            "helsinki",
+            "uusimaa",
+            "siltojen, tunnelien, sähkölinjojen ym. rakentaminen",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199006?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Ukrainan rauhansuunnitelmasta uutta tietoa",
       "mainCategories": [
         "Ulkomaat",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -106,135 +306,132 @@
       ]
     },
     {
-      "mainTitle": "Helsingin satamatunnelin päätös tänään",
+      "mainTitle": "Savonlinnan perhesurma: isä vangittu epäiltynä",
       "mainCategories": [
-        "Helsinki",
-        "Uusimaa",
-        "Kotimaa"
+        "Kotimaa",
+        "Suomi",
+        "Rikosepäilyt"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Helsingin eteläisten rantojen tulevaisuus ratkeaa tänään – valtuusto päättää satamatunnelista ",
-          "content": "Helsingin valtuusto päättää tänään kello 16.00 alkaen toteutuuko 300 miljoonaa euroa maksava tunneli Länsiväylältä Jätkäsaareen Länsisatamaan.  ",
-          "date": "2025-12-10T13:23:57.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kylmäävä tieto Savonlinnan perhesurmasta epäillystä isästä, 22 – lasten äiti harkitsi radikaalia tekoa",
+          "content": "Savonlinnassa tulipalossa surmansa saanut 20-vuotias äiti harkitsi lähestymiskiellon hakemista lastensa isälle jo pari vuotta sitten.",
+          "date": "2025-12-10T13:06:00.000Z",
           "categories": [
-            "liikenne",
-            "helsinki",
-            "uusimaa",
-            "siltojen, tunnelien, sähkölinjojen ym. rakentaminen",
             "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20199006?origin=rss"
+          "link": "https://www.is.fi/kotimaa/art-2000011682249.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Savonlinnan perhesurmasta epäilty lasten isä, 22, vangittiin",
+          "content": "Perhesurmasta epäilty mies vangittiin oikeudessa keskiviikkona.",
+          "date": "2025-12-10T08:59:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011681344.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Savonlinnan tulipalo | Perheensä polttamisesta epäilty 22-vuotias mies vangittiin",
+          "content": "Itsenäisyyspäivän aamuna tapahtuneessa tulipalossa kuoli kolme pientä lasta ja heidän äitinsä.",
+          "date": "2025-12-10T08:37:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011680102.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Helsingin satama: Laivojen siirto Länsisatamaan vaatii tunnelin – valtuusto päättää siitä tänään",
-          "content": "Sataman johdon mukaan laivat eivät liikahda pois Eteläsatamasta ennen tunnelin valmistumista.",
-          "date": "2025-12-10T08:06:43.000Z",
+          "title": "22-vuotias mies vangittiin epäiltynä Savonlinnan perhesurmasta – peitti kasvonsa oikeudessa",
+          "content": "Savonlinnassa itsenäisyys­päivänä tapahtuneessa tulipalossa kuoli nuori nainen ja kolme lasta. Poliisi epäilee paloa tahallaan sytytetyksi.",
+          "date": "2025-12-10T08:15:56.000Z",
           "categories": [
-            "merenkulku",
-            "helsingin satama",
-            "helsinki",
-            "helsingin satamatunneli",
-            "helsingin kaupunginvaltuusto",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20198736?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Elina Valtosen puhe herätti raivoa Venäjällä",
-      "mainCategories": [
-        "Politiikka",
-        "Venäjä",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/venäjä/1.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Venäjällä repesi raivo Elina Valtosen puheista – ”Eläimellistä\"",
-          "content": "Elina Valtosen haastattelu raivostuttaa Venäjän johtoa. Suomen ulkoministeri Elina Valtosen (kok) yhdysvaltalaismedia CBS:lle antama haastattelu on herättänyt suurta huomiota Venäjällä. Tv-haastattelussa Valtonen puhui Venäjän maailmanrauhalle aiheuttamasta uhasta ja sanoi, ettei yksikään Venäjän naapurimaa ole sataan vuoteen hyökännyt Venäjälle, mutta Venäjä sen sijaan on hyökännyt 19 naapurimaahansa.",
-          "date": "2025-12-10T12:57:22.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/67145874-0deb-49a6-82a0-455553cd926f"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Turvallisuusneuvostolle puhunut ulkoministeri Elina Valtonen: Venäjä rikkoo YK:n peruskirjaa",
-          "content": "Valtosen mukaan konfliktin päättymistapa tulee vaikuttamaan alueelliseen ja kansainväliseen vakauteen.",
-          "date": "2025-12-09T00:05:22.000Z",
-          "categories": [
-            "politiikka",
-            "elina valtonen",
-            "venäjä",
+            "rikosepäilyt",
+            "henkirikokset",
+            "tulipalot",
+            "savonlinna",
+            "etelä-savon käräjäoikeus",
+            "etelä-savo",
             "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20198610?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lastensuojeluyksiköiden rikosilmoitukset kasvaneet merkittävästi",
-      "mainCategories": [
-        "Nuoret",
-        "Rikokset",
-        "Hamina"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi on huolissaan, sillä lastensuojelu­yksiköistä tehtyjen rikos­ilmoitusten määrä on lähes kaksin­kertaistunut vuodessa",
-          "content": "Eilen tiistaina Kaakkois-Suomen poliisi kertoi, että viidakkoveitsin varustautunut joukkio haki nuoren haminalaisesta lastensuojelun yksiköstä elokuussa. Joukkio on saatu kiinni.",
-          "date": "2025-12-10T12:40:36.000Z",
-          "categories": [
-            "nuoret",
-            "rikokset",
-            "hamina",
-            "kymenlaakso",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20198954?origin=rss"
+          "link": "https://yle.fi/a/74-20198865?origin=rss"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Nuori pahoinpidelty Turussa, poliisi epäilee toista nuorta teosta",
-          "content": "",
-          "date": "2025-12-10T08:06:28.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Savonlinnan epäillyn perhe­surmaajan, 22, elämän­tilanteesta paljastuu karu tieto",
+          "content": "Avopuolisonsa ja kolmen taaperoikäisen lapsensa taposta epäillyn perheenisän raha-asiat ovat ravalla.",
+          "date": "2025-12-09T16:55:00.000Z",
           "categories": [
-            "väkivalta",
-            "turku",
-            "nummi",
-            "poliisi",
-            "nuoret",
-            "paikalliset",
-            "uutiset"
+            "kotimaa"
           ],
-          "link": "https://www.ts.fi/uutiset/6847024"
+          "link": "https://www.is.fi/kotimaa/art-2000011679508.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Savonlinnan tulipalo | Poliisi: Tapoista epäillyn isän mukaan asiassa ei tapahtunut rikosta",
+          "content": "Perhetutun mukaan palossa kuolleen naisen omaiset eivät tienneet, että epäilty mies oli aiemmin ollut väkivaltainen naista kohtaan.",
+          "date": "2025-12-09T16:49:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011680589.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Savonlinnan tulipalo | Poliisi esittää perheensä polttamisesta epäiltyä miestä vangittavaksi: tämä tapauksesta tiedetään",
+          "content": "Poliisi kuulusteli maanantaina Savonlinnan tulipalosta epäiltyä 22-vuotiasta miestä. Hänet on aiemmin tuomittu palossa kuolleen naisen pahoinpitelystä.",
+          "date": "2025-12-09T14:58:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011678877.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä Savonlinnan järkyttävästä perhe­surmasta tiedetään",
+          "content": "Poliisin pitää tiistaina päättää, esittääkö se epäiltyä miestä vangittavaksi.",
+          "date": "2025-12-09T04:15:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011678815.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Savonlinnan tulipalo | Äidin ja kolmen lapsen tappamisesta epäillään lasten 22-vuotiasta isää",
+          "content": "Poliisi on ottanut kiinni 22-vuotiaan miehen, jota epäillään alustavasti neljästä taposta ja törkeästä tuhotyöstä.",
+          "date": "2025-12-08T15:32:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011677624.html"
         }
       ]
     },
     {
-      "mainTitle": "Australian somekielto nuorilta herättää keskustelua",
+      "mainTitle": "Australian somekielto nuorilta herättää huolta",
       "mainCategories": [
         "Ulkomaat",
         "Teknologia",
@@ -293,40 +490,7 @@
       ]
     },
     {
-      "mainTitle": "Bitcoinin tulevaisuus jakaa sijoittajat",
-      "mainCategories": [
-        "Sijoittaminen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Bitcoin harppasi terävästi, nyt pelkona on härkäloukku",
-          "content": "Bitcoin-sijoittajien näkemykset ovat edelleen jakautuneet siitä, onko seuraavaksi edessä pitkittynyt laskumarkkina vai nousu kohti uusia huippuja.",
-          "date": "2025-12-10T12:00:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/b3638a09-7994-4027-8962-0c3854965c11"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Yksi vielä, sitten odotellaan",
-          "content": "Fedin odotetaan taas laskevan korkoaan, mutta markkinoilla uskotaan, että sitten koronlaskujen vauhti hidastuu.",
-          "date": "2025-12-10T09:05:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/e3387513-80aa-49bb-b3ee-b068f04972c0"
-        }
-      ]
-    },
-    {
-      "mainTitle": "EU:n ennallistamisasetuksesta ei neuvotella uudelleen",
+      "mainTitle": "EU:n ennallistamisasetuksen neuvottelut jatkuvat",
       "mainCategories": [
         "Politiikka"
       ],
@@ -406,7 +570,7 @@
       ]
     },
     {
-      "mainTitle": "Suomen marginaalivero alenee ensi vuonna",
+      "mainTitle": "Suomen verotus kevenee huipputuloisilta ensi vuonna",
       "mainCategories": [
         "Verotus",
         "Talous",
@@ -572,7 +736,7 @@
         "Ulkomaat",
         "Politiikka"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -672,52 +836,6 @@
       ]
     },
     {
-      "mainTitle": "Pahoinpidelty mies ja kadonnut nainen löytyivät",
-      "mainCategories": [
-        "Kotimaa",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Aura-auton kuljettaja löysi tieltä pahoin­pidellyn miehen – poliisi tutkii tapon yritystä",
-          "content": "Poliisin mukaan miehen vammat ovat vakavat.",
-          "date": "2025-12-10T10:12:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011682137.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Mikkelissä kadonnut nainen löytyi",
-          "content": "Poliisi etsi tiistaina Mikkelissä kadonnutta naista.",
-          "date": "2025-12-09T21:50:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011681080.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Poliisi | Auto­tieltä löytyi mahdollisesti liikenne­turmaan joutunut nainen, joka kuoli – poliisi pyytää vihjeitä",
-          "content": "Nainen oli löydettäessä vakavasti loukkaantunut. Poliisi epäilee hänen joutuneen jonkinlaiseen liikenne­onnettomuuteen.",
-          "date": "2025-12-08T13:59:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011678048.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Murhatapaukset Ahvenanmaalla ja Huittisissa",
       "mainCategories": [
         "Kotimaa",
@@ -770,65 +888,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011678306.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tietomurto vaaransi potilaiden henkilötiedot",
-      "mainCategories": [
-        "Tietosuoja",
-        "Turvallisuus",
-        "Hyvinvointialueet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Varhan tietosuojavastaavan palvelu ruuhkautunut – potilaiden henkilötietoja vuosi rikollisille",
-          "content": "",
-          "date": "2025-12-10T09:48:37.000Z",
-          "categories": [
-            "varha",
-            "tietosuoja",
-            "kyberrikollisuus",
-            "kyberturvallisuus",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6847111"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomalaisten tietoja päätyi rikollisille – hyvinvointialue ei kertonut potilaille",
-          "content": "Kolmen hyvinvointi­alueen asiakkaiden tietoja vaarantui tietomurrossa Virossa 2023. Varha ei ilmoittanut asiasta potilaille. Asiantuntija pitää ratkaisua erikoisena.",
-          "date": "2025-12-10T03:30:35.000Z",
-          "categories": [
-            "turvallisuus",
-            "varsinais-suomen hyvinvointialue",
-            "tietosuojavaltuutetun toimisto",
-            "hyvinvointialueet",
-            "tieto- ja viestintärikokset",
-            "tietosuoja",
-            "tietoturva",
-            "henkilötiedot",
-            "turku",
-            "viro",
-            "potilaat",
-            "terveys",
-            "tietovuoto",
-            "kyberhyökkäys",
-            "tampere",
-            "seinäjoki",
-            "varsinais-suomi",
-            "kotimaa",
-            "pirkanmaa",
-            "etelä-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20197640?origin=rss"
         }
       ]
     },
@@ -927,127 +986,48 @@
       ]
     },
     {
-      "mainTitle": "Savonlinnan perhesurma: isä vangittu epäiltynä",
+      "mainTitle": "Yhdysvallat painostaa Zelenskyitä rauhansopimuksessa",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa",
-        "Rikosepäilyt"
+        "Ulkomaat",
+        "Maailma"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/zelensky/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Savonlinnan perhesurmasta epäilty lasten isä, 22, vangittiin",
-          "content": "Perhesurmasta epäilty mies vangittiin oikeudessa keskiviikkona.",
-          "date": "2025-12-10T08:59:00.000Z",
+          "title": "FT: Yhdysvallat painostaa Zelenskyiä – Trumpin mukaan tämän on ”alettava hyväksyä asioita”",
+          "content": "Financial Timesin lähteiden mukaan Yhdysvaltain presidentti toivoo rauhansopimuksen syntyvän Ukrainan ja Venäjän välille jouluun mennessä.",
+          "date": "2025-12-10T09:10:00.000Z",
           "categories": [
-            "kotimaa"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011681344.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Savonlinnan tulipalo | Perheensä polttamisesta epäilty 22-vuotias mies vangittiin",
-          "content": "Itsenäisyyspäivän aamuna tapahtuneessa tulipalossa kuoli kolme pientä lasta ja heidän äitinsä.",
-          "date": "2025-12-10T08:37:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011680102.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "22-vuotias mies vangittiin epäiltynä Savonlinnan perhesurmasta – peitti kasvonsa oikeudessa",
-          "content": "Savonlinnassa itsenäisyys­päivänä tapahtuneessa tulipalossa kuoli nuori nainen ja kolme lasta. Poliisi epäilee paloa tahallaan sytytetyksi.",
-          "date": "2025-12-10T08:15:56.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "henkirikokset",
-            "tulipalot",
-            "savonlinna",
-            "etelä-savon käräjäoikeus",
-            "etelä-savo",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20198865?origin=rss"
+          "link": "https://www.is.fi/ulkomaat/art-2000011681109.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Savonlinnan epäillyn perhe­surmaajan, 22, elämän­tilanteesta paljastuu karu tieto",
-          "content": "Avopuolisonsa ja kolmen taaperoikäisen lapsensa taposta epäillyn perheenisän raha-asiat ovat ravalla.",
-          "date": "2025-12-09T16:55:00.000Z",
+          "title": "Zelenskyiltä iso myönnytys Trumpille",
+          "content": "Zelenskyi puhui rauhanprosessista lehdistölle tiistaina.",
+          "date": "2025-12-10T07:52:00.000Z",
           "categories": [
-            "kotimaa"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011679508.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011681612.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Savonlinnan tulipalo | Poliisi: Tapoista epäillyn isän mukaan asiassa ei tapahtunut rikosta",
-          "content": "Perhetutun mukaan palossa kuolleen naisen omaiset eivät tienneet, että epäilty mies oli aiemmin ollut väkivaltainen naista kohtaan.",
-          "date": "2025-12-09T16:49:00.000Z",
+          "title": "Venäjän hyökkäys | FT: Trump toivoo, että sopuun Ukrainassa päästään jouluun mennessä",
+          "content": "Ukrainan presidentti Volodymyr Zelenskyi arvioi, että päivitetty versio rauhansuunnitelmasta voidaan esitellä Yhdysvalloille keskiviikkona.",
+          "date": "2025-12-09T20:13:00.000Z",
           "categories": [
-            "suomi"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011680589.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Savonlinnan tulipalo | Poliisi esittää perheensä polttamisesta epäiltyä miestä vangittavaksi: tämä tapauksesta tiedetään",
-          "content": "Poliisi kuulusteli maanantaina Savonlinnan tulipalosta epäiltyä 22-vuotiasta miestä. Hänet on aiemmin tuomittu palossa kuolleen naisen pahoinpitelystä.",
-          "date": "2025-12-09T14:58:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011678877.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämä Savonlinnan järkyttävästä perhe­surmasta tiedetään",
-          "content": "Poliisin pitää tiistaina päättää, esittääkö se epäiltyä miestä vangittavaksi.",
-          "date": "2025-12-09T04:15:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011678815.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Savonlinnan tulipalo | Äidin ja kolmen lapsen tappamisesta epäillään lasten 22-vuotiasta isää",
-          "content": "Poliisi on ottanut kiinni 22-vuotiaan miehen, jota epäillään alustavasti neljästä taposta ja törkeästä tuhotyöstä.",
-          "date": "2025-12-08T15:32:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011677624.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Savonlinnan tulipalo | Perheensä polttamisesta epäilty mies löi kumppaniaan ja raiskasi 14-vuotiaan",
-          "content": "Epäillyn 22-vuotiaan osoite ei ole palaneessa talossa. Hän ja lasten äiti olivat jakaneet sosiaalisessa mediassa yhteiskuvia itsestään ja lapsistaan.",
-          "date": "2025-12-08T13:47:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011676925.html"
+          "link": "https://www.hs.fi/maailma/art-2000011681096.html"
         }
       ]
     },
@@ -1149,7 +1129,7 @@
       ]
     },
     {
-      "mainTitle": "Nuorten väkivaltaiset teot herättävät huolta",
+      "mainTitle": "Nuorisoväkivalta lisääntyy Turussa ja Raumalla",
       "mainCategories": [
         "Suomi"
       ],
@@ -1182,13 +1162,47 @@
       ]
     },
     {
+      "mainTitle": "Trumpin yhteenotot laajenevat Kaakkois-Aasiassa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpin kertaalleen lopettamat yhteenotot laajenivat uusille alueille",
+          "content": "Trump ilmoitti soittavansa tilanteen takia puhelun.",
+          "date": "2025-12-10T06:51:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011681230.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kaakkois-Aasia | Trumpin kertaalleen lopettamat yhteenotot laajenivat uusille alueille",
+          "content": "Thaimaalaisten panssarivaunujen kerrotaan tuhonneen kambodžalaisen kasinon. Trump ilmoitti soittavansa puhelun.",
+          "date": "2025-12-10T02:04:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011681177.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Ukrainan rauhansuunnitelma edistyy nopeasti",
       "mainCategories": [
         "Politiikka",
         "Ulkomaat",
-        "Turvallisuus"
+        "Maailma"
       ],
-      "imageUrl": "/images/stubb/4.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1201,6 +1215,18 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011681235.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Zelenskyi: Rauhan­suunnitelma voitaisiin esitellä keskiviikkona",
+          "content": "Presidentti Alexander Stubbin mukaan rauhansuunnitelman valmiiksi saamisessa ollaan nyt lähempänä kuin aiemmin sodan aikana.",
+          "date": "2025-12-10T03:26:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011681171.html"
         },
         {
           "publisherId": "is",
@@ -1256,6 +1282,18 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20198667?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan kohtalo | Zelenskyi: Turvatakuista ei edelleenkään selvyyttä",
+          "content": "Zelenskyin ja Euroopan johtajien neuvotteluihin osallistui myös Alexander Stubb.",
+          "date": "2025-12-08T21:09:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011678739.html"
         }
       ]
     },
@@ -1344,7 +1382,7 @@
       ]
     },
     {
-      "mainTitle": "Ranska hyväksyi sosiaaliturvabudjetin hallituskriisin välttämiseksi",
+      "mainTitle": "Ranska hyväksyi sosiaaliturvabudjetin.",
       "mainCategories": [
         "Ulkomaat",
         "Politiikka",
@@ -1363,6 +1401,18 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011681225.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Budjetit | Ranska vältti hallitus­kriisin, toistaiseksi",
+          "content": "Ranskan kansalliskokous hyväksyi sosiaaliturvabudjetin.",
+          "date": "2025-12-10T00:41:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011681220.html"
         },
         {
           "publisherId": "yle",
@@ -1426,6 +1476,52 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011679522.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäläinen sotilaskone onnettomuudessa kuoli seitsemän",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lentäminen | Venäläinen sotilas­kone putosi, kaikki kuolivat",
+          "content": "Tassin mukaan koneen kyydissä oli seitsemän henkeä.",
+          "date": "2025-12-09T21:52:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011681192.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäläinen sotilas­kone putosi – kaikki kuolivat",
+          "content": "Tassin mukaan koneen kyydissä oli seitsemän henkeä.",
+          "date": "2025-12-09T21:52:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011681197.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjän sotilaskone pudonnut",
+          "content": "Kyydissä oli ensitietojen mukaan seitsemän miehistön jäsentä.",
+          "date": "2025-12-09T15:03:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011679644.html"
         }
       ]
     },
@@ -1680,7 +1776,7 @@
       ]
     },
     {
-      "mainTitle": "Nuoret kuvasi arkaluonteisia asiakirjoja sairaalassa",
+      "mainTitle": "Nuoret kuvasi potilaspapereita suljetussa sairaalassa",
       "mainCategories": [
         "Suomi"
       ],
@@ -1711,7 +1807,7 @@
       ]
     },
     {
-      "mainTitle": "Suomi tuomittiin mielenterveyspotilaan oikeusloukkauksesta",
+      "mainTitle": "Suomi tuomittiin ihmisoikeusloukkauksesta",
       "mainCategories": [
         "Politiikka",
         "Kotimaa"
@@ -1854,7 +1950,48 @@
       ]
     },
     {
-      "mainTitle": "Shellin huoltoasemat poistuneet Suomesta",
+      "mainTitle": "Trump kritisoi Euroopan johtajia heikoiksi",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Ulkomaat",
+        "Muuttoliike"
+      ],
+      "imageUrl": "/images/trump/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump: Euroopan johtajat ovat heikkoja",
+          "content": "Trumpin mukaan maahanmuutto on viemässä Euroopan tuhoon.",
+          "date": "2025-12-09T12:31:01.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "ulkomaat",
+            "muuttoliike",
+            "ukraina",
+            "ukrainan sota",
+            "lontoo"
+          ],
+          "link": "https://yle.fi/a/74-20198770?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Trump haukkui Euroopan johtajia Politicon haastattelussa: ”Heikkoja ja poliittisesti korrekteja”",
+          "content": "Yhdysvaltain presidentti sanoi Politicolle tukevansa sellaisia eurooppalaisia ehdokkaita, jotka jakavat hänen näkemyksensä.",
+          "date": "2025-12-09T12:14:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011680023.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Shell poistui Suomesta viimeisen aseman myötä",
       "mainCategories": [
         "Talous",
         "Taloussanomat"
@@ -1992,13 +2129,98 @@
       ]
     },
     {
+      "mainTitle": "Lehdistönvapauden kuilu Suomen ja Venäjän välillä",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Järjestö: Suomen ja Venäjän välillä ammottava kuilu lehdistön­vapaudessa",
+          "content": "Toimittajat ilman rajoja -järjestön mukaan suurin journalistien tappaja on Israelin armeija.",
+          "date": "2025-12-09T06:13:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011678963.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lehdistönvapaus | Suomen ja Venäjän välinen kuilu lehdistön­­vapaudessa on vain kasvanut",
+          "content": "Toimittajat ilman rajoja -järjestö nostaa tuoreessa raportissaan esiin Venäjän huolestuttavan tilanteen.",
+          "date": "2025-12-09T05:00:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011678436.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Japanissa voimakas maanjäristys aiheutti vahinkoja",
+      "mainCategories": [
+        "Maailma",
+        "Luonto",
+        "Japani"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Maanjäristys | Ainakin 30 ihmistä loukkaantui Japanin maanjäristyksessä",
+          "content": "Voimakkaat järistykset ovat viranomaisten mukaan mahdollisia myös tulevina päivinä.",
+          "date": "2025-12-09T05:27:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011678879.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Luonnonvoimat | Japanin rannikolla mitattiin voimakas maan­järistys",
+          "content": "Viranomaiset varoittivat jopa kolmimetrisistä hyökyaalloista. Japanin rannikolla havaittiin myöhemmin vain muutamien kymmenien senttimetrien aaltoja.",
+          "date": "2025-12-08T16:57:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011678290.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Japanin media:  Voimakas maanjäristys merellä  ",
+          "content": "",
+          "date": "2025-12-08T14:35:24.000Z",
+          "categories": [
+            "luonto",
+            "japani",
+            "luonnononnettomuudet",
+            "maanjäristykset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20198564?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Trump myönsi Nvidialle vientiluvan Kiinaan",
       "mainCategories": [
         "Talous",
         "Yhdysvallat",
         "Kiina"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2027,6 +2249,86 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20198608?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Teneriffalla neljä kuollutta onnettomuudessa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kanariansaaret | Teneriffan turman uhri­luku nousi neljään",
+          "content": "Yhtä kadonneeksi epäiltyä henkilöä etsitään edelleen onnettomuusalueelta.",
+          "date": "2025-12-09T00:38:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011678836.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Teneriffan turman uhri­luku nousi",
+          "content": "Yhtä kadonneeksi epäiltyä henkilöä etsitään edelleen onnettomuusalueelta.",
+          "date": "2025-12-09T00:37:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011678833.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Espanja | Aallot surmasivat ainakin kolme ihmistä Teneriffalla",
+          "content": "Yksi elvytettiin sydänpysähdyksen jälkeen, kertovat viranomaiset.",
+          "date": "2025-12-08T15:40:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011676179.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kreikan feta­tuotanto uhattuna viruksen vuoksi",
+      "mainCategories": [
+        "Maailma",
+        "Taloussanomat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kreikka | Virus uhkaa Kreikan feta­tuotantoa",
+          "content": "Kreikan viranomaiset ovat ryhtyneet toimiin lampaiden ja vuohien parissa leviävän taudin estämiseksi.",
+          "date": "2025-12-08T20:46:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011678730.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Huonoja uutisia fetan ystäville – massa­teurastus Kreikassa",
+          "content": "Lampaiden ja vuohien maidon puute vaikuttaa vakavasti Kreikan kykyyn tuottaa yhtä tärkeimmistä vientiruoistaan.",
+          "date": "2025-12-08T14:38:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011676010.html"
         }
       ]
     },
