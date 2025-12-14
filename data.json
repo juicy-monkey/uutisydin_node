@@ -1,100 +1,153 @@
 {
-  "timestamp": "2025-12-14T19:13:53.799Z",
-  "successCount": 12,
-  "failureCount": 10,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2025-12-14T19:36:28.614Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Ukraina valmis luopumaan Naton jäsenyydestä",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Zelenskyi: Ukraina valmis luopumaan Nato-pyrkimyksistään",
+          "content": "Venäjä on pyrkinyt torppaamaan Ukrainan Nato-jäsenyyden.",
+          "date": "2025-12-14T19:30:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011691262.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina | Zelenskyi: Ukraina ei pyri Natoon, jos saa riittävät turvatakuut",
+          "content": "Pyrkimys Naton jäseneksi on kirjattu Ukrainan perustuslakiin.",
+          "date": "2025-12-14T11:52:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011691075.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainan ja Yhdysvaltojen rauhanneuvottelut Berliinissä",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina | Zelenskyi neuvottelee Witkoffin ja Kushnerin kanssa Berliinissä",
+          "content": "Ukrainan ja Yhdysvaltain edustajat ovat jo tavanneet. Neuvottelut pääsevät kunnolla vauhtiin maanantaina.",
+          "date": "2025-12-14T19:16:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011691616.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ukrainan ja Yhdys­valtojen määrä tavata – tämä rauhan­neuvotteluista tiedetään",
+          "content": "Yhdysvaltojen, Euroopan ja Ukrainan päämiehien ja edustajien on määrä tavata rauhan edistämiseksi sunnuntain ja maanantain aikana Euroopassa.",
+          "date": "2025-12-14T04:44:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011690810.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Ukrainan ja Yhdys­valtojen määrä tavata Berliinissä",
+          "content": "Yhdysvaltojen, Euroopan ja Ukrainan päämiehien ja edustajien on määrä tavata rauhan edistämiseksi sunnuntain ja maanantain aikana Euroopassa.",
+          "date": "2025-12-14T04:29:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011690794.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Valkoinen talo: Yhdysvaltain erityislähettiläs Witkoff tapaa Zelenskyin ja Euroopan johtajia Berliinissä viikonloppuna",
+          "content": "Uutissivusto Axios kertoi aiemmin tällä viikolla, että Pariisissa järjestettäisiin tänään lauantaina virkamiestason tapaaminen Ukrainan rauhansuunnitelmasta.",
+          "date": "2025-12-13T07:12:04.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/valkoinen-talo-yhdysvaltain-erityislahettilas-witk/12449535?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Johtajat keskustelevat Ukrainasta Berliinissä lähipäivinä",
+          "content": "Ukrainalle on esitetty pikareittiä EU:hun. Zelenskyi kävi kaupungissa, jonka Venäjä väittää vallanneensa.",
+          "date": "2025-12-13T06:55:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011689815.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sateet ja liukkaat kelit uhkaavat liikennettä",
+      "mainCategories": [
+        "Sää",
+        "Talvisää",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sää lauhtuu – jäätävä sade tekee ajokelistä vaarallisen",
+          "content": "Suomen yli pyyhkäisee maanantaina laaja sadealue, joka tuo mukanaan lunta, vettä ja jäätävää sadetta.",
+          "date": "2025-12-14T18:39:44.000Z",
+          "categories": [
+            "sää",
+            "lumi",
+            "talvisää",
+            "sateinen sää",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199698?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lännestä saapuu lumisateita – ajokeli on sunnuntaina laajalti huono",
+          "content": "Suomeen saadaan yöllä lumisateita ja jäätävää tihkua, joten tiet voivat muuttua liukkaiksi, varoittaa Ylen meteorologi Anniina Valtonen.",
+          "date": "2025-12-13T20:06:00.000Z",
+          "categories": [
+            "sää",
+            "talvisää",
+            "liikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199633?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Valkea joulu uhkaa jäädä haaveeksi",
       "mainCategories": [
@@ -151,10 +204,47 @@
       ]
     },
     {
-      "mainTitle": "Christopher Wegelius on kuollut 1990-luvun pankkikriisissä",
+      "mainTitle": "Razmyar vaatii anteeksipyyntöjä Orpolta ja PS:ltä",
       "mainCategories": [
-        "Talous",
+        "Kotimaa",
+        "Sápmi",
         "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Nasima Razmyar vaatii julkista anteeksi­pyyntöä",
+          "content": "SDP:n varapuheenjohtaja moittii pääministeri Petteri Orpon toimintaa ja vaatii perussuomalaisilta kansanedustajilta anteeksipyyntöjä. SDP:n varapuheenjohtaja Nasima Razmyar sanoo tiedotteessaan olevansa pettynyt pääministeri Petteri Orpon (kok) ”hitaaseen ja hampaattomaan reagointiin perussuomalaisten uusimpaan rasismikohuun”. – Yhdenvertaisuustiedonanto on pelkkä irvikuva, jos pääministeri Orpo katsoo, että riittää, kun poikkeamiin siitä reagoidaan, vaikka niitä ei voida estää, Razmyar toteaa tiedotteessaan.",
+          "date": "2025-12-14T16:13:49.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/c9a2f0d7-9108-4ecc-8623-4d12e8a7dcb1"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lähes kaikki eduskunta­puolueet tukevat pääministeri Orpon ehdotusta valtion anteeksi­pyynnöstä saamelaisille",
+          "content": "Pääministeri Petteri Orpo lupasi valtion anteeksipyyntöä saamelaisille. Useissa puolueissa odotetaan myös konkreettisia tekoja saamelaisten tilanteen parantamiseksi.",
+          "date": "2025-12-13T16:42:33.000Z",
+          "categories": [
+            "kotimaa",
+            "sápmi"
+          ],
+          "link": "https://yle.fi/a/74-20198450?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Christopher Wegelius on kuollut",
+      "mainCategories": [
+        "Kuolleet",
+        "Kuolema",
+        "Esteratsastajat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -171,25 +261,147 @@
           "link": "https://www.hs.fi/talous/art-2000011691366.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Christopher Wegelius on kuollut",
-          "content": "Wegelius oli keskeinen hahmo 1990-luvun pankkikriisissä.",
-          "date": "2025-12-14T10:18:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Esteratsastaja ja SKOP:n entinen pääjohtaja Christopher Wegelius on kuollut",
+          "content": "",
+          "date": "2025-12-13T21:06:12.000Z",
           "categories": [
-            "politiikka"
+            "kuolleet",
+            "kuolema",
+            "esteratsastajat",
+            "christopher wegelius",
+            "skop",
+            "yritysjohtajat",
+            "kotimaa"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011690739.html"
+          "link": "https://yle.fi/a/74-20199639?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Joukkoampuminen yliopistolla Yhdysvalloissa, kaksi kuollut",
+      "mainTitle": "Terrori-isku Bondi Beachilla, 16 kuollut",
       "mainCategories": [
-        "Maailma",
         "Ulkomaat",
-        "Yhdysvallat"
+        "Australia",
+        "Terrorismi"
+      ],
+      "imageUrl": "/images/australia/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uutta tietoa Bondi Beachin terrori-iskusta",
+          "content": "Sankarillisesti toimineen miehen henkilöllisyys on selvinnyt.",
+          "date": "2025-12-14T15:39:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011691287.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomalainen Bondi Beachin joukko­ampumisesta: ”Lintukoto” muuttui painajaiseksi",
+          "content": "Alexandra Kaiston mukaan Australiassa on osattu odottaa terroritekoa juutalaisyhteisöä vastaan.",
+          "date": "2025-12-14T15:21:49.000Z",
+          "categories": [
+            "terrori-iskut",
+            "australia",
+            "bondi beach",
+            "sokki",
+            "ampuminen",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199686?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Epäilty terrori-isku Australiassa – Helsingin poliisi reagoi heti",
+          "content": "Epäilty terrori-isku Australiassa ”heilautti tilannekuvan aivan toiseksi” myös Suomessa Helsingin poliisi reagoi heti maapallon toiselta puolelta kantautuneeseen uutiseen epäillystä terrori-iskusta. Useita ihmisiä kuoli juutalaisten hanukka-juhlaan tehdyssä iskussa Australiassa tunnetulla Bondi Beachilla, Sydneyn kaupungissa.",
+          "date": "2025-12-14T15:12:44.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/1ec3bf20-610e-43fd-897f-834783aec9c0"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuka on sankariksi noussut hedelmäkauppias? Katso, mitä tällä hetkellä tiedetään Australian joukko­ampumisesta",
+          "content": "Sydneyn Bondi Beachilla tapahtunut epäilty terroriteko on poikkeuksellinen, mutta terrorismia on viime vuosina koettu aiemminkin Australiassa.",
+          "date": "2025-12-14T14:54:10.000Z",
+          "categories": [
+            "terrori-iskut",
+            "terrorismi",
+            "australia",
+            "ampumavälikohtaukset",
+            "poliisi",
+            "joukkomurha",
+            "aseistautunut henkilö",
+            "väkivaltarikokset",
+            "juutalaisuus",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199682?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Bondi Beachin ampumista tutkitaan terrori-iskuna – sivullinen sai väännettyä epäillyltä aseen käsistä",
+          "content": "",
+          "date": "2025-12-14T10:37:49.000Z",
+          "categories": [
+            "terrorismi",
+            "australia",
+            "maailma",
+            "uutiset",
+            "väkivaltarikokset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6850743"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Netanjahu kommentoi Bondi Beachin juutalaisiskua – Syyttää Australian pääministeriä",
+          "content": "Ampumavälikohtaus tapahtui tunnetulla rannalla Australiassa. Joukkoampumisessa kuoli ainakin kaksitoista ihmistä.  Ampumavälikohtaus keskeytti perinteiset juutalaiset juhlallisuudet tunnetulla Bondi Beachilla Australiassa Sydneyn kaupungissa, australialainen ABC News kertoo. New South Walesin osavaltion pääministerin mukaan joukkoammuskelussa on kuollut 12 ihmistä. Loukkaantuneita on yhteensä 29.",
+          "date": "2025-12-14T09:27:26.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/da2ed9f0-88f2-4598-aa95-4d1872e41bbf"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Terrori-isku Sydneyn Bondi Beachilla – 16 kuollut juutalaisten hanukka-juhlassa",
+          "content": "Bondi Beach -rannan ampuminen oli terrori-isku juutalais­yhteisöä vastaan, Australian poliisi sanoo.",
+          "date": "2025-12-14T08:39:06.000Z",
+          "categories": [
+            "terrori-iskut",
+            "yle uutiset somenostot",
+            "joukkoampuminen",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199662?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Joukkoampuminen Brownin yliopistolla, kaksi kuollut",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Ulkomaat",
+        "Maailma"
       ],
       "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
@@ -240,11 +452,32 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6850640"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joukkoampuminen Yhdysvalloissa: kaksi opiskelijaa kuoli ja useita haavoittui Brownin yliopiston alueella",
+          "content": "Poliisi kertoi sunnuntaina pidättäneensä henkilön tapaukseen liittyen.",
+          "date": "2025-12-13T23:28:09.000Z",
+          "categories": [
+            "ampuminen",
+            "yhdysvallat",
+            "ampumavälikohtaukset",
+            "yhdysvaltain yliopistot",
+            "väkivaltarikokset",
+            "rhode island",
+            "brownin yliopisto",
+            "providence (rhode island)",
+            "kuolema, hengenvaara ja loukkaantuminen",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199644?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Rasismikohu perussuomalaisten some-päivityksistä",
+      "mainTitle": "Rasismikohua perussuomalaisten some-päivityksistä",
       "mainCategories": [
         "Politiikka"
       ],
@@ -263,6 +496,95 @@
           "link": "https://www.iltalehti.fi/politiikka/a/1e0b4652-e7c2-47ab-abb9-9b5a0407b21a"
         },
         {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Orpo Ylellä: Perussuomalaisten silmienvenytys­kuvat olivat lapsellista käytöstä",
+          "content": "Pääministerin mukaan kuvien julkaiseminen ”ei ollut hyväksyttävää tai järkevää”.",
+          "date": "2025-12-14T12:31:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011691132.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Helsingin poliisi nosti valmiustasoa",
+      "mainCategories": [
+        "Kotimaa",
+        "Helsinki",
+        "Juutalaiset"
+      ],
+      "imageUrl": "/images/australia/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Helsingin poliisi reagoi Australian terrori-iskuun",
+          "content": "Päätös toimintavalmiuden nostamisesta tehtiin pian sen jälkeen, kun tieto Australian iskusta saatiin.",
+          "date": "2025-12-14T14:36:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011691263.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Helsingin poliisi nosti valmiustasoaan Australian terrori-iskun takia",
+          "content": "Helsingissä sijaitsee muun muassa Israelin suurlähetystö ja juutalaisen seurakunnan synagoga.",
+          "date": "2025-12-14T13:52:17.000Z",
+          "categories": [
+            "terrori-iskut",
+            "helsinki",
+            "juutalaiset",
+            "turvallisuus",
+            "turku",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199680?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Orpo kommentoi Ukrainan tilannetta ja rasismikohua",
+      "mainCategories": [
+        "Politiikka",
+        "Pääministerit"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Orpo reagoi Ylellä Zelenskyin yllätys­avaukseen",
+          "content": "Pääministeri Petteri Orpo (kok) vastasi Yle Radio Suomessa niin Ukrainan tilannetta, maahanmuuttoa kuin Suomen talouttakin koskeviin kysymyksiin. Hän kertoi myös, miten aikoo viettää joulunsa. Ukrainan presidentti Volodymyr Zelenskyi on sanonut maansa luopuvan pyrkimyksistä päästä Naton jäseneksi, jos Ukraina saa muuten riittävät artikla 5:n kaltaiset turvatakuut USA:lta ja muilta sen kumppanimailta. Pääministeri Petteri Orpo otti kantaa Pääministerin haastattelutunti -ohjelmassa Yle Radio Suomella Zelenskyin tuoreeseen kantaan.",
+          "date": "2025-12-14T14:20:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/7271a590-fefb-4132-84bc-6fbedfba06a2"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Petteri Orpo tuomitsi perus­suomalaisten silmien venyttelyn pääministerin haastattelu­tunnilla",
+          "content": "Pääministeri Orpo väläytti myös lisäsopeutusten mahdollisuutta ja kiitteli Yhdysvaltoja Ukrainan rauhanprosessin etenemisestä.",
+          "date": "2025-12-14T13:34:28.000Z",
+          "categories": [
+            "politiikka",
+            "petteri orpo",
+            "pääministerit"
+          ],
+          "link": "https://yle.fi/a/74-20199683?origin=rss"
+        },
+        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
@@ -275,16 +597,16 @@
           "link": "https://www.iltalehti.fi/politiikka/a/7a7456d1-3470-441b-bf99-ec684a1d86a7"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rasismi | Orpo Ylellä: Perussuomalaisten silmienvenytys­kuvat olivat lapsellista käytöstä",
-          "content": "Pääministerin mukaan kuvien julkaiseminen ”ei ollut hyväksyttävää tai järkevää”.",
-          "date": "2025-12-14T12:31:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Petteri Orpo tuomitsi perussuomalaisten silmien venyttelyn pääministerin haastattelutunnilla",
+          "content": "Pääministeri Petteri Orpo (kok.) vastasi toimittajien kysymyksiin politiikan ajankohtaisista aiheista virka-asunnollaan Kesärannassa.",
+          "date": "2025-12-14T11:46:47.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011691132.html"
+          "link": "https://yle.fi/a/74-20199674?origin=rss"
         }
       ]
     },
@@ -323,7 +645,62 @@
       ]
     },
     {
-      "mainTitle": "Oulu mainittu brittilehden matkakohdelistalla",
+      "mainTitle": "Bondi Beachin terrori-isku vaati 12 kuolonuhria",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisi: Bondi Beachin joukko­ampuminen oli terrori-isku – ainakin 12 kuollut",
+          "content": "Rannalla ammuttiin jopa 50 laukausta.",
+          "date": "2025-12-14T14:10:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011690965.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hurja video Bondi Beachilta leviää – pääministeri ylistää sankarillisesti toiminutta miestä",
+          "content": "Joukkoampumisessa kuoli ainakin 12 ja loukkaantui ainakin 29 ihmistä.",
+          "date": "2025-12-14T12:48:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011691080.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Hennan naapurissa ammuttiin useita kuoliaaksi – Terrori-isku järkyttää: ”Ranta oli ihan täynnä”",
+          "content": "Suomalaisen Henna Nousiaisen mukaan ranta oli tragedian tapahtuma-aikaan aivan täynnä.  Suomalainen Henna Nousiainen asuu vain minuutin päässä Sydneyssä sijaitsevasta rannasta, jossa tapahtui tänään ainakin 12 ihmisen hengen vaatinut terrori-isku. Nousiainen oli tapahtuma-aikaan kotonaan. Hänen takapihaltaan on suora näkymä Bondi Beachille, jossa tilanne on Nousiaisen mukaan yhä käynnissä.",
+          "date": "2025-12-14T12:22:54.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/563ad30e-61b8-49a9-9400-4b5dea4f5778"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Sydneyn suositulla Bondi Beach -rannalla on ammuttu",
+          "content": "Australiassa Sydneyn suositulla Bondi Beach rannalla on tapahtunut ampuminen.",
+          "date": "2025-12-14T09:44:41.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/sydneyn-suositulla-bondi-beach-rannalla-on-ammuttu/12450563?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Oulu mainittu parhaissa matkakohteissa",
       "mainCategories": [
         "Suomi"
       ],
@@ -352,6 +729,99 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011690220.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Purra: Hyvinvointialueita on liikaa",
+      "mainCategories": [
+        "Politiikka",
+        "Perussuomalaiset",
+        "Hallituspolitiikka"
+      ],
+      "imageUrl": "/images/riikka purra/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Purran mielestä hyvinvointialueita on liikaa – ei sanonut uutta silmienvenyttelykuvista",
+          "content": "",
+          "date": "2025-12-14T10:33:01.000Z",
+          "categories": [
+            "perussuomalaiset",
+            "hallituspolitiikka",
+            "puolueet",
+            "politiikka",
+            "uutiset",
+            "kotimaa"
+          ],
+          "link": "https://www.ts.fi/uutiset/6850740"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Purra kohauttaneista kuvista: Ei uutta kommentoitavaa",
+          "content": "Purra nosti puoluevaltuustossa tikun nokkaan Sanna Marinin hallituksen ja korosti, että suomalaisten täytyy olla etuoikeutettuja omassa maassaan.",
+          "date": "2025-12-14T10:14:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011688346.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Riikka Purra: Hyvinvointi­alueita on liikaa",
+          "content": "Puolueen puheenjohtaja Riikka Purra kertoi tänään, ettei kommentoi enempää perus­suomalaisten silmien­venyttely­kuvia.",
+          "date": "2025-12-14T07:30:56.000Z",
+          "categories": [
+            "politiikka",
+            "perussuomalaiset",
+            "riikka purra"
+          ],
+          "link": "https://yle.fi/a/74-20199603?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Fed nimitti 11 johtajaa etuajassa",
+      "mainCategories": [
+        "Keskuspankit",
+        "Yhdysvallat",
+        "Talous"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Fed yllätti ja reagoi, ennen kuin Trump ehti sekaantua: 11 nimitystä etuajassa",
+          "content": "Yhdysvaltain keskuspankki Fed kertoi torstaina nimittäneensä 11 aluekeskuspankin pääjohtajaa uusille viiden vuoden kausille etuajassa. Se kertoo Fedin halusta keskittyä ydintehtäviinsä spekulaatioiden keskellä, kirjoittaa toimittaja Jaakko Närhi.",
+          "date": "2025-12-14T09:17:00.000Z",
+          "categories": [
+            "keskuspankit"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/2e4f5ee1-8509-4092-ac1f-ab8cb45307e3"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "WSJ: Trump kallistunut Fedin johtajakisassa ”kahteen Keviniin” – haluaa ohjauskoron alle prosenttiin",
+          "content": "Presidentin mukaan uuden pääjohtajan tulisi neuvotella hänen kanssaan korkotason määrittelemisestä.",
+          "date": "2025-12-12T21:16:51.000Z",
+          "categories": [
+            "yhdysvallat",
+            "talous",
+            "keskuspankit",
+            "yhdysvaltain keskuspankki",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199568?origin=rss"
         }
       ]
     },
@@ -390,11 +860,13 @@
       ]
     },
     {
-      "mainTitle": "Viisi miestä kiinni joulutorille suunnitellusta iskusta",
+      "mainTitle": "Saksassa estettiin joulutorille suunniteltu isku",
       "mainCategories": [
-        "Ulkomaat"
+        "Ulkomaat",
+        "Saksa",
+        "Poliisi"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/saksa/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -409,6 +881,20 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011690838.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Saksassa viisi otettiin kiinni epäiltynä joulutori-iskun suunnittelusta",
+          "content": "",
+          "date": "2025-12-14T06:05:02.000Z",
+          "categories": [
+            "terrori-iskut",
+            "saksa",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199651?origin=rss"
+        },
+        {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
@@ -417,14 +903,35 @@
           "date": "2025-12-14T05:39:20.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/saksassa-viisi-ihmista-otettu-kiinni-epailtyna-osa/12450503?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Saksan poliisi sanoo estäneensä islamistiseksi epäillyn iskun joulumarkkinoille",
+          "content": "Pidätettynä on viisi miestä Marokosta, Egyptistä ja Syyriasta. ",
+          "date": "2025-12-14T01:36:07.000Z",
+          "categories": [
+            "terrori-iskut",
+            "saksa",
+            "poliisi",
+            "joulumarkkinat",
+            "terrorismi",
+            "islamismi",
+            "epäillyt",
+            "joulutorit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199645?origin=rss"
         }
       ]
     },
     {
       "mainTitle": "Kuusi YK:n rauhanturvaajaa kuollut Sudanissa",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Konfliktit",
+        "Sudan"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -437,6 +944,25 @@
           "date": "2025-12-14T05:47:09.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/yk-sudanissa-kuusi-rauhanturvaajaa-on-saanut-surma/12450504?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "YK: Sudanissa kuusi rauhanturvaajaa on saanut surmansa drooni-iskussa",
+          "content": "",
+          "date": "2025-12-14T03:22:23.000Z",
+          "categories": [
+            "konfliktit",
+            "sudan",
+            "rauhanturvaaminen",
+            "kuolema",
+            "antónio guterres",
+            "sotarikokset",
+            "etelä-sudan",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199647?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -461,74 +987,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011690788.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainan ja Yhdysvaltojen rauhanneuvottelut Berliinissä",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ukrainan ja Yhdys­valtojen määrä tavata – tämä rauhan­neuvotteluista tiedetään",
-          "content": "Yhdysvaltojen, Euroopan ja Ukrainan päämiehien ja edustajien on määrä tavata rauhan edistämiseksi sunnuntain ja maanantain aikana Euroopassa.",
-          "date": "2025-12-14T04:44:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011690810.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Ukrainan ja Yhdys­valtojen määrä tavata Berliinissä",
-          "content": "Yhdysvaltojen, Euroopan ja Ukrainan päämiehien ja edustajien on määrä tavata rauhan edistämiseksi sunnuntain ja maanantain aikana Euroopassa.",
-          "date": "2025-12-14T04:29:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011690794.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Valkoinen talo: Yhdysvaltain erityislähettiläs Witkoff tapaa Zelenskyin ja Euroopan johtajia Berliinissä viikonloppuna",
-          "content": "Uutissivusto Axios kertoi aiemmin tällä viikolla, että Pariisissa järjestettäisiin tänään lauantaina virkamiestason tapaaminen Ukrainan rauhansuunnitelmasta.",
-          "date": "2025-12-13T07:12:04.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/valkoinen-talo-yhdysvaltain-erityislahettilas-witk/12449535?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Johtajat keskustelevat Ukrainasta Berliinissä lähipäivinä",
-          "content": "Ukrainalle on esitetty pikareittiä EU:hun. Zelenskyi kävi kaupungissa, jonka Venäjä väittää vallanneensa.",
-          "date": "2025-12-13T06:55:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011689815.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "”Hölynpölyä” – tässä Ukraina-keskustelujen tilanne",
-          "content": "Berliinissä on lähipäivinä tärkeä kokoontuminen.",
-          "date": "2025-12-13T04:23:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011689820.html"
         }
       ]
     },
@@ -567,12 +1025,13 @@
       ]
     },
     {
-      "mainTitle": "Valko-Venäjä vapautti yli 100 vankia",
+      "mainTitle": "Valko-Venäjä vapautti yli 120 vankia",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma"
+        "Maailma",
+        "Vangit"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -585,6 +1044,16 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011690475.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Valko-Venäjä vapautti oppositiohahmo Kalesnikavan, rauhannobelisti Bjaljatskin sekä noin 120 muuta vankia",
+          "content": "Valtaosa lauantaina vapautetuista vangeista saapui Ukrainaan samana päivänä.",
+          "date": "2025-12-13T19:02:25.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/valko-venaja-vapautti-oppositiohahmo-kalesnikavan/12450256?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -610,25 +1079,22 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011690261.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Valko-Venäjä vapautti oppositiojohtajia ja vankeja",
-      "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
+        },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Valko-Venäjä vapautti oppositiohahmo Kalesnikavan, rauhannobelisti Bjaljatskin sekä noin 120 muuta vankia",
-          "content": "Valtaosa lauantaina vapautetuista vangeista saapui Ukrainaan samana päivänä.",
-          "date": "2025-12-13T19:02:25.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/valko-venaja-vapautti-oppositiohahmo-kalesnikavan/12450256?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valko-Venäjä vapautti yli 120 vankia – UPIn Silvan: ”Lukašenka on valmis isoihin myönnytyksiin”",
+          "content": "Vapautettujen joukossa on rauhannobelisti Ales Bjaljatski. Vapautetut vangit on viety Ukrainaan ja Liettuaan. Yhdysvallat helpottaa Valko-Venäjän pakotteita yhtä aikaa.",
+          "date": "2025-12-13T14:20:33.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "valko-venäjä",
+            "vangit",
+            "ihmisoikeudet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199622?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -641,6 +1107,86 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011690236.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Alexandra Lindqvist kruunattiin Suomen Luciaksi",
+      "mainCategories": [
+        "Kotimaa",
+        "Juhlat",
+        "Musiikki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lucia-neito kruunattiin Helsingissä",
+          "content": "Suomen Luciaksi valittiin Alexandra Lindqvist.",
+          "date": "2025-12-13T16:13:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011690404.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomen Luciaksi kruunattiin Alexandra Lindqvist – edessä kova keikkaputki",
+          "content": "Uusi Lucia aikoo kajauttaa muutamassa viikossa peräti 70 kertaa Sankta Lucian kaupoissa, sairaaloissa ja palvelutaloissa.",
+          "date": "2025-12-13T14:05:01.000Z",
+          "categories": [
+            "juhlat",
+            "lucian päivä",
+            "musiikki",
+            "joulu",
+            "helsinki",
+            "kirkkonummi",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199592?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Drooni pysäytti lennot Oslossa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Ilmailu",
+        "Norja"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Drooni­havainto Oslon lento­kentällä",
+          "content": "Droonin lennättäjä on otettu kiinni.",
+          "date": "2025-12-13T13:51:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011690253.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Drooni pysäytti kaksi lentokonetta Oslon lentokentällä",
+          "content": "",
+          "date": "2025-12-13T13:37:03.000Z",
+          "categories": [
+            "ilmailu",
+            "norja",
+            "droonit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199617?origin=rss"
         }
       ]
     },
@@ -689,9 +1235,48 @@
       ]
     },
     {
+      "mainTitle": "Indonesian tulvissa yli tuhat kuolonuhria",
+      "mainCategories": [
+        "Ympäristö",
+        "Indonesia",
+        "Sumatra"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Indonesian tulvien uhriluku noussut jo yli tuhanteen",
+          "content": "Indonesian tulvissa ja maanvyöryissä on kuollut jo yli tuhat ihmistä. Yli 200 on edelleen kateissa ja 1,2 miljoonaa on joutunut hakeutumaan väliaikaisasumuksiin.",
+          "date": "2025-12-13T11:59:32.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/indonesian-tulvien-uhriluku-noussut-jo-yli-tuhante/12449679?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Indonesiassa yli tuhat kuolonuhria tulvissa ",
+          "content": "",
+          "date": "2025-12-13T08:44:53.000Z",
+          "categories": [
+            "ympäristö",
+            "indonesia",
+            "sumatra",
+            "luonnononnettomuudet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199588?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Rattijuoppo törmäsi omakotitaloon Kemissä",
       "mainCategories": [
-        "Kotimaa"
+        "Kotimaa",
+        "Onnettomuudet",
+        "Liikenne"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -704,6 +1289,26 @@
           "date": "2025-12-13T11:15:59.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/rattijuoppo-ajoi-omakotitalon-seinaan-kemissa/12449704?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Rattijuoppo luisui päin omakotitalon seinää Kemissä",
+          "content": "Kuljettaja oli luisunut autolla mutkassa ulos tieltä ja ajautui pihan läpi talon seinään. Henkilö­vahingoilta vältyttiin, kertoo Lapin poliisi.",
+          "date": "2025-12-13T11:10:24.000Z",
+          "categories": [
+            "onnettomuudet",
+            "liikenne",
+            "liikenneonnettomuudet",
+            "kulkuneuvot",
+            "liikenneturvallisuus",
+            "kemi",
+            "lapin poliisilaitos",
+            "lappi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199601?origin=rss"
         },
         {
           "publisherId": "is",
@@ -720,11 +1325,89 @@
       ]
     },
     {
-      "mainTitle": "Eduskuntapuolueet vastustavat hyvinvointialueiden vähentämistä",
+      "mainTitle": "Muoniossa mitattiin –34,5 asteen pakkasennätys",
       "mainCategories": [
-        "Politiikka"
+        "Kotimaa",
+        "Sää",
+        "Pakkaset"
       ],
       "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pakkasennätys rikkoutui",
+          "content": "Lämpötila laski Muoniossa yöllä –34,5 asteeseen.",
+          "date": "2025-12-13T07:43:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011689929.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pakkasennätys rikki Muoniossa – kuluvan talven kylmin lämpötila on nyt –34,5 astetta",
+          "content": "",
+          "date": "2025-12-13T07:32:35.000Z",
+          "categories": [
+            "sää",
+            "pakkaset",
+            "pakkasennätys",
+            "muonio",
+            "lappi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199583?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Nobel-komitea tuomitsi Nargis Mohammadin pidätyksen",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nobel-komitea tuomitsi rauhannobelisti Nargis Mohammadin pidätyksen ",
+          "content": "",
+          "date": "2025-12-13T06:57:08.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "nobelin rauhanpalkinto",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20199581?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ihmisoikeudet | Iran pidätti rauhan­­nobelistin",
+          "content": "Nobel-komitea tuomitsi pidätyksen.",
+          "date": "2025-12-12T20:21:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011689680.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Eduskuntapuolueet vastustavat hyvinvointialueiden vähentämistä",
+      "mainCategories": [
+        "Politiikka",
+        "Hyvinvointialueet",
+        "Kotimaa"
+      ],
+      "imageUrl": "/images/eduskunta/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -749,6 +1432,20 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011689822.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Uutissuomalainen: Vain kolme eduskuntapuoluetta haluaa vähentää hyvinvointialueiden määrää",
+          "content": "Vain muutama eduskuntapuolue haluaa vähentää hyvinvointialueiden määrää, ilmenee Uutissuomalaisen kyselystä eduskuntapuolueiden ryhmänjohtajille.",
+          "date": "2025-12-13T04:00:40.000Z",
+          "categories": [
+            "politiikka",
+            "hyvinvointialueet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199577?origin=rss"
         }
       ]
     },
@@ -756,9 +1453,10 @@
       "mainTitle": "Moody's vahvisti Suomen luottoluokituksen",
       "mainCategories": [
         "Talous",
-        "Taloussanomat"
+        "Suomi",
+        "Luottotiedot"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -793,11 +1491,26 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011689800.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Moody’s pitää Suomen luotto­luokituksen ennallaan – Purra: ”Sopeutustoimet jatkuvat seuraavalla hallitus­kaudella”",
+          "content": "Viime heinäkuussa luotto­luokitus­yhtiö Fitch Ratings laski Suomen luokituksen toiseksi parhaasta AA+-luokasta kolmanneksi parhaaseen AA-luokkaan.",
+          "date": "2025-12-12T21:48:57.000Z",
+          "categories": [
+            "talous",
+            "suomi",
+            "luottotiedot",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20199569?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Yhdysvaltojen joukot kaapatussa laivassa",
+      "mainTitle": "Yhdysvaltojen joukot kaapatussa säiliölaivassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
