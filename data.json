@@ -1,8 +1,17 @@
 {
-  "timestamp": "2025-12-14T15:16:14.518Z",
-  "successCount": 13,
-  "failureCount": 9,
+  "timestamp": "2025-12-14T15:39:24.539Z",
+  "successCount": 12,
+  "failureCount": 10,
   "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
     {
       "url": {
         "publisherId": "yle",
@@ -87,13 +96,47 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Joukkoampuminen Brownin yliopistolla, kaksi kuollut",
+      "mainTitle": "Esteratsastaja Christopher Wegelius on kuollut",
       "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Maailma"
+        "Suomi",
+        "Politiikka"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kuolleet | Esteratsastaja Christopher Wegelius on kuollut",
+          "content": "Wegelius muistetaan myös SKOP:n pääjohtajana.",
+          "date": "2025-12-14T15:30:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011691366.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Christopher Wegelius on kuollut",
+          "content": "Wegelius oli keskeinen hahmo 1990-luvun pankkikriisissä.",
+          "date": "2025-12-14T10:18:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011690739.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ammuskelu Brownin yliopistolla, kaksi kuollut",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat",
+        "Yhdysvallat"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -154,36 +197,15 @@
             "ulkomaat"
           ],
           "link": "https://www.iltalehti.fi/ulkomaat/a/1b9b3313-c7b6-4f58-bc4c-fca0b08fd21f"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Joukkoampuminen Yhdysvalloissa: kaksi opiskelijaa kuoli ja useita haavoittui Brownin yliopiston alueella",
-          "content": "Poliisi kertoi sunnuntaina pidättäneensä henkilön tapaukseen liittyen.",
-          "date": "2025-12-13T23:28:09.000Z",
-          "categories": [
-            "ampuminen",
-            "yhdysvallat",
-            "ampumavälikohtaukset",
-            "yhdysvaltain yliopistot",
-            "väkivaltarikokset",
-            "rhode island",
-            "brownin yliopisto",
-            "providence (rhode island)",
-            "kuolema, hengenvaara ja loukkaantuminen",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20199644?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Terrori-isku Bondi Beachilla, 12 kuollut",
+      "mainTitle": "Terrori-isku Australiassa vaati 12 kuolonuhria",
       "mainCategories": [
+        "Maailma",
         "Ulkomaat",
-        "Australia",
-        "Terrorismi"
+        "Kotimaa"
       ],
       "imageUrl": "/images/australia/1.jpg",
       "relatedNews": [
@@ -200,25 +222,16 @@
           "link": "https://www.iltalehti.fi/kotimaa/a/1ec3bf20-610e-43fd-897f-834783aec9c0"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Miten poliisi taltutti ampujat? Katso, mitä tällä hetkellä tiedetään Australian joukko­ampumisesta",
-          "content": "Sydneyn Bondi Beachilla tapahtunut epäilty terroriteko on poikkeuksellinen, mutta terrorismia on viime vuosina koettu aiemminkin Australiassa.",
-          "date": "2025-12-14T14:54:10.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sydneyn joukkoampuminen | Poliisi epäilee terrori­tekoa, ainakin 12 kuollutta",
+          "content": "Ranta oli tapahtumahetkellä täynnä ihmisiä. Alueella oli käynnissä juutalaisyhteisön tapahtuma.",
+          "date": "2025-12-14T14:28:00.000Z",
           "categories": [
-            "terrori-iskut",
-            "terrorismi",
-            "australia",
-            "ampumavälikohtaukset",
-            "poliisi",
-            "joukkomurha",
-            "aseistautunut henkilö",
-            "väkivaltarikokset",
-            "juutalaisuus",
-            "ulkomaat"
+            "maailma"
           ],
-          "link": "https://yle.fi/a/74-20199682?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000011690935.html"
         },
         {
           "publisherId": "is",
@@ -231,62 +244,11 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011690965.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Bondi Beach -rannan ampumista tutkitaan terrori-iskuna – kuolleita yli kymmenen ja noin 30 viety sairaalaan",
-          "content": "",
-          "date": "2025-12-14T10:37:49.000Z",
-          "categories": [
-            "australia",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6850743"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sydneyn suositulla Bondi Beach -rannalla on ammuttu",
-          "content": "Australiassa Sydneyn suositulla Bondi Beach rannalla on tapahtunut ampuminen.",
-          "date": "2025-12-14T09:44:41.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/sydneyn-suositulla-bondi-beach-rannalla-on-ammuttu/12450563?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Media: Hän on Bondi Beachin epäillyn tappajan kimppuun hyökännyt sankari",
-          "content": "Ampumavälikohtaus tapahtui tunnetulla rannalla Australiassa. Joukkoampumisessa kuoli ainakin kaksitoista ihmistä.  Ampumavälikohtaus keskeytti perinteiset juutalaiset juhlallisuudet tunnetulla Bondi Beachilla Australiassa Sydneyn kaupungissa, australialainen ABC News kertoo. New South Walesin osavaltion pääministerin mukaan joukkoammuskelussa on kuollut 12 ihmistä. Loukkaantuneita on yhteensä 29.",
-          "date": "2025-12-14T09:27:26.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/da2ed9f0-88f2-4598-aa95-4d1872e41bbf"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Terrori-isku Sydneyn Bondi Beachilla – 12 kuollut juutalaisten hanukka-juhlassa",
-          "content": "Bondi Beach -rannan ampuminen oli terrori-isku juutalais­yhteisöä vastaan, Australian poliisi sanoo.",
-          "date": "2025-12-14T08:39:06.000Z",
-          "categories": [
-            "terrori-iskut",
-            "yle uutiset somenostot",
-            "joukkoampuminen",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20199662?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Rasismikohua perussuomalaisten some-päivityksistä",
+      "mainTitle": "Rasismikohu perussuomalaisten some-päivityksistä",
       "mainCategories": [
         "Politiikka"
       ],
@@ -303,6 +265,18 @@
             "politiikka"
           ],
           "link": "https://www.iltalehti.fi/politiikka/a/1e0b4652-e7c2-47ab-abb9-9b5a0407b21a"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Petteri Orpo avasi vihdoin suunsa Ylellä – ”Se ei ole ok”",
+          "content": "Pääministeri Petteri Orpo otti Pääministerin haastattelutunnilla Yle Radio Suomessa kantaa hallituksen uuteen rasismikohuun. Kyse on joidenkin perussuomalaisten poliitikkojen jakamista kuvista, joissa nämä venyttelevät silmiään. Kohu lähti liikkeelle sittemmin Miss Suomen asemasta luopuneesta Sarah Dzafcesta somessa levitetystä kuvasta. Pääministeri Petteri Orpo (kok) kommentoi tiettävästi ensi kertaa Pääministerin haastattelutunti -ohjelmassa Yle Radio Suomella perussuomalaisten kansanedustajien toimintaa sanoen, että ensimmäinen asia on se, että yhdenkään ihmisen arvostelu tai kiusaaminen tämän ominaispiirteiden tai taustan takia ei ole millään tavalla hyväksyttävää.",
+          "date": "2025-12-14T12:31:53.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/7a7456d1-3470-441b-bf99-ec684a1d86a7"
         },
         {
           "publisherId": "hs",
@@ -327,54 +301,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011689294.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Orpo kommentoi Zelenskyin ja rasismikohua",
-      "mainCategories": [
-        "Politiikka",
-        "Pääministerit"
-      ],
-      "imageUrl": "/images/ukraina/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Orpo reagoi Ylellä Zelenskyin yllätys­avaukseen",
-          "content": "Pääministeri Petteri Orpo (kok) vastasi Yle Radio Suomessa niin Ukrainan tilannetta, maahanmuuttoa kuin Suomen talouttakin koskeviin kysymyksiin. Hän kertoi myös, miten aikoo viettää joulunsa. Ukrainan presidentti Volodymyr Zelenskyi on sanonut maansa luopuvan pyrkimyksistä päästä Naton jäseneksi, jos Ukraina saa muuten riittävät artikla 5:n kaltaiset turvatakuut USA:lta ja muilta sen kumppanimailta. Pääministeri Petteri Orpo otti kantaa Pääministerin haastattelutunti -ohjelmassa Yle Radio Suomella Zelenskyin tuoreeseen kantaan.",
-          "date": "2025-12-14T14:20:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/7271a590-fefb-4132-84bc-6fbedfba06a2"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Petteri Orpo tuomitsi perus­suomalaisten silmien venyttelyn pääministerin haastattelu­tunnilla",
-          "content": "Pääministeri Orpo väläytti myös lisäsopeutusten mahdollisuutta ja kiitteli Yhdysvaltoja Ukrainan rauhanprosessin etenemisestä.",
-          "date": "2025-12-14T13:34:28.000Z",
-          "categories": [
-            "politiikka",
-            "petteri orpo",
-            "pääministerit"
-          ],
-          "link": "https://yle.fi/a/74-20199683?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Petteri Orpo avasi vihdoin suunsa Ylellä – ”Se ei ole ok”",
-          "content": "Pääministeri Petteri Orpo otti Pääministerin haastattelutunnilla Yle Radio Suomessa kantaa hallituksen uuteen rasismikohuun. Kyse on joidenkin perussuomalaisten poliitikkojen jakamista kuvista, joissa nämä venyttelevät silmiään. Kohu lähti liikkeelle sittemmin Miss Suomen asemasta luopuneesta Sarah Dzafcesta somessa levitetystä kuvasta. Pääministeri Petteri Orpo (kok) kommentoi tiettävästi ensi kertaa Pääministerin haastattelutunti -ohjelmassa Yle Radio Suomella perussuomalaisten kansanedustajien toimintaa sanoen, että ensimmäinen asia on se, että yhdenkään ihmisen arvostelu tai kiusaaminen tämän ominaispiirteiden tai taustan takia ei ole millään tavalla hyväksyttävää.",
-          "date": "2025-12-14T12:31:53.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/7a7456d1-3470-441b-bf99-ec684a1d86a7"
         }
       ]
     },
@@ -413,6 +339,53 @@
       ]
     },
     {
+      "mainTitle": "Terrori-isku Sydneyn Bondi Beachilla",
+      "mainCategories": [
+        "Ulkomaat",
+        "Australia",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Hennan naapurissa ammuttiin useita kuoliaaksi – Terrori-isku järkyttää: ”Ranta oli ihan täynnä”",
+          "content": "Suomalaisen Henna Nousiaisen mukaan ranta oli tragedian tapahtuma-aikaan aivan täynnä.  Suomalainen Henna Nousiainen asuu vain minuutin päässä Sydneyssä sijaitsevasta rannasta, jossa tapahtui tänään ainakin 12 ihmisen hengen vaatinut terrori-isku. Nousiainen oli tapahtuma-aikaan kotonaan. Hänen takapihaltaan on suora näkymä Bondi Beachille, jossa tilanne on Nousiaisen mukaan yhä käynnissä.",
+          "date": "2025-12-14T12:22:54.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/563ad30e-61b8-49a9-9400-4b5dea4f5778"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Bondi Beach -rannan ampumista tutkitaan terrori-iskuna – kuolleita yli kymmenen ja noin 30 viety sairaalaan",
+          "content": "",
+          "date": "2025-12-14T10:37:49.000Z",
+          "categories": [
+            "australia",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6850743"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Sydneyn suositulla Bondi Beach -rannalla on ammuttu",
+          "content": "Australiassa Sydneyn suositulla Bondi Beach rannalla on tapahtunut ampuminen.",
+          "date": "2025-12-14T09:44:41.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/sydneyn-suositulla-bondi-beach-rannalla-on-ammuttu/12450563?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
       "mainTitle": "Oulu mainittu parhaissa matkakohteissa",
       "mainCategories": [
         "Suomi"
@@ -446,73 +419,7 @@
       ]
     },
     {
-      "mainTitle": "Mäkynen kritisoi Purran puhetta ja vastuuta",
-      "mainCategories": [
-        "Politiikka",
-        "Perussuomalaiset",
-        "Hallituspolitiikka"
-      ],
-      "imageUrl": "/images/riikka purra/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "SDP:n Mäkynen lataa Purran puheesta: ”Uhriutuminen”",
-          "content": "Matias Mäkynen pelkää, että hyvinvointialueet jäävät epävarmuuteen, koska hallitus ei esitä korjauksia rahoitukseen. SDP:n varapuheenjohtaja Matias Mäkynen sanoo Riikka Purran (ps) ”uhriutuneen oman talouspolitiikkansa haaksirikosta” perussuomalaisten puoluevaltuuston avauspuheessa sunnuntaina. – Purra aloitti luettelemalla ongelmia ja syyttämällä edeltäjiään ja siirsi sujuvasti vastuun seuraajilleen. Tästä välistä hän unohti oman vastuunsa. Valtiovarainministeri nostaa kädet pystyyn ihmisten palveluiden edessä, Mäkynen kirjoittaa tiedotteessa.",
-          "date": "2025-12-14T10:58:13.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/12e0e2b7-880c-42d5-83e2-57727dd6395c"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Purran mielestä hyvinvointialueita on liikaa – ei sanonut uutta silmienvenyttelykuvista",
-          "content": "",
-          "date": "2025-12-14T10:33:01.000Z",
-          "categories": [
-            "perussuomalaiset",
-            "hallituspolitiikka",
-            "puolueet",
-            "politiikka",
-            "uutiset",
-            "kotimaa"
-          ],
-          "link": "https://www.ts.fi/uutiset/6850740"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Purra kohauttaneista kuvista: Ei uutta kommentoitavaa",
-          "content": "Purra nosti puoluevaltuustossa tikun nokkaan Sanna Marinin hallituksen ja korosti, että suomalaisten täytyy olla etuoikeutettuja omassa maassaan.",
-          "date": "2025-12-14T10:14:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011688346.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Riikka Purra: Hyvinvointi­alueita on liikaa",
-          "content": "Puolueen puheenjohtaja Riikka Purra kertoi tänään, ettei kommentoi enempää perus­suomalaisten silmien­venyttely­kuvia.",
-          "date": "2025-12-14T07:30:56.000Z",
-          "categories": [
-            "politiikka",
-            "perussuomalaiset",
-            "riikka purra"
-          ],
-          "link": "https://yle.fi/a/74-20199603?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvaltain sotilaita kuoli Syyriassa iskuissa",
+      "mainTitle": "Yhdysvaltain sotilaita kuoli Syyriassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -546,7 +453,7 @@
       ]
     },
     {
-      "mainTitle": "Hallitukselta tulossa muutoksia maahanmuuttoon",
+      "mainTitle": "Hallitukselta suunnitelmia maahanmuuton kiristyksiin",
       "mainCategories": [
         "Politiikka"
       ],
@@ -579,7 +486,7 @@
       ]
     },
     {
-      "mainTitle": "Epäillyt suunnittelivat joulutorille iskua Saksassa",
+      "mainTitle": "Viisi miestä kiinni joulutorille suunnitellusta iskusta",
       "mainCategories": [
         "Ulkomaat"
       ],
@@ -654,13 +561,13 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan rauhanneuvottelut käynnistyvät Berliinissä",
+      "mainTitle": "Ukrainan ja Yhdysvaltojen rauhankeskustelut Berliinissä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat",
         "Politiikka"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -774,7 +681,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -820,7 +727,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -987,7 +894,7 @@
         "Hyvinvointialueet",
         "Puolueet"
       ],
-      "imageUrl": "/images/eduskunta/1.jpg",
+      "imageUrl": "/images/eduskunta/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1037,7 +944,7 @@
         "Talous",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1076,7 +983,7 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvaltojen joukot kaapatussa laivassa",
+      "mainTitle": "Yhdysvaltojen joukot kaapatussa säiliölaivassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1182,7 +1089,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
