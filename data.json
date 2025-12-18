@@ -1,51 +1,185 @@
 {
-  "timestamp": "2025-12-18T16:53:32.544Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-12-18T17:21:26.405Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Perussuomalaiset saivat vakavan huomautuksen",
+      "mainTitle": "Kirkon Ulkomaanapu vähentää henkilötyövuosia",
       "mainCategories": [
+        "Kotimaa",
+        "Muutosneuvottelut",
+        "Työmarkkinat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trumpin leikkaukset iskivät Suomeen – Yli 20 sai kenkää",
+          "content": "”Emme anna periksi”, sanoo Kirkon ulkomaanavun toiminnanjohtaja Tomi Järvinen. Kirkon ulkomaanavun (KUA) lokakuussa käynnistämät muutosneuvottelut johtavat reilun 21 henkilötyövuoden vähentämiseen KUA:n Helsingin-toimistolla, järjestö kertoo tiedotteessaan. – Päätökset ovat kipeitä mutta välttämättömiä rajusti muuttuneen kansainvälisen rahoitustilanteen vuoksi. Resurssit vähenevät, joten sopeutamme työtämme, jotta varmistamme avustustyömme maailman hauraimmilla alueilla, KUA:n toiminnanjohtaja Tomi Järvinen sanoo.",
+          "date": "2025-12-18T17:06:22.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/ed104927-f827-4940-b291-280d57423978"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Kirkon Ulkomaanapu vähentää runsaat 21 henkilötyövuotta",
+          "content": "",
+          "date": "2025-12-18T11:40:49.000Z",
+          "categories": [
+            "muutosneuvottelut",
+            "rahoitus",
+            "kirkko ja seurakunnat",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6855187"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kirkon Ulkomaanapu vähentää runsaat 21 henkilötyövuotta – syynä muun muassa Trumpin leikkaukset",
+          "content": "",
+          "date": "2025-12-18T10:34:14.000Z",
+          "categories": [
+            "työmarkkinat",
+            "kirkon ulkomaanapu",
+            "muutosneuvottelut",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20200506?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "EU tukee Ukrainaa huippukokouksessa Brysselissä",
+      "mainCategories": [
+        "Ulkomaat",
+        "Ukraina",
         "Politiikka"
       ],
-      "imageUrl": "/images/eduskunta/2.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Perussuomalaiset pyysi anteeksi – Eerolalle ja Garedewille vakava huomautus",
-          "content": "Pääministeripuolue kokoomus tyytyy perussuomalaisten anteeksipyyntöön, oppositiota perussuomalaisten ratkaisu ei tyydyttänyt.",
-          "date": "2025-12-18T16:47:00.000Z",
+          "title": "Tusk: Ukrainalle merkittävä läpimurto Brysselissä",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
+          "date": "2025-12-18T17:06:00.000Z",
           "categories": [
-            "politiikka"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011702893.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011638201.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Analyysi: Nyt se selviää – Pelaako EU Vladimir Putinin pussiin vai tukeeko se Ukrainaa?",
+          "content": "EU-maiden johtajat kokoontuvat torstaina Brysseliin huippukokoukseen, jossa punnitaan unionin painoarvo ja päätöksentekokyky, kirjoittaa Kauppalehden Brysselin-kirjeenvaihtaja Kreeta Karvala. Brysselissä on sähköinen tunnelma, kun EU-johtajat ja heidän avustajansa valmistautuivat merkittävään huippukokoukseen. Kokouksen tärkein asia on yksinkertainen: Ukrainalta loppuvat rahat keväällä, ja sen myötä pian myös aseet, jos EU ei tee päätöstä maan tukemisesta.",
+          "date": "2025-12-18T13:45:46.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/a6bace59-ae31-4e2e-aece-7214c192d01b"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Puolan pääministeri Tusk: ”Olemme saavuttaneet läpimurron”",
+          "content": "EU-maiden johtajat kokoontuvat Brysseliin päättämään Venäjän jäädytetyistä varoista ja muusta tuesta Ukrainalle.",
+          "date": "2025-12-18T06:50:38.000Z",
+          "categories": [
+            "euroopan unioni",
+            "venäjän hyökkäys",
+            "ukraina",
+            "eurooppa-neuvosto",
+            "petteri orpo"
+          ],
+          "link": "https://yle.fi/a/74-20200432?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Huippu­kokouksessa kova vääntö – saadaanko jäädytetyt venäläis­varat Ukrainan käyttöön?",
+          "content": "Putin havittelee yhä alueita Ukrainalta.",
+          "date": "2025-12-18T03:12:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011700466.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
+          "title": "Huippukokous | Orpo: ”Emme näe mitään merkkejä siitä, että Venäjä haluaa rauhaa”",
+          "content": "Pääministeri Petteri Orpo (kok) järjesti tiistaina Helsingissä huippukokouksen, johon kokoontuivat Venäjän ja Valko-Venäjän rajamaiden johtajat. Maat kiittelivät Yhdysvaltojen lupauksia turvatakuista Ukrainalle.",
+          "date": "2025-12-17T08:16:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011693705.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Rasismikohu vaatii hallituksen tilannearviota",
+      "mainCategories": [
+        "Politiikka",
+        "Perussuomalaiset",
+        "Kansanedustajat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
           "title": "Rasismi | Perussuomalaisten edustajat saivat vakavan huomautuksen, kokoomus tyytyväinen",
-          "content": "Perussuomalaisten eduskuntaryhmä päätti asiasta torstaina. Pääministeripuolue kokoomus sanoi heti, että se tyytyy perussuomalaisten ratkaisuun.",
-          "date": "2025-12-18T15:13:00.000Z",
+          "content": "Oppositio vaatii hallitukselta anteeksipyynnön lisäksi tiedonantoa sen yhteisistä arvoista.",
+          "date": "2025-12-18T16:53:00.000Z",
           "categories": [
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011699072.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Perus­suomalaisia kurmottanut kokoomuspomo: ”Olemme tyytyväisiä”",
-          "content": "Perussuomalaisten eduskuntaryhmä piti kokouksen, jossa käsiteltiin silmiä väännelleiden kansanedustajien mahdollisia seuraamuksia. Perussuomalaisten silmien vääntelystä kärjistynyt rasismikohu on keskiviikon ja torstain aikana noteerattu aasialaisessa ja muussa kansainvälisessä mediassa. Puolueen eduskuntaryhmä piti torstaina kello 14 kokouksen, jossa käsiteltiin kansanedustajien Juho Eerolan ja Kaisa Garedewin käytöstä. Iltalehden tietojen mukaan kokoomuksessa oli siinä määrin kyllästytty perussuomalaisten toimintaan, että puolue pyrki vaikuttamaan PS:n eduskuntaryhmään, jotta Eerolalle ja Garedewille annettaisiin huomautukset pelkän puhuttelun sijaan.",
-          "date": "2025-12-18T10:08:28.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Oppositio: Rasismikohu ei ole loppuun käsitelty, valmis olemaan töissä yli joulun – odottaa Orpolta tilannearviota",
+          "content": "Oppositio­puolueet vaativat pääministeriltä hallituksen yhteistä tilannearviota ja lopuksi luottamus­äänestystä rasismikohun takia.",
+          "date": "2025-12-18T15:11:02.000Z",
           "categories": [
-            "politiikka"
+            "politiikka",
+            "perussuomalaiset",
+            "kansanedustajat",
+            "oppositiopuolueet",
+            "suomen eduskunta"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/31b35e56-9d95-4fc6-9379-a3b805b2e96d"
+          "link": "https://yle.fi/a/74-20200625?origin=rss"
         }
       ]
     },
@@ -239,13 +373,13 @@
       ]
     },
     {
-      "mainTitle": "Rasismikohu perussuomalaisissa eduskuntaryhmässä jatkuu",
+      "mainTitle": "Rasismikohu perussuomalaisissa jatkuu edelleen",
       "mainCategories": [
         "Politiikka",
         "Rasismi",
         "Perussuomalaiset"
       ],
-      "imageUrl": "/images/eduskunta/2.jpg",
+      "imageUrl": "/images/eduskunta/1.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -408,7 +542,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -478,7 +612,7 @@
         "Kotimaa",
         "Paikalliset"
       ],
-      "imageUrl": "/images/oikeudenkäyn/2.jpg",
+      "imageUrl": "/images/oikeudenkäyn/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -646,7 +780,7 @@
         "Taloussanomat",
         "Rahapolitiikka"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -867,7 +1001,7 @@
       ]
     },
     {
-      "mainTitle": "Räjähdysonnettomuus työmaalla Vihdissä",
+      "mainTitle": "Räjähdysonnettomuus työmaalla Vihdissä, yksi loukkaantui",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -943,7 +1077,7 @@
         "Teleoperaattorit",
         "Muutosneuvottelut"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -1000,166 +1134,6 @@
             "yritystiedot"
           ],
           "link": "https://yle.fi/a/74-20200582?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "EU-päätökset Ukrainasta huippukokouksessa Brysselissä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ukraina",
-        "Politiikka"
-      ],
-      "imageUrl": "/images/ukraina/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Analyysi: Nyt se selviää – Pelaako EU Vladimir Putinin pussiin vai tukeeko se Ukrainaa?",
-          "content": "EU-maiden johtajat kokoontuvat torstaina Brysseliin huippukokoukseen, jossa punnitaan unionin painoarvo ja päätöksentekokyky, kirjoittaa Kauppalehden Brysselin-kirjeenvaihtaja Kreeta Karvala. Brysselissä on sähköinen tunnelma, kun EU-johtajat ja heidän avustajansa valmistautuivat merkittävään huippukokoukseen. Kokouksen tärkein asia on yksinkertainen: Ukrainalta loppuvat rahat keväällä, ja sen myötä pian myös aseet, jos EU ei tee päätöstä maan tukemisesta.",
-          "date": "2025-12-18T13:45:46.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/a6bace59-ae31-4e2e-aece-7214c192d01b"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Puolan pääministeri Tusk: ”Olemme saavuttaneet läpimurron”",
-          "content": "EU-maiden johtajat kokoontuvat Brysseliin päättämään Venäjän jäädytetyistä varoista ja muusta tuesta Ukrainalle.",
-          "date": "2025-12-18T06:50:38.000Z",
-          "categories": [
-            "euroopan unioni",
-            "venäjän hyökkäys",
-            "ukraina",
-            "eurooppa-neuvosto",
-            "petteri orpo"
-          ],
-          "link": "https://yle.fi/a/74-20200432?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Huippu­kokouksessa kova vääntö – saadaanko jäädytetyt venäläis­varat Ukrainan käyttöön?",
-          "content": "Putin havittelee yhä alueita Ukrainalta.",
-          "date": "2025-12-18T03:12:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011700466.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Huippukokous | Orpo: ”Emme näe mitään merkkejä siitä, että Venäjä haluaa rauhaa”",
-          "content": "Pääministeri Petteri Orpo (kok) järjesti tiistaina Helsingissä huippukokouksen, johon kokoontuivat Venäjän ja Valko-Venäjän rajamaiden johtajat. Maat kiittelivät Yhdysvaltojen lupauksia turvatakuista Ukrainalle.",
-          "date": "2025-12-17T08:16:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011693705.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Palkkaeroista keskustellaan STTK:ssa edelleen",
-      "mainCategories": [
-        "Politiikka",
-        "Työelämä",
-        "Työmarkkinat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kommentti: STTK:n uusi johtaja jatkoi heti sumuttamista naisten ja miesten palkkaerosta",
-          "content": "Kirvesniemen esiin nostama palkkaero ei kerro tasa-arvon tilasta, syrjinnästä eikä juuri siitäkään, miten samapalkkaisuus toteutuu työpaikoilla, kirjoittaa Iltalehden Mika Koskinen. Keskusjärjestö STTK:n torstaina valittu uusi puheenjohtaja Else-Mai Kirvesniemi valitteli linjapuheessaan sitä, että palkkatasa-arvo ei ole parantunut lainkaan, vaikka Suomi ratifioi jo vuonna 1962 kansainvälisen työjärjestön Ilon samapalkkaisuussopimuksen. Sopimuksen mukaan samanarvoisesta työstä täytyy miehille ja naisille maksaa sama palkka. Heti perään Kirvesniemi alkoi puhua siitä, että naisen euro oli Tilastokeskuksen vuoden 2025 selvityksen perusteella edelleen 84,1 senttiä.",
-          "date": "2025-12-18T13:36:15.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/b6b93a9d-ee88-47b9-8311-b5e2bbe10b47"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Ukottuneella työmarkkina­kentällä alkaa uusi aika",
-          "content": "Keskus­järjestöjen johtoon valitut naiset ovat painottaneet, ettei sukupuolella ole väliä. Toivottavasti on, kirjoittaa Ylen politiikan toimittaja Marica Paukkeri.",
-          "date": "2025-12-18T13:00:46.000Z",
-          "categories": [
-            "politiikka",
-            "työelämä",
-            "työmarkkinat",
-            "naisjohtajat",
-            "työmarkkinapolitiikka",
-            "tasa-arvo työelämässä",
-            "palkansaajajärjestöt ja ammattiliitot",
-            "elinkeinoelämän keskusliitto (ek)",
-            "tasa-arvo",
-            "edunvalvonta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20200385?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kouvolalaispoika tuomittiin pommin valmistamisesta",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikokset",
-        "Kouvola"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Äiti ei tiennyt, mitä 17-vuotias puuhasteli huoneessa – Tällainen on kouvolalais­pojan tuomio",
-          "content": "Kotietsinnässä pommeja valmistaneen maalaispojan huoneesta ja laitteista löytyi järkyttävää materiaalia. Kymenlaakson käräjäoikeus on tuominnut tänä vuonna 18 vuotta täyttäneen kouvolalaismiehen muun muassa nuorena tehdystä törkeän pahoinpitelyn yrityksestä kymmenen kuukauden ehdolliseen vankeusrangaistukseen. Nuorukainen jätti omatekoisen pommin koulututtunsa postilaatikon luokse. Pommi ei lauennut täysin sattumanvaraisesta syystä.",
-          "date": "2025-12-18T13:34:46.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/bf000882-9a2d-4918-aca7-b80fe688634a"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tuomiot | Perheen postilaatikolle pommin vienyt nuori tuomittiin ehdolliseen vankeuteen",
-          "content": "Käräjäoikeus luonnehti nuoren toimintaa hyvin moitittavaksi. Hän ei välittänyt, moniko mahdollisesti loukkaantuisi räjähdyksessä.",
-          "date": "2025-12-18T11:25:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011684468.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "17-vuotias poika vei tuttunsa postilaatikolle pommin Kouvolassa – tuomittiin vankeuteen",
-          "content": "Pommi löytyi uhrin perheen postilaatikolta koulujen päättäjäis­päivänä 2024. Pommi ei räjähtänyt.",
-          "date": "2025-12-18T10:16:23.000Z",
-          "categories": [
-            "rikokset",
-            "kouvola",
-            "pommit",
-            "nuoret",
-            "kymenlaakso",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20199809?origin=rss"
         }
       ]
     },
@@ -1223,7 +1197,7 @@
         "Asuntolainat",
         "Tilastokeskus"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -1402,61 +1376,6 @@
       ]
     },
     {
-      "mainTitle": "Kirkon Ulkomaanapu ja Kirkkohallitus vähentävät henkilöstöä",
-      "mainCategories": [
-        "Muutosneuvottelut",
-        "Kotimaa",
-        "Työmarkkinat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kirkon Ulkomaanapu vähentää runsaat 21 henkilötyövuotta",
-          "content": "",
-          "date": "2025-12-18T11:40:49.000Z",
-          "categories": [
-            "muutosneuvottelut",
-            "rahoitus",
-            "kirkko ja seurakunnat",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6855187"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kirkon Ulkomaanapu vähentää runsaat 21 henkilötyövuotta – syynä muun muassa Trumpin leikkaukset",
-          "content": "",
-          "date": "2025-12-18T10:34:14.000Z",
-          "categories": [
-            "työmarkkinat",
-            "kirkon ulkomaanapu",
-            "muutosneuvottelut",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20200506?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Leikkaukset | Kirkkohallitus leikkaa toimintaansa lähes kolmella miljoonalla ja vähentää henkilöstöä",
-          "content": "Kirkkohallitus vähentää yhteensä 31,6 henkilötyövuotta.",
-          "date": "2025-12-16T16:56:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011697107.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Japani odottaa Suomen vastausta rasismikohuun",
       "mainCategories": [
         "Maailma",
@@ -1528,6 +1447,39 @@
       ]
     },
     {
+      "mainTitle": "Nuori tuomittu pommin viemisesta, teinipoika surmasi",
+      "mainCategories": [
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tuomiot | Perheen postilaatikolle pommin vienyt nuori tuomittiin ehdolliseen vankeuteen",
+          "content": "Käräjäoikeus luonnehti nuoren toimintaa hyvin moitittavaksi. Hän ei välittänyt, moniko mahdollisesti loukkaantuisi räjähdyksessä.",
+          "date": "2025-12-18T11:25:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011684468.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iitin henkirikos | Teinipoika surmasi 52-vuotiaan: Syyttäjä vaatii yli 10 vuoden tuomiota",
+          "content": "Syyttäjän mukaan 15-vuotias poika surmasi puolustuskyvyttömän miehen tämän asunnossa erityisen julmalla ja raa’alla tavalla.",
+          "date": "2025-12-17T09:02:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011685779.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Oikeusasiamies moitti Ulkopoliittista instituuttia",
       "mainCategories": [
         "Kotimaa",
@@ -1586,7 +1538,7 @@
         "Viro",
         "Rajaturvallisuus"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1719,7 +1671,7 @@
       ]
     },
     {
-      "mainTitle": "STTK:n uusi puheenjohtaja Kirvesniemi valittiin",
+      "mainTitle": "STTK:n uusi puheenjohtaja on Kirvesniemi",
       "mainCategories": [
         "Politiikka",
         "Työmarkkinat",
@@ -1832,12 +1784,12 @@
       ]
     },
     {
-      "mainTitle": "Trumpin puhe herätti poikkeuksellista huomiota",
+      "mainTitle": "Trumpin poikkeuksellinen televisiopuhe herättää huomiota",
       "mainCategories": [
         "Yhdysvallat",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1883,7 +1835,7 @@
         "Kiina",
         "Kemianteollisuus"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1969,7 +1921,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2004,7 +1956,7 @@
         "Jääkarhu",
         "Kanada"
       ],
-      "imageUrl": "/images/kanada/2.jpg",
+      "imageUrl": "/images/kanada/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2036,70 +1988,12 @@
       ]
     },
     {
-      "mainTitle": "Nuoret syytetyt vakavista väkivaltarikoksista",
-      "mainCategories": [
-        "Kotimaa",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "19-vuotias purskahti kyyneliin ja sanoi poliisille: ”Minä tapoin sen”",
-          "content": "Taposta syytetyn miehen mielentila tutkittiin esitutkinnan aikana. Isoäiti joutui todistamaan lapsenlapsensa silmitöntä väkivaltaa helatorstaina Kuopiossa. Hänen tyttärensä parikymppinen poika kävi tyttärensä entisen kumppanin eli entisen isäpuolensa kimppuun sillä seurauksella, että 47-vuotias kuopiolaismies kuoli. Tätä nykyä 20-vuotiaalle miehelle luettiin torstaina syyte taposta.",
-          "date": "2025-12-18T05:51:12.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/5d4d19c4-5802-4c7d-bddb-32ac7f65bb5e"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Törkeä lapsenraiskaaja, 48, vuosiksi vankilaan – joutuu maksamaan uhreilleen yli 120 000 euron korvaukset",
-          "content": "Hovioikeus korotti miehen tuomiota, koska sen mielestä rikokset olivat ”erityisen vakavia”.",
-          "date": "2025-12-17T15:15:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011699156.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kammottavan veriteon yksityiskohdat julki: Tällaisesta teosta 15-vuotiasta teinipoikaa syytetään",
-          "content": "Teinipoikaa uhkaa Iitin verityöstä jopa 11 vuoden vankeusrangaistus. Syyttäjän mukaan teko oli erityisen raaka ja julma.",
-          "date": "2025-12-17T09:40:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011692787.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iitin henkirikos | Teinipoika surmasi 52-vuotiaan: Syyttäjä vaatii yli 10 vuoden tuomiota",
-          "content": "Syyttäjän mukaan 15-vuotias poika surmasi puolustuskyvyttömän miehen tämän asunnossa erityisen julmalla ja raa’alla tavalla.",
-          "date": "2025-12-17T09:02:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011685779.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Trumpin talouspuheessa virheellisiä väitteitä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2210,7 +2104,7 @@
       ]
     },
     {
-      "mainTitle": "Jared Kushner rauhanvälittäjänä Ukrainan kriisissä",
+      "mainTitle": "Jared Kushner rauhanvälittäjänä Ukrainassa ja Gazassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2285,7 +2179,7 @@
         "Talous",
         "Työllisyyspolitiikka"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2319,7 +2213,7 @@
       ]
     },
     {
-      "mainTitle": "Lasse Lehtosen sairausloma jatkuu toukokuuhun",
+      "mainTitle": "Lasse Lehtonen sairauslomalla toukokuuhun asti",
       "mainCategories": [
         "Politiikka",
         "Kotimaa"
@@ -2349,18 +2243,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011697148.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lasse Lehtonen palasi Suomeen ambulanssi­lennolla – sairaus­loma jatkuu toukokuun loppuun",
-          "content": "Lasse Lehtonen sairastui Brysselissä vakavasti ja saa nyt hoitoa Suomessa.",
-          "date": "2025-12-16T16:59:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011696513.html"
         }
       ]
     },
@@ -2612,8 +2494,7 @@
       "mainTitle": "Lidl vetää takaisin piparkakkuja muovin vuoksi",
       "mainCategories": [
         "Suomi",
-        "Taloussanomat",
-        "Takaisinveto"
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -2650,31 +2531,16 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011699371.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Takaisinveto: Lidlin piparkakut saattavat sisältää muovia",
-          "content": "",
-          "date": "2025-12-17T13:17:26.000Z",
-          "categories": [
-            "takaisinveto",
-            "lidl",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6854112"
         }
       ]
     },
     {
-      "mainTitle": "Trumpin kansliapäällikkö kritisoi presidenttiä",
+      "mainTitle": "Trump puolustaa kansliapäällikköään kommenttien jälkeen",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2772,7 +2638,7 @@
       ]
     },
     {
-      "mainTitle": "Ohisalo kanteli Tynkkysen rasistisesta toiminnasta",
+      "mainTitle": "Ohisalo kanteli Tynkkystä rasistisesta toiminnasta",
       "mainCategories": [
         "Politiikka",
         "Rasismi",
@@ -2817,7 +2683,7 @@
         "Politiikka",
         "Rasismi"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2913,7 +2779,7 @@
       ]
     },
     {
-      "mainTitle": "Työeläkkeisiin ja verotukseen muutoksia ensi vuonna",
+      "mainTitle": "Työeläkkeisiin ja verotukseen muutoksia 2026",
       "mainCategories": [
         "Talous",
         "Työeläkkeet",
@@ -3051,7 +2917,7 @@
       ]
     },
     {
-      "mainTitle": "Kokaiinin salakuljetus perheyrityksen nimissä",
+      "mainTitle": "Kokaiinin salakuljetus suomalaisen yrityksen nimissä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -3165,7 +3031,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
