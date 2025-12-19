@@ -1,17 +1,8 @@
 {
-  "timestamp": "2025-12-19T12:35:54.426Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-12-19T13:31:38.599Z",
+  "successCount": 18,
+  "failureCount": 4,
   "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
     {
       "url": {
         "publisherId": "yle",
@@ -35,43 +26,7 @@
         "publisherId": "yle",
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
       },
       "reason": {}
     },
@@ -83,18 +38,177 @@
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
       },
       "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
     }
   ],
   "feeds": [
+    {
+      "mainTitle": "Pirkkalan koulupuukottaja todettiin syyntakeettomaksi",
+      "mainCategories": [
+        "Kotimaa",
+        "Oikeudenkäynnit",
+        "Rikosepäilyt"
+      ],
+      "imageUrl": "/images/oikeudenkäyn/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pirkkalan koulupuukottaja syyntakeeton",
+          "content": "Nuorukainen ehti iskeä kolmea 14-vuotiasta tyttöä puukolla. Pian teon jälkeen sosiaalisessa mediassa levisi manifesti, jonka poliisi vahvisti olleen 16-vuotiaan epäillyn käsialaa.",
+          "date": "2025-12-19T13:18:00.000Z",
+          "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000011696341.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kouluhyökkäys | Pirkkalan 16-vuotias koulu­puukottaja todettiin syyn­takeettomaksi",
+          "content": "16-vuotias puukotti koulussa Pirkkalassa kolmea 14-vuotiasta tyttöä. HS seuraa oikeudenkäyntiä hetki hetkeltä.",
+          "date": "2025-12-19T13:02:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011684484.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "“Moi, puukotin muutamaa ihmistä” – Pirkkalan koulupuukotuksista syytetty soitti itse hätäkeskukseen",
+          "content": "Kolme tyttöä sai puukotuksissa vakavia vammoja Vähäjärven koulussa toukokuussa. 16-vuotiasta poikaa syytetään kolmesta murhan yrityksestä.",
+          "date": "2025-12-19T06:47:54.000Z",
+          "categories": [
+            "oikeudenkäynnit",
+            "rikosepäilyt",
+            "pirkanmaa",
+            "kotimaa",
+            "väkivalta",
+            "nuoret",
+            "koulut",
+            "pirkkala"
+          ],
+          "link": "https://yle.fi/a/74-20200690?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Pirkkalan koulu­puukottaja, 16, on syyntakeeton",
+          "content": "16-vuotiasta koulupuukottajaa syytetään kolmesta murhan yrityksestä. Iltalehti seuraa oikeudenkäyntiä tässä jutussa. Pirkkalan koulupuukotuksen oikeudenkäynti alkoi Pirkanmaan käräjäoikeudessa tänään perjantaina. 16-vuotiasta poikaa syytetään kolmesta murhan yrityksestä. Yhdeksäsluokkalainen poika hyökkäsi veitsellä kolmen 14-vuotiaan tytön kimppuun Vähäjärven koulussa tiistaina 20. toukokuuta. Uhrit selviytyivät ilman vakavia fyysisiä vammoja.",
+          "date": "2025-12-19T04:33:12.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/13931847-fbdf-4023-9171-d7ec116eef5e"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Summa Defencen osakkeiden kaupankäynti keskeytettiin",
+      "mainCategories": [
+        "Sijoittaminen",
+        "Taloussanomat",
+        "Maanpuolustus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Summa Defencen iso tilaus siirtyy ensi vuodelle, yhtiölle ehdollinen 5 miljoonan euron rahoitus, kaupankäynti jatkuu",
+          "content": "Helsingin pörssi keskeytti eilen kaupankäynnin Summan osakkeella ja kertoi yhtiön lähettävän myöhemmin tiedotteen.",
+          "date": "2025-12-19T13:09:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/5e7221b4-fbe1-4d90-b95e-a93e0ec243e2"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pörssissä erikoinen näytelmä joulun alla – Summa Defence mykkänä yli vuorokauden",
+          "content": "Kaupankäynti Summa Defencen osakkeella keskeytettiin torstaina, minkä jälkeen yhtiö oli hiljaa pitkälle perjantai-iltapäivään.",
+          "date": "2025-12-19T13:06:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011705086.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Surkea suoritus, Summa Defence",
+          "content": "Summa Defence ei ole vieläkään avannut syytä osakkeensa kaupankäynnin keskeyttämiselle. Yhtiö on jättänyt yli 29 000 osakkeenomistajaansa hämärään jo lähes vuorokaudeksi. Olivat uutiset hyviä tai huonoja, ne pitäisi kertoa viivyttelemättä, kirjoittaa toimittaja Tatu Sailaranta.",
+          "date": "2025-12-19T11:47:00.000Z",
+          "categories": [
+            "maanpuolustus"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/928e5d12-1c53-4c9c-b7aa-93da17d74110"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Kaupankäynti keskeytettiin Summa Defencen osakkeella – Näin Helsingin pörssi kommentoi",
+          "content": "Nasdaq Helsingin viestintäjohtaja Maarit Bystedt ei rajaa tarkasti, kuinka kauan kaupankäynti osakkeella voi olla keskeytettynä Helsingin pörssissä. Bystedt kommentoi kaupankäynnin keskeytyksiä yleisellä tasolla.",
+          "date": "2025-12-19T08:39:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/7cecd147-2c05-455b-aadf-5142028c2da9"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Putin esitteli Venäjän rauhanehdot Ukrainalle",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Putin nosti esille Venäjän rauhanehdot – kovat vaatimukset Ukrainalle",
+          "content": "Putinin mukaan vuoden 2024 linjaus rauhanehdoista pitää edelleen.",
+          "date": "2025-12-19T13:04:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011705315.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Putin nimitteli eurooppalaisia johtajia ”pikku­possuiksi” – valmistautuu jo perjantain suureen tv-maratoniin",
+          "content": "Vladimir Putin pitää vuotuisen ”suoran linjansa” perjantaina. Aikataulu on otollinen sille, että Putin ilmoittanee tuolloin kantansa myös Ukrainan sodan rauhanehdotuksiin.",
+          "date": "2025-12-18T07:25:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011697251.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Putin sanoo, että Venäjä saavuttaa varmasti tavoitteensa Ukrainassa",
+          "content": "Zelenskyi arvioi keskiviikkona, että Venäjä valmistautuu jatkamaan hyökkäyssotaansa Ukrainassa myös ensi vuonna.",
+          "date": "2025-12-17T17:54:25.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/putin-sanoo-etta-venaja-saavuttaa-varmasti-tavoitt/12458491?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
     {
       "mainTitle": "Jani Mäkelän käytös herättää huolta",
       "mainCategories": [
@@ -107,7 +221,7 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Sisäpiiri puhuu nyt suoraan Jani Mäkelän käytöksestä: ”Voit itse vetää johtopäätökset”",
+          "title": "Sisäpiiri puhuu nyt suoraan Jani Mäkelän käytöksestä",
           "content": "Selvitimme Jani Mäkelän käytöstä. Politiikan sisäpiiri puhuu nyt suoraan miehestä, jolla on kaksi hyvin erilaista puolta. Paljastui myös, että Mäkelän välit Riikka Purraan puhuttavat. Perussuomalaisten Jani Mäkelä on ollut viime päivinä runsaasti julkisuudessa rasismikohun vuoksi. Selvitimme sisäpiiristä, miten mies käyttäytyy kulissien takana. Kommentit olivat paljonpuhuvia ja suoria. Yhteistyö Mäkelän kanssa on koettu vaikeaksi ja käytös jopa ilkeileväksi. Tavoitimme Mäkelän, joka ei kiistä väitteitä. Toisaalta Mäkelän luonteesta löytyi myös yllättävä piirre, joka on suurelle yleisölle tuntematon.",
           "date": "2025-12-19T12:20:39.000Z",
           "categories": [
@@ -130,36 +244,67 @@
       ]
     },
     {
-      "mainTitle": "Summa Defence keskeytti osakekaupan edelleen",
+      "mainTitle": "Stubb kommentoi rasismia joulutervehdyksissä",
       "mainCategories": [
-        "Sijoittaminen",
-        "Maanpuolustus"
+        "Politiikka",
+        "Perinteet",
+        "Jouluperinteet"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Omistaja Summasta: \"Yhtiö on vasta alkumatkalla\"",
-          "content": "Arvo Sijoitusosuuskunnan toimitusjohtaja Jari Pirinen sanoo Kauppalehden haastattelussa, että kaupankäynnin keskeytykset herättävät kysymyksiä, mutta niihin on syytä suhtautua rauhallisesti.",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Stubb murjaisi vitsin joulu­kinkusta",
+          "content": "Presidenttiparille annetaan perinteiset joulutervehdykset.",
           "date": "2025-12-19T12:20:00.000Z",
           "categories": [
-            "sijoittaminen"
+            "politiikka"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/f91ebb84-e308-439d-be04-cd280b64071e"
+          "link": "https://www.is.fi/politiikka/art-2000011693904.html"
         },
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Surkea suoritus, Summa Defence",
-          "content": "Summa Defence ei ole vieläkään avannut syytä osakkeensa kaupankäynnin keskeyttämiselle. Yhtiö on jättänyt yli 29 000 osakkeenomistajaansa hämärään jo lähes vuorokaudeksi. Olivat uutiset hyviä tai huonoja, ne pitäisi kertoa viivyttelemättä, kirjoittaa toimittaja Tatu Sailaranta.",
-          "date": "2025-12-19T11:47:00.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Stubb jyrähti rasismista",
+          "content": "Presidentti Stubb kommentoi kansainväliseen mediaan asti levinnyttä rasismikohua. On huolestuttavaa, että Suomessa on edelleen rasismia, sanoo tasavallan presidentti Alexander Stubb. – On tietenkin surullista, että viime vuonna tähän aikaan Suomessa oli Lucia-neitoon liittyvä rasismikeskustelu ja tänä vuonna sama toistuu uudestaan.",
+          "date": "2025-12-19T11:42:51.000Z",
           "categories": [
-            "maanpuolustus"
+            "politiikka"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/928e5d12-1c53-4c9c-b7aa-93da17d74110"
+          "link": "https://www.iltalehti.fi/politiikka/a/836850d1-0446-42db-81a7-22673651cbfe"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Stubb harmissaan: Vuosi sitten rasismi­keskustelu Lucia-neidosta, nyt sama toistuu",
+          "content": "Presidentti toivoo, että Suomi voisi jättää rasismin taakseen. Orpon mukaan tämänkertainen rasismikohu on loppuun käsitelty.",
+          "date": "2025-12-19T11:16:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011703416.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Stubb: Rasismi aiheuttaa meille kansainvälistä mainehaittaa – presidenttipari vastaanotti perinteiset joulutervehdykset",
+          "content": "Stubbin mukaan Suomessa ei pitäisi olla tilaa rasismille.",
+          "date": "2025-12-19T08:35:35.000Z",
+          "categories": [
+            "perinteet",
+            "jouluperinteet",
+            "jouluterveiset",
+            "alexander stubb",
+            "suzanne innes-stubb",
+            "kotimaa",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20200529?origin=rss"
         }
       ]
     },
@@ -210,52 +355,6 @@
       ]
     },
     {
-      "mainTitle": "Pirkkalan koulupuukotus: 16-vuotias syytetty murhan yrityksistä",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/oikeudenkäyn/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Opettaja luuli \"ninjaksi\" pukeutunutta koulupuukottajaa vitsiksi",
-          "content": "Nuorukainen ehti iskeä kolmea 14-vuotiasta tyttöä puukolla. Pian teon jälkeen sosiaalisessa mediassa levisi manifesti, jonka poliisi vahvisti olleen 16-vuotiaan epäillyn käsialaa.",
-          "date": "2025-12-19T12:18:00.000Z",
-          "categories": [
-            "tampereen seutu"
-          ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000011696341.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pirkkala | Opettaja kertoo luulleensa ninjaksi pukeutunutta oppilasta ensin vitsiksi",
-          "content": "16-vuotias puukotti koulussa Pirkkalassa kolmea 14-vuotiasta tyttöä. HS seuraa oikeudenkäyntiä hetki hetkeltä.",
-          "date": "2025-12-19T11:45:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011684484.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Lohduton paljastus Pirkkalan koulu­puukotuksen uhrien voinnista – ”Säälimätön teko”",
-          "content": "16-vuotiasta koulupuukottajaa syytetään kolmesta murhan yrityksestä. Iltalehti seuraa oikeudenkäyntiä tässä jutussa. Pirkkalan koulupuukotuksen oikeudenkäynti alkoi Pirkanmaan käräjäoikeudessa tänään perjantaina. 16-vuotiasta poikaa syytetään kolmesta murhan yrityksestä. Yhdeksäsluokkalainen poika hyökkäsi veitsellä kolmen 14-vuotiaan tytön kimppuun Vähäjärven koulussa tiistaina 20. toukokuuta. Uhrit selviytyivät ilman vakavia fyysisiä vammoja.",
-          "date": "2025-12-19T04:33:12.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/13931847-fbdf-4023-9171-d7ec116eef5e"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kotiutunut varusmies kuoli liikenneonnettomuudessa",
       "mainCategories": [
         "Kotimaa",
@@ -302,46 +401,53 @@
       ]
     },
     {
-      "mainTitle": "Stubb: Rasismi Suomessa huolestuttaa jälleen",
+      "mainTitle": "Sdp:n Hiltunen äänesti potkulakia vastaan",
       "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Eduskunta",
+        "Äänestäminen"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/eduskunta/4.jpg",
       "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Stubb jyrähti rasismista",
-          "content": "Presidentti Stubb kommentoi kansainväliseen mediaan asti levinnyttä rasismikohua. On huolestuttavaa, että Suomessa on edelleen rasismia, sanoo tasavallan presidentti Alexander Stubb. – On tietenkin surullista, että viime vuonna tähän aikaan Suomessa oli Lucia-neitoon liittyvä rasismikeskustelu ja tänä vuonna sama toistuu uudestaan.",
-          "date": "2025-12-19T11:42:51.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/836850d1-0446-42db-81a7-22673651cbfe"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Rasismi | Stubb harmissaan: Vuosi sitten rasismi­keskustelu Lucia-neidosta, nyt sama toistuu",
-          "content": "Presidentti toivoo, että Suomi voisi jättää rasismin taakseen. Orpon mukaan tämänkertainen rasismikohu on loppuun käsitelty.",
-          "date": "2025-12-19T11:16:00.000Z",
+          "title": "”Potkulaki” | Sdp:n Hiltunen äänesti vastoin ryhmänsä kantaa, sai huomautuksen",
+          "content": "Eduskunta hyväksyi hallituksen esityksen työntekijöiden henkilöperusteisen irtisanomisen helpottamisesta. Sdp:n Pia Hiltunen äänesti toisin kuin muut ryhmässään.",
+          "date": "2025-12-19T11:25:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011703416.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011703783.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Eduskunta hyväksyi potkulain – demariedustaja äänesti hallituksen kannan puolesta",
+          "content": "",
+          "date": "2025-12-19T08:28:39.000Z",
+          "categories": [
+            "politiikka",
+            "eduskunta",
+            "äänestäminen",
+            "suomen sosialidemokraattinen puolue",
+            "irtisanominen",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20200730?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Suomen talouden heikkeneminen ennustettu ensi vuodelle",
+      "mainTitle": "Suomen talouden kasvuennuste heikentynyt merkittävästi",
       "mainCategories": [
         "Talous",
         "Politiikka",
-        "Taloussanomat"
+        "Keskuspankit"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -368,6 +474,34 @@
           "link": "https://www.is.fi/taloussanomat/art-2000011703574.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomen Pankki laski ennustettaan Suomen talouskasvusta: kansantalous kasvaa tänä vuonna vain 0,2 prosenttia",
+          "content": "Talouskasvu jää aikaisempaa ennakoitua heikommaksi myös ensi vuonna. Työllisyystilanne kohenee vähitellen, Suomen Pankki ennakoi.",
+          "date": "2025-12-19T09:00:35.000Z",
+          "categories": [
+            "talous",
+            "suomen pankki",
+            "taloudelliset ennusteet",
+            "keskuspankit",
+            "talouskasvu"
+          ],
+          "link": "https://yle.fi/a/74-20200702?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rahapolitiikka | Euroopan keskuspankki ennustaa vahvempaa talous­kasvua, pitää korot ennallaan",
+          "content": "Uuden ennusteen mukaan talous kasvaa yli prosentin jokaisena seuravana kolmena vuotena.",
+          "date": "2025-12-18T15:03:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011693807.html"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -378,11 +512,26 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011700544.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hallituksen tavoite taittaa velkaantuminen on epäonnistumassa – ministeriöltä synkkä viesti: Taantuma pitkittynyt",
+          "content": "Suomen talouden kasvu jää tänä vuonna olemattomaksi, arvioi valtiovarainministeriö. Ensi vuonna kasvu on hitaampaa kuin aiemmin on ennustettu.",
+          "date": "2025-12-18T09:00:07.000Z",
+          "categories": [
+            "politiikka",
+            "talous",
+            "valtiovarainministeriö",
+            "taloudelliset ennusteet"
+          ],
+          "link": "https://yle.fi/a/74-20200435?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Hiski Haukkala saa luottamusta Upissa",
+      "mainTitle": "Hiski Haukkala jatkaa Upin johdossa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -392,7 +541,7 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Nepotismi | Upin hallitus: Hiski Haukkala nauttii täyttä luottamusta",
+          "title": "Nepotismi | Hiski Haukkala jatkaa Upin johdossa – Sanoi vielä kesällä, että harjoittelijan rekrytointi meni täysin normaalisti",
           "content": "Vielä heinäkuussa Hiski Haukkala oli sitä mieltä, että Oliver Stubbin rekrytointiprosessissa ei ollut mitään poikkeavaa.",
           "date": "2025-12-19T11:02:00.000Z",
           "categories": [
@@ -446,11 +595,13 @@
       ]
     },
     {
-      "mainTitle": "Hallituksen velkaantuminen uhkaa kasvaa merkittävästi",
+      "mainTitle": "Julkisen talouden sopeutustarve kasvaa merkittävästi",
       "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Valtiovarainministeriö",
+        "Talous"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/riikka purra/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -465,26 +616,110 @@
           "link": "https://www.hs.fi/politiikka/art-2000011703795.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Velkaantuminen | Hallituksen tavoite on karannut jo yli kahden miljardin euron päähän",
-          "content": "Velkasuhde ei ole vakautumassa hallituksen tavoittelemalla tavalla, käy ilmi valtiovarainministeriön tuoreesta ennusteesta.",
-          "date": "2025-12-18T10:29:00.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Karmeat luvut Suomen taloudesta julki",
+          "content": "Valtiovarainministeriön mukaan julkisen talouden sopeutustarve on kasvanut merkittävästi.",
+          "date": "2025-12-19T09:04:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011701406.html"
+          "link": "https://www.is.fi/politiikka/art-2000011704090.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Riikka Purra julkisen talouden so­peu­tus­tar­pees­ta: ”Luvut ovat hirmuisia”",
+          "content": "Val­ti­o­va­rain­mi­ni­s­te­ri Riikka Purra pelkää, että ensi vaalikaudella kymmenen miljardin euron sopeutuskin jää alakanttiin.",
+          "date": "2025-12-19T08:48:14.000Z",
+          "categories": [
+            "politiikka",
+            "riikka purra",
+            "talous",
+            "valtion talousarviot",
+            "valtiovarainministeriö"
+          ],
+          "link": "https://yle.fi/a/74-20200693?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valtiovarainministeriö: Orpon hallitus voi joutua sopeuttamaan julkista taloutta vielä jopa 1,4 miljardilla",
+          "content": "Julkista taloutta pitää sopeuttaa merkittävästi lisää tulevalla hallituskaudella, eikä lisäsopeutusten tarvetta voi sulkea pois myöskään tällä kaudella, arvioi ministeriö.",
+          "date": "2025-12-19T08:39:48.000Z",
+          "categories": [
+            "politiikka",
+            "valtiovarainministeriö"
+          ],
+          "link": "https://yle.fi/a/74-20200698?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Riikka Purra rasismikohusta: ”Tällaisia virheitä ei kannattaisi tehdä”",
+          "content": "Perussuomalaisten puheenjohtaja, valtiovarainministeri Riikka Purra sanoo IS:lle olevansa varma, että kaikki ovat viimeistään tässä vaiheessa ymmärtäneet, että ”tällaisia virheitä ei kannattaisi tehdä”.",
+          "date": "2025-12-18T11:36:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011701720.html"
         }
       ]
     },
     {
-      "mainTitle": "Mäkysen kunnianloukkaussyyte hylättiin, Talso tuomittiin",
+      "mainTitle": "Kolme poliisia tuomittiin kaasusumutuksesta",
       "mainCategories": [
-        "Suomi",
-        "Politiikka"
+        "Oikeudenkäynnit",
+        "Elokapina",
+        "Poliisi"
       ],
-      "imageUrl": "/images/eduskunta/3.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Helsinki | Kolme poliisia tuomittiin Elokapinan mielen­osoittajien sumuttamisesta",
+          "content": "Poliisi käytti kaasusumutetta vuonna 2020 Helsingin keskustassa, kun mielenosoittajat eivät suostuneet poistumaan ajoradalta.",
+          "date": "2025-12-19T09:54:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011704018.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hovioikeus antoi kolmelle poliisille sakot Elokapinan mielenosoittajien sumuttamisesta kaasulla Kaisaniemessä",
+          "content": "Hovioikeuden mukaan poliiseilla olisi ollut velvollisuus harkita itsenäisesti OC-sumutteen käyttämistä yleisjohtajan antamasta hyväksynnästä huolimatta. ",
+          "date": "2025-12-19T08:30:18.000Z",
+          "categories": [
+            "oikeudenkäynnit",
+            "elokapina",
+            "poliisi",
+            "helsinki",
+            "mielenosoitukset",
+            "helsingin hovioikeus",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20200722?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mäkynen vapautui kunnianloukkauksesta syytteistä",
+      "mainCategories": [
+        "Oikeus",
+        "Kunnianloukkaus",
+        "Kansanedustajat"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -499,16 +734,142 @@
           "link": "https://www.hs.fi/suomi/art-2000011703730.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "PS:n entisen kansan­edustajan syyte kaatui ",
-          "content": "Entinen eduskunta-avustaja Mikko Talso tuomittiin kunnianloukkauksesta sakkorangaistukseen. Ex-kansanedustajan syyte kaatui. Pohjanmaan käräjäoikeus on hylännyt entisen kansanedustajan Jukka Mäkysen (ps) kunnianloukkaussyytteen. Sen sijaan Mäkysen entinen eduskunta-avustaja Mikko Talso on tuomittu kunnianloukkauksesta sakkorangaistukseen. 25 päiväsakkoa tekee Talson tuloilla 325 euroa.",
-          "date": "2025-12-19T09:25:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ex-kansanedustaja Jukka Mäkysen syytteet kunnianloukkauksesta hylättiin",
+          "content": "Vaasan vaalipiiristä kansanedustajana toiminutta Jukka Mäkystä (ps.) ja hänen eduskunta-aikojensa avustajaa Mikko Talsoa syytettiin kunnianloukkauksesta.",
+          "date": "2025-12-19T09:00:39.000Z",
+          "categories": [
+            "oikeus",
+            "kunnianloukkaus",
+            "kansanedustajat",
+            "pohjanmaa",
+            "oikeudenkäyntikulut",
+            "vaasa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20200713?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "EU myöntää 90 miljardia euroa Ukrainalle",
+      "mainCategories": [
+        "Ulkomaat",
+        "Ukraina",
+        "Venäjä"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Ukrainan saama rahoitus­paketti paljastaa Euroopan heikkouden",
+          "content": "Brysselistä lähti väärä viesti Moskovaan, kirjoittaa erikoistoimittaja Jouko Juonala.",
+          "date": "2025-12-19T09:45:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011704013.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Kolme maata EU:ssa vastustaa nyt Ukrainan tukemista, mutta viime yö osoitti suuren enemmistön horju­mattomuuden",
+          "content": "Yhteislaina oli selkeä verrattuna EU-komission keksimään jäädytettyjen varojen kieputukseen, kirjoittaa Ylen EU-kirjeenvaihtaja Hannele Muilu.",
+          "date": "2025-12-19T08:25:10.000Z",
+          "categories": [
+            "euroopan unioni",
+            "ukraina",
+            "venäjä",
+            "euroopan komissio",
+            "belgia",
+            "ulkomaat",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20200688?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "EU lähtee tukemaan Ukrainaa 90 miljardin yhteisvelalla – jäädytettyjen venäläisvarojen käyttö jäi hyllylle",
+          "content": "Suomi tuki vahvasti Venäjän sotakorvauslainaan perustuvaa ratkaisua, jota ei nyt syntynyt.",
+          "date": "2025-12-19T05:27:40.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/eu-lahtee-tukemaan-ukrainaa-90-miljardin-yhteisvel/12460698?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "EU | EU-maat päättivät 90 miljardin euron yhteis­velasta Ukrainalle",
+          "content": "Venäjän jäädytettyihin varoihin ei kosketa. Pääministeri Petteri Orpo sanoo, että huippukokouksen päätös oli pettymys, mutta se turvaa päätavoitteen eli Ukrainan rahoituksen.",
+          "date": "2025-12-19T04:41:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/6d974010-c84b-4701-8cbc-2c1871b9446f"
+          "link": "https://www.hs.fi/politiikka/art-2000011703398.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääministeri Orpo: ”Erilainen ratkaisu kuin mitä lähdettiin hakemaan”",
+          "content": "Jäädytettyjen venäläisvarojen käytön sijaan EU päätyi tukemaan Ukrainaa yhteislainalla.",
+          "date": "2025-12-19T04:13:00.000Z",
+          "categories": [
+            "euroopan unioni",
+            "ukraina",
+            "pääministerit",
+            "venäjä",
+            "politiikka",
+            "petteri orpo",
+            "venäjän hyökkäys",
+            "talous",
+            "lainat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20200668?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Putin pitää vuotuisen tiedotustilaisuutensa",
+      "mainCategories": [
+        "Venäjä",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ärhenteleekö Putin taas Euroopalle? Yle seuraa Putinin mediaspektaakkelia",
+          "content": "Venäjän presidentti Vladimir Putin pitää jokavuotisen, tiukasti orkestroidun tiedotustilaisuutensa, jossa hän vastaa tunteja kansalaisten ja median kysymyksiin.",
+          "date": "2025-12-19T08:37:06.000Z",
+          "categories": [
+            "venäjä",
+            "venäjän hyökkäys",
+            "vladimir putin"
+          ],
+          "link": "https://yle.fi/a/74-20200733?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Suora lähetys: Putin paljasti: Olen rakastunut",
+          "content": "Venäjän presidentin vuotuinen propagandatilaisuus järjestetään jälleen perjantaina Moskovassa. Venäjän presidentti Vladimir Putin pitää perjantaina jo lähes perinteeksi muodostuneen loppuvuoden suoran propagandamaratoninsa, jossa venäläiset pääsevät näennäisen vapaasti esittämään hänelle kysymyksiä. Ennen Venäjän hyökkäystä Ukrainaan Putin piti kaksi vastaavaa tapahtumaa vuodessa, mutta nyt esiintymiset ovat jääneet puoleen siitä jo kolmatta vuotta peräkkäin.",
+          "date": "2025-12-19T08:00:44.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/47408272-1bac-4b65-b86b-03a8a05111d3"
         }
       ]
     },
@@ -650,58 +1011,101 @@
       ]
     },
     {
-      "mainTitle": "EU tukee Ukrainaa 90 miljardilla eurolla",
+      "mainTitle": "Patrian Saksan-tilaus hyödyttää Uudenkaupungin teollisuutta",
       "mainCategories": [
-        "Ulkomaat",
-        "Politiikka"
+        "Talous",
+        "Patria",
+        "Saksa"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/saksa/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "EU lähtee tukemaan Ukrainaa 90 miljardin yhteisvelalla – jäädytettyjen venäläisvarojen käyttö jäi hyllylle",
-          "content": "Suomi tuki vahvasti Venäjän sotakorvauslainaan perustuvaa ratkaisua, jota ei nyt syntynyt.",
-          "date": "2025-12-19T05:27:40.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/eu-lahtee-tukemaan-ukrainaa-90-miljardin-yhteisvel/12460698?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Uudenkaupungin autotehdas hyötyy Patrian jättimäisestä Saksan-tilauksesta",
+          "content": "Patrian hallituksen puheenjohtaja Panu Routila ei suoraan kommentoi, mikä Uudenkaupungin rooli Saksan-tilauksen täyttämisessä on.",
+          "date": "2025-12-19T07:02:36.000Z",
+          "categories": [
+            "talous",
+            "valmet automotive",
+            "uusikaupunki",
+            "patria",
+            "autoteollisuus",
+            "saksa",
+            "varsinais-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20200694?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Patrian historian suurin vaunukauppa alle­kirjoitettu: arvo optioineen yli 2 miljardia euroa",
+          "content": "Saksan parlamentti hyväksyi yli kahden miljardin euron arvoisen Patria 6x6 -panssari­ajoneuvojen tilauksen.",
+          "date": "2025-12-18T13:24:14.000Z",
+          "categories": [
+            "maanpuolustus",
+            "saksa",
+            "patria",
+            "patria 6x6",
+            "talous",
+            "kanta-häme"
+          ],
+          "link": "https://yle.fi/a/74-20200494?origin=rss"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "EU | EU-maat päättivät 90 miljardin euron yhteis­velasta Ukrainalle",
-          "content": "Venäjän jäädytettyihin varoihin ei kosketa. Pääministeri Petteri Orpo sanoo, että huippukokouksen päätös oli pettymys, mutta se turvaa päätavoitteen eli Ukrainan rahoituksen.",
-          "date": "2025-12-19T04:41:00.000Z",
+          "title": "Puolustusteollisuus | Patria otti riskin vuosia sitten, kun muut nukkuivat – nyt Saksa maksaa siitä miljardeja",
+          "content": "Euroopan Nato-maat ostavat nyt jonossa Patrian panssaroituja vaunuja, jotka on suunniteltu suomalaisille varusmiehille: halvaksi ja helpoksi ajaa.",
+          "date": "2025-12-18T13:22:00.000Z",
           "categories": [
-            "politiikka"
+            "talous"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011703398.html"
+          "link": "https://www.hs.fi/talous/art-2000011700581.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Konkurssihakemukset saavuttivat ennätystason",
+      "mainCategories": [
+        "Talous",
+        "Konkurssi",
+        "Yritykset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Konkurssihakemusten määrä nousi 2000-luvun ennätykseen",
+          "content": "Konkurssiin haettujen yritysten henkilötyövuosien määrä oli lähes tuhat.",
+          "date": "2025-12-19T06:51:46.000Z",
+          "categories": [
+            "talous",
+            "konkurssi",
+            "yritykset"
+          ],
+          "link": "https://yle.fi/a/74-20200691?origin=rss"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "EU-johtajat sopuun Ukrainan tuesta – tällainen on ratkaisu",
-          "content": "Pääministeri Orpon mukaan ratkaisu ei ollut se, mitä Suomi lähti hakemaan, mutta Ukraina saa kuitenkin tuen.",
-          "date": "2025-12-19T03:50:00.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Konkurssien määrä historiallisen korkealla",
+          "content": "",
+          "date": "2025-12-19T06:41:46.000Z",
           "categories": [
-            "ulkomaat"
+            "konkurssit",
+            "talous",
+            "tilastokeskus",
+            "uutiset"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011703404.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Huippu­kokouksessa kova vääntö – saadaanko jäädytetyt venäläis­varat Ukrainan käyttöön?",
-          "content": "Putin havittelee yhä alueita Ukrainalta.",
-          "date": "2025-12-18T03:12:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011700466.html"
+          "link": "https://www.ts.fi/uutiset/6855802"
         }
       ]
     },
@@ -740,7 +1144,7 @@
       ]
     },
     {
-      "mainTitle": "Brownin yliopiston epäilty ampuja kuollut",
+      "mainTitle": "Epäilty joukkoampuja löytyi kuolleena",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -774,13 +1178,36 @@
       ]
     },
     {
-      "mainTitle": "Tiktok jatkaa toimintaansa Yhdysvalloissa",
+      "mainTitle": "Tiktok turvasi toimintansa Yhdysvalloissa",
       "mainCategories": [
         "Talous",
-        "Taloussanomat"
+        "Videopalvelu",
+        "Tiktok"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mediat: Tiktok allekirjoitti sopimuksen, jolla palvelu turvannee toimintansa Yhdysvalloissa",
+          "content": "Tiktokin jatko on ollut Yhdysvalloissa uhattuna sen jälkeen, kun kongressi sääti viime vuonna lyhytvideopalvelun kieltävän lain.",
+          "date": "2025-12-19T00:16:24.000Z",
+          "categories": [
+            "sosiaalinen media",
+            "videopalvelu",
+            "kansallinen turvallisuus",
+            "tiktok",
+            "bytedance",
+            "kiina",
+            "yhdysvallat",
+            "talous",
+            "turvallisuus",
+            "donald trump",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20200664?origin=rss"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -873,7 +1300,7 @@
       ]
     },
     {
-      "mainTitle": "17-vuotias poika tuomittiin pommista",
+      "mainTitle": "Nuori tuomittu pommin viemisestä postilaatikkoon",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -993,11 +1420,11 @@
       ]
     },
     {
-      "mainTitle": "Belgian pääministeri epäröi Venäjän varojen käyttöä",
+      "mainTitle": "Belgian pääministeri harkitsee venäläisvarojen käyttöä",
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1024,7 +1451,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi varoittaa jouluhuijauksista vanhuksia",
+      "mainTitle": "Poliisi varoittaa jouluhuijauksista vanhuksia.",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1058,7 +1485,7 @@
       ]
     },
     {
-      "mainTitle": "Perussuomalaisille vakava huomautus rasismista",
+      "mainTitle": "Rasismikohu perussuomalaisissa herättää vastustusta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1164,10 +1591,9 @@
       ]
     },
     {
-      "mainTitle": "Saksa ja Britannia tilaavat Patrian vaunuja",
+      "mainTitle": "Saksa ja Britannia tilaavat Patrian ajoneuvoja",
       "mainCategories": [
         "Suomi",
-        "Talous",
         "Taloussanomat"
       ],
       "imageUrl": "",
@@ -1188,18 +1614,6 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Puolustusteollisuus | Patria otti riskin vuosia sitten, kun muut nukkuivat – nyt Saksa maksaa siitä miljardeja",
-          "content": "Euroopan Nato-maat ostavat nyt jonossa Patrian panssaroituja vaunuja, jotka on suunniteltu suomalaisille varusmiehille: halvaksi ja helpoksi ajaa.",
-          "date": "2025-12-18T13:22:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011700581.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
           "title": "Asekauppa | Patria lähellä toistakin jätti­pottia: Britannia tekemässä miljardi­luokan tilauksen",
           "content": "Patrian vaunu on suosikki jopa 1 500 panssaroidun miehistönkuljetusvaunun hankinnassa Britanniassa. Suurin uhka vaunukaupalle on enää poliittinen.",
           "date": "2025-12-17T15:00:00.000Z",
@@ -1211,25 +1625,50 @@
       ]
     },
     {
-      "mainTitle": "EKP ennustaa vahvempaa talouskasvua",
+      "mainTitle": "Saksa tilaa yli 800 panssariajoneuvoa",
+      "mainCategories": [],
+      "imageUrl": "/images/saksa/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Saksa tilaa Patrialta jopa yli 800 panssariajoneuvoa, yhteisarvo optioineen on yli kaksi miljardia euroa",
+          "content": "Patria solmii Saksan kanssa yli kahden miljardin euron sopimukset 876 panssariajoneuvosta. Toimitukset alkavat 2026 ja teknologiasiirto saksalaisille kumppaneille käynnistyy.",
+          "date": "2025-12-18T15:43:55.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/saksa-tilaa-patrialta-jopa-yli-800-panssariajoneuv/12460394?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Saksa ostaa kymmenillä miljardeilla uutta sotilaskalustoa – tilaukset myös suomalaisille Patrialle ja Iceyelle",
+          "content": "Saksa hyväksyi 50 miljardin euron sotilashankinnat, joissa mukana suomalaiset Patria ja Iceye. Patria toimittaa panssariajoneuvoja ja Iceye tutkasatelliittijärjestelmän yhteistyössä Rheinmetallin kanssa.",
+          "date": "2025-12-17T18:06:17.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/saksa-ostaa-kymmenilla-miljardeilla-uutta-sotilask/12458481?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "EKP pitää ohjauskorkonsa ennallaan",
       "mainCategories": [
         "Talous",
         "Taloussanomat",
-        "Korkotaso"
+        "Rahapolitiikka"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rahapolitiikka | Euroopan keskuspankki ennustaa vahvempaa talous­kasvua, pitää korot ennallaan",
-          "content": "Uuden ennusteen mukaan talous kasvaa yli prosentin jokaisena seuravana kolmena vuotena.",
-          "date": "2025-12-18T15:03:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011693807.html"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "EKP jätti ohjauskorkonsa ennalleen ja nosti ennustetta talouskasvusta",
+          "content": "EKP alensi ohjauskorkoja viimeksi kesäkuussa. Keskeinen talletuskorko on ollut siitä lähtien tasan kaksi prosenttia.",
+          "date": "2025-12-18T14:34:17.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/ekp-jatti-ohjauskorkonsa-ennalleen-ja-nosti-ennust/12460311?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -1259,6 +1698,33 @@
           "link": "https://www.ts.fi/uutiset/6852993"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "EKP pitää talletuskorot ennallaan – hintojen nousu jatkunut maltillisena",
+          "content": "Euroopan keskuspankki päätti ohjauskoroista tänään. Talousnäkymissä toiveikkuutta.",
+          "date": "2025-12-18T13:20:51.000Z",
+          "categories": [
+            "talous",
+            "euroopan keskuspankki",
+            "rahapolitiikka",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20200455?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asuntovelallisille tärkeä päätös – EKP piti korkonsa ennallaan",
+          "content": "Keskuspankki antaa myös arvionsa talouskasvusta.",
+          "date": "2025-12-18T13:15:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011701105.html"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1273,44 +1739,13 @@
       ]
     },
     {
-      "mainTitle": "EKP piti ohjauskorkonsa ennallaan",
-      "mainCategories": [
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/talous/4.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "EKP jätti ohjauskorkonsa ennalleen ja nosti ennustetta talouskasvusta",
-          "content": "EKP alensi ohjauskorkoja viimeksi kesäkuussa. Keskeinen talletuskorko on ollut siitä lähtien tasan kaksi prosenttia.",
-          "date": "2025-12-18T14:34:17.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/ekp-jatti-ohjauskorkonsa-ennalleen-ja-nosti-ennust/12460311?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Asuntovelallisille tärkeä päätös – EKP piti korkonsa ennallaan",
-          "content": "Keskuspankki antaa myös arvionsa talouskasvusta.",
-          "date": "2025-12-18T13:15:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011701105.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Työpaikkojen vähennykset Suomessa jatkuvat",
+      "mainTitle": "Elisa vähentää 357 työpaikkaa Suomessa",
       "mainCategories": [
         "Talous",
-        "Taloussanomat",
+        "Teleoperaattorit",
         "Muutosneuvottelut"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -1353,26 +1788,20 @@
           "link": "https://www.is.fi/taloussanomat/art-2000011695584.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Outokumpu vähentää 139 työpaikkaa Suomessa",
-          "content": "Teräsyhtiö Outokumpu vähentää Suomessa 139 työpaikkaa muutosneuvottelujen seurauksena.",
-          "date": "2025-12-17T16:00:33.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/outokumpu-vahentaa-139-tyopaikkaa-suomessa/12458404?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Teollisuus | Outokummun muutos­neuvottelut päättyivät, Suomesta vähenee 139 työpaikkaa",
-          "content": "Outokumpu hakee väenvähennyksillä ja muilla tehostustoimilla 100 miljoonan euron säästöjä.",
-          "date": "2025-12-17T15:42:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Elisa vähentää lähes 350 työpaikkaa Suomessa",
+          "content": "",
+          "date": "2025-12-18T13:16:54.000Z",
           "categories": [
-            "talous"
+            "talous",
+            "teleoperaattorit",
+            "elisa",
+            "muutosneuvottelut",
+            "yritystiedot"
           ],
-          "link": "https://www.hs.fi/talous/art-2000011700038.html"
+          "link": "https://yle.fi/a/74-20200582?origin=rss"
         }
       ]
     },
@@ -1411,49 +1840,6 @@
       ]
     },
     {
-      "mainTitle": "Kelan tukien väärinkäytöksiä pyritään suitsimaan",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kansanedustaja: Kelan tukien väärin­käyttö on rikos",
-          "content": "Sosiaaliturvan väärinkäytöksiä ovat esimerkiksi tulo- ja tilitietojen salaaminen tai väärentäminen sekä virheelliset osoitetiedot.",
-          "date": "2025-12-18T10:39:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011700603.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kela-taksien väärinkäyttö on lisääntynyt selkeästi, sanoo ministeri – nyt tämän ja muiden etuuksien väärinkäyttöä pyritään suitsimaan",
-          "content": "Hallituksen esityksen tavoitteena on myös vähentää sosiaaliturvan virheellisiä maksuja, joita maksettiin viime vuonna noin 110 miljoonaa euroa.",
-          "date": "2025-12-17T15:25:31.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/kela-taksien-vaarinkaytto-on-lisaantynyt-selkeasti/12458017?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sosiaaliturva | Kela-takseja käytetään rikollisella tavalla – Hallitus suitsii väärin­käytöksiä",
-          "content": "Esityksellä pyritään myös estämään jengirikollisuutta.",
-          "date": "2025-12-17T13:02:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011698384.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Uhkaavia työhakemuksia suomalaisyrityksiin",
       "mainCategories": [
         "Suomi",
@@ -1488,12 +1874,13 @@
       ]
     },
     {
-      "mainTitle": "Kiina uhkaa Euroopan työpaikkoja",
+      "mainTitle": "Kiina uhkaa Suomen teollisuutta työpaikoilla",
       "mainCategories": [
         "Talous",
-        "Taloussanomat"
+        "Kiina",
+        "Kemianteollisuus"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1506,6 +1893,25 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011700845.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kiina ei ole enää halpatuotannon maa, ja se uhkaa Suomen teollisuutta, varoittaa Kemianteollisuus",
+          "content": "Kemianteollisuuden yritysten tilanne jatkui joulukuussa poikkeuksellisen heikkona. Kiinan uhka kohdistuu myös korkean jalostusarvon teollisuustuotteisiin. ",
+          "date": "2025-12-18T07:00:35.000Z",
+          "categories": [
+            "kiina",
+            "kemianteollisuus",
+            "talous",
+            "teollisuus",
+            "teollisuustuotanto",
+            "työpaikka (toimi)",
+            "teollisuustuotteet",
+            "tavaravienti"
+          ],
+          "link": "https://yle.fi/a/74-20200396?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -1527,7 +1933,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kanada/2.jpg",
+      "imageUrl": "/images/kanada/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1556,7 +1962,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi ei tutki vasemmistonuorten puheenjohtajaa",
+      "mainTitle": "Poliisi ei tutki Vuorisen kommentteja",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1594,7 +2000,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1623,7 +2029,7 @@
       ]
     },
     {
-      "mainTitle": "Trump kehui taloutta televisio­puheessaan",
+      "mainTitle": "Trump kehui taloutta televisiopuheessaan",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1759,77 +2165,61 @@
       ]
     },
     {
-      "mainTitle": "Saksa tilaa sotilaskalustoa Suomelta",
+      "mainTitle": "Outokumpu vähentää 139 työpaikkaa Suomessa",
       "mainCategories": [
+        "Talous",
+        "Muutosneuvottelut",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/saksa/2.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
-          "title": "Saksa ostaa kymmenillä miljardeilla uutta sotilaskalustoa – tilaukset myös suomalaisille Patrialle ja Iceyelle",
-          "content": "Saksa hyväksyi 50 miljardin euron sotilashankinnat, joissa mukana suomalaiset Patria ja Iceye. Patria toimittaa panssariajoneuvoja ja Iceye tutkasatelliittijärjestelmän yhteistyössä Rheinmetallin kanssa.",
-          "date": "2025-12-17T18:06:17.000Z",
+          "title": "Outokumpu vähentää 139 työpaikkaa Suomessa",
+          "content": "Teräsyhtiö Outokumpu vähentää Suomessa 139 työpaikkaa muutosneuvottelujen seurauksena.",
+          "date": "2025-12-17T16:00:33.000Z",
           "categories": [],
-          "link": "//www.kaleva.fi/saksa-ostaa-kymmenilla-miljardeilla-uutta-sotilask/12458481?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+          "link": "//www.kaleva.fi/outokumpu-vahentaa-139-tyopaikkaa-suomessa/12458404?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Mediat: Suomen sotateollisuus saamassa miljarditilaukset Saksasta",
-          "content": "Patrian ja Iceyen tilauskirjat ovat saamassa tuhdisti täytettä.",
-          "date": "2025-12-17T13:22:00.000Z",
+          "title": "Outokumpu antaa 368:lle potkut",
+          "content": "Yhtiö tavoittelee yhteensä 100 miljoonan euron säästöjä.",
+          "date": "2025-12-17T15:43:00.000Z",
           "categories": [
             "taloussanomat"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011699220.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lidl vetää takaisin piparkakkuja muovin vuoksi",
-      "mainCategories": [
-        "Suomi",
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Lidl vetää takaisin erän pipareita – saattaa sisältää muovia",
-          "content": "Lidl vetää takaisin piparkakkuerän, jossa voi olla punaisia muovinpaloja. Takaisinveto koskee vain 14.10.2026 päiväyksellä merkittyä 300 gramman Jouluaitan ohutta piparkakkua. Tuotteen voi palauttaa myymälään.",
-          "date": "2025-12-17T14:28:44.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/lidl-vetaa-takaisin-eran-pipareita-saattaa-sisalta/12458212?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ostitko näitä piparkakkuja? Älä syö!",
-          "content": "Erä saattaa sisältää pieniä paloja punaista muovia.",
-          "date": "2025-12-17T13:26:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011699506.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000011700065.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Takaisinvedot | Lidl vetää takaisin erän piparkakkuja, jotka saattavat sisältää muovia",
-          "content": "Tuotteet saattavat sisältää pieniä paloja punaista muovia, kertoo Lidl.",
-          "date": "2025-12-17T13:22:00.000Z",
+          "title": "Teollisuus | Outokummun muutos­neuvottelut päättyivät, Suomesta vähenee 139 työpaikkaa",
+          "content": "Outokumpu hakee väenvähennyksillä ja muilla tehostustoimilla 100 miljoonan euron säästöjä.",
+          "date": "2025-12-17T15:42:00.000Z",
           "categories": [
-            "suomi"
+            "talous"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011699371.html"
+          "link": "https://www.hs.fi/talous/art-2000011700038.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Outokumpu irtisanoo 139 Suomesta",
+          "content": "",
+          "date": "2025-12-17T15:05:47.000Z",
+          "categories": [
+            "talous",
+            "muutosneuvottelut",
+            "outokumpu oyj"
+          ],
+          "link": "https://yle.fi/a/74-20200376?origin=rss"
         }
       ]
     }
