@@ -1,8 +1,17 @@
 {
-  "timestamp": "2025-12-19T04:31:56.315Z",
-  "successCount": 13,
-  "failureCount": 9,
+  "timestamp": "2025-12-19T05:19:23.599Z",
+  "successCount": 12,
+  "failureCount": 10,
   "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
     {
       "url": {
         "publisherId": "yle",
@@ -87,124 +96,164 @@
   ],
   "feeds": [
     {
-      "mainTitle": "EU myönsi 90 miljardia euroa Ukrainalle",
+      "mainTitle": "Orpo ei näe tarvetta tiedonannolle rasismikohusta",
       "mainCategories": [
-        "Ukraina",
-        "Politiikka",
-        "Ulkomaat"
+        "Politiikka"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
           "publisher": "Kauppalehti",
           "publisherUrl": "kauppalehti.fi",
-          "title": "EU pääsi sopuun 90 miljardin Ukraina-tuesta: Sotakorvauslaina kaatui, yhteisvelka tilalle",
-          "content": "EU-johtajat eivät löytäneet perjantain vastaisena yönä yksimielisyyttä Venäjän jäädytettyjen varojen käytöstä Ukrainan sotakorvauslainaan. Sopu syntyi lopulta yhteisvelkaan pohjautuvasta rahoitusmallista.",
-          "date": "2025-12-19T04:29:00.000Z",
+          "title": "Rasismikohu ei johda tiedonantoon – Näin Orpo perustelee päätöstä",
+          "content": "Pääministeri Petteri Orpo (kok) sanoi Brysselissä, ettei hän näe tarvetta opposition vaatimalle tiedonannolle rasismikohusta.",
+          "date": "2025-12-19T05:05:00.000Z",
           "categories": [
-            "eu"
+            "politiikka"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/a4f35132-7459-4fe9-be21-f22b23b389c0"
+          "link": "https://www.kauppalehti.fi/uutiset/a/a42c6e6a-8b38-4ee0-930c-72a080b4a437"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääministeri Orpo: ”Erilainen ratkaisu kuin mitä lähdettiin hakemaan”",
-          "content": "EU-huippukokous päätti varhain perjantaina 90 miljoonan tuen myöntämisestä Ukrainalle. ",
-          "date": "2025-12-19T04:13:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Pääministeri Petteri Orpo rasismi­kohusta: ”Asia on käyty perusteellisesti läpi”",
+          "content": "Oppositio vaatii hallitukselta tiedonantoa arvoistaan. Orpo ei näe tarvetta tiedonannolle.",
+          "date": "2025-12-19T04:44:00.000Z",
           "categories": [
-            "euroopan unioni",
-            "ukraina",
-            "pääministerit",
-            "venäjä",
-            "politiikka",
-            "petteri orpo",
-            "venäjän hyökkäys",
-            "talous",
-            "lainat",
-            "ulkomaat"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20200668?origin=rss"
+          "link": "https://www.hs.fi/politiikka/art-2000011703416.html"
         },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Perussuomalaisten edustajat saivat vakavan huomautuksen, kokoomus tyytyväinen",
+          "content": "Oppositio vaatii hallitukselta anteeksipyynnön lisäksi tiedonantoa sen yhteisistä arvoista.",
+          "date": "2025-12-18T16:53:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011699072.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Orpo jyrähti perussuomalaisille – ”On saatava poikki tänään”",
+          "content": "Orpon mukaan hallitus on lähettänyt ”vahvan viestin” niin sanotussa rasismikohussa.",
+          "date": "2025-12-18T08:36:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011701061.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Orpo pyysi anteeksi kiinaksi, japaniksi ja koreaksi – Lue teksti sanasta sanaan",
+          "content": "Orpon nimissä on julkaistu kiinaksi, japaniksi ja koreaksi lausunto, jossa pääministeri pahoittelee ”yksittäisten kansanedustajien loukkaavia julkaisuja”.",
+          "date": "2025-12-17T11:25:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011698460.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pirkkalan koulu­puukotus: Oikeudenkäynti alkaa tänään",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "/images/oikeudenkäyn/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Oikeudenkäynnit | Pirkkalan koulu­puukotus oikeuteen: 16-vuotias syytteessä murhan yrityksistä",
+          "content": "Uhreina oli kolme 14-vuotiasta tyttöä. HS seuraa kello 9 alkavaa oikeudenkäyntiä hetki hetkeltä.",
+          "date": "2025-12-19T05:00:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011684484.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "9-luokkalainen puukotti kolmea tyttöä kesken koulupäivän – IL seuraa oikeuden­käyntiä",
+          "content": "16-vuotiasta koulupuukottajaa syytetään kolmesta murhan yrityksestä. Iltalehti seuraa oikeudenkäyntiä tässä jutussa. Pirkkalan koulupuukotuksen oikeudenkäynti alkaa Pirkanmaan käräjäoikeudessa tänään perjantaina. 16-vuotiasta poikaa syytetään kolmesta murhan yrityksestä. Yhdeksäsluokkalainen poika hyökkäsi veitsellä kolmen 14-vuotiaan tytön kimppuun Vähäjärven koulussa tiistaina 20. toukokuuta. Uhrit selviytyivät ilman vakavia fyysisiä vammoja.",
+          "date": "2025-12-19T04:33:12.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/13931847-fbdf-4023-9171-d7ec116eef5e"
+        }
+      ]
+    },
+    {
+      "mainTitle": "EU-maat sopivat 90 miljardin tuesta Ukrainalle",
+      "mainCategories": [
+        "Politiikka",
+        "Ulkomaat",
+        "EU"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
           "title": "EU | EU-maat päättivät 90 miljardin euron yhteis­­velasta Ukrainalle, ei sopua Venäjän jäädytettyjen varojen käytöstä",
           "content": "Pääministeri Petteri Orpo (kok) sanoo, että huippukokouksen päätös oli pettymys, mutta turvaa päätavoitteen eli Ukrainan rahoituksen.",
-          "date": "2025-12-19T04:13:00.000Z",
+          "date": "2025-12-19T04:41:00.000Z",
           "categories": [
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011703398.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "EU otti uuden suunnan: Jäädytettyjen venäläisvarojen sijaan Ukrainaa tuetaan yhteisellä lainanotolla",
-          "content": "Ukrainalle annettavasta sotakorvauslainasta ei päästy sopuun EU-huippukokouksessa. ",
-          "date": "2025-12-18T06:50:38.000Z",
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "EU pääsi sopuun 90 miljardin Ukraina-tuesta: Sotakorvauslaina kaatui, yhteisvelka tilalle",
+          "content": "EU-johtajat eivät löytäneet perjantain vastaisena yönä yksimielisyyttä Venäjän jäädytettyjen varojen käytöstä Ukrainan sotakorvauslainaan. Sopu syntyi lopulta yhteisvelkaan pohjautuvasta rahoitusmallista.",
+          "date": "2025-12-19T04:34:00.000Z",
           "categories": [
-            "euroopan unioni",
-            "venäjän hyökkäys",
-            "ukraina",
-            "eurooppa-neuvosto",
-            "petteri orpo"
+            "eu"
           ],
-          "link": "https://yle.fi/a/74-20200432?origin=rss"
+          "link": "https://www.kauppalehti.fi/uutiset/a/a4f35132-7459-4fe9-be21-f22b23b389c0"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Huippu­kokouksessa kova vääntö – saadaanko jäädytetyt venäläis­varat Ukrainan käyttöön?",
-          "content": "Putin havittelee yhä alueita Ukrainalta.",
-          "date": "2025-12-18T03:12:00.000Z",
+          "title": "EU-johtajat sopuun Ukrainan tuesta – tällainen on ratkaisu",
+          "content": "Pääministeri Orpon mukaan ratkaisu ei ollut se, mitä Suomi lähti hakemaan, mutta Ukraina saa kuitenkin tuen.",
+          "date": "2025-12-19T03:50:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011700466.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallituksen taloustavoitteet uhkaavat kariutua",
-      "mainCategories": [
-        "Politiikka",
-        "Valtionvelka",
-        "Valtiovarainministeriö"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Hallitus­ohjelman viimeinenkin iso taloustavoite on lipumassa Petteri Orpon ja Riikka Purran ulottuvilta",
-          "content": "Ministeriön mukaan velkaantuminen ei tasaannu.  Tavoitteen saavuttaminen vaatisi isoja sopeutuksia, kirjoittaa Ylen politiikan toimittaja Petri Raivio.",
-          "date": "2025-12-19T04:00:39.000Z",
-          "categories": [
-            "politiikka",
-            "valtionvelka",
-            "valtiovarainministeriö",
-            "hallitukset"
-          ],
-          "link": "https://yle.fi/a/74-20200590?origin=rss"
+          "link": "https://www.is.fi/ulkomaat/art-2000011703404.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Velkaantuminen | Hallituksen tavoite on karannut jo yli kahden miljardin euron päähän",
-          "content": "Velkasuhde ei ole vakautumassa hallituksen tavoittelemalla tavalla, käy ilmi valtiovarainministeriön tuoreesta ennusteesta.",
-          "date": "2025-12-18T10:29:00.000Z",
+          "title": "Huippukokous | Orpo: ”Emme näe mitään merkkejä siitä, että Venäjä haluaa rauhaa”",
+          "content": "Pääministeri Petteri Orpo (kok) järjesti tiistaina Helsingissä huippukokouksen, johon kokoontuivat Venäjän ja Valko-Venäjän rajamaiden johtajat. Maat kiittelivät Yhdysvaltojen lupauksia turvatakuista Ukrainalle.",
+          "date": "2025-12-17T08:16:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011701406.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011693705.html"
         }
       ]
     },
@@ -267,54 +316,6 @@
       ]
     },
     {
-      "mainTitle": "Orpo puolustaa hallituksen kantaa rasismikohussa",
-      "mainCategories": [
-        "Politiikka",
-        "Rasismi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Orpo ei näe tarvetta opposition vaatimalle tiedon­annolle rasismi­kohusta",
-          "content": "Orpon mielestä tapaus on käsitelty loppuun.",
-          "date": "2025-12-19T03:36:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011703415.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Orpo ei näe tarvetta opposition vaatimalle tiedonannolle rasismikohusta",
-          "content": "",
-          "date": "2025-12-19T03:29:55.000Z",
-          "categories": [
-            "politiikka",
-            "petteri orpo",
-            "rasismi"
-          ],
-          "link": "https://yle.fi/a/74-20200667?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Orpo jyrähti perussuomalaisille – ”On saatava poikki tänään”",
-          "content": "Orpon mukaan hallitus on lähettänyt ”vahvan viestin” niin sanotussa rasismikohussa.",
-          "date": "2025-12-18T08:36:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011701061.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Yhdysvalloissa kaksi joukkoampumista viikonlopussa",
       "mainCategories": [
         "Ulkomaat",
@@ -361,36 +362,13 @@
       ]
     },
     {
-      "mainTitle": "Tiktok varmisti toimintansa Yhdysvalloissa",
+      "mainTitle": "Tiktok jatkaa toimintaansa Yhdysvalloissa",
       "mainCategories": [
         "Talous",
-        "Videopalvelu",
-        "Tiktok"
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mediat: Tiktok allekirjoitti sopimuksen, jolla palvelu turvannee toimintansa Yhdysvalloissa",
-          "content": "Tiktokin jatko on ollut Yhdysvalloissa uhattuna sen jälkeen, kun kongressi sääti viime vuonna lyhytvideopalvelun kieltävän lain.",
-          "date": "2025-12-19T00:16:24.000Z",
-          "categories": [
-            "sosiaalinen media",
-            "videopalvelu",
-            "kansallinen turvallisuus",
-            "tiktok",
-            "bytedance",
-            "kiina",
-            "yhdysvallat",
-            "talous",
-            "turvallisuus",
-            "donald trump",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20200664?origin=rss"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -495,45 +473,6 @@
       ]
     },
     {
-      "mainTitle": "Uusia kuvia Epstein-tutkinnasta julkaistu",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Valokuvat"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kymmenittäin uusia Epstein-kuvia julki – mukana useita tunnettuja henkilöitä",
-          "content": "Yhdysvaltain oikeusministeriön on määrä julkaista huomiseen perjantaihin mennessä kaikki sen hallussa olevat Epstein-tutkinnan dokumentit.",
-          "date": "2025-12-18T21:02:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011703189.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kymmeniä uusia Epstein-kuvia jälleen julki – joukossa viittauksia Lolita-romaaniin",
-          "content": "Yhdysvaltain edustajainhuoneen demokraatit ovat julkaisseet 68 kuvaa, jotka se on saanut Espsteinin perikunnalta.",
-          "date": "2025-12-18T17:55:23.000Z",
-          "categories": [
-            "yhdysvallat",
-            "jeffrey epstein",
-            "valokuvat",
-            "seksuaalirikokset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20200648?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Nuoret tuomittu vakavista rikoksista",
       "mainCategories": [
         "Suomi",
@@ -592,50 +531,6 @@
       ]
     },
     {
-      "mainTitle": "Kiskontaepäily ukrainalaisilta Lapissa",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Esitutkinta",
-        "Rikokset"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kiskontaepäily Lapissa: ukrainalaisilta perittiin satoja euroja työpaikasta",
-          "content": "Poliisi epäilee sodankyläläistä naista kiskonnasta. Asiantuntijan mukaan riski ulkomaisen työvoiman hyväksikäyttöön on kasvanut.",
-          "date": "2025-12-18T19:08:55.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "esitutkinta",
-            "rikokset",
-            "rikosilmoitukset",
-            "rikostutkinnat",
-            "tuomioistuimet",
-            "oikeudet",
-            "oikeuslaitos",
-            "kiskonta",
-            "sodankylä",
-            "lappi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20200640?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sodankyläläinen nainen peri ukrainalaisilta maksun auttaessaan heitä työllistymään – kiskonta edennyt syyteharkintaan",
-          "content": "Sodankyläläisen naisen epäillään perineen ukrainalaisilta maksuja auttaessaan heitä työllistymisessä.",
-          "date": "2025-12-18T15:11:46.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/sodankylalainen-nainen-peri-ukrainalaisilta-maksun/12460377?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Lupa- ja valvontavirasto aloittaa toimintansa",
       "mainCategories": [
         "Politiikka"
@@ -663,46 +558,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011702004.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Zsarin ostaja yhteydessä Putinin lähipiiriin",
-      "mainCategories": [
-        "Venäjä",
-        "Virolahti",
-        "Kiinteistökauppa"
-      ],
-      "imageUrl": "/images/venäjä/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle: Käänne ostos­kylä Zsarin myynnissä – ostajalla yhteys Putinin lähipiiriin",
-          "content": "Autioituneen ostoskylän myynti on ollut pitkä projekti.",
-          "date": "2025-12-18T18:25:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011703070.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yle selvitti: Vaalimaan ostoskylä Zsaria havittelevalla venäläismiljonäärillä yhteys Putinin lähipiiriin",
-          "content": "Yle löysi yhteyden oligarkki Gennadi Timtšenkon ja Zsarin ostajaehdokkaan välillä. Ostajan asioita Suomessa hoitaa nimensä vaihtanut Venäjän entinen virkamies.",
-          "date": "2025-12-18T14:44:49.000Z",
-          "categories": [
-            "venäjä",
-            "venäjän oligarkit",
-            "virolahti",
-            "kiinteistökauppa",
-            "kymenlaakso",
-            "mot"
-          ],
-          "link": "https://yle.fi/a/74-20200552?origin=rss"
         }
       ]
     },
@@ -750,6 +605,35 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011700913.html"
         },
         {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Perussuomalaisten Eerola ja Garedew saivat vakavan huomautuksen ryhmältään silmienvääntelykuvista",
+          "content": "",
+          "date": "2025-12-18T09:54:22.000Z",
+          "categories": [
+            "rasismi",
+            "poliitikot",
+            "hallitus",
+            "japani",
+            "aasia",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6855039"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rasismi | Orpo silmien­venyttely­kuvista: ”Tämä keskustelu pitäisi tänään saada poikki”",
+          "content": "HS kertaa kansainväliseksi levinneen rasismikohun käänteet. Japanin hallituksen edustaja vaati torstaina Suomelta vastausta.",
+          "date": "2025-12-18T09:10:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011699252.html"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -780,7 +664,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -807,142 +691,7 @@
       ]
     },
     {
-      "mainTitle": "Perussuomalaisten rasismikohu herättää kansainvälistä huomiota",
-      "mainCategories": [
-        "Politiikka",
-        "Rasismi",
-        "Perussuomalaiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Perus­suomalaiset havahtui rasismiin vasta kansainvälisen huomion myötä",
-          "content": "Kansanedustajia rangaistiin rasistisista kuvista, mutta se ei tarkoita, että ongelman ydin olisi ratkaistu, kirjoittaa politiikan toimittaja Salla Jantunen.",
-          "date": "2025-12-18T17:57:48.000Z",
-          "categories": [
-            "politiikka",
-            "rasismi",
-            "perussuomalaiset",
-            "suomen politiikka",
-            "orpon hallitus"
-          ],
-          "link": "https://yle.fi/a/74-20200641?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Pääkirjoitus: Aasia opetti nyt perus­suomalaisia – Tätä on hyvin vaikea ymmärtää",
-          "content": "On vaikea ymmärtää, miksi jotkut perussuomalaiset haluavat asettaa motiiveiltaan outoon valoon merkittävät maahanmuuttouudistukset, kirjoittaa Juha Ristamäki. Orpon hallituksen tämänkertainen rasismikohu leimahti kuluvalla viikolla sellaisiin liekkeihin, että se yllätti varmasti niin hallituksen, perussuomalaiset, kuin politiikan seuraajatkin. Aasia opettaa. Siellä ei suomalaisen hallituspuolueen kansanedustajien flirttailua rasismilla katsottu hyvällä.",
-          "date": "2025-12-18T17:53:47.000Z",
-          "categories": [
-            "paakirjoitus"
-          ],
-          "link": "https://www.iltalehti.fi/paakirjoitus/a/163172b4-3229-42ca-8aa3-1d808bf8cc80"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Riikka Purralta raju rasismisyytös ",
-          "content": "Valtiovarainministeri Purra joutui puolustautumaan koko kyselytunnin ajan opposition kovilta syytöksiltä. Maailmalle levinnyt rasismikohu nousi esiin eduskunnan kyselytunnilla torstaina heti sen jälkeen, kun perussuomalaiset oli antanut vakavan huomautuksen kansanedustajilleen Kaisa Garedewille ja Juho Eerolalle. Garedewin ja Eerolan silmienvääntelystä kärjistynyt rasismikohu oli keskiviikon ja torstain aikana noteerattu aasialaisessa ja muussa kansainvälisessä mediassa. Lopulta kansanedustajat pyysivät anteeksi niiltä, joita heidän julkaisemansa kuvat olivat loukanneet.",
-          "date": "2025-12-18T17:43:35.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/8d6e53a6-4ad5-412b-80f3-ee1abdca908c"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rasismi | Perussuomalaisten edustajat saivat vakavan huomautuksen, kokoomus tyytyväinen",
-          "content": "Oppositio vaatii hallitukselta anteeksipyynnön lisäksi tiedonantoa sen yhteisistä arvoista.",
-          "date": "2025-12-18T16:53:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011699072.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Perussuomalaisten Eerola ja Garedew saivat vakavan huomautuksen ryhmältään silmienvääntelykuvista",
-          "content": "",
-          "date": "2025-12-18T09:54:22.000Z",
-          "categories": [
-            "rasismi",
-            "poliitikot",
-            "hallitus",
-            "japani",
-            "aasia",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6855039"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kokoomuksesta suorat sanat rasismi­kohusta – ”Tämä on perin eriskummallista”",
-          "content": "Kokoomuksen eduskuntaryhmän puheenjohtaja Jukka Kopra vastasi suorassa haastattelussa, seuraako kokoomus perussuomalaisten rasistisia ulostuloja kiltisti sivusta vaalikauden loppuun saakka.",
-          "date": "2025-12-18T09:31:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011699172.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rasismi | Orpo silmien­venyttely­kuvista: ”Tämä keskustelu pitäisi tänään saada poikki”",
-          "content": "HS kertaa kansainväliseksi levinneen rasismikohun käänteet. Japanin hallituksen edustaja vaati torstaina Suomelta vastausta.",
-          "date": "2025-12-18T09:10:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011699252.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Elina Pirjatanniemi: Onko rasismin vastainen toimintaohjelma vain hallituksen turvariepu?",
-          "content": "",
-          "date": "2025-12-18T03:10:00.000Z",
-          "categories": [
-            "kolumni",
-            "pääkirjoitussivun kolumni",
-            "rasismi",
-            "hallitus",
-            "perussuomalaiset",
-            "mielipiteiden kolumnit",
-            "puheenvuoro",
-            "mielipiteet"
-          ],
-          "link": "https://www.ts.fi/puheenvuorot/6853619"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rasismi | Sdp:n Lindtman: Suomen maine on vaarassa, Orpon ja Halla-ahon toimittava välittömästi",
-          "content": "Puhemies Halla-aho ei kommentoi perussuomalaisten edustajien silmienvenytyskuvia, koska kurinpitovalta ei hänen mukaansa niihin ulotu.",
-          "date": "2025-12-17T18:09:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011700194.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Poliisi varoittaa jouluhuijauksista vanhuksia",
+      "mainTitle": "Poliisi varoittaa jouluhuijauksista vanhuksille",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1068,13 +817,13 @@
       ]
     },
     {
-      "mainTitle": "Saksa tilaa Patrian panssariajoneuvoja miljardilla eurolla",
+      "mainTitle": "Saksa ja Britannia tilaavat Patrian vaunuja",
       "mainCategories": [
+        "Suomi",
         "Talous",
-        "Maanpuolustus",
-        "Saksa"
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/saksa/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1088,6 +837,39 @@
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011702973.html"
         },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puolustusteollisuus | Patria otti riskin vuosia sitten, kun muut nukkuivat – nyt Saksa maksaa siitä miljardeja",
+          "content": "Euroopan Nato-maat ostavat nyt jonossa Patrian panssaroituja vaunuja, jotka on suunniteltu suomalaisille varusmiehille: halvaksi ja helpoksi ajaa.",
+          "date": "2025-12-18T13:22:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011700581.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Asekauppa | Patria lähellä toistakin jätti­pottia: Britannia tekemässä miljardi­luokan tilauksen",
+          "content": "Patrian vaunu on suosikki jopa 1 500 panssaroidun miehistönkuljetusvaunun hankinnassa Britanniassa. Suurin uhka vaunukaupalle on enää poliittinen.",
+          "date": "2025-12-17T15:00:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011697891.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Saksa tilaa yli 800 panssariajoneuvoa Patrialta",
+      "mainCategories": [
+        "Aseteollisuus"
+      ],
+      "imageUrl": "/images/saksa/1.jpg",
+      "relatedNews": [
         {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
@@ -1109,44 +891,6 @@
             "aseteollisuus"
           ],
           "link": "https://www.kauppalehti.fi/uutiset/a/f2892c4a-afa4-4645-b868-5d6e3e38ac8c"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Patrian historian suurin vaunukauppa alle­kirjoitettu: arvo optioineen yli 2 miljardia euroa",
-          "content": "Saksan parlamentti hyväksyi yli kahden miljardin euron arvoisen Patria 6x6 -panssari­ajoneuvojen tilauksen.",
-          "date": "2025-12-18T13:24:14.000Z",
-          "categories": [
-            "maanpuolustus",
-            "saksa",
-            "patria",
-            "patria 6x6",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20200494?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puolustusteollisuus | Patria otti riskin vuosia sitten, kun muut nukkuivat – nyt Saksa maksaa siitä miljardeja",
-          "content": "Euroopan Nato-maat ostavat nyt jonossa Patrian panssaroituja vaunuja, jotka on suunniteltu suomalaisille varusmiehille: halvaksi ja helpoksi ajaa.",
-          "date": "2025-12-18T13:22:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011700581.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Saksa ostaa kymmenillä miljardeilla uutta sotilaskalustoa – tilaukset myös suomalaisille Patrialle ja Iceyelle",
-          "content": "Saksa hyväksyi 50 miljardin euron sotilashankinnat, joissa mukana suomalaiset Patria ja Iceye. Patria toimittaa panssariajoneuvoja ja Iceye tutkasatelliittijärjestelmän yhteistyössä Rheinmetallin kanssa.",
-          "date": "2025-12-17T18:06:17.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/saksa-ostaa-kymmenilla-miljardeilla-uutta-sotilask/12458481?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -1191,7 +935,7 @@
         "Taloussanomat",
         "Korkotaso"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1251,7 +995,7 @@
       "mainCategories": [
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1284,7 +1028,7 @@
         "Taloussanomat",
         "Muutosneuvottelut"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -1480,6 +1224,45 @@
       ]
     },
     {
+      "mainTitle": "Suomen velkasuhde nousee yli 90 prosentin",
+      "mainCategories": [
+        "Politiikka",
+        "Valtiontalous",
+        "Valtionvelka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Velkaantuminen | Hallituksen tavoite on karannut jo yli kahden miljardin euron päähän",
+          "content": "Velkasuhde ei ole vakautumassa hallituksen tavoittelemalla tavalla, käy ilmi valtiovarainministeriön tuoreesta ennusteesta.",
+          "date": "2025-12-18T10:29:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011701406.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Valtiovarainministeriöltä synkät luvut Suomen taloudesta – velkasuhde pomppaamassa yli 90 prosentin jo ensi vuonna",
+          "content": "",
+          "date": "2025-12-18T09:58:44.000Z",
+          "categories": [
+            "valtiontalous",
+            "valtionvelka",
+            "valtiovarainministeriö",
+            "politiikka",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6855058"
+        }
+      ]
+    },
+    {
       "mainTitle": "Uhkaavia työhakemuksia suomalaisyrityksiin",
       "mainCategories": [
         "Suomi",
@@ -1593,7 +1376,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kanada/2.jpg",
+      "imageUrl": "/images/kanada/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1622,7 +1405,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi ei tutki vasemmistonuorten puheenjohtajaa",
+      "mainTitle": "Poliisi ei tutki Vuorisen kommentteja",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1694,7 +1477,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1719,6 +1502,40 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011700473.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainan tukemisesta neuvotellaan huippukokouksessa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Huippu­kokouksessa väännetään tänään Ukrainan tukemisesta",
+          "content": "Putin on ilmoittanut, että Venäjä tulee valtamaan voimakeinoin ”historialliset maansa” Ukrainalta, jos niistä ei sovita neuvotteluissa.",
+          "date": "2025-12-18T04:01:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011700450.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Huippu­kokouksessa kova vääntö – saadaanko jäädytetyt venäläis­varat Ukrainan käyttöön?",
+          "content": "Putin havittelee yhä alueita Ukrainalta.",
+          "date": "2025-12-18T03:12:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011700466.html"
         }
       ]
     },
@@ -1791,12 +1608,12 @@
       ]
     },
     {
-      "mainTitle": "Jared Kushner rauhanvälittäjänä Ukrainan kriisissä",
+      "mainTitle": "Jared Kushner rauhantekijänä Ukrainassa ja Gazassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1826,7 +1643,7 @@
       ]
     },
     {
-      "mainTitle": "Rääkkylä palkkasi professorin kunnanjohtajan vuoksi",
+      "mainTitle": "Rääkkylä palkkasi professorin kunnanjohtajan erottamiseksi",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1860,7 +1677,38 @@
       ]
     },
     {
-      "mainTitle": "Lidl vetää takaisin piparkakkuja muovin vuoksi",
+      "mainTitle": "Saksa tilaa sotilaskalustoa Suomelta",
+      "mainCategories": [
+        "Taloussanomat"
+      ],
+      "imageUrl": "/images/saksa/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Saksa ostaa kymmenillä miljardeilla uutta sotilaskalustoa – tilaukset myös suomalaisille Patrialle ja Iceyelle",
+          "content": "Saksa hyväksyi 50 miljardin euron sotilashankinnat, joissa mukana suomalaiset Patria ja Iceye. Patria toimittaa panssariajoneuvoja ja Iceye tutkasatelliittijärjestelmän yhteistyössä Rheinmetallin kanssa.",
+          "date": "2025-12-17T18:06:17.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/saksa-ostaa-kymmenilla-miljardeilla-uutta-sotilask/12458481?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mediat: Suomen sotateollisuus saamassa miljarditilaukset Saksasta",
+          "content": "Patrian ja Iceyen tilauskirjat ovat saamassa tuhdisti täytettä.",
+          "date": "2025-12-17T13:22:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011699220.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lidl vetää takaisin piparkakkuja muoviriskiä vuoksi",
       "mainCategories": [
         "Suomi",
         "Taloussanomat"
@@ -1904,12 +1752,12 @@
       ]
     },
     {
-      "mainTitle": "Trump puolustaa kansliapäällikköään väitteiltä",
+      "mainTitle": "Trumpin kansliapäällikkö kritisoi presidenttiä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1934,49 +1782,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011698186.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Orpo pyysi anteeksi rasistisia julkaisuja",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "/images/kiina/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rasismi | Orpo pyysi anteeksi kiinaksi, japaniksi ja koreaksi – Lue teksti sanasta sanaan",
-          "content": "Orpon nimissä on julkaistu kiinaksi, japaniksi ja koreaksi lausunto, jossa pääministeri pahoittelee ”yksittäisten kansanedustajien loukkaavia julkaisuja”.",
-          "date": "2025-12-17T11:25:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011698460.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Pääministeri Orpo pyytää Kiinassa, Japanissa ja Etelä-Koreassa anteeksi kansanedustajien loukkaavia some-julkaisuja",
-          "content": "\"Tällaiset viestit eivät heijasta Suomen arvoja.\"",
-          "date": "2025-12-17T11:15:55.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/paaministeri-orpo-pyytaa-kiinassa-japanissa-ja-ete/12457202?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Orpo pyytää anteeksi japaniksi, kiinaksi ja koreaksi",
-          "content": "Pääministerin anteeksipyyntö on julkaistu Suomen suurlähetystöjen sosiaalisen median tileillä.",
-          "date": "2025-12-17T10:19:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011698560.html"
         }
       ]
     },
@@ -2024,7 +1829,38 @@
       ]
     },
     {
-      "mainTitle": "Sinuhe-leipomo hakeutuu konkurssiin Lahdessa",
+      "mainTitle": "Pääministeri Orpo pyytää anteeksi some-julkaisuja",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Pääministeri Orpo pyytää Kiinassa, Japanissa ja Etelä-Koreassa anteeksi kansanedustajien loukkaavia some-julkaisuja",
+          "content": "\"Tällaiset viestit eivät heijasta Suomen arvoja.\"",
+          "date": "2025-12-17T11:15:55.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/paaministeri-orpo-pyytaa-kiinassa-japanissa-ja-ete/12457202?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Orpo pyytää anteeksi japaniksi, kiinaksi ja koreaksi",
+          "content": "Pääministerin anteeksipyyntö on julkaistu Suomen suurlähetystöjen sosiaalisen median tileillä.",
+          "date": "2025-12-17T10:19:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011698560.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sinuhe-leipomo hakeutuu konkurssiin",
       "mainCategories": [
         "Suomi",
         "Taloussanomat"
@@ -2126,7 +1962,7 @@
       ]
     },
     {
-      "mainTitle": "Kokaiinia yritettiin salakuljettaa Vantaalta",
+      "mainTitle": "Kokaiinin salakuljetus perheyrityksen nimissä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
