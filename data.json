@@ -1,17 +1,8 @@
 {
-  "timestamp": "2025-12-23T08:52:44.954Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-12-23T09:22:51.865Z",
+  "successCount": 13,
+  "failureCount": 9,
   "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
     {
       "url": {
         "publisherId": "yle",
@@ -96,7 +87,7 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Junaliikenne palautunut normaaliksi korjauksen jälkeen",
+      "mainTitle": "Junaliikenteen häiriö korjattu Kemi-Rovaniemi-reitillä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -130,13 +121,47 @@
       ]
     },
     {
+      "mainTitle": "Novo Nordiskin laihdutuslääkkeelle myyntilupa Yhdysvalloissa",
+      "mainCategories": [
+        "Taloussanomat",
+        "Sijoittaminen"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uudelle laihdutus­pillerille myyntilupa",
+          "content": "Tanskalainen Novo Nordisk sai merkittävän päätöksen Yhdysvalloista.",
+          "date": "2025-12-23T08:40:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011711728.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "PÖRSSIT: Novo Nordisk ja Saab nousevat pörsseissä",
+          "content": "Saab kertoi saaneensa tilauksen Liettuan puolustusvoimilta. Novo Nordiskin Wegovy-laihdutuspilleri sai Yhdysvaltojen viranomaisen hyväksynnän.",
+          "date": "2025-12-23T08:35:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/50d80528-71b3-428f-8525-0406de16020d"
+        }
+      ]
+    },
+    {
       "mainTitle": "Trumpin Grönlanti-vaatimukset herättävät vastustusta",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma",
-        "Politiikka"
+        "Yhdysvallat",
+        "Tanska"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -151,16 +176,23 @@
           "link": "https://www.is.fi/politiikka/art-2000011711891.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump vahvisti havittelevansa Grönlantia: ”Meidän on saatava se”",
-          "content": "Trumpin mukaan liittolaismaa Tanskan itsehallintoalue on olennainen Yhdysvaltojen kansalliselle turvallisuudelle.",
-          "date": "2025-12-23T07:05:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Trumpin uusi nimitys paljastaa, että hän todella haluaa Grönlannin",
+          "content": "Trumpin pehmeä diplomatia Grönlannissa on epäonnistunut. Se ei kuitenkaan ole pakkomielteistä presidenttiä lannistanut, ulkomaan­toimittaja Roni Kuronen kirjoittaa.",
+          "date": "2025-12-23T06:45:14.000Z",
           "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "tanska",
+            "donald trump",
+            "grönlanti",
+            "yhdysvaltain presidentti",
+            "arktinen alue",
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011711385.html"
+          "link": "https://yle.fi/a/74-20201179?origin=rss"
         },
         {
           "publisherId": "iltalehti",
@@ -215,8 +247,9 @@
     {
       "mainTitle": "Työttömyysaste nousi 10,6 prosenttiin",
       "mainCategories": [
-        "Politiikka",
-        "Kansantalous"
+        "Työttömyys",
+        "Työllisyys",
+        "Työelämä"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -233,21 +266,41 @@
           "link": "https://www.kauppalehti.fi/uutiset/a/44222224-2a6a-4434-b659-653cdf7323dd"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tuoreet luvut julki: Työllisten määrän kasvu tyssäsi",
-          "content": "Tilastokeskus: Sekä miesten että naisten työttömyys kasvoi marraskuussa. Työllisten määrän pieni kasvu näyttää tyssänneen marraskuussa. Tilastokeskus kertoi keskiviikkoaamuna, että 15–74-vuotiaita työllisiä marraskuussa lähes saman verran kuin vuosi sitten. 15–74-vuotiaita työllisiä oli 2 566 000 (virhemarginaali ±30 000). Työllisiä miehiä oli 13 000 enemmän ja työllisiä naisia 16 000 vähemmän edellisvuoden marraskuuhun verrattuna.",
-          "date": "2025-12-23T06:26:08.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Työttömyys jatkoi kasvuaan Varsinais-Suomessa ja koko maassa",
+          "content": "",
+          "date": "2025-12-23T07:36:01.000Z",
           "categories": [
-            "politiikka"
+            "työttömyys",
+            "työvoima",
+            "työllisyys",
+            "paikalliset",
+            "uutiset"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/be520fb8-3f75-4fdb-80b5-45fc5c3724d1"
+          "link": "https://www.ts.fi/uutiset/6858860"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Työttömyysluvut synkkenivät uuteen ennätykseen",
+          "content": "",
+          "date": "2025-12-23T06:14:51.000Z",
+          "categories": [
+            "työelämä",
+            "työttömyys",
+            "työllisyys",
+            "talous",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201268?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Nivalassa tulipalo, epäilty tappo tutkinnassa",
+      "mainTitle": "Nivalassa tutkitaan tulipalon tappoa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -299,6 +352,70 @@
             "oulun seutu"
           ],
           "link": "https://www.is.fi/oulun-seutu/art-2000011710461.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kirjailija myöntää plagioinnin teoksissaan",
+      "mainCategories": [
+        "Kirjallisuus",
+        "Kirjailijat",
+        "Kulttuuri"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle: Suomalais­kirjailija myöntää plagioinnin",
+          "content": "Kirjailijan teokset vedettiin aiemmin myynnistä.",
+          "date": "2025-12-23T07:11:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011711414.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kirjailija Harri István Mäki myöntää plagioinnin",
+          "content": "Mäki vahvistaa Ylelle plagioineensa kahden teoksensa tekstit amerikkalaiskirjailija Richard Brautiganilta.",
+          "date": "2025-12-22T11:33:23.000Z",
+          "categories": [
+            "kirjallisuus",
+            "plagiointi",
+            "enostone",
+            "kirjailijat",
+            "tekijänoikeus",
+            "tekijänoikeuskorvaukset",
+            "tekijänoikeuslaki",
+            "tekijänoikeus suomessa",
+            "kirjat",
+            "kulttuuri"
+          ],
+          "link": "https://yle.fi/a/74-20201133?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Pitkän linjan suomalaiskirjailijaa epäillään plagiaatista – kaksi kirjaa vedetty pois myynnistä",
+          "content": "",
+          "date": "2025-12-22T07:40:44.000Z",
+          "categories": [
+            "kaunokirjallisuus",
+            "kirjallisuus",
+            "kirjailijat",
+            "kirjakustantaminen",
+            "ts kirja",
+            "turku",
+            "paikalliset",
+            "uutiset",
+            "kulttuuri"
+          ],
+          "link": "https://www.ts.fi/kulttuuri/6857847"
         }
       ]
     },
@@ -381,12 +498,67 @@
       ]
     },
     {
+      "mainTitle": "Joulun menoliikenne vilkastuu aatonaattona",
+      "mainCategories": [
+        "Liikenne",
+        "Joululiikenne",
+        "Ruuhkat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulun menoliikenne on vilkkaimmillaan iltapäivällä aatonaattona – liikkeelle päästään hyvässä ajokelissä",
+          "content": "Fintrafficin mukaan menoliikennettä riittää alueesta riippuen iltamyöhään asti. Ajosää on laajalti poutainen ja pakkasen puolella. Lapissa voi olla liukasta.",
+          "date": "2025-12-23T05:02:21.000Z",
+          "categories": [
+            "liikenne",
+            "joululiikenne",
+            "ruuhkat",
+            "fintraffic",
+            "valtatie 5",
+            "valtatie 4",
+            "valtatie 9",
+            "keski-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201143?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tarkista varoituskartat ennen liikenteeseen lähtöä – Yksi alue hehkuu keltaisena",
+          "content": "Ilmatieteen laitoksen varoituskarttaa kannattaa seurata joulun menoliikenteessä. Aatonaatto koittaa huurteisissa merkeissä, sillä lähes koko maassa on pakkasta. Aivan pohjoisimmassa Lapissa on yllättäen useita lämpöasteita.",
+          "date": "2025-12-23T04:30:09.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/27f25c13-6108-4893-ba6e-4afbe28238e7"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Joulusää | Föhn-tuuli lauhduttaa joulun sään",
+          "content": "Sää lauhtuu joulupäivänä koko maassa. Sitä ennen säässä tapahtuu käänne kylmempään.",
+          "date": "2025-12-22T14:50:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011708877.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Trump julkisti uuden sota-alusluokan",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -420,7 +592,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -487,7 +659,7 @@
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -520,40 +692,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011707689.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Joulusään lauhtuminen ja käänteet",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Joulusää | Föhn-tuuli lauhduttaa joulun sään",
-          "content": "Sää lauhtuu joulupäivänä koko maassa. Sitä ennen säässä tapahtuu käänne kylmempään.",
-          "date": "2025-12-22T14:50:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011708877.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tupla-föhn iskee jouluna – täällä vaikutukset ovat suurimmat",
-          "content": "Länsituuli tuo joulupäivänä lämpimiä terveisiä Norjasta ja Islannista.",
-          "date": "2025-12-21T16:22:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011708125.html"
         }
       ]
     },
@@ -626,7 +764,7 @@
       ]
     },
     {
-      "mainTitle": "Venäläiskenraali kuoli autopommi-iskussa Moskovassa",
+      "mainTitle": "Venäläiskenraali kuoli autopommi-iskussa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -698,7 +836,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -741,8 +879,8 @@
     {
       "mainTitle": "Venäläislaiva poistui Ruotsin rannikolta",
       "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -793,18 +931,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011707733.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäläisalus ilmestyi Ruotsin rannikolle – viranomaisilla operaatio",
-          "content": "Laivalla on kytköksiä Venäjän armeijaan.",
-          "date": "2025-12-21T09:18:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011707708.html"
         }
       ]
     },
@@ -910,7 +1036,7 @@
       ]
     },
     {
-      "mainTitle": "Tallinnan kauppakeskusräjähdyksen syyt selvillä",
+      "mainTitle": "Tallinnan kauppakeskusräjähdys ei liity terrorismiin",
       "mainCategories": [
         "Ulkomaat"
       ],
@@ -975,7 +1101,7 @@
       ]
     },
     {
-      "mainTitle": "Ihminen kuoli radiomastosta pudottuaan",
+      "mainTitle": "Ihminen kuoli radiomastosta putoamisen seurauksena",
       "mainCategories": [
         "Suomi"
       ],
