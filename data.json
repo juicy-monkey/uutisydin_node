@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-23T12:37:55.198Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-12-23T13:34:29.695Z",
+  "successCount": 21,
+  "failureCount": 1,
   "failedFeeds": [
     {
       "url": {
@@ -11,97 +11,246 @@
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
       },
       "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
     }
   ],
   "feeds": [
     {
-      "mainTitle": "Trump nimitti kokemattoman Grönlannin-erityislähettilään",
+      "mainTitle": "Petteri Orpo puolustaa hallituksensa linjaa",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Politiikka"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Petteri Orpo vastasi kysymykseen yhteisvelasta: ”Tämä oli ainoa malli”",
+          "content": "Pääministeri Petteri Orpo (kok) vieraili maanantaina eduskunnan EU-asioista vastaavan suuren valiokunnan ja ulkoasiainvaliokunnan yhteistapaamisessa.",
+          "date": "2025-12-23T13:30:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/e2719784-772a-4376-b0d3-21870c4203ec"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Petteri Orpo vastaa miljonäärin kovaan kritiikkiin: ”Olen täysin eri mieltä”",
+          "content": "Petteri Orpo kertoo rutiineistaan, lenkistään Stubbin kanssa ja miksi on jaksanut politiikan kärkipaikoilla poikkeuksellisen pitkään. Suomen mainetta tahrannen kohun jälkeen hänellä on hallitukselleen tiukka viesti.",
+          "date": "2025-12-23T03:45:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011698024.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Postilaatikoiden murrot lisääntyneet joulunaikaan",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Hämeenlinna"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Postilaatikoita on murrettu ja kirjeitä viety joulun alla Hämeenlinnan seudulla – harvinaista, sanoo Posti",
+          "content": "Kirjelaatikko­murrot ovat harvinaisia, mutta niitä tulee Postin tietoon vuosittain.",
+          "date": "2025-12-23T13:28:03.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "hämeenlinna",
+            "postin toiminta",
+            "murto",
+            "posti- ja kuriiritoiminta",
+            "kanta-häme",
+            "postilaatikot",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201359?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tanska luopuu kirje­laatikoista, Suomessa niitä on edelleen 3 500",
+          "content": "Suomalaiset lähettivät viime vuonna kymmenen miljoonaa joulukorttia. ",
+          "date": "2025-12-23T12:15:55.000Z",
+          "categories": [
+            "palvelut",
+            "joulu",
+            "joulukortit",
+            "postin toiminta",
+            "postikortit",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201115?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Joulun menoliikenne rauhallista aaton alla",
+      "mainCategories": [
+        "Liikenne",
+        "Joululiikenne",
+        "Ruuhkat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulun menoliikenne on sujunut toistaiseksi rauhallisesti – kiivaimmat tunnit alkamassa",
+          "content": "Aatonaatto on joulun menoliikenteen vilkkain päivä.",
+          "date": "2025-12-23T13:22:29.000Z",
+          "categories": [
+            "liikenne",
+            "joululiikenne",
+            "ruuhkat",
+            "fintraffic",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201362?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulun meno­liikenne on vilkkaim­millaan ilta­päivällä aaton­aattona – liikkeelle päästään hyvässä ajo­kelissä",
+          "content": "Fintrafficin mukaan meno­liikennettä riittää alueesta riippuen ilta­myöhään asti. Ajosää on laajalti poutai­nen ja pakkasen puolella. Lapissa voi olla liukasta.",
+          "date": "2025-12-23T05:02:21.000Z",
+          "categories": [
+            "liikenne",
+            "joululiikenne",
+            "ruuhkat",
+            "fintraffic",
+            "valtatie 5",
+            "valtatie 4",
+            "valtatie 9",
+            "keski-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201143?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Varusmies tuomittiin uhkailusta ja murhasta",
+      "mainCategories": [
+        "Kotimaa",
+        "Maanpuolustus",
+        "Niinisalo"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kasarmilla humalassa metelöinyt varusmies uhkaili käräyttäjäksi epäilemäänsä kuolemalla – oikeus rapsautti sakkotuomion",
+          "content": "20-vuotias syytetty ei ilmestynyt paikalle oikeuteen. Hänet tuomittiin poissaolevana.",
+          "date": "2025-12-23T13:19:53.000Z",
+          "categories": [
+            "maanpuolustus",
+            "porin prikaati",
+            "niinisalo",
+            "niinisalon varuskunta",
+            "kankaanpää",
+            "varusmiehet",
+            "sotilasrikokset",
+            "palvelusrikos",
+            "satakunnan käräjäoikeus",
+            "uhkailu",
+            "sotilaat",
+            "puolustusvoimat",
+            "suomen puolustusvoimat",
+            "kotimaa",
+            "satakunta"
+          ],
+          "link": "https://yle.fi/a/74-20201363?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "31-vuotias mies kuoli vain muutaman sadan euron tähden – Puukottajalle tuomio murhasta",
+          "content": "Kaksi muuta miestä tuomittiin pelastustoimen laiminlyönnistä. Kainuun käräjäoikeus on tuominnut 31-vuotiaan Teemu Samuli Heikkisen elinkautiseen vankeuteen samanikäisen kajaanilaismiehen murhasta. Puukolla varustautunut Heikkinen meni kahden muun miehen kanssa uhrin asunnolle perjantaina 15. elokuuta kello 18.54 perimään muutaman sadan euron velkaa. Tilanne asunnolla kärjistyi väkivaltaiseksi nopeasti.",
+          "date": "2025-12-23T12:45:30.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/921af270-0373-4dd9-9f5b-e3fddb2ed988"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Siivoustyöntekijöiden kiskontatapaukset tutkinnassa",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikokset",
+        "Helsinki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisi: Siivoustyöntekijöiltä perittiin palkkoja takaisin ja vaadittiin kynnysrahaa oleskeluluvasta",
+          "content": "Helsingin poliisi on selvittänyt kiskonnantapaista työsyrjintää.",
+          "date": "2025-12-23T12:25:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011712713.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi epäilee: Parikymmentä siivoojaa joutui kiskonnan uhriksi – maksamattomia palkkoja satoja tuhansia ",
+          "content": "Poliisi on tutkinut kahta työperäisen hyväksikäytön tapausta. Ulkomaalais­taustaiset työntekijät joutuivat palauttamaan palkkojaan tai maksamaan työpaikoistaan.",
+          "date": "2025-12-23T11:20:58.000Z",
+          "categories": [
+            "rikokset",
+            "helsinki",
+            "esitutkinta",
+            "kiskonta",
+            "työsyrjintä",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20194876?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Poliisi: Siivoojat joutuivat maksamaan päästäkseen töihin ja palauttamaan palkkojaan ",
+          "content": "Kahden työsyrjintätapauksen esitutkinta on valmistunut ja siirtynyt syyteharkintaan. Helsingin poliisin alueellisen ihmiskaupan tutkintaryhmä on saanut valmiiksi esitutkinnan kahdessa rikoskokonaisuudessa, joissa molemmissa epäillään muun muassa kiskonnantapaista työsyrjintää. Ensimmäisessä tapauksessa asianomistajat eli uhrit joutuivat poliisin mukaan maksamaan epäillylle korvausta työperäisestä oleskeluluvasta. Siivoojina työskennelleet uhrit joutuivat palauttamaan suurimman osan palkastaan epäillylle.",
+          "date": "2025-12-23T11:00:12.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/b90609d7-54fd-41e2-b475-d048144c7819"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump nimitti Grönlannin-erityislähettiläänsä",
+      "mainCategories": [
+        "Ulkomaat",
+        "Grönlanti",
+        "Tanska"
+      ],
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -116,16 +265,119 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011711595.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Trumpin uusi Grönlannin-erityis­lähettiläs on kansain­­välisesti kokematon ilmasto­denialisti",
-          "content": "Presidentti Donald Trumpin vastikään nimittämällä Grönlannin-erikoislähettiläällä Jeff Landrylla ei ole juuri kokemusta kansainvälisestä suhteista. Trumpin mukaan Yhdysvallat tarvitsee Grönlannin kansallisen turvallisuuden vuoksi.",
-          "date": "2025-12-23T10:15:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Grönlantilaiset eivät lämpene Trumpin aikeille: ”Unohda se”",
+          "content": "Tanskan yleisradioyhtiö DR kysyi saarelaisten mietteitä Trumpin Grönlanti-lähettilään nimittämiseen liittyen.",
+          "date": "2025-12-23T11:48:02.000Z",
           "categories": [
-            "maailma"
+            "kansainvälinen politiikka",
+            "grönlanti",
+            "tanska",
+            "donald trump",
+            "yhdysvaltain presidentti",
+            "mette frederiksen",
+            "lars løkke rasmussen",
+            "yhdysvaltojen politiikka",
+            "grönlantilaiset",
+            "jens-frederik nielsen",
+            "emmanuel macron",
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011711330.html"
+          "link": "https://yle.fi/a/74-20201292?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trumpin uusi erityislähettiläs aikoo matkustaa Grönlantiin",
+          "content": "Grönlanti on Monroen opin piirissä, tuore erityislähettiläs Jeff Landry sanoo. ",
+          "date": "2025-12-23T09:30:56.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "grönlanti",
+            "donald trump",
+            "pohjois-amerikka",
+            "tanska",
+            "yhdysvaltain presidentti",
+            "yhdysvallat",
+            "amerikan manner",
+            "yhdysvaltoihin matkustaminen",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201317?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Elina Valtoselta suorat sanat Trumpin Grönlanti-puheisiin",
+          "content": "Ulkoministerin mukaan on itsestäänselvää, että Grönlanti ja Tanska päättävät itse omista asioistaan.  On itsestäänselvää, että Tanska ja Grönlanti päättävät Tanskaa ja Grönlantia koskevista asioista, näkee ulkoministeri Elina Valtonen (kok). Valtonen kommentoi asiaa viestipalvelu X:ssä Yhdysvaltain presidentin Donald Trumpin Grönlanti-puheiden jälkimainingeissa. Trump sanoi maanantaina, että Yhdysvallat tarvitsee Grönlannin kansallisen turvallisuuden vuoksi.",
+          "date": "2025-12-23T09:26:36.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/dd27942c-6493-45f8-a10c-8a231d7c004e"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Elina Valtoselta suorat sanat Trumpin puheista – ”Maksoi kovan hinnan”",
+          "content": "Yhdysvaltain presidentti Donald Trump on taas esittänyt uusia vaatimuksia Grönlannista.",
+          "date": "2025-12-23T08:37:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011711891.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump vahvisti havittelevansa Grönlantia: ”Meidän on saatava se”",
+          "content": "Trumpin mukaan liittolaismaa Tanskan itsehallintoalue on olennainen Yhdysvaltojen kansalliselle turvallisuudelle.",
+          "date": "2025-12-23T07:05:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011711385.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Trumpin uusi nimitys paljastaa, että hän todella haluaa Grönlannin",
+          "content": "Trumpin pehmeä diplomatia Grönlannissa on epäonnistunut. Se ei kuitenkaan ole pakkomielteistä presidenttiä lannistanut, ulkomaan­toimittaja Roni Kuronen kirjoittaa.",
+          "date": "2025-12-23T06:45:14.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "tanska",
+            "donald trump",
+            "grönlanti",
+            "yhdysvaltain presidentti",
+            "arktinen alue",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201179?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump: Yhdysvaltojen täytyy saada Grönlanti",
+          "content": "Presidentin mukaan taustalla eivät ole niin sanotut kriittiset mineraalit, vaan kansallinen turvallisuus.",
+          "date": "2025-12-22T23:15:44.000Z",
+          "categories": [
+            "yhdysvallat",
+            "grönlanti",
+            "tanska",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201252?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -150,14 +402,52 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011709063.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tanskan ulkoministeri USA:n Grönlannin-erityislähettilään nimityksestä: ”Mahdotonta hyväksyä”",
+          "content": "Ulkoministeri Lars Løkke Rasmussen aikoo kutsua Yhdysvaltain Tanskan-suurlähettilään puhutteluuun. ",
+          "date": "2025-12-22T08:04:07.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "tanska",
+            "donald trump",
+            "grönlanti",
+            "yhdysvaltain presidentti",
+            "lars løkke rasmussen",
+            "kansallinen turvallisuus",
+            "pohjois-amerikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201085?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trumpin nimittämä Grönlannin-erityislähettiläs: ”Tavoitteena tehdä Grönlannista osa Yhdysvaltoja”",
+          "content": "Presidentti Donald Trump nimitti sunnuntaina Louisianan kuvernööri Jeff Landryn Yhdysvaltain Grönlannin-erityislähettilääksi.",
+          "date": "2025-12-22T03:21:20.000Z",
+          "categories": [
+            "yhdysvallat",
+            "grönlanti",
+            "donald trump",
+            "jeff landry",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201055?origin=rss"
         }
       ]
     },
     {
       "mainTitle": "Terveystalo ostaa Hohde Groupin 88 miljoonalla eurolla",
       "mainCategories": [
+        "Talous",
         "Sijoittaminen",
-        "Talous"
+        "Yritykset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -172,6 +462,26 @@
             "sijoittaminen"
           ],
           "link": "https://www.kauppalehti.fi/uutiset/a/c86efbf7-114d-4b44-9dc2-e1e129aa9fe0"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Terveystalo tähtää hammashoito­markkinan kärkeen – ostaa kuopiolaisen Hohde Groupin 88 miljoonalla eurolla",
+          "content": "Terveystalo ostaa nopeasti toimintaansa kasvattaneen valtakunnallisen hammaslääkäriasemien ketjun. Hohde Groupin liikevaihto vuonna 2024 oli 50 miljoonaa euroa.",
+          "date": "2025-12-23T11:48:16.000Z",
+          "categories": [
+            "yritykset",
+            "yrityskaupat",
+            "kuopio",
+            "hammaslääkärit",
+            "yritystiedot",
+            "terveyspalvelut",
+            "pohjois-savo",
+            "talous",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201334?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -246,41 +556,283 @@
       ]
     },
     {
-      "mainTitle": "Työttömyysaste nousi erityisesti ulkomaalaisten keskuudessa",
+      "mainTitle": "Ikäihmisten koteihin tunkeutuu varkaita",
       "mainCategories": [
-        "Politiikka",
-        "Työttömyys",
-        "Työvoima"
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Vantaa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työ | Työttömyys­aste jatkaa nousuaan – erityisesti ulkomaalaisten työttömyys pitkittynyt",
-          "content": "Myös avoimien työpaikkojen määrä kasvoi viime vuodesta.",
-          "date": "2025-12-23T09:37:00.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Varoitus oudoista läheteistä: Älä päästä sisään",
+          "content": "Poliisin tietoon on tullut useita samanlaisia tapauksia, joissa ikäihmiset ovat menettäneet kymmenien tuhansien eurojen arvosta omaisuutta. Itä-Uudenmaan poliisi tutkii törkeiden rikosten sarjaa, jossa kotiin on tukeuduttu luvattu ja sieltä on varastettu omaisuutta. Poliisin tietoon on tullut useita samanlaisia tapauksia Vantaalla ja muualla Uudenmaan alueella. Poliisi epäilee, että tekijöitä on useampia. Uhreiksi on valikoitu ikäihmisiä. Ainakin osa epäillyistä puhuu hyvin suomea.",
+          "date": "2025-12-23T11:44:31.000Z",
           "categories": [
-            "politiikka"
+            "kotimaa"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011711624.html"
+          "link": "https://www.iltalehti.fi/kotimaa/a/0aa067f5-23fb-42ad-b0b6-65c16b0ba3b0"
         },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Varkaat esittivät kukkalähettejä Vantaalla ja tunkeutuivat vanhusten koteihin",
+          "content": "Varkaiden mukaan on tarttunut kymmenien tuhansien eurojen arvosta rahaa ja omaisuutta.",
+          "date": "2025-12-23T11:42:42.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "vantaa",
+            "poliisi",
+            "omaisuusrikokset",
+            "poliisitutkinta",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201346?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainan rauhanneuvottelut jatkuvat Miamissa",
+      "mainCategories": [
+        "Venäjä",
+        "Yhdysvallat",
+        "Lähetystöt"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Media: Venäjän ja Yhdysvaltain diplomaatit keskustelivat maiden suhteista",
+          "content": "",
+          "date": "2025-12-23T11:17:58.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "venäjä",
+            "yhdysvallat",
+            "lähetystöt",
+            "diplomatia",
+            "kansainväliset suhteet",
+            "pohjois-amerikka",
+            "uutistoimistot",
+            "ukraina",
+            "interfax",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201341?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "USA ja Ukraina kuvailivat Miamin keskusteluja rakentaviksi, Venäjä puhui hitaasta edistyksestä",
+          "content": "Yhdysvallat kävi loppuviikosta Floridassa erillisiä keskusteluja niin Ukrainan, Venäjän kuin joidenkin Ukrainan eurooppalaisten liittolaistenkin kanssa.",
+          "date": "2025-12-22T18:05:58.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/usa-ja-ukraina-kuvailivat-miamin-keskusteluja-rake/12465699?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ukrainan rauhanneuvottelut jatkuivat Miamissa",
+          "content": "Venäjän ja Yhdysvaltain edustajien oli määrä sunnuntaina jatkaa neuvotteluitaan Ukrainan sodan rauhansuunnitelmasta Yhdysvalloissa.",
+          "date": "2025-12-21T17:25:55.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/ukrainan-rauhanneuvottelut-jatkuivat-miamissa/12464319?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sähkön hintakiista korkeimpaan hallinto-oikeuteen",
+      "mainCategories": [
+        "Talous",
+        "Energia",
+        "Sähköyhtiöt"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
         {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
-          "title": "Työttömyys jatkoi kasvuaan Varsinais-Suomessa ja koko maassa",
+          "title": "Sähköverkkoyhtiöt valittavat markkinaoikeuden päätöksestä korkeimpaan hallinto-oikeuteen",
           "content": "",
-          "date": "2025-12-23T07:36:01.000Z",
+          "date": "2025-12-23T11:13:20.000Z",
           "categories": [
-            "työttömyys",
-            "työvoima",
-            "työllisyys",
-            "paikalliset",
+            "sähköyhtiöt",
+            "korkein hallinto-oikeus",
+            "energiavirasto",
+            "sähkönsiirto",
+            "markkinaoikeus",
+            "talous",
             "uutiset"
           ],
-          "link": "https://www.ts.fi/uutiset/6858860"
+          "link": "https://www.ts.fi/uutiset/6859177"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Energia­teollisuus: Sähkö­yhtiöt vievät hinta­kiistan KHO:hon",
+          "content": "",
+          "date": "2025-12-23T10:32:32.000Z",
+          "categories": [
+            "energia",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20201331?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Espoon miljonäärimurhan motiivi paljastui",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Poliisi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Murha­epäily: Bisnes­mies surmasi hyvän ystävänsä Espoossa – taustalla karu suunnitelma",
+          "content": "Vuosikymmenien ystävyyssuhde päättyi karmivalla tavalla.",
+          "date": "2025-12-23T10:48:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011712468.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi epäilee: Luottamuksen menetys liikeasioissa johti murhaan Espoossa",
+          "content": "Espoon Soukanniemessä keväällä tapahtuneen epäillyn murhan esitutkinta on valmistunut.",
+          "date": "2025-12-23T10:47:38.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "poliisi",
+            "espoo",
+            "murhaepäilty",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201332?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Espoon miljonääri­murha: Poliisi paljastaa epäillyn motiivin",
+          "content": "Poliisilla on nyt käsitys teon motiivista. Poliisi paljastaa uutta tietoa Espoon Soukanniemessä keväällä tapahtuneesta murhasta. Noin 60-vuotiaan miehen epäillään murhanneen liikekumppaninsa, noin 60-vuotiaan espoolaisen miljonäärin, 7. toukokuuta. Teon motiivit liittyivät liiketoimintaan ja ystävyyssuhteeseen.",
+          "date": "2025-12-23T10:38:30.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/8fee0b40-8bf4-4599-8d50-0392ec5a7750"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Nivala | Poliisi alkoi epäillä, että ihmisen kuolema tulipalossa oli tappo",
+          "content": "Omakotitalo sytytettiin luultavasti tahallaan.",
+          "date": "2025-12-22T14:27:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011710648.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Joulupäivänä sää lauhtuu koko maassa",
+      "mainCategories": [
+        "Sää",
+        "Kotimaa",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Etelässä vietetään mustaa pakkasjoulua, lunta riittää vain pohjoisessa – joulupäivänä sää lauhtuu rajusti koko maassa",
+          "content": "Jouluaaton sää on pääosin poutaista ja koko maassa on pakkasta. Joulupäivänä sää muuttuu koko maassa plussalle, pohjoisessa on jopa poikkeuksellisen lämmintä ajankohtaan nähden. ",
+          "date": "2025-12-23T10:36:02.000Z",
+          "categories": [
+            "sää",
+            "ilmatieteen laitos",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201294?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Joulusää | Föhn-tuuli lauhduttaa joulun sään",
+          "content": "Sää lauhtuu joulupäivänä koko maassa. Sitä ennen säässä tapahtuu käänne kylmempään.",
+          "date": "2025-12-22T14:50:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011708877.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Epstein-asiakirjat herättävät poliittista keskustelua",
+      "mainCategories": [
+        "Seksuaalirikokset",
+        "Ulkomaat",
+        "FBI"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "WP: Lisää Epstein-asiakirjoja julki – FBI oli seurannut sijoittajan kiinteistöbisnestä aiemmin ",
+          "content": "Asiakirjoissa on lehden mukaan useita mainintoja Trumpista. ",
+          "date": "2025-12-23T09:41:21.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "fbi",
+            "oikeusministeriö",
+            "jeffrey epstein",
+            "seksuaalirikokset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201320?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Bill Clintonin kanslia vaatii Epstein-aineiston läpi­näkyvämpää julkaisemista – Trump kommentoi asiakirjoja",
+          "content": "Entisen presidentin tiedotteessa vaaditaan, että oikeus­ministeri Pam Bondi julkaisee viivytyksettä kaikki asiakirjat, joissa Clinton esiintyy.",
+          "date": "2025-12-23T02:57:51.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "bill clinton",
+            "seksuaalirikokset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201256?origin=rss"
         }
       ]
     },
@@ -319,146 +871,220 @@
       ]
     },
     {
-      "mainTitle": "Novo Nordiskin laihdutuslääkkeelle myyntilupa",
+      "mainTitle": "Lapin junaliikenne palautuu normaaliksi",
       "mainCategories": [
-        "Taloussanomat",
-        "Sijoittaminen"
+        "Liikenne",
+        "Rautatieliikenne",
+        "Junaliikennehäiriöt"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uudelle laihdutus­pillerille myyntilupa",
-          "content": "Tanskalainen Novo Nordisk sai merkittävän päätöksen Yhdysvalloista.",
-          "date": "2025-12-23T08:40:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lapissa junaliikenteen odotetaan palautuvan normaaliksi",
+          "content": "",
+          "date": "2025-12-23T08:37:19.000Z",
           "categories": [
-            "taloussanomat"
+            "liikenne",
+            "rautatieliikenne",
+            "junaliikennehäiriöt",
+            "junaliikenne",
+            "kemi",
+            "kotimaa",
+            "lappi"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011711728.html"
+          "link": "https://yle.fi/a/74-20201305?origin=rss"
         },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Helsingin ja Tampereen välinen junahäiriö korjattu – Lappiin matkalla olevat junat ovat myöhässä ",
+          "content": "Pohjoisen junaliikenteessä on häiriö, jonka korjaaminen voi kestää jopa 12 tuntia.",
+          "date": "2025-12-22T10:07:07.000Z",
+          "categories": [
+            "liikenne",
+            "junaliikennehäiriöt",
+            "rautatieliikenne",
+            "toijala",
+            "kotimaa",
+            "lappi",
+            "pirkanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20201123?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Työttömyysaste nousi 10,6 prosenttiin",
+      "mainCategories": [
+        "Työttömyys",
+        "Työllisyys",
+        "Työelämä"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
         {
           "publisherId": "kauppalehti",
           "publisher": "Kauppalehti",
           "publisherUrl": "kauppalehti.fi",
-          "title": "PÖRSSIT: Novo Nordisk ja Saab nousevat pörsseissä",
-          "content": "Saab kertoi saaneensa tilauksen Liettuan puolustusvoimilta. Novo Nordiskin Wegovy-laihdutuspilleri sai Yhdysvaltojen viranomaisen hyväksynnän.",
-          "date": "2025-12-23T08:35:00.000Z",
+          "title": "Synkät työttömyysluvut nyt julki – 3 asiaa paljastuu luvuista",
+          "content": "Työttömyysasteen trendi harppasi jo 10,6 prosenttiin. Pieniä myönteisiäkin piirteitä tilastoluvuissa on. Työvoiman määrä on kasvanut tuntuvasti.",
+          "date": "2025-12-23T08:33:00.000Z",
           "categories": [
-            "sijoittaminen"
+            "kansantalous"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/50d80528-71b3-428f-8525-0406de16020d"
+          "link": "https://www.kauppalehti.fi/uutiset/a/44222224-2a6a-4434-b659-653cdf7323dd"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Työttömyys jatkoi kasvuaan Varsinais-Suomessa ja koko maassa",
+          "content": "",
+          "date": "2025-12-23T07:36:01.000Z",
+          "categories": [
+            "työttömyys",
+            "työvoima",
+            "työllisyys",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6858860"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Työttömyysluvut synkkenivät uuteen ennätykseen",
+          "content": "",
+          "date": "2025-12-23T06:14:51.000Z",
+          "categories": [
+            "työelämä",
+            "työttömyys",
+            "työllisyys",
+            "talous",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201268?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Nivalassa tutkitaan tulipalon tappoa",
+      "mainTitle": "Bondi Beachin joukkoampuminen herättää huolta",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa"
+        "Poliisi",
+        "Ampumavälikohtaukset",
+        "Joukkomurha"
+      ],
+      "imageUrl": "/images/australia/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Australiassa ”jouluihme” – Sydneyn verilöylyssä päähän ammuttu poliisi kotiutui sairaalasta",
+          "content": "22-vuotias Jack Hibbert on yksi kahdesta Bondi Beachin joukko­ampumisessa loukkaan­tuneesta poliisista.",
+          "date": "2025-12-23T08:01:35.000Z",
+          "categories": [
+            "terrori-iskut",
+            "poliisi",
+            "ampumavälikohtaukset",
+            "joukkomurha",
+            "summittainen ammuskelu",
+            "australia",
+            "väkivaltarikokset",
+            "sairaalat ja terveyskeskukset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201289?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Uutta tietoa Bondi Beachin joukko­ampumisesta – epäillyt suunnittelivat tekoaan kuukausien ajan ",
+          "content": "Pääministeri Anthony Albanese pyrkii tiukentamaan Australian lain­säädäntöä viha­puheen ja ekstre­mismin torjumiseksi.",
+          "date": "2025-12-22T05:02:22.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "poliisi",
+            "murha",
+            "joukkomurha",
+            "australia",
+            "summittainen ammuskelu",
+            "ampumavälikohtaukset",
+            "terrorismi",
+            "joukkoampuminen",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201060?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Passin ja henkilökortin voimassaolo pitenemässä",
+      "mainCategories": [
+        "Hinnat",
+        "Passit",
+        "Talous"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Palaneesta talosta löytyi vainaja – IL:n tiedot: Naapuria epäillään taposta",
-          "content": "Iltalehden tietojen mukaan taposta epäilty on tuomittu aiemmin erään naapurinsa pahoinpitelystä. Poliisi vaatii vuonna 1964 syntynyttä miestä vangittavaksi taposta epäiltynä. Vangitsemisvaatimusta käsitellään tänään Oulun käräjäoikeudessa. Epäilty henkirikos tapahtui Nivalassa viime perjantaina 19. joulukuuta alueella, jolla sijaitsee useita pieniä erillistaloja. Poliisin käsityksen mukaan niistä yksi sytytettiin perjantaina iltapäivällä tuleen.",
-          "date": "2025-12-23T07:54:10.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Passin ja henkilökortin voimassaolo pitenemässä kymmeneen vuoteen",
+          "content": "",
+          "date": "2025-12-23T07:53:56.000Z",
           "categories": [
-            "kotimaa"
+            "lakimuutos",
+            "laki",
+            "kotimaa",
+            "uutiset"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/995c7a16-690e-4de9-b3e0-d5cca24efce7"
+          "link": "https://www.ts.fi/uutiset/6858888"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Nivala | Poliisi alkoi epäillä, että ihmisen kuolema tulipalossa oli tappo",
-          "content": "Omakotitalo sytytettiin luultavasti tahallaan.",
-          "date": "2025-12-22T14:27:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Passin ja henkilökortin hinnat laskevat",
+          "content": "",
+          "date": "2025-12-22T13:47:22.000Z",
           "categories": [
-            "suomi"
+            "hinnat",
+            "passit",
+            "henkilökortit ja -rekisterit",
+            "talous"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011710648.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Poliisi tutkii Nivalan tulipaloa tappona – yksi henkilö otettu kiinni",
-          "content": "Oulun poliisilaitos tutkii Nivalassa perjantaina 19. joulukuuta tapahtunutta tappoa.",
-          "date": "2025-12-22T13:32:56.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/poliisi-tutkii-nivalan-tulipaloa-tappona-yksi-henk/12465558?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+          "link": "https://yle.fi/a/74-20201202?origin=rss"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Yksi kuollut tulipalossa Nivalassa – poliisi tutkii rikosta",
-          "content": "Tulipalo tapahtui perjantaina.",
-          "date": "2025-12-22T13:28:00.000Z",
+          "title": "Passin hinta laskee",
+          "content": "Henkilökortti on passia kalliimpi.",
+          "date": "2025-12-22T12:10:00.000Z",
           "categories": [
-            "oulun seutu"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/oulun-seutu/art-2000011710461.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "S-ryhmä vetää takaisin pakastemansikoita",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ostitko näitä mansikoita? –Varoitus torjunta-aineista",
-          "content": "S-ryhmä vetää takaisin kaksi erää mansikkapakasteita.  S-ryhmä vetää takaisin mansikoita, joista on löytynyt EU:n määräysten ylittävä määrä kasvinsuojeluainetta. Takaisinveto koskee kahta erää Xtra mansikka 500 g -pakasteita, joiden parasta ennen -päiväykset ja erätunnisteet ovat 14.4.2027, V25 287 ja 17.4.2027, V25 290.",
-          "date": "2025-12-23T05:32:54.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/d0ed465c-0114-416d-b1ee-a4598d3100cf"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Takaisinvedot | SOK vetää takaisin Xtra-pakaste­mansikoita",
-          "content": "Marjoista on löytynyt EU:n määräysten ylittävä määrä kasvinsuojeluainetta.",
-          "date": "2025-12-22T19:53:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011711145.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "SOK vetää takaisin kaksi erää pakastemansikoita",
-          "content": "SOK vetää takaisin kaksi erää mansikkapakasteita. Kyse on puolen kilon Xtra-merkkisistä mansikkapakasteista.",
-          "date": "2025-12-22T18:08:39.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/sok-vetaa-takaisin-kaksi-eraa-pakastemansikoita/12465750?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+          "link": "https://www.is.fi/taloussanomat/art-2000011709954.html"
         }
       ]
     },
     {
       "mainTitle": "Trump julkisti uuden sota-alusluokan",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Yhdysvallat",
+        "Ulkomaat",
+        "Maailma"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -473,16 +1099,69 @@
           "link": "https://www.hs.fi/maailma/art-2000011711292.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yhdysvallat julkisti ”Trump-luokan” sota-alukset",
-          "content": "Uusien sota-alusten julkistamistilaisuudessa presidentti Donald Trump jatkoi myös Venezuelan painostusta.",
-          "date": "2025-12-23T02:39:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvaltain laivastolle uusia taistelulaivoja – alukset nimetään Trumpin mukaan",
+          "content": "Laivat tulevat presidentti Donald Trumpin mukaan olemaan pidempiä ja suurempia kuin toisen maailmansodan aikaiset Iowa-luokan taistelulaivat.",
+          "date": "2025-12-22T22:36:08.000Z",
           "categories": [
+            "yhdysvallat",
+            "yhdysvaltain laivasto",
+            "donald trump",
+            "yhdysvaltojen politiikka",
+            "yhdysvaltain asevoimat",
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011711284.html"
+          "link": "https://yle.fi/a/74-20201251?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin tulisi keskittyä Yhdysvaltoihin",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Venezuela",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Maduron mukaan Trumpin tulee keskittyä Venezuelan sijaan Yhdysvaltain sisäisiin asioihin",
+          "content": "Trump sanoi maanantaina, että Maduron olisi viisainta luopua vallasta.",
+          "date": "2025-12-23T00:47:02.000Z",
+          "categories": [
+            "yhdysvallat",
+            "venezuela",
+            "donald trump",
+            "nicolás maduro",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201254?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: USA:n iskut Venezuelan öljy­kuljetuksiin ovat osa Trumpin kylmäävää uutta strategiaa",
+          "content": "Trump sanoo haluavansa Venezuelan öljyn. USA:n tavoite on koko Latinalaisen Amerikan saaminen kontrolliin, Ylen ulkomaan­toimittaja Esko Varho kirjoittaa.",
+          "date": "2025-12-22T17:42:15.000Z",
+          "categories": [
+            "yhdysvallat",
+            "nicolás maduro",
+            "venezuela",
+            "presidentti trumpin hallinto",
+            "öljy ja kaasu",
+            "monroen oppi",
+            "etelä-amerikka",
+            "yhdysvaltojen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201079?origin=rss"
         }
       ]
     },
@@ -521,37 +1200,9 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan rauhanneuvottelut jatkuvat Miamissa",
-      "mainCategories": [],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "USA ja Ukraina kuvailivat Miamin keskusteluja rakentaviksi, Venäjä puhui hitaasta edistyksestä",
-          "content": "Yhdysvallat kävi loppuviikosta Floridassa erillisiä keskusteluja niin Ukrainan, Venäjän kuin joidenkin Ukrainan eurooppalaisten liittolaistenkin kanssa.",
-          "date": "2025-12-22T18:05:58.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/usa-ja-ukraina-kuvailivat-miamin-keskusteluja-rake/12465699?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Ukrainan rauhanneuvottelut jatkuivat Miamissa",
-          "content": "Venäjän ja Yhdysvaltain edustajien oli määrä sunnuntaina jatkaa neuvotteluitaan Ukrainan sodan rauhansuunnitelmasta Yhdysvalloissa.",
-          "date": "2025-12-21T17:25:55.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/ukrainan-rauhanneuvottelut-jatkuivat-miamissa/12464319?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Joulusää lauhtuu föhn-tuulen myötä",
+      "mainTitle": "SOK vetää takaisin pakastemansikoita",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa"
+        "Suomi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -559,25 +1210,270 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Joulusää | Föhn-tuuli lauhduttaa joulun sään",
-          "content": "Sää lauhtuu joulupäivänä koko maassa. Sitä ennen säässä tapahtuu käänne kylmempään.",
-          "date": "2025-12-22T14:50:00.000Z",
+          "title": "Takaisinvedot | SOK vetää takaisin Xtra-pakaste­mansikoita",
+          "content": "Marjoista on löytynyt EU:n määräysten ylittävä määrä kasvinsuojeluainetta.",
+          "date": "2025-12-22T19:53:00.000Z",
           "categories": [
             "suomi"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011708877.html"
+          "link": "https://www.hs.fi/suomi/art-2000011711145.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "SOK vetää takaisin kaksi erää pakastemansikoita",
+          "content": "SOK vetää takaisin kaksi erää mansikkapakasteita. Kyse on puolen kilon Xtra-merkkisistä mansikkapakasteista.",
+          "date": "2025-12-22T18:08:39.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/sok-vetaa-takaisin-kaksi-eraa-pakastemansikoita/12465750?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kullan hinta saavutti uuden ennätyksen",
+      "mainCategories": [
+        "Talous",
+        "Taloussanomat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kullan hinta kipusi taas ennätykseen",
+          "content": "Kullan hinta on saavuttanut taas uuden ennätyksen.",
+          "date": "2025-12-22T19:08:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011710512.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kullan markkinahinta uusiin ennätyslukemiin",
+          "content": "Aikaisempi ennätys oli lokakuulta.",
+          "date": "2025-12-22T02:26:01.000Z",
+          "categories": [
+            "talous",
+            "kullan hinta",
+            "nouseva kullan hinta"
+          ],
+          "link": "https://yle.fi/a/74-20201054?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomeen tulossa kansalaisuuskoe 2027",
+      "mainCategories": [
+        "Politiikka",
+        "Maahanmuutto",
+        "Kansalaisuus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suomen kansalaisuuteen aletaan vaatia koetta – tällainen se on",
+          "content": "Kansalaisuuskoe on tarkoitus ottaa käyttöön vuoden 2027 alussa.",
+          "date": "2025-12-22T18:01:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011710749.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sisäministeriö: Suomessa ollaan ottamassa käyttöön kansalai­suuskoe",
+          "content": "Suomessa ollaan ottamassa käyttöön kansalaisuus­koe, jonka suorittaminen olisi edellytys kansalai­suuden saamiselle.",
+          "date": "2025-12-22T11:08:47.000Z",
+          "categories": [
+            "maahanmuutto",
+            "kansalaisuus",
+            "politiikka",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201142?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Larry Ellison tukee Paramountin Warner-kauppaa",
+      "mainCategories": [
+        "Talous",
+        "Yritykset",
+        "Netflix"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Warner-kauppa | Larry Ellison antaa 40 miljardin henkilö­kohtaisen takauksen Paramountin tarjoukselle",
+          "content": "Oraclen perustaja Larry Ellison antaa 40,4 miljardin dollarin takauksen tukeakseen poikansa Paramount-yhtiön Warner Bros -ostotarjousta.",
+          "date": "2025-12-22T17:02:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011710861.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Uusi käänne Paramountin ja Netflixin tarjouskilvassa – miljardööri mukaan kauppoihin",
+          "content": "",
+          "date": "2025-12-22T14:26:06.000Z",
+          "categories": [
+            "yritykset",
+            "netflix",
+            "talous",
+            "ostotarjous",
+            "tarjous",
+            "osakkaat",
+            "larry ellison",
+            "yrityskaupat"
+          ],
+          "link": "https://yle.fi/a/74-20201213?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Erikoisia luontohavaintoja joulukuussa 2025",
+      "mainCategories": [
+        "Luonto",
+        "Kotimaa",
+        "Vuodenajat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Puutiainen Velho-kissan turkissa ja lupiini täydessä kukassa – katso lukijoiden erikoiset luontohavainnot",
+          "content": "Pyysimme lukijoita kertomaan erikoisista luonto­havainnoista juuri nyt.",
+          "date": "2025-12-22T15:36:02.000Z",
+          "categories": [
+            "luonto",
+            "vuodenajat",
+            "kasvit",
+            "eläimet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201208?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pajunkissoja on tallentunut kuviin jo ainakin Liedossa ja Uuraisilla – onko sinulla poikkeuksellisia luontohavaintoja? ",
+          "content": "Kerro meille havainnoistasi pihalla ja puutarhassa. ",
+          "date": "2025-12-21T17:22:20.000Z",
+          "categories": [
+            "luonto",
+            "varsinais-suomi",
+            "keski-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201034?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Nivalassa tutkitaan tulipalon aiheuttamaa kuolemaa",
+      "mainCategories": [],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Poliisi tutkii Nivalan tulipaloa tappona – yksi henkilö otettu kiinni",
+          "content": "Oulun poliisilaitos tutkii Nivalassa perjantaina 19. joulukuuta tapahtunutta tappoa.",
+          "date": "2025-12-22T13:32:56.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/poliisi-tutkii-nivalan-tulipaloa-tappona-yksi-henk/12465558?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Tupla-föhn iskee jouluna – täällä vaikutukset ovat suurimmat",
-          "content": "Länsituuli tuo joulupäivänä lämpimiä terveisiä Norjasta ja Islannista.",
-          "date": "2025-12-21T16:22:00.000Z",
+          "title": "Yksi kuollut tulipalossa Nivalassa – poliisi tutkii rikosta",
+          "content": "Tulipalo tapahtui perjantaina.",
+          "date": "2025-12-22T13:28:00.000Z",
           "categories": [
-            "kotimaa"
+            "oulun seutu"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011708125.html"
+          "link": "https://www.is.fi/oulun-seutu/art-2000011710461.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäläiskenraali kuoli autopommi-iskussa Moskovassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Venäjä",
+        "Moskova"
+      ],
+      "imageUrl": "/images/venäjä/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kenraali kuoli autopommin räjähdyksessä Moskovassa – Toveri: ”Pistää katsomaan jatkossa auton alle, kun töihin lähtee”",
+          "content": "Entinen puolustusvoimien tiedustelupäällikkö arvioi, että teko viittaa vahvasti Ukrainan sotilastiedusteluun.",
+          "date": "2025-12-22T13:15:29.000Z",
+          "categories": [
+            "venäjä",
+            "moskova",
+            "räjähdykset",
+            "ukraina",
+            "erikoisjoukot",
+            "aseelliset konfliktit",
+            "pommit ja räjähdykset",
+            "venäjän asevoimat",
+            "kuolema",
+            "aseet",
+            "venäjän hyökkäys",
+            "operatiivinen johtaja",
+            "komentajat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201078?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjän armeijan kenraali kuoli autopommi-iskussa Moskovassa",
+          "content": "Venäjän tutkintakomitea kertoi epäilevänsä teosta ukrainalaisia.",
+          "date": "2025-12-22T11:29:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011708937.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjä | Venäläis­kenraali kuoli auto­pommin räjähdettyä Moskovassa, kertovat viran­omaiset",
+          "content": "Venäjän tutkintakomitean mukaan pommi oli asetettu auton alle.",
+          "date": "2025-12-22T09:19:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011708580.html"
         }
       ]
     },
@@ -616,7 +1512,94 @@
       ]
     },
     {
-      "mainTitle": "Päivä alkaa pidentyä joulun jälkeen",
+      "mainTitle": "Pääministerisuosikki: Ehdokasasettelu ratkaisee",
+      "mainCategories": [
+        "Politiikka",
+        "Kyselyt",
+        "Pääministerit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Pelkällä puheen­johtajan naamalla ei tehdä pääministeriä – ei edes Antti Lindtmanista",
+          "content": "Gallupien ja pääministerisuosikkien mittauksissa kannattaa muistaa, että vaalien voittajan ratkaisee enemmän ehdokasasettelu kuin puheenjohtajan persoona, kirjoittaa politiikan erikoistoimittaja Timo Haapala.",
+          "date": "2025-12-22T12:28:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011708932.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "IS-gallup: Lindtman suosikki seuraavaksi pääministeriksi",
+          "content": "",
+          "date": "2025-12-22T05:08:16.000Z",
+          "categories": [
+            "politiikka",
+            "kyselyt",
+            "pääministerit",
+            "antti lindtman",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201062?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Orpon mandaatti Ukrainalle kyseenalaistettu",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "/images/ukraina/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Valiokuntien puheenjohtajat erimielisiä Orpon mandaatista – ”Olisi laajempi konsultointi ollut tarpeen”",
+          "content": "Oppositio kritisoi viikonloppuna pääministeri Petteri Orpon toimintaa, kun Eurooppa-neuvosto päätti viikonloppuna uusista tuista Ukrainalle.",
+          "date": "2025-12-22T11:55:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011709691.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pääministeri Orpo vastaa rajuun kritiikkiin: ”Varmistin tämän yöllä”",
+          "content": "EU-johtajat päättivät viikonloppuna 90 miljardin euron lainasta Ukrainalle. Pääministeri Petteri Orpo (kok) oli maanantaiaamuna valiokuntien kuultavana ratkaisusta.",
+          "date": "2025-12-22T10:39:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011709486.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Petteri Orpo nopeasta yllätys­päätöksestä Ukraina-tuessa: Mandaatti riitti ja soitin yöllä Suomeen",
+          "content": "Oppositiosta kritisoidaan, että pääministeri Petteri Orpon mandaatti päättää Suomen osallistumisesta uuteen EU:n yhteisvelkaan, on tulkinnan varaista. ",
+          "date": "2025-12-22T10:32:23.000Z",
+          "categories": [
+            "politiikka",
+            "ukrainan sota",
+            "suomen ulkopolitiikka",
+            "euroopan unioni"
+          ],
+          "link": "https://yle.fi/a/74-20200847?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Päivän pituus alkaa kasvaa jälleen",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -650,43 +1633,11 @@
       ]
     },
     {
-      "mainTitle": "Venäläiskenraali kuoli autopommi-iskussa Moskovassa",
+      "mainTitle": "Oikeusministeriö perui leikkaukset oikeuskuluihin",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjän armeijan kenraali kuoli autopommi-iskussa Moskovassa",
-          "content": "Venäjän tutkintakomitea kertoi epäilevänsä teosta ukrainalaisia.",
-          "date": "2025-12-22T11:29:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011708937.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjä | Venäläis­kenraali kuoli auto­pommin räjähdettyä Moskovassa, kertovat viran­omaiset",
-          "content": "Venäjän tutkintakomitean mukaan pommi oli asetettu auton alle.",
-          "date": "2025-12-22T09:19:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011708580.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Oikeusministeri Meri päätti oikeuskululeikkauksista",
-      "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Oikeusministeriö",
+        "Oikeudenkäyntikulut"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -713,11 +1664,27 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011708743.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Oikeus­ministeriö keskeytti kritisoidun suunnitelman, jolla olisi leikattu syyttömien oikeus­apu­korvauksia",
+          "content": "",
+          "date": "2025-12-22T09:37:09.000Z",
+          "categories": [
+            "politiikka",
+            "oikeusministeriö",
+            "oikeudenkäyntikulut",
+            "leena meri",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201114?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Trump-kuva palautui Epstein-aineistoon",
+      "mainTitle": "Trump-kuva palautettu Epstein-aineistoon",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -809,7 +1776,7 @@
       ]
     },
     {
-      "mainTitle": "Hevoset pakenivat Haukiputaan keskustaan",
+      "mainTitle": "Hevoset pakenivat Haukiputaalla yöllä",
       "mainCategories": [
         "Suomi"
       ],
