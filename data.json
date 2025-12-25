@@ -1,207 +1,21 @@
 {
-  "timestamp": "2025-12-25T12:35:49.334Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-12-25T13:30:17.116Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Venäläinen tiedustelukone Itämerellä Puolan lähellä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/venäjä/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjän tiedustelu­kone Itämerellä – Puolan hävittäjät ilmaan",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
-          "date": "2025-12-25T12:28:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011703520.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Valko­venäläisiä kappaleita Puolan ilmatilassa, Venäjän tiedustelukone Itämerellä",
-          "content": "Venäjän tiedustelukone lensi lähellä Puolan ilmatilaa.  Puolan armeijan mukaan venäläinen tiedustelukone lensi torstaiaamuna Itämerellä. Asiasta kertoo uutistoimisto Reuters.",
-          "date": "2025-12-25T11:56:42.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/d4d970ea-627b-4b34-a857-bc63ac1b5f66"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Itämeri | Puolan hävittäjät saattoivat pois venäläisen tiedustelu­koneen",
-          "content": "Puolan ilmatilassa havaittiin viime yönä lisäksi esineitä, jotka olivat todennäköisesti salakuljettamiseen käytettäviä ilmapalloja.",
-          "date": "2025-12-25T11:25:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714490.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kreml kritisoi Zelenskyin joulupuhetta",
-      "mainCategories": [
-        "Juhlat",
-        "Joulu",
-        "Vähävaraisuus"
-      ],
-      "imageUrl": "/images/zelensky/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kremlistä vastaus Zelenskyin joulupuheeseen",
-          "content": "Volodymyr Zelenskyin puhe huomattiin Venäjällä. Ukrainan presidentti Volodymyr Zelenskyi käyttäytyi joulupuheessaan ”sivistymättömästi ja katkerasti”, Kremlin lehdistösihteeri Dmitri Peskov sanoi joulupäivänä. Peskovin mukaan Zelenskyin puhe herättää kysymyksen siitä, kykeneekö Zelenskyi tekemään tarvittavia päätöksiä rauhan saavuttamiseksi.",
-          "date": "2025-12-25T12:22:57.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/a3721abb-9615-4672-979f-7a09f41e1072"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vähävaraisten joulujuhla Turussa sai kunnia­vieraakseen tasavallan presidentin, joka toi lämpimät terveiset Ukrainasta",
-          "content": "Ennen vähävaraisten joulujuhlaa Alexander Stubb puhui puhelimessa kollegansa Volodymyr Zelenskyin kanssa, joka välitti terveiset erityisesti ukraina­laisille.",
-          "date": "2025-12-23T14:30:35.000Z",
-          "categories": [
-            "juhlat",
-            "joulu",
-            "ruoka-apu",
-            "vähävaraisuus",
-            "turku",
-            "logomo",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20200030?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Islannissa jouluaattona lämpöennätys 19,8 astetta",
-      "mainCategories": [
-        "Sää",
-        "Lämpötila",
-        "Islanti"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Islannissa uskomaton lämpö­ennätys jouluaattona – IS seuraa",
-          "content": "IS seuraa joulun tapahtumia tässä artikkelissa läpi koko joulun.",
-          "date": "2025-12-25T12:17:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011711327.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Joulukuun lämpöennätys rikkoutui Islannissa: 19,8 astetta jouluaattona",
-          "content": "Edellinen joulukuun ennätys­lämpötila oli mitattu 2. joulu­kuuta 2019.",
-          "date": "2025-12-25T10:09:56.000Z",
-          "categories": [
-            "sää",
-            "lämpötila",
-            "islanti",
-            "ilmatieteen laitos",
-            "jouluaatto",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201464?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "K-Marketin tulipalo Porissa, epäilty kiinni",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pori | ”Nyt selvitetään, miten tästä eteenpäin”, kommentoi kauppias K-Marketin tulipaloa",
-          "content": "Varhain jouluaamuna syttynyt tulipalo levisi kaupan kattorakenteista muuhun rakennukseen. Poliisi on ottanut kiinni miehen, jota se epäilee törkeästä tuhotyöstä.",
-          "date": "2025-12-25T12:01:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011714361.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "K-market paloi Porissa – tämä epäillystä tuhopolttajasta tiedetään",
-          "content": "Tuhopoltosta epäilty mies otettiin kiinni tapahtumapaikalta.",
-          "date": "2025-12-25T11:13:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714544.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Joululahjat eri aikakausilta lapsille",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kuvat: Olisitko ilahtunut lapsena tällaisista joululahjoista?",
-          "content": "Iltalehti esittelee leluja aina 1700-luvulta 2000-luvulle. Ajat vaihtuvat, mutta lapset ovat leikkineet aina. Joululeikkeihin ei ole aina tarvittu kaikkein monimutkaisimpia leluja, mutta nykyaikaan tultaessa lelut ovat monimuotoistuneet. Silti vanhat tutut pitävät pintansa: pehmolelut, pallot ja erilaiset pelit. Lelut ovat myös aina heijastelleet aikuisten maailmaa. Ennen lapset saivat lahjaksi erilaisia hevosleluja, nyt autoja. Leikeissä näkyvät kotitalouden pidon, sodan ja populaarikulttuurin teemat.",
-          "date": "2025-12-25T10:56:33.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/fc1592bc-8445-4cf4-b641-da98cadf92f1"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Video | Kysyimme aikuisilta, minkä lelun he haluaisivat itselleen joululahjaksi",
-          "content": "HS kysyi aikuisilta lelukaupassa, millaisen lelun he itse haluaisivat joululahjaksi. Hyllyiltä valittiin pehmoleluja, Legoja ja palapeli.",
-          "date": "2025-12-23T13:47:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011663734.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Heikki Hurstin joulujuhlaan ennätysmäärä osallistujia",
+      "mainTitle": "Hurstin joulujuhlaan ennätysmäärä tulijoita",
       "mainCategories": [
         "Kotimaa",
         "Köyhyys",
@@ -209,6 +23,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kokoomus­poliitikko: Hurstin juhlasta käännytetyt tuskin olivat kuolemassa nälkään – \"Kyllähän suomalaiset jonottavat ämpäreitäkin\"",
+          "content": "Kaikki eivät mahtuneet vähävaraisten joulujuhlaan. Kokoomuksen Otto Meren mukaan ruoka-avun hakijoiden lisääntyminen kertoo arvojen muutoksesta. Hurstin joulujuhlaan saapui jouluaattona reilusti yli 2 000 ihmistä, eivätkä kaikki mahtuneet sisään Helsingin Messukeskukseen. Vähävaraisten joulujuhlaan jonottaa vuosi vuodelta useampi. Myös leipäjonot kasvavat. Helsingin kaupunginvaltuutettu Otto Meri (kok) pitää ruoka-avusta käytyä keskustelua tekopyhänä hurskasteluna.",
+          "date": "2025-12-25T13:25:11.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/552e4965-aba4-4b95-b9ae-25ef2a0d3a70"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -292,6 +118,259 @@
       ]
     },
     {
+      "mainTitle": "Turkissa yli sata Isis-epäiltyä pidätetty",
+      "mainCategories": [
+        "Ulkomaat",
+        "Rikosepäilyt",
+        "Terrorismi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Turkissa massa­pidätykset – 115 henkilöä epäillään hirveistä suunnitelmista",
+          "content": "Turkin viranomaiset sanovat estäneensä kauheat suunnitelmat.",
+          "date": "2025-12-25T12:39:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011714574.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yli sata epäiltyä Isis-terroristia pidätetty Turkissa – suunnittelivat iskuja pyhien aikana",
+          "content": "",
+          "date": "2025-12-25T09:38:19.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "terrorismi",
+            "epäillyt",
+            "istanbul",
+            "turkki",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201462?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kreml kritisoi Zelenskyin joulupuhetta",
+      "mainCategories": [
+        "Juhlat",
+        "Joulu",
+        "Vähävaraisuus"
+      ],
+      "imageUrl": "/images/zelensky/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kreml reagoi Zelenskyin joulupuheeseen – Zelenskyin elettä pidettiin rajuna",
+          "content": "Volodymyr Zelenskyin puhe huomattiin Venäjällä. Ukrainan presidentti Volodymyr Zelenskyi käyttäytyi joulupuheessaan ”sivistymättömästi ja katkerasti”, Kremlin lehdistösihteeri Dmitri Peskov sanoi joulupäivänä. Peskovin mukaan Zelenskyin puhe herättää kysymyksen siitä, kykeneekö Zelenskyi tekemään tarvittavia päätöksiä rauhan saavuttamiseksi.",
+          "date": "2025-12-25T12:22:57.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/a3721abb-9615-4672-979f-7a09f41e1072"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Vähävaraisten joulujuhla Turussa sai kunnia­vieraakseen tasavallan presidentin, joka toi lämpimät terveiset Ukrainasta",
+          "content": "Ennen vähävaraisten joulujuhlaa Alexander Stubb puhui puhelimessa kollegansa Volodymyr Zelenskyin kanssa, joka välitti terveiset erityisesti ukraina­laisille.",
+          "date": "2025-12-23T14:30:35.000Z",
+          "categories": [
+            "juhlat",
+            "joulu",
+            "ruoka-apu",
+            "vähävaraisuus",
+            "turku",
+            "logomo",
+            "varsinais-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20200030?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Islannissa jouluaattona lämpöennätys 19,8 astetta",
+      "mainCategories": [
+        "Sää",
+        "Lämpötila",
+        "Islanti"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Islannissa uskomaton lämpö­ennätys jouluaattona – IS seuraa",
+          "content": "IS seuraa joulun tapahtumia tässä artikkelissa läpi koko joulun.",
+          "date": "2025-12-25T12:17:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011711327.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulukuun lämpöennätys rikkoutui Islannissa: 19,8 astetta jouluaattona",
+          "content": "Edellinen joulukuun ennätys­lämpötila oli mitattu 2. joulu­kuuta 2019.",
+          "date": "2025-12-25T10:09:56.000Z",
+          "categories": [
+            "sää",
+            "lämpötila",
+            "islanti",
+            "ilmatieteen laitos",
+            "jouluaatto",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201464?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "K-marketin tulipalo Porissa, yksi kiinni",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Tulipalot"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pori | ”Nyt selvitetään, miten tästä eteenpäin”, kommentoi kauppias K-Marketin tulipaloa",
+          "content": "Varhain jouluaamuna syttynyt tulipalo levisi kaupan kattorakenteista muuhun rakennukseen. Poliisi on ottanut kiinni miehen, jota se epäilee törkeästä tuhotyöstä.",
+          "date": "2025-12-25T12:01:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011714361.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "K-market paloi Porissa – tämä epäillystä tuhopolttajasta tiedetään",
+          "content": "Tuhopoltosta epäilty mies otettiin kiinni tapahtumapaikalta.",
+          "date": "2025-12-25T11:13:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011714544.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "K-kaupalle karmea kohtalo Porissa – Näin tapahtumat etenivät",
+          "content": "Poliisi on ottanut yhden henkilön kiinni liittyen tulipaloon Porissa. Porissa sijaitsevassa K-market Koivistonpuistikossa syttyi varhain joulupäivänä tulipalo. Poliisi on ottanut yhden henkilön kiinni epäiltynä törkeästä tuhotyöstä tulipaloon liittyen. Poliisi otti epäillyn tekijän kiinni palopaikalta, kertoo rikoskomisario Jari Klaus Lounais-Suomen poliisista. Klaus ei kommentoi palon syttymissyytä.",
+          "date": "2025-12-25T08:44:04.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/9f7ce060-b864-4c45-b578-1117a1508732"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi on ottanut yhden kiinni epäiltynä ruokakaupan tuhopoltosta Porissa – ”Ei sellaista voi ymmärtää”, sanoo kauppias",
+          "content": "Kiinni otettua miestä epäillään törkeästä tuhotyöstä.",
+          "date": "2025-12-25T04:45:37.000Z",
+          "categories": [
+            "onnettomuudet",
+            "tulipalot",
+            "pori",
+            "satakunta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201449?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäläinen tiedustelukone lähellä Puolaa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Valko­venäläisiä kappaleita Puolan ilmatilassa, Venäjän tiedustelukone Itämerellä",
+          "content": "Venäjän tiedustelukone lensi lähellä Puolan ilmatilaa.  Puolan armeijan mukaan venäläinen tiedustelukone lensi torstaiaamuna Itämerellä. Asiasta kertoo uutistoimisto Reuters.",
+          "date": "2025-12-25T11:56:42.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/d4d970ea-627b-4b34-a857-bc63ac1b5f66"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Itämeri | Puolan hävittäjät saattoivat pois venäläisen tiedustelu­koneen",
+          "content": "Puolan ilmatilassa havaittiin viime yönä lisäksi esineitä, jotka olivat todennäköisesti salakuljettamiseen käytettäviä ilmapalloja.",
+          "date": "2025-12-25T11:25:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714490.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Joululahjat ja lelut eri aikakausilta",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kuvat: Olisitko ilahtunut lapsena tällaisista joululahjoista?",
+          "content": "Iltalehti esittelee leluja aina 1700-luvulta 2000-luvulle. Ajat vaihtuvat, mutta lapset ovat leikkineet aina. Joululeikkeihin ei ole aina tarvittu kaikkein monimutkaisimpia leluja, mutta nykyaikaan tultaessa lelut ovat monimuotoistuneet. Silti vanhat tutut pitävät pintansa: pehmolelut, pallot ja erilaiset pelit. Lelut ovat myös aina heijastelleet aikuisten maailmaa. Ennen lapset saivat lahjaksi erilaisia hevosleluja, nyt autoja. Leikeissä näkyvät kotitalouden pidon, sodan ja populaarikulttuurin teemat.",
+          "date": "2025-12-25T10:56:33.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/fc1592bc-8445-4cf4-b641-da98cadf92f1"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Video | Kysyimme aikuisilta, minkä lelun he haluaisivat itselleen joululahjaksi",
+          "content": "HS kysyi aikuisilta lelukaupassa, millaisen lelun he itse haluaisivat joululahjaksi. Hyllyiltä valittiin pehmoleluja, Legoja ja palapeli.",
+          "date": "2025-12-23T13:47:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011663734.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Paavi Leo XIV rukoili Ukrainan puolesta",
       "mainCategories": [
         "Uskonnot",
@@ -335,7 +414,7 @@
       ]
     },
     {
-      "mainTitle": "Onnettomuudet vaativat useita uhreja",
+      "mainTitle": "Onnettomuudet vaativat useita ihmishenkiä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -369,11 +448,11 @@
       ]
     },
     {
-      "mainTitle": "Joululiikenne sujui rauhallisesti tänä vuonna",
+      "mainTitle": "Joulurauhan julistus sujui rauhallisesti",
       "mainCategories": [
+        "Joulu",
         "Liikenne",
-        "Joululiikenne",
-        "Joulu"
+        "Sää"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -409,77 +488,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20201421?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Aaton ajokeli on osassa maata liukas",
-          "content": "",
-          "date": "2025-12-24T04:05:22.000Z",
-          "categories": [
-            "liikenne",
-            "sää",
-            "liikennesää",
-            "jouluaatto",
-            "joululiikenne"
-          ],
-          "link": "https://yle.fi/a/74-20201401?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Joulun menoliikenne on sujunut rauhallisesti",
-          "content": "Fintrafficin tieliikennekeskus arvioi, että menoliikenteen jakautuminen usealle päivälle on vaikuttanut liikenteen määrään aatonaattona. ",
-          "date": "2025-12-23T13:22:29.000Z",
-          "categories": [
-            "liikenne",
-            "joululiikenne",
-            "ruuhkat",
-            "fintraffic",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201362?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tulipalo K-kaupassa Porissa, yksi kiinni",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Tulipalot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "K-kaupalle karmea kohtalo Porissa – Näin tapahtumat etenivät",
-          "content": "Poliisi on ottanut yhden henkilön kiinni liittyen tulipaloon Porissa. Porissa sijaitsevassa K-market Koivistonpuistikossa syttyi varhain joulupäivänä tulipalo. Poliisi on ottanut yhden henkilön kiinni epäiltynä törkeästä tuhotyöstä tulipaloon liittyen. Poliisi otti epäillyn tekijän kiinni palopaikalta, kertoo rikoskomisario Jari Klaus Lounais-Suomen poliisista. Klaus ei kommentoi palon syttymissyytä.",
-          "date": "2025-12-25T08:44:04.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/9f7ce060-b864-4c45-b578-1117a1508732"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tuhoisa tulipalo ruoka­kaupassa Porissa – poliisi ottanut rikoksesta epäillyn kiinni",
-          "content": "Palosta levisi terveydelle haitallista savua, mutta vaara on nyt ohi.",
-          "date": "2025-12-25T04:45:37.000Z",
-          "categories": [
-            "onnettomuudet",
-            "tulipalot",
-            "pori",
-            "satakunta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201449?origin=rss"
         }
       ]
     },
@@ -524,7 +532,7 @@
         "Maailma",
         "Rauhanneuvottelut"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -549,18 +557,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011714345.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Asiantuntija pelkää, että Venäjä ei hyväksy eikä torju rauhan­suunnitelmaa – Tätä se tarkoittaisi",
-          "content": "Asiantuntijat arvioivat Ukrainan ja Yhdysvaltojen rauhanesitystä. Tuoreessa rauhansuunnitelmassa on vahvuuksia ja heikkouksia, arvioivat asiantuntijat. Ukrainan tukema luonnos tuli julki jouluaattona eli keskiviikkona.",
-          "date": "2025-12-25T00:58:39.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/7d13d7ad-4f7e-4539-b14c-42aae35f9577"
         },
         {
           "publisherId": "yle",
@@ -663,7 +659,7 @@
         "Vaalit",
         "Honduras"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -736,40 +732,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011714332.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kateissa ollut eläkeläisnainen löytyi hoitoon",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rauma | Tiistaista asti kateissa ollut eläkeläisnainen löytyi kylmettyneenä",
-          "content": "Poliisin mukaan nainen saatiin ajoissa hoitoon.",
-          "date": "2025-12-24T21:30:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011714308.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Raumalla vuorokauden kateissa ollut nainen löytyi aattoiltana",
-          "content": "Nainen oli kateissa tiistai-illasta saakka. Raumalla kadonnut nainen on löytynyt, Lounais-Suomen poliisilaitos tiedottaa. Nainen löydettiin kylmettyneenä aattoiltana noin kello 22.50. Ensihoito on toimittanut hänet hoitoon. Nainen löydettiin noin kolme kilometriä etelään katoamispaikalta.",
-          "date": "2025-12-24T14:32:35.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/a7089d9d-0151-4c33-a878-1ee762f1d7cb"
         }
       ]
     },
@@ -981,13 +943,13 @@
       ]
     },
     {
-      "mainTitle": "Virkkunen tuomitsee Yhdysvaltojen viisumikiellot",
+      "mainTitle": "EU tuomitsee Yhdysvaltojen viisumikiellot",
       "mainCategories": [
         "Yhdysvallat",
         "Matkustusrajoitukset",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1026,7 +988,7 @@
         "Joulu",
         "Turku"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1133,7 +1095,7 @@
       ]
     },
     {
-      "mainTitle": "Joulupukin kuuma linja keräsi viestejä",
+      "mainTitle": "Joulupukin kuuma linja keräsi 30 000 viestiä",
       "mainCategories": [
         "Juhlat",
         "Joulu",
@@ -1264,7 +1226,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1293,7 +1255,7 @@
       ]
     },
     {
-      "mainTitle": "Patriarkka Kirillin salasuhde herättää kysymyksiä",
+      "mainTitle": "Patriarkka Kirillin salasuhde herättää huomiota",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
