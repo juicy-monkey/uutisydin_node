@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-25T16:22:10.225Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2025-12-25T16:48:49.416Z",
+  "successCount": 14,
+  "failureCount": 8,
   "failedFeeds": [
     {
       "url": {
@@ -18,15 +18,6 @@
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
       },
       "reason": {}
     },
@@ -80,15 +71,6 @@
         "publisherId": "yle",
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
       },
       "reason": {}
@@ -96,10 +78,61 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Uusia Epstein-asiakirjoja viivästyttää julkaisua",
+      "mainTitle": "Trump toivotti joulua omalla tyylillään",
       "mainCategories": [
+        "Ulkomaat",
+        "Juhlat",
+        "Joulupukki"
+      ],
+      "imageUrl": "/images/trump/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Presidentti Trump jutusteli lasten kanssa joululahjoista – kehui hiiltä ”puhtaaksi ja kauniiksi”",
+          "content": "Presidenttipari vastaili lasten puheluihin, kun Pohjois-Amerikan ilmapuolustuskomennon animoitu joulupukki-seuranta käynnistyi.",
+          "date": "2025-12-25T16:23:43.000Z",
+          "categories": [
+            "juhlat",
+            "donald trump",
+            "joulupukki",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201471?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpilta erikoinen joulun­toivotus",
+          "content": "Yhdysvaltain presidentti on julkaissut jouluntoivotuksensa omassa sosiaalisessa mediassaan.",
+          "date": "2025-12-25T11:09:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011714543.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Donald Trump: \"Hyvää joulua saastalle\"",
+          "content": "Trump toivotti hyvää joulua erikoisessa kirjoituksessa. Yhdysvaltain presidentti Donald Trump toivottaa hyvää joulua omintakeiseen tyyliin. Viestipalvelu Truth socialissa julkaisemassaan viestissä Trump lausui ”toivotuksensa” myös poliittisille vastustajilleen.",
+          "date": "2025-12-25T09:15:41.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/aa70ea29-4fcb-4934-8ea6-17c54b845025"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Epstein-asiakirjojen julkistus viivästyy uusien löytöjen vuoksi",
+      "mainCategories": [
+        "Ulkomaat",
         "Maailma",
-        "Ulkomaat"
+        "Yhdysvallat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -138,11 +171,78 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011714305.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Epstein-papereiden julkistus venyy – syynissä yli miljoona uutta asiakirjaa",
+          "content": "Oikeusministeriön mukaan lakimiehet tekevät jatkuvasti töitä, jotta paperit saadaan käytyä läpi.",
+          "date": "2025-12-24T19:41:07.000Z",
+          "categories": [
+            "yhdysvallat",
+            "seksuaalirikokset",
+            "jeffrey epstein",
+            "oikeus",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201441?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Zelenskyin joulupuhe herättää voimakkaita reaktioita",
+      "mainTitle": "Viisi kuoli helikopteri- ja koneonnettomuuksissa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Onnettomuudet",
+        "Helikopterit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viisi kuoli helikopterin syöksyttyä maahan Tansaniassa",
+          "content": "",
+          "date": "2025-12-25T15:27:44.000Z",
+          "categories": [
+            "onnettomuudet",
+            "helikopterit",
+            "lento-onnettomuudet",
+            "lentoturvallisuus",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201476?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tansania | Pelastus­helikopteri syöksyi maahan Kilimanjarolla, viisi ihmistä kuoli",
+          "content": "Onnettomuudessa kuoli kaksi turistia, lääkäri, opas ja helikopterin lentäjä.",
+          "date": "2025-12-25T09:43:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714414.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yksityiskone syöksyi maahan Turkissa – Libyan armeijan esi­kunta­päällikkö kuoli",
+          "content": "Koneessa oli sisäministerin mukaan yhteensä viisi matkustajaa.",
+          "date": "2025-12-23T22:02:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011713736.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Zelenskyin joulupuhe herätti voimakkaita reaktioita",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
@@ -231,6 +331,44 @@
           "date": "2025-12-24T09:19:23.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/zelenskyi-toivoo-venajalta-nopeaa-vastausta-rauhan/12467358?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Islannissa rikottiin joulukuun lämpöennätys",
+      "mainCategories": [
+        "Sää",
+        "Lämpötila",
+        "Islanti"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Itäisessä Islannissa mitattiin miltei parikymmentä lämpöastetta jouluaattona",
+          "content": "Islannissa rikottiin jouluaattona joulukuun lämpöennätys.",
+          "date": "2025-12-25T14:07:11.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/itaisessa-islannissa-mitattiin-miltei-parikymmenta/12467781?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulukuun lämpöennätys rikkoutui Islannissa: 19,8 astetta jouluaattona",
+          "content": "Edellinen joulukuun ennätys­lämpötila oli mitattu 2. joulu­kuuta 2019.",
+          "date": "2025-12-25T10:09:56.000Z",
+          "categories": [
+            "sää",
+            "lämpötila",
+            "islanti",
+            "ilmatieteen laitos",
+            "jouluaatto",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201464?origin=rss"
         }
       ]
     },
@@ -325,6 +463,46 @@
       ]
     },
     {
+      "mainTitle": "Turkissa yli sata Isis-epäiltyä pidätetty",
+      "mainCategories": [
+        "Ulkomaat",
+        "Rikosepäilyt",
+        "Terrorismi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Turkissa massa­pidätykset – 115 henkilöä epäillään hirveistä suunnitelmista",
+          "content": "Turkin viranomaiset sanovat estäneensä kauheat suunnitelmat.",
+          "date": "2025-12-25T12:39:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011714574.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yli sata epäiltyä Isis-terroristia pidätetty Turkissa – suunnittelivat iskuja pyhien aikana",
+          "content": "",
+          "date": "2025-12-25T09:38:19.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "terrorismi",
+            "epäillyt",
+            "istanbul",
+            "turkki",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201462?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "K-Marketin tulipalo Porissa, epäilty kiinni",
       "mainCategories": [
         "Kotimaa",
@@ -371,7 +549,7 @@
       ]
     },
     {
-      "mainTitle": "Venäläinen tiedustelukone Puolan ilmatilassa",
+      "mainTitle": "Venäläinen tiedustelukone lensi Itämerellä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -405,36 +583,45 @@
       ]
     },
     {
-      "mainTitle": "Onnettomuudet vaativat useita uhreja",
+      "mainTitle": "Paavi Leo XIV rukoili Ukrainan puolesta",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Uskonnot",
+        "Ulkomaat",
+        "Paavit"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/paavi/1.jpg",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tansania | Pelastus­helikopteri syöksyi maahan Kilimanjarolla, viisi ihmistä kuoli",
-          "content": "Onnettomuudessa kuoli kaksi turistia, lääkäri, opas ja helikopterin lentäjä.",
-          "date": "2025-12-25T09:43:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Paavi Leo XIV kehotti rukoile­maan ”kiusatun Ukrainan kansan puolesta” ensim­mäisessä joulu­päivän puheessaan",
+          "content": "Yhdys­valtalainen Leo XIV on toiminut paavina touko­kuusta alkaen.",
+          "date": "2025-12-25T10:39:40.000Z",
           "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714414.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yksityiskone syöksyi maahan Turkissa – Libyan armeijan esi­kunta­päällikkö kuoli",
-          "content": "Koneessa oli sisäministerin mukaan yhteensä viisi matkustajaa.",
-          "date": "2025-12-23T22:02:00.000Z",
-          "categories": [
+            "uskonnot",
+            "paavit",
+            "leo xiv",
+            "joulu",
+            "urbi et orbi",
+            "katolinen kirkko",
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011713736.html"
+          "link": "https://yle.fi/a/74-20201434?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Paavi Leo toimitti ensimmäisen perinteisen joulumessunsa",
+          "content": "",
+          "date": "2025-12-24T23:28:12.000Z",
+          "categories": [
+            "uskonnot",
+            "leo xiv",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201446?origin=rss"
         }
       ]
     },
@@ -473,12 +660,13 @@
       ]
     },
     {
-      "mainTitle": "Trumpin tukema ehdokas voitti Hondurasin vaalit",
+      "mainTitle": "Trumpin tukema ehdokas voitti Hondurasissa",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Vaalit",
+        "Honduras"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -503,6 +691,20 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011714338.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trumpin tukema ehdokas voitti Hondurasin presidentinvaalit",
+          "content": "Vaalien alla Trump uhkasi leikata Yhdysvaltojen tukea Hondurasille, jos hänen tukemansa Nasry Asfura häviää vaalit. ",
+          "date": "2025-12-24T21:26:51.000Z",
+          "categories": [
+            "vaalit",
+            "honduras",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201443?origin=rss"
         }
       ]
     },
@@ -560,7 +762,7 @@
       ]
     },
     {
-      "mainTitle": "Jalankulkija loukkaantui onnettomuudessa Siilinjärvellä",
+      "mainTitle": "Jalankulkija loukkaantui Siilinjärvellä onnettomuudessa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -598,7 +800,7 @@
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -632,7 +834,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
