@@ -1,21 +1,53 @@
 {
-  "timestamp": "2025-12-25T13:30:17.116Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2025-12-25T13:49:29.715Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Hurstin joulujuhlaan ennätysmäärä tulijoita",
+      "mainTitle": "Poliisin joulu oli vilkas ja rauhallinen",
+      "mainCategories": [
+        "Poliisi",
+        "Joulu",
+        "Rikosepäilyt"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisilla on ollut paikoin vilkas joulu",
+          "content": "",
+          "date": "2025-12-25T13:46:01.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "poliisi",
+            "joulu",
+            "lainvalvonta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201472?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Poliisin joulu: Joulurauhan julistus sujui rauhallisesti, mutta sen jälkeen alkoi kiire",
+          "content": "",
+          "date": "2025-12-25T08:44:09.000Z",
+          "categories": [
+            "poliisi",
+            "joulu",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6860041"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hurstin joulujuhlaan ennätysmäärä osallistujia",
       "mainCategories": [
         "Kotimaa",
         "Köyhyys",
@@ -240,7 +272,7 @@
       ]
     },
     {
-      "mainTitle": "K-marketin tulipalo Porissa, yksi kiinni",
+      "mainTitle": "Kauppapalon epäilty tuhopoltto Porissa",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -337,40 +369,6 @@
       ]
     },
     {
-      "mainTitle": "Joululahjat ja lelut eri aikakausilta",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kuvat: Olisitko ilahtunut lapsena tällaisista joululahjoista?",
-          "content": "Iltalehti esittelee leluja aina 1700-luvulta 2000-luvulle. Ajat vaihtuvat, mutta lapset ovat leikkineet aina. Joululeikkeihin ei ole aina tarvittu kaikkein monimutkaisimpia leluja, mutta nykyaikaan tultaessa lelut ovat monimuotoistuneet. Silti vanhat tutut pitävät pintansa: pehmolelut, pallot ja erilaiset pelit. Lelut ovat myös aina heijastelleet aikuisten maailmaa. Ennen lapset saivat lahjaksi erilaisia hevosleluja, nyt autoja. Leikeissä näkyvät kotitalouden pidon, sodan ja populaarikulttuurin teemat.",
-          "date": "2025-12-25T10:56:33.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/fc1592bc-8445-4cf4-b641-da98cadf92f1"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Video | Kysyimme aikuisilta, minkä lelun he haluaisivat itselleen joululahjaksi",
-          "content": "HS kysyi aikuisilta lelukaupassa, millaisen lelun he itse haluaisivat joululahjaksi. Hyllyiltä valittiin pehmoleluja, Legoja ja palapeli.",
-          "date": "2025-12-23T13:47:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011663734.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Paavi Leo XIV rukoili Ukrainan puolesta",
       "mainCategories": [
         "Uskonnot",
@@ -414,7 +412,7 @@
       ]
     },
     {
-      "mainTitle": "Onnettomuudet vaativat useita ihmishenkiä",
+      "mainTitle": "Onnettomuudet vaativat useita uhreja",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -444,50 +442,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011713736.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Joulurauhan julistus sujui rauhallisesti",
-      "mainCategories": [
-        "Joulu",
-        "Liikenne",
-        "Sää"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Poliisin joulu: Joulurauhan julistus sujui rauhallisesti, mutta sen jälkeen alkoi kiire",
-          "content": "",
-          "date": "2025-12-25T08:44:09.000Z",
-          "categories": [
-            "poliisi",
-            "joulu",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6860041"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jouluaaton liikenne sujuu rauhallisesti",
-          "content": "",
-          "date": "2025-12-24T11:29:53.000Z",
-          "categories": [
-            "liikenne",
-            "joulu",
-            "sää",
-            "liikennesää",
-            "joululiikenne",
-            "tieliikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201421?origin=rss"
         }
       ]
     },
@@ -659,7 +613,7 @@
         "Vaalit",
         "Honduras"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -787,7 +741,7 @@
       ]
     },
     {
-      "mainTitle": "Ruoka-apua tarvitsevat jonottivat Helsingissä",
+      "mainTitle": "Ruoka-apua jonotettiin Helsingissä jouluna",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -943,13 +897,58 @@
       ]
     },
     {
-      "mainTitle": "EU tuomitsee Yhdysvaltojen viisumikiellot",
+      "mainTitle": "Jouluaaton liikenne sujuu rauhallisesti",
+      "mainCategories": [
+        "Liikenne",
+        "Sää",
+        "Liikennesää"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Jouluaaton liikenne sujuu rauhallisesti",
+          "content": "",
+          "date": "2025-12-24T11:29:53.000Z",
+          "categories": [
+            "liikenne",
+            "joulu",
+            "sää",
+            "liikennesää",
+            "joululiikenne",
+            "tieliikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201421?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Aaton ajokeli on osassa maata liukas",
+          "content": "",
+          "date": "2025-12-24T04:05:22.000Z",
+          "categories": [
+            "liikenne",
+            "sää",
+            "liikennesää",
+            "jouluaatto",
+            "joululiikenne"
+          ],
+          "link": "https://yle.fi/a/74-20201401?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Virkkunen tuomitsee Yhdysvaltojen viisumikiellot",
       "mainCategories": [
         "Yhdysvallat",
         "Matkustusrajoitukset",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -988,7 +987,7 @@
         "Joulu",
         "Turku"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1095,7 +1094,7 @@
       ]
     },
     {
-      "mainTitle": "Joulupukin kuuma linja keräsi 30 000 viestiä",
+      "mainTitle": "Joulupukin kuuma linja keräsi viestejä",
       "mainCategories": [
         "Juhlat",
         "Joulu",
@@ -1138,7 +1137,7 @@
       ]
     },
     {
-      "mainTitle": "Jalankulkija loukkaantui Siilinjärvellä onnettomuudessa",
+      "mainTitle": "Jalankulkija loukkaantui vakavasti Siilinjärvellä",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -1192,7 +1191,7 @@
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1226,7 +1225,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1255,7 +1254,7 @@
       ]
     },
     {
-      "mainTitle": "Patriarkka Kirillin salasuhde herättää huomiota",
+      "mainTitle": "Patriarkka Kirillin salasuhde herättää keskustelua",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1357,7 +1356,7 @@
       ]
     },
     {
-      "mainTitle": "Nokia myöntää virheen palkitsemisohjeissa",
+      "mainTitle": "Nokia myöntää virheitä palkitsemisohjeissa",
       "mainCategories": [
         "Työelämä",
         "Työntekijät",
