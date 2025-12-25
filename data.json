@@ -1,100 +1,49 @@
 {
-  "timestamp": "2025-12-25T11:16:11.503Z",
-  "successCount": 12,
-  "failureCount": 10,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2025-12-25T11:38:20.267Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Islannissa jouluaattona lämpöennätys 19,8 astetta",
+      "mainCategories": [
+        "Sää",
+        "Lämpötila",
+        "Islanti"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Islannissa uskomaton lämpö­ennätys jouluaattona – IS seuraa",
+          "content": "IS seuraa joulun tapahtumia tässä artikkelissa läpi koko joulun.",
+          "date": "2025-12-25T11:30:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011711327.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulukuun lämpöennätys rikkoutui Islannissa: 19,8 astetta jouluaattona",
+          "content": "Edellinen joulukuun ennätys­lämpötila oli mitattu 2. joulu­kuuta 2019.",
+          "date": "2025-12-25T10:09:56.000Z",
+          "categories": [
+            "sää",
+            "lämpötila",
+            "islanti",
+            "ilmatieteen laitos",
+            "jouluaatto",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201464?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Joululahjat eri aikakausilta lapsille",
       "mainCategories": [
@@ -130,36 +79,136 @@
       ]
     },
     {
-      "mainTitle": "Tulipalo K-Marketissa Porissa jouluaamuna",
+      "mainTitle": "Heikki Hurstin joulujuhlaan ennätysmäärä osallistujia",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa"
+        "Kotimaa",
+        "Köyhyys",
+        "Helsinki"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pori | Kauppias heräsi joulu­aamuna ilmoitukseen: K-Market on tulessa",
-          "content": "Varhain jouluaamuna syttynyt tulipalo levisi kaupan kattorakenteista muuhun rakennukseen. Poliisi on ottanut kiinni miehen, jota se epäilee törkeästä tuhotyöstä.",
-          "date": "2025-12-25T09:47:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Heikki Hursti aikoo kaataa Messukeskuksesta väliseinän ensi jouluna, jotta kaikki vähäosaiset mahtuvat sisään",
+          "content": "Hurstin perinteisen jouluaterian sai ennätykselliset 2 300 ihmistä, mutta kaikki eivät edes mahtuneet sisään.",
+          "date": "2025-12-25T10:51:50.000Z",
           "categories": [
-            "suomi"
+            "köyhyys",
+            "helsinki",
+            "uusimaa",
+            "kotimaa"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011714361.html"
+          "link": "https://yle.fi/a/74-20201460?origin=rss"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "K-kaupalle karmea kohtalo Porissa – Näin tapahtumat etenivät",
-          "content": "Poliisi on ottanut yhden henkilön kiinni liittyen tulipaloon Porissa. Porissa sijaitsevassa K-market Koivistonpuistikossa syttyi varhain joulupäivänä tulipalo. Poliisi on ottanut yhden henkilön kiinni epäiltynä törkeästä tuhotyöstä tulipaloon liittyen. Poliisi otti epäillyn tekijän kiinni palopaikalta, kertoo rikoskomisario Jari Klaus Lounais-Suomen poliisista. Klaus ei kommentoi palon syttymissyytä.",
-          "date": "2025-12-25T08:44:04.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Megafonista kaikui surullinen viesti – ihmisiä käännytettiin pois Hurstin juhlasta",
+          "content": "Hurstin avun joulujuhlassa nähtiin tänä vuonna yleisöryntäys.",
+          "date": "2025-12-24T15:56:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/9f7ce060-b864-4c45-b578-1117a1508732"
+          "link": "https://www.is.fi/kotimaa/art-2000011714151.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle: Heikki Hursti murtui kyyneliin – vähä­varaisten joulu­juhlassa ihmis­ryntäys",
+          "content": "Hurstin joulujuhlan kävijäennätys rikottiin tänä vuonna jo ennen tapahtuman virallista aloitusta.",
+          "date": "2025-12-24T13:44:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011714179.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Heikki Hursti murtui kyyneliin – iso joukko jäi ilman ateriaa vähävaraisten joulujuhlassa",
+          "content": "Hursti joutui käännyttämään osan halukkaista ovella. ",
+          "date": "2025-12-24T11:40:17.000Z",
+          "categories": [
+            "hyväntekeväisyys",
+            "heikki hursti",
+            "veikko ja lahja hurstin laupeudentyö ry",
+            "yle uutiset somenostot",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201422?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Valtava jono Hurstin joulujuhlaan – ”Meidän yhteiskunta voi pahoin”",
+          "content": "Hurstin joulujuhlaan oli ennätysmäärä tulijoita.",
+          "date": "2025-12-24T11:25:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011714088.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hurstin perinteistä joulujuhlaa vietetään Helsingissä",
+          "content": "",
+          "date": "2025-12-24T02:13:13.000Z",
+          "categories": [
+            "juhlat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201399?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Paavi Leo XIV:n ensimmäinen joulupuhe",
+      "mainCategories": [
+        "Uskonnot",
+        "Ulkomaat",
+        "Paavit"
+      ],
+      "imageUrl": "/images/paavi/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Paavi Leo XIV pitää ensimmäisen joulupuheensa Pietarinkirkon parvekkeelta – Yle näyttää suorana",
+          "content": "Yhdysvaltalainen Leo XIV on toiminut paavina toukokuusta alkaen.",
+          "date": "2025-12-25T10:39:40.000Z",
+          "categories": [
+            "uskonnot",
+            "paavit",
+            "leo xiv",
+            "joulu",
+            "urbi et orbi",
+            "katolinen kirkko",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201434?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Paavi Leo toimitti ensimmäisen perinteisen joulumessunsa",
+          "content": "",
+          "date": "2025-12-24T23:28:12.000Z",
+          "categories": [
+            "uskonnot",
+            "leo xiv",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201446?origin=rss"
         }
       ]
     },
@@ -198,95 +247,117 @@
       ]
     },
     {
-      "mainTitle": "Zelenskyi julkisti rauhansuunnitelman Venäjälle",
+      "mainTitle": "Joululiikenne sujui rauhallisesti tänä vuonna",
       "mainCategories": [
-        "Ulkomaat",
-        "Maailma",
-        "Kotimaa"
+        "Liikenne",
+        "Joululiikenne",
+        "Joulu"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Poliisin joulu: Joulurauhan julistus sujui rauhallisesti, mutta sen jälkeen alkoi kiire",
+          "content": "",
+          "date": "2025-12-25T08:44:09.000Z",
+          "categories": [
+            "poliisi",
+            "joulu",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6860041"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Jouluaaton liikenne sujuu rauhallisesti",
+          "content": "",
+          "date": "2025-12-24T11:29:53.000Z",
+          "categories": [
+            "liikenne",
+            "joulu",
+            "sää",
+            "liikennesää",
+            "joululiikenne",
+            "tieliikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201421?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Aaton ajokeli on osassa maata liukas",
+          "content": "",
+          "date": "2025-12-24T04:05:22.000Z",
+          "categories": [
+            "liikenne",
+            "sää",
+            "liikennesää",
+            "jouluaatto",
+            "joululiikenne"
+          ],
+          "link": "https://yle.fi/a/74-20201401?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulun menoliikenne on sujunut rauhallisesti",
+          "content": "Fintrafficin tieliikennekeskus arvioi, että menoliikenteen jakautuminen usealle päivälle on vaikuttanut liikenteen määrään aatonaattona. ",
+          "date": "2025-12-23T13:22:29.000Z",
+          "categories": [
+            "liikenne",
+            "joululiikenne",
+            "ruuhkat",
+            "fintraffic",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201362?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tulipalo K-kaupassa Porissa, yksi kiinni",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Tulipalot"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Zelenskyi keskeytti joulupuheensa yhtäkkiä hetkeksi – Tulkittiin maailmalla rajuksi eleeksi",
-          "content": "Katkelmaa Ukrainan presidentin Volodymyr Zelenskyin joulupuheesta jaetaan sosiaalisessa mediassa. Ukrainan presidentti Volodymyr Zelenskyin joulupuhe on noussut otsikoihin. Syynä on se, että joidenkin tulkintojen mukaan Zelenskyi vaikutti lausuvan ääneen toiveen, että Venäjän presidentti Vladimir Putin kuolisi.",
-          "date": "2025-12-25T06:39:43.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/99030a17-23db-45c2-bc91-bf9a8e635524"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Bloombergin lähde: Venäjä haluaa useita muutoksia rauhan­suunnitelmaan",
-          "content": "Presidentti Volodymyr Zelenskyi julkisti 20-kohtaisen rauhansuunnitelman jouluaattona.",
-          "date": "2025-12-25T02:46:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011714350.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan kohtalo | Bloombergin lähde: Venäjä haluaa useita muutoksia rauhan­suunnitelmaan",
-          "content": "Presidentti Volodymyr Zelenskyi julkisti 20-kohtaisen rauhansuunnitelman jouluaattona.",
-          "date": "2025-12-25T02:44:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714345.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Asiantuntija pelkää, että Venäjä ei hyväksy eikä torju rauhan­suunnitelmaa – Tätä se tarkoittaisi",
-          "content": "Asiantuntijat arvioivat Ukrainan ja Yhdysvaltojen rauhanesitystä. Tuoreessa rauhansuunnitelmassa on vahvuuksia ja heikkouksia, arvioivat asiantuntijat. Ukrainan tukema luonnos tuli julki jouluaattona eli keskiviikkona.",
-          "date": "2025-12-25T00:58:39.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/7d13d7ad-4f7e-4539-b14c-42aae35f9577"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Zelenskyi julkisti 20-kohtaisen version Yhdys­valtojen ja Ukrainan rauhan­suunnitelmasta",
-          "content": "Suunnitelmaluonnoksessa ehdotetaan, että Venäjän valtaamia alueita Itä-Ukrainassa ei tunnustettaisi osaksi Venäjää.",
-          "date": "2025-12-24T11:33:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714017.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ukrainan rauhansuunnitelma julki",
-          "content": "20-kohtaisesta suunnitelmasta ovat neuvotelleet Ukrainan ja Yhdysvaltojen edustajat.",
-          "date": "2025-12-24T10:23:00.000Z",
+          "title": "K-kaupalle karmea kohtalo Porissa – Näin tapahtumat etenivät",
+          "content": "Poliisi on ottanut yhden henkilön kiinni liittyen tulipaloon Porissa. Porissa sijaitsevassa K-market Koivistonpuistikossa syttyi varhain joulupäivänä tulipalo. Poliisi on ottanut yhden henkilön kiinni epäiltynä törkeästä tuhotyöstä tulipaloon liittyen. Poliisi otti epäillyn tekijän kiinni palopaikalta, kertoo rikoskomisario Jari Klaus Lounais-Suomen poliisista. Klaus ei kommentoi palon syttymissyytä.",
+          "date": "2025-12-25T08:44:04.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714046.html"
+          "link": "https://www.iltalehti.fi/kotimaa/a/9f7ce060-b864-4c45-b578-1117a1508732"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Zelenskyi toivoo Venäjältä nopeaa vastausta rauhansuunnitelmaan – Luonnos vaatii Ukrainalta muun muassa vaaleja",
-          "content": "20-kohtaisesta suunnitelmasta ovat neuvotelleet Ukrainan ja Yhdysvaltojen edustajat.",
-          "date": "2025-12-24T09:19:23.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/zelenskyi-toivoo-venajalta-nopeaa-vastausta-rauhan/12467358?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tuhoisa tulipalo ruoka­kaupassa Porissa – poliisi ottanut rikoksesta epäillyn kiinni",
+          "content": "Palosta levisi terveydelle haitallista savua, mutta vaara on nyt ohi.",
+          "date": "2025-12-25T04:45:37.000Z",
+          "categories": [
+            "onnettomuudet",
+            "tulipalot",
+            "pori",
+            "satakunta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201449?origin=rss"
         }
       ]
     },
@@ -325,12 +396,166 @@
       ]
     },
     {
-      "mainTitle": "Trumpin tukema ehdokas voitti Hondurasin vaalit",
+      "mainTitle": "Venäjä vaatii muutoksia Ukrainan rauhansuunnitelmaan",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Ukraina",
+        "Maailma"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Bloombergin lähde: Venäjä haluaa useita muutoksia rauhan­suunnitelmaan",
+          "content": "Presidentti Volodymyr Zelenskyi julkisti 20-kohtaisen rauhansuunnitelman jouluaattona.",
+          "date": "2025-12-25T02:46:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011714350.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan kohtalo | Bloombergin lähde: Venäjä haluaa useita muutoksia rauhan­suunnitelmaan",
+          "content": "Presidentti Volodymyr Zelenskyi julkisti 20-kohtaisen rauhansuunnitelman jouluaattona.",
+          "date": "2025-12-25T02:44:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714345.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Asiantuntija pelkää, että Venäjä ei hyväksy eikä torju rauhan­suunnitelmaa – Tätä se tarkoittaisi",
+          "content": "Asiantuntijat arvioivat Ukrainan ja Yhdysvaltojen rauhanesitystä. Tuoreessa rauhansuunnitelmassa on vahvuuksia ja heikkouksia, arvioivat asiantuntijat. Ukrainan tukema luonnos tuli julki jouluaattona eli keskiviikkona.",
+          "date": "2025-12-25T00:58:39.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/7d13d7ad-4f7e-4539-b14c-42aae35f9577"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tässä on Ukrainan ja Yhdysvaltojen rauhansuunnitelma – lue sanasta sanaan",
+          "content": "Uusittu rauhansuunnitelma sisältää 20 kohtaa.",
+          "date": "2025-12-24T12:05:44.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "rauhanneuvottelut",
+            "rauhansopimukset",
+            "ukraina",
+            "venäjä",
+            "yhdysvallat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201418?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Zelenskyi julkisti 20-kohtaisen version Yhdys­valtojen ja Ukrainan rauhan­suunnitelmasta",
+          "content": "Suunnitelmaluonnoksessa ehdotetaan, että Venäjän valtaamia alueita Itä-Ukrainassa ei tunnustettaisi osaksi Venäjää.",
+          "date": "2025-12-24T11:33:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714017.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ukrainan rauhansuunnitelma julki",
+          "content": "20-kohtaisesta suunnitelmasta ovat neuvotelleet Ukrainan ja Yhdysvaltojen edustajat.",
+          "date": "2025-12-24T10:23:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011714046.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Katso tästä uusimman rauhansuunnitelman pääkohdat – Zelenskyi lupailee vaaleja heti rauhansopimuksen jälkeen",
+          "content": "Ukrainan presidentti esitteli Yhdysvaltain ja Ukrainan työstämää uusinta 20 kohdan rauhansuunnitelmaluonnosta.",
+          "date": "2025-12-24T09:34:56.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ukraina",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201414?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Zelenskyi toivoo Venäjältä nopeaa vastausta rauhansuunnitelmaan – Luonnos vaatii Ukrainalta muun muassa vaaleja",
+          "content": "20-kohtaisesta suunnitelmasta ovat neuvotelleet Ukrainan ja Yhdysvaltojen edustajat.",
+          "date": "2025-12-24T09:19:23.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/zelenskyi-toivoo-venajalta-nopeaa-vastausta-rauhan/12467358?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sää lämpenee, tuuli voimistuu Lapissa",
+      "mainCategories": [
+        "Sää",
+        "Kotimaa",
+        "Lämpötila"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sää lämpenee tänään koko maassa",
+          "content": "Ilmatieteen laitos varoittaa voimakkaasta tuulesta Pohjois-Lapissa sekä merialueilla.",
+          "date": "2025-12-25T01:58:29.000Z",
+          "categories": [
+            "sää",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201448?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulupäivänä on luvassa plusasteita koko maahan",
+          "content": "",
+          "date": "2025-12-24T19:05:43.000Z",
+          "categories": [
+            "sää",
+            "lämpötila",
+            "talvisää",
+            "sääennusteet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201440?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin tukema ehdokas voitti Hondurasissa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Vaalit",
+        "Honduras"
+      ],
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -355,6 +580,20 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011714338.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trumpin tukema ehdokas voitti Hondurasin presidentinvaalit",
+          "content": "Vaalien alla Trump uhkasi leikata Yhdysvaltojen tukea Hondurasille, jos hänen tukemansa Nasry Asfura häviää vaalit. ",
+          "date": "2025-12-24T21:26:51.000Z",
+          "categories": [
+            "vaalit",
+            "honduras",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201443?origin=rss"
         }
       ]
     },
@@ -439,12 +678,13 @@
       ]
     },
     {
-      "mainTitle": "Pommi-isku Moskovassa tappoi kaksi poliisia",
+      "mainTitle": "Pommi-isku Moskovassa, kaksi poliisia kuoli",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Venäjä",
+        "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -459,24 +699,30 @@
           "link": "https://www.iltalehti.fi/ulkomaat/a/942cdec1-86a2-44bb-80ca-b090a4db732d"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjä | Kaksi poliisia kuoli räjähdyksessä Moskovassa",
-          "content": "Ukrainan sotilastiedustelu kertoi olevansa kaksi poliisia tappaneen pommi-iskun takana, Kyiv Postin lähde kertoo.",
-          "date": "2025-12-24T17:49:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kyiv Post: Ukrainan sotilastiedustelu ilmoitti tehneensä Moskovan iskun",
+          "content": "",
+          "date": "2025-12-24T17:08:10.000Z",
           "categories": [
-            "maailma"
+            "venäjä",
+            "venäjän hyökkäys",
+            "ukraina",
+            "pommit ja räjähdykset",
+            "moskova",
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011713860.html"
+          "link": "https://yle.fi/a/74-20201436?origin=rss"
         }
       ]
     },
     {
       "mainTitle": "Uusia asiakirjoja Epstein-tapauksessa löytynyt",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Seksuaalirikokset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -503,64 +749,27 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011714305.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Epstein-papereiden julkistus venyy – syynissä yli miljoona uutta asiakirjaa",
+          "content": "Oikeusministeriön mukaan lakimiehet tekevät jatkuvasti töitä, jotta paperit saadaan käytyä läpi.",
+          "date": "2025-12-24T19:41:07.000Z",
+          "categories": [
+            "yhdysvallat",
+            "seksuaalirikokset",
+            "jeffrey epstein",
+            "oikeus",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201441?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Presidenttipari vietti joulua Turussa",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa",
-        "Joulu"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tältä näytti presidenttiparin jouluaterialla – kuvat keräävät ylistystä",
-          "content": "Presidenttipari viettää joulunpyhänsä poikkeuksellisesti muualla kuin Helsingissä.",
-          "date": "2025-12-24T20:02:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714277.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Joulu | Suomeen julistettiin joulurauha",
-          "content": "Paikalla Turussa oli poikkeuksellisesti myös presidenttipari.",
-          "date": "2025-12-24T10:38:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011713722.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Joulurauha laskeutui jälleen koko maahan Turun julistamana",
-          "content": "",
-          "date": "2025-12-24T08:00:00.000Z",
-          "categories": [
-            "joulurauhan julistus",
-            "joulu",
-            "turku",
-            "jouluperinteet",
-            "vanha suurtori",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6859247"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ruoka-apua tarvitsevat jonottivat Helsingissä",
+      "mainTitle": "Ruoka-apua jonotettiin Helsingissä jouluna",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -591,10 +800,343 @@
       ]
     },
     {
+      "mainTitle": "Yhdysvallat nimitti Grönlannin-erityislähettilään",
+      "mainCategories": [
+        "Ulkomaat",
+        "Turvallisuus",
+        "Grönlanti"
+      ],
+      "imageUrl": "/images/trump/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvaltain erityislähettiläs: Emme aio valloittaa Grönlantia väkisin",
+          "content": "Donald Trump nimitti sunnuntaina Louisianan kuvernöörin Jeff Landryn Grönlannin-erityislähettilääksi.",
+          "date": "2025-12-24T13:17:54.000Z",
+          "categories": [
+            "turvallisuus",
+            "grönlanti",
+            "tanska",
+            "yhdysvallat",
+            "nato",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201412?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tästä syystä Trump himoitsee Grönlantia",
+          "content": "Tanskan pääministeri ja Grönlannin pääministeri julkaisivat aiemmin yhteisen lausunnon, jossa he korostivat Grönlannin kuuluvan grönlantilaisille.",
+          "date": "2025-12-23T15:30:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011712007.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä tiedetään Trumpin tuoreesta erityis­lähettiläästä – ei kokemusta ulko­politiikasta, Grönlannista tai Tanskasta",
+          "content": "Louisianan kuvernöörin nimitys Yhdysvaltain Grönlannin-erityislähettilääksi yllätti New York Timesin mukaan sekä louisianalaiset että grönlantilaiset.",
+          "date": "2025-12-23T12:06:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011711595.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Joulurauha julistettiin Turussa jälleen",
+      "mainCategories": [
+        "Turku",
+        "Joulu",
+        "Juhlat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Joulunvietto käynnistyi joulurauhan julistuksella – paikan päällä Turussa liki 20 000 ihmistä",
+          "content": "Joulurauha on julistettu Brinkkalan talon parvekkeelta vuodesta 1886 lähtien. Nykyään parveketta käytetään vain joulurauhan julistamiseen.",
+          "date": "2025-12-24T12:19:26.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/joulunvietto-kaynnistyi-joulurauhan-julistuksella/12467422?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Joulurauha rikkoontui heti",
+          "content": "Joulurauhaa on ehditty rikkoa jo usealla paikkakunnalla.",
+          "date": "2025-12-24T12:15:00.000Z",
+          "categories": [
+            "turun seutu"
+          ],
+          "link": "https://www.is.fi/turun-seutu/art-2000011714118.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Joulu | Suomeen julistettiin joulurauha",
+          "content": "Paikalla Turussa oli poikkeuksellisesti myös presidenttipari.",
+          "date": "2025-12-24T10:38:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011713722.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulurauha julistettiin",
+          "content": "Turun kaupungin protokollapäällikkö Mika Akkanen julisti joulurauhan kello 12. Julistusta kerääntyi kuuntelemaan lähes 20 000 henkeä.",
+          "date": "2025-12-24T09:28:35.000Z",
+          "categories": [
+            "juhlat",
+            "turku",
+            "joulu",
+            "juhlapäivät",
+            "vanha suurtori",
+            "varsinais-suomi",
+            "jouluaatto",
+            "joulurauhan julistus",
+            "joulurauhan julistus turussa",
+            "yle uutiset somenostot",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201038?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Joulurauha laskeutui jälleen koko maahan Turun julistamana",
+          "content": "",
+          "date": "2025-12-24T08:00:00.000Z",
+          "categories": [
+            "joulurauhan julistus",
+            "joulu",
+            "turku",
+            "jouluperinteet",
+            "vanha suurtori",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6859247"
+        }
+      ]
+    },
+    {
+      "mainTitle": "EU tuomitsee Yhdysvaltojen viisumikiellot",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Matkustusrajoitukset",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Digikomissaari Virkkunen tuomitsee Yhdysvaltojen viisumi­kiellon ex-komissaarille",
+          "content": "Yhdysvallat syyttää viisumikiellon saaneita pyrkimyksistä painostaa amerikkalaisia sosiaalisen median alustoja sensuroimaan tiettyjä näkemyksiä.",
+          "date": "2025-12-24T11:28:41.000Z",
+          "categories": [
+            "euroopan unioni",
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "matkustusrajoitukset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201420?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kansainväliset suhteet | Digi­komissaari Virkkunen: EU tuomitsee jyrkästi Yhdys­valtojen asettamat viisumi­kiellot",
+          "content": "Yhdysvallat asetti viisumikiellot viidelle eurooppalaiselle, jotka ovat vastustaneet yhdysvaltalaisilla verkkoalustoilla levitettävää vihapuhetta ja disinformaatiota.",
+          "date": "2025-12-24T11:16:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011713824.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Presidentti Stubb joulurauhassa ja juhlavieraana",
+      "mainCategories": [
+        "Juhlat",
+        "Joulu",
+        "Turku"
+      ],
+      "imageUrl": "/images/stubb/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Niinistö sairastui",
+          "content": "Tasavallan presidentti Alexander Stubbiakaan ei nähty tänä vuonna Hurstin joulujuhlassa.",
+          "date": "2025-12-24T10:55:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011714062.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Presidentti osallistui perheineen joulurauhan julistukseen – vastaavaa ei ole tapahtunut koskaan aiemmin",
+          "content": "Presidentti Stubb perheineen osallistui seremoniaan Turun Vanhalla Suurtorilla. Mauno Koivisto on saattanut olla paikalla, mutta tuskin presi­dentti­aikanaan.",
+          "date": "2025-12-24T04:15:35.000Z",
+          "categories": [
+            "juhlat",
+            "joulurauhan julistus",
+            "joulu",
+            "alexander stubb",
+            "vanha suurtori",
+            "jouluperinteet",
+            "jouluaatto",
+            "mauno koivisto",
+            "turku",
+            "kotimaa",
+            "varsinais-suomi"
+          ],
+          "link": "https://yle.fi/a/74-20191872?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yllätys­vieraita vähä­varaisten joulu­juhlassa – ”Upeaa ja ihmeellistä”",
+          "content": "Paikalle saapui myös presidentti Alexander Stubb puolisonsa kanssa Suzanne Innes-Stubbin kanssa.",
+          "date": "2025-12-23T18:06:00.000Z",
+          "categories": [
+            "turun seutu"
+          ],
+          "link": "https://www.is.fi/turun-seutu/art-2000011713618.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Presidenttipari vieraili ensimmäistä kertaa vähävaraisten joulujuhlassa Turun Logomossa",
+          "content": "",
+          "date": "2025-12-23T17:47:54.000Z",
+          "categories": [
+            "joulu",
+            "juhlat",
+            "hyväntekeväisyys",
+            "ruoka-apu",
+            "tasavallan presidentti",
+            "alexander stubb",
+            "logomo",
+            "turku",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6852932"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Joulurauhan julistus jatkuu perinteisesti",
+      "mainCategories": [
+        "Kotimaa",
+        "Juhlat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Harvinainen vieras paikalla joulurauhan julistuksessa",
+          "content": "Satojen vuosien perinne jatkuu tänäkin vuonna.",
+          "date": "2025-12-24T08:45:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011713957.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulunvietto käynnistyy joulurauhan julistuksella",
+          "content": "",
+          "date": "2025-12-24T00:05:08.000Z",
+          "categories": [
+            "juhlat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201398?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Joulupukin kuuma linja keräsi viestejä",
+      "mainCategories": [
+        "Juhlat",
+        "Joulu",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Joulupukin kuuma linja jälleen supersuosittu – ”Äiti soitti tuhat kertaa, että pääsisin puhumaan”, kertoo Juuli",
+          "content": "Viestejä ensi kertaa järjestettyyn chattiin tuli lähes 30 000. ",
+          "date": "2025-12-24T08:22:59.000Z",
+          "categories": [
+            "juhlat",
+            "joulupukki",
+            "joulu",
+            "chatti",
+            "jouluterveiset",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201411?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lähetä jouluterveisesi – Joulupukin kuuman linjan chat on auki",
+          "content": "Joulupukki tonttuapulaisineen ottaa vastaan lasten chatviestejä ja puheluita. Tule mukaan keskustelemaan.",
+          "date": "2025-12-24T05:55:35.000Z",
+          "categories": [
+            "juhlat",
+            "joulupukin kuuma linja",
+            "joulu",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20200369?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Jalankulkija loukkaantui Siilinjärvellä onnettomuudessa",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa"
+        "Kotimaa",
+        "Onnettomuudet",
+        "Siilinjärvi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -621,6 +1163,21 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011713936.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Jalankulkija loukkaantui vakavasti Siilinjärvellä törmäyksessä auton kanssa",
+          "content": "",
+          "date": "2025-12-24T07:43:17.000Z",
+          "categories": [
+            "onnettomuudet",
+            "siilinjärvi",
+            "pohjois-savo",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20201408?origin=rss"
         }
       ]
     },
@@ -629,7 +1186,7 @@
       "mainCategories": [
         "Talous"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -794,12 +1351,13 @@
       ]
     },
     {
-      "mainTitle": "Nokia myöntää virheen työntekijäluokittelussa",
+      "mainTitle": "Nokia myöntää virheen palkitsemisohjeissa",
       "mainCategories": [
         "Talous",
-        "Taloussanomat"
+        "Työelämä",
+        "Työntekijät"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -812,6 +1370,23 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011713367.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS: Nokian toimitusjohtajan mukaan yhtiö epäonnistui palkitsemisohjeista viestimisessä",
+          "content": "Helsingin Sanomat uutisoi aiemmin, että Nokia on ottanut käyttöön työntekijöiden uudet palkitsemisohjeet. Nyt esihenkilöiden ohjeistuksia on päivitetty. ",
+          "date": "2025-12-23T13:59:06.000Z",
+          "categories": [
+            "työelämä",
+            "työntekijät",
+            "nokia oyj",
+            "justin hotard",
+            "kotimaa",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20201360?origin=rss"
         },
         {
           "publisherId": "hs",
