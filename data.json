@@ -1,15 +1,170 @@
 {
-  "timestamp": "2025-12-26T19:36:58.697Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2025-12-27T05:19:26.567Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Israel tunnusti Somalimaan itsenäisyyden",
+      "mainTitle": "Puola sulki lentokenttiä Venäjän iskujen vuoksi",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ilmailu | Puola on sulki kaksi lento­kenttää Venäjän iskettyä Ukrainaan",
+          "content": "Puolan asevoimien hävittäjät nousivat myös ilmaan.",
+          "date": "2025-12-27T05:16:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011715674.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Puola sulki kaksi lentokenttää Venäjän iskettyä Ukrainaan",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
+          "date": "2025-12-27T04:56:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011703520.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Itämeri | Puolan hävittäjät saattoivat pois venäläisen tiedustelu­koneen",
+          "content": "Puolan ilmatilassa havaittiin viime yönä lisäksi esineitä, jotka olivat todennäköisesti salakuljettamiseen käytettäviä ilmapalloja.",
+          "date": "2025-12-25T11:25:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714490.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hätätila lumimyrskyn vuoksi New Yorkissa",
       "mainCategories": [
         "Ulkomaat",
-        "Somalia",
-        "Israel"
+        "Yhdysvallat",
+        "Sää"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kuvernööri julisti hätä­tilan lumi­sateen takia New Yorkin osa­valtiossa",
+          "content": "Lunta on tulossa eniten kolmeen vuoteen.",
+          "date": "2025-12-27T03:21:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011715661.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Kuvernööri julisti hätä­tilan lumi­sateen takia New Yorkin osa­valtiossa",
+          "content": "Lunta on tulossa eniten kolmeen vuoteen.",
+          "date": "2025-12-27T03:20:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011715656.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "New Yorkin osavaltioon julistettiin poikkeustila lumimyrskyn takia",
+          "content": "New Yorkiin odotetaan noin 30 senttimetriä lunta perjantain ja lauantain välisenä yönä paikallista aikaa.",
+          "date": "2025-12-27T02:31:19.000Z",
+          "categories": [
+            "yhdysvallat",
+            "sää",
+            "new york (osavaltio)",
+            "new york",
+            "new jersey",
+            "talvisää",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201548?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Neljä vaeltajaa kuoli lumivyöryssä Kreikassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Neljä lumi­vyöryyn joutunutta vaeltajaa löytyi kuolleina Kreikassa",
+          "content": "Viides vaeltaja oli jäänyt pois kohtalokkaalta retkeltä työkiireiden takia.",
+          "date": "2025-12-27T02:25:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011715655.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Onnettomuudet | Neljä lumivyöryyn joutunutta vaeltajaa löytyi kuolleina Kreikassa",
+          "content": "Viides vaeltaja oli jäänyt pois retkeltä työkiireiden takia.",
+          "date": "2025-12-27T02:24:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011715654.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Neljä vaeltajaa löytyi kuolleena Kreikassa",
+          "content": "Kolme miestä oli lähtenyt vaativalle vaellukselle torstaina aamulla.  Kreikassa neljä vaeltajaa löydettiin kuolleena etsintäoperaation päätteeksi, kertoo Kreikan yleisradioyhtiö ERT. Viranomaiset olivat etsineet vuorokauden ajan kolmea 30–35-vuotiasta miestä, jotka olivat kadonneet torstaina Vardousian vuoristossa Keski-Kreikassa. Miehet löydettiin kuolleena lumivyöryn alta.",
+          "date": "2025-12-26T23:47:48.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/b1dbfad0-fff8-4a52-8a16-ab7947d42d9b"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kolme naista puukotettu Pariisin metrossa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Väkivalta",
+        "Puukotus"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -17,8 +172,134 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Suomalais­miehen johtama maa nousi otsikoihin maailmalla – Mitä tekee Trump?",
-          "content": "Somalia järjestää hätäkokouksen, kertoo uutismedia Al Jazeera. Trumpin hallinnon taustapaperissa vaaditaan Somalimaan tunnustamista. Israelista tuli tänään ensimmäinen valtio maailmassa, joka tunnustaa Somalimaan olevan itsenäinen valtio. Tunnustuksen teki Israelin pääministeri Benjamin Netanjahun kanslia. Afrikan sarvessa sijaitseva Somalimaa julistautui yksipuolisesti itsenäiseksi Somaliasta vuonna 1991. Kansainvälinen yhteisö pitää aluetta edelleen osana Somaliaa.",
+          "title": "Silmitön hyökkäys Pariisin metrossa – Kolmea naista puukotettiin",
+          "content": "Poliisi otti epäillyn tekijän kiinni myöhemmin samana päivänä. Mies puukotti kolmea naista Pariisin metrossa perjantaina iltapäivällä. Ranskan poliisi on pidättänyt epäillyn tekijän, AFP uutisoi. Teräaseella varustautunut mies hyökkäsi naisten kimppuun kolmella eri metroasemalla puolen tunnin aikana. Pariisin poliisin mukaan uhrit saivat lieviä vammoja, joita hoidettiin sairaalassa.",
+          "date": "2025-12-26T22:47:28.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/68290ba4-6f44-49ed-8f95-d53276d80a51"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ranska | Mies puukotti kolmea naista Pariisin metrossa",
+          "content": "Naisten saamat vammat eivät ole vakavia. Le Parisien -lehden mukaan poliisi ei epäile terroristista motiivia.",
+          "date": "2025-12-26T19:06:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011715464.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kolmea naista puukotettiin Pariisin metrossa",
+          "content": "Epäilty otettiin myöhemmin kiinni kotoaan.",
+          "date": "2025-12-26T18:29:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011715477.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mies puukotti kolmea naista metrossa Pariisissa",
+          "content": "",
+          "date": "2025-12-26T18:11:07.000Z",
+          "categories": [
+            "väkivalta",
+            "puukotus",
+            "pariisi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201535?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat vastaa Kiinan pakotteisiin",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Kiina",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvallat ärähti Kiinalle yhdysvaltalais­yrityksille asetetuista pakotteista",
+          "content": "Kiina ilmoitti perjantaina pakotteista useille yhdysvaltalaisille puolustusalan yhtiölle sekä yritys­johtajille.",
+          "date": "2025-12-26T22:32:45.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "kiina",
+            "taiwan",
+            "kansainväliset pakotteet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201543?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kiina mätkäisi pakotteita yhdysvaltalaisille puolustusalan yhtiöille",
+          "content": "",
+          "date": "2025-12-26T14:20:23.000Z",
+          "categories": [
+            "talous",
+            "kiina",
+            "yhdysvallat",
+            "kansainväliset pakotteet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201521?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Israel tunnusti Somalimaan itsenäisyyden",
+      "mainCategories": [
+        "Ulkomaat",
+        "Somalia",
+        "Israel"
+      ],
+      "imageUrl": "/images/trump/5.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Somalia tuomitsee Israelin päätöksen tunnustaa Somalimaa itsenäiseksi – myöskään Trump ei tunnustaisi",
+          "content": "Israel on ainoa maa maailmassa, joka on virallisesti tunnustanut Somalimaan.",
+          "date": "2025-12-26T21:41:49.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "somalia",
+            "itä-afrikka",
+            "israel",
+            "egypti",
+            "afrikan unioni",
+            "somalimaa",
+            "konfliktit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201542?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Mediaväitteet: Trump kaavailee isoa diiliä suomalais­miehen kanssa",
+          "content": "Trumpin hallinnon taustapaperissa vaaditaan suomalaismiehen johtaman Somalimaan tunnustamista. Somalimaan tunnustaminen uhkaisi koko mannerta, linjaa Afrikan unionin puheenjohtaja. Israelista tuli tänään ensimmäinen valtio maailmassa, joka tunnustaa Somalimaan olevan itsenäinen valtio. Tunnustuksen teki Israelin pääministeri Benjamin Netanjahun kanslia. Afrikan sarvessa sijaitseva Somalimaa julistautui yksipuolisesti itsenäiseksi Somaliasta vuonna 1991. Kansainvälinen yhteisö pitää aluetta edelleen osana Somaliaa.",
           "date": "2025-12-26T19:13:56.000Z",
           "categories": [
             "ulkomaat"
@@ -56,7 +337,96 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat teki ilmaiskuja Nigeriassa",
+      "mainTitle": "Kaksi kuollut lumivyöryissä Ranskassa",
+      "mainCategories": [
+        "Onnettomuudet",
+        "Ranska",
+        "Alpit"
+      ],
+      "imageUrl": "/images/ranska/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kaksi kuollut lumivyöryissä Ranskan Alpeilla",
+          "content": "Viranomaiset kehottavat varovaisuuteen matalan lumivyöryriskin alueilla nopeasti muuttuvan sään takia.",
+          "date": "2025-12-26T20:59:56.000Z",
+          "categories": [
+            "onnettomuudet",
+            "ranska",
+            "alpit",
+            "lumivyöryt",
+            "lumionnettomuudet",
+            "talvisää",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201541?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ranska | Alpeilla ollut useita lumi­vyöryjä, kaksi kuollut ja useita loukkaantunut",
+          "content": "Kaikki lumivyöryt sattuivat matalan riskin alueilla. Paikalliset viranomaiset ovat varoittaneet hiihtäjiä muuttuvista sääolosuhteista.",
+          "date": "2025-12-26T20:36:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011715559.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Zelenskyi ja Trump tapaavat Floridassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/zelensky/2.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Trump tapaamisen alla: Zelenskyillä ”ei ole mitään ilman hyväksyntääni”",
+          "content": "Trumpin ja Zelenskyin on määrä tavata sunnuntaina Yhdysvalloissa.",
+          "date": "2025-12-26T20:45:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714842.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Zelenskyi ja Trump tapaavat Floridassa sunnuntaina",
+          "content": "",
+          "date": "2025-12-26T13:53:27.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "volodymyr zelenskyi",
+            "donald trump",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201519?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Zelenskyi kertoo tapaavansa Trumpin lähitulevaisuudessa",
+          "content": "Zelenskyi sanoo, että monia päätöksiä voidaan tehdä vielä ennen vuodenvaihdetta.",
+          "date": "2025-12-26T12:22:43.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/zelenskyi-kertoo-tapaavansa-trumpin-lahitulevaisuu/12468192?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat teki ilmaiskuja Nigeriaan Isisiä vastaan",
       "mainCategories": [
         "Ulkomaat",
         "Turvallisuus",
@@ -120,57 +490,7 @@
       ]
     },
     {
-      "mainTitle": "Mies puukotti kolmea naista Pariisissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Väkivalta",
-        "Puukotus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ranska | Mies puukotti kolmea naista Pariisin metrossa",
-          "content": "Naisten saamat vammat eivät ole vakavia. Le Parisien -lehden mukaan poliisi ei epäile terroristista motiivia.",
-          "date": "2025-12-26T19:06:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011715464.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kolmea naista puukotettiin Pariisin metrossa",
-          "content": "Epäilty otettiin myöhemmin kiinni kotoaan.",
-          "date": "2025-12-26T18:29:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011715477.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mies puukotti kolmea naista metrossa Pariisissa",
-          "content": "",
-          "date": "2025-12-26T18:11:07.000Z",
-          "categories": [
-            "väkivalta",
-            "puukotus",
-            "pariisi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201535?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tulipalo legendaarisessa Väärätalossa Imatralla",
+      "mainTitle": "Tulipalo syttyi Väärätalossa Imatralla",
       "mainCategories": [
         "Onnettomuudet",
         "Tulipalot",
@@ -208,10 +528,9 @@
       ]
     },
     {
-      "mainTitle": "Viikonloppuna odotettavissa myrskytuulia",
+      "mainTitle": "Lauantaina Suomeen saapuu myrsky",
       "mainCategories": [
-        "Kotimaa",
-        "Suomi"
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -228,6 +547,54 @@
           "link": "https://www.is.fi/kotimaa/art-2000011715270.html"
         },
         {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Jos asut tällaisessa paikassa, lauantaina osuu ja ehkä pahasti",
+          "content": "Sähkökatkot ovat mahdollisia, mutta myrskytuhoja ei voi vielä tässä kohtaa ennustaa tarkasti tai varmasti.  Pelastuslaitokset ja sähkölaitokset ovat varautuneet Suomeen lauantaina rantautuvaan myrskyyn. Päivystävä palomestari Thomas Nyqvist Pohjanmaan pelastuslaitokselta kertoo, että pelastuslaitos on seurannut tilannetta yhdessä muiden viranomaisten kanssa ja pohtinut myrskytuulten mahdollisia seurauksia.",
+          "date": "2025-12-26T14:35:21.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/d95abd3e-f0bf-4253-9b99-441ad162cc64"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Uusia tietoja myrskystä: Suomeen paiskautuu niin valtava voima, että se puskee Selkämerestä vedet pois",
+          "content": "Lauantaina länsirannikolle saapuvaa myrskyä ei ole vielä nimetty. Meteorologin mukaan ensin katsotaan, kuinka kovaksi myrsky lopulta yltyy ja kuinka paljon se mahdollisesti aiheuttaa tuhoja.  Suomen ylle saapuu lauantaina myrsky. Tuuli alkaa lauantaina voimistua lännestä alkaen ja on iltapäivän ja illan aikana voimakkaimmillaan länsirannikolla.",
+          "date": "2025-12-26T11:53:28.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/ae131f9b-5c5f-4c94-89b6-75d7783bfb5a"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Myrskyn jälkeen iskee ankara kylmyys – jopa –35",
+          "content": "Joulunvietosta voi olla järkevää palata jo perjantaina, sillä lauantaina Suomeen iskee talvimyrsky, joka tietää hankalaa ajokeliä.",
+          "date": "2025-12-26T07:44:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011714892.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Meteorologilta vakava varoitus",
+          "content": "Tapaninpäivän ajokelistä ennustetaan hyvää. Myrsky iskee lauantaina.",
+          "date": "2025-12-25T20:12:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011714810.html"
+        },
+        {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
@@ -238,81 +605,21 @@
           "link": "//www.kaleva.fi/talvimyrsky-saapuu-suomeen-lauantaina-ouluun-jopa/12467958?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Ennuste: Viikonloppuna jopa hirmu­myrsky­lukemia",
-          "content": "Forecan sääblogissa ennustetaan viikonlopulle myrskylukemia merialueille ja puuskissa sisämaahan.",
-          "date": "2025-12-24T22:37:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011714337.html"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Hurja ennuste: Kohta myrskyää",
-          "content": "Forecan sääblogissa ennustetaan viikonlopulle myrskylukemia merialueille ja puuskissa sisämaahan.",
-          "date": "2025-12-24T22:35:00.000Z",
+          "title": "Suomi jää myrskypihtien puristukseen – Ilmatieteen laitokselta lukuisia varoituksia",
+          "content": "Myrsky liittyy Suomen pohjoispuolelta lähestyvään matalapaineeseen, joka lauantaipäivän kuluessa liikkuu itärajaa viistäen kohti kaakkoa.",
+          "date": "2025-12-25T13:23:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714332.html"
+          "link": "https://www.is.fi/kotimaa/art-2000011714516.html"
         }
       ]
     },
     {
-      "mainTitle": "Zelenskyi tapaa Trumpin sunnuntaina Floridassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/zelensky/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Zelenskyi keskusteli Stubbin kanssa, tapaa sunnuntaina Trumpin",
-          "content": "Ukrainan presidentti julkisti jouluaattona 20-kohtaisen version Yhdysvaltojen ja Ukrainan muokkaamasta rauhansuunnitelman luonnoksesta.",
-          "date": "2025-12-26T17:50:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714842.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Zelenskyi ja Trump tapaavat Floridassa sunnuntaina",
-          "content": "",
-          "date": "2025-12-26T13:53:27.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "volodymyr zelenskyi",
-            "donald trump",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201519?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Zelenskyi kertoo tapaavansa Trumpin lähitulevaisuudessa",
-          "content": "Zelenskyi sanoo, että monia päätöksiä voidaan tehdä vielä ennen vuodenvaihdetta.",
-          "date": "2025-12-26T12:22:43.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/zelenskyi-kertoo-tapaavansa-trumpin-lahitulevaisuu/12468192?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pate Mustajärven kuolema herätti surua",
+      "mainTitle": "Pate Mustajärvi on kuollut 69-vuotiaana",
       "mainCategories": [
         "Kuolleet",
         "Kulttuuri",
@@ -373,7 +680,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Näin Yle muistaa Patea radiossa ja televisiossa",
+          "title": "Näin Yle muistaa Pate Mustajärveä radiossa ja televisiossa",
           "content": "Rock-yhtye Popedan entinen laulaja Pate Mustajärvi kuoli tapaninpäivänä lyhyen sairauden murtamana.",
           "date": "2025-12-26T13:51:38.000Z",
           "categories": [
@@ -478,29 +785,17 @@
             "kotimaa"
           ],
           "link": "https://www.iltalehti.fi/kotimaa/a/5fbfde3f-9cb2-408d-b789-d1cbbe6b70b4"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hautausmaalla kadonnut nainen on löytynyt",
-          "content": "Poliisi kiittää Vapepaa etsinnöistä.",
-          "date": "2025-12-24T21:13:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714323.html"
         }
       ]
     },
     {
-      "mainTitle": "Ukrainan rauhansopimusluonnos ei saa tukea",
+      "mainTitle": "Ukrainan rauhanneuvottelut vaikeutuvat edelleen",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -534,23 +829,11 @@
             "ulkomaat"
           ],
           "link": "https://www.iltalehti.fi/ulkomaat/a/146850b9-8ae0-4261-9725-8e86a04d1072"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan kohtalo | Bloombergin lähde: Venäjä haluaa useita muutoksia rauhan­suunnitelmaan",
-          "content": "Presidentti Volodymyr Zelenskyi julkisti 20-kohtaisen rauhansuunnitelman jouluaattona.",
-          "date": "2025-12-25T02:44:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714345.html"
         }
       ]
     },
     {
-      "mainTitle": "Etelässä lumisateita ja myrskytuulia",
+      "mainTitle": "Lumisateet ja myrskytuuli Etelä-Suomessa",
       "mainCategories": [
         "Sääennusteet",
         "Sää",
@@ -707,9 +990,11 @@
           "content": "",
           "date": "2025-12-26T14:01:35.000Z",
           "categories": [
-            "poliisi",
             "väkivalta",
+            "poliisi",
             "joulu",
+            "rikos ja oikeus",
+            "rikosepäilyt",
             "kotimaa",
             "uutiset"
           ],
@@ -761,7 +1046,7 @@
       ]
     },
     {
-      "mainTitle": "Joulu eri puolilla maailmaa ja työpaikoilla",
+      "mainTitle": "Joulun tunnelmia eri puolilta maailmaa",
       "mainCategories": [
         "Suomi",
         "Juhlat",
@@ -808,18 +1093,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011713923.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tältä näytti presidenttiparin jouluaterialla – kuvat keräävät ylistystä",
-          "content": "Presidenttipari viettää joulunpyhänsä poikkeuksellisesti muualla kuin Helsingissä.",
-          "date": "2025-12-24T20:02:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714277.html"
         }
       ]
     },
@@ -902,8 +1175,8 @@
       "mainTitle": "Porin K-Marketin tulipalo ja epäilty tuhopoltto",
       "mainCategories": [
         "Kotimaa",
-        "Tulipalot",
-        "Pori"
+        "Rikosepäilyt",
+        "Tulipalot"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -946,73 +1219,17 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011714544.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi on ottanut yhden kiinni epäiltynä ruokakaupan tuhopoltosta Porissa – ”Ei sellaista voi ymmärtää”, sanoo kauppias",
-          "content": "Kiinni otettua miestä epäillään törkeästä tuhotyöstä.",
-          "date": "2025-12-25T04:45:37.000Z",
-          "categories": [
-            "onnettomuudet",
-            "tulipalot",
-            "pori",
-            "satakunta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201449?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Bulgaria siirtyy euroon ensi viikolla",
-      "mainCategories": [
-        "Bulgaria",
-        "Euroalue",
-        "Rahoitusmarkkinat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "145-vuotias valuutta vaihdetaan euroksi vain päivien kuluttua",
-          "content": "Bulgaria on EU:n köyhin maa, mutta sen taloudella menee lujaa. Bulgaria luopuu ensi viikolla vanhasta valuutastaan levasta, ja ottaa euron käyttöön 1. tammikuuta 2026. Yhteisvaluuttaa käyttävien maiden määrä kasvaa 21:een, ja Bulgarian 145 vuotta käytössä ollut leva jää historiaan helmikuussa.",
-          "date": "2025-12-26T09:12:53.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/2dca137d-a3e2-4a47-bf5d-63383b023246"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Bulgaria on tammikuussa uusin euromaa: tätä se tarkoittaa Suomelle",
-          "content": "Suomi voi vain haaveilla tasosta, jolla Bulgarian talouskasvu ja velka ovat. Sen sijaan hintojen nousu on tulevassa euromaassa vauhdikasta.",
-          "date": "2025-12-26T07:00:35.000Z",
-          "categories": [
-            "euroopan unioni",
-            "bulgaria",
-            "euroalue",
-            "rahoitusmarkkinat",
-            "asuntolainan korko",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20189879?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjän talous ja pankkikriisin uhka kasvavat",
+      "mainTitle": "Venäjän talous ja pankkikriisi huolestuttavat asiantuntijoita",
       "mainCategories": [
         "Kotimaa",
         "Ulkomaat",
         "Politiikka"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -1053,13 +1270,13 @@
       ]
     },
     {
-      "mainTitle": "Trump julkaisi erikoisen jouluntoivotuksen",
+      "mainTitle": "Trump julkaisi erikoisen joulutervehdyksen",
       "mainCategories": [
         "Ulkomaat",
         "Juhlat",
         "Joulupukki"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1172,11 +1389,9 @@
       ]
     },
     {
-      "mainTitle": "Islannissa rikottiin joulukuun lämpöennätys",
+      "mainTitle": "Islannissa jouluaattona lämpöennätys lähes 20 astetta",
       "mainCategories": [
-        "Sää",
-        "Lämpötila",
-        "Islanti"
+        "Maailma"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1201,23 +1416,6 @@
           "date": "2025-12-25T14:07:11.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/itaisessa-islannissa-mitattiin-miltei-parikymmenta/12467781?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Joulukuun lämpöennätys rikkoutui Islannissa: 19,8 astetta jouluaattona",
-          "content": "Edellinen joulukuun ennätys­lämpötila oli mitattu 2. joulu­kuuta 2019.",
-          "date": "2025-12-25T10:09:56.000Z",
-          "categories": [
-            "sää",
-            "lämpötila",
-            "islanti",
-            "ilmatieteen laitos",
-            "jouluaatto",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201464?origin=rss"
         }
       ]
     },
@@ -1286,159 +1484,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011714688.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Uusia asiakirjoja Epstein-asiassa löytynyt",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kommentti | Epstein-asiakirjojen julkaisu on kääntynyt tavoitettaan vastaan",
-          "content": "Oikeusministeriön tempoilu on omiaan lisäämään epäluottamusta siihen, saako yleisö vieläkään eteensä koko aineistoa, kirjoittaa HS:n ulkomaantoimittaja Tommi Hannula.",
-          "date": "2025-12-25T15:41:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714386.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Epstein-paperit | Yhdysvaltain oikeusministeriö löysi miljoona uutta asiakirjaa, jotka voivat liittyä Epsteiniin",
-          "content": "Uusien asiakirjojen löytyminen voi oikeusministeriön mukaan viivästyttää kaikkien papereiden julkaisua viikoilla.",
-          "date": "2025-12-24T21:02:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714311.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yllätysilmoitus: Jopa miljoona uutta Epstein-dokumenttia löytynyt",
-          "content": "Paljastuneiden asiakirjojen julkistaminen saattaa kestää viikkoja.",
-          "date": "2025-12-24T20:05:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011714305.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Viisi kuoli helikopterionnettomuudessa Tansaniassa",
-      "mainCategories": [
-        "Onnettomuudet",
-        "Helikopterit",
-        "Lentoturvallisuus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Viisi kuoli helikopterin syöksyttyä maahan Tansaniassa",
-          "content": "",
-          "date": "2025-12-25T15:27:44.000Z",
-          "categories": [
-            "onnettomuudet",
-            "helikopterit",
-            "lento-onnettomuudet",
-            "lentoturvallisuus",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201476?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tansania | Pelastus­helikopteri syöksyi maahan Kilimanjarolla, viisi ihmistä kuoli",
-          "content": "Onnettomuudessa kuoli kaksi turistia, lääkäri, opas ja helikopterin lentäjä.",
-          "date": "2025-12-25T09:43:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714414.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Uusi antisemitistinen rikos Australiassa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/australia/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Viharikokset | Australiassa epäillään uutta antisemitististä rikosta",
-          "content": "Australian Melbournessa syttyi joulupäivänä palamaan auto, jossa toivotettiin hyvää hanukkaa. Poliisi kuvailee paloa ”epäilyttäväksi”.",
-          "date": "2025-12-25T04:19:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714360.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Epäily: Uusi anti­semitistinen isku Australiassa",
-          "content": "Australian Melbournessa syttyi joulupäivänä palamaan auto, jossa toivotettiin hyvää hanukkaa.",
-          "date": "2025-12-25T04:16:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011714352.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin tukema ehdokas voitti Hondurasissa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpin tukema presidentti­ehdokas voitti Hondurasin vaalit",
-          "content": "Valtapuolue Libren presidenttiehdokas syytti aiemmin Donald Trumpia maan vaaleihin sekaantumisesta.",
-          "date": "2025-12-25T01:03:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011714344.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Honduras | Trumpin tukema oikeistolainen Nasry Asfura voitti presidentin­vaalit",
-          "content": "Valtapuolue Libren presidenttiehdokas syytti aiemmin Donald Trumpia maan vaaleihin sekaantumisesta.",
-          "date": "2025-12-25T01:00:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714338.html"
         }
       ]
     }
