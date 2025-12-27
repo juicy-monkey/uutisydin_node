@@ -1,19 +1,69 @@
 {
-  "timestamp": "2025-12-27T05:19:26.567Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2025-12-27T05:44:17.736Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Trump ja Zelenskyi tapaavat Floridassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/zelensky/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump ja Zelenskyi tapaavat jälleen – asiantuntijalta arvio: ”Voi olla, että...”",
+          "content": "Asiantuntija uskoo, että uusi tapaamispaikka vaikuttaa myös tapaamisen sävyyn.",
+          "date": "2025-12-27T05:30:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011715092.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Trump tapaamisen alla: Zelenskyillä ”ei ole mitään ilman hyväksyntääni”",
+          "content": "Trumpin ja Zelenskyin on määrä tavata sunnuntaina Yhdysvalloissa.",
+          "date": "2025-12-26T20:45:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714842.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Zelenskyi ja Trump tapaavat Floridassa sunnuntaina",
+          "content": "",
+          "date": "2025-12-26T13:53:27.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "volodymyr zelenskyi",
+            "donald trump",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201519?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Zelenskyi kertoo tapaavansa Trumpin lähitulevaisuudessa",
+          "content": "Zelenskyi sanoo, että monia päätöksiä voidaan tehdä vielä ennen vuodenvaihdetta.",
+          "date": "2025-12-26T12:22:43.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/zelenskyi-kertoo-tapaavansa-trumpin-lahitulevaisuu/12468192?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
     {
       "mainTitle": "Puola sulki lentokenttiä Venäjän iskujen vuoksi",
       "mainCategories": [
@@ -26,7 +76,7 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ilmailu | Puola on sulki kaksi lento­kenttää Venäjän iskettyä Ukrainaan",
+          "title": "Ilmailu | Puola sulki kaksi lento­kenttää Venäjän iskettyä Ukrainaan",
           "content": "Puolan asevoimien hävittäjät nousivat myös ilmaan.",
           "date": "2025-12-27T05:16:00.000Z",
           "categories": [
@@ -61,7 +111,49 @@
       ]
     },
     {
-      "mainTitle": "Hätätila lumimyrskyn vuoksi New Yorkissa",
+      "mainTitle": "Thaimaa ja Kambodža sopivat tulitauosta",
+      "mainCategories": [
+        "Ulkomaat",
+        "Thaimaa",
+        "Kambodža"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Thaimaa ja Kambodža sopivat tulitauosta",
+          "content": "Neuvottelut kestivät kolme päivää.",
+          "date": "2025-12-27T04:16:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011715669.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Thaimaa ja Kambodža allekirjoittivat tulitauko­sopimuksen",
+          "content": "Osapuolet sopivat, että niiden joukot saavat pysyä kiistelyllä raja-alueella.",
+          "date": "2025-12-27T04:00:22.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "thaimaa",
+            "ulkomaat",
+            "kambodža",
+            "aselepo",
+            "kaakkois-aasia",
+            "aseelliset konfliktit",
+            "konfliktit"
+          ],
+          "link": "https://yle.fi/a/74-20201551?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "New Yorkissa hätätila lumimyrskyn vuoksi",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -228,7 +320,7 @@
         "Kiina",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -272,7 +364,7 @@
         "Somalia",
         "Israel"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -343,7 +435,7 @@
         "Ranska",
         "Alpit"
       ],
-      "imageUrl": "/images/ranska/2.jpg",
+      "imageUrl": "/images/ranska/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -378,61 +470,13 @@
       ]
     },
     {
-      "mainTitle": "Zelenskyi ja Trump tapaavat Floridassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/zelensky/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Trump tapaamisen alla: Zelenskyillä ”ei ole mitään ilman hyväksyntääni”",
-          "content": "Trumpin ja Zelenskyin on määrä tavata sunnuntaina Yhdysvalloissa.",
-          "date": "2025-12-26T20:45:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714842.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Zelenskyi ja Trump tapaavat Floridassa sunnuntaina",
-          "content": "",
-          "date": "2025-12-26T13:53:27.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "volodymyr zelenskyi",
-            "donald trump",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201519?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Zelenskyi kertoo tapaavansa Trumpin lähitulevaisuudessa",
-          "content": "Zelenskyi sanoo, että monia päätöksiä voidaan tehdä vielä ennen vuodenvaihdetta.",
-          "date": "2025-12-26T12:22:43.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/zelenskyi-kertoo-tapaavansa-trumpin-lahitulevaisuu/12468192?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvallat teki ilmaiskuja Nigeriaan Isisiä vastaan",
+      "mainTitle": "Yhdysvallat iski Isis-järjestöön Nigeriassa",
       "mainCategories": [
         "Ulkomaat",
         "Turvallisuus",
         "Nigeria"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -528,7 +572,7 @@
       ]
     },
     {
-      "mainTitle": "Lauantaina Suomeen saapuu myrsky",
+      "mainTitle": "Myrsky saapuu Suomeen lauantaina",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -795,7 +839,7 @@
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1229,7 +1273,7 @@
         "Ulkomaat",
         "Politiikka"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -1270,13 +1314,13 @@
       ]
     },
     {
-      "mainTitle": "Trump julkaisi erikoisen joulutervehdyksen",
+      "mainTitle": "Trump julkaisi erikoisen jouluntoivotuksen",
       "mainCategories": [
         "Ulkomaat",
         "Juhlat",
         "Joulupukki"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1459,7 +1503,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/zelensky/1.jpeg",
+      "imageUrl": "/images/zelensky/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
