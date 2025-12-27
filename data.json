@@ -1,48 +1,106 @@
 {
-  "timestamp": "2025-12-27T11:36:22.639Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
-  "feeds": [
+  "timestamp": "2025-12-27T12:34:07.862Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
     {
-      "mainTitle": "Hannes-myrsky tuo myrskyisää säätä Suomeen",
-      "mainCategories": [
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Näin Hannes hurjistuu: 7-metrisiä aaltoja ja sähkökatkoja",
-          "content": "Joulun vilkkainta paluuliikennepäivää siunataan myrskyllä. Hannes-myrsky voimistuu lauantai-iltana, Ilmatieteen laitos tiedottaa. Voimakkaimmillaan myrsky on myöhään illalla, minkä jälkeen tuuli vähitellen heikkenee. Myrsky tuo erittäin kovaa tuulta etenkin maan länsiosaan, Ahvenanmaalle ja merialueille.",
-          "date": "2025-12-27T11:28:09.000Z",
-          "categories": [
-            "saauutiset"
-          ],
-          "link": "https://www.iltalehti.fi/saauutiset/a/f483cc95-ecb6-4a59-bc2f-e57c34f86e9a"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Hannes-myrsky | Suomeen povataan pää­kallo­keliä ja yhtä vuoden kovimmista myräköistä",
-          "content": "Pääkaupunkiseudulle sade tulee luultavimmin vetenä. Tuulisesta säästä huolimatta Tallink Siljan risteilyalukset liikennöivät normaalisti.",
-          "date": "2025-12-27T08:01:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011715662.html"
-        }
-      ]
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
     },
     {
-      "mainTitle": "Hannes-myrsky aiheuttaa häiriöitä Suomessa",
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
+  "feeds": [
+    {
+      "mainTitle": "Hannes-myrsky aiheuttaa sähkökatkoja ja vaarallista tuulta",
       "mainCategories": [
-        "Myrskyt",
-        "Sää",
-        "Kotimaa"
+        "Suomi",
+        "Kotimaa",
+        "Myrskyt"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -50,26 +108,25 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Näin Hannes-myrsky moukaroi Suomea – Raumalla mitattu jo hurjia puuskia",
-          "content": "Lauantaina iskevän myrskyn ennustetaan voimistuvan iltapäivällä. Siitä voi olla haittaa myös joulun paluuliikenteessä.",
-          "date": "2025-12-27T11:21:00.000Z",
+          "title": "Hannes-myrsky iski Suomeen – Foreca: ensimmäinen hirmu­myrsky­puuska mitattu",
+          "content": "Myrskyn ennustetaan voimistuvan iltaa kohti. Tuhannet kotitaloudet ovat ilman sähköä.",
+          "date": "2025-12-27T12:32:00.000Z",
           "categories": [
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011715775.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomeen saapuva myrsky riehuu nyt Ruotsissa: ihmisiä pyydetty hankkimaan kynttilöitä sähkökatkoja varten",
-          "content": "Yle seuraa Hannes-myrskyn etenemistä tässä artikkelissa.",
-          "date": "2025-12-27T10:35:29.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Näin Hannes etenee",
+          "content": "Joulun vilkkainta paluuliikennepäivää siunataan myrskyllä. Hannes-myrsky voimistuu lauantai-iltana, Ilmatieteen laitos tiedottaa. Voimakkaimmillaan myrsky on myöhään illalla, minkä jälkeen tuuli vähitellen heikkenee. Myrsky tuo erittäin kovaa tuulta etenkin maan länsiosaan, Ahvenanmaalle ja merialueille.",
+          "date": "2025-12-27T11:28:09.000Z",
           "categories": [
-            "sää",
-            "myrskyt"
+            "saauutiset"
           ],
-          "link": "https://yle.fi/a/74-20201571?origin=rss"
+          "link": "https://www.iltalehti.fi/saauutiset/a/f483cc95-ecb6-4a59-bc2f-e57c34f86e9a"
         },
         {
           "publisherId": "ts",
@@ -88,6 +145,18 @@
           "link": "https://www.ts.fi/uutiset/6860700"
         },
         {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Hannes-myrsky | Suomeen povataan pää­kallo­keliä ja yhtä vuoden kovimmista myräköistä",
+          "content": "Pääkaupunkiseudulle sade tulee luultavimmin vetenä. Tuulisesta säästä huolimatta Tallink Siljan risteilyalukset liikennöivät normaalisti.",
+          "date": "2025-12-27T08:01:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011715662.html"
+        },
+        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
@@ -98,30 +167,46 @@
             "saauutiset"
           ],
           "link": "https://www.iltalehti.fi/saauutiset/a/a2ffaaf7-acb4-4ee4-bb0e-d3a451df7005"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Voimakas Hannes-myrsky saapuu Suomeen – rajuimmat tuulet osuvat iltaan",
-          "content": "Myrsky iskee joulun paluu­liikenteeseen ja tekee ajokelistä huonon erityisesti Pohjois-Suomessa.",
-          "date": "2025-12-27T04:50:33.000Z",
-          "categories": [
-            "sää",
-            "myrskyt",
-            "talvimyrskyt",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201504?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Sisäministeriöstä syytöksiä Mari Rantaselle",
+      "mainTitle": "Yhdysvallat pommitti jihadistipesäkkeitä Nigeriassa",
       "mainCategories": [
-        "Politiikka",
-        "Sisäministeriö",
-        "Suojelupoliisi"
+        "Maailma"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Nigeria | Asiantuntijat eivät ymmärrä, miksi Yhdysvallat pommitti Luoteis-Nigeriaa",
+          "content": "Tunnetuin jihadistien pesäke sijaitsee suuren maan toisella laidalla.",
+          "date": "2025-12-27T12:32:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011715705.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Nigeria | Yhdysvallat teki ilma­iskuja Nigeriaan",
+          "content": "Nigerian ja Yhdysvaltojen mukaan iskut kohdistuivat terroristijärjestöön. Iskuissa kerrotaan kuolleen useita.",
+          "date": "2025-12-26T15:21:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714832.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Vakava liikenneonnettomuus Inarissa joulukuussa",
+      "mainCategories": [
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -129,93 +214,45 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Yle: Sisäministeriöstä kovia syytöksiä Mari Rantaselle – näin ministeri vastaa",
-          "content": "Ylen tietojen mukaan sisäministeriössä vallitsee painostava ilmapiiri, joka on leimannut arkea koko hallituskauden ajan. Ministeri Mari Rantanen kiistää väitteet epäasiallisesta käytöksestä.",
-          "date": "2025-12-27T10:41:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011715892.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Lähteet Ylelle: Virkamiehet tulleet itkien sisäministeri Mari Rantasen luota",
-          "content": "Ei meillä ketään hiljennetä, Rantanen sanoo Ylelle. Ylen lähteiden mukaan Mari Rantasen (ps) johtamassa sisäministeriössä on pelon ilmapiiri. Palaute on yhden virkamiehen mukaan niin suoraa, että ”virkamiehet ovat tulleet itkien pois ministerin luota”.",
-          "date": "2025-12-27T09:38:38.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/26a7e520-eb13-4a78-9308-c6146fe9d496"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mari Rantasen johtaman sisäministeriön virkahenkilöt kertovat pelon ilmapiiristä ja vallan keskittymisestä poliisille",
-          "content": "Sisäministeri Mari Rantasen kaudella ministeriön ilmapiiri on kiristynyt. Virkahenkilöt kertovat painostuksesta ja vahvasta poliittisesta ohjauksesta.",
-          "date": "2025-12-27T07:04:54.000Z",
-          "categories": [
-            "politiikka",
-            "sisäministeriö",
-            "orpon hallitus",
-            "mari rantanen",
-            "suojelupoliisi"
-          ],
-          "link": "https://yle.fi/a/74-20200834?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Matkailuauton ikkunoita rikottiin Rovaniemellä",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Rovaniemi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Matkailuauton ikkunoita rikottiin ilmakiväärillä Rovaniemellä – ulkomaalaisperhe nukkui parkkialueella vahingonteon aikana",
-          "content": "Kolmihenkinen perhe oli herännyt koviin paukauksiin aamyöllä. Yhdestä rikotusta ikkunasta löytyi ilmakiväärin luoti.",
-          "date": "2025-12-27T09:16:42.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "rovaniemi",
-            "poliisi",
-            "vahingonteko",
-            "ilmakiväärit (ampuma-aseet)",
-            "kotimaa",
-            "lappi"
-          ],
-          "link": "https://yle.fi/a/74-20201563?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Turistiperhe joutui järkyttävään tilanteeseen keskellä jouluyötä Lapissa",
-          "content": "Kolmihenkinen perhe havahtui koviin paukauksiin jouluyönä ennen aamuneljää. Lapissa matkailleet turistit joutuivat järkyttävään tilanteeseen Rovaniemen Vaattunkikönkäällä joulupäivän vastaisena yönä. Parkkipaikalla retkeilyautossa nukkunut kolmihenkinen perhe havahtui aamuyöllä kello kolmen jälkeen koviin paukauksiin.",
-          "date": "2025-12-27T08:47:05.000Z",
+          "title": "Vakava onnettomuus Inarissa – 19-vuotiasta epäillään törkeistä rikoksista",
+          "content": "Kaksi ihmistä kuljetettiin turmapaikalta helikoptereilla sairaalahoitoon Norjan puolelle.",
+          "date": "2025-12-27T09:51:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/c81b4f06-e1ef-440f-a59d-6c532dec149f"
+          "link": "https://www.is.fi/kotimaa/art-2000011715727.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Vakava onnettomuus Nelostiellä: Uhreja kiidätetty helikopterilla Norjaan – Törkeitä rikosepäilyjä",
+          "content": "Nelostie oli pari tuntia poikki pelastustoimien vuoksi. Inarissa tapahtui vakava liikenneonnettomuus varhain lauantaina. Lapin pelastuslaitoksen tiedotteen mukaan kaksi henkilöautoa kolaroi Nelostiellä Inarijärventien ja Rahajärventien risteyksessä ennen aamuviittä.",
+          "date": "2025-12-27T06:25:32.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/6c41c369-108f-4f9c-9bab-9606d1ee3994"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Kaksi henkilöä loukkaantui vakavasti kahden auton törmäyksessä Inarissa – sivutieltä tulleella nuorella miehellä ei ollut ajokorttia",
+          "content": "Kaksi henkilöautoa kolaroi lauantaina aamuyöstä vähän ennen viittä Inarijärventien ja Rahajärventien risteyksessä Inarissa.",
+          "date": "2025-12-27T05:45:39.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/kaksi-henkiloa-loukkaantui-vakavasti-kahden-auton/12468551?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
       "mainTitle": "Thaimaa ja Kambodža sopivat tulitauosta",
       "mainCategories": [
-        "Ulkomaat",
-        "Thaimaa",
-        "Kambodža"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -230,66 +267,27 @@
           "link": "https://www.iltalehti.fi/ulkomaat/a/3c7252fa-6cff-44d2-a17d-5751122690de"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Thaimaa ja Kambodža sopivat tulitauosta",
-          "content": "Neuvottelut kestivät kolme päivää.",
-          "date": "2025-12-27T04:16:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kaakkois-Aasia | Thaimaa ja Kambodža sopivat uudesta tuli­tauosta",
+          "content": "Donald Trump välitti edellisen tulitauon lokakuussa. Se kuitenkin raukesi, kun yhteenotot Thaimaan ja Kambodžan rajavyöhykkeellä alkoivat taas joulukuussa.",
+          "date": "2025-12-27T04:26:00.000Z",
           "categories": [
-            "ulkomaat"
+            "maailma"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011715669.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Thaimaa ja Kambodža allekirjoittivat tulitauko­sopimuksen",
-          "content": "Osapuolet sopivat, että niiden joukot saavat pysyä kiistelyllä raja-alueella.",
-          "date": "2025-12-27T04:00:22.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "thaimaa",
-            "ulkomaat",
-            "kambodža",
-            "aselepo",
-            "kaakkois-aasia",
-            "aseelliset konfliktit",
-            "konfliktit"
-          ],
-          "link": "https://yle.fi/a/74-20201551?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000011715663.html"
         }
       ]
     },
     {
-      "mainTitle": "Zelenskyi ja Trump tapaavat rauhansuunnitelman vuoksi",
+      "mainTitle": "Trump ja Zelenskyi tapaavat Yhdysvalloissa",
       "mainCategories": [
-        "Ulkomaat",
-        "Ukraina",
-        "Aselepo"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/zelensky/3.jpg",
       "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Zelenskyi toiveikkaana: Rauhansuunnitelma on lähes valmis, nyt mukana myös uusi keino houkutella Trumpia",
-          "content": "Kansanäänestyksen järjestäminen olisi keino saada aikaan pitkä tulitauko.",
-          "date": "2025-12-27T07:37:14.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "volodymyr zelenskyi",
-            "donald trump",
-            "kansanäänestykset",
-            "aselepo",
-            "donetskin alue",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201557?origin=rss"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -315,43 +313,6 @@
           "link": "https://www.hs.fi/maailma/art-2000011714842.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asiantuntija: Ukrainan rauhan­sopimusluonnos tuskin saa Venäjän tukea, eikä Trumpinkaan kannasta ole varmuutta",
-          "content": "Suomen entinen Venäjän-suurlähettiläs arvioi, ettei uusimmasta luonnoksesta ole pohjaksi rauhan­neuvotteluille Venäjän hyökkäyssodan lopettamiseksi.",
-          "date": "2025-12-26T16:42:57.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "ukraina",
-            "rauhanneuvottelut",
-            "vladimir putin",
-            "volodymyr zelenskyi",
-            "donald trump",
-            "aselepo",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201510?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Zelenskyi ja Trump tapaavat Floridassa sunnuntaina",
-          "content": "",
-          "date": "2025-12-26T13:53:27.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "volodymyr zelenskyi",
-            "donald trump",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201519?origin=rss"
-        },
-        {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
@@ -364,192 +325,10 @@
       ]
     },
     {
-      "mainTitle": "Pohjanmaalla jouluna useita rikostapauksia",
+      "mainTitle": "Hätätila New Yorkissa lumisateen vuoksi",
       "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Poliisi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Murheellinen poliisitehtävä jouluaattona – Ikäihminen tarvitsi sairaalahoitoa",
-          "content": "Pohjanmaan poliisilla riitti tekemistä joulun pyhinä. Pohjanmaan poliisin joulu ei ollut pelkkää riemujuhlaa, tiedotteesta selviää. Jouluaattona kirjattiin rikosilmoitus epäillystä heitteillepanosta, kun omaishoitajana toiminut henkilö jätti epäilyksen mukaan huolehtimatta iäkkäästä läheisestään. Epäilty laiminlyönti oli niin raskas, että ikäihminen tarvitsi sairaalahoitoa.",
-          "date": "2025-12-27T07:35:29.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/f6ada728-5b0a-456a-80ab-c7405c87da6f"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Murheellinen päivitys joulusta – poliisi tutkii kahta tapon yritystä Pohjanmaalla",
-          "content": "Pohjanmaalla tapahtui joulunpyhien aikana kaksi epäiltyä tapon yritystä, tiedottaa poliisi.",
-          "date": "2025-12-27T07:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011715770.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Nainen löi toista kaulaan – häiriökäyttäytyminen työllisti poliisia pyhinä",
-          "content": "",
-          "date": "2025-12-26T14:01:35.000Z",
-          "categories": [
-            "väkivalta",
-            "poliisi",
-            "joulu",
-            "rikos ja oikeus",
-            "rikosepäilyt",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6860412"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin poliisin joulu sujui – ”Joulusta puuttui joulu­­rauha”",
-          "content": "Joulunvietto ei ole sujunut kaikkialla rauhallisissa merkeissä.",
-          "date": "2025-12-26T03:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714570.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisilla on ollut paikoin vilkas joulu",
-          "content": "",
-          "date": "2025-12-25T13:46:01.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "poliisi",
-            "joulu",
-            "lainvalvonta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201472?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomalaiset tyytymättömiä hallituksen taloustoimiin",
-      "mainCategories": [
-        "Politiikka",
-        "Kyselytutkimus",
-        "Talous"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "USU-gallup: Kylmää vettä Orpon ja Purran niskaan",
-          "content": "Vain viidesosa suomalaisista on tyytyväisiä hallituksen taloustoimiin. Suomalaisista 65 prosenttia on tyytymättömiä Petteri Orpon (kok) hallituksen toimiin, jolla se yrittää parantaa Suomen julkista taloutta, Uutissuomalaisen tuoreesta gallupista selviää. Vain 20 prosenttia on tyytyväisiä hallituksen toimiin. 15 prosenttia suhtautuu niihin neutraalisti.",
-          "date": "2025-12-27T06:44:25.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/65ad713a-fdb5-4770-b5ac-9d6cfc596c77"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "USU-gallup: Orpon hallitukselle murskaluvut",
-          "content": "Erittäin tyytymättömiä hallituksen toimiin on lähes kaksi viidestä.",
-          "date": "2025-12-27T06:20:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011715719.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "USU-gallup: Vain viidennes suomalaisista tyytyväisiä Orpon hallituksen toimiin talouden sopeuttamiseksi",
-          "content": "Erittäin tyytymättömiä hallituksen toimiin on lähes kaksi viidestä.",
-          "date": "2025-12-27T03:28:35.000Z",
-          "categories": [
-            "politiikka",
-            "kyselytutkimus",
-            "orpon hallitus",
-            "julkinen talous",
-            "talous",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201550?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi vakavaa liikenneonnettomuutta Suomessa",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Vantaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kaksi henkilöä loukkaantui vakavasti kahden auton törmäyksessä Inarissa – sivutieltä tulleella nuorella miehellä ei ollut ajokorttia",
-          "content": "Kaksi henkilöautoa kolaroi lauantaina aamuyöstä vähän ennen viittä Inarijärventien ja Rahajärventien risteyksessä Inarissa.",
-          "date": "2025-12-27T05:45:39.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/kaksi-henkiloa-loukkaantui-vakavasti-kahden-auton/12468551?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kahdeksan auton ketjukolari Lahden­väylällä",
-          "content": "Liikenne ruuhkautui pahasti.",
-          "date": "2025-12-26T14:10:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011715228.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lahdenväylällä Vantaalla iso ketjukolari",
-          "content": "Kolarissa oli osallisena kahdeksan autoa. Kolme henkilöä loukkaantui.",
-          "date": "2025-12-26T13:47:50.000Z",
-          "categories": [
-            "onnettomuudet",
-            "vantaa",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201517?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hätätila julistettu lumimyrskyn vuoksi New Yorkissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Sää"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -576,32 +355,14 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011715656.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "New Yorkin osavaltioon julistettiin poikkeustila lumimyrskyn takia",
-          "content": "New Yorkiin odotetaan noin 30 senttimetriä lunta perjantain ja lauantain välisenä yönä paikallista aikaa.",
-          "date": "2025-12-27T02:31:19.000Z",
-          "categories": [
-            "yhdysvallat",
-            "sää",
-            "new york (osavaltio)",
-            "new york",
-            "new jersey",
-            "talvisää",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201548?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Neljä vaeltajaa kuoli lumivyöryssä Kreikassa",
+      "mainTitle": "Neljä vaeltajaa kuoli lumi­vyöryssä Kreikassa",
       "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -628,42 +389,51 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011715654.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Neljä vaeltajaa löytyi kuolleena Kreikassa",
-          "content": "Kolme miestä oli lähtenyt vaativalle vaellukselle torstaina aamulla.  Kreikassa neljä vaeltajaa löydettiin kuolleena etsintäoperaation päätteeksi, kertoo Kreikan yleisradioyhtiö ERT. Viranomaiset olivat etsineet vuorokauden ajan kolmea 30–35-vuotiasta miestä, jotka olivat kadonneet torstaina Vardousian vuoristossa Keski-Kreikassa. Miehet löydettiin kuolleena lumivyöryn alta.",
-          "date": "2025-12-26T23:47:48.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/b1dbfad0-fff8-4a52-8a16-ab7947d42d9b"
         }
       ]
     },
     {
-      "mainTitle": "Kolme naista puukotettu Pariisin metrossa",
+      "mainTitle": "Veitsi-isku Japanin tehtaassa, 15 loukkaantui",
       "mainCategories": [
-        "Ulkomaat",
-        "Väkivalta",
-        "Puukotus"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Silmitön hyökkäys Pariisin metrossa – Kolmea naista puukotettiin",
-          "content": "Poliisi otti epäillyn tekijän kiinni myöhemmin samana päivänä. Mies puukotti kolmea naista Pariisin metrossa perjantaina iltapäivällä. Ranskan poliisi on pidättänyt epäillyn tekijän, AFP uutisoi. Teräaseella varustautunut mies hyökkäsi naisten kimppuun kolmella eri metroasemalla puolen tunnin aikana. Pariisin poliisin mukaan uhrit saivat lieviä vammoja, joita hoidettiin sairaalassa.",
-          "date": "2025-12-26T22:47:28.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ainakin 15 loukkaantui veitsi-iskussa japanilaisessa tehtaassa",
+          "content": "Uhrien päälle myös ruiskutettiin nestettä, joka vaikutti olevan valkaisuainetta.",
+          "date": "2025-12-26T23:13:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/68290ba4-6f44-49ed-8f95-d53276d80a51"
+          "link": "https://www.is.fi/ulkomaat/art-2000011715621.html"
         },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Japani | Useita ihmisiä puukotettu tehtaassa Japanissa",
+          "content": "Viranomaisten mukaan puukotusten yhteydessä olisi myös suihkutettu jonkinlaista tuntematonta nestettä. Ainakin 14 ihmistä loukkaantui.",
+          "date": "2025-12-26T15:29:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011714987.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mies puukotti kolmea naista Pariisissa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -687,236 +457,15 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011715477.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mies puukotti kolmea naista metrossa Pariisissa",
-          "content": "",
-          "date": "2025-12-26T18:11:07.000Z",
-          "categories": [
-            "väkivalta",
-            "puukotus",
-            "pariisi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201535?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Yhdysvallat vastaa Kiinan pakotteisiin",
+      "mainTitle": "Lauantaina myrskytuulia ja kylmyyttä odotettavissa",
       "mainCategories": [
-        "Yhdysvallat",
-        "Kiina",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yhdysvallat ärähti Kiinalle yhdysvaltalais­yrityksille asetetuista pakotteista",
-          "content": "Kiina ilmoitti perjantaina pakotteista useille yhdysvaltalaisille puolustusalan yhtiölle sekä yritys­johtajille.",
-          "date": "2025-12-26T22:32:45.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "yhdysvallat",
-            "kiina",
-            "taiwan",
-            "kansainväliset pakotteet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201543?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kiina mätkäisi pakotteita yhdysvaltalaisille puolustusalan yhtiöille",
-          "content": "",
-          "date": "2025-12-26T14:20:23.000Z",
-          "categories": [
-            "talous",
-            "kiina",
-            "yhdysvallat",
-            "kansainväliset pakotteet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201521?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Somalia tuomitsee Israelin tunnustuksen Somalimaasta",
-      "mainCategories": [
-        "Somalia",
-        "Israel",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Somalia tuomitsee Israelin päätöksen tunnustaa Somalimaa itsenäiseksi – myöskään Trump ei tunnustaisi",
-          "content": "Israel on ainoa maa maailmassa, joka on virallisesti tunnustanut Somalimaan.",
-          "date": "2025-12-26T21:41:49.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "somalia",
-            "itä-afrikka",
-            "israel",
-            "egypti",
-            "afrikan unioni",
-            "somalimaa",
-            "konfliktit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201542?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Diplomatia | Israel on ensimmäisenä valtiona maailmassa tunnustanut Somalimaan",
-          "content": "Somalimaa irrottautui Somaliasta vuonna 1991. Somalian hallitus pitää perjantaina hätäkokouksen Israelin päätöksen takia.",
-          "date": "2025-12-26T16:16:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011715320.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Israel tunnusti maailman ensimmäisenä maana Somalimaan itsenäisyyden",
-          "content": "Somalimaa julistautui itsenäiseksi Somaliasta vuonna 1991.",
-          "date": "2025-12-26T15:33:31.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "somalia",
-            "israel",
-            "itä-afrikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201525?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi kuollut lumivyöryissä Ranskassa",
-      "mainCategories": [
-        "Onnettomuudet",
-        "Ranska",
-        "Alpit"
-      ],
-      "imageUrl": "/images/ranska/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kaksi kuollut lumivyöryissä Ranskan Alpeilla",
-          "content": "Viranomaiset kehottavat varovaisuuteen matalan lumivyöryriskin alueilla nopeasti muuttuvan sään takia.",
-          "date": "2025-12-26T20:59:56.000Z",
-          "categories": [
-            "onnettomuudet",
-            "ranska",
-            "alpit",
-            "lumivyöryt",
-            "lumionnettomuudet",
-            "talvisää",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201541?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ranska | Alpeilla ollut useita lumi­vyöryjä, kaksi kuollut ja useita loukkaantunut",
-          "content": "Kaikki lumivyöryt sattuivat matalan riskin alueilla. Paikalliset viranomaiset ovat varoittaneet hiihtäjiä muuttuvista sääolosuhteista.",
-          "date": "2025-12-26T20:36:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011715559.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvallat teki ilmaiskuja Nigeriassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Turvallisuus",
-        "Nigeria"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yhdysvallat iski Nigeriaan",
-          "content": "Puolustusministeriön mukaan iskut tappoivat useita Isis-järjestön taistelijoita.",
-          "date": "2025-12-26T19:13:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011714833.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Nigeria | Yhdysvallat teki ilma­iskuja Nigeriaan",
-          "content": "Nigerian ja Yhdysvaltojen mukaan iskut kohdistuivat terroristijärjestöön. Iskuissa kerrotaan kuolleen useita.",
-          "date": "2025-12-26T15:21:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714832.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nigeria antoi Yhdysvalloille tiedustelutietoa jihadisteista ennen iskua",
-          "content": "",
-          "date": "2025-12-26T10:01:02.000Z",
-          "categories": [
-            "turvallisuus",
-            "nigeria",
-            "yhdysvallat",
-            "terrorismi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201501?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump kertoi USA:n tehneen useita iskuja Isis-terroristeja vastaan Nigeriassa",
-          "content": "Nigerian mukaan USA:n tekemät ilmaiskut osuivat ”terroristikohteisiin” . Maa ilmoitti myös jatkavansa turvallisuusyhteistyötä USA:n kanssa.",
-          "date": "2025-12-25T23:29:31.000Z",
-          "categories": [
-            "konfliktit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201481?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lauantaina myrsky ja ankara kylmyys",
-      "mainCategories": [
-        "Kotimaa"
+        "Kotimaa",
+        "Sääennusteet",
+        "Myrskyt"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -931,6 +480,22 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011715270.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Myrskytuuli puhaltaa Lounais-Suomessa viikonloppuna, tuulituhot mahdollisia",
+          "content": "",
+          "date": "2025-12-26T09:12:57.000Z",
+          "categories": [
+            "sääennusteet",
+            "myrskyt",
+            "tuulet",
+            "uutiset",
+            "paikalliset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6860323"
         },
         {
           "publisherId": "is",
@@ -981,118 +546,9 @@
       ]
     },
     {
-      "mainTitle": "Pate Mustajärvi on kuollut 69-vuotiaana",
+      "mainTitle": "Pudasjärvellä kadonnut nainen löytyi",
       "mainCategories": [
-        "Kuolleet",
-        "Kulttuuri",
-        "Musiikki"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pate Mustajärven poismeno herkisti tamperelaiset – ”Kuolinviesti vei jalat alta” ",
-          "content": "Mustajärveä pidetään monin tavoin tamperelaisuuden ilmentymänä.",
-          "date": "2025-12-26T17:11:27.000Z",
-          "categories": [
-            "kuolleet",
-            "pate mustajärvi",
-            "popeda",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20201530?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Pate Mustajärven kuolema riipaisi turkulaismuusikoita: \"Hän oli harvinainen hardrock-kukko\"",
-          "content": "",
-          "date": "2025-12-26T16:11:28.000Z",
-          "categories": [
-            "musiikki",
-            "kuolleet",
-            "turku",
-            "paikalliset",
-            "kulttuuri"
-          ],
-          "link": "https://www.ts.fi/kulttuuri/6860448"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pate Mustajärven rautaisuus paljastui ennen kaikkea yleisön edessä, sanoo musiikki­toimittaja Pekka Laine",
-          "content": "Vaikka Popedan ja Mustajärven soolouraan sisältyi paljon radiohittejä, suuren suosion salaisuus löytyi tien päältä, sanoo Ylen musiikkitoimittaja Pekka Laine.",
-          "date": "2025-12-26T14:25:21.000Z",
-          "categories": [
-            "kuolleet",
-            "pate mustajärvi",
-            "musiikki",
-            "manserock",
-            "kulttuuri",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201515?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin Yle muistaa Pate Mustajärveä radiossa ja televisiossa",
-          "content": "Rock-yhtye Popedan entinen laulaja Pate Mustajärvi kuoli tapaninpäivänä lyhyen sairauden murtamana.",
-          "date": "2025-12-26T13:51:38.000Z",
-          "categories": [
-            "musiikki",
-            "pate mustajärvi",
-            "popeda",
-            "suomirock",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201518?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin tunnetut suomalaiset muistelevat Pate Mustajärveä: Manserockin musta joulu",
-          "content": "Pate Mustajärven virallisen Instagram-tilin kuolinuutinen on kerännyt valtavan määrän osanottoja.",
-          "date": "2025-12-26T13:48:39.000Z",
-          "categories": [
-            "kuolleet",
-            "pate mustajärvi",
-            "tampere",
-            "muusikot",
-            "kulttuuri",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20201514?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suomirockin ikoni Pate Mustajärvi on kuollut 69-vuotiaana",
-          "content": "",
-          "date": "2025-12-26T12:47:21.000Z",
-          "categories": [
-            "kuolleet",
-            "musiikki",
-            "kulttuuri"
-          ],
-          "link": "https://www.ts.fi/kulttuuri/6860386"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pudasjärvellä kadonnut nainen löytyi hyvävoimaisena",
-      "mainCategories": [
-        "Poliisi",
-        "Pudasjärvi",
-        "Pelastuspalvelu"
+        "Suomi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1119,250 +575,6 @@
             "oulun seutu"
           ],
           "link": "https://www.is.fi/oulun-seutu/art-2000011715224.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pudasjärvellä kateissa ollut nainen on löytynyt",
-          "content": "Nainen katosi perjantaina puolenpäivän aikaan Pudasjärven Panuman alueella.",
-          "date": "2025-12-26T13:50:21.000Z",
-          "categories": [
-            "poliisi",
-            "pudasjärvi",
-            "pelastuspalvelu",
-            "kadonneet henkilöt",
-            "kotimaa",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20201516?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Puukotuksia tehtaassa Japanissa, 14 loukkaantui",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Japani",
-        "Väkivaltarikokset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Japani | Useita ihmisiä puukotettu tehtaassa Japanissa",
-          "content": "Viranomaisten mukaan puukotusten yhteydessä olisi myös suihkutettu jonkinlaista tuntematonta nestettä. Ainakin 14 ihmistä loukkaantui.",
-          "date": "2025-12-26T15:29:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011714987.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Japanissa puukotettiin 14:ää ihmistä",
-          "content": "",
-          "date": "2025-12-26T11:03:54.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "japani",
-            "väkivaltarikokset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201503?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Joulun tunnelmia eri puolilta maailmaa",
-      "mainCategories": [
-        "Juhlat",
-        "Joulu",
-        "Jouluperinteet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Katso kuvat joulun vietosta eri puolilla maailmaa",
-          "content": "Juhlakauden valot ja värit hehkuvat joulun tunnelmaa hiekkarannoilta viileisiin talvivesiin.   ",
-          "date": "2025-12-26T11:31:12.000Z",
-          "categories": [
-            "juhlat",
-            "joulu",
-            "jouluperinteet",
-            "joulupukki",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201475?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kuvakooste | Lukijoiden kuvat näyttävät: Tällaista on töissä jouluna",
-          "content": "Joulutunnelmaan voi päästä myös työn touhussa. HS:n kuvakooste välittää tunnelmia työpaikoilta.",
-          "date": "2025-12-25T18:18:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011714442.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tapaninpäivän perinteet ja merkitys",
-      "mainCategories": [
-        "Kotimaa",
-        "Juhlat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tiedätkö, miksi tapaninpäivää vietetään?",
-          "content": "Tapaninpäivän perinteet elävät, mutta muuntuvat ajan mukana.",
-          "date": "2025-12-26T10:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011715004.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tänään vietetään tapaninpäivää",
-          "content": "",
-          "date": "2025-12-25T23:59:52.000Z",
-          "categories": [
-            "juhlat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201482?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Porin K-Marketin tulipalo ja epäilty tuhotyö",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Tulipalot",
-        "Pori"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Porissa palaneesta kaupasta ei jäänyt juuri mitään jäljelle, kertoo kauppias",
-          "content": "Yhtä henkilöä epäillään törkeästä tuhotyöstä.",
-          "date": "2025-12-26T10:08:48.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "tulipalot",
-            "pori",
-            "kotimaa",
-            "satakunta"
-          ],
-          "link": "https://yle.fi/a/74-20201496?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pori | ”Nyt selvitetään, miten tästä eteenpäin”, kommentoi kauppias K-Marketin tulipaloa",
-          "content": "Varhain jouluaamuna syttynyt tulipalo levisi kaupan kattorakenteista muuhun rakennukseen. Poliisi on ottanut kiinni miehen, jota se epäilee törkeästä tuhotyöstä.",
-          "date": "2025-12-25T12:01:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011714361.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Myrskytuuli ja kylmä sää viikonloppuna",
-      "mainCategories": [
-        "Sääennusteet",
-        "Sää",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Myrskytuuli puhaltaa Lounais-Suomessa viikonloppuna, tuulituhot mahdollisia",
-          "content": "",
-          "date": "2025-12-26T09:12:57.000Z",
-          "categories": [
-            "sääennusteet",
-            "myrskyt",
-            "tuulet",
-            "uutiset",
-            "paikalliset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6860323"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Leuto sää muuttuu talvi­seksi koko maassa – lauan­taina tuuli yltyy myrsky­lukemiin ",
-          "content": "Viikon­loppu on tuulinen, samalla sää kylmenee reippaasti.",
-          "date": "2025-12-25T12:49:45.000Z",
-          "categories": [
-            "sää",
-            "sääennusteet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201467?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Jouluruoat eivät sovi lemmikeille",
-      "mainCategories": [
-        "Kotimaa",
-        "Eläimet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Vieläkö kinkkua on syömättä? Älä anna lemmikille",
-          "content": "Joulunajan ruoantähteet eivät kuulu kissan tai koiran ruokakuppiin.",
-          "date": "2025-12-26T05:57:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011714852.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vieläkö kinkkua on syömättä? Älä anna sitä lemmikille",
-          "content": "Joulunajan ruoantähteet eivät kuulu kissan tai koiran ruokakuppiin. Myös koristeissa ja kukissa voi piillä vaara.",
-          "date": "2025-12-26T02:44:40.000Z",
-          "categories": [
-            "eläimet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20201484?origin=rss"
         }
       ]
     },
@@ -1401,7 +613,7 @@
       ]
     },
     {
-      "mainTitle": "Islannissa jouluaattona lähes 20 astetta",
+      "mainTitle": "Islannissa jouluaattona lämpöennätys lähes 20 astetta",
       "mainCategories": [
         "Maailma"
       ],
@@ -1471,7 +683,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/zelensky/1.jpeg",
+      "imageUrl": "/images/zelensky/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
