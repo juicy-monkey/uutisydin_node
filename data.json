@@ -1,17 +1,45 @@
 {
-  "timestamp": "2025-12-30T15:18:33.120Z",
+  "timestamp": "2025-12-30T15:43:14.640Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Saksassa suuri pankkiryöstö 30 miljoonaa euroa",
+      "mainTitle": "Saksassa suuri pankkimurto, saalis 30 miljoonaa euroa",
       "mainCategories": [
-        "Talous",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Rikokset",
+        "Saksa"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/saksa/2.jpg",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Varkaat murtautuivat pankkiin Saksassa, poliisin mukaan veivät 30 miljoonaa euroa",
+          "content": "Poliisin mukaan varkaat murtautuivat yli 3 000 tallelokeroon, joissa oli rahaa, kultaa ja koruja.",
+          "date": "2025-12-30T15:35:26.000Z",
+          "categories": [
+            "rikokset",
+            "saksa",
+            "pankkiryöstöt (ryöstö)",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201971?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suuri pankki­murto Saksassa – saalis kymmeniä miljoonia",
+          "content": "Varkaat porasivat seinään reiän ja veivät mukanaan suuren määrän käteistä rahaa.",
+          "date": "2025-12-30T15:32:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011722344.html"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -23,18 +51,87 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011722271.html"
-        },
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukraina kiistää hyökkäyksen Putinin huvilalle",
+      "mainCategories": [
+        "Venäjä",
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/venäjä/5.jpg",
+      "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Suuri pankki­ryöstö Saksassa – saalis kymmeniä miljoonia",
-          "content": "Varkaat porasivat seinään reiän ja veivät mukanaan suuren määrän käteistä rahaa.",
-          "date": "2025-12-30T15:10:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yrittikö Ukraina iskeä Putinin virka-asuntoon? Asiantuntija suhtautuu Venäjän väitteisiin epäillen",
+          "content": "Venäjä on uhannut Ukrainaa kostoiskuilla ja neuvottelu­tavoitteiden muutoksella. Ukraina sanoo Venäjän keksineen tekosyyn neuvottelujen horjutt­amiselle.",
+          "date": "2025-12-30T15:27:44.000Z",
           "categories": [
+            "venäjän hyökkäys",
+            "ukraina",
+            "ukrainan asevoimat",
+            "droonit",
+            "vladimir putin",
+            "venäjä",
+            "virka-asunnot",
+            "novgorodin alue",
+            "valdai",
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011722344.html"
+          "link": "https://yle.fi/a/74-20201964?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Väite huvilaiskusta on täysin Venäjän sanojen varassa",
+          "content": "Ukrainan ulkoministerin mukaan väitteet Ukrainan tekemästä iskusta Putinin huvilalle vahingoittavat rauhanneuvotteluita.",
+          "date": "2025-12-30T10:43:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011720065.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "ISW: Mikään ei viittaa Ukrainan yrittäneen iskua Putinin huvilaa vastaan",
+          "content": "Ukrainan aiemmista iskuista Venäjälle on pian julkaistu kuvia avoimissa lähteissä, mutta nyt sellaisista ei ole ISW:n mukaan mitään havaintoa.",
+          "date": "2025-12-30T08:28:25.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "venäjä",
+            "vladimir putin",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20201882?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Trump arvosteli väitettyä iskua Putinin huvilalle, Ukrainan mukaan Venäjä valehtelee",
+          "content": "Venäjä väittää, että Ukraina teki drooni-iskun Vladimir Putinin huvilalle Valda-järvellä. Ukrainan mukaan Venäjä valehtelee ja yrittää keksiä perusteluja jatkaa sotaa.",
+          "date": "2025-12-29T19:21:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011719078.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Venäjä syyttää Ukrainan yrittäneen hyökätä Putinin huvilalle – Zelenskyin mukaan kyseessä on vale",
+          "content": "Yhdysvaltain presidentti Donald Trump ja Venäjän presidentti Vladimir Putin keskustelivat maanantaina puhelimessa. Valkoisen talon mukaan puhelu käytiin positiivisessa hengessä.",
+          "date": "2025-12-29T17:34:10.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/venaja-syyttaa-ukrainan-yrittaneen-hyokata-putinin/12471032?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -45,7 +142,7 @@
         "Rauma",
         "Jäänmurtajat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -245,7 +342,7 @@
       ]
     },
     {
-      "mainTitle": "Kiina harjoittelee Taiwanin saartoa merellä",
+      "mainTitle": "Kiina harjoittelee Taiwanin saartoa sotaharjoituksissa",
       "mainCategories": [
         "Ulkomaat",
         "Kiina",
@@ -309,29 +406,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20201860?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Trump vaatii Taiwania panostamaan puolustukseen – ja se sai Kiinan suuttumaan",
-          "content": "Kiina on aloittanut sota­harjoitukset Taiwanin lähellä. Taiwan on myös Yhdysvaltain tuoreen strategian keskiössä, ulkomaan­toimittaja Esko Varho kirjoittaa.",
-          "date": "2025-12-29T16:33:32.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "kiina",
-            "aasia",
-            "yhdysvallat",
-            "taiwan",
-            "sotaharjoitukset",
-            "japani",
-            "etelä-kiinan meri",
-            "taiwanin politiikka",
-            "asekauppa",
-            "ulkomaat",
-            "analyysit (yle uutiset)"
-          ],
-          "link": "https://yle.fi/a/74-20201701?origin=rss"
         },
         {
           "publisherId": "is",
@@ -434,13 +508,13 @@
       ]
     },
     {
-      "mainTitle": "Ano Turtiainen saa pakolaisstatuksen Venäjältä",
+      "mainTitle": "Ano Turtiainen haluaa taistella Ukrainassa",
       "mainCategories": [
         "Politiikka",
         "Ulkomaat",
         "Kotimaa"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -538,7 +612,7 @@
         "Sotilaat",
         "Venäjä"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -611,7 +685,7 @@
       ]
     },
     {
-      "mainTitle": "Hannes-myrsky aiheutti laajoja tuhoja Suomessa",
+      "mainTitle": "Hannes-myrsky aiheutti laajaa tuhoa Suomessa",
       "mainCategories": [
         "Kotimaa",
         "Myrskyt",
@@ -761,68 +835,6 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan ja Venäjän välinen konfliktitilanne jatkuu",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/1.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Intian pääministeri ilmaisi tukensa Putinille",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
-          "date": "2025-12-30T13:22:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011703520.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Väite huvilaiskusta on täysin Venäjän sanojen varassa",
-          "content": "Ukrainan ulkoministerin mukaan väitteet Ukrainan tekemästä iskusta Putinin huvilalle vahingoittavat rauhanneuvotteluita.",
-          "date": "2025-12-30T10:43:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011720065.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "ISW: Mikään ei viittaa Ukrainan yrittäneen iskua Putinin huvilaa vastaan",
-          "content": "Ukrainan aiemmista iskuista Venäjälle on pian julkaistu kuvia avoimissa lähteissä, mutta nyt sellaisista ei ole ISW:n mukaan mitään havaintoa.",
-          "date": "2025-12-30T08:28:25.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "vladimir putin",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201882?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäys | Trump arvosteli väitettyä iskua Putinin huvilalle, Ukrainan mukaan Venäjä valehtelee",
-          "content": "Venäjä väittää, että Ukraina teki drooni-iskun Vladimir Putinin huvilalle Valda-järvellä. Ukrainan mukaan Venäjä valehtelee ja yrittää keksiä perusteluja jatkaa sotaa.",
-          "date": "2025-12-29T19:21:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011719078.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Suden metsästys alkaa ensi vuonna",
       "mainCategories": [
         "Eläimet",
@@ -874,7 +886,7 @@
         "Politiikka",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -915,7 +927,7 @@
       ]
     },
     {
-      "mainTitle": "Presidentti palkitsi sankarit puukotustilanteesta",
+      "mainTitle": "Presidentti palkitsi puukotustilanteen sankarit",
       "mainCategories": [
         "Kotimaa",
         "Palkinnot",
@@ -967,7 +979,7 @@
       ]
     },
     {
-      "mainTitle": "Länsirata-sopimuksesta tehty ensimmäinen valitus",
+      "mainTitle": "Länsiradasta tehty ensimmäinen valitus",
       "mainCategories": [
         "Länsirata",
         "Lohja",
@@ -1203,46 +1215,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011719186.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ihmisille vaarallinen ilves lopetettiin",
-      "mainCategories": [
-        "Eläimet",
-        "Poliisi",
-        "Ilves"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ihmiselle vaarallinen ilves lopetettiin Keuruulla – poliisi: erittäin harvinaista",
-          "content": "Kissapeto oli menettänyt ihmisarkuutensa ja vieraili toistuvasti ihmisten pihoissa.",
-          "date": "2025-12-30T10:35:29.000Z",
-          "categories": [
-            "eläimet",
-            "poliisi",
-            "ilves",
-            "keski-suomi",
-            "turvallisuus",
-            "keuruu"
-          ],
-          "link": "https://yle.fi/a/74-20201904?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ilvekseltä poikkeuk­sellista käytöstä – Poliisi ryhtyi koviin toimiin",
-          "content": "Poliisi määräsi ilveksen lopetettavaksi. Ihmisille vaaraa aiheuttanut ilves lopetettiin maanantaina Keuruulla, tiedottaa poliisi. Poliisin mukaan ilveksestä tuli tieto tapaninpäivänä hälytystehtävän yhteydessä. Havaintojen mukaan ilves oli esimerkiksi lähestynyt ulkoilevia ihmisiä ja yrittänyt hyökätä heidän koiriensa kimppuun.",
-          "date": "2025-12-30T10:28:35.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/090e8dc6-8fd9-45a2-afb6-bd4a59df3104"
         }
       ]
     },
@@ -1502,7 +1474,7 @@
       ]
     },
     {
-      "mainTitle": "Sydneyn terrori-iskussa sankari riisti aseen",
+      "mainTitle": "Sydneyn terrori-iskussa aseen riistäminen onnistui",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1536,11 +1508,11 @@
       ]
     },
     {
-      "mainTitle": "Zelenskyi: Ukraina tarvitsee Yhdysvaltojen tukea",
+      "mainTitle": "Zelenskyi: Ukraina tarvitsee Yhdysvaltoja voittoon",
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/zelensky/3.jpg",
+      "imageUrl": "/images/zelensky/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1554,16 +1526,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20201832?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Venäjä syyttää Ukrainan yrittäneen hyökätä Putinin huvilalle – Zelenskyin mukaan kyseessä on vale",
-          "content": "Yhdysvaltain presidentti Donald Trump ja Venäjän presidentti Vladimir Putin keskustelivat maanantaina puhelimessa. Valkoisen talon mukaan puhelu käytiin positiivisessa hengessä.",
-          "date": "2025-12-29T17:34:10.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/venaja-syyttaa-ukrainan-yrittaneen-hyokata-putinin/12471032?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -1616,7 +1578,7 @@
       ]
     },
     {
-      "mainTitle": "Kaksi helikopteria törmäsi New Jerseyssä",
+      "mainTitle": "New Jerseyn helikopteriturmassa yksi kuollut",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
@@ -1662,7 +1624,7 @@
       ]
     },
     {
-      "mainTitle": "Lapin lentokentillä kaaos Hannes-myrskyn vuoksi",
+      "mainTitle": "Lapin lentokaaos Hannes-myrskyn vuoksi",
       "mainCategories": [
         "Matkailu",
         "Finnair",
@@ -1713,7 +1675,7 @@
         "Rauhanneuvottelut",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1750,50 +1712,7 @@
       ]
     },
     {
-      "mainTitle": "Kosovon vaalivoittaja ei saa enemmistöä",
-      "mainCategories": [
-        "Kosovo",
-        "Vaalit",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kosovossa vaalivoittaja ehkä saamassa enemmistön",
-          "content": "Kosovossa poliittinen umpisolmu vaikutti aukeavan maanantaina ääntenlaskun lähestyessä loppuaan. ",
-          "date": "2025-12-29T17:14:44.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "kosovo",
-            "serbia",
-            "vaalit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201813?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kosovon poliittinen umpisolmu ei välttämättä aukea – vaalivoittaja ei näytä saavan enemmistöä",
-          "content": "",
-          "date": "2025-12-28T20:29:14.000Z",
-          "categories": [
-            "vaalit",
-            "kosovo",
-            "politiikka",
-            "vaalikyselyt",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20201658?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Asuntojen hinnat laskivat Vantaalla ja Turussa",
+      "mainTitle": "Asuntojen hinnat laskivat Turussa ja Vantaalla",
       "mainCategories": [
         "Talous",
         "Asuntokauppa",
@@ -2013,7 +1932,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
