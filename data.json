@@ -1,54 +1,130 @@
 {
-  "timestamp": "2026-01-02T14:44:26.971Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-01-02T15:19:12.571Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Sveitsin tulipalossa mahdollisesti suomalaisuhri",
+      "mainTitle": "Sveitsin ravintolapalo, mahdollinen suomalaisuhri",
       "mainCategories": [
+        "Maailma",
         "Ulkomaat",
-        "Onnettomuudet",
-        "Kotimaa"
+        "Räjähdys"
       ],
-      "imageUrl": "/images/ranska/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sveitsin turmapalon uhrien joukossa teini-ikäisiä",
-          "content": "Omaiset etsivät hätääntyneenä läheisiään Sveitsin tragedian jäljiltä. Kuolleiden tunnistamisessa voi kestää viikkoja.",
-          "date": "2026-01-02T14:32:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011726141.html"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Sveitsin ravintola­palo | Ulkoministeriö selvittää, loukkaantuiko tuli­palossa mahdollisesti suomalainen",
-          "content": "Vielä torstai-iltana ministeriön tiedossa ei ollut syytä epäillä, että suomalaisia olisi ollut mukana tulipalossa.",
-          "date": "2026-01-02T13:57:00.000Z",
+          "title": "Sveitsin ravintola­palo | Palo syttyi toden­näköisesti pullojen säde­suihkuista, uhrien tunnistaminen kesken",
+          "content": "Suomen ulkoministeriö selvittää, onko loukkaantuneiden joukossa myös suomalainen.",
+          "date": "2026-01-02T15:12:00.000Z",
           "categories": [
-            "suomi"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011726675.html"
+          "link": "https://www.hs.fi/maailma/art-2000011726675.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sveitsin tulipalossa on mahdollisesti loukkaantunut yksi suomalainen, ulkoministeriö kertoo",
-          "content": " Uhrien tunnistaminen on hidasta ja vaikeaa palovammojen takia.",
-          "date": "2026-01-02T13:36:04.000Z",
-          "categories": [
-            "onnettomuudet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202354?origin=rss"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Sveitsin hiihtokeskuspalossa loukkaantui mahdollisesti yksi suomalainen – useat loukkaantuneet ovat kriittisessä tilassa",
+          "content": "Uhrien tunnistaminen voi viedä jopa viikkoja. Sveitsissä järjestetään viisipäiväinen suruliputus kymmeniä ihmisiä surmanneen tulipalon vuoksi.",
+          "date": "2026-01-02T14:48:24.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/sveitsin-hiihtokeskuspalossa-loukkaantui-mahdollis/12475072?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "iltalehti",
@@ -75,31 +151,44 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011726594.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sveitsin hiihtokeskuksen palossa loukkaantuneita siirretään naapurimaihin hoitoon",
-          "content": "Ranskan ulkoministeriö kertoi lausunnossaan torstai-iltana, että kahdeksan ranskalaista oli kateissa tulipalon jälkeen.",
-          "date": "2026-01-01T21:37:40.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sveitsin ravintolapalo | Syyttäjä: Koko yökerho saattoi räjähtää tuleen lähes yhtä aikaa",
+          "content": "Palossa on kuollut noin 40 ihmistä ja loukkaantunut 115. Uhrien tunnistaminen voi viedä päiviä.",
+          "date": "2026-01-02T06:10:00.000Z",
           "categories": [
-            "onnettomuudet",
-            "ranska",
-            "sveitsi",
-            "tulipalot",
-            "ulkomaat"
+            "maailma"
           ],
-          "link": "https://yle.fi/a/74-20202221?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000011724721.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "IS: Sveitsiläisen hiihtokeskuksen baaripalossa mahdollisesti suomalaisuhri",
+          "content": "",
+          "date": "2026-01-01T07:45:50.000Z",
+          "categories": [
+            "räjähdys",
+            "kuolleet",
+            "onnettomuudet",
+            "maailma",
+            "uutiset",
+            "paikalliset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6863907"
         }
       ]
     },
     {
-      "mainTitle": "Fitburg-aluksen miehistön kuulustelut jatkuvat",
+      "mainTitle": "Fitburgin miehistön kuulustelut jatkuvat kaapelirikossa",
       "mainCategories": [
+        "Suomi",
         "Kotimaa",
-        "Rikosepäilyt",
-        "Poliisi"
+        "Maailma"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -112,24 +201,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011724998.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Poliisi on kuulustellut Fitburg-aluksen miehistön jäseniä",
-          "content": "",
-          "date": "2026-01-02T12:58:56.000Z",
-          "categories": [
-            "tietoliikenne",
-            "poliisi",
-            "krp",
-            "vesistöt",
-            "merirahtiliikenne",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6864779"
         },
         {
           "publisherId": "iltalehti",
@@ -147,63 +218,13 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Uusia kuvia Fitburg-tutkinnasta julki – poliisi kertoi miehistön kuulusteluista",
+          "title": "Poliisilta uutta tietoa Fitburg-aluksesta",
           "content": "Fitburg-alusta epäillään tietoliikennekaapelin vaurioittamisesta.",
           "date": "2026-01-02T12:42:00.000Z",
           "categories": [
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011726396.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi kuulustellut kaapelirikosta epäillyn Fitburgin miehistöä: ”Kaikilla sellainen rooli tai asema aluksella, joka kytkeytyy vaurioihin”",
-          "content": "Kuulustelut ovat selkeyttäneet tapahtumien kulkua, poliisi kertoo.",
-          "date": "2026-01-02T12:41:12.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "poliisi",
-            "epäillyt",
-            "keskusrikospoliisi (krp)",
-            "vahingonteko",
-            "kaapelivaurio",
-            "fitburg",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202336?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Rajavartiolaitoksen helikopteri teki terävän huomion, kohta viranomaiset ottivat aluksen haltuun – tämä kaikki Fitburgin tapauksesta tiedetään",
-          "content": "Kaapelirikko johti viranomaisten näyttävään operaatioon.",
-          "date": "2026-01-02T09:16:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011724461.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Puolustusministeri IL:lle: Venäjä tarjonnut apua Fitburg-aluksen miehistölle",
-          "content": "Poliisin mukaan aluksen miehistöön kuuluu myös Venäjän kansalaisia.",
-          "date": "2026-01-01T17:12:18.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "venäjä",
-            "antti häkkänen",
-            "hybridivaikuttaminen",
-            "merikaapelit",
-            "merikaapeli",
-            "politiikka",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202214?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -218,38 +239,25 @@
           "link": "https://www.hs.fi/suomi/art-2000011723776.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin KRP kommentoi kaapelirikkoa",
-          "content": "Keskusrikospoliisi on jututtanut miehistöä.",
-          "date": "2026-01-01T08:56:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kaapeli­rikko Suomen­lahdella | Fitburgin omistaa varustamo, jonka omistajan nimi on noussut esille aiemmissa tieto­vuodoissa",
+          "content": "Varustamon pääomistaja on merkittävä hahmo Turkin ja Venäjän välisessä meriliikenteessä.",
+          "date": "2025-12-31T17:14:00.000Z",
           "categories": [
-            "kotimaa"
+            "maailma"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011723932.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliiseilta voimakas reaktio kaapelirikosta epäillyn aluksen lähistöllä",
-          "content": "Fitburg-alus oli keskiviikkona illalla ankkuroituna Kantvikin satamassa Kirkkonummen edustalla.",
-          "date": "2025-12-31T19:24:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011723576.html"
+          "link": "https://www.hs.fi/maailma/art-2000011723358.html"
         }
       ]
     },
     {
-      "mainTitle": "Stubb osallistuu Ukrainan rauhanneuvotteluihin",
+      "mainTitle": "Stubbin osallistuminen Ukrainan rauhanneuvotteluihin",
       "mainCategories": [
-        "Ulkomaat",
         "Politiikka"
       ],
-      "imageUrl": "/images/stubb/4.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -274,136 +282,16 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011726838.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Stubb osallistuu Ukraina-kokoukseen Pariisissa",
-          "content": "",
-          "date": "2026-01-02T14:06:10.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202361?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubbin uuden­vuodenpuhe nousi otsikoihin Venäjällä",
-          "content": "Venäläismedia jätti kertomatta Stubbin tuomion Venäjän toimista Ukrainassa.",
-          "date": "2026-01-02T03:50:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011724669.html"
         }
       ]
     },
     {
-      "mainTitle": "Fitburg-alus aiheutti kaapelivaurion Suomessa",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Viranomaiset"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Virolaisten mukaan Fitburgin haltuunotto lankesi Suomen tehtäväksi käytännön syistä",
-          "content": "Vaikka kaapelivaurio tapahtui Viron talous­vyöhykkeellä, aiheuttajaksi epäilty laiva ehti siirtyä Suomen talous­vyöhykkeelle.",
-          "date": "2026-01-02T14:11:17.000Z",
-          "categories": [
-            "viro",
-            "viranomaiset",
-            "rikosepäilyt",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202364?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Virolaisten mukaan Fitburgin haltuunotto lankesi Suomen tehtäväksi käytännön syistä – kaksi miehistön jäsentä yhä pidätettyinä",
-          "content": "Vaikka kaapelivaurio tapahtui Viron talousvyöhykkeellä, aiheuttajaksi epäilty laiva ehti siirtyä Suomen talousvyöhykkeelle.",
-          "date": "2026-01-02T13:39:43.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/virolaisten-mukaan-fitburgin-haltuunotto-lankesi-s/12474953?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Virolaismediat: Viro ei pystynyt pysäyttämään Fitburgia",
-          "content": "Sääolosuhteet olivat Viron laivaston komentajan mukaan melko vaikeat operaation aikaan.",
-          "date": "2026-01-02T12:07:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011725997.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Fitburg-aluksessa on kiellettyä terästä Venäjältä – Tullilla vielä paljon avoimia kysymyksiä",
-          "content": "Kaapelirikosta epäilty Fitburg-alus on lastattu rakenne­teräksellä, joka on EU:n pakotteiden alainen.",
-          "date": "2026-01-02T11:07:30.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "venäjän pakotteet",
-            "tulli",
-            "kansainväliset pakotteet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202302?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tulli: Fitburg-aluksen lastina pakotteiden alaisia terästuotteita",
-          "content": "Suomen viranomaiset ottivat haltuunsa keskiviikkona aluksen epäiltynä kaapelirikosta Suomenlahdella.",
-          "date": "2026-01-01T09:52:32.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "suomenlahti",
-            "rajavalvonta",
-            "viranomaiset",
-            "rahtiliikenne",
-            "suomen tulli",
-            "talous",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202168?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Kirkkonummella | HS seurasi, kun kaapeli­rikosta epäilty Fitburg saapui satamaan aseistautuneiden viran­omaisten valvonnassa",
-          "content": "Suomen ja Viron välillä kulkevassa Elisan tietoliikennekaapelissa havaittiin kello 4.53 häiriö. Alkoi viranomaisten suuroperaatio. HS oli paikalla, kun alus lipui noin kello 17 satamaan Kirkkonummella.",
-          "date": "2025-12-31T16:23:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011723427.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sveitsin yökerhotuli aiheutti tuhoisan lieskahdus",
+      "mainTitle": "Sveitsin yökerhotulipalo vaati kymmeniä uhreja",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/ravintola/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -452,332 +340,61 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011724713.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sveitsin yökerhopalo vaati 47 uhria",
-      "mainCategories": [
-        "Ulkomaat",
-        "Onnettomuudet",
-        "Sveitsi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Uhrit olivat meidän ikäisiä” – Yle tapasi Sveitsin paloturman kokeneet kaverukset",
-          "content": "Ihmiset surevat baaripalon kymmeniä uhreja sveitsiläisessä alppikylässä, raportoi Ylen ulkomaan­toimittaja Hanna Visala.",
-          "date": "2026-01-02T13:59:15.000Z",
-          "categories": [
-            "onnettomuudet",
-            "sveitsi",
-            "tulipalot",
-            "kuolema, hengenvaara ja loukkaantuminen",
-            "loukkaantumiset tulipalossa",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202341?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kuvat näyttävät Sveitsin yökerhopalon lohduttomat tuhot",
-          "content": "Tulipalossa kuoli ainakin 47 ihmistä ja loukkaantuneita on jopa 115.",
-          "date": "2026-01-02T12:06:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011725046.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sädesuihku­kynttilät räiskyvät kohti kattoa – Yle vertaili tuhobaariin liitettyjä kuvalähteitä",
-          "content": "Moni silminnäkijä kertoo sveitsiläis­baarin katon syttyneen tuleen. Lukuisten uhrien tunnistaminen on hidasta.",
-          "date": "2026-01-02T10:48:17.000Z",
-          "categories": [
-            "onnettomuudet",
-            "sveitsi",
-            "tulipalot",
-            "kuolema, hengenvaara ja loukkaantuminen",
-            "loukkaantumiset tulipalossa",
-            "silminnäkijät",
-            "kuolema",
-            "yle uutiset somenostot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202288?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämä Sveitsin yökerho­palon uhreista tiedetään",
-          "content": "Tuhoisa tulipalo on vaatinut ainakin 47 ihmisen hengen. Loukkaantuneita on ainakin 115.",
-          "date": "2026-01-02T08:30:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011724887.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sveitsissä yritetään tunnistaa uudenvuoden räjähdysmäisen palon uhreja",
-          "content": "",
-          "date": "2026-01-02T04:34:53.000Z",
-          "categories": [
-            "onnettomuudet",
-            "sveitsi",
-            "tulipalot",
-            "suruliputus",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202230?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hirvittävä tulipalo sveitsiläisessä yökerhossa: näin tapahtumat etenivät",
-          "content": "Kuolleita on jo 47 ja loukkaantuneita 115. Uhrien joukossa on paljon nuoria ja ulkomaalaisia.",
-          "date": "2026-01-01T19:53:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011724563.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sveitsin presidentti: uudenvuodenyön tulipalo on Sveitsin kaikkien aikojen pahimpia tragedioita ",
-          "content": "Monet tulipalon uhreista olivat nuoria. ",
-          "date": "2026-01-01T16:58:31.000Z",
-          "categories": [
-            "onnettomuudet",
-            "sveitsi",
-            "tulipalot",
-            "sveitsin alpit",
-            "uusivuosi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202212?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Crans-Montanan johtaja saavuttuaan palopaikalle: Täysi järkytys, ihmiset kirkuivat ja itkivät paniikissa",
-          "content": "Silminnäkijöiden mukaan baarissa oli noin 200 nuorta. Osa heistä myös alaikäisiä.",
-          "date": "2026-01-01T13:01:24.000Z",
-          "categories": [
-            "onnettomuudet",
-            "tulipalot",
-            "sveitsi",
-            "hiihtokeskukset",
-            "pelastustoiminta",
-            "palomiehet",
-            "poliisi",
-            "kuolema, hengenvaara ja loukkaantuminen",
-            "ambulanssit",
-            "sairaalat ja terveyskeskukset",
-            "televisio (joukkoviestimet)",
-            "paikallislehdet",
-            "pelastushenkilöstö",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202195?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "IS: Sveitsiläisen hiihtokeskuksen baaripalossa mahdollinen suomalaisuhri",
-          "content": "",
-          "date": "2026-01-01T07:45:50.000Z",
-          "categories": [
-            "räjähdys",
-            "kuolleet",
-            "onnettomuudet",
-            "maailma",
-            "uutiset",
-            "paikalliset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6863907"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäläisten vakoojien määrä kasvaa Norjassa",
-      "mainCategories": [
-        "Venäjä",
-        "Norja",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "SVT: Venäläisiä vakoojia on yhä enemmän Norjan ja Venäjän rajalla – Norjan puolustusvoimat lisää läsnäoloaan alueella",
-          "content": "Vakoojia on ollut muun muassa Venäjältä Kirkkoniemeen tulleissa kalastusaluksissa, kertoo Pohjois-Norjassa sijaitsevan Finnmarkin prikaatin komentaja SVT:lle.",
-          "date": "2026-01-02T13:44:22.000Z",
-          "categories": [
-            "turvallisuus",
-            "venäjä",
-            "puolustusvoimat",
-            "ruotsi",
-            "nato",
-            "norja",
-            "pohjois-norja",
-            "vakoilu",
-            "maanpuolustus",
-            "finnmarkin lääni",
-            "hybridiuhka",
-            "lappi",
-            "kotimaa",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202327?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Nyt jos koskaan täällä pitää olla” – Venäjällä on enää kourallinen kirjeenvaihtajia",
-          "content": "Länsimaiset mediat ovat yksi toisensa perään jättäneet Venäjän. Yle on yksi harvoista yleisradioyhtiöistä, joilla vielä on toimisto Moskovassa.",
-          "date": "2026-01-02T04:30:35.000Z",
-          "categories": [
-            "venäjä",
-            "venäjän hyökkäys",
-            "toimittajat",
-            "uutistoimittaja",
-            "ulkomaantoimittajat",
-            "suomen nato-jäsenhakemus",
-            "suomen nato-jäsenyys",
-            "norja",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20198452?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suden metsästys alkoi Suomessa 2026",
-      "mainCategories": [
-        "Metsästys",
-        "Kotimaa",
-        "Sudet"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisilta muistutus susi­jahtiin lähtijöille",
-          "content": "Poliisi valvoo suden metsästystä koko metsästyskauden ajan.",
-          "date": "2026-01-02T13:41:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011726210.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kansanedustaja lähtee heti susijahtiin – Suorat sanat vastustajille",
-          "content": "Perussuomalaisten kansanedustaja Petri Hurun mielestä susijahdin vastustajat levittävät aiheesta perätöntä tietoa.  Vuodenvaihteessa voimaan tullut metsästyslain muutos on mahdollistanut susien kannanhoidollisen metsästyksen, ja perjantaina puolenpäivän aikaan jo 17 sutta oli kaadettu ympäri Suomea. Lisää ammuttuja susia on tiedossa, kun jahdit eri puolilla Suomea jatkuvat. Porilainen kansanedustaja, pitkän linjan metsästäjä Petri Huru (ps) kertoo lähtevänsä susijahtiin tänään tai viimeistään huomenna lauantaina.",
-          "date": "2026-01-02T12:55:10.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/8d2d3d9a-d987-4e5c-8ddd-a975881fa201"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Varsinais-Suomessa kaadettiin kahden päivän aikana yhdeksän sutta",
-          "content": "",
-          "date": "2026-01-02T11:03:53.000Z",
-          "categories": [
-            "metsästys",
-            "metsästyslaki",
-            "sudet",
-            "suurpedot",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6864444"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suden metsästäminen nyt sallittua: Varsinais-Suomessa ammuttu jo kolme sutta",
-          "content": "",
-          "date": "2026-01-01T19:08:41.000Z",
-          "categories": [
-            "sudet",
-            "metsästys",
-            "suurpedot",
-            "ympäristö",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6864212"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Metsästys | Ainakin 12 sutta metsästettiin heti ensimmäisenä päivänä",
-          "content": "Tämän vuoden kiintiö on sata sutta.",
-          "date": "2026-01-01T17:45:00.000Z",
+          "title": "Tämä tiedetään nyt | Noin 40 kuoli ravintola­palossa: moni uhreista on nuori",
+          "content": "Tulipalo aiheutti räjähdyksen hiihtokeskuksessa sijaitsevassa ravintolassa Sveitsissä. Palon syttymissyy ei ole tiedossa.",
+          "date": "2026-01-01T17:21:00.000Z",
           "categories": [
-            "suomi"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011724434.html"
+          "link": "https://www.hs.fi/maailma/art-2000011723802.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Suden metsästys alkoi – hurja määrä ammuttiin heti",
-          "content": "Susien metsästyksen salliva laki astui voimaan vuoden alussa.",
-          "date": "2026-01-01T17:44:00.000Z",
+          "title": "Silminnäkijä: Näin Sveitsin tuhoisa tulipalo sai alkunsa",
+          "content": "Vakava turma tapahtui nuorten suosimassa baarissa laskettelukeskuksessa uudenvuodenjuhlien aikaan. Kymmenien arvioidaan kuolleen, loukkaantuneita on ainakin sata.",
+          "date": "2026-01-01T17:17:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011723804.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Fitburgin haltuunotto siirtyi Suomelle",
+      "mainCategories": [
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Virolaisten mukaan Fitburgin haltuunotto lankesi Suomen tehtäväksi käytännön syistä – kaksi miehistön jäsentä yhä pidätettyinä",
+          "content": "Vaikka kaapelivaurio tapahtui Viron talousvyöhykkeellä, aiheuttajaksi epäilty laiva ehti siirtyä Suomen talousvyöhykkeelle.",
+          "date": "2026-01-02T13:39:43.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/virolaisten-mukaan-fitburgin-haltuunotto-lankesi-s/12474953?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Virolaismediat: Viro ei pystynyt pysäyttämään Fitburgia",
+          "content": "Sääolosuhteet olivat Viron laivaston komentajan mukaan melko vaikeat operaation aikaan.",
+          "date": "2026-01-02T12:07:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011724337.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suden metsästäminen on nyt sallittua – heti ensimmäisenä päivänä kaadettiin 12 sutta",
-          "content": "Suden ympärivuotinen rauhoitus poistui vuodenvaihteessa. Riistapäällikkö vastaa kuuteen kysymykseen susijahdista",
-          "date": "2026-01-01T16:03:39.000Z",
-          "categories": [
-            "luonto",
-            "metsästys",
-            "susi",
-            "eläimet",
-            "metsästysseurat",
-            "kotimaa",
-            "varsinais-suomi"
-          ],
-          "link": "https://yle.fi/a/74-20202108?origin=rss"
+          "link": "https://www.is.fi/kotimaa/art-2000011725997.html"
         }
       ]
     },
@@ -835,201 +452,10 @@
       ]
     },
     {
-      "mainTitle": "Iranin mielenosoitukset kiihtyvät talouskriisin vuoksi",
-      "mainCategories": [
-        "Iran",
-        "Mielenosoitukset",
-        "Teheran"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Taas yksi Venäjän liittolaisista kriisin partaalla – jätti­mielenosoitukset enteilevät jopa vallankumousta",
-          "content": "Iranin talous romahti vuodessa kaikkien aikojen pohjalukemiin. Nyt iranilaiset vaativat tilanteeseen muutosta.",
-          "date": "2026-01-02T12:24:42.000Z",
-          "categories": [
-            "lähi-itä",
-            "iran",
-            "mielenosoitukset",
-            "teheran",
-            "kansalaistoiminta",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202030?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ainakin kuusi ihmistä kuollut Iranin mielenosoituksissa",
-          "content": "Mielenosoitukset saivat alkunsa huonosta taloustilantesta.",
-          "date": "2026-01-01T18:16:28.000Z",
-          "categories": [
-            "levottomuudet",
-            "iran",
-            "ulkomaat",
-            "mielenosoitukset",
-            "lähi-itä",
-            "teheran"
-          ],
-          "link": "https://yle.fi/a/74-20202216?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin mielenosoitukset | Videota poliiseja uhmaavasta mielenosoittajasta kutsutaan Iranin ”Tiananmen-hetkeksi”",
-          "content": "Viikonloppuna puhjenneet mielenosoitukset ovat levinneet nopeasti eri puolille Iranin islamilaista diktatuuria.",
-          "date": "2025-12-31T20:03:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011723544.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjän osuus kaapelirikkotapauksessa epäselvä",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Suomenlahti",
-        "Meriliikenne"
-      ],
-      "imageUrl": "/images/venäjä/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tiedustelun asiantuntija vuodenvaihteen kaapelirikosta: Varoitin ennen juhlapyhiä, että Venäjä voi tehdä näin",
-          "content": "Ylen haastattelemat asiantuntijat sanovat, että kaapelirikon viranomaistutkinta ei välttämättä saa koskaan selvitettyä tapahtuman todellista taustaa.",
-          "date": "2026-01-02T12:11:10.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "suomenlahti",
-            "meriliikenne",
-            "hybridivaikuttaminen",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20202304?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Onko syytä epäillä Venäjällä olevan osuutta kaapelirikkoon? Krp vastaa",
-          "content": "Keskusrikospoliisi on torstaina aloittanut Fitburg-aluksen miehistön kuulustelut.",
-          "date": "2026-01-01T18:45:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011724448.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS:n tiedot | Viran­omaisilla ei ole näyttöä Venäjän osallisuudesta kaapeli­vaurioon",
-          "content": "Poliisi ilmoitti torstaina pidättäneensä kaksi miehistön jäsentä ja asettaneensa kaksi matkustuskieltoon.",
-          "date": "2026-01-01T16:00:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011724325.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Toimittaja Mikko Tuomikoski on kuollut",
-      "mainCategories": [
-        "Kuolleet",
-        "Toimittajat",
-        "Paikallisradiot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lahtelainen pitkän linjan toimittaja Mikko Tuomikoski on kuollut",
-          "content": "Yle Lahdessa työskennellyt Tuomikoski oli kuollessaan 61-vuotias.",
-          "date": "2026-01-02T12:00:09.000Z",
-          "categories": [
-            "kuolleet",
-            "toimittajat",
-            "paikallisradiot",
-            "lahden radio",
-            "lahti",
-            "päijät-häme"
-          ],
-          "link": "https://yle.fi/a/74-20202131?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Päätoimittaja Aleksi Keränen, 33, kuoli tiistaina – Jani Halme muistelee tietovisa­kaveriaan",
-          "content": "Parikkalassa järjestetään suruhartaus paikallislehden päätoimittajan muistolle.",
-          "date": "2026-01-02T07:54:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011724573.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Juvalla tutkitaan ilotulituspalon tuhotyötä",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Tulipalot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi: ilotulitus­raketit sytyttivät omakotitalon tuhonneen palon Juvalla – tutkitaan tuhotyönä",
-          "content": "Poliisi tutkii Juvalla uudenvuodenyönä tapahtunutta tulipaloa törkeänä tuhotyönä.",
-          "date": "2026-01-02T11:43:56.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "tulipalot",
-            "juva",
-            "ilotulitukset",
-            "ilotulitusvälineet",
-            "ilotuliteonnettomuudet",
-            "etelä-savo",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202324?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ilotulitteet sytyttivät pizzerian liekkeihin – poliisi epäilee: Tuhotyö",
-          "content": "Tulipalo levisi rakennuksessa kiinni olleessa roskakatoksesta.",
-          "date": "2026-01-01T19:01:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011723733.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lagarde tienaa enemmän kuin Powell",
+      "mainTitle": "Euroopan keskuspankin pääjohtajan palkka paljastui",
       "mainCategories": [
         "Talous",
-        "Taloussanomat",
-        "Keskuspankit"
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1046,18 +472,6 @@
           "link": "https://www.is.fi/taloussanomat/art-2000011725370.html"
         },
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "FT: Christine Lagarde saa EKP:ltä palkkaa yli 50 prosenttia ilmoitettua enemmän – Powell jää tuloissa kauas taakse",
-          "content": "Financial Timesin laskelmien mukaan Euroopan keskuspankin pääjohtaja on Euroopan parhaiten palkattu viranhaltija ja saa selvästi parempaa korvausta kuin EKP peruspalkkana raportoi.",
-          "date": "2026-01-02T10:12:00.000Z",
-          "categories": [
-            "keskuspankit"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/5de51e9f-aace-43ae-a20f-b9b82123d13a"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1072,51 +486,11 @@
       ]
     },
     {
-      "mainTitle": "Oulu2026-kulttuurivuosi avattiin miljoonakatsojille",
+      "mainTitle": "Olkiluoto 2:n sähköntuotanto keskeytyi vian vuoksi",
       "mainCategories": [
-        "Juhlat",
-        "Oulu",
-        "Yle"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": " Oulun Vuosi vaihtuu -tapahtuma tavoitti Ylellä yli miljoona katsojaa",
-          "content": "Ouluhallista lähetetty uudenvuoden juhla avasi Oulun kulttuuripääkaupunkivuoden. ",
-          "date": "2026-01-02T11:03:50.000Z",
-          "categories": [
-            "juhlat",
-            "oulu",
-            "yle",
-            "euroopan kulttuuripääkaupunki",
-            "tapahtumat",
-            "uusivuosi",
-            "kotimaa",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20202313?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Tältä näyttää Oulu2026-kulttuurivuoden avaus – katso tunnelmia Ouluhallilta Vuosi vaihtuu -tapahtumasta",
-          "content": "Tältä näyttää Oulu2026-kulttuurivuoden avaus.",
-          "date": "2025-12-31T19:49:42.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/talta-nayttaa-oulu2026-kulttuurivuoden-avaus-katso/12472978?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Olkiluoto 2:n sähköntuotanto keskeytyi viasta",
-      "mainCategories": [
-        "Kotimaa",
         "Ydinvoima",
-        "Energia"
+        "Taloussanomat",
+        "Kotimaa"
       ],
       "imageUrl": "/images/olkiluoto/1.jpg",
       "relatedNews": [
@@ -1161,20 +535,6 @@
           "link": "https://www.is.fi/taloussanomat/art-2000011725546.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Olkiluoto 2 -ydinvoimala alhaalla teknisen vian vuoksi",
-          "content": "Vika alkoi klo 11 aikaan. TVO:n mukaan kyse on laitteisto päivityksen aikana sattuneesta vika­tilanteesta.",
-          "date": "2026-01-02T10:07:10.000Z",
-          "categories": [
-            "energia",
-            "satakunta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202310?origin=rss"
-        },
-        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
@@ -1189,12 +549,12 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat valvoo Venäjän öljytankkeria Atlantilla",
+      "mainTitle": "Yhdysvallat seuraa venäläistä öljytankkeria",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1223,13 +583,13 @@
       ]
     },
     {
-      "mainTitle": "Stubbin ja Sdp:n kansarviot parantuneet",
+      "mainTitle": "Kansan arvio Stubbista ja SDP:stä",
       "mainCategories": [
         "Politiikka",
         "Uutiset",
         "Kotimaa"
       ],
-      "imageUrl": "/images/stubb/1.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1274,323 +634,13 @@
       ]
     },
     {
-      "mainTitle": "Huono ajokeli Etelä-Suomessa lumisateen vuoksi",
-      "mainCategories": [
-        "Sää",
-        "Uusimaa",
-        "Keli"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lumentulo on ollut ennakoitua vähäisempää – tuuli ja pöllyävä lumi heikentävät ajokeliä",
-          "content": "Lunta on tullut eniten Satakunnan ja Varsinais-Suomen alueella sekä osittain läntisellä Uudellamaalla. Lapissa on jäätäviä pakkasia.",
-          "date": "2026-01-02T09:20:06.000Z",
-          "categories": [
-            "sää",
-            "varsinais-suomi",
-            "uusimaa",
-            "keli",
-            "liikenne",
-            "lumi",
-            "lumisade"
-          ],
-          "link": "https://yle.fi/a/74-20202295?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Etelä-Suomeen reippaasti lunta – varoitus ajokelistä",
-          "content": "Ajokeli on perjantaiaamuna huono Uudellamaalla ja Lounais-Suomessa.",
-          "date": "2026-01-02T03:38:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011724712.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomen talouskasvun odotukset paranevat",
-      "mainCategories": [
-        "Valtiontalous",
-        "Talouskasvu",
-        "Talous"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ekonomisti: Tässä on Suomen talous­tuskan iso selittäjä",
-          "content": "Asiantuntija olettaa, että suomalaisten ostovoima paranee tänä vuonna.",
-          "date": "2026-01-02T09:14:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011724829.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Susi! Susi! Talouskasvua on huudettu niin monta kertaa, että usko on koetuksella",
-          "content": "On kolmas kerta, kun talouden pitäisi lähteä kasvuun, kirjoittaa taloustoimittaja Janne Toivonen.",
-          "date": "2026-01-01T12:37:46.000Z",
-          "categories": [
-            "valtiontalous",
-            "talouskasvu",
-            "orpon hallitus",
-            "suomen talous",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20202034?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Uuden vuoden hätäilmoitukset kasvoivat merkittävästi",
-      "mainCategories": [
-        "Hätäkeskukset",
-        "Hätäkeskuslaitos",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Uutenavuotena hätänumeroon soitettiin 13 500 kertaa",
-          "content": "",
-          "date": "2026-01-02T07:23:23.000Z",
-          "categories": [
-            "hätänumero",
-            "hätäkeskuslaitos",
-            "hätäkeskukset",
-            "pelastustoimi",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6864328"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vuodenvaihteessa 13 500 hätäilmoitusta – hälytystehtävien välittäminen viranomaisille väheni",
-          "content": "Hätäilmoituksia käsiteltiin aiempaa enemmän neuvomalla ja ohjeistamalla.",
-          "date": "2026-01-02T07:03:51.000Z",
-          "categories": [
-            "viranomaiset",
-            "hätäkeskukset",
-            "hätäpuhelu",
-            "hätäkeskuslaitos",
-            "hätäilmoitukset",
-            "hätätilanteet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202251?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Anna-pyryn myrsky aiheuttaa liikenneongelmia Ruotsissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Sää",
-        "Ruotsi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Anna-pyry aiheuttaa liikenneongelmia Ruotsissa ",
-          "content": "",
-          "date": "2026-01-02T06:38:27.000Z",
-          "categories": [
-            "sää",
-            "ruotsi",
-            "talvisää",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202242?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Taas uusi myrsky murjoo Ruotsia – hurja varoitus",
-          "content": "Ruotsin viranomaiset varoittavat, että liikkuminen teillä voi olla hengenvaarallista.",
-          "date": "2026-01-01T21:02:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011724600.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hannes-myrskyn aiheuttamat sähkökatkot jatkuvat edelleen",
-      "mainCategories": [
-        "Sähkökatkot",
-        "Kotimaa",
-        "Energia"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jo yli viisi vuorokautta ilman sähköjä – Hannes-myrskyn tuhoja sähköverkossa korjataan edelleen ",
-          "content": "Osa kodeista on ollut pimeänä jo viikonlopusta saakka. Korjaaminen on hidasta, koska myrskytuhot ovat paikoin varsin mittavat.",
-          "date": "2026-01-02T06:34:14.000Z",
-          "categories": [
-            "energia",
-            "hannes-myrsky",
-            "sähkökatkot",
-            "tampere",
-            "ruovesi",
-            "orivesi",
-            "kangasala",
-            "elenia",
-            "kotimaa",
-            "pirkanmaa",
-            "etelä-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20202241?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Satoja ilman sähköä Hannes-myrskyn jäljiltä Varsinais-Suomessa",
-          "content": "",
-          "date": "2026-01-01T18:05:03.000Z",
-          "categories": [
-            "sähkökatkot",
-            "myrskyt",
-            "myrskytuhot",
-            "varsinais-suomi",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6864191"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poikkeuksellinen tieto Hannes-myrskystä",
-          "content": "Hannes oli sähkökatkoiltaan yksi 2000-luvun pahimmista myrskyistä.",
-          "date": "2025-12-31T15:54:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011723075.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sveitsin ravintolapalo vaati noin 40 kuolonuhria",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma",
-        "Onnettomuudet"
-      ],
-      "imageUrl": "/images/ravintola/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sveitsin ravintolapalo | Syyttäjä: Koko yökerho saattoi räjähtää tuleen lähes yhtä aikaa",
-          "content": "Palossa on kuollut noin 40 ihmistä ja loukkaantunut 115. Uhrien tunnistaminen voi viedä päiviä.",
-          "date": "2026-01-02T06:10:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011724721.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tämän tiedämme nyt Sveitsin tuhoisasta tulipalosta",
-          "content": "Noin 40 ihmistä kuoli ja yli sata loukkaantui ravintolan tulipalossa Crans-Montanan hiihtokeskuksessa Sveitsissä uudenvuodenyönä.",
-          "date": "2026-01-01T18:18:40.000Z",
-          "categories": [
-            "onnettomuudet",
-            "sveitsi",
-            "tulipalot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202215?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään nyt | Noin 40 kuoli ravintola­palossa: moni uhreista on nuori",
-          "content": "Tulipalo aiheutti räjähdyksen hiihtokeskuksessa sijaitsevassa ravintolassa Sveitsissä. Palon syttymissyy ei ole tiedossa.",
-          "date": "2026-01-01T17:21:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011723802.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Silminnäkijä: Näin Sveitsin tuhoisa tulipalo sai alkunsa",
-          "content": "Vakava turma tapahtui nuorten suosimassa baarissa laskettelukeskuksessa uudenvuodenjuhlien aikaan. Kymmenien arvioidaan kuolleen, loukkaantuneita on ainakin sata.",
-          "date": "2026-01-01T17:17:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011723804.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sveitsiläisen hiihtokeskuksen baarissa räjähti, useita kuollut",
-          "content": "Sveitsissä Crans-Montanan hiihtokeskuksessa baarissa on tapahtunut räjähdys ja useita ihmisiä on kuollut ja loukkaantunut, paikallinen poliisi kertoi varhain torstaina.",
-          "date": "2026-01-01T06:35:31.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/sveitsilaisen-hiihtokeskuksen-baarissa-rajahti-use/12473459?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "DW: Sveitsin katastrofi­palon ensimmäinen uhri on tunnistettu",
-          "content": "Monet Sveitsin Crans-Montanan traagisen palon uhreista ovat hyvin nuoria. Traaginen tulipalo vaati kymmenien ihmisten hengen Sveitsin Crans-Montanassa. Palo syttyi Le Constellation -nimisessä baarissa uudenvuoden juhlinnan aikana varhain torstaina, Sveitsin yleisradio RTS kertoo.",
-          "date": "2026-01-01T05:55:58.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/e763db90-b382-4394-850f-963244488b01"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Stubb korosti rauhaa ja talouskasvua puheessaan",
+      "mainTitle": "Stubb korosti rauhaa ja kasvua puheessaan",
       "mainCategories": [
         "Politiikka",
         "Kotimaa",
         "Pääkirjoitus"
       ],
-      "imageUrl": "/images/stubb/1.jpg",
+      "imageUrl": "/images/stubb/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1603,18 +653,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011724739.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Asiantuntijat yllättyivät yhdestä asiasta Stubbin uudenvuodenpuheessa",
-          "content": "Professori Markku Jokisipilä pitää Stubbin Venäjä-viittausta rohkeana.",
-          "date": "2026-01-01T17:08:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011724079.html"
         },
         {
           "publisherId": "ts",
@@ -1649,20 +687,6 @@
           "link": "https://www.is.fi/politiikka/art-2000011723829.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Stubb varoitti uudenvuodenpuheessaan huonosta rauhasta Ukrainassa ja tsemppasi Suomea ylös taantumasta",
-          "content": "Presidentti Stubbin valoisan yleissävyn lomasta löytyi myös raakaa realismia ja pari sisäpoliittista kannanottoa, kirjoittaa politiikan toimittaja Jyrki Hara.",
-          "date": "2026-01-01T12:10:33.000Z",
-          "categories": [
-            "politiikka",
-            "tasavallan presidentin uudenvuodenpuhe",
-            "alexander stubb"
-          ],
-          "link": "https://yle.fi/a/74-20202169?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1685,30 +709,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011724035.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubbilta tyly tuomio Venäjälle",
-          "content": "Stubb kuvaili uudenvuodenpuheessaan Venäjän toimintaa moraalittomaksi.",
-          "date": "2026-01-01T10:28:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011723904.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Presidentin puhe | Stubb: Suhde Yhdys­valtoihin on murroksessa",
-          "content": "Stubb korosti puheessaan kolmea ”tavoitetta”: rauhaa, talouskasvua ja välittämistä. Voit lukea puheen kokonaisuudessaan tästä artikkelista.",
-          "date": "2026-01-01T10:23:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011723998.html"
         },
         {
           "publisherId": "hs",
@@ -1736,77 +736,45 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6863971"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tasavallan presidentti Alexander Stubb: Venäjä-suhde on muuttunut pysyvästi",
-          "content": "Stubb loi katsauksensa menneeseen ja tulevaan edeltäjästään poiketen suorana lähetyksenä Presidentinlinnasta.",
-          "date": "2026-01-01T09:40:01.000Z",
-          "categories": [
-            "politiikka",
-            "tasavallan presidentin uudenvuodenpuhe",
-            "alexander stubb",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202078?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ruotsiin saapuu raju lumimyrsky",
+      "mainTitle": "Etelä-Suomeen odotetaan runsasta lumisateita",
       "mainCategories": [
-        "Ulkomaat",
-        "Ruotsi",
-        "Sää"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lumimyrsky saapui Ruotsiin – paikoin luvassa 60 senttimetriä lunta",
-          "content": "Useat lennot ovat olleet torstaina myöhässä Arlandan lentoasemalla sääolosuhteiden vuoksi.",
-          "date": "2026-01-01T21:11:17.000Z",
-          "categories": [
-            "ruotsi",
-            "sää",
-            "lumimyrskyt",
-            "talvisää",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202220?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Ruotsiin jopa 60 cm lunta – näin käy Suomen",
-          "content": "Ruotsiin on luvassa raju lumimyrsky. Se tuo tullessaan muutoksia myös Suomen säähän, mutta korkeapaine panee sille vastaan.",
-          "date": "2026-01-01T06:05:00.000Z",
+          "title": "Etelä-Suomeen reippaasti lunta – varoitus ajokelistä",
+          "content": "Ajokeli on perjantaiaamuna huono Uudellamaalla ja Lounais-Suomessa.",
+          "date": "2026-01-02T03:38:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011723610.html"
+          "link": "https://www.is.fi/kotimaa/art-2000011724712.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ruotsiin iskee hurja lumimyrsky: jopa 60 cm lunta",
-          "content": "Lumimyräkkä koettelee pahiten Gävleborgin lääniä, jossa Hannes-myrsky aiheutti jo tuhoja.",
-          "date": "2025-12-31T16:11:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Etelään voi rysähtää perjantaina jopa yli 20 senttiä lunta",
+          "content": "Pöllyävä lumi voi tehdä perjantaiaamun ajokelistä huonon. Sää saattaa vaikuttaa myös junaliikenteeseen.",
+          "date": "2026-01-01T16:21:00.000Z",
           "categories": [
-            "ulkomaat"
+            "suomi"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011723346.html"
+          "link": "https://www.hs.fi/suomi/art-2000011724354.html"
         }
       ]
     },
     {
-      "mainTitle": "Yhdysvallat: Putinin huvilan iskuyritys perätön",
+      "mainTitle": "Yhdysvallat kumoaa väitteet Putinin huvilasta",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1840,7 +808,7 @@
       ]
     },
     {
-      "mainTitle": "Suomalaiset verkkauppiaat järkyttyivät Kiinan nopeudesta",
+      "mainTitle": "Suomalaiset verkkokauppiaat järkyttyivät Kiinan nopeudesta",
       "mainCategories": [
         "Talous"
       ],
@@ -1873,50 +841,10 @@
       ]
     },
     {
-      "mainTitle": "Asianajaja puolustaa Eagle S- ja Fitburg-aluksia",
+      "mainTitle": "Kaapelirikon tutkinnassa kaksi pidätettyä",
       "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Rahtilaivat"
+        "Kotimaa"
       ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "MTV: Sama asianajaja puolustaa Eagle S- ja Fitburg-alusten tapauksia",
-          "content": "Eagle S -aluksen tapauksessa käräjäoikeus katsoi, että tapauksta ei voi käsitellä suomalaisessa tuomioistuimessa.",
-          "date": "2026-01-01T16:47:14.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "rahtilaivat",
-            "suomenlahti",
-            "rikokset",
-            "venäjä",
-            "merenkulku",
-            "turvallisuus",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202210?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "MTV: Eagle S -käräjistä tunnettu Herman Ljungberg avustaa Fitburgin varustamoa",
-          "content": "Fitburg-aluksen epäillään vaurioittaneen merikaapelia Suomenlahdella. Ljungberg kertoo olevansa toistaiseksi mediatietojen varassa tapahtumasta.",
-          "date": "2026-01-01T16:04:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011724364.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi pidätetty kaapelirikostutkinnassa Suomessa",
-      "mainCategories": [],
       "imageUrl": "",
       "relatedNews": [
         {
@@ -1938,11 +866,23 @@
           "date": "2026-01-01T11:16:18.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/tulli-merikaapelin-vaurioittamisesta-epaillyn-aluk/12473619?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tulli: Tällainen on kaapeli­rikosta epäillyn Fitburg-aluksen lasti",
+          "content": "Tulli selvittää EU:n pakotelainsäädännön soveltuvuutta.",
+          "date": "2026-01-01T10:01:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011723855.html"
         }
       ]
     },
     {
-      "mainTitle": "Tulityöt sytyttivät autotallin palon Haukiputaalla",
+      "mainTitle": "Tulityöt aiheuttivat autotallipalon Haukiputaalla",
       "mainCategories": [
         "Tulipalot",
         "Taivassalo",
@@ -1974,6 +914,39 @@
             "paikalliset"
           ],
           "link": "https://www.ts.fi/uutiset/6863740"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Fitburg-alus saapui Kirkkonummelle tarkastettavaksi",
+      "mainCategories": [
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään nyt | Tulli ja Traficom tarkastavat alusta – Venäjän suurlähetystö tarjoaa miehistölle apua",
+          "content": "Elisan merikaapelin vaurioittamisesta epäilty Fitburg-alus oli matkalla Venäjältä Israeliin.",
+          "date": "2026-01-01T13:31:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011723060.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS Kirkkonummella | HS seurasi, kun kaapeli­rikosta epäilty Fitburg saapui satamaan aseistautuneiden viran­omaisten valvonnassa",
+          "content": "Suomen ja Viron välillä kulkevassa Elisan tietoliikennekaapelissa havaittiin kello 4.53 häiriö. Alkoi viranomaisten suuroperaatio. HS oli paikalla, kun alus lipui noin kello 17 satamaan Kirkkonummella.",
+          "date": "2025-12-31T16:23:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011723427.html"
         }
       ]
     },
@@ -2012,36 +985,33 @@
       ]
     },
     {
-      "mainTitle": "Fitburg-aluksen lasti tutkinnassa Tullin toimesta",
+      "mainTitle": "Crans-Montanan baarin tulipalo vaati 40 kuolonuhria",
       "mainCategories": [
-        "Maailma",
-        "Kotimaa"
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tulli: Tällainen on kaapeli­rikosta epäillyn Fitburg-aluksen lasti",
-          "content": "Tulli selvittää EU:n pakotelainsäädännön soveltuvuutta.",
-          "date": "2026-01-01T10:01:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011723855.html"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Viranomaiset: Sveitsin hiihtokeskusbaarin tulipalossa kuoli noin 40 ihmistä, loukkaantuneita yli sata",
+          "content": "Sveitsissä Crans-Montanan hiihtokeskuksessa baarissa on tapahtunut räjähdys ja useita ihmisiä on kuollut ja loukkaantunut, paikallinen poliisi kertoi varhain torstaina.",
+          "date": "2026-01-01T06:35:31.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/viranomaiset-sveitsin-hiihtokeskusbaarin-tulipalos/12473459?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kaapeli­rikko Suomen­lahdella | Fitburgin omistaa varustamo, jonka omistajan nimi on noussut esille aiemmissa tieto­vuodoissa",
-          "content": "Varustamon pääomistaja on merkittävä hahmo Turkin ja Venäjän välisessä meriliikenteessä.",
-          "date": "2025-12-31T17:14:00.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Pääsyyttäjä: Tästä Sveitsin katastrofipalo sai alkunsa",
+          "content": "Monet Sveitsin Crans-Montanan traagisen palon uhreista ovat hyvin nuoria. Traaginen tulipalo vaati kymmenien ihmisten hengen Sveitsin Crans-Montanassa. Palo syttyi Le Constellation -nimisessä baarissa uudenvuoden juhlinnan aikana varhain torstaina, Sveitsin yleisradio RTS kertoo.",
+          "date": "2026-01-01T05:55:58.000Z",
           "categories": [
-            "maailma"
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011723358.html"
+          "link": "https://www.iltalehti.fi/ulkomaat/a/e763db90-b382-4394-850f-963244488b01"
         }
       ]
     },
@@ -2094,7 +1064,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
