@@ -1,11 +1,44 @@
 {
-  "timestamp": "2026-01-07T06:57:55.898Z",
+  "timestamp": "2026-01-07T07:28:14.959Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Pääkaupunkiseudun liikenne häiriintyy lumisateesta",
+      "mainTitle": "Yhdysvaltalaiset yhtiöt suunnittelevat Teboilin ostoa",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "FT: Amerikkalaiset haluavat ostaa Teboilin",
+          "content": "Yhdysvaltalaiset energiayhtiöt valmistelevat tarjousta venäläisestä öljy-yhtiö Lukoilista. Kauppaan kuuluisivat myös Teboilin huoltoasemat. Yhdysvaltalainen öljyjätti Chevron ja energiaan keskittyvä pääomasijoitusyhtiö Quantum Energy Partners valmistelevat tarjousta venäläisestä öljy-yhtiö Lukoilista. Asiasta kertoo The Financial Times (FT).",
+          "date": "2026-01-07T07:08:24.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/e94a0db7-d48c-43da-ae9e-5969c43adee9"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "FT: Amerikkalaiset haluavat ostaa Teboilin",
+          "content": "Yhdysvaltalaiset energiayhtiöt valmistelevat tarjousta venäläisestä öljy-yhtiö Lukoilista. Kauppaan kuuluisivat myös Teboilin huoltoasemat.",
+          "date": "2026-01-07T05:59:00.000Z",
+          "categories": [
+            "öljy "
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/88ba2e51-78fd-4058-a993-0714be7bbf01"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lumisateet aiheuttavat liikennekaaosta pääkaupunkiseudulla",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -13,6 +46,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Lumi sekoittaa liikennettä: Espoossa neljän auton ketju­kolari, useita bussi­vuoroja peruttu",
+          "content": "Ajokeli on huono, ja aamulla on tapahtunut useita liikenneonnettomuuksia. Pääkaupunkiseudulla on peruttu kymmeniä bussivuoroja.",
+          "date": "2026-01-07T07:07:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011732832.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -24,18 +69,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011732933.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Lumi sekoittaa liikennettä: Espoossa neljän auton ketju­kolari, useita bussi­vuoroja peruttu",
-          "content": "Ajokeli on huono, ja aamulla on tapahtunut useita liikenneonnettomuuksia. Pääkaupunkiseudulla on peruttu kymmeniä bussivuoroja.",
-          "date": "2026-01-07T06:49:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011732832.html"
         },
         {
           "publisherId": "is",
@@ -75,39 +108,6 @@
             "saauutiset"
           ],
           "link": "https://www.iltalehti.fi/saauutiset/a/eeb48dfd-9eca-464c-b390-9675ced44a88"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainalle turvatakuut Ranskalta ja Brittiltä",
-      "mainCategories": [
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/ukraina/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Tällaiset turvatakuut Ukraina sai",
-          "content": "Ranska, Britannia ja Ukraina allekirjoittivat ”Pariisin deklaraation”, jossa määrätään ulkomaisista joukoista Ukrainassa.",
-          "date": "2026-01-07T06:36:00.000Z",
-          "categories": [
-            "ukrainan kriisi"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/3ab229b0-2f44-4fb7-b6bd-b71c459d9803"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämä Ukrainan turvatakuista sovittiin – viisi kohtaa",
-          "content": "Pariisin kokouksessa sovittiin viidestä kohdasta.",
-          "date": "2026-01-06T19:50:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011732726.html"
         }
       ]
     },
@@ -282,7 +282,7 @@
         "Yhdysvallat",
         "Tanska"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -509,13 +509,13 @@
       ]
     },
     {
-      "mainTitle": "Trumpin öljyoperaatio Venezuelaan herättää epävarmuutta",
+      "mainTitle": "Trumpin Venezuela-öljyoperaatio herättää epävarmuutta",
       "mainCategories": [
         "Talous",
         "Konfliktit",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -643,12 +643,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjä saattaa öljytankkeria Atlantilla",
+      "mainTitle": "Venäjä saattaa öljytankkeria sukellusveneellä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -683,7 +683,7 @@
         "Venezuela",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -731,13 +731,13 @@
       ]
     },
     {
-      "mainTitle": "Trump varoittaa republikaaneja välivaaleista",
+      "mainTitle": "Trump varoittaa republikaaneja virkasyytteestä",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Edustajainhuone"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -769,13 +769,13 @@
       ]
     },
     {
-      "mainTitle": "Pariisin kokous edisti Ukrainan turvatakuita",
+      "mainTitle": "Pariisin kokouksessa edistystä Ukrainan turvatakuissa",
       "mainCategories": [
         "Politiikka",
-        "Ulkomaat",
-        "Ukraina"
+        "Ukraina",
+        "Yhdysvallat"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -798,18 +798,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20202829?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Asiantuntija: Pariisin Ukraina-kokous iso käänne – ”Paluu vanhaan mahdotonta”",
-          "content": "Ulko- ja turvallisuuspolitiikan asiantuntijan Henri Vanhasen mukaan Pariisin Ukraina-kokous oli selkeä edistysaskel. Niin sanotun halukkaiden koalition kokouksessa Ukrainalle kasattiin tiistaina vahvoja turvatakuita. Ulko- ja turvallisuuspolitiikan asiantuntija Henri Vanhanen sanoo, että Pariisin kokous oli selkeä edistysaskel.",
-          "date": "2026-01-06T20:12:30.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/0d5c8f5d-d28e-45e2-8b82-9aa446e2bc03"
         },
         {
           "publisherId": "is",
@@ -864,11 +852,11 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat sitoutuu Ukrainan turvatakuisiin",
+      "mainTitle": "Yhdysvallat vahvistaa sitoutumista Ukrainaan",
       "mainCategories": [
         "Ukraina",
-        "Politiikka",
-        "Yhdysvallat"
+        "Yhdysvallat",
+        "Ulkomaat"
       ],
       "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
@@ -910,18 +898,6 @@
           "date": "2026-01-06T19:50:25.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/ukrainan-tukijat-sopimukseen-turvatakuista-stubb-k/12479301?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Stubb antoi palautetta Trumpin vävylle",
-          "content": "Alexander Stubbin mukaan Jared Kushnerin, eli Donald Trumpin vävyn, vaikutus Ukrainan rauhanneuvotteluihin on ollut suuri. Tasavallan presidentti Alexander Stubbin mukaan Yhdysvaltain presidentin Donald Trumpin vävyllä, Jared Kushnerilla, on ollut tärkeä rooli siinä, että Yhdysvallat aikoo osallistua Ukrainan turvatakuiden järjestämiseen. Stubb kommentoi asiaa loppiaisiltana Pariisissa järjestetyssä tiedotustilaisuudessa suomalaistoimittajille. Halukkaiden koalitio kokousti tiistaina Pariisissa.",
-          "date": "2026-01-06T19:41:04.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/55cb3a61-b8a6-42f5-ba2b-bf6fa91f774c"
         },
         {
           "publisherId": "ts",
@@ -1048,7 +1024,7 @@
         "Stt",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1174,7 +1150,7 @@
       ]
     },
     {
-      "mainTitle": "Sveitsin baarin paloturvallisuus laiminlyöty vuosia",
+      "mainTitle": "Sveitsin baarin paloturvallisuustarkastukset laiminlyöty",
       "mainCategories": [
         "Sveitsi",
         "Tulipalot",
@@ -1290,7 +1266,7 @@
         "Yhdysvallat",
         "Tanska"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1394,13 +1370,13 @@
       ]
     },
     {
-      "mainTitle": "Häkkänen arvioi Trumpin Grönlanti-puhetta",
+      "mainTitle": "Häkkänen: Trumpin Grönlanti-puhe ei huolestuta",
       "mainCategories": [
         "Grönlanti",
         "Politiikka",
         "Venezuela"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1524,7 +1500,7 @@
       ]
     },
     {
-      "mainTitle": "Susijahdin häiriöt ja metsästystilanne Kustavissa",
+      "mainTitle": "Susien metsästys käynnissä Kaakkois-Suomessa",
       "mainCategories": [
         "Metsästys",
         "Susi",
@@ -1719,44 +1695,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011730340.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Junaliikenteessä häiriöitä ja myöhästymisiä",
-      "mainCategories": [
-        "Kotimaa",
-        "Liikenne",
-        "Junat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Junaliikenteessä häiriöitä – useita junia myöhässä",
-          "content": "Sääolosuhteet, tekniset viat ja ratajärjestelmäviat ovat hidastaneet junia maanantaiaamuna.",
-          "date": "2026-01-05T09:32:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011729726.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Viat haittaavat junaliikennettä pääradalla – junat myöhästelevät",
-          "content": "Matkustajat ovat joutuneet odottamaan junia pakkasessa.",
-          "date": "2026-01-05T07:11:07.000Z",
-          "categories": [
-            "liikenne",
-            "junat",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202596?origin=rss"
         }
       ]
     }
