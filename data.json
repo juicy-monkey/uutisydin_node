@@ -1,24 +1,48 @@
 {
-  "timestamp": "2026-01-07T04:37:34.652Z",
+  "timestamp": "2026-01-07T05:22:34.450Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Huono ajokeli ja pakkasvaroitus Suomessa",
+      "mainTitle": "Huono ajokeli ja säävaroitukset Suomessa",
       "mainCategories": [
+        "Kotimaa",
         "Liikenne",
-        "Sää",
-        "Kotimaa"
+        "Sää"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Useita sää­varoituksia Suomeen – HSL:n liikenne sekaisin",
+          "content": "Ajokeli on keskiviikkona huono monessa paikkaa.",
+          "date": "2026-01-07T05:20:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011732847.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Varoitus aamu­liikenteeseen",
+          "content": "Ajokeli on huono. Esimerkiksi bussiliikenteeseen on odotettavissa mahdollisia myöhästymisiä ja vuorojen perumisia.",
+          "date": "2026-01-07T04:43:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011732832.html"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
           "title": "Ajokeli huono maan etelä- ja keskiosissa, pohjoiseen pakkasvaroitus",
-          "content": "",
+          "content": "Lumisade ja pöllyävä lumi heikentävät näkyvyyttä tien päällä.",
           "date": "2026-01-07T04:26:50.000Z",
           "categories": [
             "liikenne",
@@ -42,7 +66,41 @@
       ]
     },
     {
-      "mainTitle": "USA:n hallinto haluaa ostaa Grönlannin",
+      "mainTitle": "Eläkeläisten ostovoima heikkenee merkittävästi",
+      "mainCategories": [
+        "Politiikka",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tuore laskelma julki: Eläkeläisille tulossa ikävä yllätys",
+          "content": "Veronmaksajien keskusliiton mukaan eläkeläisten ostovoima heikkenee   miltei kaikilla sen katsauksen tulotasoilla. Veronmaksajien keskusliiton katsauksessa tarkastellaan eläkkeensaajien ostovoimakehitystä seitsemällä eri tulotasolla. Katsauksen mukaan eläkeläisten ostovoimaa uhkaa nyt ikävä kehitys. Tarkastelussa huomioidaan eläkkeiden indeksikorotukset, verotus ja ennakoitu hintojen nousu. Eläkkeiden tämän vuoden indeksikorotukset jäivät pieniksi maltillisen hintojen nousun takia.",
+          "date": "2026-01-07T05:16:19.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/6a131971-5a0d-4791-b140-d5ab5705b1f7"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tulot | Eläkemaksut laskevat tänä vuonna yhdessä ikäryhmässä – katso laskurista, kuinka muutos vaikuttaa",
+          "content": "Työeläkevakuutusmaksut muuttuvat tänä vuonna ja vaikuttavat palkansaajien käteen jääviin tuloihin. Vuoden 2017 eläkeuudistuksessa voimaan tulleet korotusosat päättyivät vuodenvaihteessa.",
+          "date": "2026-01-05T10:21:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011722168.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump haluaa ostaa Grönlannin Tanskalta",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -50,6 +108,18 @@
       ],
       "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Luottomies: Trump haluaa ostaa Grönlannin",
+          "content": "Yhdysvaltojen ulkoministeri Marco Rubion mukaan Yhdysvallat ei suunnittele arktisen saaren valtaamista, vaikka hallinnon kommentit ovat olleetkin sotaisia.",
+          "date": "2026-01-07T05:07:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/d3232563-16d7-4e9b-a566-43479d7f6969"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -183,16 +253,6 @@
           "link": "https://www.ts.fi/uutiset/6867039"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Grönlannin ja Tanskan pääministerit Yhdysvalloille: Nyt riittää, lopettakaa uhkailu",
-          "content": "Grönlanti on Tanskalle kuuluva itsehallintoalue, jota kohtaan Yhdysvaltain presidentti Donald Trump on useaan otteeseen ilmaissut kiinnostusta.",
-          "date": "2026-01-05T17:22:29.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/gronlannin-ja-tanskan-paaministerit-yhdysvalloille/12478464?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -231,89 +291,7 @@
       ]
     },
     {
-      "mainTitle": "Lumikaaos Euroopassa aiheuttaa lentoja peruutuksia",
-      "mainCategories": [
-        "Ulkomaat",
-        "Liikenne",
-        "Lentoliikenne"
-      ],
-      "imageUrl": "/images/ranska/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Euroopassa lumikaaos",
-          "content": "Satoja lentoja on peruttu ja kuusi ihmistä on kuollut lumen aiheuttaman kaaoksen vuoksi Euroopassa. Satoja lentoja on peruttu ympäri Eurooppaa, kun tuhannet ihmiset ovat jääneet jumiin Pariisin ja Amsterdamin lentokentille, uutisoi BBC. Häiriöiden odotetaan jatkuvan vielä keskiviikkona. Ranskan viranomaisten mukaan viisi ihmistä on menehtynyt vaarallisten ajo-olosuhteiden vuoksi. Kolme ihmistä kuoli mustan jään seurauksena kahdessa erillisessä onnettomuudessa Lounais-Ranskassa.",
-          "date": "2026-01-07T02:56:38.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/11ddc884-eb7c-4527-8dfa-a9ad1f6a2c61"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lumikaaos jatkuu Euroopassa – Pariisissa ja Amsterdamissa perutaan lentoja",
-          "content": "Lumi vaikeuttaa matkutusta Euroopassa. Sää­onnettomuuksissa on kuollut viisi ihmistä pelkästään Ranskassa.",
-          "date": "2026-01-06T14:53:01.000Z",
-          "categories": [
-            "liikenne",
-            "charles de gaullen kansainvälinen lentoasema",
-            "lentoliikenne",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20202813?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Lumikaaos jatkuu Hollannissa: Satoja lentoja peruttu yhdellä Euroopan vilkkaimmista lentokentistä – Finnair perunut yhden lennon",
-          "content": "Talviset sääolosuhteet ovat aiheuttaneet Hollannissa liikenteeseen laajoja häiriöitä.",
-          "date": "2026-01-05T11:44:38.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/lumikaaos-jatkuu-hollannissa-satoja-lentoja-perutt/12477919?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjä saattaa öljytankkeria Atlantilla",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/venäjä/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venezuela | Venäjä lähetti sukellus­veneen saattamaan Yhdys­valtojen jahtaamaa säiliö­alusta",
-          "content": "Yhdysvallat on seurannut nyt Venäjän lipun alla seilaavaa öljytankkeria jo muutaman viikon ajan. Alus on ollut Yhdysvaltojen pakotelistalla vuodesta 2024.",
-          "date": "2026-01-07T01:34:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011732830.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "USA jahtaa öljytankkeria Atlantilla – Venäjä lähetti sukellus­veneen",
-          "content": "Yhdysvallat on seurannut nyt Venäjän lipun alla seilaavaa öljytankkeria jo muutaman viikon ajan. Alus on ollut Yhdysvaltojen pakotelistalla vuodesta 2024.",
-          "date": "2026-01-07T01:31:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011732825.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin Venezuela-operaatio herättää öljy-yhtiöiden toiveita",
+      "mainTitle": "Trump väittää Venezuelan öljyn hyödyttävän USA:ta",
       "mainCategories": [
         "Talous",
         "Konfliktit",
@@ -321,6 +299,18 @@
       ],
       "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Venezuela toimittaa Yhdys­valloille miljoonia tynnyreitä öljyä, väittää Trump",
+          "content": "Presidentin mukaan öljystä saatavat rahat käytetään Yhdysvaltojen ja Venezuelan kansalaisten hyväksi. Tämä juttu koostaa yön turvallisuuspoliittiset käänteet.",
+          "date": "2026-01-07T04:41:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011732840.html"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -397,13 +387,95 @@
       ]
     },
     {
-      "mainTitle": "Nobel-komitea tyrmäsi Trumpin jakoehdotuksen",
+      "mainTitle": "Lumikaaos Euroopassa aiheuttaa lentoja peruutuksia",
+      "mainCategories": [
+        "Ulkomaat",
+        "Liikenne",
+        "Lentoliikenne"
+      ],
+      "imageUrl": "/images/ranska/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Euroopassa lumikaaos",
+          "content": "Satoja lentoja on peruttu ja kuusi ihmistä on kuollut lumen aiheuttaman kaaoksen vuoksi Euroopassa. Satoja lentoja on peruttu ympäri Eurooppaa, kun tuhannet ihmiset ovat jääneet jumiin Pariisin ja Amsterdamin lentokentille, uutisoi BBC. Häiriöiden odotetaan jatkuvan vielä keskiviikkona. Ranskan viranomaisten mukaan viisi ihmistä on menehtynyt vaarallisten ajo-olosuhteiden vuoksi. Kolme ihmistä kuoli mustan jään seurauksena kahdessa erillisessä onnettomuudessa Lounais-Ranskassa.",
+          "date": "2026-01-07T02:56:38.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/11ddc884-eb7c-4527-8dfa-a9ad1f6a2c61"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lumikaaos jatkuu Euroopassa – Pariisissa ja Amsterdamissa perutaan lentoja",
+          "content": "Lumi vaikeuttaa matkutusta Euroopassa. Sää­onnettomuuksissa on kuollut viisi ihmistä pelkästään Ranskassa.",
+          "date": "2026-01-06T14:53:01.000Z",
+          "categories": [
+            "liikenne",
+            "charles de gaullen kansainvälinen lentoasema",
+            "lentoliikenne",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20202813?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Lumikaaos jatkuu Hollannissa: Satoja lentoja peruttu yhdellä Euroopan vilkkaimmista lentokentistä – Finnair perunut yhden lennon",
+          "content": "Talviset sääolosuhteet ovat aiheuttaneet Hollannissa liikenteeseen laajoja häiriöitä.",
+          "date": "2026-01-05T11:44:38.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/lumikaaos-jatkuu-hollannissa-satoja-lentoja-perutt/12477919?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäjä saattaa öljytankkeria Atlantilla",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/5.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venezuela | Venäjä lähetti sukellus­veneen saattamaan Yhdys­valtojen jahtaamaa säiliö­alusta",
+          "content": "Yhdysvallat on seurannut nyt Venäjän lipun alla seilaavaa öljytankkeria jo muutaman viikon ajan. Alus on ollut Yhdysvaltojen pakotelistalla vuodesta 2024.",
+          "date": "2026-01-07T01:34:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011732830.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "USA jahtaa öljytankkeria Atlantilla – Venäjä lähetti sukellus­veneen",
+          "content": "Yhdysvallat on seurannut nyt Venäjän lipun alla seilaavaa öljytankkeria jo muutaman viikon ajan. Alus on ollut Yhdysvaltojen pakotelistalla vuodesta 2024.",
+          "date": "2026-01-07T01:31:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011732825.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Nobel-komitea hylkäsi Trumpin jakoehdotuksen",
       "mainCategories": [
         "Ulkomaat",
         "Venezuela",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -451,13 +523,13 @@
       ]
     },
     {
-      "mainTitle": "Trump varoittaa republikaaneja välivaaleista",
+      "mainTitle": "Trump varoittaa republikaaneja virkasyytteestä",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Edustajainhuone"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -489,7 +561,7 @@
       ]
     },
     {
-      "mainTitle": "Ukrainalle turvatakuut Ranskalta ja Britanniasta",
+      "mainTitle": "Ukrainalle turvatakuut Ranskalta ja Brittiltä",
       "mainCategories": [
         "Ulkomaat"
       ],
@@ -528,7 +600,7 @@
         "Politiikka",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -647,7 +719,7 @@
         "Politiikka",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -735,7 +807,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -972,12 +1044,12 @@
       ]
     },
     {
-      "mainTitle": "Maduro vankilassa New Yorkissa syytettynä",
+      "mainTitle": "Maduro vankeudessa New Yorkissa",
       "mainCategories": [
         "Maailma",
         "Uutiset"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1019,7 +1091,7 @@
       ]
     },
     {
-      "mainTitle": "Sveitsin baarin paloturvallisuus laiminlyöty vuosia",
+      "mainTitle": "Sveitsin baarin paloturvallisuustarkastukset laiminlyöty",
       "mainCategories": [
         "Sveitsi",
         "Tulipalot",
@@ -1083,40 +1155,7 @@
       ]
     },
     {
-      "mainTitle": "Finnair peruu lentoja Amsterdamiin lumikaaoksen vuoksi",
-      "mainCategories": [
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair peruu lentoja Amsterdamiin",
-          "content": "Uudelleen­reititysten tekeminen Amsterdamissa on hankalaa.",
-          "date": "2026-01-06T13:40:29.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202809?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair peruu Amsterdamin lentoja",
-          "content": "Lumikaaos aiheuttaa ongelmia Euroopassa. ",
-          "date": "2026-01-05T14:35:16.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20202727?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "J. D. Vancen kotiin murtautumisyritys",
+      "mainTitle": "J. D. Vancen kotiin yritettiin murtautua",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
@@ -1162,13 +1201,13 @@
       ]
     },
     {
-      "mainTitle": "Tanska kokoontuu kriisikokoukseen Grönlannista",
+      "mainTitle": "Tanska kokoontuu kriisikokoukseen Grönlannin vuoksi",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Tanska"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1209,6 +1248,16 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20202787?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Grönlannin ja Tanskan pääministerit Yhdysvalloille: Nyt riittää, lopettakaa uhkailu",
+          "content": "Grönlanti on Tanskalle kuuluva itsehallintoalue, jota kohtaan Yhdysvaltain presidentti Donald Trump on useaan otteeseen ilmaissut kiinnostusta.",
+          "date": "2026-01-05T17:22:29.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/gronlannin-ja-tanskan-paaministerit-yhdysvalloille/12478464?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -1290,7 +1339,7 @@
         "Politiikka",
         "Venezuela"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1437,7 +1486,7 @@
       ]
     },
     {
-      "mainTitle": "Susijahdin häiriöt ja metsästystilanne Suomessa",
+      "mainTitle": "Susien metsästys käynnissä Kaakkois-Suomessa",
       "mainCategories": [
         "Metsästys",
         "Susi",
@@ -1487,7 +1536,7 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvaltojen toiminta Venezuelassa herättää huolta",
+      "mainTitle": "Yhdysvaltojen ulkopolitiikka herättää huolta Suomessa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1604,7 +1653,7 @@
         "Politiikka",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
