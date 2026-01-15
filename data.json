@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-01-15T16:31:31.702Z",
-  "successCount": 14,
-  "failureCount": 8,
+  "timestamp": "2026-01-15T17:29:29.843Z",
+  "successCount": 12,
+  "failureCount": 10,
   "failedFeeds": [
     {
       "url": {
@@ -18,6 +18,15 @@
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
       },
       "reason": {}
     },
@@ -71,6 +80,15 @@
         "publisherId": "yle",
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
         "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
       },
       "reason": {}
@@ -78,47 +96,186 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Sdp:n häirintätapaukset herättävät keskustelua",
+      "mainTitle": "Iranin mielenosoituksissa kuollut yli 3 400",
       "mainCategories": [
-        "Politiikka"
+        "Maailma",
+        "Uutiset",
+        "Iran"
       ],
-      "imageUrl": "/images/eduskunta/3.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Toiveena vallankumous: Turussa osoitettiin tukea Iranin mielenosoittajille",
+          "content": "",
+          "date": "2026-01-15T17:01:43.000Z",
+          "categories": [
+            "iran",
+            "mielenosoitukset",
+            "turku",
+            "maailma",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6874653"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Järjestö: Iranissa kuollut yli 3 400 mielenosoittajaa",
+          "content": "",
+          "date": "2026-01-14T20:26:04.000Z",
+          "categories": [
+            "ihmisoikeudet",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6873787"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin mielenosoitukset | Iran vahingoittaa tarkoituksella mielen­osoittajien silmiä",
+          "content": "Pääkaupunki Teheranin sairaalat ovat täyttyneet mielenosoittajista.",
+          "date": "2026-01-14T04:10:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011747679.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomi lähettää yhteysupseereita Grönlantiin",
+      "mainCategories": [
+        "Maailma",
+        "Politiikka",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/nato/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Häirintä | Lindtman: Sdp aloittaa selvityksen häirinnästä",
-          "content": "Lindtman sanoo, että eduskunnassa liikkuu ”aina kaikenlaisia huhuja”, mutta kiistää olleensa tietoinen Ville Merisen esiin nostamista tapauksista.",
-          "date": "2026-01-15T16:25:00.000Z",
+          "title": "Grönlanti | Häkkänen: Suomalaiset upseerit saattavat olla Grönlannissa kuukausia",
+          "content": "Suomi lähettää Grönlantiin kaksi yhteysupseeria. Grönlanti on ”sen verran uusi asia”, että yhteysupseerit ensin selvittelevät tilannetta, sanoo puolustusministeri Antti Häkkänen (kok).",
+          "date": "2026-01-15T16:37:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011751904.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011752354.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Demariopiskelijat: Häirinnästä pitää puhua",
-          "content": "Sdp:n opiskelijajärjestö kiittää kansanedustaja Ville Meristä (sd) keskustelun aloittamisesta.",
-          "date": "2026-01-15T15:44:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Grönlanti | Suomi lähettää kaksi yhteysupseeria Grönlantiin",
+          "content": "Päätös on tehty Tanskan pyynnöstä ja se on osa Nato-liittolaisten yhteistyötä.",
+          "date": "2026-01-15T14:05:00.000Z",
           "categories": [
-            "politiikka"
+            "maailma"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011752277.html"
+          "link": "https://www.hs.fi/maailma/art-2000011752038.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Suomi lähettää kaksi yhteysupseeria Grönlantiin",
+          "content": "",
+          "date": "2026-01-15T14:01:27.000Z",
+          "categories": [
+            "nato",
+            "maanpuolustus",
+            "puolustusministeriö",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6874606"
         },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Soitimme ihmisille, jotka tekevät töitä Ville Merisen kanssa – Suoraa puhetta miehen toiminta­tavoista",
-          "content": "SDP:n kohukansanedustaja Ville Merinen, 41, aiheutti tällä viikolla hässäkän – jälleen kerran. Soitimme ihmisille, jotka tekevät töitä Merisen kanssa. Saimme suoraa puhetta miehen toimintatavoista. SDP:n kansanedustaja Ville Merinen, 41, tuntuu olevan koko ajan ja kaikkialla. Hän on oppositiopuolueen rivikansanedustaja, joka on toiminut tehtävässään alle kolme vuotta. Tässä ajassa Merinen on hankkinut itselleen enemmän julkisuutta kuin moni edustaja saa osakseen elämänsä aikana. Politiikan sisäpiiri puhuu Merisen toimintatavoista nyt suoraan. Haastatteluissa tuli yllättävää tietoa muun muassa Merisen ihmissuhteista.",
-          "date": "2026-01-15T14:34:44.000Z",
+          "title": "Suomi vastaa Tanskan pyyntöön – Lähettää Grönlantiin kaksi sotilasta",
+          "content": "Puolustusministeri Häkkäsen mukaan Suomen turvallisuus vahvistuu, kun liittolaiset kehittävät kykyään toimia arktisella alueella. Suomi lähettää Tanskan pyynnöstä kaksi yhteysupseeria Grönlantiin tutustumaan harjoitustoiminnan mahdollisuuksiin, puolustusministeriö tiedottaa. Grönlannin hallitus ja Tanskan puolustusministeriö ovat päättäneet jatkaa Tanskan asevoimien harjoituskokonaisuutta Grönlannissa. Harjoituskokonaisuus toteutetaan tiiviissä yhteistyössä Nato-liittolaisten kanssa, mihin liittyy myös Suomen päätös yhteysupseereiden lähettämisestä.",
+          "date": "2026-01-15T13:57:10.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/ea63039b-d817-4178-8b9e-38ca42ee666c"
+          "link": "https://www.iltalehti.fi/politiikka/a/026dacde-3e30-4f63-ad9a-2866a367a445"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Grönlanti-kokous | Helpottunut Tanskan ulko­ministeri kiirehti savukkeelle palaverin jälkeen",
+          "content": "Tanskan ja Grönlannin ulkoministerit tapasivat Yhdysvaltain ulkoministerin ja varapresidentin jännitteisissä tunnelmissa Washingtonissa keskiviikkona.",
+          "date": "2026-01-15T10:47:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011750232.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Valtonen Ylellä: Myös Suomelta pyydetty sotilaita Grönlantiin",
+          "content": "Ruotsin, Norjan ja Saksan on uutisoitu lähettävän asevoimien henkilöstöä Grönlantiin. Valtosen mukaan Suomen osalta pohdintaa tehdään \"Naton piirissä\".",
+          "date": "2026-01-14T20:30:19.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/valtonen-ylella-myos-suomelta-pyydetty-sotilaita-g/12490931?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ruotsi lähettää sotilaita Grönlantiin",
+          "content": "Aiemmin tänään Tanska ilmoitti lisäävänsä sotilaallista läsnäoloaan Grönlannissa.",
+          "date": "2026-01-14T18:45:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011749870.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Grönlantilainen kansan­edustaja: Trump on oikeassa yhdessä asiassa",
+          "content": "Grönlannin parlamentissa myönnetään, että Grönlannissa tarvitaan Natoa.",
+          "date": "2026-01-14T15:57:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011747628.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sdp:n häirintätapaukset herättävät huolta",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "/images/eduskunta/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Häirintä | Lindtman: Sdp:n puolue­­johto ei ole ollut tietoinen häirintä­tapauksista",
+          "content": "Sdp aloittaa selvityksen häirinnästä. Lindtmanin mukaan eduskunnassa liikkuu ”aina kaikenlaisia huhuja”, mutta kiistää olleensa tietoinen Ville Merisen nostamista tapauksista.",
+          "date": "2026-01-15T16:25:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011751904.html"
         },
         {
           "publisherId": "is",
@@ -131,18 +288,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011750647.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Häirintäkohu: Näin Antti Lindtman ohjeisti omiaan suljetussa viestiryhmässä",
-          "content": "IS:n näkemässä viestissä Antti Lindtman korostaa, että kaikki esiin tulleet häirintätapaukset tullaan selvittämään.",
-          "date": "2026-01-15T09:54:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011750843.html"
         },
         {
           "publisherId": "is",
@@ -224,7 +369,7 @@
         "Kotimaa",
         "Suomi"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -299,40 +444,7 @@
       ]
     },
     {
-      "mainTitle": "Kasvuyritysten omistuksen turvaaminen vaaditaan",
-      "mainCategories": [
-        "Talousaamu"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Vaatimus: Tämä vero pitäisi kuopata heti",
-          "content": "Valtion pääomasijoitusyhtiö Tesin toimitusjohtaja Pia Santavirta kävi Talousaamun lähetyksessä läpi ehdotuksia suomalaisen kasvuyrityskentän vahvistamiseksi.",
-          "date": "2026-01-15T15:30:00.000Z",
-          "categories": [
-            "talousaamu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/bbb565db-eab1-4e69-9818-20955458ee46"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Suomalaisten huippuyritysten omistus valuu ulkomaille – Nyt tuli tiukka viesti",
-          "content": "Tesin Pia Santavirta toivoo uutta ”Suomi-klubia”, jossa myös suuryritykset ottaisivat isompaa roolia kotimaisen omistuksen turvaamisessa uusissa huippuyrityksissä.",
-          "date": "2026-01-15T14:00:00.000Z",
-          "categories": [
-            "talousaamu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/52ec308c-15dc-40e0-91b9-be89a339a7b6"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Olli Rehnin EKP-nimityksen mahdollisuudet heikentyivät",
+      "mainTitle": "Olli Rehnin EKP-nimitys heikentynyt haastattelussa",
       "mainCategories": [
         "Talous",
         "Politiikka"
@@ -399,91 +511,36 @@
       ]
     },
     {
-      "mainTitle": "Suomi lähettää sotilaita Grönlantiin",
+      "mainTitle": "Ville Merisen toimintatavat herättävät keskustelua",
       "mainCategories": [
-        "Ulkomaat",
-        "Grönlanti",
-        "Sotilaat"
+        "Politiikka"
       ],
-      "imageUrl": "/images/nato/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämän takia Grönlannissa järjestetään sotaharjoitus – asiantuntija: yksi uhka",
-          "content": "Asiantuntijan mukaan sotaharjoituksella varaudutaan yhteen selkeään uhkaan.",
-          "date": "2026-01-15T14:35:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011750811.html"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Grönlanti | Suomi lähettää kaksi yhteysupseeria Grönlantiin",
-          "content": "Päätös on tehty Tanskan pyynnöstä ja se on osa Nato-liittolaisten yhteistyötä.",
-          "date": "2026-01-15T14:05:00.000Z",
+          "title": "HS-analyysi | Ville Meriselle suututtiin, koska hän ei ole lojaali: Hän tarjoilee kansalle ”aivomätää” ja panee Tiktok-suosion puolueen edelle",
+          "content": "Ylen uusi dokumenttisarja paljastaa, miten somepoliitikot ajattelevat ja toimivat, kirjoittaa politiikan toimituksen esihenkilö Hanna Mahlamäki.",
+          "date": "2026-01-15T14:35:00.000Z",
           "categories": [
-            "maailma"
+            "tilaajille",
+            "politiikka"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011752038.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011739605.html"
         },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Suomi vastaa Tanskan pyyntöön – Lähettää Grönlantiin kaksi sotilasta",
-          "content": "Puolustusministeri Häkkäsen mukaan Suomen turvallisuus vahvistuu, kun liittolaiset kehittävät kykyään toimia arktisella alueella. Suomi lähettää Tanskan pyynnöstä kaksi yhteysupseeria Grönlantiin tutustumaan harjoitustoiminnan mahdollisuuksiin, puolustusministeriö tiedottaa. Grönlannin hallitus ja Tanskan puolustusministeriö ovat päättäneet jatkaa Tanskan asevoimien harjoituskokonaisuutta Grönlannissa. Harjoituskokonaisuus toteutetaan tiiviissä yhteistyössä Nato-liittolaisten kanssa, mihin liittyy myös Suomen päätös yhteysupseereiden lähettämisestä.",
-          "date": "2026-01-15T13:57:10.000Z",
+          "title": "Soitimme ihmisille, jotka tekevät töitä Ville Merisen kanssa – Suoraa puhetta miehen toiminta­tavoista",
+          "content": "SDP:n kohukansanedustaja Ville Merinen, 41, aiheutti tällä viikolla hässäkän – jälleen kerran. Soitimme ihmisille, jotka tekevät töitä Merisen kanssa. Saimme suoraa puhetta miehen toimintatavoista. SDP:n kansanedustaja Ville Merinen, 41, tuntuu olevan koko ajan ja kaikkialla. Hän on oppositiopuolueen rivikansanedustaja, joka on toiminut tehtävässään alle kolme vuotta. Tässä ajassa Merinen on hankkinut itselleen enemmän julkisuutta kuin moni edustaja saa osakseen elämänsä aikana. Politiikan sisäpiiri puhuu Merisen toimintatavoista nyt suoraan. Haastatteluissa tuli yllättävää tietoa muun muassa Merisen ihmissuhteista.",
+          "date": "2026-01-15T14:34:44.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/026dacde-3e30-4f63-ad9a-2866a367a445"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eurooppalainen sotajoukko kokoontuu Grönlantiin – mukana myös ranskalaisosasto ja kaksi suomalaisupseeria",
-          "content": "Sotilaiden tehtävä on osallistua Grönlannissa järjestettäviin sotaharjoituksiin.",
-          "date": "2026-01-15T12:27:18.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "grönlanti",
-            "ulkomaat",
-            "sotilaat",
-            "tanska",
-            "ranska",
-            "sotaharjoitukset",
-            "sotilastukikohdat",
-            "tanskan asevoimat"
-          ],
-          "link": "https://yle.fi/a/74-20204526?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Valtonen Ylellä: Myös Suomelta pyydetty sotilaita Grönlantiin",
-          "content": "Ruotsin, Norjan ja Saksan on uutisoitu lähettävän asevoimien henkilöstöä Grönlantiin. Valtosen mukaan Suomen osalta pohdintaa tehdään \"Naton piirissä\".",
-          "date": "2026-01-14T20:30:19.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/valtonen-ylella-myos-suomelta-pyydetty-sotilaita-g/12490931?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ruotsi lähettää sotilaita Grönlantiin",
-          "content": "Aiemmin tänään Tanska ilmoitti lisäävänsä sotilaallista läsnäoloaan Grönlannissa.",
-          "date": "2026-01-14T18:45:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011749870.html"
+          "link": "https://www.iltalehti.fi/politiikka/a/ea63039b-d817-4178-8b9e-38ca42ee666c"
         }
       ]
     },
@@ -518,164 +575,6 @@
             "kotimaa"
           ],
           "link": "https://www.iltalehti.fi/kotimaa/a/a4d7cd53-1853-48c2-886f-e1b4f04849ae"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin tilanne ja Yhdysvaltojen uhkaukset",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma",
-        "Iran"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uusi varoitus suomalaisille Iranissa",
-          "content": "Ilta-Sanomat seuraa Iranin tapahtumia tässä artikkelissa.",
-          "date": "2026-01-15T14:23:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011743652.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iranin protesteissa eletään nyt suvanto­vaihetta, mutta edessä voi olla käänne – katso kolme skenaariota",
-          "content": "Suomalais­asiantuntija arvioi, mitä Iranissa on odotettavissa lähiaikoina.",
-          "date": "2026-01-15T12:35:10.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "iran",
-            "mielenosoitukset",
-            "lähi-itä",
-            "yhdysvallat",
-            "talouspakotteet",
-            "donald trump",
-            "kansainväliset pakotteet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204393?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Iranin hallinto on vakavassa paikassa – \"Vaikea kuvitella paluuta normaaliin nykyhallinnon aikana\"",
-          "content": "Iranin vastatoimet Yhdysvaltain mahdolliseen iskuun voisivat vaikuttaa maailmantalouteen merkittävästi.",
-          "date": "2026-01-15T08:58:18.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/iranin-hallinto-on-vakavassa-paikassa-vaikea-kuvit/12491305?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Iranin ulkoministeri: Teloituksia ei tehdä \"tänään tai huomenna\"",
-          "content": "Trump on sanonut, että Yhdysvallat reagoisi vahvasti, jos Iran alkaa teloittaa mielenosoittajia.",
-          "date": "2026-01-15T05:58:27.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/iranin-ulkoministeri-teloituksia-ei-tehda-tanaan-t/12491044?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä on tilanne nyt | Trump uhkasi puuttua Iranin tilanteeseen, USA ja Britannia vetävät joukkoja tuki­kohdista",
-          "content": "Yhdysvaltain isku Iraniin on mahdollinen, mutta sille on esteitä.",
-          "date": "2026-01-14T19:56:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011747681.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iran | Trump lupasi auttaa Iranin mielen­osoittajia – tällaisia keinoja USA:lla on käytössä",
-          "content": "Sotilaalliset iskut Iraniin voisivat johtaa Iranin koviin vastaiskuihin amerikkalaisia ja maan liittolaisia vastaan.",
-          "date": "2026-01-14T16:28:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011747846.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tämä Trumpin Iran-aikeista tiedetään",
-          "content": "Yhdysvaltain isku Iraniin on mahdollinen, mutta sille on esteitä.",
-          "date": "2026-01-14T05:33:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011747704.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Helen aloittaa yt-neuvottelut 125 työpaikasta",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat",
-        "Energia"
-      ],
-      "imageUrl": "/images/talous/8.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Helen irtisanoo jopa 125 henkilöä",
-          "content": "Energiayhtiö Helen aloittaa muutosneuvottelut.",
-          "date": "2026-01-15T14:07:00.000Z",
-          "categories": [
-            "energia"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/57b29d6a-d8f5-427b-94de-f1ad1576e479"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Heleniltä iso yt-uutinen – Yli 120 työpaikkaa vaakalaudalla",
-          "content": "Helen aikoo integroida tytäryhtiö Väreen emoyhtiöön. Sähköyhtiö Helen aloittaa muutosneuvottelut, jotka koskevat noin 795 henkilöä. Alustavan arvion mukaan neuvottelut voivat johtaa enintään 125 työtehtävän päättymiseen. Mahdollisia henkilöstövaikutuksia voivat olla irtisanominen, työsopimuksen olennaisen ehdon yksipuolinen muuttaminen, muutokset työtehtävissä, työmenetelmissä, töiden järjestelyissä, työtilojen järjestelyissä tai säännöllisen työajan järjestelyissä.",
-          "date": "2026-01-15T13:42:31.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.iltalehti.fi/talous/a/d0531720-af8d-4bc7-bbee-92ddc2b7db03"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Helen aloittaa muutosneuvottelut – 125 työpaikkaa vaarassa",
-          "content": "Muutosneuvottelut koskevat noin 795 henkilöä.",
-          "date": "2026-01-15T13:36:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011751943.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työpaikat | Helen aloittaa muutosneuvottelut, enintään 125 työpaikkaa vaarassa",
-          "content": "Neuvottelut koskevat noin 795 henkilöä.",
-          "date": "2026-01-15T13:34:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011751930.html"
         }
       ]
     },
@@ -739,6 +638,52 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011750713.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Helen aloittaa muutosneuvottelut 125 työpaikasta",
+      "mainCategories": [
+        "Talous",
+        "Taloussanomat"
+      ],
+      "imageUrl": "/images/talous/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Heleniltä iso yt-uutinen – Yli 120 työpaikkaa vaakalaudalla",
+          "content": "Helen aikoo integroida tytäryhtiö Väreen emoyhtiöön. Sähköyhtiö Helen aloittaa muutosneuvottelut, jotka koskevat noin 795 henkilöä. Alustavan arvion mukaan neuvottelut voivat johtaa enintään 125 työtehtävän päättymiseen. Mahdollisia henkilöstövaikutuksia voivat olla irtisanominen, työsopimuksen olennaisen ehdon yksipuolinen muuttaminen, muutokset työtehtävissä, työmenetelmissä, töiden järjestelyissä, työtilojen järjestelyissä tai säännöllisen työajan järjestelyissä.",
+          "date": "2026-01-15T13:42:31.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.iltalehti.fi/talous/a/d0531720-af8d-4bc7-bbee-92ddc2b7db03"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Helen aloittaa muutosneuvottelut – 125 työpaikkaa vaarassa",
+          "content": "Muutosneuvottelut koskevat noin 795 henkilöä.",
+          "date": "2026-01-15T13:36:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011751943.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Työpaikat | Helen aloittaa muutosneuvottelut, enintään 125 työpaikkaa vaarassa",
+          "content": "Neuvottelut koskevat noin 795 henkilöä.",
+          "date": "2026-01-15T13:34:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011751930.html"
         }
       ]
     },
@@ -849,41 +794,6 @@
       ]
     },
     {
-      "mainTitle": "Protestit ja pidätykset Minneapolisissa jatkuvat",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/trump/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Protestit jatkuvat Minneapolisissa – Trump uhkaa armeijalla",
-          "content": "Minneapolisissa on käynnissä laajoja ICE-mielen­osoituksia. Trump syyttää Minnesotan poliitikkoja korruptiosta ja käskee heitä tukahduttamaan protestit.",
-          "date": "2026-01-15T13:27:35.000Z",
-          "categories": [
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204549?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpin ICE-joukot pidättivät kirahviksi pukeutuneen miehen",
-          "content": "Minneapolisissa on osoitettu mieltä Donald Trumpin maahanmuutto- ja tulliviranomaisia vastaan.",
-          "date": "2026-01-14T12:30:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011746348.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Vuokrat laskevat Suomessa poikkeuksellisesti",
       "mainCategories": [
         "Talous"
@@ -922,7 +832,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -951,7 +861,7 @@
       ]
     },
     {
-      "mainTitle": "Raskaana oleva nainen ammuttiin Tampereella",
+      "mainTitle": "Tampereen raskaana olevan naisen murha",
       "mainCategories": [
         "Suomi"
       ],
@@ -1028,7 +938,7 @@
       ]
     },
     {
-      "mainTitle": "Suomen vankiloiden yliasutus huolestuttaa",
+      "mainTitle": "Suomen vankiloiden yliasutus huolestuttaa asiantuntijoita",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1062,43 +972,46 @@
       ]
     },
     {
-      "mainTitle": "Grönlannin tulevaisuus jännitteisessä keskustelussa",
+      "mainTitle": "Valtonen kommentoi Yhdysvaltojen roolia Grönlannissa",
       "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Tanska"
+        "Politiikka",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Grönlanti-kokous | Helpottunut Tanskan ulko­ministeri kiirehti savukkeelle palaverin jälkeen",
-          "content": "Tanskan ja Grönlannin ulkoministerit tapasivat Yhdysvaltain ulkoministerin ja varapresidentin jännitteisissä tunnelmissa Washingtonissa keskiviikkona.",
-          "date": "2026-01-15T10:47:00.000Z",
+          "title": "Ulkopolitiikka | Valtonen kiemurteli Ylellä kysymykselle Yhdysvalloista, professori arvioi motiiveja",
+          "content": "Ulkoministeri Valtonen sanoi, ettei Grönlannin tilanne ratkea sillä, kuka ”sanoo napakimmin julkisuudessa”, kun häneltä kysyttiin Ylen A-studiossa, miksei Yhdysvaltoja tuomita suoremmin.",
+          "date": "2026-01-15T10:07:00.000Z",
           "categories": [
-            "maailma"
+            "politiikka"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011750232.html"
+          "link": "https://www.hs.fi/politiikka/art-2000011750381.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tanskan pääministeri eilisestä kokouksesta: Yhdysvallat haluaa edelleen Grönlannin",
-          "content": "Tanskan pääministeri Mette Frederiksen sanoo, että osapuolten välillä on edelleen perustavan­laatuinen erimielisyys siitä, kenelle Grönlanti kuuluu.",
-          "date": "2026-01-15T10:06:02.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin asiantuntija arvioi ”Grönlannin kriisikokousta”",
+          "content": "Henri Vanhasen mukaan Tanskalle ja Yhdysvalloille jäi yhä syvä ristiriita Grönlannista.",
+          "date": "2026-01-14T21:12:00.000Z",
           "categories": [
-            "kansainvälinen politiikka",
-            "yhdysvallat",
-            "tanska",
-            "grönlanti",
-            "mette frederiksen",
             "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20204469?origin=rss"
-        },
+          "link": "https://www.is.fi/ulkomaat/art-2000011748702.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin Grönlanti-pyrkimykset herättävät huolta",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/5.jpg",
+      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -1112,46 +1025,14 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011749542.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tanskan ulkoministerin silmiin­pistävä reaktio Valkoisen talon tapaamisen jälkeen tallentui videolle",
-          "content": "Tanskan ja Grönlannin ulkoministerit tapasivat Yhdysvaltain ulkoministerin ja varapresidentin jännitteisissä tunnelmissa Washingtonissa keskiviikkona.",
-          "date": "2026-01-15T08:07:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011750200.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump sanoo uskovansa, että Grönlannista päästään ratkaisuun",
-          "content": "",
-          "date": "2026-01-15T01:43:29.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "donald trump",
-            "yhdysvallat",
-            "tanska",
-            "grönlanti",
-            "presidentti trumpin hallinto",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204375?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin asiantuntija arvioi ”Grönlannin kriisikokousta”",
-          "content": "Henri Vanhasen mukaan Tanskalle ja Yhdysvalloille jäi yhä syvä ristiriita Grönlannista.",
-          "date": "2026-01-14T21:12:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011748702.html"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Grönlannin varapääministeri: Lisää Nato-joukkoja Grönlantiin lähipäivinä",
+          "content": "Yhdysvaltain presidentti Donald Trump sanoo uskovansa, että Grönlannista päästään ratkaisuun.",
+          "date": "2026-01-15T05:18:58.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/gronlannin-varapaaministeri-lisaa-nato-joukkoja-gr/12491049?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -1166,14 +1047,28 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011750075.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Yhdysvaltojen, Tanskan ja Grönlannin edustajat tapasivat – Tanskan ulkoministeri: Trump on tehnyt kantansa selväksi, meillä on erilainen kanta",
-          "content": "Tanskan puolustusministeri sanoi pitävänsä epätodennäköisenä, että jokin Nato-maa hyökkäisi toista Nato-maata vastaan.",
-          "date": "2026-01-14T17:27:48.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/yhdysvaltojen-tanskan-ja-gronlannin-edustajat-tapa/12490768?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tanskalainen analyytikko Trumpin tuoreesta Grönlanti-lausunnosta – ”Tilanne eskaloituu”",
+          "content": "Tanskalaisen analyytikon mukaan Donald Trump on valmis uhkaamaan jopa yhteistyön Naton kanssa saadakseen Grönlannin.",
+          "date": "2026-01-14T13:39:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011749174.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump otti kantaa Grönlantiin: ”Mahdotonta hyväksyä”",
+          "content": "Donald Trump kommentoi Grönlanti-kysymystä.",
+          "date": "2026-01-14T12:43:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011749144.html"
         },
         {
           "publisherId": "is",
@@ -1190,182 +1085,48 @@
       ]
     },
     {
-      "mainTitle": "Trumpin valtapolitiikka ja Grönlanti",
+      "mainTitle": "Tanskan ja Grönlannin ministerit tapaavat Yhdysvalloissa",
       "mainCategories": [
-        "Grönlanti",
-        "Ulkomaat",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/trump/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ykkösaamun vieraana Hiski Haukkala – Mitä haluat kysyä Ulkopoliittisen instituutin johtajalta?",
-          "content": "Presidentti Donald Trumpin Yhdysvallat ajaa nyt etujaan voimalla kansain­välisessä politiikassa. Miten suurvallan valtapolitiikka vaikuttaa Suomeen?",
-          "date": "2026-01-15T10:33:46.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "yhdysvallat",
-            "venezuela",
-            "grönlanti",
-            "iran",
-            "ykkösaamu",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204439?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "UPI:n tutkija: Trump ajattelee Grönlantia ”kiinteistödiilinä” ",
-          "content": "Ulkopoliittisen instituutin tutkija Ville Sinkkosen mukaan Grönlannin kysymys on ”parkkiintunut” Yhdysvaltain presidentti Donald Trumpin päähän.",
-          "date": "2026-01-15T06:56:19.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "tanska",
-            "donald trump",
-            "grönlanti",
-            "yhdysvaltojen politiikka",
-            "ulkopoliittinen instituutti",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204391?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin mielenosoitusten teloituksia lykätty",
-      "mainCategories": [
-        "Mielenosoitukset",
-        "Iran",
+        "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iran: Vangittua mielenosoittajaa ei ole tuomittu kuolemaan",
-          "content": "",
-          "date": "2026-01-15T09:20:13.000Z",
-          "categories": [
-            "mielenosoitukset",
-            "iran",
-            "teloitus",
-            "mielenosoittaja",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204456?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iranin ulkoministeri: Teloituksia ei tehdä ”tänään tai huomenna”",
-          "content": "Ihmisoikeus­järjestön mukaan Iranin mielen­osoitusten yhteydessä kiinni otetun miehen teloitusta on lykätty.",
-          "date": "2026-01-15T01:00:47.000Z",
-          "categories": [
-            "lähi-itä",
-            "iran",
-            "mielenosoitukset",
-            "yhdysvallat",
-            "abbas araghchi",
-            "levottomuudet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204373?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Järjestö: Iranissa kuollut yli 3 400 mielenosoittajaa",
-          "content": "",
-          "date": "2026-01-14T20:26:04.000Z",
-          "categories": [
-            "ihmisoikeudet",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6873787"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ericsson irtisanoo 1 600 työntekijää Ruotsissa",
-      "mainCategories": [
-        "Ruotsi",
-        "Ulkomaat",
-        "Talous"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yritykset | Nokian kilpailija Ericsson aikoo karsia 1 600 työ­paikkaa Ruotsissa",
-          "content": "Ericsson työllistää Ruotsissa noin 12 600 ihmistä.",
-          "date": "2026-01-15T08:21:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011750659.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Telejätti Ericsson aikoo irtisanoa 1 600 työntekijää Ruotsissa",
-          "content": "",
-          "date": "2026-01-15T08:18:15.000Z",
-          "categories": [
-            "ruotsi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204429?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "ICE-agentti ampui miestä Minneapolisissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Maahanmuutto"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "ICE-agentti ampui miestä jalkaan Minneapolisissa",
-          "content": "Välikohtaus tapahtui viikko sen jälkeen, kun ICE-agentti ampui naisen kuoliaaksi samassa kaupungissa.",
-          "date": "2026-01-15T08:07:12.000Z",
-          "categories": [
-            "yhdysvallat",
-            "maahanmuutto",
-            "minneapolis",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204421?origin=rss"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "ICE-agentti ampui miestä Minneapolisissa – hakattiin lumi­lapiolla",
-          "content": "Yhdysvaltain sisäisen turvallisuuden ministeriön mukaan miehet hyökkäsivät ICE-agentin kimppuun harjanvarrella ja lumi­lapiolla.",
-          "date": "2026-01-15T07:25:00.000Z",
+          "title": "Tanskan ulkoministerin silmiin­pistävä reaktio Valkoisen talon tapaamisen jälkeen tallentui videolle",
+          "content": "Tanskan ja Grönlannin ulkoministerit tapasivat Yhdysvaltain ulkoministerin ja varapresidentin jännitteisissä tunnelmissa Washingtonissa keskiviikkona.",
+          "date": "2026-01-15T08:07:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011750358.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011750200.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Grönlanti-kokous | Erityislähettiläs: Turvallisuus­uhat pakottavat Yhdysvallat toimimaan Arktisella alueella",
+          "content": "Tanskan, Grönlannin ja Yhdysvaltain ulkoministerit tapasivat Washingtonissa keskiviikkona.",
+          "date": "2026-01-15T01:32:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011749012.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS Grönlannissa | Nyt taitaa olla tosi kyseessä, sanovat grönlantilaiset: ”Tarkistimme, onko metsästysaseisiin tarpeeksi ammuksia”",
+          "content": "Grönlannissa eletään jatkuvassa jännityksessä, sillä Trumpin seuraava siirto voi olla nopea. Tänään Grönlannin ja Tanskan ulkoministerit tapaavat Yhdysvaltojen varapresidentin J. D. Vancen ja ulkoministeri Marco Rubion.",
+          "date": "2026-01-14T06:45:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011736940.html"
         }
       ]
     },
@@ -1413,12 +1174,12 @@
       ]
     },
     {
-      "mainTitle": "Trump harkitsee toimia Irania vastaan",
+      "mainTitle": "Trump harkitsee toimia Iranin tilanteessa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1443,119 +1204,28 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011750280.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Grönlannin tilanne herättää kansainvälistä huolta",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma",
-        "Grönlanti"
-      ],
-      "imageUrl": "/images/trump/4.jpg",
-      "relatedNews": [
+        },
         {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
-          "title": "Grönlannin varapääministeri: Lisää Nato-joukkoja Grönlantiin lähipäivinä",
-          "content": "Yhdysvaltain presidentti Donald Trump sanoo uskovansa, että Grönlannista päästään ratkaisuun.",
-          "date": "2026-01-15T05:18:58.000Z",
+          "title": "Iranin ulkoministeri: Teloituksia ei tehdä \"tänään tai huomenna\"",
+          "content": "Trump on sanonut, että Yhdysvallat reagoisi vahvasti, jos Iran alkaa teloittaa mielenosoittajia.",
+          "date": "2026-01-15T05:58:27.000Z",
           "categories": [],
-          "link": "//www.kaleva.fi/gronlannin-varapaaministeri-lisaa-nato-joukkoja-gr/12491049?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "link": "//www.kaleva.fi/iranin-ulkoministeri-teloituksia-ei-tehda-tanaan-t/12491044?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään nyt | Tanska ja Grönlanti torjuivat Trumpin vaatimukset, mutta kannat eivät muuttuneet",
-          "content": "Maiden ulkoministerit tapasivat keskiviikkona Washingtonissa. Näkemyseroista ei vielä päästy yhteisymmärrykseen.",
-          "date": "2026-01-15T03:35:00.000Z",
+          "title": "Tämä on tilanne nyt | Trump uhkasi puuttua Iranin tilanteeseen, USA ja Britannia vetävät joukkoja tuki­kohdista",
+          "content": "Yhdysvaltain isku Iraniin on mahdollinen, mutta sille on esteitä.",
+          "date": "2026-01-14T19:56:00.000Z",
           "categories": [
             "maailma"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011750248.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Grönlanti-kokous | Erityislähettiläs: Turvallisuus­uhat pakottavat Yhdysvallat toimimaan Arktisella alueella",
-          "content": "Tanskan, Grönlannin ja Yhdysvaltain ulkoministerit tapasivat Washingtonissa keskiviikkona.",
-          "date": "2026-01-15T01:32:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011749012.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Videoanalyysi: Grönlanti-kokouksessa ei päästy sopuun saaren kohtalosta, mutta uhittelu taukosi toistaiseksi",
-          "content": "Yhdysvaltain, Grönlannin ja Tanskan keskiviikkoisessa kokouksessa ei päästy sopuun erimielisyyksistä, mutta vältyttiin riidalta ja uusilta uhkauksilta.",
-          "date": "2026-01-15T00:37:00.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "grönlanti",
-            "grönlantilaiset",
-            "donald trump",
-            "presidentti trumpin hallinto",
-            "j. d. vance",
-            "tanska",
-            "lars løkke rasmussen",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20203921?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Grönlannin Nuukiin saapui erikois­joukkoja",
-          "content": "Grönlannissa seurattiin tarkasti Yhdysvaltojen, Tanskan ja Grönlannin keskusteluja.",
-          "date": "2026-01-14T20:04:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011749986.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tanskalainen analyytikko Trumpin tuoreesta Grönlanti-lausunnosta – ”Tilanne eskaloituu”",
-          "content": "Tanskalaisen analyytikon mukaan Donald Trump on valmis uhkaamaan jopa yhteistyön Naton kanssa saadakseen Grönlannin.",
-          "date": "2026-01-14T13:39:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011749174.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Grönlannissa | Nyt taitaa olla tosi kyseessä, sanovat grönlantilaiset: ”Tarkistimme, onko metsästysaseisiin tarpeeksi ammuksia”",
-          "content": "Grönlannissa eletään jatkuvassa jännityksessä, sillä Trumpin seuraava siirto voi olla nopea. Tänään Grönlannin ja Tanskan ulkoministerit tapaavat Yhdysvaltojen varapresidentin J. D. Vancen ja ulkoministeri Marco Rubion.",
-          "date": "2026-01-14T06:45:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011736940.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump harkitsee huimaa tarjousta grönlantilaisille – ”Eihän sillä tekisi yhtään mitään”",
-          "content": "Grönlannin suomalaisia pelottaa tilanne ja jopa evakkoon lähtöä arvuutellaan. Grönlannissa toivotaan Washingtonin ulkoministeritapaamiselta edes jotain positiivista.",
-          "date": "2026-01-13T18:21:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011745168.html"
+          "link": "https://www.hs.fi/maailma/art-2000011747681.html"
         }
       ]
     },
@@ -1628,11 +1298,9 @@
       ]
     },
     {
-      "mainTitle": "Orpo ehdottaa sosiaalisen median kieltoa alle 15-vuotiailta",
+      "mainTitle": "Sosiaalisen median käyttö rajoittumassa nuorilta",
       "mainCategories": [
-        "Politiikka",
-        "Kotimaa",
-        "Uutiset"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1649,21 +1317,6 @@
           "link": "https://www.is.fi/politiikka/art-2000011745646.html"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Yle: Petteri Orpon mukaan sosiaalinen media tulisi kieltää alle 15-vuotiailta",
-          "content": "",
-          "date": "2026-01-14T16:29:34.000Z",
-          "categories": [
-            "politiikka",
-            "petteri orpo",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6873587"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1674,6 +1327,74 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011738837.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin Grönlanti-viesti herättää huolta",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpilta mystinen viesti Grönlannista",
+          "content": "Maiden ulkoministerit tapasivat keskiviikkona Washingtonissa. Tämä tilanteesta nyt tiedetään.",
+          "date": "2026-01-15T03:46:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011750245.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään nyt | Tanska ja Grönlanti torjuivat Trumpin vaatimukset, mutta kannat eivät muuttuneet",
+          "content": "Maiden ulkoministerit tapasivat keskiviikkona Washingtonissa. Näkemyseroista ei vielä päästy yhteisymmärrykseen.",
+          "date": "2026-01-15T03:35:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011750248.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Yhdysvaltojen, Tanskan ja Grönlannin edustajat tapasivat – Tanskan ulkoministeri: Trump on tehnyt kantansa selväksi, meillä on erilainen kanta",
+          "content": "Tanskan puolustusministeri sanoi pitävänsä epätodennäköisenä, että jokin Nato-maa hyökkäisi toista Nato-maata vastaan.",
+          "date": "2026-01-14T17:27:48.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/yhdysvaltojen-tanskan-ja-gronlannin-edustajat-tapa/12490768?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Politico: Euroopan johtajat yrittävät kuumeisesti sopia Trumpin kanssa Grönlannista",
+          "content": "Lehden mukaan EU tekee kaikkensa saadakseen Donald Trumpin kanssa neuvotteluratkaisun.",
+          "date": "2026-01-14T14:45:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011749509.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump harkitsee huimaa tarjousta grönlantilaisille – ”Eihän sillä tekisi yhtään mitään”",
+          "content": "Grönlannin suomalaisia pelottaa tilanne ja jopa evakkoon lähtöä arvuutellaan. Grönlannissa toivotaan Washingtonin ulkoministeritapaamiselta edes jotain positiivista.",
+          "date": "2026-01-13T18:21:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011745168.html"
         }
       ]
     },
@@ -1746,7 +1467,53 @@
       ]
     },
     {
-      "mainTitle": "Eduskunnan häirintätilanteet herättävät huolta",
+      "mainTitle": "Trump lupaa tukea Iranin mielenosoittajia",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/7.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iran | Trump lupasi auttaa Iranin mielen­osoittajia – tällaisia keinoja USA:lla on käytössä",
+          "content": "Sotilaalliset iskut Iraniin voisivat johtaa Iranin koviin vastaiskuihin amerikkalaisia ja maan liittolaisia vastaan.",
+          "date": "2026-01-14T16:28:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011747846.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä Trumpin Iran-aikeista tiedetään",
+          "content": "Yhdysvaltain isku Iraniin on mahdollinen, mutta sille on esteitä.",
+          "date": "2026-01-14T05:33:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011747704.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin mielenosoitukset | Trump sanoo päättävänsä ”toimista”, kun saa tarkat luvut kuolleista mielenosoittajista",
+          "content": "Yhdysvallat on kehottanut kansalaisiaan poistumaan Iranista.",
+          "date": "2026-01-13T22:37:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011747240.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Eduskunnan häirintätilanteeseen reagoidaan aktiivisesti",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1847,7 +1614,7 @@
       ]
     },
     {
-      "mainTitle": "Alaikäinen nuori kiinni viljankuivaamon palosta",
+      "mainTitle": "Alaikäiset sytyttivät viljankuivaamon tuleen",
       "mainCategories": [
         "Suomi"
       ],
@@ -1910,40 +1677,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011747624.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin hallinto vaatii somalien maastapoistumista",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Trumpin hallinto lopettaa tilapäisen suojelu­aseman somalialaisilta",
-          "content": "Trumpin hallinto vaatii somalialaisia poistumaan maasta maaliskuun puoleenväliin mennessä. Päätös koskee noin 2 500:aa ihmistä.",
-          "date": "2026-01-13T17:29:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011747367.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpilta kova päätös tuhansille somaleille",
-          "content": "Tuhansien somalien on poistuttava Yhdysvalloista 15. maaliskuuta mennessä.",
-          "date": "2026-01-13T17:23:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011747387.html"
         }
       ]
     }
