@@ -1,18 +1,115 @@
 {
-  "timestamp": "2026-01-15T13:37:12.939Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-01-15T14:22:15.066Z",
+  "successCount": 14,
+  "failureCount": 8,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
       "mainTitle": "Helen aloittaa muutosneuvottelut 125 työpaikasta",
       "mainCategories": [
+        "Talous",
         "Yritykset",
-        "Helsinki",
-        "Kotimaa"
+        "Helsinki"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Helen irtisanoo jopa 125 henkilöä",
+          "content": "Energiayhtiö Helen aloittaa muutosneuvottelut.",
+          "date": "2026-01-15T14:07:00.000Z",
+          "categories": [
+            "energia"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/57b29d6a-d8f5-427b-94de-f1ad1576e479"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Heleniltä iso yt-uutinen – Yli 120 työpaikkaa vaakalaudalla",
+          "content": "Helen aikoo integroida tytäryhtiö Väreen emoyhtiöön. Sähköyhtiö Helen aloittaa muutosneuvottelut, jotka koskevat noin 795 henkilöä. Alustavan arvion mukaan neuvottelut voivat johtaa enintään 125 työtehtävän päättymiseen. Mahdollisia henkilöstövaikutuksia voivat olla irtisanominen, työsopimuksen olennaisen ehdon yksipuolinen muuttaminen, muutokset työtehtävissä, työmenetelmissä, töiden järjestelyissä, työtilojen järjestelyissä tai säännöllisen työajan järjestelyissä.",
+          "date": "2026-01-15T13:42:31.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.iltalehti.fi/talous/a/d0531720-af8d-4bc7-bbee-92ddc2b7db03"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -30,7 +127,7 @@
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
           "title": "Helsingin Helen aloittaa muutosneuvottelut: 125 työtehtävää vaarassa",
-          "content": "",
+          "content": "Helen käynnistää samalla suunnittelutyöt tytäryhtiö Väreen integroimiseksi Helen osakeyhtiöön.",
           "date": "2026-01-15T13:34:58.000Z",
           "categories": [
             "yritykset",
@@ -56,59 +153,169 @@
       ]
     },
     {
-      "mainTitle": "Eduskunta käsittelee häirintäongelmia vakavasti",
+      "mainTitle": "Suomi lähettää upseereita Grönlantiin",
       "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Kotimaa",
+        "Maailma"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/nato/2.jpg",
       "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Häirintäkohu ravistelee eduskuntaa – Nyt puhuu pääsihteeri",
-          "content": "Pääsihteerin sijainen Mikael Koillinen korostaa, että eduskunnan on mietittävä työyhteisön kehittämistä aidosti häirintävapaaksi.  Eduskunnan kanslia tiedottaa jatkavansa työtä epäasiallisen kohtelun estämiseksi. Kanslian mukaan esiin tulleet tiedot epäasiallisesta kohtelusta eduskunnassa ovat valitettavia, ja eduskunnassa on nollatoleranssi epäasialliselle kohtelulle ja häirinnälle. – Jokaisella talossa työskentelevällä on oikeus työskennellä turvallisissa olosuhteissa joutumatta häirinnän tai muun epäasiallisen kohtelun kohteeksi, painottaa eduskunnan vs. pääsihteeri Mikael Koillinen tiedotteessa.",
-          "date": "2026-01-15T13:35:10.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/aabe5ba6-dcb4-4a25-a083-e323f1cc0034"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Eduskunta | Oikeustieteilijä häirintäväitteistä: aivan selvä työsuojeluongelma",
-          "content": "Työnantaja voi syyllistyä rikokseen, jos seksuaaliseen häirintään ei puututa. Myös ”epäterveen” työilmapiirin luominen on lainvastaista.",
-          "date": "2026-01-14T19:36:00.000Z",
+          "title": "Grönlanti | Suomi lähettää kaksi yhteysupseeria Grönlantiin",
+          "content": "Päätös on tehty Tanskan pyynnöstä ja se on osa Nato-liittolaisten yhteistyötä.",
+          "date": "2026-01-15T14:05:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011752038.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Suomi lähettää kaksi yhteysupseeria Grönlantiin",
+          "content": "",
+          "date": "2026-01-15T14:01:27.000Z",
+          "categories": [
+            "nato",
+            "maanpuolustus",
+            "puolustusministeriö",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6874606"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Suomi vastaa Tanskan pyyntöön – Lähettää Grönlantiin kaksi sotilasta",
+          "content": "Puolustusministeri Häkkäsen mukaan Suomen turvallisuus vahvistuu, kun liittolaiset kehittävät kykyään toimia arktisella alueella. Suomi lähettää Tanskan pyynnöstä kaksi yhteysupseeria Grönlantiin tutustumaan harjoitustoiminnan mahdollisuuksiin, puolustusministeriö tiedottaa. Grönlannin hallitus ja Tanskan puolustusministeriö ovat päättäneet jatkaa Tanskan asevoimien harjoituskokonaisuutta Grönlannissa. Harjoituskokonaisuus toteutetaan tiiviissä yhteistyössä Nato-liittolaisten kanssa, mihin liittyy myös Suomen päätös yhteysupseereiden lähettämisestä.",
+          "date": "2026-01-15T13:57:10.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011748302.html"
+          "link": "https://www.iltalehti.fi/politiikka/a/026dacde-3e30-4f63-ad9a-2866a367a445"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomi lähettää kaksi yhteysupseeria Grönlantiin",
+          "content": "",
+          "date": "2026-01-15T13:50:46.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20204565?origin=rss"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Kansanedustaja tilittää: Iäkäs mies­kansan­edustaja kävi käsiksi",
-          "content": "Alviina Alametsän mukaan seksuaalinen häirintä on vain osa asiatonta käytöstä, jota politiikassa tapahtuu.",
-          "date": "2026-01-14T17:35:00.000Z",
+          "title": "Suomi lähettää kaksi upseeria Grönlantiin",
+          "content": "Antti Häkkäsen mukaan arktisen alueen turvallisuuden vahvistaminen vahvistaa Suomen turvallisuutta.",
+          "date": "2026-01-15T13:48:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011749957.html"
+          "link": "https://www.is.fi/politiikka/art-2000011752020.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Yle: Elina Valtosen mukaan myös Suomelta kaivataan sotilaita Grönlantiin",
+          "content": "",
+          "date": "2026-01-14T19:37:30.000Z",
+          "categories": [
+            "politiikka",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6873751"
         }
       ]
     },
     {
-      "mainTitle": "Lähisuhdeväkivalta ja henkirikosepäilyt Suomessa",
+      "mainTitle": "Suomalainen yritti luvattomasti Venäjälle",
       "mainCategories": [
+        "Kotimaa",
+        "Turvallisuus",
+        "Imatra"
+      ],
+      "imageUrl": "/images/venäjä/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomen kansalainen pyrki luvattomasti maaston kautta Venäjälle Imatralla",
+          "content": "Henkilö otettiin kiinni itärajan esteaidan luona valvontajärjestelmän tuottaman hälytyksen perusteella.",
+          "date": "2026-01-15T14:01:57.000Z",
+          "categories": [
+            "turvallisuus",
+            "imatra",
+            "etelä-karjala",
+            "kaakkois-suomi",
+            "rajavartiolaitos",
+            "rajavalvonta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20204569?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Suomen kansalainen yritti luvattomasti Venäjälle",
+          "content": "Luvattoman rajanylityksen yritys tapahtui varhain aamulla. Suomen kansalainen yritti varhain torstaiaamuna päästä luvattomasti Suomesta Venäjän puolelle Imatran alueella, Rajavartiolaitos tiedottaa. Maaston kautta rajan ylitystä yrittänyt henkilö otettiin kiinni itärajan esteaidan luona sen jälkeen, kun valvontajärjestelmä oli antanut Kaakkois-Suomen rajavartiostolle hälytyksen.",
+          "date": "2026-01-15T14:01:36.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/8e6285d3-b586-49f5-949e-757bec8d41af"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Itäraja | Suomalainen yritti luvattomasti rajan yli Venäjälle Imatralla",
+          "content": "Kaakkois-Suomen rajavartiosto otti maaston kautta rajan yli yrittäneen kiinni itärajan esteaidan luona.",
+          "date": "2026-01-15T14:01:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011752073.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Naisiin kohdistuvat henkirikokset Suomessa lisääntyneet",
+      "mainCategories": [
+        "Kotimaa",
         "Henkirikokset",
-        "Rikokset",
-        "Kotimaa"
+        "Rikokset"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Vakava rikosepäily: Nelikymppinen nainen löytyi surmattuna Turusta",
+          "content": "Poliisi epäilee henkirikoksesta 57-vuotiasta miestä, jolla on rutkasti aiempaa rikostaustaa.",
+          "date": "2026-01-15T13:57:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011751887.html"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -166,13 +373,193 @@
       ]
     },
     {
-      "mainTitle": "Jere Karalahdelle syytteet huumerikoksista",
+      "mainTitle": "Nestlé laajentaa äidinmaidonkorvikkeen takaisinvetoa",
+      "mainCategories": [
+        "Kotimaa",
+        "Suomi",
+        "Taloussanomat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Jättimäinen takaisinveto laajenee – Älä anna tätä tuotetta vauvalle",
+          "content": "Nestlé pahoittelee historiansa suurinta takaisinvetoa. Tilanne koskee noin 60 eri maata, mukaan lukien Suomea.  Nestlén laajaan takaisinvetoon on lisätty yksi tuote, tiedottaa Ruokavirasto. Kyseessä on kliininen ravintovalmiste refluksitaudin ruokavaliohoitoon. Tarkemmin sanottuna tuote on nimeltään Nestlé NAN A.R. 800g. Sen erätunnus on 51570742F5 ja siinä on parasta ennen -merkintä 12/2026, EAN 8445290635150.",
+          "date": "2026-01-15T13:46:58.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/c06a87a3-752e-447f-b165-bc755d80eee6"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Nestlén äidinmaidon­korvikkeen takaisin­veto laajenee taas",
+          "content": "Nyt takaisinvedettävää erää on toimitettu pieniä määriä S-ryhmän myymälöihin viime marraskuun puolivälistä alkaen.",
+          "date": "2026-01-15T09:24:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011750839.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Äidinmaitokorvikkeiden takaisinveto laajenee",
+          "content": "",
+          "date": "2026-01-15T08:58:39.000Z",
+          "categories": [
+            "takaisinveto",
+            "vauvat",
+            "elintarviketeollisuus",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6874195"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Takaisin­vedot | Nestlé laajentaa äidin­maidon­korvikkeiden takaisin­vetoa",
+          "content": "Uusi takaisinveto koskee NAN A.R. -ravintovalmisteen yhtä erää.",
+          "date": "2026-01-15T08:44:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011750713.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Erittäin liukkaita teitä odotettavissa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ilmatieteen laitos varoittaa – nyt tulee erittäin liukasta",
+          "content": "Sää lauhtuu ja tulee sateita. Muuta ei tarvita.",
+          "date": "2026-01-15T13:43:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011751850.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Keli muuttuu vielä huonommaksi: Tiet ovat pian erittäin liukkaita",
+          "content": "Sää lauhtuu, ja luvassa on jäätäviä sateita laajoihin osiin maata.",
+          "date": "2026-01-15T13:08:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011751773.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "OP:n verkkopalveluissa häiriöitä edelleen",
+      "mainCategories": [
+        "Kotimaa",
+        "Teknologia",
+        "Korttimaksut"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pankit | Häiriöt OP:n verkko­sivuilla jatkuvat, mobiili­palvelut toimivat taas",
+          "content": "Verkkopalveluihin ei pääse kirjautumaan, mutta korttimaksu toimii.",
+          "date": "2026-01-15T13:38:00.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.hs.fi/talous/art-2000011750932.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "OP:n mobiilipalveluiden häiriöt korjattu, verkon osalta ongelmat jatkuvat",
+          "content": "OP:n pankkipalveluissa on ollut torstaina häiriöitä. OP kertoo verkkosivuillaan, että OP-mobiilissa ja verkkosivuilla esiintyy ajoittaisia häiriöitä ja vikaa korjataan parhaillaan.",
+          "date": "2026-01-15T10:22:08.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/opn-mobiilipalveluiden-hairiot-korjattu-verkon-osa/12491696?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Osuuspankin mobiilisovelluksen häiriö korjattu, verkkopalvelun vika jatkuu",
+          "content": "",
+          "date": "2026-01-15T09:11:17.000Z",
+          "categories": [
+            "pankit",
+            "häiriöt",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6874226"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "OP-mobiilin häiriöt korjattu",
+          "content": "",
+          "date": "2026-01-15T08:55:35.000Z",
+          "categories": [
+            "teknologia",
+            "korttimaksut",
+            "op-ryhmä",
+            "maksuvälineet",
+            "pankkitoiminta",
+            "matkapuhelimet ja mobiililaitteet",
+            "rahoitus- ja yrityspalvelut",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20204443?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Jere Karalahdelle syytteet huumerikoksista",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Huumausainerikokset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Jere Karalahdelle syytteet kahdesta törkeästä huumerikoksesta",
+          "content": "Entinen huippujääkiekkoilija Jere Karalahti on saanut syytteet yhteensä kolmesta huumerikoksesta. Hän kiistää syyllistyneensä huumerikoksiin.",
+          "date": "2026-01-15T13:37:27.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "huumausainerikokset",
+            "jere karalahti",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20204545?origin=rss"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -200,46 +587,69 @@
       ]
     },
     {
-      "mainTitle": "Trump uhkaa Minnesotaa mielenosoitusten vuoksi",
+      "mainTitle": "Eduskunnassa häirintäongelmat esiin nousseet",
       "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat"
+        "Politiikka"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump uhkaa Minnesotaa kapinalailla",
-          "content": "Trump syytti osavaltion poliitikkoja korruptiosta ja käski heitä tukahduttamaan protestit. Minnesotassa on käynnissä laajoja ICE-mielen­osoituksia.",
-          "date": "2026-01-15T13:27:35.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Häirintäkohu ravistelee eduskuntaa – Nyt puhuu pääsihteeri",
+          "content": "Pääsihteerin sijainen Mikael Koillinen korostaa, että eduskunnan on mietittävä työyhteisön kehittämistä aidosti häirintävapaaksi.  Eduskunnan kanslia tiedottaa jatkavansa työtä epäasiallisen kohtelun estämiseksi. Kanslian mukaan esiin tulleet tiedot epäasiallisesta kohtelusta eduskunnassa ovat valitettavia, ja eduskunnassa on nollatoleranssi epäasialliselle kohtelulle ja häirinnälle. – Jokaisella talossa työskentelevällä on oikeus työskennellä turvallisissa olosuhteissa joutumatta häirinnän tai muun epäasiallisen kohtelun kohteeksi, painottaa eduskunnan vs. pääsihteeri Mikael Koillinen tiedotteessa.",
+          "date": "2026-01-15T13:35:10.000Z",
           "categories": [
-            "yhdysvallat",
-            "ulkomaat"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20204549?origin=rss"
+          "link": "https://www.iltalehti.fi/politiikka/a/aabe5ba6-dcb4-4a25-a083-e323f1cc0034"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Eduskunta | Oikeustieteilijä häirintäväitteistä: aivan selvä työsuojeluongelma",
+          "content": "Työnantaja voi syyllistyä rikokseen, jos seksuaaliseen häirintään ei puututa. Myös ”epäterveen” työilmapiirin luominen on lainvastaista.",
+          "date": "2026-01-14T19:36:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011748302.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Trumpin ICE-joukot pidättivät kirahviksi pukeutuneen miehen",
-          "content": "Minneapolisissa on osoitettu mieltä Donald Trumpin maahanmuutto- ja tulliviranomaisia vastaan.",
-          "date": "2026-01-14T12:30:00.000Z",
+          "title": "Kansanedustaja tilittää: Iäkäs mies­kansan­edustaja kävi käsiksi",
+          "content": "Alviina Alametsän mukaan seksuaalinen häirintä on vain osa asiatonta käytöstä, jota politiikassa tapahtuu.",
+          "date": "2026-01-14T17:35:00.000Z",
           "categories": [
-            "ulkomaat"
+            "politiikka"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011746348.html"
+          "link": "https://www.is.fi/politiikka/art-2000011749957.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Häirintä | Eduskunnassa varoitetaan naisia ennen pikkujouluja, avustaja kertoo, toiselle ehdotettiin seksiä",
+          "content": "Ville Merinen toi esiin eduskunnan avustajien huonon kohtelun. Se on vähentynyt menneistä vuosista, mutta ei loppunut, HS:n haastattelemat avustajat kertovat.",
+          "date": "2026-01-14T04:16:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011746343.html"
         }
       ]
     },
     {
-      "mainTitle": "Hallituksen esitys määräaikaisten työsopimusten helpottamisesta",
+      "mainTitle": "Hallituksen lakimuutos heikentää työntekijöiden asemaa",
       "mainCategories": [
         "Politiikka",
-        "Työsopimukset",
-        "Kotimaa"
+        "Työmarkkinat",
+        "Työsopimukset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -278,20 +688,6 @@
             "politiikka"
           ],
           "link": "https://yle.fi/a/74-20204245?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hallituksen esitys määräaikaisten työsopimusten helpottamisesta valmistui – Tehy pelkää raskaussyrjintää",
-          "content": "Jatkossa määräaikaisen työsopimuksen voisi solmia vuodeksi ilman perusteltua syytä.",
-          "date": "2026-01-14T12:13:33.000Z",
-          "categories": [
-            "politiikka",
-            "työsopimukset",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20204246?origin=rss"
         }
       ]
     },
@@ -411,13 +807,13 @@
       ]
     },
     {
-      "mainTitle": "Iranin tilanne kriisiytyy mahdollisesti lähiaikoina",
+      "mainTitle": "Iranin mielenosoitukset ja Yhdysvaltojen uhkaukset",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
         "Iran"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -569,66 +965,11 @@
       ]
     },
     {
-      "mainTitle": "Eurooppalaiset sotajoukot kokoontuvat Grönlantiin",
-      "mainCategories": [
-        "Ulkomaat",
-        "Grönlanti",
-        "Sotilaat"
-      ],
-      "imageUrl": "/images/ranska/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eurooppalainen sotajoukko kokoontuu Grönlantiin – mukana myös ranskalaisosasto ja yksi britti",
-          "content": "Mukana on väkeä Ruotsin, Norjan, Saksan, Ranskan, Britannian ja Alankomaiden asevoimista.",
-          "date": "2026-01-15T12:27:18.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "grönlanti",
-            "ulkomaat",
-            "sotilaat",
-            "tanska",
-            "ranska",
-            "sotaharjoitukset",
-            "sotilastukikohdat",
-            "tanskan asevoimat"
-          ],
-          "link": "https://yle.fi/a/74-20204526?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Valtonen Ylellä: Myös Suomelta pyydetty sotilaita Grönlantiin",
-          "content": "Ruotsin, Norjan ja Saksan on uutisoitu lähettävän asevoimien henkilöstöä Grönlantiin. Valtosen mukaan Suomen osalta pohdintaa tehdään \"Naton piirissä\".",
-          "date": "2026-01-14T20:30:19.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/valtonen-ylella-myos-suomelta-pyydetty-sotilaita-g/12490931?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ruotsi lähettää sotilaita Grönlantiin",
-          "content": "Aiemmin tänään Tanska ilmoitti lisäävänsä sotilaallista läsnäoloaan Grönlannissa.",
-          "date": "2026-01-14T18:45:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011749870.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "SDP teettää selvityksen häirintäilmiöistä",
       "mainCategories": [
-        "Politiikka",
-        "Eduskunta",
-        "Kansanedustajat"
+        "Politiikka"
       ],
-      "imageUrl": "/images/eduskunta/2.jpg",
+      "imageUrl": "/images/eduskunta/1.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -655,18 +996,6 @@
           "link": "https://www.is.fi/politiikka/art-2000011750647.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kommentti: Tällaista sotkua SDP ei osannut ennakoida",
-          "content": "Ville Merinen sooloilee, mutta koska hänen asiansa on niin tärkeä, SDP ei voi kritisoida häntä ääneen, kirjoittaa uutispäällikkö Solmu Salminen. Kansanedustaja Ville Merinen (sd) jatkaa kovaa rymistelyään eduskunnan työhyvinvointiasioissa ja näyttää oikeastaan jo sementoivan omaa poliittista imagoaan kansanedustuslaitoksen johtavana ”pilliin puhaltajana”. Merinen on tärkeällä asialla, eikä hän sitä ajaessaan näytä kaihtavan edes oman puolueensa asettamista kiusalliseen tilanteeseen. SDP on johtanut gallupeja ronskilla erolla. Puolueen ainoa tolkullinen taktiikka on nyt välttää virheitä ja pysytellä omien, mahdollisimman rakentavien poliittisten avaustensa parissa. Nyt SDP löysi itsensä myöntämästä, että väitetyt tapaukset voivat koskea myös sen omaa eduskuntaryhmää.",
-          "date": "2026-01-15T10:32:32.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/6083e6b4-d07f-4234-bc02-cd66950ccc5f"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -677,6 +1006,18 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011750772.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Häirintäkohu riepottelee Sdp:tä – Sdp:n kansanedustaja: ”Pakottaa katsomaan peiliin”",
+          "content": "IS uutisoi viidestä häirintätapauksesta Sdp:n sisällä.",
+          "date": "2026-01-15T06:59:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011750371.html"
         },
         {
           "publisherId": "is",
@@ -713,91 +1054,15 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011748920.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eduskunnassa on häirintää, toteaa SDP:n Tytti Tuppurainen keskusteltuaan Ville Merisen kanssa",
-          "content": "SDP:n kansanedustaja Ville Merinen vaati SDP:n sisäisessä viestikeskustelussa, että ryhmän pitäisi kokoontua perjantaina käsittelemään eduskunnan väitettyjä häirintätapauksia.",
-          "date": "2026-01-14T12:14:34.000Z",
-          "categories": [
-            "politiikka",
-            "suomen eduskunta",
-            "eduskunta",
-            "suomen sosialidemokraattinen puolue",
-            "tytti tuppurainen",
-            "ville merinen",
-            "yle uutiset somenostot"
-          ],
-          "link": "https://yle.fi/a/74-20204244?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ville Merinen pitää kiinni puheistaan avustajien kohtelusta eduskunnassa",
-          "content": "Kansanedustaja kertoo asiasta sosiaalisessa mediassa. Eilen eduskunnan puhemies Jussi Halla-aho kertoi, ettei hänen tiedossa ole avustajien häirintää.",
-          "date": "2026-01-14T05:36:24.000Z",
-          "categories": [
-            "politiikka",
-            "kansanedustajat",
-            "eduskunta"
-          ],
-          "link": "https://yle.fi/a/74-20204133?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Elon Muskin tekoälybotti herättää kritiikkiä",
-      "mainCategories": [
-        "Teknologia",
-        "Tekoäly",
-        "Internet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Elon Muskin tekoälybotti riisuu kenet tahansa, mutta se on vasta alkua",
-          "content": "Kritiikkivyöry sai X-alustan muuttamaan Grokin sääntöjä, mutta naisten riisuminen jatkuu muualla, kirjoittaa verifiointi­tiimin toimittaja Johanna Vehkoo.",
-          "date": "2026-01-15T12:14:24.000Z",
-          "categories": [
-            "teknologia",
-            "tekoäly",
-            "internet",
-            "pornografia",
-            "grok",
-            "x (entinen twitter)",
-            "deepfake",
-            "meta",
-            "openai"
-          ],
-          "link": "https://yle.fi/a/74-20204062?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Elon Muskin X taipui – sanoo estäneensä riisuntakuvien tehtailun Grok-tekoälyllä alueellisesti",
-          "content": "",
-          "date": "2026-01-15T08:23:53.000Z",
-          "categories": [
-            "sosiaalinen media",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204434?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tampereen ampumismurha: tuomio pysyy ennallaan",
+      "mainTitle": "Tampereen raskaana olevan naisen murha tuomittiin",
       "mainCategories": [
         "Kotimaa",
-        "Pirkanmaa",
-        "Rikokset"
+        "Rikokset",
+        "Pirkanmaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -850,24 +1115,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20202607?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Miestä syytetään toisen miehen murhasta Tampereella – taustalla kolmiodraama ja mustasukkaisuus",
-          "content": "Henkirikos tapahtui Tampereella Amurin kaupunginosassa Näsijärven­kadulla 28. maaliskuuta.",
-          "date": "2026-01-15T07:54:28.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "tampere",
-            "henkirikokset",
-            "murha",
-            "amuri",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20204412?origin=rss"
         }
       ]
     },
@@ -878,7 +1125,7 @@
         "Maailma",
         "Talousaamu"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -941,51 +1188,10 @@
       ]
     },
     {
-      "mainTitle": "Naalien määrä Fennoskandiassa laskenut merkittävästi",
+      "mainTitle": "Finnair keskeyttää lennot Irakin ilmatilassa",
       "mainCategories": [
-        "Kotimaa",
-        "Eläimet",
-        "Naali"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Naalit vähenivät rajusti",
-          "content": "Sekä naalipoikueiden että aikuisten naalien määrä laski edellisvuodesta. Vuonna 2025 Fennoskandiassa vahvistettiin yhteensä 97 naalipentuetta, mikä on selvästi edellisvuotta vähemmän. Naaliseurannan tuoreen raportin mukaan poikueista 56 havaittiin Ruotsissa, 38 Norjassa ja kolme Suomessa. Viime vuonna Suomessa syntyi yhteensä neljä pentua. Laji on äärimmäisen uhanalainen.",
-          "date": "2026-01-15T11:11:06.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/29e4d3d9-2a04-47aa-b31f-098512186092"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomeen syntyi jälleen uusia naalipentueita – jo neljäs perättäinen vuosi",
-          "content": "Suomessa elää tällä hetkellä 10–20 naalia. Osa niistä on muuttanut tänne rajan yli. ",
-          "date": "2026-01-14T23:00:35.000Z",
-          "categories": [
-            "eläimet",
-            "naali",
-            "luonto",
-            "lappi",
-            "tunturit",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20204279?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Finnair keskeytti lennot Irakin ilmatilassa",
-      "mainCategories": [
-        "Liikenne",
-        "Finnair",
-        "Talous"
+        "Talous",
+        "Taloussanomat"
       ],
       "imageUrl": "/images/finnair/1.jpg",
       "relatedNews": [
@@ -1000,18 +1206,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011751291.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Finnair teki muutoksia – Nämä lennot pitenevät",
-          "content": "Finnair on keskeyttänyt lennot Irakin ilmatilan läpi. Finnair on keskeyttänyt lentonsa Irakin ilmatilan läpi, kerrotaan Finnairin viestinnästä. Syynä keskiviikkona tehdylle päätökselle on Lähi-idän turvallisuustilanne.",
-          "date": "2026-01-15T11:00:56.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/e2397f8e-3072-4e29-a31b-1f595f6fbb88"
         },
         {
           "publisherId": "is",
@@ -1034,49 +1228,36 @@
           "date": "2026-01-15T10:38:36.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/finnair-on-keskeyttanyt-lentonsa-irakin-ilmatilan/12491709?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair on keskeyttänyt lentonsa Irakin ilmatilan läpi Lähi-idän tilanteen vuoksi",
-          "content": "Finnairin viestintä kertoo asiasta STT:lle.",
-          "date": "2026-01-15T10:26:45.000Z",
-          "categories": [
-            "liikenne",
-            "finnair"
-          ],
-          "link": "https://yle.fi/a/74-20204472?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin talvikeli sekoitti Euroopan liikenteen – uusi kaaos uhkaa",
-          "content": "Finnairin lento Gdanskiin on peruttu.",
-          "date": "2026-01-14T11:46:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011747911.html"
         }
       ]
     },
     {
-      "mainTitle": "Vankiloissa tilanpuute pahentunut merkittävästi",
+      "mainTitle": "Suomen vankiloiden yliasutus kriittinen",
       "mainCategories": [
+        "Kotimaa",
         "Rikokset",
-        "Vankilat",
-        "Helsinki"
+        "Vankilat"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Karmeita lukuja Suomen vankiloista",
+          "content": "Iso osa Suomen vankiloista on ääriään myöten täynnä. Vankimäärän arvioidaan kasvavan entisestään.  Suomen vankiloiden yliasutuksesta on kantautunut uusia, huolestuttavia lukuja. Rikosseuraamuslaitoksen (Risen) tuoreiden tilastojen mukaan vankiloiden käyttöaste on nyt keskimäärin 110 prosenttia.",
+          "date": "2026-01-15T11:02:37.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/9c89b09c-ef73-464f-802c-6d28ed9921a4"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
           "title": "Vankiloissa on nyt täyttä ja turvatonta – vankeja on asunut jopa saunan pukuhuoneessa",
-          "content": "Helsingin vankilassa vankeja on jouduttu asuttamaan pahimmillaan saunan pukuhuoneessa tilanpuutteen vuoksi. ",
+          "content": "Vankiloiden henkilökuntaan kohdistuneet väkivaltatilanteet ovat lähes kaksinkertaistuneet vuoden aikana. Rikosseuraamuslaitos pitää tilannetta vakavana. ",
           "date": "2026-01-15T11:00:12.000Z",
           "categories": [
             "rikokset",
@@ -1106,13 +1287,13 @@
       ]
     },
     {
-      "mainTitle": "Grönlannin tulevaisuus kiistakapulana Yhdysvalloissa",
+      "mainTitle": "Grönlannin tulevaisuus Tanskan ja Yhdysvaltojen käsissä",
       "mainCategories": [
         "Ulkomaat",
-        "Yhdysvallat",
-        "Tanska"
+        "Maailma",
+        "Yhdysvallat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1166,24 +1347,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011750200.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump sanoo uskovansa, että Grönlannista päästään ratkaisuun",
-          "content": "",
-          "date": "2026-01-15T01:43:29.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "donald trump",
-            "yhdysvallat",
-            "tanska",
-            "grönlanti",
-            "presidentti trumpin hallinto",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204375?origin=rss"
         },
         {
           "publisherId": "is",
@@ -1242,29 +1405,17 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011746463.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Grönlannin pää­ministeriltä tiukka viesti Trumpille",
-          "content": "Trump on sanonut havittelevansa Grönlantia.",
-          "date": "2026-01-13T14:15:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011747055.html"
         }
       ]
     },
     {
-      "mainTitle": "Grönlanti-kokouksessa keskusteltiin turvallisuusuhista",
+      "mainTitle": "Grönlanti ja Ukraina keskustelun keskiössä",
       "mainCategories": [
-        "Grönlanti",
-        "Tanska",
-        "Maailma"
+        "Maailma",
+        "Valtioneuvosto",
+        "Grönlanti"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1300,26 +1451,6 @@
           "link": "https://www.hs.fi/maailma/art-2000011749012.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Videoanalyysi: Grönlanti-kokouksessa ei päästy sopuun saaren kohtalosta, mutta uhittelu taukosi toistaiseksi",
-          "content": "Yhdysvaltain, Grönlannin ja Tanskan keskiviikkoisessa kokouksessa ei päästy sopuun erimielisyyksistä, mutta vältyttiin riidalta ja uusilta uhkauksilta.",
-          "date": "2026-01-15T00:37:00.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "grönlanti",
-            "grönlantilaiset",
-            "donald trump",
-            "presidentti trumpin hallinto",
-            "j. d. vance",
-            "tanska",
-            "lars løkke rasmussen",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20203921?origin=rss"
-        },
-        {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
@@ -1332,409 +1463,6 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6873590"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin valtapolitiikka ja Grönlanti",
-      "mainCategories": [
-        "Grönlanti",
-        "Ulkomaat",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/trump/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ykkösaamun vieraana Hiski Haukkala – Mitä haluat kysyä Ulkopoliittisen instituutin johtajalta?",
-          "content": "Presidentti Donald Trumpin Yhdysvallat ajaa nyt etujaan voimalla kansain­välisessä politiikassa. Miten suurvallan valtapolitiikka vaikuttaa Suomeen?",
-          "date": "2026-01-15T10:33:46.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "yhdysvallat",
-            "venezuela",
-            "grönlanti",
-            "iran",
-            "ykkösaamu",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204439?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "UPI:n tutkija: Trump ajattelee Grönlantia ”kiinteistödiilinä” ",
-          "content": "Ulkopoliittisen instituutin tutkija Ville Sinkkosen mukaan Grönlannin kysymys on ”parkkiintunut” Yhdysvaltain presidentti Donald Trumpin päähän.",
-          "date": "2026-01-15T06:56:19.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "tanska",
-            "donald trump",
-            "grönlanti",
-            "yhdysvaltojen politiikka",
-            "ulkopoliittinen instituutti",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204391?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "OP:n pankkipalveluissa häiriöitä ja korjauksia",
-      "mainCategories": [
-        "Kotimaa",
-        "Teknologia",
-        "Korttimaksut"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "OP:n pankkipalveluissa esiintyy häiriöitä",
-          "content": "OP:n pankkipalveluissa on ollut torstaina häiriöitä. OP kertoo verkkosivuillaan, että OP-mobiilissa ja verkkosivuilla esiintyy ajoittaisia häiriöitä ja vikaa korjataan parhaillaan.",
-          "date": "2026-01-15T10:22:08.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/opn-pankkipalveluissa-esiintyy-hairioita/12491696?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Osuuspankin mobiilisovelluksen häiriö korjattu, verkkopalvelun vika jatkuu",
-          "content": "",
-          "date": "2026-01-15T09:11:17.000Z",
-          "categories": [
-            "pankit",
-            "häiriöt",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6874226"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "OP-mobiilin häiriöt korjattu",
-          "content": "",
-          "date": "2026-01-15T08:55:35.000Z",
-          "categories": [
-            "teknologia",
-            "korttimaksut",
-            "op-ryhmä",
-            "maksuvälineet",
-            "pankkitoiminta",
-            "matkapuhelimet ja mobiililaitteet",
-            "rahoitus- ja yrityspalvelut",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20204443?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin mielenosoitusten teloituksia lykätty",
-      "mainCategories": [
-        "Mielenosoitukset",
-        "Iran",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iran: Vangittua mielenosoittajaa ei ole tuomittu kuolemaan",
-          "content": "",
-          "date": "2026-01-15T09:20:13.000Z",
-          "categories": [
-            "mielenosoitukset",
-            "iran",
-            "teloitus",
-            "mielenosoittaja",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204456?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iranin ulkoministeri: Teloituksia ei tehdä ”tänään tai huomenna”",
-          "content": "Ihmisoikeus­järjestön mukaan Iranin mielen­osoitusten yhteydessä kiinni otetun miehen teloitusta on lykätty.",
-          "date": "2026-01-15T01:00:47.000Z",
-          "categories": [
-            "lähi-itä",
-            "iran",
-            "mielenosoitukset",
-            "yhdysvallat",
-            "abbas araghchi",
-            "levottomuudet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204373?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Järjestö: Iranissa kuollut yli 3 400 mielenosoittajaa",
-          "content": "",
-          "date": "2026-01-14T20:26:04.000Z",
-          "categories": [
-            "ihmisoikeudet",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6873787"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Rehn hävisi EKP:n varapääjohtajan vaalit",
-      "mainCategories": [
-        "Politiikka",
-        "EU"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Rehn kärsi tappion",
-          "content": "Euroopan parlamentti valitsi Portugalin ja Latvian ehdokkaat suosikeiksi EKP:n varapääjohtajan tehtävään – Suomen Olli Rehn kärsi tappion.",
-          "date": "2026-01-15T09:17:00.000Z",
-          "categories": [
-            "eu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/55af85c4-a07f-4818-a5aa-371aa99b39ec"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Nimitykset | EU-parlamentti haastattelee Rehnin ja muut EKP:n vara­pää­johtaja­ehdokkaat",
-          "content": "Olli Rehnin lisäksi etähaastattelussa on viisi muuta ehdokasta, joista useimmilla on keskuspankkitausta.",
-          "date": "2026-01-14T10:49:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011748221.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nestlé laajentaa äidinmaidonkorvikkeen takaisinvetoa",
-      "mainCategories": [
-        "Elintarvikkeet",
-        "Ruokavirasto",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Takaisin­vedot | Nestlé laajentaa äidin­maidon­korvikkeiden takaisin­vetoa",
-          "content": "Uusi takaisinveto koskee NAN A.R. -ravintovalmisteen yhtä erää.",
-          "date": "2026-01-15T08:44:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011750713.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nestlén äidinmaidonkorvikkeen takaisinvetoon yksi tuote lisää ",
-          "content": "Takaisinvetoon lisätty tuote on kliininen ravintovalmiste refluksitaudin hoitoon. ",
-          "date": "2026-01-15T08:33:05.000Z",
-          "categories": [
-            "elintarvikkeet",
-            "tuotteen takaisinveto",
-            "ruokavirasto",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20204437?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Raaseporin murhasta epäillään kolmea miestä",
-      "mainCategories": [
-        "Henkirikokset",
-        "Raasepori",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi epäilee kolmea ulkomaalaistaustaista miestä Raaseporin epäillystä murhasta",
-          "content": "Keskusrikospoliisin mukaan epäillyt tekijät ovat Puolan ja Ukrainan kansalaisia.",
-          "date": "2026-01-15T08:22:59.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "henkirikokset",
-            "murhaepäilty",
-            "poliisitutkinta",
-            "esitutkinta",
-            "raasepori",
-            "länsi-uusimaa",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20204422?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "KRP:n esitutkinta Raaseporin murhasta valmistunut, epäiltyinä kolme ulkomaan kansalaista",
-          "content": "",
-          "date": "2026-01-15T08:20:56.000Z",
-          "categories": [
-            "henkirikokset",
-            "raasepori",
-            "krp",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6874171"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ericsson irtisanoo 1 600 työntekijää Ruotsissa",
-      "mainCategories": [
-        "Ruotsi",
-        "Ulkomaat",
-        "Talous"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yritykset | Nokian kilpailija Ericsson aikoo karsia 1 600 työ­paikkaa Ruotsissa",
-          "content": "Ericsson työllistää Ruotsissa noin 12 600 ihmistä.",
-          "date": "2026-01-15T08:21:00.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.hs.fi/talous/art-2000011750659.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Telejätti Ericsson aikoo irtisanoa 1 600 työntekijää Ruotsissa",
-          "content": "",
-          "date": "2026-01-15T08:18:15.000Z",
-          "categories": [
-            "ruotsi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204429?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "ICE-agentti ampui miestä Minneapolisissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Maahanmuutto"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "ICE-agentti ampui miestä jalkaan Minneapolisissa",
-          "content": "Välikohtaus tapahtui viikko sen jälkeen, kun ICE-agentti ampui naisen kuoliaaksi samassa kaupungissa.",
-          "date": "2026-01-15T08:07:12.000Z",
-          "categories": [
-            "yhdysvallat",
-            "maahanmuutto",
-            "minneapolis",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204421?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "ICE-agentti ampui miestä Minneapolisissa – hakattiin lumi­lapiolla",
-          "content": "Yhdysvaltain sisäisen turvallisuuden ministeriön mukaan miehet hyökkäsivät ICE-agentin kimppuun harjanvarrella ja lumi­lapiolla.",
-          "date": "2026-01-15T07:25:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011750358.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Astronautit evakuoituivat Kansainväliseltä avaruusasemalta",
-      "mainCategories": [
-        "Avaruus",
-        "Astronautit",
-        "Nasa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Historiallinen evakuointilento Kansainväliseltä avaruusasemalta: astronautit palasivat Maahan",
-          "content": "Neljä Kansainvälisen avaruusaseman astronauttia palasi tänään Maahan etuajassa. Syynä ovat yhden astronautin terveyshuolet.",
-          "date": "2026-01-15T08:04:33.000Z",
-          "categories": [
-            "avaruus",
-            "kansainvälinen avaruusasema",
-            "avaruusasemat",
-            "astronautit",
-            "nasa",
-            "avaruusohjelmat",
-            "avaruustukikohdat",
-            "yle uutiset somenostot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204420?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Neljän hengen miehistön paluu ISS:ltä alkanut, taustalla terveyssyyt",
-          "content": "Crew 11 -miehistö palaa kotiin Kansain­väliseltä avaruusasemalta etuajassa. Nasan mukaan ratkaisuun päädyttiin yhden miehistön jäsenen terveydentilan vuoksi.",
-          "date": "2026-01-15T00:19:40.000Z",
-          "categories": [
-            "avaruus",
-            "kansainvälinen avaruusasema",
-            "nasa",
-            "astronautit",
-            "avaruusohjelmat",
-            "avaruusliikenne",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204374?origin=rss"
         }
       ]
     },
@@ -1816,83 +1544,6 @@
       ]
     },
     {
-      "mainTitle": "Hakkuiden vähentäminen vaaditaan ilmastotavoitteiden vuoksi",
-      "mainCategories": [
-        "Ilmasto",
-        "Luonto",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Hirmuinen savotta edessä: Monella ei riitä kantti kieltää metsänomistajaa kaatamasta puita",
-          "content": "Tuoreen raportin mukaan hakkuita pitäisi vähentää ilmastotavoitteiden saavuttamiseksi. Moni asia tekee yhtälöstä nyt poliittisesti erittäin vaikean.",
-          "date": "2026-01-15T05:00:00.000Z",
-          "categories": [
-            "metsä"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/2993d7fa-119c-4b85-bff5-44f2ae53909f"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Raportti: Suomen hillittävä hakkuita, jos ilmastotavoitteet halutaan toteuttaa",
-          "content": "",
-          "date": "2026-01-14T13:30:00.000Z",
-          "categories": [
-            "metsä",
-            "avohakkuut",
-            "luonto",
-            "ilmasto",
-            "ilmastokriisi",
-            "ympäristö",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6873260"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ilmastotavoitteet | Asiantuntija­raportti: Hakkuita vähennettävä – hallitus kieltäytyy",
-          "content": "Ympäristöministeri Sari Multala uskoo, että Suomi saa suurille hakkuumäärille ymmärrystä EU:ssa.",
-          "date": "2026-01-14T10:45:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011745799.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Uusi selvitys: Suomessa voidaan hakata kymmeniä miljoonia kuutioita metsää ja samalla täyttää ilmasto­tavoitteet",
-          "content": "Tiedepaneelien mukaan hakkuita pitää vähentää ja suojelualueita lisätä, jotta Suomi pääsee sekä ilmasto- että luonnon moni­muotoisuutta koskeviin tavoitteisiin.",
-          "date": "2026-01-13T23:00:35.000Z",
-          "categories": [
-            "metsät",
-            "metsäteollisuus",
-            "ilmastonmuutos",
-            "ilmasto",
-            "luonnonsuojelu",
-            "metsätalous",
-            "luonto",
-            "talous",
-            "talousmetsät",
-            "kotimaa",
-            "tiede",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20203141?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Paloissa pelastettiin asukas ja koirat",
       "mainCategories": [
         "Suomi",
@@ -1961,11 +1612,11 @@
       ]
     },
     {
-      "mainTitle": "Orpo ehdottaa sosiaalisen median kieltoa alle 15-vuotiailta",
+      "mainTitle": "Sosiaalisen median rajoituksia nuorille ehdotetaan",
       "mainCategories": [
         "Politiikka",
         "Kotimaa",
-        "Nuoret"
+        "Uutiset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1982,23 +1633,6 @@
           "link": "https://www.is.fi/politiikka/art-2000011745646.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Orpo harkitsee muiden maiden tavoin sosiaalisen median kieltoa alle 15-vuotiaille, asiantuntijalta karu arvio somesta",
-          "content": "Mitä myöhemmin lapset aloittavat sosiaalisen median käytön, sitä alhaisempaa säännöllinen käyttö 15 vuoden iässä on, sanovat tutkimukset.",
-          "date": "2026-01-14T17:45:25.000Z",
-          "categories": [
-            "nuoret",
-            "ruutuaika",
-            "ikärajat",
-            "sosiaalinen media",
-            "terveys",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20204259?origin=rss"
-        },
-        {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
@@ -2012,31 +1646,6 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/uutiset/6873587"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Orpolta tiukka esitys somen käytöstä – ei alle 15-vuotiaille",
-          "content": "Pääministeri Orpo korosti liiallisen ruutuajan yhteyttä liikkumattomuuteen.",
-          "date": "2026-01-14T09:02:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011748300.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Petteri Orpo: Sosiaalisen median käyttö tulisi kieltää alle 15-vuotiailta",
-          "content": "Pääministerin mukaan sosiaalinen media on merkittävä syy sille, että lapset ja nuoret eivät harrasta riittävästi esimerkiksi liikuntaa.",
-          "date": "2026-01-14T08:54:58.000Z",
-          "categories": [
-            "politiikka",
-            "sosiaalinen media"
-          ],
-          "link": "https://yle.fi/a/74-20204177?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -2111,142 +1720,70 @@
       ]
     },
     {
-      "mainTitle": "Stubb ehdolla EU:n Ukraina-neuvottelijaksi",
+      "mainTitle": "Suomi harkitsee sotilaita Grönlantiin",
       "mainCategories": [
-        "Politiikka",
-        "Ukraina"
+        "Kotimaa"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Diplomatia | Ajetaanko Stubbia uuteen, painavaan tehtävään? Tämä asiasta tiedetään",
-          "content": "EU:n mahtivaltiot Ranska ja Italia haluavat perustaa uuden neuvottelijanroolin suhteessa Venäjään ja Yhdysvaltoihin.",
-          "date": "2026-01-14T18:09:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011748418.html"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Valtonen Ylellä: Myös Suomelta pyydetty sotilaita Grönlantiin",
+          "content": "Ruotsin, Norjan ja Saksan on uutisoitu lähettävän asevoimien henkilöstöä Grönlantiin. Valtosen mukaan Suomen osalta pohdintaa tehdään \"Naton piirissä\".",
+          "date": "2026-01-14T20:30:19.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/valtonen-ylella-myos-suomelta-pyydetty-sotilaita-g/12490931?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Laatulehti rankkasi Stubbin ehdolle kovaan pestiin – näin Suomessa suhtaudutaan",
-          "content": "Arvostettu lehti nostaa Stubbia Euroopan mahdolliseksi rauhanneuvottelijaksi Ukrainassa – kahden valiokunnan puheenjohtajat arvioivat Stubbin mahdollisuuksia.",
-          "date": "2026-01-14T15:54:00.000Z",
+          "title": "Yle: Suomea pyydetty sotaharjoitukseen Grönlantiin – näin ulkoministeri Valtonen kommentoi",
+          "content": "Asiasta ei ole tehty ulkoministeri Elina Valtosen mukaan päätöstä.",
+          "date": "2026-01-14T19:39:00.000Z",
           "categories": [
-            "politiikka"
+            "kotimaa"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011748099.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Politico: EU harkitsee erityislähettilästä Ukraina-neuvotteluihin – Stubbin nimi esillä",
-          "content": "Euroopan unioni haluaa oman neuvottelijansa rauhanpöytiin Yhdysvaltojen ja Venäjän rinnalle. Stubb on noussut toistuvasti ehdokkaaksi tähän rooliin.",
-          "date": "2026-01-14T08:49:56.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20204156?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Politico: Stubb ehdolla merkittävään tehtävään",
-          "content": "Yksi Ukraina-neuvottelijan tehtävistä olisi pitää yhteyttä Moskovaan.",
-          "date": "2026-01-14T07:21:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011747881.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Zelenskyi keskusteli Stubbin kanssa",
-          "content": "",
-          "date": "2026-01-13T16:16:49.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "volodymyr zelenskyi",
-            "ukraina",
-            "alexander stubb",
-            "venäjän hyökkäys",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20204099?origin=rss"
+          "link": "https://www.is.fi/kotimaa/art-2000011750082.html"
         }
       ]
     },
     {
-      "mainTitle": "Epäasiallista kohtelua eduskunnan avustajille",
+      "mainTitle": "Iranin mielenosoituksissa kuollut yli 3 400",
       "mainCategories": [
-        "Politiikka",
-        "Työelämä",
-        "Puolueet"
+        "Maailma",
+        "Ihmisoikeudet",
+        "Uutiset"
       ],
-      "imageUrl": "/images/eduskunta/4.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kymmenen avustajaa kertoo Ylelle kohdanneensa epäasiallista kohtelua eduskunnassa",
-          "content": "Suurin osa Ylen kyselyyn vastanneista avustajista ja eduskuntaryhmien työntekijöistä sanoo, ettei ole kohdannut työyhteisössä epäasiallista kohtelua.",
-          "date": "2026-01-14T17:57:32.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Järjestö: Iranissa kuollut yli 3 400 mielenosoittajaa",
+          "content": "",
+          "date": "2026-01-14T20:26:04.000Z",
           "categories": [
-            "politiikka",
-            "työelämä",
-            "puolueet",
-            "kansanedustajat",
-            "häirintä",
-            "seksuaalinen häirintä",
-            "työntekijät",
-            "ihmisen huono käytös",
-            "suomalaiset poliitikot",
-            "henkilökohtainen avustaja",
-            "yle uutiset somenostot"
+            "ihmisoikeudet",
+            "maailma",
+            "uutiset"
           ],
-          "link": "https://yle.fi/a/74-20204304?origin=rss"
+          "link": "https://www.ts.fi/uutiset/6873787"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Häirintä | Eduskunnassa varoitetaan naisia ennen pikkujouluja, avustaja kertoo, toiselle ehdotettiin seksiä",
-          "content": "Ville Merinen toi esiin eduskunnan avustajien huonon kohtelun. Se on vähentynyt menneistä vuosista, mutta ei loppunut, HS:n haastattelemat avustajat kertovat.",
-          "date": "2026-01-14T04:16:00.000Z",
+          "title": "Iranin mielenosoitukset | Iran vahingoittaa tarkoituksella mielen­osoittajien silmiä",
+          "content": "Pääkaupunki Teheranin sairaalat ovat täyttyneet mielenosoittajista.",
+          "date": "2026-01-14T04:10:00.000Z",
           "categories": [
-            "tilaajille",
-            "politiikka"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000011746343.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "SDP:n eduskunta­ryhmässä on käynyt ilmi epäasiallista käytöstä työntekijöitä kohtaan",
-          "content": "SDP:n kansanedustaja Ville Merinen väitti Ylen tuoreessa dokumentti­sarjassa, että kansan­edustajien avustajia häirittäisiin ja ahdisteltaisiin eduskunnassa.",
-          "date": "2026-01-13T14:53:38.000Z",
-          "categories": [
-            "politiikka",
-            "eduskunta",
-            "suomen eduskunta",
-            "ville merinen",
-            "jussi halla-aho",
-            "tytti tuppurainen",
-            "pertti rauhio"
-          ],
-          "link": "https://yle.fi/a/74-20204020?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000011747679.html"
         }
       ]
     },
@@ -2319,7 +1856,7 @@
       ]
     },
     {
-      "mainTitle": "Eduskunnan häirintätilanteeseen reagointi kiihtyy",
+      "mainTitle": "Eduskunnan häirintätilanne herättää huolta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -2352,87 +1889,13 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvaltojen luhistuminen herättää huolta",
-      "mainCategories": [
-        "Ulkomaat",
-        "Politiikka",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tutkijat Yhdysvaltain luhistumisesta: Oikeus­järjestelmä koetuksella, Trump tuhoaa USA:n johtoasemaa maailmassa",
-          "content": "Professori Martti Koskenniemi väittää, että Yhdysvallat murenee ja sen imperiumi luhistuu. Myös USA-tutkijat näkevät merkkejä valta-aseman rapautumisesta.",
-          "date": "2026-01-14T13:01:26.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "martti koskenniemi",
-            "korkein oikeus",
-            "yhdysvaltojen politiikka",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204222?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Emeritusprofessori Ylellä: Todistamme Yhdysvaltain luhistumista",
-          "content": "Koskenniemen mukaan Yhdysvallat ”murenee sisällepäin”.",
-          "date": "2026-01-13T16:38:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011747242.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Emeritus­professori: Todistamme Yhdysvaltain luhistumista",
-          "content": "Kansainvälisen oikeuden emeritus­professori Martti Koskenniemi luonnehtii, että Yhdysvaltojen tilanne on hyvin erikoinen, historiallinen ja vaarallinen.",
-          "date": "2026-01-13T14:34:54.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "presidentti trumpin hallinto",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20204042?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Jalkaväkimiinojen hankinta ja koulutus alkaa",
       "mainCategories": [
-        "Kotimaa",
-        "Politiikka",
-        "Puolustusvoimat"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jalkaväkimiinat palaavat käyttöön – valmistelut alkavat heti",
-          "content": "Jalkaväkimiinojen koulutus ja tuotannon valmistelu alkaa välittömästi. ",
-          "date": "2026-01-14T10:46:20.000Z",
-          "categories": [
-            "politiikka",
-            "puolustusvoimat",
-            "ottawan sopimus",
-            "maamiinat",
-            "maavoimat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20204205?origin=rss"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -2460,52 +1923,10 @@
       ]
     },
     {
-      "mainTitle": "Muistisairaan kuolema hoivakodissa herättää keskustelua",
-      "mainCategories": [
-        "Kotimaa",
-        "Terveydenhuolto",
-        "Apuvälineet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Muistisairaan kuolema turkulaisessa hoivakodissa herätti keskustelun välineistä, joilla vanhuksia rajoitetaan – tällaisia ne ovat",
-          "content": "Muistisairas vanhus kuoli turkulaisessa hoivakodissa joulukuussa. Omaisten mukaan hänet oli sidottu tuoliin.",
-          "date": "2026-01-14T10:18:04.000Z",
-          "categories": [
-            "terveydenhuolto",
-            "vanhukset ja ikääntyminen",
-            "apuvälineet",
-            "terveys",
-            "turku",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20203905?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Vanhus kuristui kuoliaaksi hoivakodissa – Esperi kertoo, miksi vanhuksia sidotaan",
-          "content": "Laatujohtajan mukaan rajoittamistoimet ovat viimesijainen keino.",
-          "date": "2026-01-14T05:00:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011746598.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Ensihoidon potilas kuoli portaikossa",
       "mainCategories": [
         "Suomi",
-        "Kotimaa",
-        "Onnettomuudet"
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -2532,25 +1953,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011748203.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Ensihoidon potilas kuoli Varsinais-Suomessa – Varha kielsi kantotuolien lisävarusteen käytön",
-          "content": "",
-          "date": "2026-01-14T08:16:31.000Z",
-          "categories": [
-            "onnettomuudet",
-            "onnettomuustutkintakeskus",
-            "ensihoito",
-            "potilasturvallisuus",
-            "tutkinta",
-            "hyvinvointialueet",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6873079"
         }
       ]
     },
@@ -2622,12 +2024,12 @@
       ]
     },
     {
-      "mainTitle": "Trumpin hallinto vaatii somalien maastapoistumista",
+      "mainTitle": "Trumpin hallinto vaatii somalien poistumista",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2652,40 +2054,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011747387.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Muistitikku paljasti satojen koronatiedot",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kirpputorilta löytynyt muisti­tikku paljasti yli kahdensadan koronapäätökset",
-          "content": "Pirkanmaan hyvinvointialueen mukaan sillä ei ole tietoa siitä, kuka on käsitellyt muistitikkua tai miten se on joutunut kirpputorille.",
-          "date": "2026-01-13T14:02:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011746782.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pirkanmaa | Hoitaja osti kirpputorilta laukun – sisältä löytyi muisti­­tikku, jossa oli satojen ihmisten korona­tietoja",
-          "content": "Hoitaja löysi myynnissä olleesta tietokonelaukusta muistitikun loppuvuonna 2025. Asiasta tehdään rikosilmoitus.",
-          "date": "2026-01-13T13:50:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011746752.html"
         }
       ]
     }
