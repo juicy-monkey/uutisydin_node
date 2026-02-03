@@ -1,11 +1,243 @@
 {
-  "timestamp": "2026-02-03T16:10:43.562Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-02-03T17:26:50.422Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Jeffrey Epsteinin vaikutusvalta ulottui Suomeen",
+      "mainTitle": "Ruotsalaisnuoret tuomittiin terrorismista Tanskassa",
+      "mainCategories": [
+        "Oikeus",
+        "Rikokset",
+        "Tanska"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tanska | Ruotsalaisnuoret iskivät Israelin suurlähetystöön Tanskassa, tuomittiin terrorismista",
+          "content": "Nuoret miehet heittivät kranaatteja Israelin suurlähetystön lähellä lokakuussa 2024.",
+          "date": "2026-02-03T17:07:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011792672.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Oikeus Tanskassa: Kaksi ruotsalais­miestä syyllistyi terrorismiin Israelin suurlähetystöä vastaan",
+          "content": "MIehet olivat 16- ja 19-vuotiaita, kun he heittivät käsikranaatteja Israelin suurlähetystöön vuonna 2024.",
+          "date": "2026-02-03T11:19:48.000Z",
+          "categories": [
+            "oikeus",
+            "rikokset",
+            "lähi-itä",
+            "tanska",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208066?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Thomas Zilliacus osti Hotelli Punkaharjun",
+      "mainCategories": [
+        "Kotimaa",
+        "Matkailu",
+        "Hotellit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Hotelli Punkaharjun miljonääri­ostaja paljastaa kaksi nimeä: ”Kun tulevat seuraavan kerran Suomeen...”",
+          "content": "Liikemies Thomas Zilliacus pitää kohdetta Suomen kauneimpana paikkana ja uskoo sen tarjoavan ainutlaatuisen vaihtoehdon Lapin matkailulle. – No, se on hyvä kysymys, Thomas Zilliacus vastaa nauraen kysymykseen siitä, kuinka hän päätyi ostamaan Hotelli Punkaharjun. Suomalaisen liikemiehen Thomas Zilliacuksen hallinnoima perheyhtiö osti 1800-luvulla rakennetun kulttuurihistoriallisesti ainutlaatuisen Hotelli Punkaharjun ja siihen kuuluvan Keisarinnan Huvilan.",
+          "date": "2026-02-03T16:29:27.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/afb0413c-145a-410f-b00a-79da6bd3aec7"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hotelli Punkaharju myyty, ostajana Interpolin aiemmin etsintä­kuuluttama liikemies Thomas Zilliacus",
+          "content": "Hotellin yrittäjät jatkavat vuokralla ainakin vuoden­vaihteeseen. Zilliacus kertoo haluavansa vaalia suomalaista kulttuuri­perintöä.",
+          "date": "2026-02-03T10:42:34.000Z",
+          "categories": [
+            "matkailu",
+            "hotellit",
+            "savonlinna",
+            "hotelli punkaharju",
+            "etelä-savo",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20208049?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Helsingin sote-rahoitusleikkaukset herättävät huolta",
+      "mainCategories": [
+        "Politiikka",
+        "Helsinki",
+        "Espoo"
+      ],
+      "imageUrl": "/images/helsinki/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hallituksen esitys sote-rahoituksesta veisi jokaiselta helsinki­läiseltä 143 euroa – Vaarallinen esitys, sanoo pormestari",
+          "content": "Jos leikkaukset toteutuvat, terveyden­hoitoon olisi käytettävissä lähes 150 euroa vähemmän rahaa jokaista kaupunkilaista kohden kuin nyt.",
+          "date": "2026-02-03T16:29:25.000Z",
+          "categories": [
+            "politiikka",
+            "helsinki",
+            "espoo",
+            "terveyspalvelut",
+            "sosiaali- ja terveydenhuolto",
+            "sosiaali- ja terveyspalvelut",
+            "turku",
+            "kotimaa",
+            "uusimaa",
+            "varsinais-suomi"
+          ],
+          "link": "https://yle.fi/a/74-20208042?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Terveydenhuolto | Pormestari Sazonov tyrmistyi: helsinkiläisille kaksi kertaa muuta maata kovemmat sote-leikkaukset",
+          "content": "Myös Länsi-Uusimaa kärsisi rahoitusmallin uudistuksesta. Hallituspuolue Rkp:n Henrik Wickström haluaa, että uudistusta viilataan vielä.",
+          "date": "2026-02-03T07:31:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011790150.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sote | Hyvin­vointi­alueiden rahoitus uusiksi: Helsinki ja muut suuret kärsijöinä",
+          "content": "Hallituksen lakiehdotuksessa asukasmäärän painoarvoa vähennetään, kun alueiden vuosittaista rahoitusta lasketaan.",
+          "date": "2026-02-02T15:28:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011789182.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sdp:n johdon haasteet ja kiistelyt jatkuvat",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Kohussa räpiköivän Sdp:n johdon maali­tolppien siirtely on kiusallista seurattavaa",
+          "content": "Lindtmanin ja Tuppuraisen poliittinen spinnaus on mennyt osin läpi julkisessa keskustelussa, kirjoittaa IS:n politiikan toimittaja Erno Laisi.",
+          "date": "2026-02-03T16:21:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011791880.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sdp | Matias Mäkynen tukee Tytti Tuppuraisen jatkoa",
+          "content": "Tytti Tuppuraisen jatko Sdp:n eduskuntaryhmän johdossa on horjunut sen jälkeen, kun STT:n lähteet syyttivät kansanedustajaa epäasiallisesta käytöksestä.",
+          "date": "2026-02-02T16:53:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011789735.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomi hankkii uusia jalkaväkimiinoja",
+      "mainCategories": [
+        "Kotimaa",
+        "Maanpuolustus",
+        "Puolustusvoimat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Miinat | Puolustus­voimat hankkii uusia jalkaväki­miinoja: Tavoite tehdä ne Suomessa",
+          "content": "Tavoitteena on, että ensimmäiset uudet miinat olisivat käytettävissä ensi vuoden lopulla. Suomi irtisanoutui jalkaväkimiinat kieltävästä Ottawan sopimuksesta viime kesänä.",
+          "date": "2026-02-03T16:20:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011775627.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Koulutus alkoi – Eversti paljastaa miinojen hintahaarukan ja esittää pyynnön yrityksille",
+          "content": "Puolustusvoimat aikoo hankkia uudenlaisia kotimaisia jalkaväkimiinoja aiemmin kiellossa olleiden sakara- ja putkimiinojen tilalle. Maavoimat on juuri käynnistänyt jalkaväkimiinojen koulutuksen ja aikoo myös hankkia uusia erilaisia miinoja mahdollisimman nopeasti. Miinakoulutus ja hankintojen valmistelu pystyttiin käynnistämään, kun Suomen irtisanoutuminen Ottawan miinakieltosopimuksesta tuli voimaan 10. tammikuuta. – Tavoitteena on modernit yksinkertaiset jalkaväkimiinat. Ei palata enää niihin vanhoihin miinoihin, pioneeritarkastaja, eversti Riku Mikkonen Maavoimista kertoi tiistaina Kainuun prikaatissa Kajaanin Hoikankankaalla pidetyssä mediatilaisuudessa.",
+          "date": "2026-02-03T15:20:42.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/2fad86a9-d5e2-4359-9898-b6935475a7e9"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomi palaa jalkaväki­miinojen aikakauteen – kehitystyö on jo käynnissä",
+          "content": "Suomi aikoo aloittaa miinojen kotimaisen kehityksen sekä mahdollisesti tuotannon. Varusmiehet saavat jatkossa miina­koulutusta.",
+          "date": "2026-02-03T12:38:35.000Z",
+          "categories": [
+            "maanpuolustus",
+            "puolustusvoimat",
+            "miinat",
+            "ottawan sopimus",
+            "varusmiehet",
+            "jalkaväkimiinat",
+            "kainuu",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20207785?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Jeffrey Epsteinin vaikutusvalta ylsi Suomeen",
       "mainCategories": [
         "Ulkomaat",
         "Britannia",
@@ -17,7 +249,7 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Yksityisellä saarella tehtiin viranomaisten katseilta piilossa hirvittäviä asioita: Lonkerot ylsivät Suomeen asti\r",
+          "title": "Yksityisellä saarella tehtiin katseilta piilossa hirvittäviä asioita lapsille ja nuorille naisille: Nyt asiakirjat paljastavat lonkeroiden yltäneen Suomeen asti",
           "content": "Seksuaalirikollinen Jeffrey Epstein oli niin vaikutusvaltainen henkilö, että hänen lonkeronsa ulottuivat Suomeen asti. Tämä tiedetään Epsteinin elämästä ja hänen Suomi-kytköksistään. Edesmenneestä liikemiehestä ja seksuaalirikollisesta Jeffrey Epsteinistä julkaistiin viime perjantaina yli kolme miljoonaa sivua lisää asiakirjoja. Epsteinin kytköksistä Suomeen on selvinnyt joitain tietoja. Mitä ne kertovat Epsteinin vaikutusvallasta, joka yletti Suomeen asti?",
           "date": "2026-02-03T16:06:53.000Z",
           "categories": [
@@ -63,13 +295,13 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/eduskunta/1.jpg",
+      "imageUrl": "/images/eduskunta/4.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Katso kuvat: Näin kansan­edustajat töhersivät puhemiehen vaalilippuihin",
+          "title": "Kansan­edustajat töhersivät äänestys­lippuihin jotain aivan muuta kuin puhemiehen nimen",
           "content": "Iltalehti pääsi tutustumaan eduskunnan puhemiehen vaalissa hylättyihin äänestyslippuihin.  Eduskunta valitsi tiistaina puhemiehistönsä, kun valtiopäivien kevätkausi lähti käyntiin. Kuluvalla vaalikaudella puhemiehenä toiminut Jussi Halla-aho (ps) uusi paikkansa 116 äänellä. Peräti 35 edustajaa äänesti tyhjää, ja kolme ääntä hylättiin. Myös ensimmäinen varapuhemies Paula Risikko (kok) ja toinen varapuhemies Tarja Filatov (sd) uusivat paikkansa.",
           "date": "2026-02-03T15:48:33.000Z",
           "categories": [
@@ -119,10 +351,11 @@
       ]
     },
     {
-      "mainTitle": "Sähkön hinta laskemassa talven edetessä",
+      "mainTitle": "Sähkön hinta nousee ennätyslukemiin",
       "mainCategories": [
-        "Taloussanomat",
-        "Energia"
+        "Talous",
+        "Energia",
+        "Kotimaa"
       ],
       "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
@@ -138,140 +371,6 @@
           ],
           "link": "https://www.kauppalehti.fi/uutiset/a/901d50d1-16d1-48a2-94b4-3818204a9016"
         },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sisälämpötilan laskemisella on rajansa – tätä rajaa asiantuntijat eivät suosittele alittamaan",
-          "content": "Pörssisähkön hinta on rikkonut talven ennätyksiä jo useana päivänä, mutta sähkön liika säästäminen voi asiantuntijoiden mukaan tulla kalliiksi.",
-          "date": "2026-02-02T14:07:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011789151.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin asiantuntija vinkkaa ilmalämpö­pumpun käyttöön pakkasella: ”Kovaa ajoa pumpulle”",
-          "content": "Ilmalämpö­pumpun sammuttaminen pakkasella voi olla kalliimpaa kuin sen käyttö.",
-          "date": "2026-02-02T10:59:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011788099.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tuulimyllyjen jäätyminen ei nyt selitä kovaa sähkön hintaa",
-          "content": "Sähkö on kallista kovan pakkasen ja tyyneyden takia.",
-          "date": "2026-02-02T08:59:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011788383.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "RKP etsii vaihtoehtoisia säästöjä sote-leikkauksille",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "RKP ei halua enää tehdä tätä – Valmis etsimään säästöt muualta",
-          "content": "RKP:n eduskuntaryhmän puheenjohtaja Otto Andersson on huolissaan jatkuvan sopeutuksen vaikutuksista Suomen kasvuun. RKP haluaa etsiä korvaavat säästöt 66 miljoonan euron sote-leikkauksille. Tiistaina hallituspuolue RKP:n eduskuntaryhmän puheenjohtajaksi uudelle kaudelle valittu Otto Andersson arvioi Iltalehden haastattelussa, että Suomessa tarvitaan velkajarrun lisäksi nyt korkea kasvuvaihde. Andersson pitää Suomessa käytyä talouspoliittista keskustelua ”hyvin sopeutuskeskeisenä”. Hän on huolissaan jatkuvan sopeuttamisen ja säästämisen vaikutuksesta yleiseen mielentilaan.",
-          "date": "2026-02-03T15:24:31.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/380681df-8b2a-444e-a8cc-92cd9697abeb"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Terveydenhuolto | Pormestari Sazonov tyrmistyi: helsinkiläisille kaksi kertaa muuta maata kovemmat sote-leikkaukset",
-          "content": "Myös Länsi-Uusimaa kärsisi rahoitusmallin uudistuksesta. Hallituspuolue Rkp:n Henrik Wickström haluaa, että uudistusta viilataan vielä.",
-          "date": "2026-02-03T07:31:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011790150.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomi aloittaa jalkaväkimiinojen kehityksen",
-      "mainCategories": [
-        "Kotimaa",
-        "Maanpuolustus",
-        "Puolustusvoimat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Koulutus alkoi – Eversti paljastaa miinojen hintahaarukan ja esittää pyynnön yrityksille",
-          "content": "Puolustusvoimat aikoo hankkia uudenlaisia kotimaisia jalkaväkimiinoja aiemmin kiellossa olleiden sakara- ja putkimiinojen tilalle. Maavoimat on juuri käynnistänyt jalkaväkimiinojen koulutuksen ja aikoo myös hankkia uusia erilaisia miinoja mahdollisimman nopeasti. Miinakoulutus ja hankintojen valmistelu pystyttiin käynnistämään, kun Suomen irtisanoutuminen Ottawan miinakieltosopimuksesta tuli voimaan 10. tammikuuta. – Tavoitteena on modernit yksinkertaiset jalkaväkimiinat. Ei palata enää niihin vanhoihin miinoihin, pioneeritarkastaja, eversti Riku Mikkonen Maavoimista kertoi tiistaina Kainuun prikaatissa Kajaanin Hoikankankaalla pidetyssä mediatilaisuudessa.",
-          "date": "2026-02-03T15:20:42.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/2fad86a9-d5e2-4359-9898-b6935475a7e9"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomi palaa jalkaväki­miinojen aikakauteen – kehitystyö on jo käynnissä",
-          "content": "Suomi aikoo aloittaa miinojen kotimaisen kehityksen sekä mahdollisesti tuotannon. Varusmiehet saavat jatkossa miina­koulutusta.",
-          "date": "2026-02-03T12:38:35.000Z",
-          "categories": [
-            "maanpuolustus",
-            "puolustusvoimat",
-            "miinat",
-            "ottawan sopimus",
-            "varusmiehet",
-            "jalkaväkimiinat",
-            "kainuu",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20207785?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Miinat | Puolustus­voimat hankkii uusia jalkaväki­miinoja: Tavoite tehdä ne Suomessa",
-          "content": "Tavoitteena on, että ensimmäiset uudet miinat olisivat käytettävissä ensi vuoden lopulla. Suomi irtisanoutui jalkaväkimiinat kieltävästä Ottawan sopimuksesta viime kesänä.",
-          "date": "2026-02-03T09:13:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011775627.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pörssisähkön hinta nousee ennätyksiin",
-      "mainCategories": [
-        "Talous",
-        "Energia",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -432,6 +531,51 @@
       ]
     },
     {
+      "mainTitle": "RKP ehdottaa varainsiirtoveron poistamista",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "RKP ei halua enää tehdä tätä – Valmis etsimään säästöt muualta",
+          "content": "RKP:n eduskuntaryhmän puheenjohtaja Otto Andersson on huolissaan jatkuvan sopeutuksen vaikutuksista Suomen kasvuun. RKP haluaa etsiä korvaavat säästöt 66 miljoonan euron sote-leikkauksille. Tiistaina hallituspuolue RKP:n eduskuntaryhmän puheenjohtajaksi uudelle kaudelle valittu Otto Andersson arvioi Iltalehden haastattelussa, että Suomessa tarvitaan velkajarrun lisäksi nyt korkea kasvuvaihde. Andersson pitää Suomessa käytyä talouspoliittista keskustelua ”hyvin sopeutuskeskeisenä”. Hän on huolissaan jatkuvan sopeuttamisen ja säästämisen vaikutuksesta yleiseen mielentilaan.",
+          "date": "2026-02-03T15:24:31.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/380681df-8b2a-444e-a8cc-92cd9697abeb"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Asuntokauppa | Hallituskumppanit suivaantuivat Rkp-johtajan vero­avauksesta",
+          "content": "Rkp:n ryhmänjohtaja Otto Andersson esitti varainsiirtoveron väliaikaista poistamista asuntokaupan piristämiseksi. Hallituskumppanit pelkäävät, että ehdotus voi päinvastoin halvaannuttaa kauppaa.",
+          "date": "2026-02-02T19:20:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011785465.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Asuminen | Hallituspuolueista vaaditaan nyt vauhtia asunto­kauppaan varain­siirto­veron poistolla",
+          "content": "Varainsiirtoverosta luopumista on pyydetty aiemmin opposition suulla.",
+          "date": "2026-02-02T15:01:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011789888.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Lasten määrä Suomessa vähenee merkittävästi",
       "mainCategories": [
         "Suomi",
@@ -466,11 +610,11 @@
       ]
     },
     {
-      "mainTitle": "Nuori kuoli lastensuojelulaitoksesta karkaamisen jälkeen",
+      "mainTitle": "Nuori kuoli lastensuojeluyksiköstä karattuaan",
       "mainCategories": [
         "Kotimaa",
-        "Pirkanmaa",
-        "Nuoret"
+        "Nuoret",
+        "Pirkanmaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -497,21 +641,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011792173.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Nuori karkasi lastensuojelulaitoksesta ja kuoli",
-          "content": "",
-          "date": "2026-02-03T13:50:23.000Z",
-          "categories": [
-            "kuolemantapaukset",
-            "uutiset",
-            "pirkanmaa",
-            "kotimaa"
-          ],
-          "link": "https://www.ts.fi/uutiset/6890843"
         },
         {
           "publisherId": "iltalehti",
@@ -590,7 +719,7 @@
         "Konferenssit",
         "Venäjä"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -629,11 +758,11 @@
     {
       "mainTitle": "Sähkön hintakatto ja tehomaksu uudistuvat",
       "mainCategories": [
-        "Talous",
         "Taloussanomat",
-        "Energia"
+        "Energia",
+        "Talous"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -658,23 +787,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011788973.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Sähkön tehomaksun rajaksi tuli kahdeksan kilowattia",
-          "content": "",
-          "date": "2026-02-02T09:50:29.000Z",
-          "categories": [
-            "sähkönsiirto",
-            "sähkön hinta",
-            "sähkö",
-            "sähköajoneuvot",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6889274"
         },
         {
           "publisherId": "yle",
@@ -808,47 +920,6 @@
       ]
     },
     {
-      "mainTitle": "Kiinasta toimitettujen pakettien kasvu jatkuu",
-      "mainCategories": [
-        "Talous",
-        "Kiina",
-        "Tulli"
-      ],
-      "imageUrl": "/images/kiina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kiina-pakettien virta jatkoi kasvamistaan – kesällä jokainen pikkupaketti maksaa kolme euroa enemmän",
-          "content": "",
-          "date": "2026-02-03T13:32:45.000Z",
-          "categories": [
-            "verkkokauppa",
-            "kiina",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6890680"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kiinasta toimitettujen pakettien määrä kasvoi rajusti viime vuonna",
-          "content": "Pakettivirrasta seuraa muun muassa ylikulutusta ja jäteongelma.",
-          "date": "2026-02-03T12:30:10.000Z",
-          "categories": [
-            "talous",
-            "kiina",
-            "kaupan liitto",
-            "tulli"
-          ],
-          "link": "https://yle.fi/a/74-20208093?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Poikkeuksellinen talvi: kylmyys ja lumipula",
       "mainCategories": [
         "Kotimaa",
@@ -895,25 +966,6 @@
           "link": "https://yle.fi/a/74-20208000?origin=rss"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Tammikuussa oli tavanomaista kylmempää ja vähälumisempaa",
-          "content": "",
-          "date": "2026-02-02T17:00:00.000Z",
-          "categories": [
-            "sää",
-            "paikalliset",
-            "turku",
-            "kotimaa",
-            "arki",
-            "talvi",
-            "tammikuu",
-            "elämäntapa"
-          ],
-          "link": "https://www.ts.fi/elamantapa/6890055"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -930,11 +982,9 @@
     {
       "mainTitle": "Tytti Tuppurainen jatkaa SDP:n puheenjohtajana",
       "mainCategories": [
-        "Politiikka",
-        "Kansanedustajat",
-        "Eduskunta"
+        "Politiikka"
       ],
-      "imageUrl": "/images/eduskunta/1.jpg",
+      "imageUrl": "/images/eduskunta/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -947,18 +997,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011790496.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Dramaattinen ratkaisu SDP-ryhmän johdossa – Näin kommentoi Tytti Tuppurainen: ”Teki itse päätöksen vetäytyä”",
-          "content": "SDP:n eduskuntaryhmä kokoontui tiistaina valitsemaan ryhmän puheenjohtajiston. Tytti Tuppurainen valittiin tiistaina jatkamaan SDP:n eduskuntaryhmän puheenjohtajana. SDP:n ryhmäkokouksessa käsiteltiin uuden puheenjohtajiston lisäksi viime viikkoina vellonutta häirintäkohua. Tuppurainen kommentoi kohua lyhyesti medialle kokouksen jälkeen. Hänen mukaansa keskustelu oli hyvä, avoin ja rakentava. Puolueessa keskustelua tullaan Tuppuraisen mukaan jatkamaan.",
-          "date": "2026-02-03T11:59:47.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/78a9c86c-e0eb-48b6-b3af-fc7e15f0bdbf"
         },
         {
           "publisherId": "hs",
@@ -981,25 +1019,6 @@
           "date": "2026-02-03T09:13:41.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/tytti-tuppurainen-jatkaa-sdpn-eduskuntaryhman-puhe/12521041?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Tytti Tuppurainen jatkaa SDP:n eduskuntaryhmän puheenjohtajana",
-          "content": "",
-          "date": "2026-02-03T09:08:54.000Z",
-          "categories": [
-            "politiikka",
-            "kansanedustajat",
-            "eduskunta",
-            "eduskuntaryhmät",
-            "ahdistelu",
-            "sdp",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6890483"
         },
         {
           "publisherId": "yle",
@@ -1083,32 +1102,14 @@
       ]
     },
     {
-      "mainTitle": "Nainen suunnitteli veitsi-iskua kouluun Turussa",
+      "mainTitle": "Nainen suunnitteli veitsi­hyökkäystä kouluun Turussa",
       "mainCategories": [
+        "Kotimaa",
         "Rikosepäilyt",
-        "Turku",
-        "Kotimaa"
+        "Turku"
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Nuori nainen valmisteli veitsi-iskua turkulaiseen oppilaitokseen",
-          "content": "",
-          "date": "2026-02-03T13:10:13.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "uhkailu",
-            "koulu-uhkaukset",
-            "lounais-suomen poliisilaitos",
-            "turku",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6890800"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -1173,7 +1174,7 @@
         "Intia",
         "Öljy"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -1247,66 +1248,11 @@
       ]
     },
     {
-      "mainTitle": "Hyvinvointialueiden rahoitusleikkaukset käynnissä",
-      "mainCategories": [
-        "Politiikka",
-        "Hyvinvointialueet",
-        "Valtiontalous"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Hyvinvointialueiden rahoitus muuttumassa – Varhalta katoamassa 50 miljoonaa",
-          "content": "",
-          "date": "2026-02-03T12:54:27.000Z",
-          "categories": [
-            "hyvinvointialueet",
-            "sote-uudistus",
-            "varha",
-            "politiikka",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6890438"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vain yksi sote-alue säästyy rahoituksen leikkaukselta hallituksen korjaussarjassa",
-          "content": "Soten rahoituksen korjaaminen leikkaa rahaa kaikilta muilta paitsi Keski-Pohjanmaan hyvinvointialueelta.",
-          "date": "2026-02-03T12:54:20.000Z",
-          "categories": [
-            "hyvinvointialueet",
-            "sosiaali- ja terveyspalvelut",
-            "valtiontalous",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20208008?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sote | Hyvin­vointi­alueiden rahoitus uusiksi: Helsinki ja muut suuret kärsijöinä",
-          "content": "Hallituksen lakiehdotuksessa asukasmäärän painoarvoa vähennetään, kun alueiden vuosittaista rahoitusta lasketaan.",
-          "date": "2026-02-02T15:28:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011789182.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Venäjä iski Ukrainaan talvipakkasessa",
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1484,7 +1430,7 @@
         "Pariisi",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/elon musk/1.jpg",
+      "imageUrl": "/images/elon musk/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1596,50 +1542,6 @@
       ]
     },
     {
-      "mainTitle": "Tulipalo Helsingin telakalla, asukkaita ilman sähköä",
-      "mainCategories": [
-        "Tulipalot",
-        "Onnettomuudet",
-        "Helsinki"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Helsingin telakalla syttyi tulipalo 1800-luvulta peräisin olevan rakennuksen kattorakenteissa",
-          "content": "Palo syttyi kattotöiden yhteydessä, telakalta kerrotaan.",
-          "date": "2026-02-03T10:08:53.000Z",
-          "categories": [
-            "onnettomuudet",
-            "helsinki",
-            "tulipalot",
-            "pelastustoiminta",
-            "rakennuspalo",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208041?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Noin sata asukasta jäi sähköttä ja lämmöttä tulipalon vuoksi Turussa",
-          "content": "",
-          "date": "2026-02-01T20:33:58.000Z",
-          "categories": [
-            "tulipalot",
-            "turku",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6889111"
-        }
-      ]
-    },
-    {
       "mainTitle": "Ex-ministeri Hanna Kosonen jättää politiikan",
       "mainCategories": [
         "Politiikka",
@@ -1688,54 +1590,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011754220.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ensihoitajat kohtaavat väkivaltaa usein työssä",
-      "mainCategories": [
-        "Ensihoito",
-        "Turvallisuus",
-        "Ambulanssit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ensihoitaja kohtaa väkivaltaa lähes joka sadannella työkeikalla − kolmannes väkivaltaisista potilaista on humalassa",
-          "content": "Tutkimuksen mukaan ensihoitajille tyypillinen tilanne kohdata väkivaltaa oli viikonloppu, humalainen miespotilas ja mielenterveyden ongelmat.",
-          "date": "2026-02-03T09:06:09.000Z",
-          "categories": [
-            "turvallisuus",
-            "ensihoito",
-            "ambulanssit",
-            "ensihoitohenkilöstö",
-            "varsinais-suomi",
-            "turun ammattikorkeakoulu",
-            "turun yliopisto",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208013?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Ensihoitaja kohtaa väkivaltaa lähes joka sadannella tehtävällä, selkeät toimintamallit puuttuvat",
-          "content": "",
-          "date": "2026-02-03T06:43:02.000Z",
-          "categories": [
-            "ensihoito",
-            "tutkimus",
-            "turun ammattikorkeakoulu",
-            "varsinais-suomen pelastuslaitos",
-            "turun yliopisto",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6890265"
         }
       ]
     },
@@ -1811,7 +1665,7 @@
       ]
     },
     {
-      "mainTitle": "Oulun puukotuksessa yksi mies vangittu",
+      "mainTitle": "Oulun puukotuksesta yksi mies vangittu",
       "mainCategories": [],
       "imageUrl": "",
       "relatedNews": [
@@ -1882,7 +1736,7 @@
       ]
     },
     {
-      "mainTitle": "Teini-ikäinen pelasti perheensä merestä",
+      "mainTitle": "Teini pelasti perheensä uiden neljä tuntia",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1998,7 +1852,7 @@
         "Taloussanomat",
         "Talous"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2039,77 +1893,7 @@
       ]
     },
     {
-      "mainTitle": "Suomalaisyhteydet Epstein-dokumenteissa herättävät huomiota",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Rikosepäilyt"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle: Uusi Suomi-kytkös Epstein-tiedostoissa",
-          "content": "Ylen mukaan osa Suomea koskevista tiedoista on poistettu julkaisun jälkeen.",
-          "date": "2026-02-02T21:06:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011790259.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yle löysi lisää suomalaisyhteyksiä Epstein-dokumenteista: osa tiedoista poistettu",
-          "content": "Yle kävi läpi perjantaina julkaistun uuden Epstein-aineiston Suomi-viittauksia. Osa aineistosta on poistettu.",
-          "date": "2026-02-02T17:33:01.000Z",
-          "categories": [
-            "yhdysvallat",
-            "rikosepäilyt",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20207797?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallituskumppanit vastustavat varainsiirtoveron poistoa",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Asuntokauppa | Hallituskumppanit suivaantuivat Rkp-johtajan vero­avauksesta",
-          "content": "Rkp:n ryhmänjohtaja Otto Andersson esitti varainsiirtoveron väliaikaista poistamista asuntokaupan piristämiseksi. Hallituskumppanit pelkäävät, että ehdotus voi päinvastoin halvaannuttaa kauppaa.",
-          "date": "2026-02-02T19:20:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011785465.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Asuminen | Hallituspuolueista vaaditaan nyt vauhtia asunto­kauppaan varain­siirto­veron poistolla",
-          "content": "Varainsiirtoverosta luopumista on pyydetty aiemmin opposition suulla.",
-          "date": "2026-02-02T15:01:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011789888.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mette-Maritin ja Epsteinin yhteydet paljastuvat",
+      "mainTitle": "Kruununprinsessa Mette-Marit ja Epstein-yhteydet",
       "mainCategories": [
         "Kuninkaalliset",
         "Norja",
@@ -2153,12 +1937,12 @@
       ]
     },
     {
-      "mainTitle": "Eläkeuudistuksesta erimielisyyksiä hallituksessa",
+      "mainTitle": "Eläkeuudistukset ja hallituksen talouspolitiikka.",
       "mainCategories": [
         "Politiikka",
         "Talous"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2235,7 +2019,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/1.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2306,8 +2090,8 @@
     {
       "mainTitle": "Yle Harava ehdolla journalistipalkinnolle",
       "mainCategories": [
-        "Journalismi",
         "Media",
+        "Journalismi",
         "Tekoäly"
       ],
       "imageUrl": "",
@@ -2346,28 +2130,11 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20207813?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Turun Sanomien Ella Airas-Salminen ehdolla Suuren Journalistipalkinnon saajaksi",
-          "content": "",
-          "date": "2026-02-02T09:03:12.000Z",
-          "categories": [
-            "journalismi",
-            "tutkiva journalismi",
-            "turku",
-            "uutisten viikko",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6889427"
         }
       ]
     },
     {
-      "mainTitle": "Erittäin kylmä sää ja korkea sähkön hinta",
+      "mainTitle": "Erittäin kylmä sää ja korkea pörssisähkön hinta",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
