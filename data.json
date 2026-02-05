@@ -1,427 +1,164 @@
 {
-  "timestamp": "2026-02-05T11:32:18.984Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-02-05T12:54:07.262Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Keskon tulosraportti aiheutti osakekurssin laskun",
+      "mainTitle": "Wolt-kuskien todelliset tuntipalkat paljastuivat",
       "mainCategories": [
-        "Talousaamu"
+        "Kotimaa",
+        "Työelämä",
+        "Wolt"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Keskon raportissa selvä pettymys – Osake tuntuvassa laskussa",
-          "content": "Eq:n salkunhoitaja Anne Brusila perkasi vilkkaan tulospäivän antia Talousaamussa.",
-          "date": "2026-02-05T11:30:00.000Z",
-          "categories": [
-            "talousaamu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/44eb25e8-6320-4b0c-beab-2752c7b68ba6"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Salkunhoitajalta salkkumuutoksia: ”Tuli osteltua”",
-          "content": "Eq:n Anne Brusila on tehnyt tuloskauden aikana liikkeitä.",
-          "date": "2026-02-05T10:15:00.000Z",
-          "categories": [
-            "talousaamu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/1259b980-7e06-41b5-b297-4d5a9ee2e789"
-        }
-      ]
-    },
-    {
-      "mainTitle": "SDP:n kannatus kasvaa, kokoomus laskee",
-      "mainCategories": [
-        "Politiikka",
-        "Puolueet",
-        "Vaalit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kannatusmittaus | Jokisipilä Sdp:n suosiosta: Ihmiset eivät ehkä yhdistäneet kohua puolueen politiikkaan",
-          "content": "Sdp:n ja kokoomuksen välinen kannatusero on nyt yli kuusi prosenttiyksikköä. Professori Markku Jokisipilä ei pidä eroa vielä ratkaisevana.",
-          "date": "2026-02-05T11:18:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011795782.html"
-        },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "SDP tuulettaa: Tätä mieltä kokoomus ja PS ovat jymy-yllätyksestä",
-          "content": "Kokoomuksen Maggie Keskinen: ”Hallitusvastuun kantaminen näkyy yleensä aina hallituspuolueiden kannatuksessa.” PS:n puoluesihteeri Harri Vuorenpää ei halua eritellä, miksi puolueen kannatus tuli rutkasti alas Ylen torstaina julkistamassa tammikuun kannatuskyselyssä. Valtiovarainministeripuolueen kannatus laski 1,8 prosenttiyksikköä 13,3 prosenttiin. – Emme yleensä lähde tekemään yksittäisistä kannatuskyselytuloksista sen suurempia johtopäätöksiä, ovat ne sitten kumpaan suuntaan tahansa. Luonnollisesti käymme kyselyn tausta-aineistot huolellisesti läpi ja teemme niistä omat analyysimme, Vuorenpää sanoo.",
-          "date": "2026-02-05T10:07:15.000Z",
+          "title": "Pam: Wolt-kuskien todellinen tuntipalkka paljastui – \"Absurdia\"",
+          "content": "Pam selvitti todellisia palkkoja lähettien tekemien kirjausten pohjalta. Palvelualojen ammattiliitto Pam kertoo, että Wolt-lähettien todellinen tuntipalkka ennen veroja voi jäädä jopa alle neljään euroon. Pam kertoo selvittäneensä palkkoja kolmen lähetin tekemien kirjausten pohjalta. Lähetit pitivät viikon ajan kirjaa työtunneistaan, ajetuista kilometreistä ja palkkioistaan.",
+          "date": "2026-02-05T12:52:12.000Z",
           "categories": [
-            "politiikka"
+            "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/15bac633-bae1-43f3-b3a7-d17e87d5304c"
+          "link": "https://www.iltalehti.fi/kotimaa/a/b6805d1d-2d36-495c-8934-5ed32a9f57b0"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Kommentti: Häirintäkohu ei nakannut Lindtmanin Sdp:tä maalta merelle – vasemmisto vetää hurjaa nousua punamullan kiilto silmissä",
-          "content": "Sdp on rypenyt häirintäkohussa viikkoja – mutta kannatus nousee. Ylen gallup lupaa hyvää punamultahallituksesta haaveileville, arvioi politiikan erikoistoimittaja Timo Haapala.",
-          "date": "2026-02-05T06:34:00.000Z",
+          "title": "Kolme Wolt-kuskia piti kirjaa tunneistaan ja palkoistaan – tällainen oli tuntipalkka",
+          "content": "Ammattiliiton mukaan selvitys antaa karun kuvan Wolt-lähettien tilanteesta.",
+          "date": "2026-02-05T09:31:00.000Z",
           "categories": [
-            "politiikka"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011795801.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Gallup: Sdp:n etumatka kasvaa, kokoomus ja perussuomalaiset menettävät kannatustaan",
-          "content": "",
-          "date": "2026-02-05T05:20:53.000Z",
-          "categories": [
-            "politiikka",
-            "puolueet",
-            "gallup",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6892421"
+          "link": "https://www.is.fi/taloussanomat/art-2000011796430.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Analyysi: Vaaleihin on runsas vuosi aikaa, ja puolue­kannatusten hurjin vuoristorata voi olla vasta edessä",
-          "content": "Työväestön huoli työttömyydestä ja taloudesta näyttää olevan SDP:n ja perus­suomalaisten kannatus­muutosten merkittävin syy, kirjoittaa politiikan toimittaja Tulikukka de Fresnes.",
-          "date": "2026-02-05T04:30:35.000Z",
+          "title": "PAM selvitti Wolt-lähettien todelliset tuntipalkkiot – ”Tämä on todella hälyttävää”, sanoo PAMin puheenjohtaja",
+          "content": "Kolme lähettiä piti päiväkirjaa, johon he merkitsivät työtunnit, kulut ja palkkiot. Todelliset palkkiot olivat 3,93–6,65 euroa tunnissa.",
+          "date": "2026-02-05T08:00:12.000Z",
           "categories": [
-            "politiikka",
-            "vaalit",
-            "puolueiden kannatus"
+            "työelämä",
+            "wolt",
+            "palvelualojen ammattiliitto (pam)",
+            "alustatalous",
+            "palveluala",
+            "talous",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20208250?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ylen kannatus­mittaus: Kokoomuksen ja perus­suomalaisten kannatus laski, SDP kasvatti etumatkaansa",
-          "content": "Vasemmisto­liitto on kohentanut kannatustaan jo pitkään, mutta raja saattaa olla lähellä, sanoo Talous­tutkimuksen tutkimus­johtaja.",
-          "date": "2026-02-05T04:00:39.000Z",
-          "categories": [
-            "politiikka",
-            "puolueiden kannatus",
-            "puolueet"
-          ],
-          "link": "https://yle.fi/a/74-20208249?origin=rss"
+          "link": "https://yle.fi/a/74-20208422?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ukraina ja Venäjä neuvottelevat rauhasta Abu Dhabissa",
+      "mainTitle": "Nesteen osakekurssi laski analyytikoiden mukaan",
       "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan rauha | Ukraina ja Venäjä sopivat yli 300 vangin vaihdosta",
-          "content": "Sopimus saavutettiin Abu Dhabissa käydyissä Yhdysvaltain välittämissä rauhanneuvotteluissa.",
-          "date": "2026-02-05T11:15:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011797010.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan rauha | Abu Dhabin neuvotteluissa keskityttiin konkreettisiin ratkaisuihin, mutta päätöksiä ei vielä tehty",
-          "content": "Neuvottelut Ukrainan, Venäjän ja Yhdysvaltojen välillä jatkuvat Arabiemiraateissa. Osapuolet kertovat edistyksestä, mutta eivät anna tarkempia tietoja.",
-          "date": "2026-02-04T20:03:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011795618.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan rauha | Venäjä ja Ukraina neuvottelevat tänään Abu Dhabissa",
-          "content": "Venäjän hyökkäyssodan päättämiseen tähtäävissä neuvotteluissa on aikaisemmin kuultu puheita 800-luvulla Kiovaa hallinneesta Rurikista.",
-          "date": "2026-02-04T09:24:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011793282.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Epäilty seksuaalirikollinen jatkaa rikoksia",
-      "mainCategories": [
-        "Seksuaalirikokset",
-        "Kotimaa",
-        "Rikosepäilyt"
+        "Sijoittaminen",
+        "Tulokset"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "20-vuotias tamperelaismies mielen­tila­tutkimukseen – epäillään laajasta lapsiin kohdistuneesta seksuaali­rikos­sarjasta",
-          "content": "Miehen epäillään syyllistyneen 32 lapseen kohdistuneista seksuaali­rikoksista. Epäilty on ollut yhteydessä lapsiin Tiktok- ja Telegram-sovelluksissa.",
-          "date": "2026-02-05T11:12:28.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "seksuaalirikokset",
-            "lapset ja nuoret",
-            "tampere",
-            "pirkanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208520?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lapsesta saakka hyväksikäyttöön syyllistynyt mies tuomittiin vankilaan – katosi ja epäillään jatkaneen seksuaalirikoksia",
-          "content": "Lastensuojelu puuttui miehen toimintaan jo, kun tämä oli alle 15-vuotias. Kun mies tuomittiin vankilaan, hän katosi. Poliisi epäilee hänen jatkaneen seksuaalirikoksia pakomatkallaan.",
-          "date": "2026-02-05T08:53:38.000Z",
-          "categories": [
-            "rikokset",
-            "seksuaalirikokset",
-            "snapchat",
-            "instagram",
-            "sosiaalinen media",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20207763?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Metsä Boardin tulos heikentyi, Konecranes paransi",
-      "mainCategories": [
-        "Sijoittaminen"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
           "publisherId": "kauppalehti",
           "publisher": "Kauppalehti",
           "publisherUrl": "kauppalehti.fi",
-          "title": "Metsä Boardin tulos sukelsi odotuksia vähemmän",
-          "content": "Metsä Boardin tulos jäi ennustettua enemmän tappiolliseksi. Yhtiön hallitus esittää, että tilikaudelta 2025 ei makseta osinkoa.",
-          "date": "2026-02-05T11:12:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/c6ab75be-d1d1-4cae-aa21-0ed2a6ae6a29"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Konecranesin tulos jäi odotuksista – Osinkoon selvä pomppu",
-          "content": "Konecranes on parantanut tulostaan jo 14 kvartaalia peräkkäin.",
-          "date": "2026-02-05T11:02:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/81412448-103c-4d31-9b66-9ccc6a739993"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Konecranesin tulos ei tyydyttänyt sijoittajia, Metsä Board lähti nousuun – KL seuraa tulospäivää",
+          "title": "Analyytikot yksimielisiä Nesteen kurssilaskun syystä – Antti Saaren mukaan sijoittajat unohtavat Sammon ohjeistustavan",
           "content": "Kauppalehti seuraa torstain tulospäivää tässä päivittyvässä jutussa.",
-          "date": "2026-02-05T10:54:00.000Z",
+          "date": "2026-02-05T12:51:00.000Z",
           "categories": [
             "sijoittaminen"
           ],
           "link": "https://www.kauppalehti.fi/uutiset/a/37dc1831-b107-41a7-83d9-b131ab9f0e55"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump vähentää liittovaltion agentteja Minnesotassa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Trump vetää 700 agenttia Minnesotasta",
-          "content": "Minnesotaan jää vielä noin 2000 liittovaltion agenttia. Kansalaismielipide USA:ssa on kääntynyt vahvasti maahanmuuttoviranomaisia vastaan.",
-          "date": "2026-02-05T11:10:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011795923.html"
         },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpin ”raja­tsaari”: Minnesotasta vedetään 700 liittovaltion agenttia",
-          "content": "Joukkokarkotuksia kuitenkin jatketaan, Trumpin ”rajatsaari” sanoo.",
-          "date": "2026-02-04T16:15:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011795229.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Keskusta tiedottaa ajankohtaisista asioista eduskunnassa",
-      "mainCategories": [
-        "Politiikka",
-        "Eduskuntaryhmät"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suora lähetys kello 13.50: Keskustan Antti Kaikkonen ja Antti Kurvinen pitävät tiedotus­tilaisuuden eduskunnassa",
-          "content": "Tiedotus­tilaisuuden aihetta ei ole kerrottu etukäteen.",
-          "date": "2026-02-05T11:07:08.000Z",
-          "categories": [
-            "politiikka",
-            "suomen keskusta",
-            "eduskuntaryhmät",
-            "antti kaikkonen",
-            "antti kurvinen"
-          ],
-          "link": "https://yle.fi/a/74-20208517?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Jotain on meneillään eduskunnassa: Antti Kurvinen rynnisti kokous­huoneeseen – Suora lähetys käynnissä",
-          "content": "Keskusta vihjaa, että sillä on jotain kerrottavaa. Samaan aikaan pinnalla on entisen PS:n kansanedustajan Mikko Polvisen tilanne. Keskusta vihjaa ennakkotiedotteellaan, että puolueessa tai sen politiikassa on jotain meneillään. Keskustan puheenjohtajan Antti Kaikkosen ja eduskuntaryhmän puheenjohtajan Antti Kurvisen on määrä olla tavattavissa ”ajankohtaisiin asioihin” liittyen torstaina kello 14 ryhmäkokouksen jälkeen. Keskusta on samalla aikaistanut kokoustaan puolella tunnilla normaalista.",
-          "date": "2026-02-05T10:52:36.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/ea535ee5-562d-4f83-83c8-45f6168456e7"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Eläkeuudistusten vaikutukset ja ehdotukset",
-      "mainCategories": [
-        "Politiikka",
-        "Työelämä",
-        "Talous"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
         {
           "publisherId": "kauppalehti",
           "publisher": "Kauppalehti",
           "publisherUrl": "kauppalehti.fi",
-          "title": "Näin eläkkeiden leikkaus oikeasti vaikuttaisi, kertoo Mikko Kautto KL:n haastattelussa",
-          "content": "Kauppalehti kävi Eläketurvakeskuksen toimitusjohtajan Mikko Kauton kanssa läpi, millaisia julkisen talouden vaikutuksia olisi, jos esillä olleisiin eläke-etuuksiin päätettäisiin tehdä muutoksia.",
-          "date": "2026-02-05T11:07:00.000Z",
+          "title": "PÖRSSI: Sampo laskee Helsingin pörssissä – Antti Saari: Markkinat unohtavat Sammon ohjeistustavan",
+          "content": "Lukuisat Helsingin pörssiin listatut yhtiöt ovat julkaisseet osavuosikatsauksiaan torstaina. Joukossa on ollut markkina-arvollaan pörssin suurimpia yhtiöitä kuten Sampo ja Neste.",
+          "date": "2026-02-05T12:35:00.000Z",
           "categories": [
-            "kansantalous"
+            "sijoittaminen"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/a86d0b02-95c2-40d9-b0e0-f18a42450b8e"
+          "link": "https://www.kauppalehti.fi/uutiset/a/b234ba69-96f0-4a90-b0b6-2782167632e1"
         },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Analyytikot yksimielisiä Neste-pettymyksen syystä: ”Ongelmana eivät ole markkinat”",
+          "content": "Nesteen osake putosi torstaina Helsingin pörssissä. Analyytikot ovat yhtä mieltä laskun syistä.",
+          "date": "2026-02-05T12:02:00.000Z",
+          "categories": [
+            "tulokset"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/49971cf1-6965-45c1-b291-1cfa6814be3e"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pörssisähkön hinta nousee voimakkaasti Suomessa",
+      "mainCategories": [
+        "Energia",
+        "Talous",
+        "Sähkönkulutus"
+      ],
+      "imageUrl": "/images/talous/6.jpg",
+      "relatedNews": [
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Tällaisia leikkauksia eläkkeisiin ehdotetaan – Yle selvitti: muutos koskisi eniten suurituloisia ja nuoria",
-          "content": "Leskeneläke sekä tutkintojen ja työttömyys­kausien eläkekarttuma nousevat väistämättä keskusteluun tulevina vuosina, ennakoi valtiovarain­ministeri Riikka Purra.",
-          "date": "2026-02-03T16:41:39.000Z",
+          "title": "Pörssisähkön hinta perjantaina korkealla",
+          "content": "Pörssisähkö on perjantaina taas hieman kalliimpaa kuin tänään torstaina.",
+          "date": "2026-02-05T12:29:36.000Z",
           "categories": [
-            "politiikka",
-            "työelämä",
+            "energia",
+            "sähkö",
+            "sähkön hinta",
+            "sähkömarkkinat",
             "talous",
-            "eläkekarttuma"
+            "sähköntuotanto ja -jakelu",
+            "korkeat hinnat",
+            "sähkönkulutus",
+            "energiamarkkinat",
+            "energiahinnat",
+            "kuluttajahinnat"
           ],
-          "link": "https://yle.fi/a/74-20207985?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Epstein-asiakirjat paljastavat uusia juoruja",
-      "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS-analyysi | Armoton kuningas veti oikeaa Epstein-linjaa, kun taas brittihallitus kipuilee hyvä­uskoisuutensa kanssa",
-          "content": "Pääministeri Starmerin Epstein-jälkipyykinpesu on hankalampaa kuin kuninkaan vastaava, kirjoittaa HS:n Lontoon-kirjeenvaihtaja Annamari Sipilä.",
-          "date": "2026-02-05T10:57:00.000Z",
-          "categories": [
-            "tilaajille",
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011793764.html"
+          "link": "https://yle.fi/a/74-20208556?origin=rss"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS-analyysi | Epstein-asiakirjoista saatiin meheviä juoruja Mette-Maritista ja Clintonista, mutta todellinen piina on uhreilla",
-          "content": "Uhrien luvattu suojelu epäonnistui, eikä Trumpin hallinto onnistu lopettamaan salaliittoteorioita pimityksen jatkumisesta, kirjoittaa HS:n ulkomaantoimittaja Pekka Mykkänen.",
-          "date": "2026-02-03T17:23:00.000Z",
-          "categories": [
-            "tilaajille",
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011788277.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pörssisähkön hinta noussut ennätyksiin",
-      "mainCategories": [
-        "Kotimaa",
-        "Politiikka",
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Sähkön hinta nousee perjantaina korkealle",
+          "content": "Perjantaiaamuna nähdään voimakas hintapiikki, kun pörssisähkön hinta ylittää 43 senttiä kilowattitunnilta.",
+          "date": "2026-02-05T12:02:00.000Z",
+          "categories": [],
+          "link": "https://www.kauppalehti.fi/uutiset/a/dabca924-deb5-4673-b6f3-7941780f8bb2"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Pörssisähkön hinta nousi taivaisiin – Janne kiskaisi näkyviin hurjat luvut",
+          "title": "Pörssisähkön hinta nousi taivaisiin – Janne kiskaisi näkyviin hurjat luvut: ”Saa kaivaa kuvetta”",
           "content": "Pörssisähkön hinta ampaisi tiistaina vuoden korkeimpiin lukemiin. Kysyimme ohikulkijoilta, miltä ennätyshinnat tuntuvat.",
           "date": "2026-02-05T10:48:00.000Z",
           "categories": [
@@ -430,38 +167,20 @@
           "link": "https://www.is.fi/kotimaa/art-2000011792546.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Sähkön hinta hipoo pilviä – Sauna­yrittäjältä suorat sanat pörssisähköstä",
-          "content": "Iltalehden tekemän soittokierroksen perusteella pörssisähkön korkea hinta ei ole ainakaan vielä aiheuttanut yleisöryntäystä julkisille saunoille. Sähkökiuas on melkoinen sähkösyöppö, ja viime päivien hinnoilla pörssisähköllä saunominen on ollut melkoisen kallista. Iltalehti kysyi neljältä julkiselta saunalta, miten sähkön hinta on näkynyt heidän asiakasmäärissään. Helsinkiläisen Sauna Hermannin yrittäjä Mika Ahonen sanoo, ettei sähkön hintataso ole toistaiseksi aiheuttanut yleisöryntäystä.",
-          "date": "2026-02-05T08:00:36.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pörssisähkön hinta laskee edelleen torstaina",
+          "content": "",
+          "date": "2026-02-04T12:39:23.000Z",
           "categories": [
-            "kotimaa"
+            "energia",
+            "sähkön hinta",
+            "sähkönkulutus",
+            "kuluttajahinnat",
+            "talous"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/cf91aede-0a63-450e-ad8b-989c3cf8202a"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Hyytävä tammikuu toi jättilaskut – Kerro, miten olet säästänyt sähköä",
-          "content": "Sähkölaskut puhuttavat: Kylmä tammikuu ja pörssisähkön hintapiikit ovat saattaneet nostaa kotitalouksien kulut ennätyslukemiin. Jaa kokemuksesi ja säästövinkkisi kyselyssämme.",
-          "date": "2026-02-05T07:41:17.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/hyytava-tammikuu-toi-jattilaskut-kerro-miten-olet/12524611?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pörssisähkön hinta ennätys­lukemissa – Kyllikki täräyttää suorat sanat",
-          "content": "Vaihtaminen on myöhäistä, pohtii pörssisähkön valinnut.",
-          "date": "2026-02-04T05:05:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011790605.html"
+          "link": "https://yle.fi/a/74-20208334?origin=rss"
         },
         {
           "publisherId": "is",
@@ -474,106 +193,119 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011792922.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kalevan Prisman pahoinpitelystä epäillyt kiinni",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
+        },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tampere | Poliisi: Kalevan Prisman pahoinpitelystä epäillyt otettu kiinni",
-          "content": "Epäillyt ilmoittautuivat poliisille itse.",
-          "date": "2026-02-05T10:46:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ministeri Multala: Sähkö on Suomessa kohtuu­hintaista",
+          "content": "Pörssisähkön hinta on tammi- ja helmikuussa huidellut korkeuksissa. Tiistaina korkein hintapiikki kipusi yli 80 senttiin kilowatti­tunnilta.",
+          "date": "2026-02-03T18:36:50.000Z",
           "categories": [
-            "suomi"
+            "energia",
+            "sähkö",
+            "sähkön hinta",
+            "a-studio",
+            "sähkömarkkinat",
+            "sari multala",
+            "energia-ala",
+            "politiikka",
+            "sähkönkulutus",
+            "sähköntuotanto ja -jakelu",
+            "energiamarkkinat",
+            "hinnoittelu",
+            "talous"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011796975.html"
+          "link": "https://yle.fi/a/74-20208165?origin=rss"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Epäilty törkeä pahoinpitely Prismassa – epäillyt ilmoittautuivat poliisille",
-          "content": "Poliisin tietojen mukaan osalliset olivat joutuneet ”suukopuun” ennen epäiltyä väkivaltarikosta.",
-          "date": "2026-02-05T10:40:00.000Z",
+          "title": "Nyt on kallista: pörssisähkön hinta ampaisi vuoden korkeimpiin lukemiin",
+          "content": "Tiistaina pörssisähkön hinta kipuaa korkeimmillaan hurjiin lukemiin: yli 80 senttiin kilowattitunnilta.",
+          "date": "2026-02-03T15:00:00.000Z",
           "categories": [
-            "tampereen seutu"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000011794423.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000011788039.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Prisman väkivallasta etsityt nöyrtyivät",
-          "content": "Poliisi julkaisi epäiltyjen kuvan keskiviikkona. Tampereen Kalevan Prisman törkeästä pahoinpitelystä epäillyt nuoret miehet on otettu kiinni. Epäillyt ilmoittautuivat itse poliisille sen jälkeen, kun poliisi julkaisi heistä kuvan keskiviikkona.",
-          "date": "2026-02-05T10:34:11.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pörssisähkö on Suomessa nyt roimasti kalliimpaa kuin Ruotsissa – asiantuntija paljastaa syyn",
+          "content": "Ruotsissa ja Norjassa pörssisähkö maksaa jopa alle kolmanneksen Suomessa pulitettavasta hinnasta.",
+          "date": "2026-02-03T13:16:00.000Z",
           "categories": [
-            "kotimaa"
+            "taloussanomat"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/d9445288-74b7-4ecc-a12d-37c175655bcf"
+          "link": "https://www.is.fi/taloussanomat/art-2000011790745.html"
         }
       ]
     },
     {
-      "mainTitle": "Käräjäoikeus hylkäsi ihmiskauppasyytteet Kainuussa",
+      "mainTitle": "Mikko Polvinen siirtyy keskustaan perussuomalaisista",
       "mainCategories": [
-        "Oikeudenkäynnit",
-        "Ihmiskauppa",
-        "Yrittäjyys"
+        "Politiikka",
+        "Kainuu",
+        "Perussuomalaiset"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/eduskunta/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Käräjäoikeus hylkäsi kaikki syytteet Kainuun parturien ihmiskauppavyyhdissä",
-          "content": "Kainuun käräjäoikeus ratkaisi tänään kainuulaista parturiyrittäjää koskevan ihmiskauppajutun. Rangaistuksia ei jaettu.",
-          "date": "2026-02-05T10:24:33.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mikko Polvinen loikkaa perussuomalaisista keskustaan",
+          "content": "Polvinen on ensimmäisen kauden kansanedustaja Oulun vaalipiiristä.",
+          "date": "2026-02-05T12:29:00.000Z",
           "categories": [
-            "oikeudenkäynnit",
-            "ihmiskauppa",
-            "yrittäjyys",
-            "kajaani",
-            "oikeus",
-            "rikokset",
-            "kainuu",
-            "kotimaa"
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20204518?origin=rss"
+          "link": "https://www.is.fi/politiikka/art-2000011797271.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Kainuu | Parturi­yrittäjää epäiltiin ihmis­kaupasta ja pahoin­pitelystä: Kaikki syytteet hylättiin",
-          "content": "Käräjäoikeuden mukaan näyttöä pakkotyöstä ei esitetty.",
-          "date": "2026-02-05T08:13:00.000Z",
+          "title": "Kansanedustaja | Keskustaan loikannut Polvinen: Oma puoliso jatkaa avustajana",
+          "content": "Polvinen erotettiin syksyllä perussuomalaisten eduskuntaryhmästä määräajaksi. Nyt hän siirtyy keskustan ryhmään.",
+          "date": "2026-02-05T12:27:00.000Z",
           "categories": [
-            "suomi"
+            "politiikka"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011796121.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mikko Polvinen jättää perussuomalaiset puolueen.",
-      "mainCategories": [
-        "Politiikka",
-        "Perussuomalaiset",
-        "Kainuu"
-      ],
-      "imageUrl": "/images/eduskunta/2.jpg",
-      "relatedNews": [
+          "link": "https://www.hs.fi/politiikka/art-2000011796978.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kansanedustaja Mikko Polvinen siirtyy keskustaan – ”En lähtenyt perus­suomalaisista vihoissani”",
+          "content": "Keskustan eduskuntaryhmässä on Polvisen siirtymisen jälkeen 23 kansanedustajaa.",
+          "date": "2026-02-05T11:07:08.000Z",
+          "categories": [
+            "politiikka",
+            "suomen keskusta",
+            "eduskuntaryhmät",
+            "antti kaikkonen",
+            "antti kurvinen",
+            "kainuu"
+          ],
+          "link": "https://yle.fi/a/74-20208517?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Loikkaus eduskunnassa: Mikko Polvinen siirtyy PS:stä keskustaan, puolueessa painokas keskustelu motiiveista",
+          "content": "Keskusta vihjaa, että sillä on jotain kerrottavaa. Samaan aikaan pinnalla on entisen PS:n kansanedustajan Mikko Polvisen tilanne. PS:n eduskuntaryhmästä erotettu kansanedustaja Mikko Polvinen loikkaa keskustan eduskuntaryhmään. Asiasta kertoivat keskustan eduskuntaryhmän puheenjohtaja Antti Kurvinen ja puolueen puheenjohtaja Antti Kaikkonen torstaina eduskunnassa. Polvinen kertoi, että ensimmäinen yhteydenotto tuli keskustasta, mutta edustaja itse oli alkanut myös pohtia siirtoa määräaikaisen PS-ryhmästä erottamisensa aikana.",
+          "date": "2026-02-05T10:52:36.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/ea535ee5-562d-4f83-83c8-45f6168456e7"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -678,6 +410,491 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20208025?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hankintalakiuudistus etenee eduskuntaan huolimatta vastustuksesta",
+      "mainCategories": [
+        "Politiikka",
+        "Hankintalaki",
+        "Valtioneuvosto"
+      ],
+      "imageUrl": "/images/valtioneuvosto/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Hallitusta varoitettu hirmu­kustannuksista – Kiistelty lakiesitys lähtee eteenpäin",
+          "content": "Kuntaliiton ankarasti vastustama hallituksen hankintalakiuudistus lähtee eduskunnan käsittelyyn. Työministeri Matias Marttinen (kok) peruutti pari viikkoa sitten pika-aikataululla tiedotustilaisuuden hallituksen hankintalakiesityksestä. Iltalehti kertoi, että esitys oli vedetty pois valtioneuvoston istunnosta, koska oikeuskansleri pyysi sen täydennyksiä varten.",
+          "date": "2026-02-05T12:12:10.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/5351eead-0398-461d-a13f-5e537e00a120"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valtioneuvoston istunnosta pois vedetty hankintalaki etenee",
+          "content": "",
+          "date": "2026-02-04T13:32:53.000Z",
+          "categories": [
+            "politiikka",
+            "hankintalaki",
+            "matias marttinen",
+            "valtioneuvosto"
+          ],
+          "link": "https://yle.fi/a/74-20208360?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukraina ja Venäjä neuvottelevat rauhasta Abu Dhabissa",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan rauha | Ukraina ja Venäjä vaihtoivat yli 300 vankia",
+          "content": "Molemmat maat vaihtoivat 157 vankia. Sopimus saavutettiin Abu Dhabissa käydyissä Yhdysvaltain välittämissä rauhanneuvotteluissa.",
+          "date": "2026-02-05T11:55:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011797010.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan rauha | Abu Dhabin neuvotteluissa keskityttiin konkreettisiin ratkaisuihin, mutta päätöksiä ei vielä tehty",
+          "content": "Neuvottelut Ukrainan, Venäjän ja Yhdysvaltojen välillä jatkuvat Arabiemiraateissa. Osapuolet kertovat edistyksestä, mutta eivät anna tarkempia tietoja.",
+          "date": "2026-02-04T20:03:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011795618.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan rauha | Venäjä ja Ukraina neuvottelevat tänään Abu Dhabissa",
+          "content": "Venäjän hyökkäyssodan päättämiseen tähtäävissä neuvotteluissa on aikaisemmin kuultu puheita 800-luvulla Kiovaa hallinneesta Rurikista.",
+          "date": "2026-02-04T09:24:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011793282.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Norjan kruununprinssin poika oikeudessa raiskauksista",
+      "mainCategories": [
+        "Oikeudenkäynnit",
+        "Seksuaalirikokset",
+        "Raiskaus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mette-Maritin pojan netti­haut keskiössä oikeudessa: googlasi sanat raiskaus ja nukkuvan raiskaus",
+          "content": "Norjan käräjäoikeudessa käsitellään edelleen Skaugumissa joulukuussa 2018 tapahtunutta väitettyä raiskausta.",
+          "date": "2026-02-05T11:30:48.000Z",
+          "categories": [
+            "oikeudenkäynnit",
+            "marius borg høiby",
+            "seksuaalirikokset",
+            "raiskaus",
+            "rikokset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208535?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Norja | Kuohuttava oikeuden­käynti alkoi: kruunun­prinsessan poika kiisti raiskaukset",
+          "content": "Norjan kuningasperhe on todennäköisesti aikansa suurimman kohun keskellä, kun Marius Borg Høibyn 38 rikossyytettä tulivat oikeuden käsiteltäviksi.",
+          "date": "2026-02-03T13:23:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011790368.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Latvia tutkii Jeffrey Epstein -asiakirjoja",
+      "mainCategories": [
+        "Ulkomaat",
+        "Poliisi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Latvia käynnistää rikostutkinnan Epstein-asiakirjojen takia",
+          "content": "Jeffrey Epsteiniin liittyvistä asiakirjoista on löytynyt useiden malli­toimistojen ja mallien tietoja.",
+          "date": "2026-02-05T11:30:23.000Z",
+          "categories": [
+            "poliisi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208538?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tuhansia sivuja Epstein-materiaalia poistettiin – tässä syy",
+          "content": "Yhdysvaltojen oikeusministeriö julkaisi viime perjantaina yli kolme miljoonaa sivua edesmenneen seksuaalirikollisen Jeffrey Epsteinin tutkintaan liittyviä tiedostoja.",
+          "date": "2026-02-03T20:22:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011792863.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "SDP:n kannatus kasvaa, kokoomus ja PS laskevat",
+      "mainCategories": [
+        "Politiikka",
+        "Puolueet",
+        "Vaalit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kannatusmittaus | Jokisipilä Sdp:n suosiosta: Ihmiset eivät ehkä yhdistäneet kohua puolueen politiikkaan",
+          "content": "Sdp:n ja kokoomuksen välinen kannatusero on nyt yli kuusi prosenttiyksikköä. Professori Markku Jokisipilä ei pidä eroa vielä ratkaisevana.",
+          "date": "2026-02-05T11:18:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011795782.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "SDP tuulettaa: Tätä mieltä kokoomus ja PS ovat jymy-yllätyksestä",
+          "content": "Kokoomuksen Maggie Keskinen: ”Hallitusvastuun kantaminen näkyy yleensä aina hallituspuolueiden kannatuksessa.” PS:n puoluesihteeri Harri Vuorenpää ei halua eritellä, miksi puolueen kannatus tuli rutkasti alas Ylen torstaina julkistamassa tammikuun kannatuskyselyssä. Valtiovarainministeripuolueen kannatus laski 1,8 prosenttiyksikköä 13,3 prosenttiin. – Emme yleensä lähde tekemään yksittäisistä kannatuskyselytuloksista sen suurempia johtopäätöksiä, ovat ne sitten kumpaan suuntaan tahansa. Luonnollisesti käymme kyselyn tausta-aineistot huolellisesti läpi ja teemme niistä omat analyysimme, Vuorenpää sanoo.",
+          "date": "2026-02-05T10:07:15.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/15bac633-bae1-43f3-b3a7-d17e87d5304c"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Häirintäkohu ei nakannut Lindtmanin Sdp:tä maalta merelle – vasemmisto vetää hurjaa nousua punamullan kiilto silmissä",
+          "content": "Sdp on rypenyt häirintäkohussa viikkoja – mutta kannatus nousee. Ylen gallup lupaa hyvää punamultahallituksesta haaveileville, arvioi politiikan erikoistoimittaja Timo Haapala.",
+          "date": "2026-02-05T06:34:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011795801.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Vaaleihin on runsas vuosi aikaa, ja puolue­kannatusten hurjin vuoristorata voi olla vasta edessä",
+          "content": "Työväestön huoli työttömyydestä ja taloudesta näyttää olevan SDP:n ja perus­suomalaisten kannatus­muutosten merkittävin syy, kirjoittaa politiikan toimittaja Tulikukka de Fresnes.",
+          "date": "2026-02-05T04:30:35.000Z",
+          "categories": [
+            "politiikka",
+            "vaalit",
+            "puolueiden kannatus"
+          ],
+          "link": "https://yle.fi/a/74-20208250?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ylen kannatus­mittaus: Kokoomuksen ja perus­suomalaisten kannatus laski, SDP kasvatti etumatkaansa",
+          "content": "Vasemmisto­liitto on kohentanut kannatustaan jo pitkään, mutta raja saattaa olla lähellä, sanoo Talous­tutkimuksen tutkimus­johtaja.",
+          "date": "2026-02-05T04:00:39.000Z",
+          "categories": [
+            "politiikka",
+            "puolueiden kannatus",
+            "puolueet"
+          ],
+          "link": "https://yle.fi/a/74-20208249?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Epäilty seksuaalirikollinen jatkaa rikoksia",
+      "mainCategories": [
+        "Seksuaalirikokset",
+        "Kotimaa",
+        "Rikosepäilyt"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "20-vuotias tamperelaismies mielen­tila­tutkimukseen – epäillään laajasta lapsiin kohdistuneesta seksuaali­rikos­sarjasta",
+          "content": "Miehen epäillään syyllistyneen 32 lapseen kohdistuneista seksuaali­rikoksista. Epäilty on ollut yhteydessä lapsiin Tiktok- ja Telegram-sovelluksissa.",
+          "date": "2026-02-05T11:12:28.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "seksuaalirikokset",
+            "lapset ja nuoret",
+            "tampere",
+            "pirkanmaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20208520?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lapsesta saakka hyväksikäyttöön syyllistynyt mies tuomittiin vankilaan – katosi ja epäillään jatkaneen seksuaalirikoksia",
+          "content": "Lastensuojelu puuttui miehen toimintaan jo, kun tämä oli alle 15-vuotias. Kun mies tuomittiin vankilaan, hän katosi. Poliisi epäilee hänen jatkaneen seksuaalirikoksia pakomatkallaan.",
+          "date": "2026-02-05T08:53:38.000Z",
+          "categories": [
+            "rikokset",
+            "seksuaalirikokset",
+            "snapchat",
+            "instagram",
+            "sosiaalinen media",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20207763?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump vähentää liittovaltion agentteja Minnesotassa",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/5.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Trump vetää 700 agenttia Minnesotasta",
+          "content": "Minnesotaan jää vielä noin 2000 liittovaltion agenttia. Kansalaismielipide USA:ssa on kääntynyt vahvasti maahanmuuttoviranomaisia vastaan.",
+          "date": "2026-02-05T11:10:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011795923.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpin ”raja­tsaari”: Minnesotasta vedetään 700 liittovaltion agenttia",
+          "content": "Joukkokarkotuksia kuitenkin jatketaan, Trumpin ”rajatsaari” sanoo.",
+          "date": "2026-02-04T16:15:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011795229.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Eläkeuudistukset ja niiden vaikutukset keskustelussa",
+      "mainCategories": [
+        "Politiikka",
+        "Työelämä",
+        "Talous"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Näin eläkkeiden leikkaus oikeasti vaikuttaisi, kertoo Mikko Kautto KL:n haastattelussa",
+          "content": "Kauppalehti kävi Eläketurvakeskuksen toimitusjohtajan Mikko Kauton kanssa läpi, millaisia julkisen talouden vaikutuksia olisi, jos esillä olleisiin eläke-etuuksiin päätettäisiin tehdä muutoksia.",
+          "date": "2026-02-05T11:07:00.000Z",
+          "categories": [
+            "kansantalous"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/a86d0b02-95c2-40d9-b0e0-f18a42450b8e"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "On erikoista, ettei eläkkeistä ole leikattu, sanoo asiantuntija",
+          "content": "Eläkkeistä leikkaaminen on poliitikoille arka paikka.",
+          "date": "2026-02-05T05:15:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011794786.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tällaisia leikkauksia eläkkeisiin ehdotetaan – Yle selvitti: muutos koskisi eniten suurituloisia ja nuoria",
+          "content": "Leskeneläke sekä tutkintojen ja työttömyys­kausien eläkekarttuma nousevat väistämättä keskusteluun tulevina vuosina, ennakoi valtiovarain­ministeri Riikka Purra.",
+          "date": "2026-02-03T16:41:39.000Z",
+          "categories": [
+            "politiikka",
+            "työelämä",
+            "talous",
+            "eläkekarttuma"
+          ],
+          "link": "https://yle.fi/a/74-20207985?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Epstein-asiakirjat paljastavat uusia juoruja",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS-analyysi | Armoton kuningas veti oikeaa Epstein-linjaa, kun taas brittihallitus kipuilee hyvä­uskoisuutensa kanssa",
+          "content": "Pääministeri Starmerin Epstein-jälkipyykinpesu on hankalampaa kuin kuninkaan vastaava, kirjoittaa HS:n Lontoon-kirjeenvaihtaja Annamari Sipilä.",
+          "date": "2026-02-05T10:57:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011793764.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS-analyysi | Epstein-asiakirjoista saatiin meheviä juoruja Mette-Maritista ja Clintonista, mutta todellinen piina on uhreilla",
+          "content": "Uhrien luvattu suojelu epäonnistui, eikä Trumpin hallinto onnistu lopettamaan salaliittoteorioita pimityksen jatkumisesta, kirjoittaa HS:n ulkomaantoimittaja Pekka Mykkänen.",
+          "date": "2026-02-03T17:23:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011788277.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kalevan Prisman pahoinpitelystä epäillyt kiinni",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tampere | Poliisi: Kalevan Prisman pahoinpitelystä epäillyt otettu kiinni",
+          "content": "Epäillyt ilmoittautuivat poliisille itse.",
+          "date": "2026-02-05T10:46:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011796975.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Epäilty törkeä pahoinpitely Prismassa – epäillyt ilmoittautuivat poliisille",
+          "content": "Poliisin tietojen mukaan osalliset olivat joutuneet ”suukopuun” ennen epäiltyä väkivaltarikosta.",
+          "date": "2026-02-05T10:40:00.000Z",
+          "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000011794423.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Prisman väkivallasta etsityt nöyrtyivät",
+          "content": "Poliisi julkaisi epäiltyjen kuvan keskiviikkona. Tampereen Kalevan Prisman törkeästä pahoinpitelystä epäillyt nuoret miehet on otettu kiinni. Epäillyt ilmoittautuivat itse poliisille sen jälkeen, kun poliisi julkaisi heistä kuvan keskiviikkona.",
+          "date": "2026-02-05T10:34:11.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/d9445288-74b7-4ecc-a12d-37c175655bcf"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Käräjäoikeus hylkäsi ihmiskauppasyytteet Kainuussa",
+      "mainCategories": [
+        "Oikeudenkäynnit",
+        "Ihmiskauppa",
+        "Yrittäjyys"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Käräjäoikeus hylkäsi kaikki syytteet Kainuun parturien ihmiskauppavyyhdissä",
+          "content": "Kainuun käräjäoikeus ratkaisi tänään kainuulaista parturiyrittäjää koskevan ihmiskauppajutun. Rangaistuksia ei jaettu.",
+          "date": "2026-02-05T10:24:33.000Z",
+          "categories": [
+            "oikeudenkäynnit",
+            "ihmiskauppa",
+            "yrittäjyys",
+            "kajaani",
+            "oikeus",
+            "rikokset",
+            "kainuu",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20204518?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kainuu | Parturi­yrittäjää epäiltiin ihmis­kaupasta ja pahoin­pitelystä: Kaikki syytteet hylättiin",
+          "content": "Käräjäoikeuden mukaan näyttöä pakkotyöstä ei esitetty.",
+          "date": "2026-02-05T08:13:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011796121.html"
         }
       ]
     },
@@ -814,7 +1031,7 @@
       ]
     },
     {
-      "mainTitle": "Penkkarijuhlat käynnissä ympäri Suomea",
+      "mainTitle": "Abien penkkarijuhlat käynnistyivät Suomessa",
       "mainCategories": [
         "Penkkarit",
         "Lukio",
@@ -826,8 +1043,8 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Penkkareita vietetään tänään railakkaasti – seuraamme juhlintaa ympäri Suomen",
-          "content": "Penkkariaamu alkoi monessa koulussa abishow'lla ja myöhemmin ovat vuorossa penkkariajot. Kokoamme tähän juttuun tunnelmia eri puolilta maata.",
+          "title": "Abien penkkari­ajelut käynnissä – seuraamme juhlintaa ympäri Suomen",
+          "content": "Penkkariaamu alkoi monessa koulussa abishow'lla ja sen jälkeen jatkettiin penkkari­ajoihin. Kokoamme tähän juttuun tunnelmia eri puolilta maata.",
           "date": "2026-02-05T09:33:48.000Z",
           "categories": [
             "juhlat",
@@ -850,6 +1067,8 @@
             "lappeenranta",
             "seinäjoki",
             "rovaniemi",
+            "tampere",
+            "yle uutiset somenostot",
             "varsinais-suomi",
             "kotimaa",
             "pohjanmaa",
@@ -883,47 +1102,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20208401?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Wolt-lähettien palkat paljastavat huolenaiheita",
-      "mainCategories": [
-        "Työelämä",
-        "Wolt",
-        "Alustatalous"
-      ],
-      "imageUrl": "/images/talous/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kolme Wolt-kuskia piti kirjaa tunneistaan ja palkoistaan – tällainen oli tuntipalkka",
-          "content": "Ammattiliiton mukaan selvitys antaa karun kuvan Wolt-lähettien tilanteesta.",
-          "date": "2026-02-05T09:31:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011796430.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "PAM selvitti Wolt-lähettien todelliset tuntipalkkiot – ”Tämä on todella hälyttävää”, sanoo PAMin puheenjohtaja",
-          "content": "Kolme lähettiä piti päiväkirjaa, johon he merkitsivät työtunnit, kulut ja palkkiot. Todelliset palkkiot olivat 3,93–6,65 euroa tunnissa.",
-          "date": "2026-02-05T08:00:12.000Z",
-          "categories": [
-            "työelämä",
-            "wolt",
-            "palvelualojen ammattiliitto (pam)",
-            "alustatalous",
-            "palveluala",
-            "talous",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208422?origin=rss"
         }
       ]
     },
@@ -972,95 +1150,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20208438?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nesteen osake laski huolimatta hyvästä tuloksesta",
-      "mainCategories": [
-        "Talous",
-        "Polttoaineet",
-        "Biopolttoaineet"
-      ],
-      "imageUrl": "/images/talous/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Neste putoaa: Tässä syy",
-          "content": "Polttoaineyhtiö Nesteen kova tulos ei riittänyt sijoittajille. EQ:n salkunhoitaja Anne Brusila arvioi yhtiön raporttia Talousaamussa ennen pörssin aukeamista.",
-          "date": "2026-02-05T08:49:00.000Z",
-          "categories": [
-            "talousaamu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/5909ee7f-e287-40bc-a0d5-43b87d14f999"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nesteen tulos ylitti odotukset, mutta osake on jyrkässä laskussa – uusiutuvan polttoaineen näkymä oli iso pettymys",
-          "content": "”Markkinat odottivat tuotantomääriin 5–10 prosentin kasvua”, sanoo OP:n analyytikko Matti Kaurola.",
-          "date": "2026-02-05T07:29:41.000Z",
-          "categories": [
-            "talous",
-            "polttoaineet",
-            "biopolttoaineet",
-            "energia",
-            "öljy ja kaasu"
-          ],
-          "link": "https://yle.fi/a/74-20208434?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Eläkeuudistukset herättävät keskustelua puolueissa",
-      "mainCategories": [
-        "Politiikka",
-        "Kotimaa",
-        "Eläkkeet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Joudutaanko eläkkeistä leikkaamaan? Tätä mieltä ovat puolueet",
-          "content": "Iltalehti selvitteli eduskuntapuolueiden kantoja eläkekertymien suitsimiseen. Talouspolitiikan arviointineuvosto on nostanut keskusteluun muun muassa leskeneläkkeen sekä tutkintojen ja työttömyyden aikana kertyvät eläkkeet. Valtiovarainministeri Riikka Purra (ps) on väläyttänyt omana kantanaan, että eläkkeiden kertymiseen voisi harkita muutoksia. – Vähintään tutkintoihin liittyvää kertymää, toisaalta kansainvälisestikin ajatellen vähän merkillistä leskeneläkejärjestelmää, ehkä myös työttömyyden ajalta kertynyttä eläkettä pitää tulevina vuosina kyetä tarkastelemaan, Purra on todennut Ilta-Sanomille lisäten kuitenkin, ettei asia koske tätä hallitusta.",
-          "date": "2026-02-05T08:34:23.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/201ab9f6-06a6-465e-ad8c-98e7acad5dc3"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "On erikoista, ettei eläkkeistä ole leikattu, sanoo asiantuntija",
-          "content": "Eläkkeistä leikkaaminen on poliitikoille arka paikka.",
-          "date": "2026-02-05T05:15:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011794786.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asiantuntija: Olisi outoa, jos eläkeläiset jätettäisiin säästöjen ulkopuolelle",
-          "content": "Etlan tutkimusneuvonantaja Tarmo Valkonen sanoi A-studiossa, että asia on reiluuskysymys.",
-          "date": "2026-02-04T20:17:32.000Z",
-          "categories": [
-            "politiikka",
-            "eläkkeet",
-            "a-studio",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208404?origin=rss"
         }
       ]
     },
@@ -1155,107 +1244,13 @@
       ]
     },
     {
-      "mainTitle": "Runebergin päivä 5. helmikuuta 2026",
-      "mainCategories": [
-        "Kotimaa",
-        "Perinteet",
-        "Juhlapäivät"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Jos saat tästä testistä 10/10, olet Runebergin veroinen kielinero",
-          "content": "Tänään 5. helmikuuta vietetään Runebergin päivää. Tänään 5. helmikuuta vietetään Runebergin päivää kansallisrunoilijamme Johan Ludvig Runebergin kunniaksi. Runeberg kirjoitti elämäntyönään suomalaista identiteettiä osaltaan luoneen runoteoksen Vänrikki Stoolin tarinat. Kokoelman avausruno on Maamme, josta tuli Suomen kansallislaulu.",
-          "date": "2026-02-05T08:12:20.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/cdb54d9c-7565-4f61-8796-f73d70b82751"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tänään vietetään Runebergin päivää",
-          "content": "",
-          "date": "2026-02-04T23:39:14.000Z",
-          "categories": [
-            "perinteet",
-            "johan ludvig runeberg",
-            "suomenkielinen kirjallisuus",
-            "juhlapäivät",
-            "kansallisrunoilija",
-            "kirjallisuus",
-            "suomalaiset runoilijat",
-            "pohjoismainen kirjallisuus",
-            "runoilijat",
-            "fredrika runeberg",
-            "makeat leivonnaiset",
-            "loma-, juhla- ja vapaapäivät",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208411?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lennot keskeytyneet Berliinin lentoasemalla",
-      "mainCategories": [
-        "Ulkomaat",
-        "Liikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kaaos Berliinin lentokentällä",
-          "content": "Lentoliikenne on keskeytynyt Berliinin lentoasemalla. Berliinin Brandenburgin lentoasemalta kerrotaan, että lentojen lähdöt ovat toistaiseksi keskeytyneet sääolosuhteiden vuoksi. Lentoasema kehottaa matkustajia tarkistamaan lentojensa tilanteen omalta lentoyhtiöltään. Asiasta kertoo lentoasema verkkosivuillaan sekä viestipalvelu X:ssä.",
-          "date": "2026-02-05T08:07:36.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/62af3ca0-7dd2-4b95-8f78-6f17a8be77fe"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kaaos Berliinissä – lennot eivät pääse ilmaan",
-          "content": "Lähtevät lennot on keskeytetty talvisten sääolojen takia.",
-          "date": "2026-02-05T07:49:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011796103.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lennot keskeytetty Berliinin lentokentällä",
-          "content": "",
-          "date": "2026-02-05T07:22:38.000Z",
-          "categories": [
-            "liikenne",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208443?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Ydinasesopimus päättyy ilman Kiinaa",
       "mainCategories": [
         "Ulkomaat",
         "Kiina",
         "Turvallisuus"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1297,7 +1292,7 @@
       ]
     },
     {
-      "mainTitle": "Viisikymppinen nainen huumekaupassa Kanta-Hämeessä",
+      "mainTitle": "Nainen myi huumeita 55 000 eurolla",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -1305,18 +1300,6 @@
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Poliisi: Viisikymppinen nainen pyöritti isoa huumebisnestä",
-          "content": "Tapaus tuli ilmi vieläkin isomman huumetutkinnan yhteydessä. Viisikymppinen nainen pyöritti isoa huumekauppaa Kanta-Hämeessä ja Pirkanmaalla, epäilee poliisi. Poliisin mukaan nainen levitti 277 grammaa alfa-PVP-huumetta eli niin sanottua peukkua viime vuoden aikana. Poliisi arvioi, että katukaupassa huumeiden arvo on noin 55 000 euroa. Tapahtuma-aika on toukokuusta marraskuuhun.",
-          "date": "2026-02-05T07:57:40.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/2c04c654-0c4e-4c3e-8792-b7c67e8d2a19"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -1347,6 +1330,41 @@
             "pirkanmaa"
           ],
           "link": "https://yle.fi/a/74-20208444?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lennot keskeytyneet Berliinissä huonon sään vuoksi",
+      "mainCategories": [
+        "Ulkomaat",
+        "Liikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kaaos Berliinissä – lennot eivät pääse ilmaan",
+          "content": "Lähtevät lennot on keskeytetty talvisten sääolojen takia.",
+          "date": "2026-02-05T07:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011796103.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lennot keskeytetty Berliinin lentokentällä",
+          "content": "",
+          "date": "2026-02-05T07:22:38.000Z",
+          "categories": [
+            "liikenne",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208443?origin=rss"
         }
       ]
     },
@@ -1432,43 +1450,6 @@
       ]
     },
     {
-      "mainTitle": "Venäjä iski Ukrainaan talviyönä",
-      "mainCategories": [
-        "Ukraina",
-        "Venäjä",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Venäjä yrittää jäädyttää ukrainalaiset asuntoihinsa, näin he selviävät – katso kuvaraportti",
-          "content": "Tiistain vastaisena yönä Venäjä teki talven suurimman ohjus- ja drooni-iskun Ukrainan kaupunkeihin. Yle oli paikalla Dnipron kaupungissa.",
-          "date": "2026-02-05T04:59:59.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "venäjä",
-            "ukrainan sota",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208261?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Venäjä teki vuoden toistaiseksi suurimman iskunsa Ukrainaan keskellä talvipakkasia – Naton pääsihteeri Rutte vieraili Kiovassa tunteja myöhemmin",
-          "content": "Zelenskyin mukaan viimeöiset iskut osoittivat, että Venäjä tekee mieluummin hyökkäyksiä kuin käyttää diplomatiaa.",
-          "date": "2026-02-03T12:42:48.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/venaja-teki-vuoden-toistaiseksi-suurimman-iskunsa/12521734?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Eugénien kruunu entisöidään varkauden jälkeen",
       "mainCategories": [
         "Ulkomaat",
@@ -1532,7 +1513,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1591,7 +1572,7 @@
         "Minneapolis",
         "Maahanmuuttajat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1669,7 +1650,7 @@
       ]
     },
     {
-      "mainTitle": "Bill Gates katuu yhteyksiään Epsteiniin",
+      "mainTitle": "Bill Gates katuu yhteyksiä Jeffrey Epsteiniin",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -1795,7 +1776,7 @@
       ]
     },
     {
-      "mainTitle": "Leonardo-myrsky aiheutti evakuointeja Espanjassa",
+      "mainTitle": "Leonardo-myrsky aiheuttaa evakuointeja Espanjassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1893,7 +1874,7 @@
         "Yhdysvallat",
         "Murhayritykset"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1981,7 +1962,7 @@
       ]
     },
     {
-      "mainTitle": "Eläkeuudistuksesta erimielisyydet jatkuvat Suomessa",
+      "mainTitle": "Eläkeuudistuksia vaaditaan Suomessa nyt",
       "mainCategories": [
         "Politiikka"
       ],
@@ -2049,50 +2030,7 @@
       ]
     },
     {
-      "mainTitle": "Pöllöt aiheuttivat pelastusoperaatioita Suomessa",
-      "mainCategories": [
-        "Luonto",
-        "Kotimaa",
-        "Pöllöt"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Leivinuunin hormistoon eksynyt pöllö aiheutti kolmipäiväisen pelastus­operaation Heinolassa – savustettiin lopulta ulos",
-          "content": "Kovia kokenut lehtopöllö toipuu Heinolan lintu­hoitolassa. Pelastajien mukaan tapaus on poikkeuk­sellinen.",
-          "date": "2026-02-04T16:53:20.000Z",
-          "categories": [
-            "luonto",
-            "pöllöt",
-            "pelastustoiminta",
-            "heinola",
-            "heinolan lintuhoitola",
-            "päijät-häme",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208353?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Teollisuus­halliin eksynyt pöllönpoikanen aiheutti kiperän pelastus­tehtävän Joensuussa",
-          "content": "Pöllö eksyi tiistaina joensuulaiseen teollisuus­halliin. Pelastus­laitos ja lintuharrastaja työskentelivät yhdessä, että lintu saatiin alas ja takaisin luontoon.",
-          "date": "2026-02-03T12:15:15.000Z",
-          "categories": [
-            "luonto",
-            "kotimaa",
-            "pohjois-karjala"
-          ],
-          "link": "https://yle.fi/a/74-20208070?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Jalkaväkimiinat takaisin käyttöön Suomessa",
+      "mainTitle": "Suomi ottaa jalkaväkimiinat uudelleen käyttöön",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2207,12 +2145,12 @@
       ]
     },
     {
-      "mainTitle": "Suomi ja Yhdysvallat: yhteistyö kyseenalaistuu",
+      "mainTitle": "Suomi ja Yhdysvallat: yhteistyön tulevaisuus epävarma",
       "mainCategories": [
         "Politiikka",
         "Turvallisuus"
       ],
-      "imageUrl": "/images/stubb/1.jpg",
+      "imageUrl": "/images/stubb/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2244,11 +2182,11 @@
       ]
     },
     {
-      "mainTitle": "Stubb kritisoi USA:n ulkopolitiikkaa valtiopäivillä",
+      "mainTitle": "Stubbin suorat sanat USA:n ulkopolitiikasta",
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/stubb/4.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2289,46 +2227,13 @@
       ]
     },
     {
-      "mainTitle": "Sähköautojen lataushinnat nousseet merkittävästi",
-      "mainCategories": [
-        "Sähköautot",
-        "Uutiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Sähköautojen lataushinnat nousivat paikoin pilviin – \"Sähköä ei tietenkään voi myydä tappiolla\"",
-          "content": "",
-          "date": "2026-02-04T14:39:16.000Z",
-          "categories": [
-            "sähköautot",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6892135"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Sähköautojen lataushinnat nousivat paikoin pilviin – \"Sähköä ei tietenkään voi myydä tappiolla\"",
-          "content": "Lataushinnat ovat korkealla pörssisähkön kovien hintojen vuoksi. Myös sähköauton kotilataus voi olla kallista, mutta eri syystä.",
-          "date": "2026-02-04T05:09:44.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/sahkoautojen-lataushinnat-nousivat-paikoin-pilviin/12522542?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Eduskunnan avustajien häirintäselvitys valmistui",
+      "mainTitle": "Eduskunnan avustajilta häirintäilmoituksia",
       "mainCategories": [
         "Politiikka",
         "Kansanedustajat",
         "Lainsäädäntövalta"
       ],
-      "imageUrl": "/images/eduskunta/4.jpg",
+      "imageUrl": "/images/eduskunta/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2361,58 +2266,6 @@
             "häirintä"
           ],
           "link": "https://yle.fi/a/74-20208303?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Alhainen merivedenkorkeus uhkaa rantoja",
-      "mainCategories": [
-        "Sää",
-        "Merivesi",
-        "Itämeri"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Merivedenkorkeus harvinaisen alhaalla, Turussa mitattiin uusi ennätys – tällaista tuhoa on mökkirannalle luvassa",
-          "content": "",
-          "date": "2026-02-04T14:00:00.000Z",
-          "categories": [
-            "meri",
-            "jää",
-            "saaristomeri",
-            "vesiliikenne",
-            "vesivahingot",
-            "talvi",
-            "turku",
-            "saaristo",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6891989"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Merivesi on Porvoossa nyt ennätysalhaalla – varoitus annettu koko Suomen rannikolle",
-          "content": "Pääsyyllinen alhaiseen merivedenkorkeuteen on Suomen ylle jämähtänyt korkeapaine.",
-          "date": "2026-02-03T15:21:49.000Z",
-          "categories": [
-            "sää",
-            "merivesi",
-            "ilmatieteen laitos",
-            "itämeri",
-            "porvoo",
-            "luonto",
-            "laivaliikenne",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208146?origin=rss"
         }
       ]
     },
@@ -2454,10 +2307,9 @@
       "mainTitle": "Posti irtisanoo 121 työntekijää",
       "mainCategories": [
         "Talous",
-        "Taloussanomat",
-        "Muutosneuvottelut"
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2470,21 +2322,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011794873.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Postin muutosneuvottelut päättyivät, irtisanoo 121 työntekijää",
-          "content": "",
-          "date": "2026-02-04T13:23:55.000Z",
-          "categories": [
-            "muutosneuvottelut",
-            "työ",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6892006"
         },
         {
           "publisherId": "hs",
@@ -2507,7 +2344,7 @@
         "Eduskunta",
         "Kotimaa"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2555,86 +2392,7 @@
       ]
     },
     {
-      "mainTitle": "Pörssisähkön hinta korkeimmillaan yli 80 senttiä",
-      "mainCategories": [
-        "Energia",
-        "Talous",
-        "Sähkönkulutus"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pörssisähkön hinta laskee edelleen torstaina",
-          "content": "",
-          "date": "2026-02-04T12:39:23.000Z",
-          "categories": [
-            "energia",
-            "sähkön hinta",
-            "sähkönkulutus",
-            "kuluttajahinnat",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20208334?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ministeri Multala: Sähkö on Suomessa kohtuu­hintaista",
-          "content": "Pörssisähkön hinta on tammi- ja helmikuussa huidellut korkeuksissa. Tiistaina korkein hintapiikki kipusi yli 80 senttiin kilowatti­tunnilta.",
-          "date": "2026-02-03T18:36:50.000Z",
-          "categories": [
-            "energia",
-            "sähkö",
-            "sähkön hinta",
-            "a-studio",
-            "sähkömarkkinat",
-            "sari multala",
-            "energia-ala",
-            "politiikka",
-            "sähkönkulutus",
-            "sähköntuotanto ja -jakelu",
-            "energiamarkkinat",
-            "hinnoittelu",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20208165?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Nyt on kallista: pörssisähkön hinta ampaisi vuoden korkeimpiin lukemiin",
-          "content": "Tiistaina pörssisähkön hinta kipuaa korkeimmillaan hurjiin lukemiin: yli 80 senttiin kilowattitunnilta.",
-          "date": "2026-02-03T15:00:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011788039.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Testaa, paljonko vaikkapa pullan paistaminen maksaa tänään – näin sähkön hintapiikki näkyy lompakossasi",
-          "content": "Pörssisähkö maksaa tiistaina kello 17 alkaen yli 77 senttiä kilowattitunnilta. Tässä voit testata, paljonko tuttujen kodinkoneiden käyttö maksaa kalleimmillaan.",
-          "date": "2026-02-03T13:17:47.000Z",
-          "categories": [
-            "energia",
-            "sähkö",
-            "sähkön hinta",
-            "talous",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20207930?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Israelin armeija pudotti kranaatin rauhanturvaajille",
+      "mainTitle": "Israelin armeija epäiltynä rauhanturvaajien uhkaamisesta",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2708,7 +2466,7 @@
         "Liikenne",
         "Viro"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
