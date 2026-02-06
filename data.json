@@ -1,11 +1,439 @@
 {
-  "timestamp": "2026-02-06T16:39:12.067Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-02-06T17:38:16.490Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Valtionhallinnon laaja tietomurto paljastui",
+      "mainTitle": "USA ja Iran aloittivat ydineuvottelut",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Iran",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iran ja Yhdysvallat | Iranin ydin­neuvottelut alkoivat, mutta Trump ilmoitti uusista pakotteista",
+          "content": "Iranin ulkoministeri kertoo neuvottelujen Omanissa edenneen rakentavasti. Yhdysvallat asetti kuitenkin heti uusia pakotteita Iranin öljynviennille.",
+          "date": "2026-02-06T17:26:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011801310.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "USA:n ja Iranin neuvottelut Omanissa päättyneet – ydinohjelma yhä kiistakapula",
+          "content": "",
+          "date": "2026-02-06T14:04:26.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "iran",
+            "iranin ydinohjelma",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208821?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suostuuko Iran myönnytyksiin ydin­ohjelmastaan? Yhdysvallat ja Iran neuvottelevat jännitteisessä tilanteessa",
+          "content": "Iran haluaa keskustella Omanissa ainoastaan ydin­ohjelmastaan. Yhdysvallat vaatii myös muun muassa ohjuksia koskevia rajoituksia.",
+          "date": "2026-02-06T13:12:34.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "iran",
+            "yhdysvallat",
+            "iranin ydinohjelma",
+            "ydinaseet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208692?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "USA:n ja Iranin neuvottelut ydinsopimuksesta alkaneet Omanissa",
+          "content": "",
+          "date": "2026-02-06T08:46:52.000Z",
+          "categories": [
+            "lähi-itä",
+            "yhdysvallat",
+            "iran",
+            "ydinaseet",
+            "oman",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208713?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ydinaseet | Yhdysvallat ja Iran aloittavat neuvottelut, mutta odotukset ovat vaisut",
+          "content": "Markkinat seuraavat tilannetta tarkasti, sillä vaakakupissa on muun muassa öljyn hinta.",
+          "date": "2026-02-06T05:14:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011798090.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump julkaisi rasistisen videon Obamoista",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Trump julkaisi videon, jossa Obamat esitetään apinoina",
+          "content": "Trump on rakentanut poliittisen uransa osin rasistisilla lausunnoilla. Valkoisen talon mukaan video julkaisi työntekijä, ei Trump itse.",
+          "date": "2026-02-06T17:25:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011800901.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valkoinen talo poisti Obamaa pilkkaavan videon – sanoi julkaisua vahingoksi",
+          "content": "",
+          "date": "2026-02-06T17:23:15.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "barack obama",
+            "valkoinen talo",
+            "truth social",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208855?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump julkaisi videon, jossa Obamat esitetään apinoina",
+          "content": "",
+          "date": "2026-02-06T12:38:45.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "barack obama",
+            "yhdysvaltojen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208781?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump julkaisi törkeän rasistisen videon Obamoista",
+          "content": "Presidentti julkaisi sosiaalisessa mediassa videon, jolla esitetään Barack ja Michelle Obama apinoina.",
+          "date": "2026-02-06T11:54:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011799752.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Fimea varoittaa hengenvaarallisista somehaasteista",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Lääkkeet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Fimea varoittaa hengenvaarallisista somehaasteista",
+          "content": "Lääkkeiden väärinkäyttö liian suurilla annoksilla voi aiheuttaa nopeasti pysyviä haittoja, Fimea varoittaa.",
+          "date": "2026-02-06T17:08:41.000Z",
+          "categories": [
+            "sosiaalinen media",
+            "onnettomuudet",
+            "lääkkeet",
+            "nuoret",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20208853?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hengenvaarallinen somehaaste leviää",
+          "content": "Sosiaalisessa mediassa leviäviin haasteisiin saattaa liittyä yleisesti käytettyjä lääkkeitä.",
+          "date": "2026-02-06T16:11:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011801216.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Viking Gracen risteilyllä ruokamyrkytystapaus",
+      "mainCategories": [
+        "Kotimaa",
+        "Terveys",
+        "Turku"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viking Gracen vatsataudin aiheuttajaksi paljastui bakteeri",
+          "content": "Viikko sitten risteilyllä olleesta seurueesta ainakin osa on saanut matkan jälkeen vatsaoireita. Risteilyt jatkuvat normaalisti.",
+          "date": "2026-02-06T16:55:37.000Z",
+          "categories": [
+            "terveys",
+            "viking line",
+            "turku",
+            "mahataudit",
+            "ruokamyrkytys",
+            "varsinais-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20208850?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Viking Gracen kaikki ruoat tuhotaan – laivayhtiöltä vahva kehotus matkustajille",
+          "content": "Taustalla ovat joidenkin matkustajien saamat vatsatautioireet.",
+          "date": "2026-02-06T13:31:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011800727.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kaikki Viking Gracen risteilyn elintarvikkeet tuhotaan",
+          "content": "Viking Linen risteilyllä sairastuneiden laboratorionäytteistä löytyi ruokamyrkytystä aiheuttavaa bakteeria. Viking Gracen risteilyllä epäillään mahdollista ruokamyrkytystä, Viking Linen viestintäjohtaja Johanna Boijer-Svahnström kertoo Iltalehdelle. Torstaina Boijer-Svahnström kertoi yhtiön olevan tietoinen ryhmästä, jonka useat jäsenet sairastuivat  31.1.–1.2. risteilyllä Turusta Tukholmaan. Taudiksi epäiltiin tavanomaista vatsatautia.",
+          "date": "2026-02-06T13:02:54.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/014b5450-0f64-4f4e-bd6a-d66d874dba69"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kaksi suomalaista kuoli lumivyöryssä Italiassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma",
+        "Onnettomuudet"
+      ],
+      "imageUrl": "/images/italia/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kaksi suomalaista kuoli Italiassa – tältä turma­paikalla näyttää",
+          "content": "Alueella oli kohonnut lumivyöryvaara.",
+          "date": "2026-02-06T16:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011801271.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Italia | Kaksi suomalaista kuoli lumi­vyöryssä, näin tapahtumat etenivät",
+          "content": "On epäselvää, kuinka kauan pelastajien tulo onnettomuuspaikalle kesti. Operaatioon osallistui kymmeniä pelastajia.",
+          "date": "2026-02-06T15:35:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011799211.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään nyt | UM vahvistaa: kaksi suomalaista kuoli lumi­vyöryssä Italiassa",
+          "content": "Lumivyöryssä kuolleet olivat lasketelleet laskettelurinteen ulkopuolella, vahvistaa paikallinen pelastustoimen johtaja HS:lle.",
+          "date": "2026-02-06T09:57:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011798496.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "UM vahvistaa: Kaksi suomalaista kuoli Italiassa",
+          "content": "Kaksi suomalaista on kuollut ja yksi loukkaantunut.",
+          "date": "2026-02-06T07:58:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011798990.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ulkoministeriö vahvistaa: kaksi suomalaista kuollut lumivyöryssä Italiassa – kolmas loukkaantui",
+          "content": "Yksi suomalaisista pelastui vyörystä, mutta loukkaantui.",
+          "date": "2026-02-06T07:18:47.000Z",
+          "categories": [
+            "onnettomuudet",
+            "lumi",
+            "italia",
+            "lumivyöryt",
+            "tapaturmat",
+            "lumivyöryn aiheuttama kuolema",
+            "pohjois-italia",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208681?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kaksi suomalaisturistia kuoli Italiassa",
+          "content": "Italialaismedian mukaan kuolleet olivat 50–60-vuotiaita.",
+          "date": "2026-02-05T20:40:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011798480.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pörssisähkön hinnat nousevat talven aikana",
+      "mainCategories": [
+        "Energia",
+        "Talous",
+        "Sähkö"
+      ],
+      "imageUrl": "/images/talous/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Tässä ovat pörssisähkön lopputalven hinnat – Katso tuore ennuste",
+          "content": "Ennusteet ovat hieman nousseet aiemmista lukemista, mutta ovat yhä maltillisella tasolla.",
+          "date": "2026-02-06T16:46:00.000Z",
+          "categories": [
+            "energia"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/d7e2b822-0f61-4f06-89fa-c6a21bcedf31"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pörssisähkön keskihinta on lauantaina alle 16 senttiä",
+          "content": "",
+          "date": "2026-02-06T12:20:04.000Z",
+          "categories": [
+            "energia",
+            "sähkön hinta",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20208767?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pörssisähkö kallistuu taas – katso hinnat vartti vartilta",
+          "content": "Sähkö on perjantaina kalleimmillaan aamulla.",
+          "date": "2026-02-05T13:17:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011797432.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pörssisähkön hinta perjantaina korkealla",
+          "content": "Pörssisähkö on perjantaina taas hieman kalliimpaa kuin tänään torstaina.",
+          "date": "2026-02-05T12:29:36.000Z",
+          "categories": [
+            "energia",
+            "sähkö",
+            "sähkön hinta",
+            "sähkömarkkinat",
+            "talous",
+            "sähköntuotanto ja -jakelu",
+            "korkeat hinnat",
+            "sähkönkulutus",
+            "energiamarkkinat",
+            "energiahinnat",
+            "kuluttajahinnat"
+          ],
+          "link": "https://yle.fi/a/74-20208556?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pörssisähkön hinta nousi taivaisiin – Janne kiskaisi näkyviin hurjat luvut: ”Saa kaivaa kuvetta”",
+          "content": "Pörssisähkön hinta ampaisi tiistaina vuoden korkeimpiin lukemiin. Kysyimme ohikulkijoilta, miltä ennätyshinnat tuntuvat.",
+          "date": "2026-02-05T10:48:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011792546.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Valtionhallinnon tietomurto vaarantaa käyttäjätietoja",
       "mainCategories": [
         "Teknologia",
         "Tietomurto",
@@ -13,6 +441,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ministereiden tietoja on saattanut vuotaa tieto­murrossa",
+          "content": "Tietomurto koskee 50 000 laitteiden käyttäjää.",
+          "date": "2026-02-06T16:39:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011801252.html"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -61,7 +501,7 @@
         "Perussuomalaiset",
         "Kainuu"
       ],
-      "imageUrl": "/images/eduskunta/3.jpg",
+      "imageUrl": "/images/eduskunta/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -153,7 +593,7 @@
       ]
     },
     {
-      "mainTitle": "Itsemurhaisku moskeijassa Pakistanissa 31 kuollut",
+      "mainTitle": "Itsemurhaisku moskeijassa Pakistanissa, 31 kuollut",
       "mainCategories": [
         "Ulkomaat",
         "Levottomuudet",
@@ -193,61 +633,13 @@
       ]
     },
     {
-      "mainTitle": "Aurajoen jääsilta avattu kovan pakkasen myötä",
-      "mainCategories": [
-        "Aurajoki",
-        "Turku",
-        "Jää"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Turun talven tavaramerkki on taas paikoillaan – kova pakkastalvi mahdollisti jääsillan avaamisen Aurajoen yli",
-          "content": "Aurajoen jääsillan asentaminen sujui perjantaina hyytävässä viimassa. Ehtona sillan avaamiselle on vähintään 30 sentin paksuinen jää koko joen leveydeltä.",
-          "date": "2026-02-06T16:21:50.000Z",
-          "categories": [
-            "sää",
-            "aurajoki",
-            "turku",
-            "jää",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208794?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Aurajoen jääsilta avattiin edellisiä ennätyksiä rikkoen, jalankulkusilta sai myös uudet osat",
-          "content": "",
-          "date": "2026-02-06T09:46:25.000Z",
-          "categories": [
-            "aurajoki",
-            "jää",
-            "talvi",
-            "talviaika",
-            "talvikunnossapito",
-            "turku",
-            "video",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6893795"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kanada ja Ranska avaavat konsulaatit Grönlantiin",
       "mainCategories": [
         "Grönlanti",
         "Alkuperäiskansat",
         "Inuitit"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -360,155 +752,13 @@
       ]
     },
     {
-      "mainTitle": "Kaksi suomalaista kuoli lumivyöryssä Italiassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma",
-        "Onnettomuudet"
-      ],
-      "imageUrl": "/images/italia/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Italia | Kaksi suomalaista kuoli lumi­vyöryssä, näin tapahtumat etenivät",
-          "content": "On epäselvää, kuinka kauan pelastajien tulo onnettomuuspaikalle kesti. Operaatioon osallistui kymmeniä pelastajia.",
-          "date": "2026-02-06T15:35:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011799211.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään nyt | UM vahvistaa: kaksi suomalaista kuoli lumi­vyöryssä Italiassa",
-          "content": "Lumivyöryssä kuolleet olivat lasketelleet laskettelurinteen ulkopuolella, vahvistaa paikallinen pelastustoimen johtaja HS:lle.",
-          "date": "2026-02-06T09:57:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011798496.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "UM vahvistaa: Kaksi suomalaista kuoli Italiassa",
-          "content": "Kaksi suomalaista on kuollut ja yksi loukkaantunut.",
-          "date": "2026-02-06T07:58:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011798990.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ulkoministeriö vahvistaa: kaksi suomalaista kuollut lumivyöryssä Italiassa – kolmas loukkaantui",
-          "content": "Yksi suomalaisista pelastui vyörystä, mutta loukkaantui.",
-          "date": "2026-02-06T07:18:47.000Z",
-          "categories": [
-            "onnettomuudet",
-            "lumi",
-            "italia",
-            "lumivyöryt",
-            "tapaturmat",
-            "lumivyöryn aiheuttama kuolema",
-            "pohjois-italia",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208681?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kaksi suomalaisturistia kuoli Italiassa",
-          "content": "Italialaismedian mukaan kuolleet olivat 50–60-vuotiaita.",
-          "date": "2026-02-05T20:40:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011798480.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Mediat: Kaksi suomalaista kuoli lumivyöryssä Pohjois-Italiassa",
-          "content": "",
-          "date": "2026-02-05T19:50:08.000Z",
-          "categories": [
-            "onnettomuudet",
-            "italia",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6893493"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kokkolassa nuoren naisen tappoepäily",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Henkirikokset",
-        "Kokkola"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kokkolassa taposta epäillyllä miehellä on pitkä rikoshistoria – vangitsemis­oikeuden­käynti pidetään lauantaina",
-          "content": "Nuoren naisen taposta nyt epäilty mies ampui Lahdessa häntä piirittäneitä poliiseja vuonna 2018. Miehellä on tilillään lukuisia tuomioita.",
-          "date": "2026-02-06T15:26:11.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "henkirikokset",
-            "rikokset",
-            "kokkola",
-            "lahti",
-            "kotimaa",
-            "keski-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20208824?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nuori nainen löytyi kuolleena Kokkolassa – 30-vuotias mies otettu kiinni epäiltynä taposta",
-          "content": "Tapaus tuli ilmi ulkopuolisen kautta.",
-          "date": "2026-02-06T08:37:54.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "kokkola",
-            "esitutkinta",
-            "väkivalta",
-            "poliisi",
-            "epäillyt",
-            "henkirikokset",
-            "keski-pohjanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20208709?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Sauli Niinistö ehdolla EU:n Venäjä-lähettilääksi",
       "mainCategories": [
         "Politiikka",
-        "Venäjä",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Venäjä"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -519,25 +769,6 @@
           "date": "2026-02-06T15:19:26.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/lehti-niinistoa-kaavaillaan-eun-ukraina-erityislah/12528116?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Lehti: Niinistöä kaavaillaan EU:n Ukraina-erityislähettilääksi palauttamaan yhteyttä Venäjään",
-          "content": "",
-          "date": "2026-02-06T14:47:12.000Z",
-          "categories": [
-            "ukrainan sota",
-            "ukraina",
-            "rauhanneuvottelut",
-            "sauli niinistö",
-            "venäjä",
-            "venäjän politiikka",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6894293"
         },
         {
           "publisherId": "kauppalehti",
@@ -644,19 +875,19 @@
       ]
     },
     {
-      "mainTitle": "Venäläiset sotabloggarit kritisoivat Starlinkia",
+      "mainTitle": "Venäjä etsii vaihtoehtoja Starlinkille",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Venäläiset sotabloggarit raivoissaan Starlink-estosta: ”Fasisti Elon Musk palvelee Ukrainan asevoimien etuja”",
+          "title": "Venäjän sotabloggaajat kiroavat nyt Elon Muskin: ”Liberaali­homojen runtelema nero” auttaa tappamaan venäläis­sotilaita",
           "content": "Venäläisillä somekanavilla etsitään tapaa korvata yhdys­valtalaisen Starlinkin satelliitti-internet, jota on hyödynnetty muun muassa drooni-iskuissa.",
           "date": "2026-02-06T15:03:18.000Z",
           "categories": [
@@ -689,58 +920,7 @@
       ]
     },
     {
-      "mainTitle": "Trump julkaisi rasistisen videon Obamoista",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Trump julkaisi videon, jossa Obamat esitetään apinoina",
-          "content": "Trump on rakentanut poliittisen uransa osin rasistisilla lausunnoilla. Valkoinen talo kutsui videosta pahastumista ”tekonärkästymiseksi”.",
-          "date": "2026-02-06T14:51:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011800901.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump julkaisi videon, jossa Obamat esitetään apinoina",
-          "content": "",
-          "date": "2026-02-06T12:38:45.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "barack obama",
-            "yhdysvaltojen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208781?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump julkaisi törkeän rasistisen videon Obamoista",
-          "content": "Presidentti julkaisi sosiaalisessa mediassa videon, jolla esitetään Barack ja Michelle Obama apinoina.",
-          "date": "2026-02-06T11:54:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011799752.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Keir Starmerin asema uhattuna Epstein-skandaalissa",
+      "mainTitle": "Keir Starmerin asema uhattuna Britanniassa",
       "mainCategories": [
         "Britannia",
         "Ulkomaat"
@@ -776,90 +956,7 @@
       ]
     },
     {
-      "mainTitle": "Pörssisähkön hinnat nousevat talven aikana",
-      "mainCategories": [
-        "Energia",
-        "Talous",
-        "Sähkö"
-      ],
-      "imageUrl": "/images/talous/4.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Tässä ovat pörssisähkön lopputalven hinnat – Katso tuore ennuste",
-          "content": "Ennusteet ovat hieman nousseet aiemmista lukemista, mutta ovat yhä maltillisella tasolla.",
-          "date": "2026-02-06T14:40:00.000Z",
-          "categories": [
-            "energia"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/d7e2b822-0f61-4f06-89fa-c6a21bcedf31"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pörssisähkön keskihinta on lauantaina alle 16 senttiä",
-          "content": "",
-          "date": "2026-02-06T12:20:04.000Z",
-          "categories": [
-            "energia",
-            "sähkön hinta",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20208767?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pörssisähkö kallistuu taas – katso hinnat vartti vartilta",
-          "content": "Sähkö on perjantaina kalleimmillaan aamulla.",
-          "date": "2026-02-05T13:17:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011797432.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pörssisähkön hinta perjantaina korkealla",
-          "content": "Pörssisähkö on perjantaina taas hieman kalliimpaa kuin tänään torstaina.",
-          "date": "2026-02-05T12:29:36.000Z",
-          "categories": [
-            "energia",
-            "sähkö",
-            "sähkön hinta",
-            "sähkömarkkinat",
-            "talous",
-            "sähköntuotanto ja -jakelu",
-            "korkeat hinnat",
-            "sähkönkulutus",
-            "energiamarkkinat",
-            "energiahinnat",
-            "kuluttajahinnat"
-          ],
-          "link": "https://yle.fi/a/74-20208556?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pörssisähkön hinta nousi taivaisiin – Janne kiskaisi näkyviin hurjat luvut: ”Saa kaivaa kuvetta”",
-          "content": "Pörssisähkön hinta ampaisi tiistaina vuoden korkeimpiin lukemiin. Kysyimme ohikulkijoilta, miltä ennätyshinnat tuntuvat.",
-          "date": "2026-02-05T10:48:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011792546.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Otkes tutkii muistisairaan kuolemaa hoivakodissa",
+      "mainTitle": "Kuolemantapaukset hoivakodeissa tutkinnassa",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -871,31 +968,13 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Keski-ikäinen potilas kuoli kesken magneettikuvauksen Kuopiossa",
+          "title": "Tragedia kesken magneetti­kuvauksen Kuopiossa – keski-ikäinen potilas kuoli",
           "content": "Otkes sai tapauksen tutkinnan valmiiksi.",
           "date": "2026-02-06T14:39:00.000Z",
           "categories": [
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011801045.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Otkes tutkii tapausta, jossa muistisairas kuoli hoivakodissa yritettyään hälyttää apua",
-          "content": "",
-          "date": "2026-02-06T13:57:12.000Z",
-          "categories": [
-            "kuolemantapaukset",
-            "vanhusten hoito",
-            "hoivakodit",
-            "espoo",
-            "otkes",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6894230"
         },
         {
           "publisherId": "kaleva",
@@ -1016,40 +1095,6 @@
       ]
     },
     {
-      "mainTitle": "Jaglandin korruptiotutkinta Epstein-yhteyksien vuoksi",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Norjan ex-pääministeri Jaglandia epäillään törkeästä korruptiosta Epstein-asiakirjojen vuoksi",
-          "content": "Tutkinnassa on muun muassa, saiko Jagland lahjoja, maksettuja matkoja tai lainoja asemansa vuoksi toimiessaan Nobel-komitean ja Euroopan neuvoston johdossa.",
-          "date": "2026-02-06T14:22:41.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/norjan-ex-paaministeri-jaglandia-epaillaan-torkeas/12527967?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Norjan poliisi tutkii ex-pääministeri Jaglandia Epstein-yhteyksistä",
-          "content": "Jagland toimi Norjan pääministerinä vuosina 1996–1997.",
-          "date": "2026-02-05T20:46:14.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "thorbjørn jagland",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208642?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Savannah Guthrien äiti siepattu lunnasvaatimuksilla",
       "mainCategories": [
         "Uutiset",
@@ -1093,84 +1138,10 @@
       ]
     },
     {
-      "mainTitle": "USA ja Iran neuvottelevat ydinasiasta",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Iran",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "USA:n ja Iranin neuvottelut Omanissa päättyneet – ydinohjelma yhä kiistakapula",
-          "content": "",
-          "date": "2026-02-06T14:04:26.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "yhdysvallat",
-            "iran",
-            "iranin ydinohjelma",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208821?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suostuuko Iran myönnytyksiin ydin­ohjelmastaan? Yhdysvallat ja Iran neuvottelevat jännitteisessä tilanteessa",
-          "content": "Iran haluaa keskustella Omanissa ainoastaan ydin­ohjelmastaan. Yhdysvallat vaatii myös muun muassa ohjuksia koskevia rajoituksia.",
-          "date": "2026-02-06T13:12:34.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "iran",
-            "yhdysvallat",
-            "iranin ydinohjelma",
-            "ydinaseet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208692?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "USA:n ja Iranin neuvottelut ydinsopimuksesta alkaneet Omanissa",
-          "content": "",
-          "date": "2026-02-06T08:46:52.000Z",
-          "categories": [
-            "lähi-itä",
-            "yhdysvallat",
-            "iran",
-            "ydinaseet",
-            "oman",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20208713?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ydinaseet | Yhdysvallat ja Iran aloittavat neuvottelut, mutta odotukset ovat vaisut",
-          "content": "Markkinat seuraavat tilannetta tarkasti, sillä vaakakupissa on muun muassa öljyn hinta.",
-          "date": "2026-02-06T05:14:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011798090.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Euroopan ydinpelotteesta keskustellaan aktiivisesti",
+      "mainTitle": "Euroopan ydinpelotteesta keskustellaan nyt aktiivisesti",
       "mainCategories": [
         "Politiikka",
-        "Maanpuolustus",
-        "Nato"
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1187,53 +1158,54 @@
           "link": "https://www.iltalehti.fi/politiikka/a/b786b205-b452-495e-b715-1d04ed2a34a7"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eurooppa ei pysty puolustautumaan ilman Yhdysvaltoja, Antti Häkkänen sanoo",
-          "content": "Puolustus­ministeri Antti Häkkänen toppuuttelee keskustelua Euroopan omasta ydinaseesta.",
-          "date": "2026-02-06T13:09:16.000Z",
-          "categories": [
-            "maanpuolustus",
-            "nato",
-            "turvallisuus",
-            "puolustusvoimat",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20208762?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puolustuspolitiikka | Puolustusministeri Häkkänen Euroopan omasta ydinaseesta – ”Jäitä hattuun”",
-          "content": "Puolustusministeri Antti Häkkänen (kok) sanoo, että Euroopan omasta ydinaseesta on hyvä keskustella. Samalla hän peräänkuuluttaa puheisiin realismia.",
-          "date": "2026-02-06T12:27:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011799153.html"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Kaja Kallas HS:lle: Meidän on puhuttava Euroopan ydinaseista",
-          "content": "Kallaksen mukaan ydinpelotteeseen liittyvät ratkaisut kuuluvat ensisijaisesti jäsenvaltioille.",
-          "date": "2026-02-06T05:53:00.000Z",
+          "title": "Häkkänen: Suomi ei ole tehnyt päätöstä Grönlannin suhteen",
+          "content": "Kaja Kallas on vaatinut keskustelun aloittamista Euroopan omasta ydinpelotteesta.",
+          "date": "2026-02-06T12:02:00.000Z",
           "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011799891.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kallas HS:lle: Euroopan omasta ydinpelotteesta aloitettava keskustelu",
+          "content": "",
+          "date": "2026-02-06T03:05:20.000Z",
+          "categories": [
+            "euroopan unioni",
+            "kaja kallas",
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011798685.html"
+          "link": "https://yle.fi/a/74-20208651?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "EU:n korkea edustaja Kaja Kallas Ylelle: Venäjä vain teeskentelee neuvottelevansa rauhasta",
+          "content": "EU:n ulkoasioiden korkea edustaja, virolainen Kaja Kallas tapaa Suomen ulkopoliittista johtoa Helsingissä.",
+          "date": "2026-02-05T15:14:23.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "ulko- ja turvallisuuspolitiikka",
+            "kaja kallas",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20208580?origin=rss"
         }
       ]
     },
     {
       "mainTitle": "17-vuotias tuomittiin kuolemantuottamuksesta ajon vuoksi",
       "mainCategories": [
-        "Eura",
-        "Onnettomuudet",
-        "Laitila"
+        "Kotimaa",
+        "Oikeudenkäynnit",
+        "Eura"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1248,24 +1220,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011800675.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Käräjäoikeus: Laitilan louhosonnettomuuden kuski empi auton luistattamista",
-          "content": "",
-          "date": "2026-02-06T12:10:00.000Z",
-          "categories": [
-            "tuomiot",
-            "onnettomuudet",
-            "nuoret",
-            "laitila",
-            "eura",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6892570"
         },
         {
           "publisherId": "iltalehti",
@@ -1358,7 +1312,7 @@
         "Tulostiedot",
         "Kotimaa"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -1462,7 +1416,7 @@
       ]
     },
     {
-      "mainTitle": "Konecranesin kasvu jatkuu, yritysostot mahdollisia",
+      "mainTitle": "Konecranesin kasvu ja yritysostot suunnitteilla",
       "mainCategories": [
         "Talous",
         "Satamat",
@@ -1540,58 +1494,61 @@
       ]
     },
     {
-      "mainTitle": "Suomi ei ole päättänyt Grönlannista",
+      "mainTitle": "Euroopan ydinasekeskustelu herättää huolta",
       "mainCategories": [
-        "Politiikka",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Ydinaseet",
+        "Joukkotuhoaseet"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puolustuspolitiikka | Puolustusministeri Häkkänen Euroopan omasta ydinaseesta – ”Jäitä hattuun”",
+          "content": "Puolustusministeri Antti Häkkänen (kok) sanoo, että Euroopan omasta ydinaseesta on hyvä keskustella. Samalla hän peräänkuuluttaa puheisiin realismia.",
+          "date": "2026-02-06T12:27:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011799153.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "”Euroopan oma ydinase jäisi pahasti Venäjän varjoon” – Asiantuntijat pitävät EU:n omaa pelotetta epärealistisena",
+          "content": "Asiantuntijoiden mukaan vaihtoehtona ydinasepelotteelle on Euroopan asevoimien vahvistaminen.",
+          "date": "2026-02-06T08:57:06.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "ydinaseet",
+            "joukkotuhoaseet",
+            "eurooppa",
+            "ydinasevarustelu",
+            "ylen aamu",
+            "ydinpelote",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20208663?origin=rss"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Häkkänen: Suomi ei ole tehnyt päätöstä Grönlannin suhteen",
-          "content": "Kaja Kallas on vaatinut keskustelun aloittamista Euroopan omasta ydinpelotteesta.",
-          "date": "2026-02-06T12:02:00.000Z",
+          "title": "Kaja Kallas HS:lle: Meidän on puhuttava Euroopan ydinaseista",
+          "content": "Kallaksen mukaan ydinpelotteeseen liittyvät ratkaisut kuuluvat ensisijaisesti jäsenvaltioille.",
+          "date": "2026-02-06T05:53:00.000Z",
           "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011799891.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kallas HS:lle: Euroopan omasta ydinpelotteesta aloitettava keskustelu",
-          "content": "",
-          "date": "2026-02-06T03:05:20.000Z",
-          "categories": [
-            "euroopan unioni",
-            "kaja kallas",
             "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20208651?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "EU:n korkea edustaja Kaja Kallas Ylelle: Venäjä vain teeskentelee neuvottelevansa rauhasta",
-          "content": "EU:n ulkoasioiden korkea edustaja, virolainen Kaja Kallas tapaa Suomen ulkopoliittista johtoa Helsingissä.",
-          "date": "2026-02-05T15:14:23.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "ulko- ja turvallisuuspolitiikka",
-            "kaja kallas",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20208580?origin=rss"
+          "link": "https://www.is.fi/ulkomaat/art-2000011798685.html"
         }
       ]
     },
     {
-      "mainTitle": "Ounasvaaran onnettomuudessa kuollut lapsi laski rinteessä",
+      "mainTitle": "Rovaniemen lasketteluonnettomuudessa kuollut lapsi hoidetulla rinteellä",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -1610,18 +1567,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011800184.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "11-vuotias tyttö kuoli lasketteluon­netto­muudessa – Nyt tuli täysin uusi tieto",
-          "content": "Lapsi oli lasketellut hoidetulla rinnealueella.  Lapin poliisilaitos tiedottaa korjaavansa julkisuudessa aiemmin esiintyneitä tietoja Rovaniemen Ounasvaaran lasketteluonnettomuudesta. Aiemmin Ounasvaaran hiihtokeskus on kertonut, että tyttö olisi laskenut ennen onnettomuutta rinnealueen ulkopuolella. Poliisi kertoo nyt, että lapsi oli laskenut hoidetulla rinteellä.",
-          "date": "2026-02-06T11:32:47.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/526c977a-a888-40d8-8a41-d9857307d535"
         },
         {
           "publisherId": "yle",
@@ -1657,7 +1602,7 @@
       ]
     },
     {
-      "mainTitle": "Anneli Auerin rikosoikeudenkäynnissä uusia todisteita",
+      "mainTitle": "Anneli Auerin oikeudenkäynnissä esitettiin valokuvia",
       "mainCategories": [
         "Kotimaa",
         "Oikeudenkäynnit",
@@ -1700,11 +1645,11 @@
     {
       "mainTitle": "Venäläiskenraali ammuttiin Moskovassa",
       "mainCategories": [
-        "Ulkomaat",
         "Ampuminen",
-        "Moskova"
+        "Moskova",
+        "Kenraaliluutnantit"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1734,18 +1679,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20208703?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Venäläistä kenraali­luutnanttia ammuttu Moskovassa – Nyt kommentoi Lavrov",
-          "content": "Tapausta tutkitaan murhanyrityksenä.  Venäjän ulkoministeri Sergei Lavrov väittää Ukrainan olevan Venäjän puolustusministeriön kenraaliluutnantti Vladimir Aleksejevin salamurhayrityksen takana, uutistoimisto AFP kertoo. Lavrov syytti Ukrainaa ”terroriteosta” televisiokameran edessä perjantaina. Venäjän ulkoministerin mukaan Ukraina ”pyrkii häiritsemään käynnissä olevaa neuvotteluprosessia”.",
-          "date": "2026-02-06T07:55:32.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/8577dc3c-c340-465a-8b70-5849f45260a1"
         }
       ]
     },
@@ -1756,7 +1689,7 @@
         "Kansanedustajat",
         "Eduskunta"
       ],
-      "imageUrl": "/images/jussi halla-aho/2.jpg",
+      "imageUrl": "/images/jussi halla-aho/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1886,11 +1819,11 @@
       ]
     },
     {
-      "mainTitle": "YIT aloittaa muutosneuvottelut 115 työpaikalla",
+      "mainTitle": "YIT aloittaa muutosneuvottelut 115 työpaikasta",
       "mainCategories": [
-        "Muutosneuvottelut",
-        "Kotimaa",
-        "Talous"
+        "Talous",
+        "Työmarkkinat",
+        "Tulostiedot"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1915,23 +1848,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011798961.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "YIT käynnistää muutosneuvottelut, rakennusyhtiössä 115 työpaikkaa liipasimella",
-          "content": "",
-          "date": "2026-02-06T07:13:23.000Z",
-          "categories": [
-            "muutosneuvottelut",
-            "rakentaminen",
-            "rakennusala",
-            "rakennusyhtiöt",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6893684"
         },
         {
           "publisherId": "yle",
@@ -1959,7 +1875,7 @@
         "Yhdysvallat",
         "Tyynimeri"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1994,12 +1910,12 @@
       ]
     },
     {
-      "mainTitle": "Suomenpystykorva herättää ihmetystä Yhdysvalloissa",
+      "mainTitle": "Yhdysvalloissa ihmetellään suomenpystykorvia",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2074,7 +1990,7 @@
       ]
     },
     {
-      "mainTitle": "Itämeren matala vesi vaikeuttaa liikennettä",
+      "mainTitle": "Itämeren matala merivesi vaikeuttaa liikennettä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2108,7 +2024,7 @@
       ]
     },
     {
-      "mainTitle": "Ydinaseiden käyttöriski kasvaa merkittävästi",
+      "mainTitle": "Ydinase­sopimus päättyi, riski kasvaa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2441,7 +2357,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2476,7 +2392,7 @@
         "Fingrid",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2506,7 +2422,7 @@
       ]
     },
     {
-      "mainTitle": "Suomi vastaanottaa 500 kiintiöpakolaista tänä vuonna",
+      "mainTitle": "Suomi ottaa vastaan 500 kiintiöpakolaista",
       "mainCategories": [
         "Politiikka"
       ],
@@ -2539,7 +2455,7 @@
       ]
     },
     {
-      "mainTitle": "Kalevan Prisman pahoinpitelyyn liittyvät kiinniotot",
+      "mainTitle": "Kalevan Prisman pahoinpitelyyn epäiltyjä kiinniotto",
       "mainCategories": [
         "Suomi"
       ],
@@ -2612,7 +2528,7 @@
         "Wolt",
         "Alustatalous"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -2734,7 +2650,7 @@
       ]
     },
     {
-      "mainTitle": "Louvressa varkaus, keisarinnan kruunu entisöidään",
+      "mainTitle": "Louvren keisarinnan kruunu entisöidään täysin",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2768,10 +2684,10 @@
       ]
     },
     {
-      "mainTitle": "Bill Gatesin yhteydet Epsteiniin herättävät huomiota",
+      "mainTitle": "Bill Gates katuu yhteyksiään Epsteiniin",
       "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -2798,18 +2714,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011795659.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Bill Gatesista rajuja väitteitä tuoreissa Epstein-papereissa – nyt kommentoi ex-vaimo",
-          "content": "Viime perjantaina julkaistuista Jeffrey Epsteiniin liittyvistä papereista paljastui rajuja väitteitä miljardööri Bill Gatesista.",
-          "date": "2026-02-04T17:24:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011795286.html"
         }
       ]
     },
