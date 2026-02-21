@@ -1,29 +1,78 @@
 {
-  "timestamp": "2026-02-21T16:54:05.784Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "ts",
-        "publisher": "Turun Sanomat",
-        "publisherUrl": "ts.fi",
-        "rssUrl": "https://www.ts.fi/rss.xml"
-      },
-      "reason": {
-        "code": "ECONNRESET"
-      }
-    }
-  ],
+  "timestamp": "2026-02-21T17:21:24.714Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Libanonissa kuollut toistakymmentä Israelin iskuissa",
+      "mainCategories": [
+        "Libanon",
+        "Israel",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Libanonin presidentti tuomitsi Israelin perjantaiset iskut maahan",
+          "content": "",
+          "date": "2026-02-21T17:16:25.000Z",
+          "categories": [
+            "turvallisuus",
+            "libanon",
+            "israel",
+            "aseelliset konfliktit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20211667?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Libanon: Toistakymmentä ihmistä kuollut Israelin iskuissa",
+          "content": "",
+          "date": "2026-02-21T05:03:27.000Z",
+          "categories": [
+            "libanon",
+            "israel",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6907458"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Toistakymmentä kuollut Israelin iskuissa Libanoniin perjantaina",
+          "content": "",
+          "date": "2026-02-21T00:05:39.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "libanon",
+            "israel",
+            "hizbollah",
+            "lähi-itä",
+            "aseelliset konfliktit",
+            "lähi-idän kriisi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20211602?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Trump nosti tuontitulleja 15 prosenttiin",
       "mainCategories": [
-        "Ulkomaat",
         "Yhdysvallat",
+        "Ulkomaat",
         "Talous"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -106,18 +155,6 @@
           "link": "//www.kaleva.fi/trump-allekirjoitti-uuden-10-prosentin-tuontitulli/12721491?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump löysi sopivan lakipykälän ja mätkäytti uuden tullin pöytään: voimaan melkein heti",
-          "content": "Uusi kymmenen prosentin tulli kaikille maille on voimassa viisi kuukautta.",
-          "date": "2026-02-21T02:04:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011834216.html"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -148,6 +185,22 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011761803.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Presidentti Trump pisti jälleen päälle uuden tullivaihteen",
+          "content": "",
+          "date": "2026-02-20T16:23:18.000Z",
+          "categories": [
+            "yhdysvallat",
+            "tullimaksut",
+            "donald trump",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6907232"
         },
         {
           "publisherId": "kaleva",
@@ -186,13 +239,13 @@
         "Ukraina",
         "Venäjä"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Elina Valtonen Ylelle Orbánin suunnitelmista: ”Poikkeuksellisen hankala jo todella pitkään”",
+          "title": "Elina Valtoselta suorat sanat Orbánista Ylellä",
           "content": "Unkari on uhannut torpata EU:n 90 miljardin euron tukilainan Ukrainalle.",
           "date": "2026-02-21T16:03:00.000Z",
           "categories": [
@@ -226,7 +279,7 @@
       ]
     },
     {
-      "mainTitle": "Miljonäärin jäsenmaksut aiheuttavat hämmennystä kokoomuksessa",
+      "mainTitle": "Miljonääriperijä maksoi kokoomusnuorten jäsenmaksut",
       "mainCategories": [
         "Politiikka"
       ],
@@ -260,12 +313,12 @@
       ]
     },
     {
-      "mainTitle": "Trump harkitsee iskua Iranin johtoon",
+      "mainTitle": "Trump harkitsee iskuja Iranin johtoa vastaan",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -306,7 +359,7 @@
       ]
     },
     {
-      "mainTitle": "Ulkoministeriö varoittaa matkustamisesta Iraniin",
+      "mainTitle": "Ulkoministeriö päivitti Iranin matkustustiedotteen",
       "mainCategories": [
         "Ulkomaat"
       ],
@@ -345,7 +398,7 @@
         "Ulkomaat",
         "Tullit"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -537,13 +590,13 @@
       ]
     },
     {
-      "mainTitle": "Valtonen: Suomi ei tue hyökkäystä Iraniin",
+      "mainTitle": "Valtonen: Suomi ei tue Yhdysvaltojen hyökkäystä",
       "mainCategories": [
         "Politiikka",
         "Ulkomaat",
         "Kotimaa"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -595,6 +648,56 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011832593.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Turkuun perustetaan venäjänkielinen yksityiskoulu",
+      "mainCategories": [
+        "Koulut",
+        "Perusopetus",
+        "Kielet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Turkuun ollaan perustamassa venäjänkielistä yksityiskoulua – myöhemmin opetuskielinä voivat olla myös kiina ja arabia",
+          "content": "Turun kaupunki lakkautti suomalais-venäläisen kieliluokka­toiminnan kaksi vuotta sitten. Perheet eivät lannistuneet, vaan aikovat perustaa yksityiskoulun.",
+          "date": "2026-02-21T13:42:51.000Z",
+          "categories": [
+            "lapset",
+            "turku",
+            "koulut",
+            "perusopetus",
+            "kielet",
+            "yksityiskoulut",
+            "suomalais-venäläinen koulu",
+            "opiskelu",
+            "varsinais-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20211625?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Turkuun ollaan perustamassa uusi yksityinen peruskoulu – taustalla suomalais-venäläinen päiväkoti",
+          "content": "",
+          "date": "2026-02-21T04:00:00.000Z",
+          "categories": [
+            "koulut",
+            "perusopetus",
+            "kaksikielisyys",
+            "kielet",
+            "venäjä",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6906781"
         }
       ]
     },
@@ -827,22 +930,6 @@
           "link": "https://www.hs.fi/maailma/art-2000011834071.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Etsinnät ex-prinssi Andrew'n entisessä kodissa jatkuivat toista päivää",
-          "content": "",
-          "date": "2026-02-20T17:51:44.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "britannia",
-            "kuninkaalliset",
-            "prinssi andrew, yorkin herttua",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20211585?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -869,12 +956,13 @@
       ]
     },
     {
-      "mainTitle": "Tallinkin toimitusjohtaja eroaa tehtävästään",
+      "mainTitle": "Tallink Grupp etsii uutta toimitusjohtajaa",
       "mainCategories": [
         "Talous",
-        "Taloussanomat"
+        "Taloussanomat",
+        "Yritykset"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -887,6 +975,20 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011834330.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Tallink Gruppin toimitusjohtaja jättää tehtävänsä",
+          "content": "",
+          "date": "2026-02-20T15:30:52.000Z",
+          "categories": [
+            "yritykset",
+            "talous",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/uutiset/6907173"
         },
         {
           "publisherId": "is",
@@ -1117,7 +1219,7 @@
         "Ranska",
         "Ääriliikkeet"
       ],
-      "imageUrl": "/images/ranska/1.jpg",
+      "imageUrl": "/images/ranska/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1157,7 +1259,7 @@
       ]
     },
     {
-      "mainTitle": "Wille Rydman uudeksi sosiaali- ja terveysministeriksi",
+      "mainTitle": "Wille Rydman uusi sosiaali- ja terveysministeri",
       "mainCategories": [
         "Politiikka",
         "Perussuomalaiset",
@@ -1207,7 +1309,7 @@
         "Politiikka",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1355,7 +1457,7 @@
         "Suomi",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1518,7 +1620,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1552,7 +1654,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kanada/2.jpg",
+      "imageUrl": "/images/kanada/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1585,7 +1687,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/venäjä/4.jpg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
