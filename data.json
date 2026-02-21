@@ -1,17 +1,29 @@
 {
-  "timestamp": "2026-02-21T16:23:29.091Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-02-21T16:54:05.784Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {
+        "code": "ECONNRESET"
+      }
+    }
+  ],
   "feeds": [
     {
       "mainTitle": "Trump nosti tuontitulleja 15 prosenttiin",
       "mainCategories": [
-        "Yhdysvallat",
         "Ulkomaat",
+        "Yhdysvallat",
         "Talous"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -19,7 +31,7 @@
           "publisherUrl": "is.fi",
           "title": "Trump korottaa taas tulleja",
           "content": "Donald Trump nosti tullit 15 prosenttiin.",
-          "date": "2026-02-21T16:20:00.000Z",
+          "date": "2026-02-21T16:37:00.000Z",
           "categories": [
             "ulkomaat"
           ],
@@ -30,12 +42,24 @@
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
           "title": "Yhdysvallat | Trump nosti maailmanlaajuiset tullit 15 prosenttiin",
-          "content": "Aiemmin lauantaina Yhdysvaltain presidentti oli ilmoittanut uudesta kymmenen prosentin tuontitullista.",
-          "date": "2026-02-21T16:16:00.000Z",
+          "content": "Aiemmin perjantaina Valkoinen talo oli ilmoittanut uudesta kymmenen prosentin tuontitullista.",
+          "date": "2026-02-21T16:33:00.000Z",
           "categories": [
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011834231.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trump nostaa panoksia",
+          "content": "Trump korotti eilen ilmoittamiaan tuontitulleja. Yhdysvaltain presidentti Donald Trump sanoo korottavansa eilen ilmoittamansa maailmanlaajuiset tullimaksut 10 prosentista 15 prosenttiin. Trump kertoi asiasta omistamassaan Truth Social -palvelussa. Presidentti Trumpin mukaan hänen päätöksensä taustalla on Yhdysvaltain korkeimman oikeuden perjantainen päätös, joka kumosi presidentin viime keväänä asettamat laajat tullimaksut eli tariffit muualta maailmasta tuotaville tuotteille.",
+          "date": "2026-02-21T16:27:50.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/17cd8a94-16c8-4da8-a7fa-46fb14ab1e20"
         },
         {
           "publisherId": "yle",
@@ -82,6 +106,18 @@
           "link": "//www.kaleva.fi/trump-allekirjoitti-uuden-10-prosentin-tuontitulli/12721491?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump löysi sopivan lakipykälän ja mätkäytti uuden tullin pöytään: voimaan melkein heti",
+          "content": "Uusi kymmenen prosentin tulli kaikille maille on voimassa viisi kuukautta.",
+          "date": "2026-02-21T02:04:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011834216.html"
+        },
+        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -112,22 +148,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011761803.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Trump allekirjoitti uuden 10 prosentin tuontitullin \"kaikille maille\" – astuu voimaan tiistaina",
-          "content": "",
-          "date": "2026-02-20T16:23:18.000Z",
-          "categories": [
-            "yhdysvallat",
-            "tullimaksut",
-            "donald trump",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6907232"
         },
         {
           "publisherId": "kaleva",
@@ -206,137 +226,6 @@
       ]
     },
     {
-      "mainTitle": "Trumpin tullipolitiikkaa rajoitettiin korkeimmassa oikeudessa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Tullit"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Miten pörssi reagoi Trumpin tulleihin? Päästrategi arvioi",
-          "content": "Yhdysvaltojen korkein oikeus tuomitsi maan hallinnon viimekeväiset tullit laittomiksi, mutta presidentti Donald Trump reagoi välittömästi uusilla tulleilla. Mikä nyt muuttuu, ja miten reagoivat markkinat?",
-          "date": "2026-02-21T15:57:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/f677e2ee-4174-4c02-bc55-b2c0b4ee9d62"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Korkein oikeus riisti Trumpilta aseen – viisi tärkeää kysymystä ja vastausta Trumpin tulli­politiikasta",
-          "content": "Kokosimme tähän artikkeliin tärkeimmät kysymykset ja vastaukset korkeimman oikeuden päätökseen liittyen.",
-          "date": "2026-02-21T14:45:12.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "tullit",
-            "yhdysvaltain korkein oikeus",
-            "ulkomaat",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20211641?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kommentti: Trumpin nimittämät ”sylikoirat” purivat isäntäänsä, ja se on voitto myös Suomelle",
-          "content": "Yhdysvaltain korkeimman oikeuden päätös muistuttaa Trumpia siitä, että edes presidentillä ei ole rajatonta valtaa, kirjoittaa Iltalehden ulkomaantoimittaja Heikki Mulari. Donald Trumpilla oli täysi syy olettaa, että Yhdysvaltain korkein oikeus toimii jälleen hänen kantojensa mukaan, mutta toisin kävi. Konservatiivienemmistöinen oikeus lätkäisi Trumpille hänen toisen presidenttikautensa suurimman tappion perjantaina, kun se päätti äänin 6–3, että Yhdysvaltain presidentillä ei ole valtuuksia asettaa hätätilalakeihin vedoten pysyviä tulleja ilman kongressin hyväksyntää.",
-          "date": "2026-02-21T12:39:18.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/27c19167-9101-4c62-9f41-544092d73e2f"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Donald Trumpin valtaa rajoitettiin merkittävästi",
-          "content": "Yhdysvaltojen korkein oikeus osoitti tullipäätöksellään, että se ei ole Donald Trumpin hallussa, kirjoittaa Yhdysvaltain-kirjeenvaihtaja Ilmari Reunamäki.",
-          "date": "2026-02-21T05:47:14.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "yhdysvaltain korkein oikeus",
-            "tullit",
-            "yle uutiset somenostot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20211595?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yhdysvaltain varapresidentti Vance: Korkeimman oikeuden tullipäätös ”laittomuus”",
-          "content": "",
-          "date": "2026-02-20T23:23:35.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "j. d. vance",
-            "korkein oikeus",
-            "tuontitulli",
-            "talous",
-            "presidentti trumpin hallinto",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20211601?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpilta vastaus tulli­takaiskun jälkeen – ilmoitti uudesta maailman­laajuisesta tullista",
-          "content": "Trump kommentoi Korkeimman oikeuden tullipäätöstä tiedotustilaisuudessa.",
-          "date": "2026-02-20T19:50:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011833843.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ministeri Tavio Yhdysvaltain korkeimman oikeuden päätöksestä: Trumpilla on muitakin keinoja tullien asettamiseksi",
-          "content": "Tavio uskoo, että EU-komissio tulee antamaan oman näkemyksensä asiasta hyvinkin nopeasti.",
-          "date": "2026-02-20T16:58:36.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "yhdysvallat",
-            "korkein oikeus",
-            "ville tavio",
-            "tullit",
-            "talous",
-            "ulkomaat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20211578?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpille tyly päätös: Tullit nurin",
-          "content": "Trump ylitti toimivaltansa, korkein oikeus linjasi.",
-          "date": "2026-02-20T15:39:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011833702.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Miljonäärin jäsenmaksut aiheuttavat hämmennystä kokoomuksessa",
       "mainCategories": [
         "Politiikka"
@@ -376,7 +265,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -446,6 +335,101 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20211649?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin tullipäätös ja sen seuraukset",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Ulkomaat",
+        "Tullit"
+      ],
+      "imageUrl": "/images/trump/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mitä tapahtuu Trumpin tullien suhteen? Kokosimme viisi kysymystä ja vastausta",
+          "content": "Kokosimme tähän artikkeliin tärkeimmät kysymykset ja vastaukset korkeimman oikeuden päätökseen liittyen.",
+          "date": "2026-02-21T14:45:12.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "tullit",
+            "yhdysvaltain korkein oikeus",
+            "ulkomaat",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20211641?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Donald Trumpin valtaa rajoitettiin merkittävästi",
+          "content": "Yhdysvaltojen korkein oikeus osoitti tullipäätöksellään, että se ei ole Donald Trumpin hallussa, kirjoittaa Yhdysvaltain-kirjeenvaihtaja Ilmari Reunamäki.",
+          "date": "2026-02-21T05:47:14.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "yhdysvaltain korkein oikeus",
+            "tullit",
+            "yle uutiset somenostot",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20211595?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvaltain varapresidentti Vance: Korkeimman oikeuden tullipäätös ”laittomuus”",
+          "content": "",
+          "date": "2026-02-20T23:23:35.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "j. d. vance",
+            "korkein oikeus",
+            "tuontitulli",
+            "talous",
+            "presidentti trumpin hallinto",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20211601?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpilta vastaus tulli­takaiskun jälkeen – ilmoitti uudesta maailman­laajuisesta tullista",
+          "content": "Trump kommentoi Korkeimman oikeuden tullipäätöstä tiedotustilaisuudessa.",
+          "date": "2026-02-20T19:50:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011833843.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ministeri Tavio Yhdysvaltain korkeimman oikeuden päätöksestä: Trumpilla on muitakin keinoja tullien asettamiseksi",
+          "content": "Tavio uskoo, että EU-komissio tulee antamaan oman näkemyksensä asiasta hyvinkin nopeasti.",
+          "date": "2026-02-20T16:58:36.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "korkein oikeus",
+            "ville tavio",
+            "tullit",
+            "talous",
+            "ulkomaat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20211578?origin=rss"
         }
       ]
     },
@@ -553,13 +537,13 @@
       ]
     },
     {
-      "mainTitle": "Valtonen: Suomi ei tue Yhdysvaltojen hyökkäystä",
+      "mainTitle": "Valtonen: Suomi ei tue hyökkäystä Iraniin",
       "mainCategories": [
         "Politiikka",
         "Ulkomaat",
         "Kotimaa"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -611,56 +595,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011832593.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Turkuun perustetaan venäjänkielinen yksityiskoulu",
-      "mainCategories": [
-        "Koulut",
-        "Perusopetus",
-        "Kielet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Turkuun ollaan perustamassa venäjänkielistä yksityiskoulua – myöhemmin opetuskielinä voivat olla myös kiina ja arabia",
-          "content": "Turun kaupunki lakkautti suomalais-venäläisen kieliluokka­toiminnan kaksi vuotta sitten. Perheet eivät lannistuneet, vaan aikovat perustaa yksityiskoulun.",
-          "date": "2026-02-21T13:42:51.000Z",
-          "categories": [
-            "lapset",
-            "turku",
-            "koulut",
-            "perusopetus",
-            "kielet",
-            "yksityiskoulut",
-            "suomalais-venäläinen koulu",
-            "opiskelu",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20211625?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Turkuun ollaan perustamassa uusi yksityinen peruskoulu – taustalla suomalais-venäläinen päiväkoti",
-          "content": "",
-          "date": "2026-02-21T04:00:00.000Z",
-          "categories": [
-            "koulut",
-            "perusopetus",
-            "kaksikielisyys",
-            "kielet",
-            "venäjä",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6906781"
         }
       ]
     },
@@ -935,13 +869,12 @@
       ]
     },
     {
-      "mainTitle": "Tallink Grupp hakee uutta toimitusjohtajaa",
+      "mainTitle": "Tallinkin toimitusjohtaja eroaa tehtävästään",
       "mainCategories": [
         "Talous",
-        "Taloussanomat",
-        "Yritykset"
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -954,20 +887,6 @@
             "talous"
           ],
           "link": "https://www.hs.fi/talous/art-2000011834330.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Tallink Gruppin toimitusjohtaja jättää tehtävänsä",
-          "content": "",
-          "date": "2026-02-20T15:30:52.000Z",
-          "categories": [
-            "yritykset",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6907173"
         },
         {
           "publisherId": "is",
@@ -1039,52 +958,7 @@
       ]
     },
     {
-      "mainTitle": "Israel iskut Libanoniin aiheuttavat kuolemia",
-      "mainCategories": [
-        "Libanon",
-        "Israel",
-        "Hizbollah"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Libanon: Toistakymmentä ihmistä kuollut Israelin iskuissa",
-          "content": "",
-          "date": "2026-02-21T05:03:27.000Z",
-          "categories": [
-            "libanon",
-            "israel",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/uutiset/6907458"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Toistakymmentä kuollut Israelin iskuissa Libanoniin perjantaina",
-          "content": "",
-          "date": "2026-02-21T00:05:39.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "libanon",
-            "israel",
-            "hizbollah",
-            "lähi-itä",
-            "aseelliset konfliktit",
-            "lähi-idän kriisi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20211602?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ruotsin rikollisjengit myyvät väärennettyä lääkettä",
+      "mainTitle": "Ruotsin jengit myyvät väärennettyä lääkettä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1243,7 +1117,7 @@
         "Ranska",
         "Ääriliikkeet"
       ],
-      "imageUrl": "/images/ranska/2.jpg",
+      "imageUrl": "/images/ranska/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1283,7 +1157,7 @@
       ]
     },
     {
-      "mainTitle": "Wille Rydman uusi sosiaali- ja terveysministeri",
+      "mainTitle": "Wille Rydman uudeksi sosiaali- ja terveysministeriksi",
       "mainCategories": [
         "Politiikka",
         "Perussuomalaiset",
@@ -1481,7 +1355,7 @@
         "Suomi",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1644,7 +1518,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1711,7 +1585,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/venäjä/2.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
