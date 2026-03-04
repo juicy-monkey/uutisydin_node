@@ -1,25 +1,201 @@
 {
-  "timestamp": "2026-03-04T12:48:33.444Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-03-04T13:55:40.643Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kauppalehti",
+        "publisher": "Kauppalehti",
+        "publisherUrl": "kauppalehti.fi",
+        "rssUrl": "https://feeds.kauppalehti.fi/rss/main"
+      },
+      "reason": {
+        "errno": -104,
+        "code": "ECONNRESET",
+        "syscall": "read"
+      }
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Sote-uudistus käynnistyy eduskunnassa",
+      "mainTitle": "Suomalaisille evakuointilentoja ei valmistella",
+      "mainCategories": [
+        "Ulkomaat",
+        "Matkailu",
+        "Ulkoasiainministeriö"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ulkoministeriö järjestää lennon Arabiemiraateissa oleville suomalaisille – lippu maksaa 2 300 euroa",
+          "content": "",
+          "date": "2026-03-04T13:53:39.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "matkailu",
+            "ulkoasiainministeriö",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20213628?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ulkoministeriö: Useita suomalaisia on päässyt lähtemään Lähi-idästä",
+          "content": "Kaupallisten lentojen määrä on lisääntymässä",
+          "date": "2026-03-04T08:51:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011857853.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ulkoministeriö: Useita suomalaisia päässyt lähtemään Lähi-idästä – evakuointilentoja ei valmistella tällä hetkellä",
+          "content": "Ulkoministeriö ei tällä hetkellä valmistele evakuointilentoja.",
+          "date": "2026-03-04T08:16:14.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "lähi-itä",
+            "lentoliikenne",
+            "dubai",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20213500?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvaltojen sukellusvene upotti Iranin aluksen",
+      "mainCategories": [
+        "Ulkomaat",
+        "Sukellusveneet",
+        "Iran"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Yhdysvaltain sukellusvene upotti Iranin sotalaivan, ainakin 80 kuollutta",
+          "content": "Yhdysvallat ja Israel ovat iskeneet Iraniin. HS seuraa tapahtumia hetki hetkeltä tässä jutussa.",
+          "date": "2026-03-04T13:47:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011849876.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Hegseth: Yhdysvaltojen sukellusvene upotti Iranin sotalaivan Sri Lankan rannikolla",
+          "content": "Kyseessä on ensimmäinen kerta sitten toisen maailmansodan, kun Yhdysvaltojen sukellusvene upottaa vihollisen aluksen.",
+          "date": "2026-03-04T11:15:20.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "sri lanka",
+            "sukellusveneet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20213563?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Asiantuntija ei pidä poissuljettuna, että Iran yrittäisi iskeä USA:n maaperälle",
+          "content": "Iskut Iraniin voivat lietsoa kostonhalua. Muutama maa on jo nostanut valmiuttaan terrorismin varalta.",
+          "date": "2026-03-02T17:23:38.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "lähi-itä",
+            "iran",
+            "yhdysvallat",
+            "terrorismi",
+            "politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20213192?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Aurakuskille tuomio pojan kuolemasta",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikokset",
+        "Onnettomuudet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lapsi jäi Kauniaisissa lumiauran alle ja kuoli – traktoria ajanut mies tuomittiin kuolemantuottamuksesta",
+          "content": "Länsi-Uudenmaan käräjäoikeus on tuominnut auraustraktorin kuljettajan kuolemantuottamuksesta ja törkeästä liikenneturvallisuuden vaarantamisesta.",
+          "date": "2026-03-04T13:39:22.000Z",
+          "categories": [
+            "rikokset",
+            "onnettomuudet",
+            "tuomiot",
+            "tieliikenne",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20212665?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "10-vuotias pikkupoika kuoli hirveässä onnettomuudessa Kauniaisissa – tällaisen tuomion turmakuski sai",
+          "content": "Lunta kolannut nainen yritti estää onnettomuuden, mutta ei ehtinyt.",
+          "date": "2026-03-04T13:29:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011845348.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "10-vuotias poika kuoli traagisesti Kauniaisissa – Aurakuskille tuomio",
+          "content": "Länsi-Uudenmaan käräjäoikeus on antanut tuomionsa 10-vuotiaan pojan kuolemasta. Länsi-Uudenmaan käräjäoikeus on tuominnut nykyään 60-vuotiaan aurakuskin ehdolliseen vankeuteen 10-vuotiaan lapsen kuolemasta Kauniaisissa. Mies tuomittiin törkeästä liikenneturvallisuuden vaarantamisesta ja kuolemantuottamuksesta kuuden kuukauden ehdolliseen vankeusrangaistukseen.",
+          "date": "2026-03-04T12:55:26.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/b636cc45-c5ba-4115-ab04-22ca8ecbff35"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sote-uudistus ja talouskasvu huolenaiheina",
       "mainCategories": [
         "Politiikka",
         "Hyvinvointialueet",
         "Kotimaa"
       ],
-      "imageUrl": "/images/eduskunta/3.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Suora lähetys: Sote-vääntö alkoi eduskunnassa – Krista Kiurulta suorat sanat nykymenosta",
+          "title": "Kovaa vääntöä sotesta – Krista Kiurulta suorat sanat, ministerit vastasivat",
           "content": "Pääministeri Petteri Orpo (kok) antaa eduskunnalle ilmoituksen sote-palveluista.",
-          "date": "2026-03-04T12:44:00.000Z",
+          "date": "2026-03-04T13:39:00.000Z",
           "categories": [
             "politiikka"
           ],
@@ -41,7 +217,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Orpo kutsuu eduskuntapuolueet mukaan työhön soten uudistamiseksi – Vasemmistoliiton Pekonen: Onko hallitus luovuttanut?",
+          "title": "Orpo kutsuu eduskuntapuolueet mukaan soten uudistamiseen – Vasemmistoliiton Pekonen: Onko hallitus luovuttanut?",
           "content": "Petteri Orpo (kok.) antaa eduskunnalle pääministerin ilmoituksen sotesta ja hyvinvointialueiden kehittämisestä. Yle seuraa keskustelua tässä päivittyvässä artikkelissa",
           "date": "2026-03-04T11:27:32.000Z",
           "categories": [
@@ -56,8 +232,8 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Hallitus saa kuulla kunniansa sote-palveluiden tilasta – Krista Kiuru: ”Tämä on kamalaa politiikkaa”",
-          "content": "Pääministeri Petteri Orpo kertoo eduskunnalle näkemyksensä sote-palveluiden tilanteesta ja tulevista näkymistä. Pääministeri Petteri Orpo (kok) antaa tänään keskiviikkona eduskunnalle ilmoituksen  sosiaali- ja terveyspalveluista. Orpo on ilmoittanut aloittavansa parlamentaarisen, eli kaikkien eduskuntapuolueiden yhteisen, sote-työskentelyn.",
+          "title": "\"Täyttä hölynpölyä\" – Wille Rydman ministeri­aitiossa, täysi mölinä nousi salissa",
+          "content": "Pääministeri Petteri Orpo kertoi eduskunnalle näkemyksensä sote-palveluiden tilanteesta ja tulevista näkymistä. Pääministeri Petteri Orpo (kok) antoi keskiviikkona eduskunnalle ilmoituksen  sosiaali- ja terveyspalveluista. Sosiaali- ja terveysministeri Wille Rydman (ps) huomautti, että tämän hallituskauden jälkeen soteen käytetään neljä miljardia euroa enemmän rahaa kuin edellisellä kaudella.",
           "date": "2026-03-04T11:03:26.000Z",
           "categories": [
             "politiikka"
@@ -79,11 +255,46 @@
       ]
     },
     {
-      "mainTitle": "Mies tuomittiin vaimonsa tappamisesta",
+      "mainTitle": "Lähi-idän tilanne vaikuttaa Ukrainan sotaan",
       "mainCategories": [
-        "Kotimaa",
-        "Rikokset",
-        "Poliisi"
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/5.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Lähi-idän sotatilanne vaikuttaa Ukrainan ja Venäjän väliseen sotaan – asiantuntija summaa",
+          "content": "Kiinnostaako presidentti Trumpia enää Ukrainan kohtalo, ja onko Venäjä omavaraistunut lennokkien tuotannossa?",
+          "date": "2026-03-04T13:12:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011858792.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Trump saattaa pestä kätensä sodasta ja romuttaa Euroopan pakoterintaman",
+          "content": "Yhdysvallat osoittaa merkkejä lähentymisestä Venäjän kanssa. Asiantuntijoiden mukaan se voi herättää pian kiinnostusta myös Euroopan sisällä.",
+          "date": "2026-03-02T13:59:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011837906.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ulosottovelallisten määrä ylitti 600 000",
+      "mainCategories": [
+        "Yhteiskunta",
+        "Ulosotto",
+        "Ulosottolaitos"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -91,7 +302,85 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "”Eläimellisesti huutanut” tappaja sepitti erikoisen tarinan kadonneen vaimonsa kuolemasta – tässä tuomio",
+          "title": "Ulosottovelallisten määrä kipusi yli 600 000:n – asuntojen pakko­myynneissä kova kasvu",
+          "content": "Ulosottovelallisten yhteismäärä viime vuonna ensimmäisen kerran 600 000 eri velallisen rajan.",
+          "date": "2026-03-04T13:10:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011857586.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ulosottovelallisten määrä ylitti 600 000 rajan viime vuonna",
+          "content": "",
+          "date": "2026-03-04T12:05:58.000Z",
+          "categories": [
+            "yhteiskunta",
+            "ulosotto",
+            "ulosottolaitos",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20213589?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Linnanmäki ottaa käyttöön pääsymaksun",
+      "mainCategories": [
+        "Kotimaa",
+        "Linnanmäki",
+        "Huvipuistot"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Linnanmäelle ei pääse enää ilmaiseksi – huvipuisto ottaa käyttöön viiden euron pääsymaksun",
+          "content": "Myyntiin tulee myös uusi kahden päivän lippu.",
+          "date": "2026-03-04T12:53:58.000Z",
+          "categories": [
+            "vapaa-aika",
+            "linnanmäki",
+            "huvipuistot",
+            "helsinki",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20213602?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Linnanmäki muuttaa hinnoitteluaan radikaalisti",
+          "content": "Halvimmillaan huvipuistoon pääsee viidellä eurolla.",
+          "date": "2026-03-04T07:36:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011857483.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Aviomies tuomittiin vaimon tappamisesta",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikokset",
+        "Poliisi"
+      ],
+      "imageUrl": "/images/metsä/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Aviomies hautasi vaimonsa metsään ja sepitti erikoisen tarinan – tällaisen tuomion hän sai",
           "content": "Kuusikymppisen naisen ruumis löytyi matalasta kuopasta syrjäisestä paikasta. Henkirikoksen tekotapa jäi mysteeriksi.",
           "date": "2026-03-04T12:34:00.000Z",
           "categories": [
@@ -131,19 +420,19 @@
       ]
     },
     {
-      "mainTitle": "Euroopan maat varoittavat sotaan liittymisestä",
+      "mainTitle": "Lähi-idän sota uhkaa Euroopan maita",
       "mainCategories": [
         "Ulkomaat",
         "Puolustus",
         "Nato"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Analyysi: Euroopan maita vedetään sotaan, johon ne eivät halunneet",
+          "title": "Analyysi: Järjetön sota Persianlahdella vetää Euroopan maita mukaan",
           "content": "Kun voimaa käytetään tai tarvitaan Lähi-idässä, se on pois muusta puolustuksesta, kirjoittaa Ylen Nato-erikoistoimittaja Maria Stenroos.",
           "date": "2026-03-04T12:33:12.000Z",
           "categories": [
@@ -171,157 +460,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20213436?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Osakemarkkinat nousevat hermostuneessa tilanteessa",
-      "mainCategories": [
-        "Sijoittaminen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Markkinoilla on taas riskinottajia – osakkeet nousussa hermostuneilla markkinoilla",
-          "content": "Osakemarkkinat kääntyivät nousuun ainakin lyhytaikaisesti. Taustalla on ainakin osittain Iranin ja USA:n väliset kontaktit. Markkinat ovat kuitenkin selvästi hermostuneet.",
-          "date": "2026-03-04T12:33:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/6a9d8dd9-da75-40cb-8d48-c4429760adb6"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "NYT: Iranilla salaisia sovintopyrkimyksiä",
-          "content": "Iranin sodan neljäntenä päivänä kriisi näyttää yhä eskaloituvan. Sijoittajat etsivät turvasatamaa, ja maailmanmarkkinoiden yllä on tummia pilviä.",
-          "date": "2026-03-04T12:06:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/0867c4dd-f7eb-4a16-a801-b2c54468babb"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sukellusvene upotti iranilaislaivan Sri Lankassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Sukellusveneet",
-        "Konfliktit"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sri Lanka: Sukellusvene iski iranilais­laivaan – yli 100 kateissa",
-          "content": "Kohteena oli tiettävästi Iranin laivaston sotalaiva.",
-          "date": "2026-03-04T12:29:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011858102.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lähteet: Tunnistamaton sukellusvene upotti Iranin sota-aluksen Sri Lankan rannikolla",
-          "content": "",
-          "date": "2026-03-04T11:15:20.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "sri lanka",
-            "sukellusveneet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213563?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lue tästä yhteenveto yön tapahtumista Lähi-idän konfliktissa",
-          "content": "Iran jatkoi yöllä iskujaan Persianlahden alueella. Israel on pommittanut voimalla Libanonia. Yhdysvallat kertoi tuhonneensa 17 iranilaista merialusta.",
-          "date": "2026-03-04T04:20:32.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "lähi-itä",
-            "konfliktit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213445?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asiantuntija ei pidä poissuljettuna, että Iran yrittäisi iskeä USA:n maaperälle",
-          "content": "Iskut Iraniin voivat lietsoa kostonhalua. Muutama maa on jo nostanut valmiuttaan terrorismin varalta.",
-          "date": "2026-03-02T17:23:38.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "lähi-itä",
-            "iran",
-            "yhdysvallat",
-            "terrorismi",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213192?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sähkön hinnat nousevat torstaina merkittävästi",
-      "mainCategories": [
-        "Taloussanomat",
-        "Kotimaa",
-        "Sähkö"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Nauti halvasta sähköstä vielä tänään – Torstaina kallistuu",
-          "content": "Iltalehden päivittyvä taulukko näyttää pörssisähkön vallitsevan hinnan. Iltalehden palvelu mahdollistaa pörssisähkön hinnan seuraamisen. Tästä jutusta löytyvässä oheisessa graafissa näkyvät aina 48 tunnin hintatiedot. Seuraavan päivän varttihinnat päivittyvät graafiin noin kello 14 tai hieman sen jälkeen, jolloin graafi näyttää kuluvan päivän ja seuraavan päivän hinnat. Puolenyön jälkeen, ennen kuin seuraavan vuorokauden hinnat ovat vielä tiedossa, graafi näyttää edeltävän päivän ja kuluvan vuorokauden varttihinnat. Voit katsoa graafista minkä tahansa vartin pörssisähkön hinnan. Kuvaaja näyttää myös erikseen juuri käynnissä olevan vartin hinnan sekä tiedossa olevista tulevista hinnoista halvimman ja kalleimman vartin hintoineen.",
-          "date": "2026-03-04T12:25:50.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/430a56af-648b-430b-a286-c04be41d5ad3"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Sähkön hinta nousee torstaina – aamulla ja illalla korkeimmat hinnat",
-          "content": "Torstain korkein tuntihinta on yli 16 senttiä kilowattitunnilta, mikä on moninkertainen hinta verrattuna keskiviikon erittäin mataliin hintoihin.",
-          "date": "2026-03-04T12:04:00.000Z",
-          "categories": [
-            "sähkö"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/d3e3b968-ee88-4473-b932-27c3c3cd63e7"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pörssisähkön hinta romahtaa liki nollaan",
-          "content": "Päivän keskihinta jää 1,21 senttiin keskiviikkona.",
-          "date": "2026-03-03T13:34:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011856195.html"
         }
       ]
     },
@@ -385,76 +523,10 @@
       ]
     },
     {
-      "mainTitle": "Tampereen lipuntarkastajien ohjeistus herättää kritiikkiä",
+      "mainTitle": "Finnair selvittää suomalaisten evakuointia Lähi-idästä",
       "mainCategories": [
-        "Liikenne",
-        "Tampere",
-        "Joukkoliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "PS:n Vigelius tuohtui Tampereen uudesta ohjeesta lipun­tarkastajille: ”Järjen köyhyyttä”",
-          "content": "Kansanedustaja Joakim Vigelius (ps): ”Pummilla matkustamiseen suorastaan kannustetaan ja paine lippuhintojen nostolle lankeaa tunnollisille matkustajien maksettavaksi”. Kansanedustaja ja Tampereen valtuutettu Joakim Vigelius tyrmää Tampereen kaupungin ohjeistuksen, jonka mukaan matkalipuntarkastajat eivät voi enää jatkossa voimatoimin estää liputonta matkustajaa poistumasta bussin tai raitiovaunun kyydistä. Vigeliuksen mukaan uusi ohjeistus on kaupungin johdolta järjen köyhyyttä.",
-          "date": "2026-03-04T12:19:05.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/bdc7e42c-fcc2-47ee-913a-558c07da29cc"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tarkastajat eivät voi enää estää liputonta matkustajaa – Keijo, 65, lataa: ”Miksi helvetissä yhdestä lipusta ruvetaan”",
-          "content": "Tampereen kaupungin uuden linjauksen mukaan tarkastajat eivät voi enää estää liputonta matkustajaa karkaamasta raitiovaunusta tai bussista.",
-          "date": "2026-03-03T17:16:00.000Z",
-          "categories": [
-            "tampereen seutu"
-          ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000011854040.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lipuntarkastajien uusista ohjeista nousi äläkkä",
-          "content": "Tampereen ohjeistuksen mukaan tarkastajat eivät saa enää estää liputtomia poistumasta ratikasta.",
-          "date": "2026-03-03T10:13:00.000Z",
-          "categories": [
-            "tampereen seutu"
-          ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000011854965.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tampereen lipun­tarkastajat hämmentyivät, kun kaupunki ohjeisti päästämään liputtomat asiakkaat menemään – tästä on kyse",
-          "content": "Tampereen kaupunki tahtoo minimoida lipunta­rkastuksessa voimankäytön. Tällä halutaan lisätä työntekijöiden turvallisuutta.",
-          "date": "2026-03-02T16:37:45.000Z",
-          "categories": [
-            "liikenne",
-            "tampere",
-            "joukkoliikenne",
-            "liputta matkustaminen",
-            "nysse",
-            "pirkanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20213176?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Finnair ja ulkoministeriö selvittävät evakuointia",
-      "mainCategories": [
-        "Ulkomaat",
-        "Lentoliikenne",
-        "Dubai"
+        "Kotimaa",
+        "Taloussanomat"
       ],
       "imageUrl": "/images/finnair/1.jpg",
       "relatedNews": [
@@ -486,74 +558,25 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Ulkoministeriö: Useita suomalaisia on päässyt lähtemään Lähi-idästä",
-          "content": "Kaupallisten lentojen määrä on lisääntymässä",
-          "date": "2026-03-04T08:51:00.000Z",
+          "title": "Satoja suomalaisia edelleen jumissa Dohassa ja Dubaissa – Finnair: tilanne muuttuu päivä päivältä haastavammaksi",
+          "content": "Finnairin uudelleenreitityksistä vastaavan johtajan Sami Suokkaan mukaan tilanteen kestosta ei toistaiseksi ole arviota.",
+          "date": "2026-03-03T17:56:00.000Z",
           "categories": [
-            "ulkomaat"
+            "kotimaa"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011857853.html"
+          "link": "https://www.is.fi/kotimaa/art-2000011854806.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ulkoministeriö: Useita suomalaisia päässyt lähtemään Lähi-idästä – evakuointilentoja ei valmistella tällä hetkellä",
-          "content": "Ulkoministeriö ei tällä hetkellä valmistele evakuointilentoja.",
-          "date": "2026-03-04T08:16:14.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnair keskeyttää lentonsa Dohaan maaliskuun loppuun saakka",
+          "content": "Finnair tiedotti eilen keskeyttävänsä lentonsa Dubaihin. Nyt myös Dohan-lennot jäävät tauolle.",
+          "date": "2026-03-03T12:51:00.000Z",
           "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "lähi-itä",
-            "lentoliikenne",
-            "dubai",
-            "ulkomaat"
+            "taloussanomat"
           ],
-          "link": "https://yle.fi/a/74-20213500?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Korvaako vakuutusyhtiö kulut, jos on jumissa Lähi-idässä? Katso, mitä yhtiöt vastaavat",
-          "content": "Lentoliikenne kriisialueelle on lähes täysin keskeytetty. Ulkoministeriön mukaan evakuointilentoja ei kuitenkaan ole suunnitelmissa.",
-          "date": "2026-03-03T16:58:05.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "dubai",
-            "finnair",
-            "doha",
-            "lentoliikenne",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213376?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Aleksi Lumijärvi jäi jumiin Abu Dhabiin eikä tiedä, milloin pääsee kotiin",
-          "content": "Ulkoministeriö ei ole toistaiseksi järjestämässä Lähi-idän maihin jääneille suomalaisille evakuointilentoja.",
-          "date": "2026-03-03T15:54:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011855533.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "HS: Suomi ei järjestä evakuointilentoja Lähi-idästä",
-          "content": "",
-          "date": "2026-03-03T13:11:30.000Z",
-          "categories": [
-            "lähi-itä",
-            "finnair",
-            "iran",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6916755"
+          "link": "https://www.is.fi/taloussanomat/art-2000011856159.html"
         },
         {
           "publisherId": "kaleva",
@@ -564,6 +587,28 @@
           "date": "2026-03-03T12:14:57.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/finnair-perui-myos-dohan-lennot-kuun-loppuun-asti/13265921?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "UM: Ohjuksia osunut Lähi-idässä myös suomalaisten hotelleihin – \"Teoreettinen riski olemassa hyvinkin laajalla alueella\"",
+          "content": "Finnair on perunut kaikki Dubain lennot maaliskuun lopulle asti.",
+          "date": "2026-03-02T16:59:51.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/um-ohjuksia-osunut-lahi-idassa-myos-suomalaisten-h/13213895?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnair keskeyttää lentonsa Dubaihin maaliskuun loppuun saakka",
+          "content": "Finnair tiedottaa jatkavansa Dubain-lentojensa keskeytystä 28. maaliskuuta asti.",
+          "date": "2026-03-02T15:50:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011853553.html"
         }
       ]
     },
@@ -776,7 +821,7 @@
       ]
     },
     {
-      "mainTitle": "Kevitsan kaivoksella muutosneuvottelut käynnissä",
+      "mainTitle": "Kevitsan kaivoksella muutosneuvottelut alkavat",
       "mainCategories": [
         "Teollisuus",
         "Kaivosteollisuus",
@@ -788,7 +833,7 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Kevitsan kaivoksella muutos­neuvottelut – yhtiö syyttää hallitusta",
+          "title": "Kevitsan kaivoksella alkavat muutos­neuvottelut – kovia syytöksiä hallitukselle",
           "content": "Muutosneuvotteluista ilmoitti Bolidenin lisäksi myös Terrafame.",
           "date": "2026-03-04T11:05:00.000Z",
           "categories": [
@@ -907,13 +952,13 @@
       ]
     },
     {
-      "mainTitle": "Huumerinki Kuopiossa: venäläisiä ja ukrainalaisia epäiltyjä",
+      "mainTitle": "Huumerinki Kuopiossa: venäläiset ja ukrainalaiset epäiltyinä",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
         "Kannabis"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -950,18 +995,19 @@
       ]
     },
     {
-      "mainTitle": "Nato ampui alas iranilaisen ohjuksen Turkin ylle",
+      "mainTitle": "Iranin johtajuus kriisissä Khamenein surman jälkeen",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Iran",
+        "Yhdysvallat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Naton ilma­puolustus ampui alas Turkkia lähestyneen iranilais­ohjuksen",
+          "title": "Khamenein hautajaisia lykätään",
           "content": "IS seuraa tässä artikkelissa tilannetta Iranissa ja muualla Lähi-idän alueella.",
           "date": "2026-03-04T10:10:00.000Z",
           "categories": [
@@ -970,51 +1016,56 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011849882.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Nato ampui alas Turkin ilmatilaa lähestyneen ohjuksen",
-          "content": "Yhdysvallat ja Israel ovat iskeneet Iraniin. HS seuraa tapahtumia hetki hetkeltä tässä jutussa.",
-          "date": "2026-03-04T09:40:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "NY Times: Surmatun Ali Khamenein poika noussut kärkiehdokkaaksi Iranin johtajaksi",
+          "content": "Mojtaba Khamenein nimitys Iranin johtoon sementoisi vallan siirtymisen vallankumouskaartin kovan linjan siivelle, arvioi asiantuntija.",
+          "date": "2026-03-03T23:44:52.000Z",
           "categories": [
-            "maailma"
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011849876.html"
+          "link": "https://yle.fi/a/74-20213442?origin=rss"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Lisää on tulossa, uhkaa yhdysvaltalais­amiraali",
-          "content": "HS kokosi, mitä Iranin sodasta ja Lähi-idän tilanteesta tiedetään nyt.",
-          "date": "2026-03-04T05:24:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "”Oli epätavallista, että hän ei ollut bunkkerissaan” – nämä seikat johtivat Iranin ylimmän johtajan salamurhaan",
+          "content": "Iranin ylimmän johtajan salamurha oli vuosien tiedustelutyön tulosta.",
+          "date": "2026-03-03T18:52:11.000Z",
           "categories": [
-            "maailma"
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "iran",
+            "ali khamenei",
+            "yhdysvallat",
+            "israel",
+            "cia",
+            "salamurhat",
+            "lähi-itä",
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011857232.html"
+          "link": "https://yle.fi/a/74-20213267?origin=rss"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Iskut Lähi-idässä jatkuvat: tämä tiedetään yön tapahtumista",
-          "content": "Ilmapuolustukset olivat aktiivisina useissa Lähi-idän maissa tiistaiyönä.",
-          "date": "2026-03-03T04:39:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011854612.html"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Asiantuntija: Iranin siviilijohdon surmaaminen on laiton ja ennennäkemätön teko – Vallankumous näyttää silti epätodennäköiseltä",
+          "content": "Yhdysvallat ja Israel hyökkäsivät lauantaina Iraniin. Ulkopoliittisen insituutin johtava tutkija Ville Sinkkonen kertoo, että Ali Khamenein surmaamisesta huolimatta vallan vaihtuminen täysin uusin käsiin on epätodennäköistä. Kansainvälisen oikeuden emeritusprofessori Martti Koskenniemi muistuttaa, että koko hyökkäys ja maan johtajan surmaaminen ovat kansainvälisen oikeuden näkökulmasta laittomia.",
+          "date": "2026-03-02T15:16:38.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/asiantuntija-iranin-siviilijohdon-surmaaminen-on-l/13190956?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
-      "mainTitle": "Iranin konflikti kiihtyy Yhdysvaltojen iskuissa",
+      "mainTitle": "Yhdysvaltojen isku Irania vastaan jatkuu",
       "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Iran"
+        "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1029,121 +1080,6 @@
           "link": "https://www.hs.fi/maailma/art-2000011852559.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iranin konflikti kiihtyy – tämä tilanteesta tiedetään",
-          "content": "Trumpin mukaan Yhdysvallat on saavuttamassa tavoitteensa Iranissa.",
-          "date": "2026-03-03T19:57:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011856876.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kartalle kokonaiskuvasta | Trump: Iranin sotilaallinen kyvykkyys on lähes kokonaan tuhottu",
-          "content": "Trump ei vielä tiistaina kertonut näkemystään siitä, kuka tai mikä taho voisi hänen mielestään nousta johtamaan Irania.",
-          "date": "2026-03-03T18:59:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011857038.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asiantuntija Trumpin ”isosta aallosta”: täsmäaseet vaihtuvat rautapommeihin, ja siksi Iranin ilmatorjunta on tuhottava",
-          "content": "Maahyökkäys­aikeista ei ainakaan vielä näy merkkejä, Maanpuolutus­korkeakoulun erikoistutkija sanoo. Joukkojen ja kaluston siirto lähialueille ei jäisi piiloon.",
-          "date": "2026-03-03T17:36:22.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "yhdysvallat",
-            "iran",
-            "israel",
-            "lähi-idän kriisi",
-            "donald trump",
-            "ali khamenei",
-            "ilmahyökkäys",
-            "ilmaoperaatiot",
-            "pasdaran",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213265?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kommentti: Trumpilla voi olla edessään pattitilanne",
-          "content": "Pattitilanne olisi tuhoisin tavallisille iranilaisille, kirjoittaa erikoistoimittaja Seppo Varjus.",
-          "date": "2026-03-03T14:31:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011854639.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "USA sanoo tuhonneensa Iranin ilmapuolustusvalmiutta sekä komento- ja valvontatiloja",
-          "content": "Trump antoi ymmärtää, että Yhdysvallat kostaisi sen Riadin-suurlähetystöön tehdyn iskun.",
-          "date": "2026-03-03T06:40:51.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/usa-sanoo-tuhonneensa-iranin-ilmapuolustusvalmiutt/13248183?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Siinä on runsaasti toiveajattelua” – professori selittää, miksi USA:n ja Israelin iskut epäonnistuvat tavoitteessaan",
-          "content": "Pyrkivätkö Israel ja USA löytämään Iranin johdosta rakoja, joihin iskeä kiilaa? Nouseeko Iranin kansa vastarintaan? Professori Hannu Juusola vastaa kysymyksiin.",
-          "date": "2026-03-03T03:30:35.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "iran",
-            "yhdysvallat",
-            "israel",
-            "lähi-itä",
-            "hannu juusola",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213104?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "USA:n lähetystöt drooni-iskujen kohteena Lähi-idässä",
-          "content": "Presidentti Donald Trump kertoi kostotoimenpiteistä Riadin lähetystöiskun jälkeen.",
-          "date": "2026-03-03T02:12:36.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213251?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iran on yllättänyt Yhdysvallat vastaisku­kyvyllään, sanoo sotastrategian asiantuntija A-studiossa",
-          "content": "Avainkysymys on, kuinka tehokkaasti Yhdysvallat ja Israel kykenevät tuhoamaan Iranin vastaiskukyvyn.",
-          "date": "2026-03-02T20:46:49.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "iran",
-            "yhdysvallat",
-            "israel",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213244?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1154,106 +1090,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011854428.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nurmijärvellä poliisi ampui aseistautunutta miestä",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Esitutkinta"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mies ampui alas poliisin droonin Nurmijärvellä, poliisi ampui miestä jalkaan – Syyttäjä: Ei esitutkintaa",
-          "content": "Aseistautunutta miestä ei voitu päästää alueelle, jolla sijaitsi myös koulu, joten poliisi ampui esimiehen määräyksestä miestä jalkaan, syyttäjälaitos kertoo.",
-          "date": "2026-03-04T09:47:22.000Z",
-          "categories": [
-            "poliisi",
-            "esitutkinta",
-            "ampumavälikohtaukset",
-            "nurmijärvi",
-            "poliisin suorittama ampuminen",
-            "rikosepäilyt",
-            "droonit",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20213528?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Poliisin drooni ammuttiin alas haulikolla – Sitten ammuttiin ampujaa",
-          "content": "Syyttäjän mukaan poliisin toiminta oli oikeasuhtaista. Haulikolla aseistautunut henkilö pyrki asutulle alueelle. Virka-asettaan käyttänyttä poliisia ei epäillä rikoksesta. Syyttäjä on päättänyt, ettei Nurmijärven välikohtauksesta ole syytä epäillä poliisin syyllistyneen mihinkään rikokseen. Tilanne tapahtui 28. tammikuuta. Poliisi sai hätäkeskukselta tiedon henkilöstä, joka ilmoitti aikovansa käyttää asetta. Poliisin tietojen mukaan hänellä on pumppuhaulikko.",
-          "date": "2026-03-04T09:20:46.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/483b6956-5e2a-4066-8023-3ee414be6596"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Stubb valtiovierailulla Intiassa 2026",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "/images/stubb/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubb sai Intiassa poikkeuksellisen vastaanoton",
-          "content": "Presidentti julkaisi sosiaalisessa mediassa videon saamastaan vastaanotosta.",
-          "date": "2026-03-04T09:43:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011857759.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Analyysi: IL Intiassa – Stubb uhmaa Trumpin toimia",
-          "content": "Valtiovierailulla Intiaan korostuvat ympäristökysymykset, joista ei Donald Trumpin kuullen hiiskuta. Alexander Stubbin asemasta kertoo, että globaalin etelän johtaja Narendra Modi halusi hänet seminaarinsa pääpuhujaksi, Iltalehden politiikan toimittaja Lauri Nurmi kirjoittaa Delhistä. Kone, Nokia, Neste, Wärtsilä – ja Nato-maat satelliiteillaan hurmannut ICEYE. Tasavallan presidentin Alexander Stubbin Intian-valtiovierailun yritysvaltuuskunnan kokoonpano on kuin suomalaisen talouselämän eliittiklubi. Mukaan on huolittu parhaista parhaat.",
-          "date": "2026-03-04T09:17:21.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/7fcaf034-cdcf-44ec-9716-08377f5c3aad"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Presidentti | Alexander Stubb valtiovierailulle Intiaan",
-          "content": "Tasavallan presidentti Alexander Stubb vierailee Intiassa maaliskuussa.",
-          "date": "2026-03-02T13:43:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011853862.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubb harvinaiselle valtiovierailulle – mukana myös yllättävä päättäjä",
-          "content": "Presidentti Alexander Stubb matkaa tällä viikolla Intiaan.",
-          "date": "2026-03-02T13:31:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011847573.html"
         }
       ]
     },
@@ -1300,7 +1136,7 @@
       ]
     },
     {
-      "mainTitle": "Espanja ja Yhdysvallat kiistelevät sotatoimista",
+      "mainTitle": "Espanja ja Yhdysvallat kiistassa sotatoimista",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -1381,7 +1217,7 @@
       ]
     },
     {
-      "mainTitle": "Vantaan tulipalossa viisi kuollut, epäilty murhaaja",
+      "mainTitle": "Vantaan tulipalossa viisi kuollut ja epäilty",
       "mainCategories": [
         "Vantaa",
         "Kotimaa",
@@ -1476,73 +1312,13 @@
       ]
     },
     {
-      "mainTitle": "Työpaikkojen vähennykset Suomessa jatkuvat",
-      "mainCategories": [
-        "Muutosneuvottelut",
-        "Kotimaa",
-        "Talous"
-      ],
-      "imageUrl": "/images/talous/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vincit käynnistää muutosneuvottelut: vähennystarve 45 henkilöä",
-          "content": "Neuvotteluiden piirissä on noin 375 työntekijää.",
-          "date": "2026-03-04T07:04:40.000Z",
-          "categories": [
-            "työelämä",
-            "muutosneuvottelut",
-            "tampere",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20213466?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Wärtsilä vähentää 110 työtehtävää Suomessa",
-          "content": "",
-          "date": "2026-03-03T10:49:53.000Z",
-          "categories": [
-            "muutosneuvottelut",
-            "teknologiateollisuus",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6916456"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Wärtsilä aloittaa muutosneuvottelut: 205 työpaikkaa vähenee, 130 uutta syntyy",
-          "content": "Wärtsilä aloittaa muutosneuvottelut taloushallinnon organisaatiossaan. Yhtiö perustaa uuden palvelukeskuksen Puolaan ja vähentää tehtäviä kilpailukyvyn ylläpitämiseksi.",
-          "date": "2026-03-03T08:16:53.000Z",
-          "categories": [
-            "yritykset",
-            "wärtsilä",
-            "vaasa",
-            "muutosneuvottelut",
-            "kotimaa",
-            "pohjanmaa",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20213292?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Öljyn hinta nousee jälleen sodan vuoksi",
       "mainCategories": [
         "Talous",
         "Öljy",
         "Maailmantalous"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1579,24 +1355,14 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat iski tuhansia kertoja Iraniin",
+      "mainTitle": "Lähi-idän konfliktin iskujen kiihtyminen jatkuu",
       "mainCategories": [
-        "Ulkomaat"
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Iran"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iskut Lähi-idässä jatkuvat – amerikkalais­komentaja: ”Enemmän on tulossa”",
-          "content": "Amiraali Brad Cooperin mukaan Yhdysvallat on osunut lähes 2 000 kohteeseen Iranissa lauantain jälkeen.",
-          "date": "2026-03-04T06:01:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011857211.html"
-        },
         {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
@@ -1606,72 +1372,138 @@
           "date": "2026-03-04T05:47:15.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/usan-asevoimat-iraniin-tehty-tuhansia-iskuja-iran/13274536?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lue tästä yhteenveto yön tapahtumista Lähi-idän konfliktissa",
+          "content": "Iran jatkoi yöllä iskujaan Persianlahden alueella. Israel on pommittanut voimalla Libanonia. Yhdysvallat kertoi tuhonneensa 17 iranilaista merialusta.",
+          "date": "2026-03-04T04:20:32.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "lähi-itä",
+            "konfliktit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20213445?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Asiantuntija Trumpin ”isosta aallosta”: täsmäaseet vaihtuvat rautapommeihin, ja siksi Iranin ilmatorjunta on tuhottava",
+          "content": "Maahyökkäys­aikeista ei ainakaan vielä näy merkkejä, Maanpuolutus­korkeakoulun erikoistutkija sanoo. Joukkojen ja kaluston siirto lähialueille ei jäisi piiloon.",
+          "date": "2026-03-03T17:36:22.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "yhdysvallat",
+            "iran",
+            "israel",
+            "lähi-idän kriisi",
+            "donald trump",
+            "ali khamenei",
+            "ilmahyökkäys",
+            "ilmaoperaatiot",
+            "pasdaran",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20213265?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Iran on yllättänyt Yhdysvallat vastaisku­kyvyllään, sanoo sotastrategian asiantuntija A-studiossa",
+          "content": "Avainkysymys on, kuinka tehokkaasti Yhdysvallat ja Israel kykenevät tuhoamaan Iranin vastaiskukyvyn.",
+          "date": "2026-03-02T20:46:49.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "iran",
+            "yhdysvallat",
+            "israel",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20213244?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tämä on tilanne Lähi-idässä nyt – Trump uhoaa kovemmilla iskuilla",
+          "content": "Israel ja Yhdysvallat jatkoivat Iranin moukaroimista. Iran puolestaan jatkoi vastaiskuja. Konflikti laajeni maanantaina myös Libanoniin.",
+          "date": "2026-03-02T20:09:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011854221.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Katso tästä yhteenveto maanantain tapahtumista Lähi-idän konfliktissa",
+          "content": "Iskuja on tapahtunut useissa maissa Lähi-idässä maanantain aikana. Lisäksi öljyn ja energian hinta on nousussa.",
+          "date": "2026-03-02T19:41:56.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "iran",
+            "yhdysvallat",
+            "israel",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20213245?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Iranin johtajavalinta sekasorron keskellä",
+      "mainTitle": "Suomi ei järjestä evakuointilentoja Lähi-idästä",
       "mainCategories": [
-        "Ulkomaat",
-        "Iran",
-        "Yhdysvallat"
+        "Suomi",
+        "Finnair",
+        "Iran"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "NY Times: Surmatun Ali Khamenein poika noussut kärkiehdokkaaksi Iranin johtajaksi",
-          "content": "Mojtaba Khamenein nimitys Iranin johtoon sementoisi vallan siirtymisen vallankumouskaartin kovan linjan siivelle, arvioi asiantuntija.",
-          "date": "2026-03-03T23:44:52.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Suomi ei vielä tarvitse EU:n evakuointi­apua, arvioi ulko­ministeriö",
+          "content": "Suomi ei vielä ole tilanteessa, että EU-apua tarvittaisiin, sanoo ulkoministeriön konsulipäällikkö Jussi Tanner.",
+          "date": "2026-03-04T04:16:00.000Z",
           "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "ulkomaat"
+            "suomi"
           ],
-          "link": "https://yle.fi/a/74-20213442?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Oli epätavallista, että hän ei ollut bunkkerissaan” – nämä seikat johtivat Iranin ylimmän johtajan salamurhaan",
-          "content": "Iranin ylimmän johtajan salamurha oli vuosien tiedustelutyön tulosta.",
-          "date": "2026-03-03T18:52:11.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "iran",
-            "ali khamenei",
-            "yhdysvallat",
-            "israel",
-            "cia",
-            "salamurhat",
-            "lähi-itä",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20213267?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Asiantuntija: Iranin siviilijohdon surmaaminen on laiton ja ennennäkemätön teko – Vallankumous näyttää silti epätodennäköiseltä",
-          "content": "Yhdysvallat ja Israel hyökkäsivät lauantaina Iraniin. Ulkopoliittisen insituutin johtava tutkija Ville Sinkkonen kertoo, että Ali Khamenein surmaamisesta huolimatta vallan vaihtuminen täysin uusin käsiin on epätodennäköistä. Kansainvälisen oikeuden emeritusprofessori Martti Koskenniemi muistuttaa, että koko hyökkäys ja maan johtajan surmaaminen ovat kansainvälisen oikeuden näkökulmasta laittomia.",
-          "date": "2026-03-02T15:16:38.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/asiantuntija-iranin-siviilijohdon-surmaaminen-on-l/13190956?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "link": "https://www.hs.fi/suomi/art-2000011857060.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Iran | Iran valitsee uuden johtajan sekasorron keskellä – ”Nyt ollaan valitsemassa radikaalia seuraajaa”",
-          "content": "Sotatilanne luo Iranin ylimmän johtajan valintaprosessiin monia epävarmuuksia. Entisen šaahin poika Reza Pahlavi on jo ilmoittanut halukkuutensa.",
-          "date": "2026-03-02T13:36:00.000Z",
+          "title": "Iranin sota | Aleksi Lumijärvi jäi jumiin Abu Dhabiin eikä tiedä, milloin pääsee kotiin",
+          "content": "Ulkoministeriö ei ole toistaiseksi järjestämässä Lähi-idän maihin jääneille suomalaisille evakuointilentoja.",
+          "date": "2026-03-03T15:54:00.000Z",
           "categories": [
-            "maailma"
+            "suomi"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000011852447.html"
+          "link": "https://www.hs.fi/suomi/art-2000011855533.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "HS: Suomi ei järjestä evakuointilentoja Lähi-idästä",
+          "content": "",
+          "date": "2026-03-03T13:11:30.000Z",
+          "categories": [
+            "lähi-itä",
+            "finnair",
+            "iran",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6916755"
         }
       ]
     },
@@ -1759,58 +1591,55 @@
       ]
     },
     {
-      "mainTitle": "Suomalaisia jumissa Dohassa ja Dubaissa",
+      "mainTitle": "Tampereen lipuntarkastajien uudet ohjeet",
       "mainCategories": [
-        "Taloussanomat",
-        "Kotimaa"
+        "Liikenne",
+        "Tampere",
+        "Joukkoliikenne"
       ],
-      "imageUrl": "/images/finnair/1.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Satoja suomalaisia edelleen jumissa Dohassa ja Dubaissa – Finnair: tilanne muuttuu päivä päivältä haastavammaksi",
-          "content": "Finnairin uudelleenreitityksistä vastaavan johtajan Sami Suokkaan mukaan tilanteen kestosta ei toistaiseksi ole arviota.",
-          "date": "2026-03-03T17:56:00.000Z",
+          "title": "Tarkastajat eivät voi enää estää liputonta matkustajaa – Keijo, 65, lataa: ”Miksi helvetissä yhdestä lipusta ruvetaan”",
+          "content": "Tampereen kaupungin uuden linjauksen mukaan tarkastajat eivät voi enää estää liputonta matkustajaa karkaamasta raitiovaunusta tai bussista.",
+          "date": "2026-03-03T17:16:00.000Z",
           "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000011854040.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lipuntarkastajien uusista ohjeista nousi äläkkä",
+          "content": "Tampereen ohjeistuksen mukaan tarkastajat eivät saa enää estää liputtomia poistumasta ratikasta.",
+          "date": "2026-03-03T10:13:00.000Z",
+          "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000011854965.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tampereen lipun­tarkastajat hämmentyivät, kun kaupunki ohjeisti päästämään liputtomat asiakkaat menemään – tästä on kyse",
+          "content": "Tampereen kaupunki tahtoo minimoida lipunta­rkastuksessa voimankäytön. Tällä halutaan lisätä työntekijöiden turvallisuutta.",
+          "date": "2026-03-02T16:37:45.000Z",
+          "categories": [
+            "liikenne",
+            "tampere",
+            "joukkoliikenne",
+            "liputta matkustaminen",
+            "nysse",
+            "pirkanmaa",
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011854806.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Finnair keskeyttää lentonsa Dohaan maaliskuun loppuun saakka",
-          "content": "Finnair tiedotti eilen keskeyttävänsä lentonsa Dubaihin. Nyt myös Dohan-lennot jäävät tauolle.",
-          "date": "2026-03-03T12:51:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011856159.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "UM: Ohjuksia osunut Lähi-idässä myös suomalaisten hotelleihin – \"Teoreettinen riski olemassa hyvinkin laajalla alueella\"",
-          "content": "Finnair on perunut kaikki Dubain lennot maaliskuun lopulle asti.",
-          "date": "2026-03-02T16:59:51.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/um-ohjuksia-osunut-lahi-idassa-myos-suomalaisten-h/13213895?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Finnair keskeyttää lentonsa Dubaihin maaliskuun loppuun saakka",
-          "content": "Finnair tiedottaa jatkavansa Dubain-lentojensa keskeytystä 28. maaliskuuta asti.",
-          "date": "2026-03-02T15:50:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011853553.html"
+          "link": "https://yle.fi/a/74-20213176?origin=rss"
         }
       ]
     },
@@ -1821,7 +1650,7 @@
         "Iran",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1907,7 +1736,7 @@
         "Turvallisuus",
         "Ydinaseet"
       ],
-      "imageUrl": "/images/ranska/1.jpg",
+      "imageUrl": "/images/ranska/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1941,7 +1770,7 @@
       ]
     },
     {
-      "mainTitle": "Työtapaturma Rauman telakalla johtaa tutkintaan",
+      "mainTitle": "Työtapaturma Rauman telakalla johti kuolemaan",
       "mainCategories": [
         "Suomi",
         "Työtapaturmat",
@@ -1978,6 +1807,62 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011856698.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Wärtsilä vähentää työpaikkoja ja rekrytoi",
+      "mainCategories": [
+        "Muutosneuvottelut",
+        "Talous",
+        "Yritykset"
+      ],
+      "imageUrl": "/images/talous/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Wärtsilä vähentää 110 työtehtävää Suomessa",
+          "content": "",
+          "date": "2026-03-03T10:49:53.000Z",
+          "categories": [
+            "muutosneuvottelut",
+            "teknologiateollisuus",
+            "talous",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6916456"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Wärtsilä aloittaa muutos­neuvottelut – irtisanoo ja palkkaa väkeä",
+          "content": "Wärtsilä aikoo perustaa sisäisen palvelukeskuksen Puolaan.",
+          "date": "2026-03-03T08:45:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011855193.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Wärtsilä aloittaa muutosneuvottelut: 205 työpaikkaa vähenee, 130 uutta syntyy",
+          "content": "Wärtsilä aloittaa muutosneuvottelut taloushallinnon organisaatiossaan. Yhtiö perustaa uuden palvelukeskuksen Puolaan ja vähentää tehtäviä kilpailukyvyn ylläpitämiseksi.",
+          "date": "2026-03-03T08:16:53.000Z",
+          "categories": [
+            "yritykset",
+            "wärtsilä",
+            "vaasa",
+            "muutosneuvottelut",
+            "kotimaa",
+            "pohjanmaa",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20213292?origin=rss"
         }
       ]
     },
@@ -2057,41 +1942,67 @@
       ]
     },
     {
-      "mainTitle": "Lähi-idän konflikti laajenee ja voimistuu",
+      "mainTitle": "USA iski Iranin ilmapuolustukseen ja tiloihin",
       "mainCategories": [
-        "Ulkomaat",
-        "Iran",
-        "Yhdysvallat"
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "USA sanoo tuhonneensa Iranin ilmapuolustusvalmiutta sekä komento- ja valvontatiloja",
+          "content": "Trump antoi ymmärtää, että Yhdysvallat kostaisi sen Riadin-suurlähetystöön tehdyn iskun.",
+          "date": "2026-03-03T06:40:51.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/usa-sanoo-tuhonneensa-iranin-ilmapuolustusvalmiutt/13248183?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Iraniin on isketty ja näin se on kostanut – katso satelliitti­kuvat ennen ja jälkeen",
+          "content": "Satelliittikuvat kertovat Yhdysvaltain ja Israelin iskujen osumatarkkuudesta. Myös Iranin vastaiskujen tuhoja näkyy kuvissa.",
+          "date": "2026-03-02T16:00:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011853064.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Iskut ja ilmapuolustus Lähi-idässä jatkuvat",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Tämä on tilanne Lähi-idässä nyt – Trump uhoaa kovemmilla iskuilla",
-          "content": "Israel ja Yhdysvallat jatkoivat Iranin moukaroimista. Iran puolestaan jatkoi vastaiskuja. Konflikti laajeni maanantaina myös Libanoniin.",
-          "date": "2026-03-02T20:09:00.000Z",
+          "title": "Iskut Lähi-idässä jatkuvat – tämä tiedetään yön tapahtumista",
+          "content": "Ilmapuolustukset olivat aktiivisina useissa Lähi-idän maissa tiistaiyönä.",
+          "date": "2026-03-03T04:55:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011854221.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011854605.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Katso tästä yhteenveto maanantain tapahtumista Lähi-idän konfliktissa",
-          "content": "Iskuja on tapahtunut useissa maissa Lähi-idässä maanantain aikana. Lisäksi öljyn ja energian hinta on nousussa.",
-          "date": "2026-03-02T19:41:56.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Iskut Lähi-idässä jatkuvat: tämä tiedetään yön tapahtumista",
+          "content": "Ilmapuolustukset olivat aktiivisina useissa Lähi-idän maissa tiistaiyönä.",
+          "date": "2026-03-03T04:39:00.000Z",
           "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "iran",
-            "yhdysvallat",
-            "israel",
-            "ulkomaat"
+            "maailma"
           ],
-          "link": "https://yle.fi/a/74-20213245?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000011854612.html"
         }
       ]
     },
@@ -2102,7 +2013,7 @@
         "Ranska",
         "Ydinaseet"
       ],
-      "imageUrl": "/images/ranska/1.jpg",
+      "imageUrl": "/images/ranska/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -2148,63 +2059,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011854147.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Macron piti odotetun puheen",
-          "content": "Julkisuudessa on arvioitu, että Macron saattaa kertoa Ranskan ydinasepelotteen laajentumisesta.",
-          "date": "2026-03-02T13:39:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011853904.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Saimaannorppa kuoli kalastusverkkoon Savonlinnassa",
-      "mainCategories": [
-        "Kotimaa",
-        "Eläimet",
-        "Saimaannorppa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Saimaannorppa kuoli Savonlinnassa – jo neljäs verkkokuolema tänä vuonna",
-          "content": "Kuollut norppa löytyi alueelta, jossa on tähän vuoden aikaan laillista kalastaa kyseisellä verkolla.",
-          "date": "2026-03-02T14:06:04.000Z",
-          "categories": [
-            "eläimet",
-            "saimaannorppa",
-            "norppa",
-            "savonlinna",
-            "kalastus",
-            "saimaa",
-            "metsähallitus",
-            "verkkokalastus",
-            "etelä-savo",
-            "luonto",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20213196?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Neljäs saimaannorppa kuoli kalastusverkkoon",
-          "content": "Norppa saattoi kokonsa puolesta olla viime vuoden kuutti.",
-          "date": "2026-03-02T13:44:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011853831.html"
         }
       ]
     }
