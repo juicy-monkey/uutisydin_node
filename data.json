@@ -1,27 +1,309 @@
 {
-  "timestamp": "2026-03-08T11:42:43.453Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "ts",
-        "publisher": "Turun Sanomat",
-        "publisherUrl": "ts.fi",
-        "rssUrl": "https://www.ts.fi/rss.xml"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2026-03-08T12:40:26.731Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Japani valmistelee hätäöljyvarastojaan käyttöön",
+      "mainTitle": "USA:n suurlähetystöllä Oslossa räjähdys",
+      "mainCategories": [
+        "Ulkomaat",
+        "Onnettomuudet",
+        "Oslo"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Norjan poliisi: USA:n lähetystöräjähdys saattoi olla terroriteko",
+          "content": "Norjan poliisin mukaan kyseessä saattaa olla tahallinen isku, joka liittyy Lähi-idän kriisiin.",
+          "date": "2026-03-08T12:31:11.000Z",
+          "categories": [
+            "onnettomuudet",
+            "oslo",
+            "räjähdykset",
+            "norja",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20214221?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Norjan poliisi: USA:n lähetystön räjähdys voi olla terrori-isku",
+          "content": "Poliisin mukaan räjähdys voi liittyä turvallisuustilanteeseen.",
+          "date": "2026-03-08T12:00:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011866702.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Norja | Yhdys­valtojen suur­lähetystöllä räjähti Oslossa",
+          "content": "Räjähdys sai poliisin mukaan alkunsa jonkinlaisesta laitteesta. Tekijää ei ole otettu kiinni.",
+          "date": "2026-03-08T11:54:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011866354.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "USA:n suur­lähetystöllä Oslossa voimakas räjähdys",
+          "content": "Norjan poliisi vahvistaa räjähdyksen sattuneen konsulisisäänkäynnillä.",
+          "date": "2026-03-08T08:10:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011866347.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "USA:n Oslon-suurlähetystön portilla räjähti, vauriot vähäisiä",
+          "content": "Norjan pääkaupungissa Oslossa Yhdysvaltain suurlähetystön edustalla tapahtui sunnuntain vastaisena yönä räjähdys, kertoi Norjan poliisi.",
+          "date": "2026-03-08T06:19:18.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/usan-oslon-suurlahetyston-portilla-rajahti-vauriot/13281261?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Norjan poliisi: USA:n lähetystöräjähdys saattoi olla terroriteko",
+          "content": "Räjähdys tapahtui poliisin mukaan tiettävästi suurlähetystön konsulaattisisäänkäynnin luona.",
+          "date": "2026-03-08T01:38:53.000Z",
+          "categories": [
+            "onnettomuudet",
+            "oslo",
+            "norja",
+            "räjähdykset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20214183?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sähkön hinta nousee jyrkästi maanantaina",
+      "mainCategories": [
+        "Kotimaa",
+        "Sähkö"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Sähkön hintaan maanantaina jyrkkä hintapiikki",
+          "content": "Maanantai-illan tuntihinta nousee lähes 25 senttiin kilowattitunnilta. Yli 20 sentin hinnat ovat sähkömarkkinoilla harvinaisia.",
+          "date": "2026-03-08T12:27:00.000Z",
+          "categories": [
+            "sähkö"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/2e3cb2ba-5224-406c-8a36-a0cd1b3c9c43"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Vielä on halpaa! Tarkista sähkön varttihinnat tästä",
+          "content": "Iltalehden päivittyvä taulukko näyttää pörssisähkön vallitsevan hinnan. Iltalehden palvelu mahdollistaa pörssisähkön hinnan seuraamisen. Tästä jutusta löytyvässä oheisessa graafissa näkyvät aina 48 tunnin hintatiedot. Seuraavan päivän varttihinnat päivittyvät graafiin noin kello 14 tai hieman sen jälkeen, jolloin graafi näyttää kuluvan päivän ja seuraavan päivän hinnat. Puolenyön jälkeen, ennen kuin seuraavan vuorokauden hinnat ovat vielä tiedossa, graafi näyttää edeltävän päivän ja kuluvan vuorokauden varttihinnat. Voit katsoa graafista minkä tahansa vartin pörssisähkön hinnan. Kuvaaja näyttää myös erikseen juuri käynnissä olevan vartin hinnan sekä tiedossa olevista tulevista hinnoista halvimman ja kalleimman vartin hintoineen.",
+          "date": "2026-03-08T12:05:36.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/430a56af-648b-430b-a286-c04be41d5ad3"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Moottorikelkkakilpailija kuoli Nivalassa",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Moottoriurheilu"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Paras ystävä kertoo Nivalan kelkka­turmassa kuolleesta perheen­isästä – ”Se tapahtui aivan silmieni edessä”",
+          "content": "Ystävä kuvailee moottorikelkkaonnettomuudessa kuollutta miestä ilopilleriksi ja kaikkien kaveriksi.",
+          "date": "2026-03-08T12:11:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011866454.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Moottorikelkkailija kuoli mestaruus­kisoissa Nivalassa",
+          "content": "Kisat jouduttiin tapaturman takia perumaan lauantaina.",
+          "date": "2026-03-07T17:38:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011865543.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Nivala | Kilpailija kuoli moottori­kelkka­kilpailujen aika-ajoissa: ”Vakavaksi veti koko porukan”",
+          "content": "Kuljettaja menetti kilpailussa moottorikelkkansa hallinnan ja jäi kaatuneen moottorikelkan ruhjomaksi, poliisi kertoo.",
+          "date": "2026-03-07T15:10:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011865643.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Nivalan kuolemaan johtanut moottori­kelkka­turma eteni",
+          "content": "Poliisi kertoo, että kyseisessä kisassa ajetaan kiihdyttäen hieman yli 100 metrin matka, ja moottorikelkat ovat viritettyjä.",
+          "date": "2026-03-07T14:32:00.000Z",
+          "categories": [
+            "oulun seutu"
+          ],
+          "link": "https://www.is.fi/oulun-seutu/art-2000011865723.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kilpailija menehtyi moottorikelkkojen kiihdytyskisoissa Nivalassa",
+          "content": "Kuljettaja menetti kilpailutilanteessa moottorikelkkansa hallinnan ja jäi kaatuneen moottorikelkan ruhjomaksi, kertoo poliisi.",
+          "date": "2026-03-07T12:59:31.000Z",
+          "categories": [
+            "onnettomuudet",
+            "moottoriurheilu",
+            "nivala",
+            "moottorikelkkailu",
+            "kotimaa",
+            "pohjois-pohjanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20214156?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ruotsi kotiutti suomalaisia Lähi-idästä",
+      "mainCategories": [
+        "Kotimaa",
+        "Ulkomaat",
+        "24h"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Ruotsi toi suomalaisia pois Lähi-idästä",
+          "content": "Ruotsin ulkoministeriön järjestämällä kotiutuslennolla palasi muutamia suomalaisia, kertoo Sveriges Radio.",
+          "date": "2026-03-08T12:11:00.000Z",
+          "categories": [
+            "24h"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/e76b3637-7c59-4605-bce1-7f0643789850"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ruotsi toi suomalaisia pois Lähi-idästä – Tässä hinta",
+          "content": "Ruotsin ulkoministeriön järjestämällä kotiutuslennolla palasi muutamia suomalaisia, kertoo Sveriges Radio. Ruotsi on lennättänyt suomalaisia Dubaista Tukholmaan, kertoo Sveriges Radio. Ruotsin ulkoministeriön kotiutuslennolla palasi lähes 180 ruotsalaista ja muutama suomalainen, jotka olivat jumissa Lähi-idässä.",
+          "date": "2026-03-08T11:21:08.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/7fd06276-2e00-4526-82a2-c34ec1c4e33b"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ruotsi lennätti suomalaisia Lähi-idästä – tässä hinta",
+          "content": "Lento ei ollut täynnä.",
+          "date": "2026-03-08T08:15:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011866436.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvaltojen virheellinen isku iranilaiseen kouluun",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Media: USA teki hirvittävän virheen – Tämä aiheutti kouluiskun",
+          "content": "Yhdysvallat on luvannut selvittää alakouluun tehdyn iskun. Alakouluun Minabissa Iranin sodan ensimmäisenä päivänä tehty ohjusisku saattoi johtua Yhdysvaltain hirvittävästä virheestä, riippumaton venäläismedia The Insider uutisoi. Isku vaati ainakin 168 lapsen ja 14 opettajan hengen. Yhdysvaltain puolustusministeri Pete Hegseth on ilmoittanut, että alakouluun tehty isku tutkitaan.",
+          "date": "2026-03-08T11:55:44.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/657f8fec-16d5-4757-a7ba-9b2e25f13ad0"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Iranilaisten kärsimys on jäänyt paljolti pimentoon kovien media- ja netti­kieltojen takia",
+          "content": "Yhdysvaltain ja Israelin iskujen kerrotaan surmanneen jo yli 1 100 iranilaissiviiliä. Yhdysvallat ei ole ottanut vastuuta tyttökoulun pommituksesta, mutta vakuuttaa tutkivansa asiaa.",
+          "date": "2026-03-07T09:00:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011857808.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yli sata lasta kuoli iskussa tyttö­kouluun – pysäyttävä ilma­kuva haudan­kaivajista julki",
+          "content": "Yhdysvaltain asevoimien tutkijoiden mukaan Yhdysvallat on todennäköisesti vastuussa iranilaiseen tyttökouluun tehdystä iskusta, jossa kerrotaan kuolleen yli sata lasta. Pysäyttävä ilmakuva dokumentoi rujolla tavalla paikallisten haudankaivajien työskentelyä iskun jälkeen.",
+          "date": "2026-03-06T15:04:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011864181.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Japani aktivoi hätäöljyvarastot öljyn kallistuessa",
       "mainCategories": [
         "Ulkomaat",
         "Talous",
         "Hinnat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -35,19 +317,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20214218?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tätä kaikkea Lähi-idässä tapahtui yön aikana",
-          "content": "Israelin armeija kertoi aloittaneensa laaja-alaisen iskujen sarjan Teheraniin.",
-          "date": "2026-03-07T05:11:35.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20214123?origin=rss"
         },
         {
           "publisherId": "yle",
@@ -67,7 +336,7 @@
       ]
     },
     {
-      "mainTitle": "Iranin sota: Khamenein seuraaja valitaan pian",
+      "mainTitle": "Iranin sota: Khamenein seuraaja ja kurdit",
       "mainCategories": [
         "Maailma"
       ],
@@ -151,7 +420,7 @@
       ]
     },
     {
-      "mainTitle": "Ulkoministeriön kotiutuslento lähtee tänään",
+      "mainTitle": "Ulkoministeriö järjestää kotiutuslennon suomalaisille",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -222,67 +491,6 @@
       ]
     },
     {
-      "mainTitle": "Räjähdys Yhdysvaltain suurlähetystössä Oslossa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Onnettomuudet",
-        "Oslo"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Norja | Yhdys­valtojen suur­lähetystöllä räjähti Oslossa",
-          "content": "Poliisilla on norjalaismedian mukaan käsitys räjähdyksen aiheuttajasta, mutta tietoa ei toistaiseksi kerrota julkisuuteen. Tekijää ei ole saatu kiinni.",
-          "date": "2026-03-08T09:24:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011866354.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "USA:n suur­lähetystöllä Oslossa voimakas räjähdys",
-          "content": "Norjan poliisi vahvistaa räjähdyksen sattuneen konsulisisäänkäynnillä.",
-          "date": "2026-03-08T08:10:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011866347.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "USA:n Oslon-suurlähetystön portilla räjähti, vauriot vähäisiä",
-          "content": "Norjan pääkaupungissa Oslossa Yhdysvaltain suurlähetystön edustalla tapahtui sunnuntain vastaisena yönä räjähdys, kertoi Norjan poliisi.",
-          "date": "2026-03-08T06:19:18.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/usan-oslon-suurlahetyston-portilla-rajahti-vauriot/13281261?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Norjan poliisi: USA:n lähetystöräjähdys saattoi olla tahallinen isku",
-          "content": "Räjähdys tapahtui poliisin mukaan tiettävästi suurlähetystön konsulaattisisäänkäynnin luona.",
-          "date": "2026-03-08T01:38:53.000Z",
-          "categories": [
-            "onnettomuudet",
-            "oslo",
-            "norja",
-            "räjähdykset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20214183?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Sanna Marin ja Sdp eri mieltä ydinaseista",
       "mainCategories": [
         "Politiikka"
@@ -316,7 +524,7 @@
       ]
     },
     {
-      "mainTitle": "Iranin neuvosto päätti Khamenein seuraajasta",
+      "mainTitle": "Iranin uskonnollinen johto saavutti yksimielisyyden",
       "mainCategories": [
         "Ulkomaat"
       ],
@@ -351,7 +559,7 @@
       ]
     },
     {
-      "mainTitle": "Tulipalo omakotitalossa Espoossa roihusi",
+      "mainTitle": "Akkupalosta pelastettiin asukkaita katolta",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -407,9 +615,9 @@
       "mainCategories": [
         "Lentoliikenne",
         "Kotimaa",
-        "Ulkoasiainministeriö"
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -455,6 +663,19 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20214178?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tätä kaikkea Lähi-idässä tapahtui yön aikana",
+          "content": "Israelin armeija kertoi aloittaneensa laaja-alaisen iskujen sarjan Teheraniin.",
+          "date": "2026-03-07T05:11:35.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20214123?origin=rss"
         }
       ]
     },
@@ -522,12 +743,12 @@
       ]
     },
     {
-      "mainTitle": "Trump vaatii Iranilta antautumista sodassa",
+      "mainTitle": "Trump vaatii Iranilta antautumista ja iskuja",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -571,7 +792,7 @@
         "Ulkomaat",
         "Israel"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -610,7 +831,7 @@
         "Mumbai",
         "Valtiovierailut"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -657,13 +878,51 @@
       ]
     },
     {
+      "mainTitle": "Absoluuttinen sävelkorva autismikirjolla",
+      "mainCategories": [
+        "Musiikki",
+        "Ihmiset",
+        "Autismi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Onko absoluuttinen sävelkorva autismikirjolla olevien supervoima?",
+          "content": "",
+          "date": "2026-03-08T04:00:00.000Z",
+          "categories": [
+            "musiikki",
+            "ihmiset",
+            "financial times",
+            "autismi",
+            "aivot",
+            "lapset"
+          ],
+          "link": "https://www.ts.fi/a/6919752"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Onko absoluuttinen sävelkorva autististen ihmisten supervoima?",
+          "content": "Sävelkorkeuden tunnistaminen on harvinainen taito, ja joillekin lapsille se voi olla elämää mullistava lahja.",
+          "date": "2026-03-07T10:00:00.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/onko-absoluuttinen-savelkorva-autististen-ihmisten/13276616?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
       "mainTitle": "Kuuban presidentti tuomitsee Trumpin lausunnot",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Kuuba"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -712,7 +971,7 @@
       ]
     },
     {
-      "mainTitle": "Nepalin nuori ex-räppäri pääministeriksi",
+      "mainTitle": "Nepalin uusi pääministeri on ex-räppäri",
       "mainCategories": [
         "Ulkomaat",
         "Vaalit",
@@ -758,71 +1017,7 @@
       ]
     },
     {
-      "mainTitle": "Moottorikelkkailija kuoli Nivalan kisoissa",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Moottoriurheilu"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Moottorikelkkailija kuoli mestaruus­kisoissa Nivalassa",
-          "content": "Kisat jouduttiin tapaturman takia perumaan lauantaina.",
-          "date": "2026-03-07T17:38:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011865543.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Nivala | Kilpailija kuoli moottori­kelkka­kilpailujen aika-ajoissa: ”Vakavaksi veti koko porukan”",
-          "content": "Kuljettaja menetti kilpailussa moottorikelkkansa hallinnan ja jäi kaatuneen moottorikelkan ruhjomaksi, poliisi kertoo.",
-          "date": "2026-03-07T15:10:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011865643.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin Nivalan kuolemaan johtanut moottori­kelkka­turma eteni",
-          "content": "Poliisi kertoo, että kyseisessä kisassa ajetaan kiihdyttäen hieman yli 100 metrin matka, ja moottorikelkat ovat viritettyjä.",
-          "date": "2026-03-07T14:32:00.000Z",
-          "categories": [
-            "oulun seutu"
-          ],
-          "link": "https://www.is.fi/oulun-seutu/art-2000011865723.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kilpailija menehtyi moottorikelkkojen kiihdytyskisoissa Nivalassa",
-          "content": "Kuljettaja menetti kilpailutilanteessa moottorikelkkansa hallinnan ja jäi kaatuneen moottorikelkan ruhjomaksi, kertoo poliisi.",
-          "date": "2026-03-07T12:59:31.000Z",
-          "categories": [
-            "onnettomuudet",
-            "moottoriurheilu",
-            "nivala",
-            "moottorikelkkailu",
-            "kotimaa",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20214156?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin presidentti lupaa lopettaa iskut",
+      "mainTitle": "Iranin presidentti lupaa rauhaa naapureille",
       "mainCategories": [
         "Iran",
         "Persianlahti",
@@ -862,7 +1057,7 @@
       ]
     },
     {
-      "mainTitle": "Ydinasepolitiikka herättää kiivasta keskustelua Suomessa",
+      "mainTitle": "Suomen ydinasepolitiikka herättää kiivasta keskustelua",
       "mainCategories": [
         "Politiikka",
         "Ydinaseet",
@@ -924,6 +1119,27 @@
           "link": "https://yle.fi/a/74-20213932?origin=rss"
         },
         {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Hannu Miettunen: Suomen ydinasepolitiikassa kahden u-käännöksen taktiikka",
+          "content": "",
+          "date": "2026-03-07T04:10:00.000Z",
+          "categories": [
+            "kolumni",
+            "pääkirjoitussivun kolumni",
+            "ydinaseet",
+            "nato",
+            "hallitus",
+            "turvallisuuspolitiikka",
+            "venäjä",
+            "mielipiteiden kolumnit",
+            "puheenvuoro",
+            "mielipiteet"
+          ],
+          "link": "https://www.ts.fi/a/6919585"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -969,7 +1185,7 @@
         "Tapahtumat",
         "Lahti"
       ],
-      "imageUrl": "/images/ravintola/3.jpg",
+      "imageUrl": "/images/ravintola/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1070,52 +1286,6 @@
       ]
     },
     {
-      "mainTitle": "Iranin sota: siviiliuhrit ja isku koululle",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Iranilaisten kärsimys on jäänyt paljolti pimentoon kovien media- ja netti­kieltojen takia",
-          "content": "Yhdysvaltain ja Israelin iskujen kerrotaan surmanneen jo yli 1 100 iranilaissiviiliä. Yhdysvallat ei ole ottanut vastuuta tyttökoulun pommituksesta, mutta vakuuttaa tutkivansa asiaa.",
-          "date": "2026-03-07T09:00:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011857808.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yli sata lasta kuoli iskussa tyttö­kouluun – pysäyttävä ilma­kuva haudan­kaivajista julki",
-          "content": "Yhdysvaltain asevoimien tutkijoiden mukaan Yhdysvallat on todennäköisesti vastuussa iranilaiseen tyttökouluun tehdystä iskusta, jossa kerrotaan kuolleen yli sata lasta. Pysäyttävä ilmakuva dokumentoi rujolla tavalla paikallisten haudankaivajien työskentelyä iskun jälkeen.",
-          "date": "2026-03-06T15:04:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011864181.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iranilaisia merimiehiä pelastettiin merestä",
-          "content": "Yhdysvaltalainen sukellusvene iski Iranin sotalaivaan tappaen lähes 90 ihmistä.",
-          "date": "2026-03-06T12:00:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011863144.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Valkoinen talo julkaisee sodasta videoita",
       "mainCategories": [
         "Maailma",
@@ -1150,7 +1320,7 @@
       ]
     },
     {
-      "mainTitle": "Ruotsi pysäytti aluksen väärällä lipulla",
+      "mainTitle": "Ruotsin rannikkovartiosto pysäytti väärennetyn aluksen",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
@@ -1188,7 +1358,7 @@
       ]
     },
     {
-      "mainTitle": "Vatsatauti leviää Urho Kekkosen kansallispuistossa",
+      "mainTitle": "Vatsataudit leviävät Urho Kekkosen kansallispuistossa",
       "mainCategories": [
         "Kotimaa",
         "Terveys",
@@ -1264,7 +1434,7 @@
       ]
     },
     {
-      "mainTitle": "Lidl-kaupassa vartija vei tytön poliisille",
+      "mainTitle": "Lidl: Vartija vei 9-vuotiaan poliisille",
       "mainCategories": [
         "Kotimaa",
         "Perheet",
@@ -1376,39 +1546,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011864257.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pekka Haavisto jättää eduskunnan ilman keskustelua",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Eduskunta | Pekka Haavisto sai vapautuksen eduskunnasta ilman keskustelua",
-          "content": "Vihreiden perustajajäsen jättää päivänpolitiikan. Tilalle eduskuntaan nousee Mari Holopainen.",
-          "date": "2026-03-06T14:16:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011863905.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vihreiden kansanedustaja Pekka Haavisto jättää eduskunnan lauantaina – uuteen YK-pestiin sunnuntaina",
-          "content": "",
-          "date": "2026-03-06T11:44:27.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20214028?origin=rss"
         }
       ]
     }
