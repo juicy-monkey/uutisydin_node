@@ -1,9 +1,64 @@
 {
-  "timestamp": "2026-03-08T10:49:34.095Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-03-08T11:17:57.038Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Iranin sota: Khamenein seuraaja ja kurdit",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Iranissa on päästy alustavaan yksi­mielisyyteen Khamenein seuraajasta",
+          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
+          "date": "2026-03-08T10:55:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011849876.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä on tilanne nyt | Iran yhä ilman ylintä johtajaa, yli 1 300 siviiliä tapettu",
+          "content": "Kokosimme tähän artikkeliin Iranin sodan viimeisimmät käänteet.",
+          "date": "2026-03-07T05:12:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011865162.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | USA ja Israel vetivät kurdit mukaan uhkapeliin, jossa pelataan upporikasta ja rutiköyhää",
+          "content": "HS:n tietojen mukaan kurdijoukkoja on Iranin puolella valmiudessa.",
+          "date": "2026-03-06T15:11:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011862851.html"
+        }
+      ]
+    },
     {
       "mainTitle": "Iranin hallinto uhkaa vastustajiaan Suomessa",
       "mainCategories": [
@@ -44,7 +99,7 @@
       ]
     },
     {
-      "mainTitle": "Ulkoministeriön kotiutuslento lähtee tänään",
+      "mainTitle": "Suomalaisia kotiutetaan Lähi-idästä lennolla",
       "mainCategories": [
         "Kotimaa"
       ],
@@ -115,7 +170,7 @@
       ]
     },
     {
-      "mainTitle": "Eurooppaa uhkaa uusi energiakriisi",
+      "mainTitle": "Eurooppa kohtaa uuden energiakriisin uhkan",
       "mainCategories": [
         "Talous",
         "Hinnat",
@@ -165,7 +220,7 @@
       ]
     },
     {
-      "mainTitle": "Oslossa räjähdys Yhdysvaltain suurlähetystöllä",
+      "mainTitle": "Räjähdys Yhdysvaltain suurlähetystössä Oslossa",
       "mainCategories": [
         "Ulkomaat",
         "Onnettomuudet",
@@ -211,7 +266,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Norjan turvallisuuspoliisi PST on kutsunut lisäväkeä töihin USA:n lähetystöräjähdyksen takia",
+          "title": "Norjan poliisi: USA:n lähetystöräjähdys saattoi olla tahallinen isku",
           "content": "Räjähdys tapahtui poliisin mukaan tiettävästi suurlähetystön konsulaattisisäänkäynnin luona.",
           "date": "2026-03-08T01:38:53.000Z",
           "categories": [
@@ -226,7 +281,7 @@
       ]
     },
     {
-      "mainTitle": "Sanna Marin kritisoi hallitusta ydinaseista",
+      "mainTitle": "Sanna Marin ja Sdp eri mieltä ydinaseista",
       "mainCategories": [
         "Politiikka"
       ],
@@ -236,7 +291,7 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Sanna Marin täräytti kannan ydinaseista – risuja hallitukselle",
+          "title": "Sanna Marin kertoi kantansa ydinaseista – eri mieltä kuin Sdp",
           "content": "Ex-pääministeri Marin otti kantaa päivänpolitiikkaan Emma-gaalassa lauantaina.",
           "date": "2026-03-08T09:10:00.000Z",
           "categories": [
@@ -263,7 +318,7 @@
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -290,64 +345,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20214137?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin tilanne ja johtajuus kiistakapulana",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iranilaismedia: Iranin uudesta johtajasta vallitsee ”laaja yhteis­ymmärys”",
-          "content": "IS seuraa tässä artikkelissa tilannetta Iranissa ja muualla Lähi-idän alueella.",
-          "date": "2026-03-08T08:57:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011849882.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Iranissa on päästy alustavaan yksi­mielisyyteen Khamenein seuraajasta",
-          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
-          "date": "2026-03-08T07:53:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011849876.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä on tilanne nyt | Iran yhä ilman ylintä johtajaa, yli 1 300 siviiliä tapettu",
-          "content": "Kokosimme tähän artikkeliin Iranin sodan viimeisimmät käänteet.",
-          "date": "2026-03-07T05:12:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011865162.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | USA ja Israel vetivät kurdit mukaan uhkapeliin, jossa pelataan upporikasta ja rutiköyhää",
-          "content": "HS:n tietojen mukaan kurdijoukkoja on Iranin puolella valmiudessa.",
-          "date": "2026-03-06T15:11:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011862851.html"
         }
       ]
     },
@@ -410,7 +407,7 @@
         "Kotimaa",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -567,7 +564,7 @@
       ]
     },
     {
-      "mainTitle": "Trump vaatii Iranilta antautumista sodassa",
+      "mainTitle": "Trump vaatii Iranilta antautumista ja Israel iskee",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -616,7 +613,7 @@
         "Ulkomaat",
         "Israel"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -655,7 +652,7 @@
         "Mumbai",
         "Valtiovierailut"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/stubb/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -702,51 +699,13 @@
       ]
     },
     {
-      "mainTitle": "Absoluuttinen sävelkorva autismikirjolla",
-      "mainCategories": [
-        "Musiikki",
-        "Ihmiset",
-        "Autismi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Onko absoluuttinen sävelkorva autismikirjolla olevien supervoima?",
-          "content": "",
-          "date": "2026-03-08T04:00:00.000Z",
-          "categories": [
-            "musiikki",
-            "ihmiset",
-            "financial times",
-            "autismi",
-            "aivot",
-            "lapset"
-          ],
-          "link": "https://www.ts.fi/a/6919752"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Onko absoluuttinen sävelkorva autististen ihmisten supervoima?",
-          "content": "Sävelkorkeuden tunnistaminen on harvinainen taito, ja joillekin lapsille se voi olla elämää mullistava lahja.",
-          "date": "2026-03-07T10:00:00.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/onko-absoluuttinen-savelkorva-autististen-ihmisten/13276616?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kuuban presidentti tuomitsee Trumpin lausunnot",
+      "mainTitle": "Kuuban presidentti kritisoi Trumpin huippukokousta",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Kuuba"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -905,7 +864,7 @@
       ]
     },
     {
-      "mainTitle": "Iranin presidentti lupaa lopettaa iskut",
+      "mainTitle": "Iranin presidentti lupaa rauhaa naapureille",
       "mainCategories": [
         "Iran",
         "Persianlahti",
@@ -945,7 +904,7 @@
       ]
     },
     {
-      "mainTitle": "Suomen ydinasepolitiikka herättää kiivasta keskustelua",
+      "mainTitle": "Ydinasepolitiikka herättää kiivasta keskustelua Suomessa",
       "mainCategories": [
         "Politiikka",
         "Ydinaseet",
@@ -1007,27 +966,6 @@
           "link": "https://yle.fi/a/74-20213932?origin=rss"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Hannu Miettunen: Suomen ydinasepolitiikassa kahden u-käännöksen taktiikka",
-          "content": "",
-          "date": "2026-03-07T04:10:00.000Z",
-          "categories": [
-            "kolumni",
-            "pääkirjoitussivun kolumni",
-            "ydinaseet",
-            "nato",
-            "hallitus",
-            "turvallisuuspolitiikka",
-            "venäjä",
-            "mielipiteiden kolumnit",
-            "puheenvuoro",
-            "mielipiteet"
-          ],
-          "link": "https://www.ts.fi/a/6919585"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1073,7 +1011,7 @@
         "Tapahtumat",
         "Lahti"
       ],
-      "imageUrl": "/images/ravintola/2.jpg",
+      "imageUrl": "/images/ravintola/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1145,7 +1083,7 @@
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/stubb/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1174,12 +1112,12 @@
       ]
     },
     {
-      "mainTitle": "Iranin konfliktin siviiliuhrit ja iskujen seuraukset",
+      "mainTitle": "Iranin konfliktissa siviiliuhrit kasvavat nopeasti",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1254,7 +1192,7 @@
       ]
     },
     {
-      "mainTitle": "Ruotsi pysäytti aluksen väärällä lipulla",
+      "mainTitle": "Ruotsin rannikkovartiosto pysäytti väärennetyn aluksen",
       "mainCategories": [
         "Ulkomaat",
         "Venäjä",
@@ -1451,7 +1389,7 @@
       ]
     },
     {
-      "mainTitle": "Hallituksen työsopimuslaki palautettava valmisteluun",
+      "mainTitle": "Hallituksen työsopimuslaki vedettävä takaisin",
       "mainCategories": [
         "Politiikka",
         "Työelämä",
