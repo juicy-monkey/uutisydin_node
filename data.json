@@ -1,176 +1,27 @@
 {
-  "timestamp": "2026-04-03T17:31:03.307Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-04-03T18:41:26.045Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Ihminen kuoli onnettomuudessa Muhoksella",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Muhos"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ihmisen hirvittävä kuolema järkyttää Muhoksella – Tältä turma-alueella näyttää",
-          "content": "Aikuinen ihminen kuoli betonilaatan alle pitkäperjantaina. Pitkäperjantai on poikkeuksellisen hiljainen Muhoksella. Ilta-aurinko paistaa pilvettömältä taivaalta ja keväinen lämpö tuntuu jo kasvoilla. Pieni asuinalue Muhoksen kirkonkylällä on lähes autio. Pihoilla ei näy ketään, eikä liikettä juuri ole. Ilmassa on pysähtynyt tunnelma. Hiljaisuuden rikkoo vain pusikosta kantautuva fasaanin huuto.",
-          "date": "2026-04-03T17:02:40.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/970a8bce-b268-4d72-90bf-00d8e7451c1c"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ihminen kuoli betonilaatan alle Muhoksella",
-          "content": "",
-          "date": "2026-04-03T10:02:21.000Z",
-          "categories": [
-            "onnettomuudet",
-            "muhos",
-            "kotimaa",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20218941?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ihminen puristui kuoliaaksi betonilaatan alle Muhoksella",
-          "content": "Onnettomuus sattui ennen puoltapäivää perjantaina.",
-          "date": "2026-04-03T09:57:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011923684.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kuuba armahtaa yli 2000 vankia",
-      "mainCategories": [
-        "Kuuba",
-        "Vangit",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuuba vapauttaa 2 000 vankia",
-          "content": "Ensimmäiset pääsivät vapauteen perjantaina. Kuuba ei kertonut, oliko vapautettujen joukossa poliittisia vankeja.",
-          "date": "2026-04-03T16:38:44.000Z",
-          "categories": [
-            "turvallisuus",
-            "kuuba",
-            "vangit",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218962?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuubassa armahdetaan yli 2000 vankia",
-          "content": "",
-          "date": "2026-04-03T10:21:52.000Z",
-          "categories": [
-            "rikokset",
-            "kuuba",
-            "vangit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218942?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump uhkaa Irania voimakkailla iskuilla",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/trump/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump anoo historiallista summaa Yhdysvaltojen asevoimille",
-          "content": "Trumpin pyynnön taustalla vaikuttaa jatkunut Iranin sota.",
-          "date": "2026-04-03T16:37:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011924003.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Iran iski Trumpin puheen jälkeen Israeliin ja vannoi \"nöyryytystä\" Yhdysvalloille",
-          "content": "Iran vastasi Trumpin puheeseen sodan jatkamisesta Lähi-idässä omilla uhkauksillaan.",
-          "date": "2026-04-02T09:53:10.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/iran-iski-trumpin-puheen-jalkeen-israeliin-ja-vann/13434999?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Presidentti Trump uhosi puheessaan: ”Palautamme Iranin kivikaudelle”",
-          "content": "Trumpin mukaan Yhdysvallat aikoo iskeä kovaa Iraniin tulevina kahtena tai kolmena viikkona.",
-          "date": "2026-04-02T08:43:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920893.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lue tästä: Näin Trump puhui yöllä",
-          "content": "Donald Trumpin mukaan Yhdysvallat aikoo iskeä Iraniin kovaa seuraavina viikkoina.",
-          "date": "2026-04-02T04:09:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920085.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Trump sanoo, että tulevina viikkoina Yhdysvallat iskee Iraniin ”äärimmäisen kovaa”",
-          "content": "Trump uhkasi Irania, mutta väitti heti perään neuvotteluiden olevan käynnissä.",
-          "date": "2026-04-02T03:59:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011919913.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iran ampuu alas Yhdysvaltain hävittäjän",
+      "mainTitle": "Iran ampuu alas Yhdysvaltojen hävittäjän",
       "mainCategories": [
         "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Iran"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -178,7 +29,7 @@
           "publisherUrl": "is.fi",
           "title": "Iran ampunut alas yhdysvaltalaisen hävittäjän – CBS: Toinen miehistön jäsenistä pelastettu",
           "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
-          "date": "2026-04-03T16:06:00.000Z",
+          "date": "2026-04-03T18:17:00.000Z",
           "categories": [
             "ulkomaat"
           ],
@@ -188,82 +39,102 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Mediat: Toinen kadoksissa olleista yhdysvaltalaisista pelastettu",
+          "title": "Iranin sota | Mediat: Toinen kadoksissa olleista hävittäjän miehistön jäsenistä pelastettu",
           "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
-          "date": "2026-04-03T15:59:00.000Z",
+          "date": "2026-04-03T17:48:00.000Z",
           "categories": [
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011909452.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Epäilty raiskaus Baltic Princessillä Ruotsissa",
-      "mainCategories": [
-        "Kotimaa",
-        "Suomi",
-        "Rikosepäilyt"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
+        },
         {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
-          "title": "IL: Raiskausepäily Baltic Princessillä",
+          "title": "Iran pudotti Yhdysvaltojen hävittäjän",
           "content": "",
-          "date": "2026-04-03T15:47:12.000Z",
+          "date": "2026-04-03T17:36:51.000Z",
           "categories": [
-            "rikosepäilyt",
-            "ruotsinlaivat",
-            "tallink silja",
-            "turku",
-            "paikalliset",
+            "iran",
+            "yhdysvallat",
+            "sota",
+            "maailma",
             "uutiset"
           ],
-          "link": "https://www.ts.fi/a/6946061"
+          "link": "https://www.ts.fi/a/6946129"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ruotsi päästi öljyvuodosta epäillyn aluksen jatkoon",
+      "mainCategories": [
+        "Ulkomaat",
+        "Ympäristö",
+        "Öljyvuodot"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ruotsi päästi öljyvuodosta epäillyn tankkerin jatkamaan matkaansa",
+          "content": "",
+          "date": "2026-04-03T17:54:19.000Z",
+          "categories": [
+            "ympäristö",
+            "öljyvuodot",
+            "ruotsi",
+            "venäjän hyökkäys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20218966?origin=rss"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Rikosepäilyt | Tallink Siljan ruotsinlaivalla epäillään tapahtuneen raiskaus",
-          "content": "Tukholman poliisin hallussa on yksi epäilty.",
-          "date": "2026-04-03T15:00:00.000Z",
+          "title": "Suomenlahti | Ruotsi päästi öljyvuodosta epäillyn varjo­laivaston aluksen jatkamaan matkaansa",
+          "content": "Flora 1 -aluksen epäillään aiheuttaneen 12 kilometrin pituisen öljyvuodon.",
+          "date": "2026-04-03T17:39:00.000Z",
           "categories": [
-            "suomi"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011923918.html"
+          "link": "https://www.hs.fi/maailma/art-2000011923606.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "IL: Tallink Siljalla epäilty raiskaus",
-          "content": "Tapausta tutkii Tukholman poliisi.",
-          "date": "2026-04-03T14:51:00.000Z",
+          "title": "Varjolaiva epäiltynä öljyvuodosta Itämerellä",
+          "content": "Ruotsin viranomaiset nousivat laivaan.",
+          "date": "2026-04-03T10:03:00.000Z",
           "categories": [
-            "kotimaa"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000011923904.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011923646.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tallink Siljalla epäillään raiskausta viime yönä – Epäilty otettu kiinni Ruotsissa",
-          "content": "Epäilty rikos tapahtui pitkäperjantain vastaisena yönä risteilyaluksella. Tallink Siljan Baltic Princess -risteilyaluksella on tapahtunut epäilty raiskaus. Asian Iltalehdelle vahvistaa Tallink Siljan viestintäjohtaja Marika Nöjd. Nöjdin mukaan epäilty rikos tapahtui perjantain vastaisena yönä risteilyaluksella. Aluksen saapuessa Tukholmaan pitkäperjantaina aamulla vastassa oli Tukholman poliisi, joka tutkii tapausta.",
-          "date": "2026-04-03T13:07:20.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ruotsin rannikkkovartiosto nousi öljyvuodosta epäillylle alukselle Ystadin edustalla",
+          "content": "",
+          "date": "2026-04-03T07:52:25.000Z",
           "categories": [
-            "kotimaa"
+            "ympäristö",
+            "öljyvuodot",
+            "merivartiostot",
+            "öljyonnettomuudet",
+            "ruotsi",
+            "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/997f9a35-5e2f-48a3-b678-5b1d5a919c47"
+          "link": "https://yle.fi/a/74-20218926?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Vantaan päiväkotiturmassa kuoli 2-vuotias",
+      "mainTitle": "Vantaan päiväkotiturmassa kuoli 2-vuotias lapsi",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -271,6 +142,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "STT: Vantaan kaupunki tarkentaa ohjetta päivä­kotien kaappi­sängyistä",
+          "content": "Onnettomuuden jälkeen kaikkiin kaupungin päiväkoteihin tulee esille uusi ohje.",
+          "date": "2026-04-03T17:31:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011924095.html"
+        },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
@@ -357,7 +240,231 @@
       ]
     },
     {
-      "mainTitle": "Vance nimitettiin petostsaariksi Trumpin hallinnossa",
+      "mainTitle": "Ihminen kuoli onnettomuudessa Muhoksella",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Muhos"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Hirvittävä onnettomuus Muhoksella – Tältä turma-alueella näyttää",
+          "content": "Aikuinen ihminen kuoli betonilaatan alle pitkäperjantaina. Pitkäperjantai on poikkeuksellisen hiljainen Muhoksella. Ilta-aurinko paistaa pilvettömältä taivaalta ja keväinen lämpö tuntuu jo kasvoilla. Pieni asuinalue Muhoksen kirkonkylällä on lähes autio. Pihoilla ei näy ketään, eikä liikettä juuri ole. Ilmassa on pysähtynyt tunnelma. Hiljaisuuden rikkoo vain pusikosta kantautuva fasaanin huuto.",
+          "date": "2026-04-03T17:02:40.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/970a8bce-b268-4d72-90bf-00d8e7451c1c"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ihminen kuoli betonilaatan alle Muhoksella",
+          "content": "",
+          "date": "2026-04-03T10:02:21.000Z",
+          "categories": [
+            "onnettomuudet",
+            "muhos",
+            "kotimaa",
+            "pohjois-pohjanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20218941?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ihminen puristui kuoliaaksi betonilaatan alle Muhoksella",
+          "content": "Onnettomuus sattui ennen puoltapäivää perjantaina.",
+          "date": "2026-04-03T09:57:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011923684.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kuuba armahtaa yli 2000 vankia",
+      "mainCategories": [
+        "Kuuba",
+        "Vangit",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuuba vapauttaa 2 000 vankia",
+          "content": "Ensimmäiset pääsivät vapauteen perjantaina. Kuuba ei kertonut, oliko vapautettujen joukossa poliittisia vankeja.",
+          "date": "2026-04-03T16:38:44.000Z",
+          "categories": [
+            "turvallisuus",
+            "kuuba",
+            "vangit",
+            "yhdysvallat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20218962?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuubassa armahdetaan yli 2000 vankia",
+          "content": "",
+          "date": "2026-04-03T10:21:52.000Z",
+          "categories": [
+            "rikokset",
+            "kuuba",
+            "vangit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20218942?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump uhkaa Irania voimakkailla iskuilla",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump anoo historiallista summaa Yhdysvaltojen asevoimille",
+          "content": "Trumpin pyynnön taustalla vaikuttaa jatkunut Iranin sota.",
+          "date": "2026-04-03T16:37:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011924003.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Iran iski Trumpin puheen jälkeen Israeliin ja vannoi \"nöyryytystä\" Yhdysvalloille",
+          "content": "Iran vastasi Trumpin puheeseen sodan jatkamisesta Lähi-idässä omilla uhkauksillaan.",
+          "date": "2026-04-02T09:53:10.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/iran-iski-trumpin-puheen-jalkeen-israeliin-ja-vann/13434999?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Presidentti Trump uhosi puheessaan: ”Palautamme Iranin kivikaudelle”",
+          "content": "Trumpin mukaan Yhdysvallat aikoo iskeä kovaa Iraniin tulevina kahtena tai kolmena viikkona.",
+          "date": "2026-04-02T08:43:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011920893.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lue tästä: Näin Trump puhui yöllä",
+          "content": "Donald Trumpin mukaan Yhdysvallat aikoo iskeä Iraniin kovaa seuraavina viikkoina.",
+          "date": "2026-04-02T04:09:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011920085.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Trump sanoo, että tulevina viikkoina Yhdysvallat iskee Iraniin ”äärimmäisen kovaa”",
+          "content": "Trump uhkasi Irania, mutta väitti heti perään neuvotteluiden olevan käynnissä.",
+          "date": "2026-04-02T03:59:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011919913.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Epäilty raiskaus Tallink Siljalla",
+      "mainCategories": [
+        "Kotimaa",
+        "Suomi",
+        "Rikosepäilyt"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "IL: Raiskausepäily Baltic Princessillä",
+          "content": "",
+          "date": "2026-04-03T15:47:12.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "ruotsinlaivat",
+            "tallink silja",
+            "turku",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6946061"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Tallink Siljan ruotsinlaivalla epäillään tapahtuneen raiskaus",
+          "content": "Tukholman poliisin hallussa on yksi epäilty.",
+          "date": "2026-04-03T15:00:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011923918.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "IL: Tallink Siljalla epäilty raiskaus",
+          "content": "Tapausta tutkii Tukholman poliisi.",
+          "date": "2026-04-03T14:51:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011923904.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tallink Siljalla epäillään raiskausta viime yönä – Epäilty otettu kiinni Ruotsissa",
+          "content": "Epäilty rikos tapahtui pitkäperjantain vastaisena yönä risteilyaluksella. Tallink Siljan Baltic Princess -risteilyaluksella on tapahtunut epäilty raiskaus. Asian Iltalehdelle vahvistaa Tallink Siljan viestintäjohtaja Marika Nöjd. Nöjdin mukaan epäilty rikos tapahtui perjantain vastaisena yönä risteilyaluksella. Aluksen saapuessa Tukholmaan pitkäperjantaina aamulla vastassa oli Tukholman poliisi, joka tutkii tapausta.",
+          "date": "2026-04-03T13:07:20.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/997f9a35-5e2f-48a3-b678-5b1d5a919c47"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Vance nimitettiin Trumpin petostsaareksi",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -378,18 +485,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011923905.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Trump nimitti Vancen petostsaariksi",
-          "content": "Yhdysvaltain varapresidentti sai uuden tehtävän. Yhdysvaltain presidentti Donald Trump kertoi perjantaina, että varapresidentti J. D. Vance keskittyy johtamaan uutta liittovaltion petostentorjuntatyöryhmää, jonka tavoitteena on tutkia verovarojen ja liittovaltion tukien väärinkäyttöä. Vancea kutsutaan tässä roolissa \"petostsaariksi\"",
-          "date": "2026-04-03T12:44:57.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/0f6a08c4-85d3-4156-a20e-9ed2b1064b53"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -408,13 +503,13 @@
       ]
     },
     {
-      "mainTitle": "Trump erotti maavoimien ja oikeusministerin",
+      "mainTitle": "Trump erotti maavoimien komentajan ja oikeusministerin",
       "mainCategories": [
         "Yhdysvallat",
         "Ulkomaat",
         "Kenraalit"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -614,7 +709,7 @@
         "Hormuzinsalmi",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -837,39 +932,6 @@
       ]
     },
     {
-      "mainTitle": "Suomen julkinen velka kasvoi 20 miljardia",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Velkapommi tärähti – Kyse jättisummasta Suomen eduksi",
-          "content": "Asuntorakentamisen korkotukilainat on vuodesta 2022 lähtien tilastoitu osaksi Suomen julkista velkaa. Nyt SDP ja kokoomus ovat löytäneet toisensa asian ratkaisussa.  Helsingin Sanominen mukaan ympäristö- ja ilmastoministeri Sari Multala yrittää saada tilastointiin muutosta EU:ssa. Tilastokeskus päätti vuonna 2022, että ara-korkotukilainat luetaan osaksi Suomen julkista velkaa. Muutos perustui EU:n tilastoviranomaisen Eurostatin suositukseen.",
-          "date": "2026-04-03T11:41:49.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/6d3a053c-c9ce-4e83-a2ce-3ca310fc8510"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Velkaantuminen | Tilastointi­muutos paisutti Suomen velkaa 20 miljardia: Nyt ministeri vaatii EU:ta puuttumaan asiaan",
-          "content": "Asuntorakentamisen korkotukilainat on vuodesta 2022 lähtien laskettu osaksi Suomen julkista velkaa. Sari Multala yrittää saada asiaan muutosta EU:ssa.",
-          "date": "2026-04-02T08:14:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011919359.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Pääsiäisen menoliikenne sujuu vilkkaasti",
       "mainCategories": [
         "Kotimaa",
@@ -897,8 +959,8 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Sivulliset pelastivat veden varaan joutuneen Hämeenlinnassa – IL seuraa pääsiäisen viettoa",
-          "content": "Fintrafficin mukaan pitkäperjantain vilkkain menoliikenne sijoittui kello 9–14 välille. Tänään pitkäperjantaina on pääsiäisen menoliikenteen toinen päivä. Fintraffic tiedotti aiemmin, että pääsiäisliikenteen vilkkaimmat päivät ovat kiirastorstai ja toinen pääsiäispäivä eli maanantai. Menoliikenteessä oli vilkasta tänään pitkäperjantaina kello 9–14 välillä.",
+          "title": "Pääsiäisen menoliikenne on sujunut rauhallisesti – IL seuraa pääsiäisen viettoa",
+          "content": "Fintrafficin mukaan pitkäperjantaina pääsiäisen menoliikenne on sujunut mallikkaasti.  Tänään pitkäperjantaina on pääsiäisen menoliikenteen toinen päivä. Fintraffic tiedotti aiemmin, että pääsiäisliikenteen vilkkaimmat päivät ovat kiirastorstai ja toinen pääsiäispäivä eli maanantai. Menoliikenteessä oli vilkasta tänään kello 11–12 välillä.",
           "date": "2026-04-03T05:22:29.000Z",
           "categories": [
             "kotimaa"
@@ -965,7 +1027,7 @@
       ]
     },
     {
-      "mainTitle": "Risteilyyhtiöt korottavat polttoainelisämaksuja",
+      "mainTitle": "Risteilyyhtiöt korottavat polttoainemaksujaan",
       "mainCategories": [
         "Hinnat",
         "Autolautat",
@@ -1053,52 +1115,12 @@
       ]
     },
     {
-      "mainTitle": "Varjolaiva epäilty öljyvuodosta Itämerellä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ympäristö",
-        "Öljyvuodot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Varjolaiva epäiltynä öljyvuodosta Itämerellä",
-          "content": "Ruotsin viranomaiset nousivat laivaan.",
-          "date": "2026-04-03T10:03:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011923646.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ruotsin rannikkkovartiosto nousi öljyvuodosta epäillylle alukselle Ystadin edustalla",
-          "content": "",
-          "date": "2026-04-03T07:52:25.000Z",
-          "categories": [
-            "ympäristö",
-            "öljyvuodot",
-            "merivartiostot",
-            "öljyonnettomuudet",
-            "ruotsi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218926?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin Nato-puheita kritisoidaan voimakkaasti",
+      "mainTitle": "Trumpin Nato-puheiden kritiikkiä Euroopassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1196,7 +1218,7 @@
       ]
     },
     {
-      "mainTitle": "Varastettu 2 500 vuotta vanha kypärä löytyi",
+      "mainTitle": "2 500 vuotta vanha kypärä löytyi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1236,7 +1258,7 @@
         "Yhdysvallat",
         "Oikeusministeriö"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1396,7 +1418,7 @@
       ]
     },
     {
-      "mainTitle": "Konalan haulikkotapaus ja tuomiot",
+      "mainTitle": "Konalan haulikkotapauksen käsittely alkaa",
       "mainCategories": [
         "Kotimaa",
         "Oikeudenkäynnit",
@@ -1523,7 +1545,7 @@
       ]
     },
     {
-      "mainTitle": "Savonlinnan tulipalon murhatutkinta etenee",
+      "mainTitle": "Savonlinnan tulipalon murhatutkinta jatkuu",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -1593,7 +1615,7 @@
       ]
     },
     {
-      "mainTitle": "Heinolan kierrätyshalli paloi 14 tuntia",
+      "mainTitle": "Heinolan kierrätyshallin tulipalo kesti 14 tuntia",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1712,7 +1734,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/italia/2.jpg",
+      "imageUrl": "/images/italia/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1741,7 +1763,7 @@
       ]
     },
     {
-      "mainTitle": "Alppieron ilmiö herättää keskustelua somessa",
+      "mainTitle": "Alppieron ilmiö sosiaalisessa mediassa.",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
