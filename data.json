@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T16:00:10.586Z",
+  "timestamp": "2026-04-03T16:51:39.525Z",
   "successCount": 21,
   "failureCount": 1,
   "failedFeeds": [
@@ -8,18 +8,154 @@
         "publisherId": "yle",
         "publisher": "Yle",
         "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
       },
       "reason": {}
     }
   ],
   "feeds": [
     {
-      "mainTitle": "Epäilty raiskaus Baltic Princessillä Ruotsissa",
+      "mainTitle": "Trump uhkaa Irania voimakkailla iskuilla",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump anoo historiallista summaa Yhdysvaltojen asevoimille",
+          "content": "Trumpin pyynnön taustalla vaikuttaa jatkunut Iranin sota.",
+          "date": "2026-04-03T16:37:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011924003.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Iran iski Trumpin puheen jälkeen Israeliin ja vannoi \"nöyryytystä\" Yhdysvalloille",
+          "content": "Iran vastasi Trumpin puheeseen sodan jatkamisesta Lähi-idässä omilla uhkauksillaan.",
+          "date": "2026-04-02T09:53:10.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/iran-iski-trumpin-puheen-jalkeen-israeliin-ja-vann/13434999?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Presidentti Trump uhosi puheessaan: ”Palautamme Iranin kivikaudelle”",
+          "content": "Trumpin mukaan Yhdysvallat aikoo iskeä kovaa Iraniin tulevina kahtena tai kolmena viikkona.",
+          "date": "2026-04-02T08:43:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011920893.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lue tästä: Näin Trump puhui yöllä",
+          "content": "Donald Trumpin mukaan Yhdysvallat aikoo iskeä Iraniin kovaa seuraavina viikkoina.",
+          "date": "2026-04-02T04:09:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011920085.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Trump sanoo, että tulevina viikkoina Yhdysvallat iskee Iraniin ”äärimmäisen kovaa”",
+          "content": "Trump uhkasi Irania, mutta väitti heti perään neuvotteluiden olevan käynnissä.",
+          "date": "2026-04-02T03:59:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011919913.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Iran ampuu alas Yhdysvaltain hävittäjän",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Iran ampunut alas yhdysvaltalaisen hävittäjän – CBS: Toinen miehistön jäsenistä pelastettu",
+          "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
+          "date": "2026-04-03T16:06:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011917601.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Mediat: Toinen kadoksissa olleista yhdysvaltalaisista pelastettu",
+          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
+          "date": "2026-04-03T15:59:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011909452.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump irtisanoi kaksi naisministeriä",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Uskollisuus ei enää riitä, kun Trump jakaa potkuja nais­ministereilleen",
+          "content": "Trump on antanut viime aikoina potkut kahdelle naisministerilleen. Kulisseissa puhutaan kolmannesta.",
+          "date": "2026-04-03T16:03:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011923536.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Trump antoi potkut oikeus­ministeri Pam Bondille",
+          "content": "Trumpin kerrotaan pettyneen Bondin tapaan hoitaa Epstein-asiakirjoihin sekä poliittisiin vastustajiin liittyviä juttuja.",
+          "date": "2026-04-02T20:09:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011921832.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Raiskaus epäilty Tallink Siljan aluksella",
       "mainCategories": [
         "Kotimaa",
         "Suomi",
-        "Rikosepäilyt"
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -75,58 +211,23 @@
             "kotimaa"
           ],
           "link": "https://www.iltalehti.fi/kotimaa/a/997f9a35-5e2f-48a3-b678-5b1d5a919c47"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iran ampunut alas Yhdysvaltojen hävittäjän",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Yhdysvaltojen hävittäjä ammuttu alas, USA ja Iran etsivät miehistöä kilpaa",
-          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
-          "date": "2026-04-03T15:32:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011909452.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Axios: Iran ampunut alas yhdysvaltalaisen hävittäjän – pelastus­operaatio käynnissä",
-          "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
-          "date": "2026-04-03T14:46:00.000Z",
+          "title": "Varjolaiva epäiltynä öljyvuodosta Itämerellä",
+          "content": "Ruotsin viranomaiset nousivat laivaan.",
+          "date": "2026-04-03T10:03:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011917601.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Uraani on piilossa maan alla sukellus­pullojen kaltaisissa säiliöissä: operaatio olisi USA:lle vaikea",
-          "content": "Iraniin piilotettujen uraanisäiliöiden noutamiseen tai tuhoamiseen on koulutettu erikoisjoukot. Ne voisivat mennä paikalle joko mahdollisimman huomaamattomasti tai täydellä ryminällä.",
-          "date": "2026-04-02T14:34:00.000Z",
-          "categories": [
-            "tilaajille",
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011888377.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011923646.html"
         }
       ]
     },
     {
-      "mainTitle": "Vantaan päiväkodissa kuoli 2-vuotias lapsi",
+      "mainTitle": "Vantaan päiväkotiturmassa kuoli 2-vuotias lapsi",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -145,18 +246,6 @@
             "kotimaa"
           ],
           "link": "https://www.iltalehti.fi/kotimaa/a/b14ea715-781a-4491-8f9b-bae8c66ab8d5"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Näin päiväkodin kuolonturma tapahtui – 2-vuotias kuoli",
-          "content": "Vantaan Kelokuusen päiväkodissa tapahtui maaliskuussa vakava onnettomuus, jossa kuoli 2-vuotias lapsi.  Vantaalla Kelokuusen päiväkodissa tapahtui tiistaina 24. maaliskuuta vakava onnettomuus. Lapsi oli luiskahtanut puristuksiin kaappisängyn ja seinän väliin sänkyä nostettaessa. Onnettomuudessa kuoli 2-vuotias lapsi. Poliisi tiedotti kuolemasta pitkäperjantaina 3. huhtikuuta. Lapsi oli kuollut torstaina 2. huhtikuuta.",
-          "date": "2026-04-03T10:33:14.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/e6e590e7-dd06-4e66-bb03-f6db0ba8c047"
         },
         {
           "publisherId": "is",
@@ -232,13 +321,13 @@
       ]
     },
     {
-      "mainTitle": "Vance nimitettiin petostsaariksi Trumpin hallinnossa",
+      "mainTitle": "Vance nimitettiin liittovaltion petostsaariksi",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Osavaltiot"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -287,9 +376,9 @@
       "mainCategories": [
         "Yhdysvallat",
         "Ulkomaat",
-        "Kenraalit"
+        "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -326,33 +415,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011923320.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Puolustusministeri Hegseth pyytänyt  maavoimien komentajaa Randy Georgea eroamaan",
-          "content": "Hegseth on ohjeistanut kenraali Georgea jäämään tehtävästään välittömästi eläkkeelle.",
-          "date": "2026-04-02T21:51:12.000Z",
-          "categories": [
-            "yhdysvallat",
-            "maavoimat",
-            "puolustusministeriö",
-            "sotilaallinen johtajuus",
-            "puolustusvoimat",
-            "joe biden",
-            "viranomaiset",
-            "johtajuus",
-            "yhdysvaltain presidentti",
-            "virkamiehet",
-            "kenraalit",
-            "aseelliset konfliktit",
-            "julkiset virat",
-            "pete hegseth",
-            "yhdysvaltain republikaaninen puolue",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218907?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -395,60 +457,6 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisen juhlintaa eri puolilla maailmaa",
-      "mainCategories": [
-        "Juhlat",
-        "Pääsiäinen",
-        "Perinteet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen tunnelmia maailmalta – katso kuvat ja videot",
-          "content": "Paikallinen kulttuuri värittää juhlintaa jokaisessa maassa.",
-          "date": "2026-04-03T13:46:40.000Z",
-          "categories": [
-            "juhlat",
-            "pääsiäinen",
-            "perinteet",
-            "vuotuisjuhlat",
-            "uskonnot",
-            "yle uutiset somenostot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218915?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Turun pääsiäinen tarjoaa musiikkia velhomaailmasta, historiaa, kaneja ja kukkaloistoa – nappaa tästä täsmätärpit",
-          "content": "",
-          "date": "2026-04-02T16:00:00.000Z",
-          "categories": [
-            "pääsiäinen",
-            "tapahtumat",
-            "kaupunkielämä",
-            "juhlat",
-            "viihde",
-            "paikalliset",
-            "turku",
-            "musiikki",
-            "perhe",
-            "menot",
-            "kirkot",
-            "turun linna",
-            "museot",
-            "elämäntapa"
-          ],
-          "link": "https://www.ts.fi/a/6945111"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kreetalla epätodellinen hiekkapölyilmiö",
       "mainCategories": [
         "Maailma",
@@ -483,13 +491,13 @@
       ]
     },
     {
-      "mainTitle": "Hormuzinsalmen avaamisesta neuvotellaan kansainvälisesti",
+      "mainTitle": "Trumpin puhe vaikutti öljyn hintoihin",
       "mainCategories": [
-        "Britannia",
-        "Hormuzinsalmi",
+        "Talous",
+        "Pörssit",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -504,51 +512,36 @@
           "link": "https://www.kauppalehti.fi/uutiset/a/f48ba707-34fd-491c-b82b-10d0fe78f79c"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kymmenet maat pohtivat keinoja avata Hormuzinsalmi – Britannian ulkoministeri: Iran toimii holtittomasti",
-          "content": "Iran sulki maailman­taloudelle tärkeän Hormuzinsalmen sen jälkeen, kun Yhdysvallat ja Israel olivat hyökänneet sinne helmikuun lopulla.",
-          "date": "2026-04-02T15:24:11.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "britannia",
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "hormuzinsalmi",
-            "öljyn hinta",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218831?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Johtaako Hormuzinsalmen sulku 1970-luvun öljykriisin kaltaiseen hurjaan inflaatioon? Tuskin, sanovat asiantuntijat",
-          "content": "Hormuzinsalmen sulkua verrataan 1970-luvun öljykriisiin, mutta nykyisin Suomessa riippuvuus öljystä on vähäisempää kuin 53 vuotta sitten. Tuolloin energiansäästöön opastettiin myös Ylessä.",
-          "date": "2026-04-02T08:04:53.000Z",
-          "categories": [
-            "talous",
-            "öljy ja kaasu",
-            "öljyntuotanto",
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "energiakriisi",
-            "1970-luku",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20217759?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "IS:n tiedot: Johtajat neuvottelevat Hormuzinsalmen avaamisesta – Suomi mukana",
-          "content": "Britannia isännöi torstaina neuvotteluja, jossa arvioidaan kaikkia keinoja Hormuzinsalmen avaamiseksi.",
-          "date": "2026-04-02T07:57:00.000Z",
+          "title": "Raaka­öljy kallistui rajusti Trumpin puheen jälkeen",
+          "content": "Markkinoiden toiveet Iranin sodan pikaisesta lopusta haihtuivat.",
+          "date": "2026-04-02T21:05:00.000Z",
           "categories": [
-            "politiikka"
+            "taloussanomat"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000011920982.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000011923276.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pörssikurssit laskivat ja öljy kallistui Trumpin puheen jälkeen",
+          "content": "Markkinat eivät ole pitäneet Trumpin aikeesta lisätä Iranin pommituksia.",
+          "date": "2026-04-02T14:21:21.000Z",
+          "categories": [
+            "talous",
+            "pörssit",
+            "ulkomaat",
+            "laskevat pörssikurssit",
+            "donald trump",
+            "iran",
+            "öljy",
+            "euroopan pörssit",
+            "omx helsinki -indeksi"
+          ],
+          "link": "https://yle.fi/a/74-20218877?origin=rss"
         }
       ]
     },
@@ -610,7 +603,7 @@
       ]
     },
     {
-      "mainTitle": "Sotilas- ja siviilidroonien erottaminen tärkeää",
+      "mainTitle": "Sotilas- ja siviilidroonien erottaminen vaikeaa",
       "mainCategories": [
         "Turvallisuus",
         "Droonit",
@@ -660,58 +653,6 @@
       ]
     },
     {
-      "mainTitle": "Artemis 2 -miehistö matkustaa Kuuhun",
-      "mainCategories": [
-        "Avaruus",
-        "Astronautit",
-        "Avaruusohjelmat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Avaruusmatkojen ennätys­nainen, kokenut hävittäjä­lentäjä ja ensi­kertalainen – tällaiset astronautit matkaavat kohti Kuuta",
-          "content": "Astronauteilta vaaditaan erinomaista fyysistä kuntoa ja stressin­sietokykyä. Tämä juttu kertoo, mitä muita taitoja Artemis 2-kuulennon miehistöllä on.",
-          "date": "2026-04-03T11:57:33.000Z",
-          "categories": [
-            "avaruus",
-            "astronautit",
-            "avaruusohjelmat",
-            "nasa",
-            "artemis ii",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218928?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Artemis 2 -miehistö matkalla kohti Kuuta",
-          "content": "Astronautit eivät laskeudu Kuuhun mutta yrittävät pohjustaa mahdollisuutta palata Kuun pinnalle.",
-          "date": "2026-04-02T23:39:56.000Z",
-          "categories": [
-            "avaruus",
-            "nasa",
-            "astronautit",
-            "avaruusohjelmat",
-            "avaruusliikenne",
-            "kuu",
-            "astronomia",
-            "avaruusasemat",
-            "maa",
-            "planeetat ja kuu (aurinkokunta)",
-            "kuut",
-            "avaruusalukset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218909?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Suomen julkinen velka kasvoi 20 miljardia",
       "mainCategories": [
         "Politiikka"
@@ -745,7 +686,7 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisen menoliikenne sujuu hyvin",
+      "mainTitle": "Pääsiäisen menoliikenne sujuu vilkkaasti",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -772,7 +713,7 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Henkilöauto putosi trailerin kyydistä Valtatie 1:llä – IL seuraa pääsiäisen viettoa",
+          "title": "Outo onnettomuus Ykköstiellä – IL seuraa pääsiäisen viettoa",
           "content": "Fintrafficin mukaan pitkäperjantain vilkkain menoliikenne sijoittuu kello 9–14 välille. Tänään pitkäperjantaina on pääsiäisen menoliikenteen toinen päivä. Fintraffic tiedotti aiemmin, että pääsiäisliikenteen vilkkaimmat päivät ovat kiirastorstai ja toinen pääsiäispäivä eli maanantai. Tiedotteen mukaan menoliikenteessä on vilkasta tänään pitkäperjantaina kello 9–14 välillä.",
           "date": "2026-04-03T05:22:29.000Z",
           "categories": [
@@ -800,11 +741,47 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20218911?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääsiäisen menoliikenne on nyt vilkkaimmillaan",
+          "content": "Ajoittaisiin ruuhkiin on syytä varautua. Asiantuntijan mukaan tavallisin syy tien päälle jäämiseen on polttoaineen loppuminen.",
+          "date": "2026-04-02T05:27:07.000Z",
+          "categories": [
+            "liikenne",
+            "pääsiäinen",
+            "pääsiäisliikenne",
+            "tieliikenne",
+            "liikenneruuhkat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20218688?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääsiäisliikenne on vilkkaimmillaan tänään",
+          "content": "",
+          "date": "2026-04-02T00:45:16.000Z",
+          "categories": [
+            "liikenne",
+            "pääsiäisliikenne",
+            "kiirastorstai",
+            "pääsiäispyhät",
+            "tieliikenne",
+            "liikenneruuhkat",
+            "pääsiäinen",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20218676?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Risteilyjen polttoainelisämaksut nousevat merkittävästi",
+      "mainTitle": "Risteilyyhtiöt korottavat polttoaine­lisämaksuja",
       "mainCategories": [
         "Hinnat",
         "Autolautat",
@@ -851,7 +828,7 @@
       ]
     },
     {
-      "mainTitle": "Suomalaiset ostavat halpoja makeisia Ruotsista",
+      "mainTitle": "Suomalaiset ostavat edullista ruokaa Ruotsista",
       "mainCategories": [
         "Elintarvikkeet",
         "Haaparanta",
@@ -892,46 +869,6 @@
       ]
     },
     {
-      "mainTitle": "Varjolaiva epäilty öljyvuodosta Itämerellä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ympäristö",
-        "Öljyvuodot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Varjolaiva epäiltynä öljyvuodosta Itämerellä",
-          "content": "Ruotsin viranomaiset nousivat laivaan.",
-          "date": "2026-04-03T10:03:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011923646.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ruotsin rannikkkovartiosto nousi öljyvuodosta epäillylle alukselle Ystadin edustalla",
-          "content": "",
-          "date": "2026-04-03T07:52:25.000Z",
-          "categories": [
-            "ympäristö",
-            "öljyvuodot",
-            "merivartiostot",
-            "öljyonnettomuudet",
-            "ruotsi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218926?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Ihminen kuoli betonilaatan alle Muhoksella",
       "mainCategories": [
         "Kotimaa",
@@ -966,18 +903,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011923684.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ihminen jäi betonin alle ja kuoli",
-          "content": "Aikuinen ihminen jäi puristuksiin betonin alle ja kuoli.  Pohjois-Pohjanmaalla Muhoksella on ollut vakava onnettomuus pitkäperjantaina. Onnettomuudessa on kuollut yksi ihminen. Asian vahvistaa Iltalehdelle päivystävä palomestari Tapani Lehtelä.",
-          "date": "2026-04-03T09:51:03.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/cd4bdf24-9fb0-4a1f-aa27-c641ce030a93"
         }
       ]
     },
@@ -987,7 +912,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1016,13 +941,13 @@
       ]
     },
     {
-      "mainTitle": "Pörssit kohenivat öljyn kallistuessa",
+      "mainTitle": "Pörssit nousivat, öljyn hinnat korkealla",
       "mainCategories": [
         "Talous",
         "Pörssit",
-        "Ulkomaat"
+        "Yhdysvallat"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1061,26 +986,6 @@
             "new yorkin pörssi"
           ],
           "link": "https://yle.fi/a/74-20218899?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pörssikurssit laskivat ja öljy kallistui Trumpin puheen jälkeen",
-          "content": "Markkinat eivät ole pitäneet Trumpin aikeesta lisätä Iranin pommituksia.",
-          "date": "2026-04-02T14:21:21.000Z",
-          "categories": [
-            "talous",
-            "pörssit",
-            "ulkomaat",
-            "laskevat pörssikurssit",
-            "donald trump",
-            "iran",
-            "öljy",
-            "euroopan pörssit",
-            "omx helsinki -indeksi"
-          ],
-          "link": "https://yle.fi/a/74-20218877?origin=rss"
         }
       ]
     },
@@ -1115,86 +1020,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011923033.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump erotti oikeusministeri Pam Bondin",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Oikeusministeriö"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Trump antoi potkut oikeus­ministeri Pam Bondille",
-          "content": "Trumpin kerrotaan pettyneen Bondin tapaan hoitaa Epstein-asiakirjoihin sekä poliittisiin vastustajiin liittyviä juttuja.",
-          "date": "2026-04-02T20:09:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011921832.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump erotti oikeus­ministeri Pam Bondin",
-          "content": "Reutersin lähteen mukaan taustalla on Trumpin kasvanut turhautuminen oikeusministeri Bondin suoriutumista kohtaan.",
-          "date": "2026-04-02T17:55:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011923078.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump erotti oikeusministeri Pam Bondin – taustalla Epstein-asiakirjat",
-          "content": "Väliaikaisena oikeusministerinä toimii apulaisoikeusministeri Todd Blanche.",
-          "date": "2026-04-02T17:04:53.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "ulkomaat",
-            "oikeusministeriö",
-            "yhdysvaltojen politiikka",
-            "pam bondi"
-          ],
-          "link": "https://yle.fi/a/74-20218894?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump on keskustellut oikeusministeri Pam Bondin erottamisesta",
-          "content": "Bondin korvaajaksi voisi tulla ympäristöviraston johtaja Lee Zeldin.",
-          "date": "2026-04-02T15:40:20.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "ulkomaat",
-            "oikeusministeriö",
-            "yhdysvaltalaiset poliitikot"
-          ],
-          "link": "https://yle.fi/a/74-20218888?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "CNN:n lähteet: Trump suunnittelee Pam Bondin erottamista",
-          "content": "Bondia on kritisoitu Epstein-asiakirjojen julkaisun hoitamisesta.",
-          "date": "2026-04-02T04:45:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920114.html"
         }
       ]
     },
@@ -1285,7 +1110,7 @@
       ]
     },
     {
-      "mainTitle": "Konalan haulikkotaposta vaaditaan tuomiota",
+      "mainTitle": "Konalan haulikkotaposta syytteet nostettu",
       "mainCategories": [
         "Kotimaa",
         "Oikeudenkäynnit",
@@ -1366,48 +1191,7 @@
       ]
     },
     {
-      "mainTitle": "Puolustusvoimat torjuu drooneja rajoituksin",
-      "mainCategories": [
-        "Maanpuolustus",
-        "Puolustusvoimat",
-        "Droonit"
-      ],
-      "imageUrl": "/images/ukraina/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Puolustusvoimat voi ampua drooneja ilmassa, mutta sitä rajoittaa sääntö: Venäjän suuntaan ei saa ampua",
-          "content": "Ilmavoimien operaatio­päällikkö, eversti Vesa Mäntylä kertoo, miten puolustusvoimat torjuvat drooneja.",
-          "date": "2026-04-02T15:13:18.000Z",
-          "categories": [
-            "maanpuolustus",
-            "puolustusvoimat",
-            "droonit",
-            "venäjä",
-            "ukraina",
-            "kotimaa",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218871?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Parikkala | Raja­vartio­laitos: Pyhä­järven drooni on ukrainalainen",
-          "content": "Puolustusvoimat kertoi keskiviikkona illalla tiedotteessaan, että Ukrainan hyökkäyksissä on käytetty jopa 2 500 droonia. Tällä hetkellä Suomen tilanteessa onkin kyse yksittäisistä harhautuneista drooneista.",
-          "date": "2026-04-01T16:44:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011917470.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Parikkalassa droonihavainnot roskien poltosta",
+      "mainTitle": "Parikkalassa droonihavainnot roskien polttamisesta",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -1557,7 +1341,7 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisen sää vaihteleva eri puolilla.",
+      "mainTitle": "Pääsiäisen sää vaihteleva eri puolilla",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1637,116 +1421,7 @@
       ]
     },
     {
-      "mainTitle": "Iran uhkaa Yhdysvaltoja Trumpin puheeseen vastaten",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/trump/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Iran iski Trumpin puheen jälkeen Israeliin ja vannoi \"nöyryytystä\" Yhdysvalloille",
-          "content": "Iran vastasi Trumpin puheeseen sodan jatkamisesta Lähi-idässä omilla uhkauksillaan.",
-          "date": "2026-04-02T09:53:10.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/iran-iski-trumpin-puheen-jalkeen-israeliin-ja-vann/13434999?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Presidentti Trump uhosi puheessaan: ”Palautamme Iranin kivikaudelle”",
-          "content": "Trumpin mukaan Yhdysvallat aikoo iskeä kovaa Iraniin tulevina kahtena tai kolmena viikkona.",
-          "date": "2026-04-02T08:43:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920893.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lue tästä: Näin Trump puhui yöllä",
-          "content": "Donald Trumpin mukaan Yhdysvallat aikoo iskeä Iraniin kovaa seuraavina viikkoina.",
-          "date": "2026-04-02T04:09:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920085.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Trump sanoo, että tulevina viikkoina Yhdysvallat iskee Iraniin ”äärimmäisen kovaa”",
-          "content": "Trump uhkasi Irania, mutta väitti heti perään neuvotteluiden olevan käynnissä.",
-          "date": "2026-04-02T03:59:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011919913.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin kannattajissa muutos Naton suhteen",
-      "mainCategories": [
-        "Ulkomaat",
-        "Nato",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Analyysi: Trumpin kannattajissa tapahtuu parhaillaan huolestuttava muutos",
-          "content": "Trump on syöttänyt kannattajilleen Nato- ja Eurooppa-vastaista retoriikkaa jo hyvän aikaa Yhdysvalloissa. Se toimii, kirjoittaa Yhdysvaltain-kirjeenvaihtaja Nelli Lapintie.",
-          "date": "2026-04-02T06:30:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011919560.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Voiko Trump lähteä Natosta? CNN: Tässä totuus",
-          "content": "Trumpin uhkausten taustalla on tyytymättömyys liittolaismaita kohtaan.",
-          "date": "2026-04-01T19:32:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011919918.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Trump uhkaa upottaa Naton Hormuzinsalmeen",
-          "content": "Trump tarvitsee Hormuzinsalmelle apua tai syyllisen sodan ongelmiin. Molemmat voivat löytyä Euroopasta, kirjoittaa Nato-erikoistoimittaja Maria Stenroos.",
-          "date": "2026-04-01T16:48:13.000Z",
-          "categories": [
-            "nato",
-            "yhdysvallat",
-            "donald trump",
-            "turvallisuus",
-            "kansainvälinen politiikka",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218652?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Virvoitusjuomaverotuksen muutos herättää närää",
+      "mainTitle": "Virvoitusjuomaveron muutos aiheuttaa närää",
       "mainCategories": [
         "Hinnat",
         "Hesburger",
