@@ -1,35 +1,79 @@
 {
-  "timestamp": "2026-04-03T18:41:26.045Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2026-04-04T05:19:42.730Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Iran ampuu alas Yhdysvaltojen hävittäjän",
+      "mainTitle": "Kuuba armahtaa yli 2000 vankia",
       "mainCategories": [
-        "Maailma",
         "Ulkomaat",
-        "Iran"
+        "Kuuba",
+        "Vangit"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Iran ampunut alas yhdysvaltalaisen hävittäjän – CBS: Toinen miehistön jäsenistä pelastettu",
+          "title": "Kuuba vapauttaa yli 2 000 vankia",
+          "content": "Tämä on suurin laatuaan oleva vapautus kymmeneen vuoteen.",
+          "date": "2026-04-04T05:18:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011924270.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuuba vapauttaa 2 000 vankia",
+          "content": "Ensimmäiset pääsivät vapauteen perjantaina. Kuuba ei kertonut, oliko vapautettujen joukossa poliittisia vankeja.",
+          "date": "2026-04-03T16:38:44.000Z",
+          "categories": [
+            "turvallisuus",
+            "kuuba",
+            "vangit",
+            "yhdysvallat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20218962?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuubassa armahdetaan yli 2000 vankia",
+          "content": "",
+          "date": "2026-04-03T10:21:52.000Z",
+          "categories": [
+            "rikokset",
+            "kuuba",
+            "vangit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20218942?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Iran ampuu alas Yhdysvaltojen koneita",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat",
+        "Iran"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Video näyttää, kuinka Iranista tulitetaan Yhdysvaltojen Black Hawkia",
           "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
-          "date": "2026-04-03T18:17:00.000Z",
+          "date": "2026-04-04T05:04:00.000Z",
           "categories": [
             "ulkomaat"
           ],
@@ -39,9 +83,9 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Mediat: Toinen kadoksissa olleista hävittäjän miehistön jäsenistä pelastettu",
+          "title": "Iranin sota | Mediat: Iran ampui alas toisenkin Yhdysvaltojen koneen",
           "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
-          "date": "2026-04-03T17:48:00.000Z",
+          "date": "2026-04-04T03:14:00.000Z",
           "categories": [
             "maailma"
           ],
@@ -66,7 +110,116 @@
       ]
     },
     {
-      "mainTitle": "Ruotsi päästi öljyvuodosta epäillyn aluksen jatkoon",
+      "mainTitle": "Sateet ja räntä yleistyvät Suomessa",
+      "mainCategories": [
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kohta sataa koko Suomessa",
+          "content": "Sää on muuttumassa sateisemmaksi. Maanantaina osa sateista voi tulla räntänä etelässäkin. Sää muuttuu tulevien päivien aikana vähitellen vetisemmäksi, kertoo Foreca. Lauantaina hajanaisia sateita tulee lähinnä maan eteläosassa. Päivän edetessä niitä leviää myös maan keskiosaan.",
+          "date": "2026-04-04T01:53:48.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/bee4adda-2681-42b5-b938-cbc02910d5b8"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Pääsiäisenä voi tulla räntää ja lunta",
+          "content": "Poutaisinta pääsiäisenä on maan pohjoisosassa.",
+          "date": "2026-04-02T11:36:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011921657.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pääsiäisnäytelmä Via Crucis Helsingissä tänään",
+      "mainCategories": [
+        "Teatteri",
+        "Helsinki",
+        "Senaatintori"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pääsiäis­näytelmä Via Crucis esitetään tänään Helsingissä Senaatintorilla",
+          "content": "",
+          "date": "2026-04-03T22:19:05.000Z",
+          "categories": [
+            "teatteri",
+            "helsinki",
+            "senaatintori",
+            "pääsiäisnäytelmä",
+            "via crucis (näytelmä)",
+            "pääsiäinen",
+            "kulttuuri",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20218971?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Mämmi, lammas ja Via Crucis – näin oululaiset viettävät pääsiäistä",
+          "content": "Oululaiset vaalivat pääsiäisperinteitä työkiireidenkin keskellä – kauppahallissa käy kuhina lampaanlihan perässä, kun torilla valmistaudutaan Via Crucis -kärsimysnäytelmään.",
+          "date": "2026-04-02T16:20:55.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/mammi-lammas-ja-via-crucis-nain-oululaiset-viettav/13434997?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Iran ampui Yhdysvaltojen hävittäjän alas",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Iran ampui yhdysvaltalaisen hävittäjän alas – näin tapahtumat etenivät",
+          "content": "Yhdysvaltojen viranomaiset eivät vielä ole vahvistaneet tapausta. Toisen yhdysvaltalaisen hävittäjälentäjän pelastusoperaatio on yhä käynnisssä.",
+          "date": "2026-04-03T21:05:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011924107.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Uraani on piilossa maan alla sukellus­pullojen kaltaisissa säiliöissä: operaatio olisi USA:lle vaikea",
+          "content": "Iraniin piilotettujen uraanisäiliöiden noutamiseen tai tuhoamiseen on koulutettu erikoisjoukot. Ne voisivat mennä paikalle joko mahdollisimman huomaamattomasti tai täydellä ryminällä.",
+          "date": "2026-04-02T14:34:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011888377.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ruotsi vapautti öljyvuodosta epäillyn aluksen",
       "mainCategories": [
         "Ulkomaat",
         "Ympäristö",
@@ -74,6 +227,18 @@
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ruotsi vapautti öljy­vuodosta epäillyn tankkerin",
+          "content": "Kahta miehistön jäsenistä epäillään rikoksista.",
+          "date": "2026-04-03T20:03:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011924144.html"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -115,6 +280,18 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011923646.html"
         },
         {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ruotsi päästi öljyvuodosta epäillyn öljytankkerin matkoihinsa",
+          "content": "Gotlannin saaren lähistölle syntynyt öljyvuoto on 12 kilometrin pituinen. Suomenlahdelta liikkeelle lähteneen aluksen kerrotaan olevan myös EU:n pakotelistalla.  Ruotsi on päästänyt menemään Flora 1 -aluksen, jonka maan rannikkovartiosto pysäytti varhain perjantaiaamuna, uutisoi Reuters. Viranomainen nousi tuolloin alukselle Ystadin eteläpuolella.",
+          "date": "2026-04-03T08:11:32.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/3267039b-127f-4fd1-b273-6561391cc3c4"
+        },
+        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -153,18 +330,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011924095.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Järkytys 2-vuotiaan kuolemasta leviää Vantaalla – ”Eihän tuollaisia sänkyjä voi olla”",
-          "content": "Vantaalla toivotaan, että asia tutkitaan tarkasti ja mahdolliset puutteet korjataan. Vantaalla on pitkäperjantaina hiljaista. Kolmen aikoihin iltapäivällä Kelokuusen päiväkodilla ei ole ristin sielua. Ohi kulkee satunnaisia lenkkeilijöitä. Samassa päiväkodissa tapahtui maaliskuussa vakava onnettomuus, jonka seurauksena 2-vuotias lapsi kuoli.",
-          "date": "2026-04-03T14:26:29.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/b14ea715-781a-4491-8f9b-bae8c66ab8d5"
         },
         {
           "publisherId": "is",
@@ -290,120 +455,10 @@
       ]
     },
     {
-      "mainTitle": "Kuuba armahtaa yli 2000 vankia",
+      "mainTitle": "Raiskaus epäilty Tallink Siljan laivalla",
       "mainCategories": [
-        "Kuuba",
-        "Vangit",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuuba vapauttaa 2 000 vankia",
-          "content": "Ensimmäiset pääsivät vapauteen perjantaina. Kuuba ei kertonut, oliko vapautettujen joukossa poliittisia vankeja.",
-          "date": "2026-04-03T16:38:44.000Z",
-          "categories": [
-            "turvallisuus",
-            "kuuba",
-            "vangit",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218962?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuubassa armahdetaan yli 2000 vankia",
-          "content": "",
-          "date": "2026-04-03T10:21:52.000Z",
-          "categories": [
-            "rikokset",
-            "kuuba",
-            "vangit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218942?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump uhkaa Irania voimakkailla iskuilla",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump anoo historiallista summaa Yhdysvaltojen asevoimille",
-          "content": "Trumpin pyynnön taustalla vaikuttaa jatkunut Iranin sota.",
-          "date": "2026-04-03T16:37:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011924003.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Iran iski Trumpin puheen jälkeen Israeliin ja vannoi \"nöyryytystä\" Yhdysvalloille",
-          "content": "Iran vastasi Trumpin puheeseen sodan jatkamisesta Lähi-idässä omilla uhkauksillaan.",
-          "date": "2026-04-02T09:53:10.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/iran-iski-trumpin-puheen-jalkeen-israeliin-ja-vann/13434999?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Presidentti Trump uhosi puheessaan: ”Palautamme Iranin kivikaudelle”",
-          "content": "Trumpin mukaan Yhdysvallat aikoo iskeä kovaa Iraniin tulevina kahtena tai kolmena viikkona.",
-          "date": "2026-04-02T08:43:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920893.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lue tästä: Näin Trump puhui yöllä",
-          "content": "Donald Trumpin mukaan Yhdysvallat aikoo iskeä Iraniin kovaa seuraavina viikkoina.",
-          "date": "2026-04-02T04:09:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920085.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Trump sanoo, että tulevina viikkoina Yhdysvallat iskee Iraniin ”äärimmäisen kovaa”",
-          "content": "Trump uhkasi Irania, mutta väitti heti perään neuvotteluiden olevan käynnissä.",
-          "date": "2026-04-02T03:59:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011919913.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Epäilty raiskaus Tallink Siljalla",
-      "mainCategories": [
-        "Kotimaa",
         "Suomi",
+        "Kotimaa",
         "Rikosepäilyt"
       ],
       "imageUrl": "",
@@ -448,18 +503,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011923904.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tallink Siljalla epäillään raiskausta viime yönä – Epäilty otettu kiinni Ruotsissa",
-          "content": "Epäilty rikos tapahtui pitkäperjantain vastaisena yönä risteilyaluksella. Tallink Siljan Baltic Princess -risteilyaluksella on tapahtunut epäilty raiskaus. Asian Iltalehdelle vahvistaa Tallink Siljan viestintäjohtaja Marika Nöjd. Nöjdin mukaan epäilty rikos tapahtui perjantain vastaisena yönä risteilyaluksella. Aluksen saapuessa Tukholmaan pitkäperjantaina aamulla vastassa oli Tukholman poliisi, joka tutkii tapausta.",
-          "date": "2026-04-03T13:07:20.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/997f9a35-5e2f-48a3-b678-5b1d5a919c47"
         }
       ]
     },
@@ -470,7 +513,7 @@
         "Yhdysvallat",
         "Osavaltiot"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/6.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -509,7 +552,7 @@
         "Ulkomaat",
         "Kenraalit"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -615,164 +658,6 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisen juhlintaa eri puolilla maailmaa",
-      "mainCategories": [
-        "Juhlat",
-        "Pääsiäinen",
-        "Perinteet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen tunnelmia maailmalta – katso kuvat ja videot",
-          "content": "Paikallinen kulttuuri värittää juhlintaa jokaisessa maassa.",
-          "date": "2026-04-03T13:46:40.000Z",
-          "categories": [
-            "juhlat",
-            "pääsiäinen",
-            "perinteet",
-            "vuotuisjuhlat",
-            "uskonnot",
-            "yle uutiset somenostot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218915?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Turun pääsiäinen tarjoaa musiikkia velhomaailmasta, historiaa, kaneja ja kukkaloistoa – nappaa tästä täsmätärpit",
-          "content": "",
-          "date": "2026-04-02T16:00:00.000Z",
-          "categories": [
-            "pääsiäinen",
-            "tapahtumat",
-            "kaupunkielämä",
-            "juhlat",
-            "viihde",
-            "paikalliset",
-            "turku",
-            "musiikki",
-            "perhe",
-            "menot",
-            "kirkot",
-            "turun linna",
-            "museot",
-            "elämäntapa"
-          ],
-          "link": "https://www.ts.fi/a/6945111"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kreetalla epätodellinen hiekkapölyilmiö",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Suosikki­lomakohde peittyi punaiseen",
-          "content": "Kreetalla maisemat muuttuivat tällä viikolla epätodellisen näköisiksi. Kreikan suositulla lomasaarella Kreetalla todistettiin tällä viikolla epätodellisen näköistä sääilmiötä.",
-          "date": "2026-04-03T13:39:09.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/c4258ac5-1d14-4533-b333-d986fc81f88f"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sääilmiöt | Kreeta värjäytyi oranssiksi",
-          "content": "Kreikan suurimman saaren maisemat muuttuivat epätodellisiksi Saharasta kantautuneen hiekkapölyn vuoksi.",
-          "date": "2026-04-02T16:31:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011922988.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hormuzinsalmen avaamisesta neuvotellaan kansainvälisesti",
-      "mainCategories": [
-        "Britannia",
-        "Hormuzinsalmi",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Trump: Yhdysvallat voi avata Hormuzinsalmen helposti – KL seuraa",
-          "content": "The Wall Street Journalin mukaan Yhdysvaltain presidentti Donald Trump on valmis lopettamaan Iranin sodan, vaikka strategisesti tärkeä Hormuzinsalmi jäisi suurelta osin suljetuksi. Kauppalehti seuraa sodan päätapahtumia ja markkinoiden tilannetta hetki hetkeltä.",
-          "date": "2026-04-03T12:44:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/f48ba707-34fd-491c-b82b-10d0fe78f79c"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kymmenet maat pohtivat keinoja avata Hormuzinsalmi – Britannian ulkoministeri: Iran toimii holtittomasti",
-          "content": "Iran sulki maailman­taloudelle tärkeän Hormuzinsalmen sen jälkeen, kun Yhdysvallat ja Israel olivat hyökänneet sinne helmikuun lopulla.",
-          "date": "2026-04-02T15:24:11.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "britannia",
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "hormuzinsalmi",
-            "öljyn hinta",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218831?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Johtaako Hormuzinsalmen sulku 1970-luvun öljykriisin kaltaiseen hurjaan inflaatioon? Tuskin, sanovat asiantuntijat",
-          "content": "Hormuzinsalmen sulkua verrataan 1970-luvun öljykriisiin, mutta nykyisin Suomessa riippuvuus öljystä on vähäisempää kuin 53 vuotta sitten. Tuolloin energiansäästöön opastettiin myös Ylessä.",
-          "date": "2026-04-02T08:04:53.000Z",
-          "categories": [
-            "talous",
-            "öljy ja kaasu",
-            "öljyntuotanto",
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "energiakriisi",
-            "1970-luku",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20217759?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "IS:n tiedot: Johtajat neuvottelevat Hormuzinsalmen avaamisesta – Suomi mukana",
-          "content": "Britannia isännöi torstaina neuvotteluja, jossa arvioidaan kaikkia keinoja Hormuzinsalmen avaamiseksi.",
-          "date": "2026-04-02T07:57:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011920982.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Suomi kehittää omaa vaaratiedotussovellusta",
       "mainCategories": [
         "Kotimaa",
@@ -830,7 +715,7 @@
       ]
     },
     {
-      "mainTitle": "Sotilas- ja siviilidroonien erottaminen ohjeistettu",
+      "mainTitle": "Sotilasdroonit ja siviilidroonit erottuvat ohjeilla",
       "mainCategories": [
         "Turvallisuus",
         "Droonit",
@@ -932,7 +817,7 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisen menoliikenne sujuu vilkkaasti",
+      "mainTitle": "Pääsiäisen menoliikenne sujuu hyvin",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -959,8 +844,8 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Pääsiäisen menoliikenne on sujunut rauhallisesti – IL seuraa pääsiäisen viettoa",
-          "content": "Fintrafficin mukaan pitkäperjantaina pääsiäisen menoliikenne on sujunut mallikkaasti.  Tänään pitkäperjantaina on pääsiäisen menoliikenteen toinen päivä. Fintraffic tiedotti aiemmin, että pääsiäisliikenteen vilkkaimmat päivät ovat kiirastorstai ja toinen pääsiäispäivä eli maanantai. Menoliikenteessä oli vilkasta tänään kello 11–12 välillä.",
+          "title": "Raju tulipalo Helsingin Roihuvuoressa – IL seuraa pääsiäisen viettoa",
+          "content": "Iltalehti seuraa pääsiäisen kulkua tässä artikkelissa. Tänään pitkäperjantaina on pääsiäisen menoliikenteen toinen päivä. Fintraffic tiedotti aiemmin, että pääsiäisliikenteen vilkkaimmat päivät ovat kiirastorstai ja toinen pääsiäispäivä eli maanantai. Menoliikenteessä oli vilkasta tänään kello 11–12 välillä.",
           "date": "2026-04-03T05:22:29.000Z",
           "categories": [
             "kotimaa"
@@ -1004,25 +889,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20218688?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisliikenne on vilkkaimmillaan tänään",
-          "content": "",
-          "date": "2026-04-02T00:45:16.000Z",
-          "categories": [
-            "liikenne",
-            "pääsiäisliikenne",
-            "kiirastorstai",
-            "pääsiäispyhät",
-            "tieliikenne",
-            "liikenneruuhkat",
-            "pääsiäinen",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218676?origin=rss"
         }
       ]
     },
@@ -1115,12 +981,12 @@
       ]
     },
     {
-      "mainTitle": "Trumpin Nato-puheiden kritiikkiä Euroopassa",
+      "mainTitle": "Kallas ja Tusk kritisoivat Trumpin puheita",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1155,7 +1021,7 @@
         "Pörssit",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1218,7 +1084,7 @@
       ]
     },
     {
-      "mainTitle": "2 500 vuotta vanha kypärä löytyi",
+      "mainTitle": "2 500 vuotta vanha kulta­kypärä löytyi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1316,18 +1182,6 @@
             "yhdysvaltalaiset poliitikot"
           ],
           "link": "https://yle.fi/a/74-20218888?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "CNN:n lähteet: Trump suunnittelee Pam Bondin erottamista",
-          "content": "Bondia on kritisoitu Epstein-asiakirjojen julkaisun hoitamisesta.",
-          "date": "2026-04-02T04:45:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920114.html"
         }
       ]
     },
@@ -1371,7 +1225,7 @@
       ]
     },
     {
-      "mainTitle": "Hylkeenpoikaset palautettiin veteen Kokkolassa",
+      "mainTitle": "Hylkeenpoikaset palautettu veteen Kokkolassa ja Helsingissä",
       "mainCategories": [
         "Kotimaa",
         "Luonto",
@@ -1418,7 +1272,7 @@
       ]
     },
     {
-      "mainTitle": "Konalan haulikkotapauksen käsittely alkaa",
+      "mainTitle": "Konalan haulikkotapaus ja tuomiot",
       "mainCategories": [
         "Kotimaa",
         "Oikeudenkäynnit",
@@ -1458,43 +1312,60 @@
       ]
     },
     {
-      "mainTitle": "Vapaaehtoiset elvyttäjät kielletty Keski-Suomessa",
+      "mainTitle": "Maat neuvottelevat Hormuzinsalmen avaamisesta",
       "mainCategories": [
-        "Hyvinvointialueet",
-        "Defibrillaattorit",
-        "Ensihoito"
+        "Britannia",
+        "Hormuzinsalmi",
+        "Ulkomaat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ensiapu | Vapaa­ehtoisia kyläläisiä ei saa hälyttää elvyttämään, viran­omainen linjasi",
-          "content": "Keski-Suomessa äkillisissä sydämenpysähdyksissä paikalle on aiemmin hälytetty myös vapaa­ehtoisia auttajia. Viranomaisen mukaan näin ei olisi saanut toimia.",
-          "date": "2026-04-02T15:22:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kymmenet maat pohtivat keinoja avata Hormuzinsalmi – Britannian ulkoministeri: Iran toimii holtittomasti",
+          "content": "Iran sulki maailman­taloudelle tärkeän Hormuzinsalmen sen jälkeen, kun Yhdysvallat ja Israel olivat hyökänneet sinne helmikuun lopulla.",
+          "date": "2026-04-02T15:24:11.000Z",
           "categories": [
-            "suomi"
+            "kansainvälinen politiikka",
+            "britannia",
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "hormuzinsalmi",
+            "öljyn hinta",
+            "ulkomaat"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000011920857.html"
+          "link": "https://yle.fi/a/74-20218831?origin=rss"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Keski-Suomen hyvinvointialue sai huomautuksen yhteistyöstä kyläyhdistysten kanssa – luopuu sy­dän­is­ku­rir­yh­mis­tä",
-          "content": "Keski-Suomen hyvinvointialue hyödynsi syrjäseutujen elvytys­tehtävissä vapaaehtoisia auttajia. Lain mukaan se ei ole sallittua.",
-          "date": "2026-04-02T14:44:05.000Z",
+          "title": "Johtaako Hormuzinsalmen sulku 1970-luvun öljykriisin kaltaiseen hurjaan inflaatioon? Tuskin, sanovat asiantuntijat",
+          "content": "Hormuzinsalmen sulkua verrataan 1970-luvun öljykriisiin, mutta nykyisin Suomessa riippuvuus öljystä on vähäisempää kuin 53 vuotta sitten. Tuolloin energiansäästöön opastettiin myös Ylessä.",
+          "date": "2026-04-02T08:04:53.000Z",
           "categories": [
-            "hyvinvointialueet",
-            "keski-suomen hyvinvointialue",
-            "defibrillaattorit",
-            "lupa- ja valvontavirasto",
-            "ensihoito",
-            "keski-suomi",
+            "talous",
+            "öljy ja kaasu",
+            "öljyntuotanto",
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "energiakriisi",
+            "1970-luku",
             "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20218706?origin=rss"
+          "link": "https://yle.fi/a/74-20217759?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "IS:n tiedot: Johtajat neuvottelevat Hormuzinsalmen avaamisesta – Suomi mukana",
+          "content": "Britannia isännöi torstaina neuvotteluja, jossa arvioidaan kaikkia keinoja Hormuzinsalmen avaamiseksi.",
+          "date": "2026-04-02T07:57:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011920982.html"
         }
       ]
     },
@@ -1545,7 +1416,7 @@
       ]
     },
     {
-      "mainTitle": "Savonlinnan tulipalon murhatutkinta jatkuu",
+      "mainTitle": "Savonlinnan tulipalon murhatutkinta etenee",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -1615,74 +1486,6 @@
       ]
     },
     {
-      "mainTitle": "Heinolan kierrätyshallin tulipalo kesti 14 tuntia",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Heinolassa paloi akkujen kierrätyshalli 14 tuntia – tuuli vaikeutti sammuttamista",
-          "content": "Akut räjähtelivät ja palosta aiheutui paljon mustaa savua.",
-          "date": "2026-04-02T11:39:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011919101.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Heinola | Kierrätysterminaali paloi 14 tuntia",
-          "content": "Hallia sammutettiin läpi yön.",
-          "date": "2026-04-02T02:32:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011919219.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pääsiäisen sää vaihteleva eri puolilla.",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Pääsiäisenä voi tulla räntää ja lunta",
-          "content": "Poutaisinta pääsiäisenä on maan pohjoisosassa.",
-          "date": "2026-04-02T11:36:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011921657.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tänne ei pääsiäisenä kannata lähteä kesä­renkailla – katso jätti­listaus pääsiäis­säästä 102 paikka­kunnalle",
-          "content": "Pääsiäisen sää on melkoinen sekamelska, mutta osassa maata päästään nauttimaan keväisestä säästä ja talviaktiviteetitkin ovat mahdollisia.",
-          "date": "2026-04-02T03:30:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011917873.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Sukellusonnettomuudet johtivat kuolemaan ja pelastuksiin",
       "mainCategories": [
         "Kotimaa",
@@ -1725,74 +1528,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000011921228.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Italian puolustusministeri huolissaan Iranin sodasta",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/italia/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Italian puolustusministeri sanoo menettäneensä yöunensa öljykriisin takia",
-          "content": "Guido Crosetto pelkää Iranin sodan seurauksia.",
-          "date": "2026-04-01T22:53:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011920029.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Italian puolustusministerin yöunet menivät – ”Tiedän, mitä voi tapahtua”",
-          "content": "Italian puolustusministeri pelkää Iranin sodan seurauksia.",
-          "date": "2026-04-01T22:34:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011920017.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Alppieron ilmiö sosiaalisessa mediassa.",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sosiaalinen media | ”Alppierossa” mies jättää naisen yksin metsään, erämaahan tai vuorille",
-          "content": "Some alkoi täyttyä alppierotarinoista, kun 37-vuotias itävaltalaismies sai tuomion naisystävänsä jättämisestä vuorelle.",
-          "date": "2026-04-01T21:10:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011899512.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Jättikö kumppanisi sinut metsään? Saatat olla ”alppieron” uhri",
-          "content": "Some alkoi täyttyä alppierotarinoista, kun 37-vuotias itävaltalaismies sai tuomion naisystävänsä jättämisestä vuorelle.",
-          "date": "2026-04-01T21:08:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011917306.html"
         }
       ]
     }
