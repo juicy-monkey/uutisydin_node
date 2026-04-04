@@ -1,72 +1,91 @@
 {
-  "timestamp": "2026-04-04T18:37:56.079Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
-  "feeds": [
+  "timestamp": "2026-04-04T19:28:54.547Z",
+  "successCount": 13,
+  "failureCount": 9,
+  "failedFeeds": [
     {
-      "mainTitle": "Paavi Leo johtaa pääsiäismessua Vatikaanissa",
-      "mainCategories": [
-        "Juhlat",
-        "Pääsiäinen",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/paavi/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Paavi Leo johtaa pääsiäisyön messua – katso suorana klo 22 alkaen",
-          "content": "Paavi Leo johtaa pääsiäisyön messua nyt ensimmäistä kertaa.",
-          "date": "2026-04-04T18:25:13.000Z",
-          "categories": [
-            "juhlat",
-            "pääsiäinen",
-            "leo xiv",
-            "vatikaani",
-            "katolinen kirkko",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218998?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Paavi johti Via Crucis -kulkuetta Roomassa",
-          "content": "Paavi Leo kantoi itse ristiä amfi­teatterilla.",
-          "date": "2026-04-03T18:25:26.000Z",
-          "categories": [
-            "juhlat",
-            "pääsiäinen",
-            "via crucis",
-            "leo xiv",
-            "rooma",
-            "colosseum",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218939?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Paavi pitää pitkän­perjantain jumalanpalveluksen Vatikaanissa",
-          "content": "Paavi Leo valittiin katolisen kirkon johtajaksi toukokuussa.",
-          "date": "2026-04-03T14:29:56.000Z",
-          "categories": [
-            "juhlat",
-            "pääsiäinen",
-            "leo xiv",
-            "vatikaani",
-            "pitkäperjantai",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218938?origin=rss"
-        }
-      ]
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
     },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
+  "feeds": [
     {
       "mainTitle": "Suomalaisyritys solmi miljoonadiilin Ukrainassa",
       "mainCategories": [],
@@ -99,18 +118,19 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvallat etsii kadonnutta lentäjää Iranissa",
+      "mainTitle": "Lähi-idän tilanne kiristyy öljyn vuoksi",
       "mainCategories": [
         "Ulkomaat",
-        "Konfliktit"
+        "Maailma",
+        "Taloussanomat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Tämä tiedetään amerikkalais­lentäjän etsinnöistä",
+          "title": "Amerikkalainen hävittäjä­lentäjä yhä kateissa Lähi-idässä – tätä Iranin käsiin joutuminen tarkoittaisi",
           "content": "Jos lentäjä päätyy Iranin käsiin, voi se kiristää Yhdysvaltoja ja nöyryyttää Trumpia.",
           "date": "2026-04-04T18:06:00.000Z",
           "categories": [
@@ -118,57 +138,6 @@
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011925072.html"
         },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yhdysvallat etsii kadonnutta lentäjää kilpaa Iranin kanssa – tällainen on vaarallinen tehtävä syvällä vihollisvaltiossa",
-          "content": "Yhdysvaltain joukot etsivät nyt kuumeisesti perjantaina alas ammuttua lentäjää.",
-          "date": "2026-04-04T13:06:24.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "lähi-itä",
-            "yhdysvaltain armeijan erikoisjoukot",
-            "konfliktit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20219010?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "USA etsii nyt kuumeisesti hävittäjä­lentäjää – Iran tarjonnut muhkeaa palkkiota",
-          "content": "CNN:n tietojen mukaan Yhdysvallat on menettänyt Iranin sodassa yhteensä jo seitsemän ilma-alusta.",
-          "date": "2026-04-04T08:20:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011924440.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iran ampui yhdysvaltalaisen hävittäjän alas – näin tapahtumat etenivät",
-          "content": "Yhdysvaltojen viranomaiset eivät vielä ole vahvistaneet tapausta. Toisen yhdysvaltalaisen hävittäjälentäjän pelastusoperaatio on yhä käynnisssä.",
-          "date": "2026-04-03T21:05:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011924107.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hormuzinsalmen tilanne kiristyy öljyn vuoksi",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma",
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/trump/3.jpg",
-      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -220,11 +189,44 @@
       ]
     },
     {
-      "mainTitle": "Droonien havaitsemiseen ja torjuntaan varaudutaan",
+      "mainTitle": "Venäjä iski torille Ukrainassa, viisi kuollut",
       "mainCategories": [
-        "Kotimaa",
-        "Turvallisuus",
-        "Suomenlahti"
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/2.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän hyökkäys | Venäjä iski aamu­torille Ukrainan Nikopolissa, ainakin viisi ihmistä kuoli",
+          "content": "Venäjä on iskenyt Ukrainaan viime päivinä drooneilla myös valoisaan aikaan.",
+          "date": "2026-04-04T16:36:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011924914.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjä iski lennokeilla torille keskellä kirkasta päivää",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
+          "date": "2026-04-04T15:53:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011882042.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Droonihavaintoihin varaudutaan Suomessa",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -251,96 +253,11 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011924708.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomenlahden merivartiosto harjoittelee droonitorjuntaa Kotkan edustalla – apulais­komentaja: ”Toimintaa tehostettu uhan vuoksi”",
-          "content": "Ampumaharjoitus liittyy toiminnan tehostamiseen itäisellä Suomenlahdella.",
-          "date": "2026-04-04T10:32:30.000Z",
-          "categories": [
-            "turvallisuus",
-            "suomenlahti",
-            "rajavartiolaitos",
-            "merivartiostot",
-            "kotka",
-            "ampumaharjoitukset",
-            "itämeri",
-            "rajavalvonta",
-            "droonit",
-            "ilmatila",
-            "kymenlaakso",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20219011?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ukraina iskee Venäjän öljyinfraan",
-      "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Itämeri"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ukraina iskee nyt Venäjän öljyn­viennin koko ketjuun – Venäjä voi joutua leikkaamaan öljyntuotantoa",
-          "content": "Ukraina on iskenyt öljy­putkia, -jalostamoja ja satamia vastaan. Iskujen vaikutukset kasautuvat, sanoo Venäjän energia­politiikan asiantuntija.",
-          "date": "2026-04-04T15:58:20.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "koivisto",
-            "laukaansuu",
-            "laukaansuun satama",
-            "koiviston öljysatama",
-            "venäjä",
-            "itämeri",
-            "drooni-iskut",
-            "ukraina",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218996?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjä iski lennokeilla torille keskellä kirkasta päivää",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
-          "date": "2026-04-04T15:53:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011882042.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Reuters: Laukaansuun ja Koiviston öljysatamat kykenemättömiä toimituksiin toista viikkoa peräkkäin",
-          "content": "Ukrainan lennokki-iskut maaliskuun lopulla vaurioittivat Laukaansuun ja Koiviston öljysatamien infrastruktuuria.",
-          "date": "2026-04-04T00:37:03.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "öljy",
-            "talous",
-            "öljyn vienti",
-            "itämeri",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218974?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tievero herättää keskustelua autoilusta Suomessa",
+      "mainTitle": "Tievero herättää keskustelua autoilun verotuksesta",
       "mainCategories": [
         "Politiikka"
       ],
@@ -375,105 +292,13 @@
       ]
     },
     {
-      "mainTitle": "Kuuba vapauttaa 2 000 vankia",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Kuuba",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Eläköön vapaus!” Kuuba armahtaa vankeja, mikä voi olla merkki neuvottelujen etenemisestä Yhdysvaltojen kanssa",
-          "content": "USA:n pakote­politiikka on syössyt Kuuban kriisiin. Vankien vapauttaminen ja Venäjän öljytoimitukset saattavat kieliä umpisolmun avautumisesta.",
-          "date": "2026-04-04T15:11:21.000Z",
-          "categories": [
-            "yhdysvallat",
-            "kuuba",
-            "kuuban politiikka",
-            "pakotteet",
-            "kansainväliset pakotteet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20219003?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuuba vapauttaa 2 000 vankia",
-          "content": "Ensimmäiset pääsivät vapauteen perjantaina. Kuuba ei kertonut, oliko vapautettujen joukossa poliittisia vankeja.",
-          "date": "2026-04-03T16:38:44.000Z",
-          "categories": [
-            "turvallisuus",
-            "kuuba",
-            "vangit",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218962?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Artemis 2 -lento matkalla Kuuhun",
-      "mainCategories": [
-        "Avaruus",
-        "Avaruuslennot",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuulento Artemis 2 on jo kaukana ja lähellä kuuta – katso kuvat",
-          "content": "Uusi kuulento on monen vuoden työn tulos. Se on vain ensimmäinen askel. Tarkoitus on perustaa Kuuhun tukikohta Marsin valloitusta varten.",
-          "date": "2026-04-04T13:59:23.000Z",
-          "categories": [
-            "avaruus",
-            "avaruusohjelmat",
-            "tiede",
-            "avaruusalukset",
-            "kuu",
-            "maa",
-            "nasa",
-            "astronautit",
-            "avaruuslennot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20219018?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Artemis 2 -lento ohitti puolivälin matkallaan kohti Kuuta",
-          "content": "",
-          "date": "2026-04-04T07:22:25.000Z",
-          "categories": [
-            "avaruus",
-            "avaruuslennot",
-            "miehitetyt avaruuslennot",
-            "kuulento",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218990?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iran väittää alasottaneensa Yhdysvaltojen hävittäjän",
+      "mainTitle": "Iranin sota: Yhdysvaltojen hävittäjiä alasammutaan",
       "mainCategories": [
         "Maailma",
-        "Iran",
-        "Yhdysvallat"
+        "Ulkomaat",
+        "Iran"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -486,6 +311,18 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011924458.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "USA etsii nyt kuumeisesti hävittäjä­lentäjää – Iran tarjonnut muhkeaa palkkiota",
+          "content": "CNN:n tietojen mukaan Yhdysvallat on menettänyt Iranin sodassa yhteensä jo seitsemän ilma-alusta.",
+          "date": "2026-04-04T08:20:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011924440.html"
         },
         {
           "publisherId": "ts",
@@ -506,47 +343,7 @@
       ]
     },
     {
-      "mainTitle": "Pelastuslaitos auttoi eläimiä takaisin luontoon",
-      "mainCategories": [
-        "Kotimaa",
-        "Eläimet",
-        "Kokkola"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pelastuslaitos avitti pihapiiriin eksyneen kuutin takaisin mereen Kokkolassa",
-          "content": "",
-          "date": "2026-04-04T13:48:11.000Z",
-          "categories": [
-            "eläimet",
-            "kokkola",
-            "pelastustoimi",
-            "hylkeet",
-            "kotimaa",
-            "keski-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20219024?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hirvi putosi jäihin Kuusamossa – pelastusoperaatiolla onnellinen loppu",
-          "content": "Pelastuslaitos sahasi hirvelle väylän jäältä rantaan.",
-          "date": "2026-04-04T12:21:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011924726.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tallink Siljalla epäilty raiskaus tapahtui",
+      "mainTitle": "Epäilty raiskaus Tallink Siljalla Suomessa",
       "mainCategories": [
         "Kotimaa",
         "Suomi",
@@ -634,118 +431,6 @@
       ]
     },
     {
-      "mainTitle": "Betonilaatan alle jäänyt ihminen kuoli",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Muhos"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Poliisilta uutta tietoa hirvittävästä onnetto­muudesta Muhoksella",
-          "content": "Oulun poliisi vahvistaa, että se tutkii onnettomuutta, jossa aikuinen ihminen jäi betonilaatan alle ja kuoli. Turma tapahtui pitkäperjantaina noin kello yhdeltätoista aamupäivällä. Paikalle Muhoksen keskustan läheiselle omakotitaloalueelle saapui useita pelastuslaitoksen yksiköitä, mutta mitään ei ollut tehtävissä uhrin pelastamiseksi. Rikoskomisario Teuvo Nissilä kertoo, että Oulun poliisi tutkii tapahtunutta kuolemansyyntutkintana.",
-          "date": "2026-04-04T12:30:36.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/45aa26bd-50df-4991-8764-ca3739057dee"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ihminen kuoli betonilaatan alle Muhoksella",
-          "content": "",
-          "date": "2026-04-03T10:02:21.000Z",
-          "categories": [
-            "onnettomuudet",
-            "muhos",
-            "kotimaa",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20218941?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ihminen puristui kuoliaaksi betonilaatan alle Muhoksella",
-          "content": "Onnettomuus sattui ennen puoltapäivää perjantaina.",
-          "date": "2026-04-03T09:57:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011923684.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomi kehittää omaa vaaratiedotussovellusta",
-      "mainCategories": [
-        "Turvallisuus",
-        "Kotimaa",
-        "Puolustusvoimat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sotilaan viimeinen keino pieniä drooneja vastaan voi olla haulikko",
-          "content": "Suomessa siviilien yleisin ase voi olla sotilasjoukon viimeinen lukko pieniä drooneja vastaan.",
-          "date": "2026-04-04T11:05:35.000Z",
-          "categories": [
-            "turvallisuus",
-            "puolustusvoimat",
-            "maanpuolustus",
-            "droonihavainnot suomessa 2026",
-            "ampuminen",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218522?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomi sooloilee vaara­tiedottamisessa, asiantuntijat kysyvät miksi",
-          "content": "Suomi kehittelee omaa sovellustaan, vaikka Euroopassa on toimiva hälytysjärjestelmä.",
-          "date": "2026-04-03T12:33:25.000Z",
-          "categories": [
-            "turvallisuus",
-            "droonihavainnot suomessa 2026",
-            "droonit",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218944?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin kaikki eteni, kun kaksi Ukrainan droonia ilmestyi Suomen ilmatilaan",
-          "content": "Suomen ilmatilassa lensi kaksi droonia, joista ainakin toinen oli lastattu räjähteellä. Tästä ei kerrottu edes alueen viranomaisille.",
-          "date": "2026-04-03T02:30:35.000Z",
-          "categories": [
-            "turvallisuus",
-            "droonit",
-            "droonien havaitseminen, seuranta & neutralointi",
-            "valtioneuvosto",
-            "puolustusvoimat",
-            "droonihavainnot suomessa 2026",
-            "politiikka",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218510?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Suomi kotiutti alaikäisen pojan Irakista",
       "mainCategories": [
         "Kotimaa",
@@ -796,48 +481,7 @@
       ]
     },
     {
-      "mainTitle": "Pilkkijä hukkui Saarijärvellä lauantaina",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Hukkuminen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pilkkijä hukkui Saarijärvellä",
-          "content": "Poliisi ei epäile asiassa rikosta.",
-          "date": "2026-04-04T09:56:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011924645.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pilkkijä hukkui Saarijärvellä",
-          "content": "Pelastuslaitos sai hälytyksen tehtävälle kello 11 jälkeen lauantaina aamupäivällä.",
-          "date": "2026-04-04T09:52:01.000Z",
-          "categories": [
-            "onnettomuudet",
-            "hukkuminen",
-            "saarijärvi",
-            "pilkintä",
-            "onnettomuudet heikoilla jäillä",
-            "keski-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218997?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yrittäjiltä ehdotus tukea esikoiselle",
+      "mainTitle": "Yrittäjiltä ehdotus tukea esikoislapselle",
       "mainCategories": [
         "Politiikka",
         "Taloussanomat"
@@ -871,179 +515,13 @@
       ]
     },
     {
-      "mainTitle": "Vantaan päiväkotiturmassa kuoli 2-vuotias lapsi",
+      "mainTitle": "Ruotsi päästi öljyvuodosta epäillyn aluksen",
       "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Päiväkodit"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "STT: Vantaan kaupunki tarkentaa ohjetta päivä­kotien kaappi­sängyistä",
-          "content": "Onnettomuuden jälkeen kaikkiin kaupungin päiväkoteihin tulee esille uusi ohje.",
-          "date": "2026-04-04T06:46:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011924095.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin traaginen turma tapahtui päiväkodissa – 2-vuotias lapsi nukkui",
-          "content": "Kaappisängyssä nukkunut lapsi menehtyi päiväkotiturmassa.",
-          "date": "2026-04-03T09:55:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011923605.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Päiväkoti­onnettomuuden seurauksena kuollutta 2-vuotiasta muistetaan suruliputuksella",
-          "content": "Vantaan kaupunki esittää pahoittelunsa ja osanottonsa.",
-          "date": "2026-04-03T09:11:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011923624.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Päiväkodissa loukkaantunut 2-vuotias lapsi on kuollut",
-          "content": "Lapsi puristui sängyn ja seinän väliin Vantaalla.",
-          "date": "2026-04-03T08:45:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011923566.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Vantaan päiväkotiturmassa loukkaantunut lapsi on kuollut",
-          "content": "",
-          "date": "2026-04-03T08:28:21.000Z",
-          "categories": [
-            "onnettomuudet",
-            "poliisi",
-            "päiväkodit",
-            "rikosepäilyt",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6945908"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vantaan päivä­koti­onnettomuudessa loukkaantunut lapsi on kuollut",
-          "content": "Päivähoidossa ollut kaksivuotias lapsi jäi kaappisängyn ja seinän väliin puristuksiin 24. maaliskuuta.",
-          "date": "2026-04-03T08:01:13.000Z",
-          "categories": [
-            "onnettomuudet",
-            "lapset",
-            "päiväkodit",
-            "kuolema",
-            "vantaa",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218931?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ylläksellä lunta riittää, metso säikyttelee",
-      "mainCategories": [
-        "Kotimaa",
-        "Matkailu",
-        "Ylläs"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ylläksellä riittää lunta laskettelijoille, Himoksella rinteitä on jouduttu kaventamaan",
-          "content": "",
-          "date": "2026-04-04T06:35:54.000Z",
-          "categories": [
-            "matkailu",
-            "ylläs",
-            "yllästunturi",
-            "laskettelu",
-            "jämsä",
-            "himos",
-            "kotimaa",
-            "lappi",
-            "keski-suomi"
-          ],
-          "link": "https://yle.fi/a/74-20218983?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ärhäkkä metso säikäyttelee hiihtäjiä Ylläksellä – “Ei kannata jäädä haastamaan”",
-          "content": "Osa hiihtäjistä on säikähtänyt kohtaamisia. Ylläkseltä kerrotaan, miten hyökkivään metsoon kannattaa suhtautua.",
-          "date": "2026-04-03T04:16:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011922076.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ruotsi vapautti öljyvuodosta epäillyn aluksen",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ympäristö",
-        "Öljyvuodot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ruotsi vapautti öljy­vuodosta epäillyn tankkerin",
-          "content": "Kahta miehistön jäsenistä epäillään rikoksista.",
-          "date": "2026-04-03T20:03:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011924144.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ruotsi päästi öljyvuodosta epäillyn tankkerin jatkamaan matkaansa",
-          "content": "",
-          "date": "2026-04-03T17:54:19.000Z",
-          "categories": [
-            "ympäristö",
-            "öljyvuodot",
-            "ruotsi",
-            "venäjän hyökkäys",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218966?origin=rss"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -1075,7 +553,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1105,38 +583,13 @@
       ]
     },
     {
-      "mainTitle": "Trumpin puolustusministeri erotti maavoimien komentajan",
+      "mainTitle": "USA:n maavoimien komentaja erosi",
       "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Puolustusministerit"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trumpin ”sota­ministeri” jatkaa ase­voimien puhdistuksia keskellä sotaa",
-          "content": "Puolustusministeri Pete Hegsethin ja asevoimien johdon jännitteet nousivat taas pintaan Yhdysvalloissa, kun Hegseth erotti maavoimien komentajan.",
-          "date": "2026-04-03T13:53:57.000Z",
-          "categories": [
-            "yhdysvallat",
-            "yhdysvaltain puolustusministeri",
-            "pete hegseth",
-            "yhdysvaltain asevoimat",
-            "yhdysvaltain asevoimat",
-            "yhdysvaltain puolustusministeriö",
-            "puolustusministerit",
-            "kenraalit",
-            "maavoimien komentajat",
-            "yhdysvaltain presidentti",
-            "pam bondi",
-            "donald trump",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20218930?origin=rss"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -1164,71 +617,12 @@
       ]
     },
     {
-      "mainTitle": "Pääsiäisen liikenne sujuu hyvin ja rauhoittuu",
-      "mainCategories": [
-        "Kotimaa",
-        "Liikenne",
-        "Pääsiäinen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen menoliikenne on sujunut hyvin pitkänäperjantaina",
-          "content": "Liikenne oli vilkkaimmillaan aamupäivällä, mutta iltapäivällä liikenne on jo rauhoittunut.",
-          "date": "2026-04-03T11:25:13.000Z",
-          "categories": [
-            "liikenne",
-            "pääsiäinen",
-            "fintraffic",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218945?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Mönkijällä liikkunut kaksikko tippui jäihin Pudasjärvellä – IL seuraa pääsiäisen viettoa",
-          "content": "Iltalehti seuraa pääsiäisen kulkua tässä artikkelissa. Lankalauantai on pääsiäisliikenteen kolmas päivä. Sen odotetaan sujuvan rauhallisesti. Fintraffic tiedotti aiemmin, että pääsiäisliikenteen vilkkaimmat päivät ovat kiirastorstai ja toinen pääsiäispäivä eli maanantai. Paluuliikenne vilkastuu sunnuntai-iltapäivästä eteenpäin.",
-          "date": "2026-04-03T05:22:29.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/7045578d-84d0-4622-b694-bb13e85cd3d9"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pääsiäisen menoliikenne jatkuu vilkkaana",
-          "content": "Pääsiäisen paluuliikenteen odotetaan vilkastuvan sunnuntai-iltapäivän ja -illan aikana.",
-          "date": "2026-04-03T01:17:35.000Z",
-          "categories": [
-            "liikenne",
-            "liikenne ja kuljetus",
-            "pääsiäinen",
-            "tieliikenne",
-            "pääsiäisliikenne",
-            "liikenneruuhkat",
-            "tieverkot",
-            "liikennesää",
-            "juhlapäivät",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20218911?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin Nato-puheita kritisoidaan voimakkaasti",
+      "mainTitle": "Kallas ja Tusk kritisoivat Trumpin puheita",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1253,55 +647,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011923324.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pörssit palautuivat, öljyn hinnat korkealla",
-      "mainCategories": [
-        "Talous",
-        "Pörssit",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "New Yorkin pörssit palautuivat alkupäivän sukelluksesta",
-          "content": "Raakaöljyn hinnat olivat koholla torstaina.",
-          "date": "2026-04-02T23:06:48.000Z",
-          "categories": [
-            "talous",
-            "pörssit",
-            "new yorkin pörssi",
-            "yhdysvallat",
-            "kaupankäynti",
-            "new york",
-            "yleisindeksi",
-            "dow jones industrial average -indeksi"
-          ],
-          "link": "https://yle.fi/a/74-20218910?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pörssikurssit kohentuivat päivän aikana, öljy yhä kallista",
-          "content": "Helsingin pörssi jopa nousi tänään.",
-          "date": "2026-04-02T18:42:20.000Z",
-          "categories": [
-            "talous",
-            "pörssit",
-            "ulkomaat",
-            "helsingin pörssi",
-            "euroopan pörssit",
-            "dow jones industrial average -indeksi",
-            "osakkeet ja arvopaperit",
-            "new yorkin pörssi"
-          ],
-          "link": "https://yle.fi/a/74-20218899?origin=rss"
         }
       ]
     }
