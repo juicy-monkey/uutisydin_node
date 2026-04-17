@@ -1,127 +1,53 @@
 {
-  "timestamp": "2026-04-17T13:10:56.683Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-04-17T14:38:52.830Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {
+        "code": "ECONNRESET"
+      }
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Hormuzinsalmen tilanne rauhoittuu hetkellisesti",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Iran avaa Hormuzin­salmen tuli­tauon ajaksi",
-          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
-          "date": "2026-04-17T13:09:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011909452.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "AFP: Kolme iranilais­tankkeria pääsi läpi Hormuzinsalmesta saarrosta huolimatta",
-          "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
-          "date": "2026-04-17T12:36:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011917601.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Analytiikkayritys: Kolme iranilaista tankkeria pääsi läpi Hormuzinsalmesta",
-          "content": "Hormuzinsalmen meriliikenne on ollut pitkään lähes täysin seisahduksissa.",
-          "date": "2026-04-17T12:16:37.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/analytiikkayritys-kolme-iranilaista-tankkeria-paas/13454731?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tärkeän Iran-kokouksen tulokset julkaistaan – suora lähetys kello 16.45",
-          "content": "Mahdollisen operaation tavoitteena on palauttaa merenkulun vapaus Hormuzinsalmessa.",
-          "date": "2026-04-17T11:48:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011951574.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Hormuzinsalmen voi kiertää, mutta nopeaa ratkaisua ei ole",
-          "content": "Hormuzinsalmen aiheuttamaa järjestelmätason riskiä maailmantaloudella voidaan hajauttaa vetämällä uusia öljyputkia. Oikotietä onneen ei kuitenkaan ole.",
-          "date": "2026-04-17T06:25:00.000Z",
-          "categories": [
-            "tilaajille",
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011941478.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hallitus leikkaa 100 miljoonaa sosiaalihuollosta",
+      "mainTitle": "Hallitus leikkaa sosiaalihuollosta 100 miljoonaa euroa",
       "mainCategories": [
         "Politiikka",
         "Sosiaalihuolto",
         "Valtiontalous"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sosiaalihuolto | Rydman: Vanhukset maksamaan itse enemmän palveluistaan",
+          "content": "Hallitus hakee säästöjä myös sosiaalihuollon työntekijöiden vähentämisellä.",
+          "date": "2026-04-17T14:38:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011948818.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
           "title": "Nyt tuli ratkaisu – näin hallitus leikkaisi 100 miljoonaa euroa sosiaalihuollosta",
           "content": "Sosiaali- ja terveysministeri Wille Rydman (ps) esitteli hallituksen ehdotusta sosiaalihuoltolain muutoksiksi perjantaina. Ehdotus sisältää noin 100 miljoonan euron leikkaukset.",
-          "date": "2026-04-17T12:59:00.000Z",
+          "date": "2026-04-17T14:03:00.000Z",
           "categories": [
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000011950748.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Hallitus aikoo tehdä 100 miljoonan euron säästöt sosiaalihuollosta",
-          "content": "",
-          "date": "2026-04-17T11:41:48.000Z",
-          "categories": [
-            "talouspolitiikka",
-            "politiikka",
-            "valtiontalous",
-            "sosiaalihuolto",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6957595"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sosiaalihuolto | Hallitus ehdottaa vanhusten palvelujen maksujen nostamista",
-          "content": "Hallitus tavoittelee 100 miljoonan euron säästöjä sosiaalihuollosta.",
-          "date": "2026-04-17T11:06:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011948818.html"
         },
         {
           "publisherId": "yle",
@@ -164,6 +90,537 @@
             "talous"
           ],
           "link": "https://yle.fi/a/74-20221115?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hormuzinsalmen avautuminen laskee öljyn hintaa",
+      "mainCategories": [
+        "Taloussanomat",
+        "Sijoittaminen"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Raakaöljyn hinta syöksyy, pörssit kiitävät – Näin Hormuzinsalmen avautuminen näkyy markkinoilla",
+          "content": "Uutiset tärkeän meriväylän avautumisesta laittoivat markkinoihin vipinää. Osakkeiden lisäksi liikkuivat muun muassa öljy, kaasu, kulta ja korot.",
+          "date": "2026-04-17T14:33:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/648cba23-48a5-426b-89a3-020bdaf6981f"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hormuzinsalmi auki – öljyn hinta notkahti heti alas",
+          "content": "Keskeinen öljyreitti on aiemmin ollut suljettuna Lähi-idän konfliktin vuoksi.",
+          "date": "2026-04-17T14:08:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011952125.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Jere Karalahdelle ehdollista vankeutta huumerikoksista",
+      "mainCategories": [
+        "Rikosepäilyt",
+        "Rikokset",
+        "Huumeet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ex-jääkiekkoilija Jere Karalahdelle ehdollista vankeutta törkeästä huumausainerikoksesta",
+          "content": "Karalahden syyte oli osa laajempaa huumejuttua. Päätekijöiksi katsottu kolmikko tuomittiin vuosien vankeusrangaistuksiin.",
+          "date": "2026-04-17T14:17:18.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/ex-jaakiekkoilija-jere-karalahdelle-ehdollista-van/13454704?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ex-jääkiekkoilija Jere Karalahdelle ehdollista vankeutta törkeästä huumausainerikoksesta",
+          "content": "Karalahden syytteet olivat osa laajempaa huumejuttua. Oikeus tuomitsi sen päätekijöinä kolmikon seitsemän, yhdeksän sekä kymmenen ja puolen vuoden vankeusrangaistuksiin.",
+          "date": "2026-04-17T08:01:35.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/ex-jaakiekkoilija-jere-karalahdelle-ehdollista-van/13454008?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Jere Karalahti tuomittiin törkeistä huumerikoksista – ehdollista vankeutta vuosi ja yhdeksän kuukautta",
+          "content": "Helsingin käräjäoikeus katsoi Karalahden syyllistyneen kokaiinin hallussa pitämiseen, syyte levittämisen osalta hylättiin.",
+          "date": "2026-04-17T07:06:29.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "rikokset",
+            "huumeet",
+            "huumeet ja rikollisuus",
+            "helsingin käräjäoikeus",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20214033?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lindtman kritisoi Mäkystä MTV:llä",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sdp | Lindtman kuittaa Mäkyselle MTV:llä – ”Ajatuksen­juoksussa on hiukan vaikea pysyä perässä”",
+          "content": "Sdp:n puheejohtajan Antti Lindtmanin mukaan ”mikään puolue ei ole keskustellut tämän vaalikauden aikana yhtä paljon kuin Sdp”.",
+          "date": "2026-04-17T14:17:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011952120.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Antti Lindtmanilta sivallus Matias Mäkyselle MTV:llä: ”Vaikea pysyä perässä”",
+          "content": "Sdp:n puheenjohtaja Antti Lindtman ei sulata Sdp:n varapuheenjohtajan Matias Mäkysen esittämää kritiikkiä.",
+          "date": "2026-04-17T12:52:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011951817.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hormuzinsalmi avoinna meriliikenteelle tulitauon ajan",
+      "mainCategories": [
+        "Ulkomaat",
+        "Hormuzinsalmi",
+        "Britannia"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Iranin ulkoministeri: Hormuzinsalmi on auki laivaliikenteelle",
+          "content": "Iranin ulkoministeri Abbas Araghchi mukaan salmi on auki Libanonin tulitauon keston ajan.",
+          "date": "2026-04-17T14:16:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/0635e99b-9ba0-4e36-a596-70553b13e30b"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump: Hormuzinsalmi auki – Iranin merisaarto jatkuu",
+          "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
+          "date": "2026-04-17T13:37:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011917601.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Iranin ulkoministeri Araghchi: Hormuzinsalmi on täysin avoinna tulitauon ajan",
+          "content": "Öljyn hinta laski välittömästi kymmenen prosenttia Iranin ilmoituksen jälkeen.",
+          "date": "2026-04-17T13:19:01.000Z",
+          "categories": [
+            "lähi-itä",
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "hormuzinsalmi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20221262?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kymmenet maat valmistelevat operaatiota Hormuzinsalmen liikenteen turvaamiseksi",
+          "content": "Iran ilmoitti Hormuzinsalmen avaamisesta kesken Ranskan ja Britannian isännöimän kokouksen.",
+          "date": "2026-04-17T12:30:41.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "hormuzinsalmi",
+            "britannia",
+            "iran",
+            "ranska",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20221235?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Iran avasi Hormuzinsalmen, Trump sanoi pitävänsä Iranin satamien saarron edelleen voimassa",
+          "content": "Hormuzinsalmi on täysin avoinna meriliikenteelle aselevon aikana, sanoo Iranin ulkoministeri Abbas Araghchi. Öljyn hinta laski välittömästi kymmenen prosenttia ilmoituksen jälkeen.",
+          "date": "2026-04-17T12:16:37.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/iran-avasi-hormuzinsalmen-trump-sanoi-pitavansa-ir/13454731?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tärkeän Iran-kokouksen tulokset julkaistaan – suora lähetys kello 16.45",
+          "content": "Mahdollisen operaation tavoitteena on palauttaa merenkulun vapaus Hormuzinsalmessa.",
+          "date": "2026-04-17T11:48:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011951574.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Hormuzinsalmen voi kiertää, mutta nopeaa ratkaisua ei ole",
+          "content": "Hormuzinsalmen aiheuttamaa järjestelmätason riskiä maailmantaloudella voidaan hajauttaa vetämällä uusia öljyputkia. Oikotietä onneen ei kuitenkaan ole.",
+          "date": "2026-04-17T06:25:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011941478.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Iran avaa Hormuzinsalmen laivaliikenteelle",
+      "mainCategories": [
+        "Maailma",
+        "Politiikka"
+      ],
+      "imageUrl": "/images/trump/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Iran avaa Hormuzin­salmen tuli­tauon ajaksi, Trump: Öljy­saarto jatkuu",
+          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
+          "date": "2026-04-17T13:51:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011909452.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Iran: Hormuzinsalmi on auki laivaliikenteelle, Trump: Neuvottelut etenevät – KL seuraa",
+          "content": "Donald Trumpin mukaan Israel ja Libanon neuvottelevat torstaina. Venäjällä puolestaan talous sukeltaa vastoin odotuksia. Vladimir Putin vaatii selitystä. Kauppalehti seuraa markkinapäivän kehittymistä tässä artikkelissa.",
+          "date": "2026-04-17T13:39:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/580f9798-a7f6-4408-b848-e14dac1449da"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Donut Labin rikosilmoitus ja kiistot",
+      "mainCategories": [
+        "Taloussanomat",
+        "Auto"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Donut Labista rikosilmoituksen tehnyt johtaja katosi verkkosivuilta – Yhtiö kiistää harhaanjohtamisen",
+          "content": "Donut Labista on tehty rikosilmoitus, kertoo Helsingin Sanomat. Ilmoituksen jättänyt Nordic Nanon kaupallinen johtaja ja perustajaosakas Lauri Peltola vahvistaa uutisen Kauppalehdelle. Donut Lab kiistää tiedotteessa johtaneensa sijoittajia harhaan tai syyllistyneensä rikokseen.",
+          "date": "2026-04-17T13:46:00.000Z",
+          "categories": [
+            "auto"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/7ba946ac-290e-4f8c-9539-72b197950b8a"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HS: Yhteistyökumppanin mukaan lupaukset suomalaisesta ihmeakusta eivät pidä paikkaansa",
+          "content": "Yhteistyökumppanin kaupallinen johtaja kertoo tehneensä Donut Labista rikosilmoituksen.",
+          "date": "2026-04-17T11:20:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011950966.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Israel ja Libanon sopivat aselevosta",
+      "mainCategories": [
+        "Sodat",
+        "Libanon",
+        "Israel"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sotaa paenneet libanonilaiset alkoivat heti palata koteihinsa: ”Ihmiset ovat väsyneitä sotaan”",
+          "content": "Israel ja Libanon pääsivät sopuun kymmenen päivän tulitauosta. Suomen suurlähettiläs kertoo tunnelmista pääkaupungissa.",
+          "date": "2026-04-17T13:37:58.000Z",
+          "categories": [
+            "sodat",
+            "libanon",
+            "israel",
+            "aselepo",
+            "beirut",
+            "lähi-itä",
+            "arabimaat",
+            "suurlähettiläät",
+            "diplomatia",
+            "aseelliset konfliktit",
+            "hizbollah",
+            "kansainväliset suhteet"
+          ],
+          "link": "https://yle.fi/a/74-20221160?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Trump: Israel ja Libanon aloittavat kymmenen päivän aselevon",
+          "content": "Yhdysvaltojen presidentin Donald Trumpin mukaan Israel ja Libanon ovat sopineet kymmenen päivän aselevosta. Sen on määrä astua voimaan Suomen aikaa keskiyöllä.",
+          "date": "2026-04-16T16:12:24.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/trump-israel-ja-libanon-aloittavat-kymmenen-paivan/13453367?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Markkinaoikeus: Finnair ei rikkonut lakia",
+      "mainCategories": [
+        "Suomi",
+        "Taloussanomat",
+        "Ilmailu"
+      ],
+      "imageUrl": "/images/finnair/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Finnairin ja kuluttaja-asiamiehen oikeusväännöissä tuli nyt yksi ratkaisu",
+          "content": "Kilpailu- ja kuluttajavirasto tiedottaa, että markkinaoikeuden mukaan Finnairin käytäntö hylätä vakiokorvausvaatimuksia myöhästyneinä ei ole lainvastainen. Nyt saatu päätös ei ole ainoa Finnairin ja kuluttaja-asiamiehen välinen asia markkinaoikeudessa.",
+          "date": "2026-04-17T13:37:00.000Z",
+          "categories": [
+            "ilmailu"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/1cf8fa50-016a-44d4-95b3-ee5f618c3bb3"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Finnairin käytännöstä valitettiin – nyt tuli markkinaoikeuden päätös",
+          "content": "Markkinaoikeus katsoi ratkaisussaan, ettei Finnair toiminut lainvastaisesti.",
+          "date": "2026-04-17T13:27:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011951983.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kuluttajansuoja | Markkina­oikeus: Finnair ei rikkonut lakia hylätessään korvaus­vaatimuksia",
+          "content": "Kuluttaja-asiamies vaati Finnairilta 300 000 euron sakkoa käytännöstä, jossa korvausvaatimukset on tehtävä kahden kuukauden kuluessa lentopäivästä.",
+          "date": "2026-04-17T13:21:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011951884.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pieni tyttö kuoli kuorma-auton alle",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Mynämäki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pieni lapsi kuoli kuorma-auton alle Mynämäellä – poliisilta uutta tietoa",
+          "content": "Kuljettajaa ei enää epäillä törkeästä rikoksesta.",
+          "date": "2026-04-17T13:28:00.000Z",
+          "categories": [
+            "turun seutu"
+          ],
+          "link": "https://www.is.fi/turun-seutu/art-2000011952082.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi epäilee Mynämäen risteysturman kuljettajaa liikenne­turvallisuuden vaarantamisesta ja kuoleman­tuottamuksesta",
+          "content": "Onnettomuudessa menehtyi pieni lapsi, joka jäi kuorma-auton alle.",
+          "date": "2026-04-17T13:20:29.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "mynämäki",
+            "esitutkinta",
+            "poliisitutkinta",
+            "kuolemantuottamus",
+            "liikenneonnettomuudet",
+            "kotimaa",
+            "varsinais-suomi"
+          ],
+          "link": "https://yle.fi/a/74-20221258?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Pieni tyttö kuoli järkyttävässä turmassa Mynämäellä – Poliisilta arvio kuskista",
+          "content": "Poliisi ei epäile kuljettajan toimineen tahallisesti tai törkeän huolimattomasti. Mynämäen lokakuisen liikenneonnettomuuden rikostutkinta on nyt valmistunut. Poliisi tiedottaa, että rikosnimikkeet ovat lieventyneet. Kohtalokas turma tapahtui 3. lokakuuta keskustan tuntumassa: polkupyörällä liikkunut alle 7-vuotias tyttö jäi kuorma-auton alle ja kuoli.",
+          "date": "2026-04-17T13:10:30.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/80a0c2b6-407f-463a-9d16-b0d64aa5be46"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Alkuvuosi 2026 ennätyskuiva Suomessa",
+      "mainCategories": [
+        "Sää",
+        "Luonto",
+        "Järvet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Alkuvuosi on ollut ennätys­kuiva – Yle: Vain kerran 182 vuodessa ollut kuivempaa",
+          "content": "Kuivuus on koetellut etenkin itäistä Suomea.",
+          "date": "2026-04-17T13:20:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011951850.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Alkuvuosi on ollut ennätyskuiva – järvivedet todella matalalla",
+          "content": "Maan itäosissa tämän vuoden sademäärä on alle puolet normaalista.",
+          "date": "2026-04-17T09:31:18.000Z",
+          "categories": [
+            "sää",
+            "luonto",
+            "järvet"
+          ],
+          "link": "https://yle.fi/a/74-20221188?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Opiskelija kiinni leikkiaseen kanssa Porissa",
+      "mainCategories": [
+        "Kotimaa",
+        "Koulutus",
+        "Pori"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Opiskelijat avautuvat pelottavasta tilanteesta Porissa – maasto­pukuinen henkilö liikkui AMK:ssa leikkiaseen kanssa",
+          "content": "Poliisi uhkasi miestä aseella.",
+          "date": "2026-04-17T13:16:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011950432.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pori | Poliisi otti kiinni ammatti­korkea­koulussa leikki­aseen kanssa liikkuneen opiskelijan",
+          "content": "Poliisi kertoo uhanneensa miestä aseella kiinniotto­tilanteessa.",
+          "date": "2026-04-17T09:14:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011950429.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Poliisi: Satakunnan ammattikorkeakoululta kiinni otetulla oli hallussaan leikkiase – Epäilty otettiin kiinni läheisestä kaupasta",
+          "content": "Epäilty on poliisin mukaan Satakunnan ammattikorkeakoulun opiskelija. Mies ei poliisin mukaan vahingoittanut ketään.",
+          "date": "2026-04-17T08:28:14.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/poliisi-satakunnan-ammattikorkeakoululta-kiinni-ot/13454103?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Opiskelija kulki leikkiaseen kanssa ammattikorkeakoulussa Porissa – poliisi uhkasi miestä kiinniottotilanteessa aseella",
+          "content": "Poliisi sai ilmoituksen aseistautuneesta henkilöstä Satakunnan ammattikorkeakoulussa aamupäivällä. Poliisi vahvistaa, että kyse oli leikkiaseesta.",
+          "date": "2026-04-17T07:14:09.000Z",
+          "categories": [
+            "koulutus",
+            "satakunnan ammattikorkeakoulu",
+            "pori",
+            "kotimaa",
+            "aseet",
+            "poliisi",
+            "satakunta"
+          ],
+          "link": "https://yle.fi/a/74-20221142?origin=rss"
         }
       ]
     },
@@ -225,14 +682,14 @@
         "Eläkkeet",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
           "title": "Raportti: Suomen talous on niin pahassa jamassa, että jopa tähän on pakko koskea",
-          "content": "Elinkeinoelämän valtuuskunta EVA katsoo tuoreessa raportissa, että ensi vaalikaudelle pitäisi julkista taloutta sopeuttaa 13 miljardilla eurolla. Eva Fellow, konsultti Jussi Pyykkönen arvioi perjantaina Elinkeinoelämän valtuuskunta Evan julkaisemassa raportissa, että Suomen tulisi ensi vaalikaudella sopeuttaa talouttaa 13 miljardilla eurolla. Summaan on leivottu parlamentaarisen velkajarrun edellyttämän yhdeksän miljardin euron lisäksi myös neljä miljardia euroa liikkumavaraa yllättävien menotarpeiden varalta. Analyysissa katsotaan, että julkisen talouden ongelma on niin suuri, että se edellyttää myös eläkkeisiin, keskiluokan maksuihin ja sosiaali- ja terveyspalveluihin puuttumista.",
+          "content": "Elinkeinoelämän valtuuskunta EVA katsoo tuoreessa raportissa, että ensi vaalikaudella pitäisi julkista taloutta sopeuttaa 13 miljardilla eurolla. Eva Fellow, konsultti Jussi Pyykkönen arvioi perjantaina Elinkeinoelämän valtuuskunta Evan julkaisemassa raportissa, että Suomen tulisi ensi vaalikaudella sopeuttaa talouttaa 13 miljardilla eurolla. Summaan on leivottu parlamentaarisen velkajarrun edellyttämän yhdeksän miljardin euron lisäksi myös neljä miljardia euroa liikkumavaraa yllättävien menotarpeiden varalta. Analyysissa katsotaan, että julkisen talouden ongelma on niin suuri, että se edellyttää myös eläkkeisiin, keskiluokan maksuihin ja sosiaali- ja terveyspalveluihin puuttumista.",
           "date": "2026-04-17T12:38:11.000Z",
           "categories": [
             "politiikka"
@@ -265,136 +722,6 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000011946055.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Leikkiaseen kanssa liikkunut opiskelija kiinniotettu",
-      "mainCategories": [
-        "Kotimaa",
-        "Pori",
-        "Koulutus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Opiskelijat avautuvat pelottavasta tilanteesta Porissa – maasto­pukuinen henkilö liikkui AMK:ssa leikkiaseen kanssa",
-          "content": "Poliisi uhkasi miestä aseella.",
-          "date": "2026-04-17T12:34:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011950432.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pori | Poliisi otti kiinni ammatti­korkea­koulussa leikki­aseen kanssa liikkuneen opiskelijan",
-          "content": "Poliisi kertoo uhanneensa miestä aseella kiinniotto­tilanteessa.",
-          "date": "2026-04-17T09:14:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011950429.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Poliisi: Satakunnan ammattikorkeakoululta kiinni otetulla oli hallussaan leikkiase – Epäilty otettiin kiinni läheisestä kaupasta",
-          "content": "Epäilty on poliisin mukaan Satakunnan ammattikorkeakoulun opiskelija. Mies ei poliisin mukaan vahingoittanut ketään.",
-          "date": "2026-04-17T08:28:14.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/poliisi-satakunnan-ammattikorkeakoululta-kiinni-ot/13454103?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Poliisi otti kiinni porilaiskoulun tiloissa liikkuneen maastopukuisen miehen, ase paljastui leikkiaseeksi",
-          "content": "",
-          "date": "2026-04-17T07:31:27.000Z",
-          "categories": [
-            "poliisioperaatio",
-            "pori",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6957331"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Samk:n tiloissa uhkaava tilanne – Poliisi otti kiinni leikkiasetta kantaneen epäillyn",
-          "content": "Poliisi tutkii tapausta toisen vakavaan vahingoittamiseen soveltuvan esineen tai aineen hallussapitona. Porin Satakunnan ammattikorkeakoulun (Samk) tiloissa tapahtui perjantaina poliisin luonnehtima vaativa poliisitilanne. Poliisin saaman ilmoituksen mukaan tiloissa liikkui aseistautunut maastopukuinen henkilö. Tehtävälle varustauduttiin tarvittavilla varusteilla ja resursoinnilla. Poliisi oli paikalla kolmen minuutin kuluttua. Epäilty mies otettiin kiinni läheisestä kaupasta kaksi minuuttia koululle saapumisesta.",
-          "date": "2026-04-17T07:15:53.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/148985d8-b4ff-4edb-b194-e0f5dcf11d84"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Opiskelija kulki leikkiaseen kanssa ammattikorkeakoulussa Porissa – poliisi uhkasi miestä kiinniottotilanteessa aseella",
-          "content": "Poliisi sai ilmoituksen aseistautuneesta henkilöstä Satakunnan ammattikorkeakoulussa aamupäivällä. Poliisi vahvistaa, että kyse oli leikkiaseesta.",
-          "date": "2026-04-17T07:14:09.000Z",
-          "categories": [
-            "koulutus",
-            "satakunnan ammattikorkeakoulu",
-            "pori",
-            "kotimaa",
-            "aseet",
-            "poliisi",
-            "satakunta"
-          ],
-          "link": "https://yle.fi/a/74-20221142?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Huippukokous Hormuzinsalmen merenkulusta",
-      "mainCategories": [
-        "Hormuzinsalmi",
-        "Britannia",
-        "Iran"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Macron ja Starmer pitävät huippukokouksen Hormuzinsalmen avaamisesta",
-          "content": "Presidentti Alexander Stubb osallistuu noin kolmenkymmenen valtiojohtajan virtuaalikokoukseen.",
-          "date": "2026-04-17T12:30:41.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "hormuzinsalmi",
-            "britannia",
-            "iran",
-            "ranska",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20221235?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS:n tiedot | Suomi suhtautuu yhä hyvin kriittisesti kaluston lähettämiseen Hormuzin­salmelle",
-          "content": "Tasavallan presidentti Alexander Stubb osallistuu perjantaina keskusteluihin merenkulun vapaudesta Hormuzinsalmessa. Suomi harkitsee yhä, miten se voisi osallistua mahdolliseen operaatioon.",
-          "date": "2026-04-16T16:34:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011949553.html"
         }
       ]
     },
@@ -507,7 +834,7 @@
       "mainCategories": [
         "Taloussanomat"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -693,40 +1020,6 @@
       ]
     },
     {
-      "mainTitle": "Venäjän lähettiläs uhkaa Suomea jälleen",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/venäjä/1.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Moskovan lähettiläs uhkaa Suomea",
-          "content": "Moskovan lähettiläs listaa jälleen kerran jo tutuksi tullutta tarinaa Suomesta. Venäjän Suomen-suurlähettiläs Pavel Kuznetsov esittää Kremlin propagandasta tuttuja syytöksiä Suomelle valtiollisen uutistoimiston Tassin tuoreessa haastattelussa. Kuznetsov toistaa haastattelussa narratiivia, jonka mukaan Suomen johto on tekemässä maasta Naton etuvartioasemaa.",
-          "date": "2026-04-17T10:44:12.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/dd2f6aed-1409-49b5-aafc-5b71c08ccffd"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Suomi ja Venäjä | Venäjän suur­lähettiläs Tassille: Suomessa on ”sotapsykoosi”",
-          "content": "Pavel Kuznetsov ei näe mahdollisuuksia Venäjän ja Suomen välisen yhteistyön uudelleenkäynnistämiselle.",
-          "date": "2026-04-16T13:06:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011948702.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Hallituksen luottamus äänestettiin eduskunnassa",
       "mainCategories": [
         "Politiikka",
@@ -791,7 +1084,7 @@
       ]
     },
     {
-      "mainTitle": "Myanmarin presidentti armahti tuhansia vankeja",
+      "mainTitle": "Myanmarin uusi presidentti armahti vankeja",
       "mainCategories": [
         "Oikeus",
         "Myanmar",
@@ -829,52 +1122,6 @@
             "poliittiset vangit"
           ],
           "link": "https://yle.fi/a/74-20221144?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Virolaisyrittäjät palasivat Turun telakalle",
-      "mainCategories": [
-        "Teollisuus",
-        "Turku",
-        "Telakkateollisuus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "HS: Työehtoja polkeneet virolaiset palasivat – näin Turun telakka kommentoi alihankkijoita",
-          "content": "",
-          "date": "2026-04-17T09:59:50.000Z",
-          "categories": [
-            "turun telakka",
-            "meyer turku",
-            "alihankkijat",
-            "paikalliset",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6957378"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "HS: Ukrainalaisten työntekijöiden työehtoja polkeneet virolaisyrittäjät tekivät paluun Turun telakalle",
-          "content": "Meyer Turun viestintäpäällikkö vahvistaa Ylelle, että kyseisen yhtiön sopimus on katkaistu tällä viikolla.",
-          "date": "2026-04-17T07:57:29.000Z",
-          "categories": [
-            "teollisuus",
-            "turku",
-            "telakkateollisuus",
-            "varsinais-suomi",
-            "meyer turku oy",
-            "työehtosopimukset",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20221147?origin=rss"
         }
       ]
     },
@@ -973,86 +1220,6 @@
       ]
     },
     {
-      "mainTitle": "Jere Karalahdelle ehdollista vankeutta huumerikoksista",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Rikokset",
-        "Huumeet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Ex-jääkiekkoilija Jere Karalahdelle ehdollista vankeutta törkeästä huumausainerikoksesta",
-          "content": "Karalahden syytteet olivat osa laajempaa huumejuttua. Oikeus tuomitsi sen päätekijöinä kolmikon seitsemän, yhdeksän sekä kymmenen ja puolen vuoden vankeusrangaistuksiin.",
-          "date": "2026-04-17T08:01:35.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/ex-jaakiekkoilija-jere-karalahdelle-ehdollista-van/13454008?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jere Karalahti tuomittiin törkeistä huumerikoksista – ehdollista vankeutta vuosi ja yhdeksän kuukautta",
-          "content": "Helsingin käräjäoikeus katsoi Karalahden syyllistyneen kokaiinin hallussa pitämiseen, syyte levittämisen osalta hylättiin.",
-          "date": "2026-04-17T07:06:29.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "rikokset",
-            "huumeet",
-            "huumeet ja rikollisuus",
-            "helsingin käräjäoikeus",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20214033?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Karhunkierroksen vaellusreitti lyhenee Rukalla",
-      "mainCategories": [
-        "Matkailu",
-        "Karhunkierros",
-        "Vaellusreitit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Vaellus | Karhun­kierros lyhenee",
-          "content": "Vaellusreitin lähtö- ja päätepiste siirretään Rukan kylästä Saaruaan. Metsähallitus perustelee siirtoa turvallisuudella.",
-          "date": "2026-04-17T06:35:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011950095.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Karhunkierroksen vaellusreitti lyhenee Rukan laajenemisen vuoksi",
-          "content": "Rukatunturin ylittävä reitti suljetaan – Karhunkierros päättyy ensi kesänä Itä-Rukalle",
-          "date": "2026-04-17T05:49:14.000Z",
-          "categories": [
-            "matkailu",
-            "karhunkierros",
-            "vaellusreitit",
-            "kansallispuistot",
-            "ruka",
-            "kotimaa",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20220954?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Europol etsintäkuulutti suomalaismiestä rikoksista",
       "mainCategories": [
         "Suomi",
@@ -1087,13 +1254,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjältä laukaistu kantoraketti herätti huomiota",
+      "mainTitle": "Venäjältä laukaistu raketti aiheutti hälytyksiä",
       "mainCategories": [
-        "Kotimaa",
         "Suomi",
-        "Taivaanilmiöt"
+        "Kotimaa"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1104,23 +1270,6 @@
           "date": "2026-04-17T05:44:13.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/nayttava-valoilmio-heratti-huomiota-perjantain-vas/13453644?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Poliisi: Itärajan tuntumassa havaintoja valoilmiöstä, kyseessä Venäjältä laukaistu kantoraketti",
-          "content": "",
-          "date": "2026-04-17T04:14:18.000Z",
-          "categories": [
-            "taivaanilmiöt",
-            "avaruus",
-            "avaruusohjelmat",
-            "venäjä",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6957048"
         },
         {
           "publisherId": "hs",
@@ -1149,13 +1298,13 @@
       ]
     },
     {
-      "mainTitle": "Unkarin poliittinen tilanne herättää huolta",
+      "mainTitle": "Unkarin vaalit: Oikeiston uudistustarve korostuu",
       "mainCategories": [
         "Vaalit",
         "Unkari",
-        "Politiikka"
+        "Demokratia"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1192,22 +1341,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011949629.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Unkarin vaalivoittaja Magyar vaatii Orbánia tukevan presidentin eroa",
-          "content": "”Painotin hänelle toistuvasti, että niin minun kuin Unkarin kansankin silmissä hän on kelvoton ilmentämään Unkarin kansallista yhtenäisyyttä”, Magyar sanoi.",
-          "date": "2026-04-15T13:21:38.000Z",
-          "categories": [
-            "vaalit",
-            "unkari",
-            "politiikka",
-            "viktor orbán",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20220805?origin=rss"
         }
       ]
     },
@@ -1218,7 +1351,7 @@
         "Yhdysvallat",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1307,11 +1440,11 @@
       ]
     },
     {
-      "mainTitle": "Israel ja Libanon sopivat tulitauosta",
+      "mainTitle": "Trump ilmoitti Israelin ja Libanonin tulitauosta",
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1324,16 +1457,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011949789.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Trump: Israel ja Libanon aloittavat kymmenen päivän aselevon",
-          "content": "Yhdysvaltojen presidentin Donald Trumpin mukaan Israel ja Libanon ovat sopineet kymmenen päivän aselevosta. Sen on määrä astua voimaan Suomen aikaa keskiyöllä.",
-          "date": "2026-04-16T16:12:24.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/trump-israel-ja-libanon-aloittavat-kymmenen-paivan/13453367?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -1362,7 +1485,7 @@
       ]
     },
     {
-      "mainTitle": "Suomen uusi linjaus Yhdysvaltoihin selonteossa",
+      "mainTitle": "Suomen uusi ulkopoliittinen linja Yhdysvaltoihin",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1395,7 +1518,7 @@
       ]
     },
     {
-      "mainTitle": "Ruotsi laskee rikosvastuun ikärajaa 13 vuoteen",
+      "mainTitle": "Ruotsi laskee rikosoikeudellista ikärajaa",
       "mainCategories": [
         "Ruotsi",
         "Rikokset",
@@ -1432,13 +1555,13 @@
       ]
     },
     {
-      "mainTitle": "Trumpin vaikutus ja Stubbin rooli epäselviä",
+      "mainTitle": "Trumpin vaikutus ja Stubbin rooli Ukrainassa",
       "mainCategories": [
         "Ulkomaat",
         "Kanada",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/stubb/1.jpg",
+      "imageUrl": "/images/stubb/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1520,7 +1643,7 @@
         "Ulkomaat",
         "Unkari"
       ],
-      "imageUrl": "/images/euroopan unioni/2.jpg",
+      "imageUrl": "/images/euroopan unioni/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1589,7 +1712,7 @@
       ]
     },
     {
-      "mainTitle": "Humanoidirobotti Edward sai viraalihuomiota",
+      "mainTitle": "Humanoidirobotti Edward sai viraalimenestystä",
       "mainCategories": [
         "Ulkomaat",
         "Luonto",
@@ -1627,7 +1750,7 @@
       ]
     },
     {
-      "mainTitle": "Turkissa kouluampumiset aiheuttavat laajoja mielenosoituksia",
+      "mainTitle": "Turkissa koulusurmia ja mielenosoituksia",
       "mainCategories": [
         "Maailma",
         "Ampuminen",
@@ -1679,52 +1802,13 @@
       ]
     },
     {
-      "mainTitle": "Länsiradan rakentamispäätös hallituskaudella varmistuu",
-      "mainCategories": [
-        "Politiikka",
-        "Länsirata",
-        "Ratahankkeet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Länsirata | Pääministeri Orpo: Länsiradan rakentamispäätös tällä hallituskaudella",
-          "content": "Pääministerin mukaan valtion rahoitus Länsiradalle on olemassa, kun yhtiötä pitää pääomittaa.",
-          "date": "2026-04-16T12:35:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011947861.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Pääministeri Orpo eri linjoilla ministeri Ranteen kanssa Länsiradasta: \"Ei sellaista ole missään päätetty\"",
-          "content": "",
-          "date": "2026-04-16T12:05:00.000Z",
-          "categories": [
-            "länsirata",
-            "ratahankkeet",
-            "politiikka",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6956607"
-        }
-      ]
-    },
-    {
       "mainTitle": "Suomi päivittää ulkopoliittista linjaansa",
       "mainCategories": [
         "Politiikka",
         "Ulkopolitiikka",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
