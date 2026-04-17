@@ -1,29 +1,418 @@
 {
-  "timestamp": "2026-04-17T14:38:52.830Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "ts",
-        "publisher": "Turun Sanomat",
-        "publisherUrl": "ts.fi",
-        "rssUrl": "https://www.ts.fi/rss.xml"
-      },
-      "reason": {
-        "code": "ECONNRESET"
-      }
-    }
-  ],
+  "timestamp": "2026-04-17T15:56:40.830Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Hallitus leikkaa sosiaalihuollosta 100 miljoonaa euroa",
+      "mainTitle": "Metsola vierailee Suomessa ja tapaa poikansa",
+      "mainCategories": [
+        "Politiikka",
+        "Varusmiespalvelus",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Euro­parlamentin puhemies paljastaa: Poika käy Suomessa armeijaa",
+          "content": "Euroopan parlamentin puhemies Roberta Metsola on julkaissut Instagramissa kuvan Suomessa armeijaa käyvän poikansa kanssa. – Ylpeä äiti, ylpeä eurooppalainen, Suomessa vierailulla oleva Euroopan parlamentin puhemies Metsola kirjoittaa Instagramissa. Myös Malta Daily on kertonut, että Metsola on vieraillut Suomessa myös maamme puolustusvoimissa ja tavannut siellä 19-vuotiaan poikansa Lucan.",
+          "date": "2026-04-17T15:46:10.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/3b163ed0-3034-434b-b295-265d22f6e7c1"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Puhemies Metsola tapasi Suomessa myös armeijaa käyvän poikansa",
+          "content": "Ylen tietojen mukaan Roberta Metsola on nähty tänään Vekaranjärven varuskunnassa.",
+          "date": "2026-04-17T15:05:32.000Z",
+          "categories": [
+            "politiikka",
+            "varusmiespalvelus",
+            "roberta metsola",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20221280?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Euroopan parlamentin puhemies julkaisi yhteis­kuvan Suomen armeijaa käyvän lapsensa kanssa",
+          "content": "Roberta Metsolalla on suomalaisen puolisonsa kanssa neljä lasta.",
+          "date": "2026-04-17T14:59:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011952240.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Roberta Metsola puhui Suomessa",
+          "content": "Euroopan parlamentin puhemies Roberta Metsola vierailee Suomessa.",
+          "date": "2026-04-16T15:22:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011949306.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "EU-parlamentin puhemies Roberta Metsola vierailee Suomessa",
+          "content": "",
+          "date": "2026-04-15T23:21:04.000Z",
+          "categories": [
+            "euroopan unioni",
+            "euroopan parlamentin puhemies",
+            "roberta metsola",
+            "alexander stubb",
+            "kansainvälinen politiikka",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20220846?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Rantanen kritisoi maahanmuuttajien koulutusta",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Sisäministeri Rantanen puhui maahanmuuttajien ”pilipali­kursseista” – nyt tuli opisto­yhdistykseltä tiukka vastaus",
+          "content": "Mari Rantasen torstainen lausunto vähättelee Suomen Kansanopistoyhdistyksen mukaan opetusta.",
+          "date": "2026-04-17T15:46:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011951879.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kansalaisuuskoe | Ministeri Rantanen perustelee kotouttamisesta leikkaamista: ”Rahaa ei pidä laittaa pili­pali­kursseihin”",
+          "content": "Hallitus antoi esityksensä kansalaisuuskokeesta. Vastaavia kokeita on monessa muussa maassa.",
+          "date": "2026-04-16T15:20:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011945647.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hormuzinsalmi avattu, öljyn hinta laski",
+      "mainCategories": [
+        "Maailma",
+        "Iran",
+        "Hormuzinsalmi"
+      ],
+      "imageUrl": "/images/trump/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Markkinareaktio yllätti asiantuntijankin – Nordean päästrategi paljastaa, miksi näin kävi",
+          "content": "Hormuzinsalmen avaaminen sai kurssit nousuun ja öljyn hinnan laskuun. Nordean päästrategi Antti Saari arvioi öljyn hinnan laskupotentiaalia.",
+          "date": "2026-04-17T15:13:00.000Z",
+          "categories": [
+            "yrittäminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/3d8ed74b-c2c9-4b7a-9c7a-998fe068a0d6"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Iran: Hormuzinsalmi on auki laivaliikenteelle, Trump: Neuvottelut etenevät – KL seuraa",
+          "content": "Donald Trumpin mukaan Israel ja Libanon neuvottelevat torstaina. Venäjällä puolestaan talous sukeltaa vastoin odotuksia. Vladimir Putin vaatii selitystä. Kauppalehti seuraa markkinapäivän kehittymistä tässä artikkelissa.",
+          "date": "2026-04-17T15:06:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/580f9798-a7f6-4408-b848-e14dac1449da"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Öljyn hinta reagoi hyviin uutisiin – Dansken Kuusisto: ”En vielä luottaisi siihen, että Hormuzinsalmi pysyy auki'”",
+          "content": "Öljyn hinta putosi välittömästi, kun Iranin johto kertoi Hormuzinsalmen kulkuväylän olevan avoinna kaikille aluksille tulitauon ajan.",
+          "date": "2026-04-17T14:57:11.000Z",
+          "categories": [
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "iran",
+            "hormuzinsalmi",
+            "öljyn hinta",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20221277?origin=rss"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Iranin ulkoministeri: Hormuzinsalmi on auki laivaliikenteelle",
+          "content": "Iranin ulkoministeri Abbas Araghchi mukaan salmi on auki Libanonin tulitauon keston ajan.",
+          "date": "2026-04-17T14:43:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/0635e99b-9ba0-4e36-a596-70553b13e30b"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Raakaöljyn hinta syöksyy, pörssit kiitävät – Näin Hormuzinsalmen avautuminen näkyy markkinoilla",
+          "content": "Uutiset tärkeän meriväylän avautumisesta laittoivat markkinoihin vipinää. Osakkeiden lisäksi liikkuivat muun muassa öljy, kaasu, kulta ja korot.",
+          "date": "2026-04-17T14:33:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/648cba23-48a5-426b-89a3-020bdaf6981f"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hormuzinsalmi auki – öljyn hinta notkahti heti alas",
+          "content": "Keskeinen öljyreitti on aiemmin ollut suljettuna Lähi-idän konfliktin vuoksi.",
+          "date": "2026-04-17T14:08:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011952125.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Iran avaa Hormuzin­salmen tuli­tauon ajaksi, Trump: Öljy­saarto jatkuu",
+          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
+          "date": "2026-04-17T13:51:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011909452.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Iranin ulkoministeri Araghchi: Hormuzinsalmi on täysin avoinna tulitauon ajan",
+          "content": "Öljyn hinta laski välittömästi kymmenen prosenttia Iranin ilmoituksen jälkeen.",
+          "date": "2026-04-17T13:19:01.000Z",
+          "categories": [
+            "lähi-itä",
+            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
+            "hormuzinsalmi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20221262?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Iran: Hormuzinsalmi täysin avoinna meriliikenteelle aselevon aikana",
+          "content": "",
+          "date": "2026-04-17T13:17:25.000Z",
+          "categories": [
+            "iran",
+            "yhdysvallat",
+            "sota",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6957698"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Iran avasi Hormuzinsalmen, Trump sanoi pitävänsä Iranin satamien saarron edelleen voimassa",
+          "content": "Hormuzinsalmi on täysin avoinna meriliikenteelle aselevon aikana, sanoo Iranin ulkoministeri Abbas Araghchi. Öljyn hinta laski välittömästi kymmenen prosenttia ilmoituksen jälkeen.",
+          "date": "2026-04-17T12:16:37.000Z",
+          "categories": [],
+          "link": "//www.kaleva.fi/iran-avasi-hormuzinsalmen-trump-sanoi-pitavansa-ir/13454731?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Hormuzinsalmen voi kiertää, mutta nopeaa ratkaisua ei ole",
+          "content": "Hormuzinsalmen aiheuttamaa järjestelmätason riskiä maailmantaloudella voidaan hajauttaa vetämällä uusia öljyputkia. Oikotietä onneen ei kuitenkaan ole.",
+          "date": "2026-04-17T06:25:00.000Z",
+          "categories": [
+            "tilaajille",
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011941478.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Banksy-näyttely avautui Turussa",
+      "mainCategories": [
+        "Kulttuuri",
+        "Turku",
+        "Taide"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Banksy tuli Turkuun – vai tuliko?",
+          "content": "Banksyn töitä esittelevä näyttely on avattu Turussa. Tehdashallissa nähdään vain kopioita katutaiteilijan töistä, mutta katsojia se ei tunnu haittaavan.",
+          "date": "2026-04-17T14:55:30.000Z",
+          "categories": [
+            "kulttuuri",
+            "taide",
+            "banksy",
+            "turku",
+            "taiteet",
+            "kulttuuritapahtumat",
+            "varsinais-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20219623?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Maailman suurin Banksy-näyttely avautuu Turussa – järjestäjältä suorat sanat mysteeri­taiteilijan henkilöllisyydestä",
+          "content": "Näyttelyä on kiitelty mutta myös kritisoitu.",
+          "date": "2026-04-16T16:20:00.000Z",
+          "categories": [
+            "turun seutu"
+          ],
+          "link": "https://www.is.fi/turun-seutu/art-2000011948712.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Tältä näyttää Banksya fanittava elämyshalli – kuraattori kertoo, mihin rahat menevät",
+          "content": "",
+          "date": "2026-04-16T16:00:00.000Z",
+          "categories": [
+            "kaupunkielämä",
+            "tapahtumat",
+            "näyttelyt",
+            "katutaide",
+            "paikalliset",
+            "turku",
+            "kulttuuri"
+          ],
+          "link": "https://www.ts.fi/a/6956737"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Saunapalo Helsingissä, kaksi loukkaantui",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Uusimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Sauna palaa kerros­talossa Helsingissä – kaksi loukkaantunut",
+          "content": "Paikalla Kannelmäessä on 12 pelastuslaitoksen yksikköä, ensihoito, poliisi sekä sosiaali- ja kriisipäivystys.",
+          "date": "2026-04-17T14:50:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011952268.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kerrostalon saunassa Helsingin Kannelmäessä syttyi tulipalo – kaksi loukkaantunutta tarkistet­tavaksi",
+          "content": "Pelastuslaitos sai hälytyksen Sitratielle perjantaina noin kello 16.40.",
+          "date": "2026-04-17T14:05:49.000Z",
+          "categories": [
+            "onnettomuudet",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20220833?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "EU harjoittelee keskinäistä avunantoa Venäjän uhkaa vastaan",
+      "mainCategories": [
+        "Nato",
+        "Turvallisuuspolitiikka",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS: EU harjoittelee ensi kertaa keskinäisen avunannon lauseketta – varautuu Venäjän aggressioon",
+          "content": "Tarkoitus on käydä läpi, kuinka jäsenmaan avunpyyntöön vastataan.",
+          "date": "2026-04-17T14:44:15.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "nato",
+            "helsingin sanomat",
+            "turvallisuuspolitiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20221276?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS:n tiedot | Historiallinen käänne: EU varautuu Venäjän hyökkäykseen keskinäisellä avun­annolla",
+          "content": "EU valmistelee historian ensimmäistä harjoitusta, jossa hyökkäyksen kohteeksi joutuva jäsenmaa pyytää apua EU:n avunantolausekkeen nojalla.",
+          "date": "2026-04-17T14:15:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011950965.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hallitus leikkaa 100 miljoonaa sosiaalihuollosta",
       "mainCategories": [
         "Politiikka",
         "Sosiaalihuolto",
         "Valtiontalous"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -50,6 +439,23 @@
           "link": "https://www.is.fi/politiikka/art-2000011950748.html"
         },
         {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Hallitus aikoo tehdä 100 miljoonan euron säästöt sosiaalihuollosta",
+          "content": "",
+          "date": "2026-04-17T11:41:48.000Z",
+          "categories": [
+            "talouspolitiikka",
+            "politiikka",
+            "valtiontalous",
+            "sosiaalihuolto",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6957595"
+        },
+        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -59,7 +465,15 @@
           "categories": [
             "politiikka",
             "sosiaalihuolto",
-            "julkinen talous"
+            "julkinen talous",
+            "sosiaali- ja terveysministeriö",
+            "sosiaalityö",
+            "kuntouttava työtoiminta",
+            "köyhyys ja sosiaaliturva",
+            "wille rydman",
+            "sosiaalityöntekijät",
+            "asiakasmaksut",
+            "sosiaalipalvelut"
           ],
           "link": "https://yle.fi/a/74-20221045?origin=rss"
         },
@@ -94,46 +508,8 @@
       ]
     },
     {
-      "mainTitle": "Hormuzinsalmen avautuminen laskee öljyn hintaa",
-      "mainCategories": [
-        "Taloussanomat",
-        "Sijoittaminen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Raakaöljyn hinta syöksyy, pörssit kiitävät – Näin Hormuzinsalmen avautuminen näkyy markkinoilla",
-          "content": "Uutiset tärkeän meriväylän avautumisesta laittoivat markkinoihin vipinää. Osakkeiden lisäksi liikkuivat muun muassa öljy, kaasu, kulta ja korot.",
-          "date": "2026-04-17T14:33:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/648cba23-48a5-426b-89a3-020bdaf6981f"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hormuzinsalmi auki – öljyn hinta notkahti heti alas",
-          "content": "Keskeinen öljyreitti on aiemmin ollut suljettuna Lähi-idän konfliktin vuoksi.",
-          "date": "2026-04-17T14:08:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011952125.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Jere Karalahdelle ehdollista vankeutta huumerikoksista",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Rikokset",
-        "Huumeet"
-      ],
+      "mainTitle": "Jere Karalahdelle ehdollista vankeutta huumausainerikoksesta",
+      "mainCategories": [],
       "imageUrl": "",
       "relatedNews": [
         {
@@ -155,24 +531,6 @@
           "date": "2026-04-17T08:01:35.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/ex-jaakiekkoilija-jere-karalahdelle-ehdollista-van/13454008?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jere Karalahti tuomittiin törkeistä huumerikoksista – ehdollista vankeutta vuosi ja yhdeksän kuukautta",
-          "content": "Helsingin käräjäoikeus katsoi Karalahden syyllistyneen kokaiinin hallussa pitämiseen, syyte levittämisen osalta hylättiin.",
-          "date": "2026-04-17T07:06:29.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "rikokset",
-            "huumeet",
-            "huumeet ja rikollisuus",
-            "helsingin käräjäoikeus",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20214033?origin=rss"
         }
       ]
     },
@@ -210,143 +568,7 @@
       ]
     },
     {
-      "mainTitle": "Hormuzinsalmi avoinna meriliikenteelle tulitauon ajan",
-      "mainCategories": [
-        "Ulkomaat",
-        "Hormuzinsalmi",
-        "Britannia"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Iranin ulkoministeri: Hormuzinsalmi on auki laivaliikenteelle",
-          "content": "Iranin ulkoministeri Abbas Araghchi mukaan salmi on auki Libanonin tulitauon keston ajan.",
-          "date": "2026-04-17T14:16:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/0635e99b-9ba0-4e36-a596-70553b13e30b"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump: Hormuzinsalmi auki – Iranin merisaarto jatkuu",
-          "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
-          "date": "2026-04-17T13:37:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011917601.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iranin ulkoministeri Araghchi: Hormuzinsalmi on täysin avoinna tulitauon ajan",
-          "content": "Öljyn hinta laski välittömästi kymmenen prosenttia Iranin ilmoituksen jälkeen.",
-          "date": "2026-04-17T13:19:01.000Z",
-          "categories": [
-            "lähi-itä",
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "hormuzinsalmi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20221262?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kymmenet maat valmistelevat operaatiota Hormuzinsalmen liikenteen turvaamiseksi",
-          "content": "Iran ilmoitti Hormuzinsalmen avaamisesta kesken Ranskan ja Britannian isännöimän kokouksen.",
-          "date": "2026-04-17T12:30:41.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "hormuzinsalmi",
-            "britannia",
-            "iran",
-            "ranska",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20221235?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Iran avasi Hormuzinsalmen, Trump sanoi pitävänsä Iranin satamien saarron edelleen voimassa",
-          "content": "Hormuzinsalmi on täysin avoinna meriliikenteelle aselevon aikana, sanoo Iranin ulkoministeri Abbas Araghchi. Öljyn hinta laski välittömästi kymmenen prosenttia ilmoituksen jälkeen.",
-          "date": "2026-04-17T12:16:37.000Z",
-          "categories": [],
-          "link": "//www.kaleva.fi/iran-avasi-hormuzinsalmen-trump-sanoi-pitavansa-ir/13454731?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tärkeän Iran-kokouksen tulokset julkaistaan – suora lähetys kello 16.45",
-          "content": "Mahdollisen operaation tavoitteena on palauttaa merenkulun vapaus Hormuzinsalmessa.",
-          "date": "2026-04-17T11:48:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011951574.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Hormuzinsalmen voi kiertää, mutta nopeaa ratkaisua ei ole",
-          "content": "Hormuzinsalmen aiheuttamaa järjestelmätason riskiä maailmantaloudella voidaan hajauttaa vetämällä uusia öljyputkia. Oikotietä onneen ei kuitenkaan ole.",
-          "date": "2026-04-17T06:25:00.000Z",
-          "categories": [
-            "tilaajille",
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011941478.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iran avaa Hormuzinsalmen laivaliikenteelle",
-      "mainCategories": [
-        "Maailma",
-        "Politiikka"
-      ],
-      "imageUrl": "/images/trump/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Iran avaa Hormuzin­salmen tuli­tauon ajaksi, Trump: Öljy­saarto jatkuu",
-          "content": "HS seuraa sotaa hetki hetkeltä tässä jutussa.",
-          "date": "2026-04-17T13:51:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011909452.html"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Iran: Hormuzinsalmi on auki laivaliikenteelle, Trump: Neuvottelut etenevät – KL seuraa",
-          "content": "Donald Trumpin mukaan Israel ja Libanon neuvottelevat torstaina. Venäjällä puolestaan talous sukeltaa vastoin odotuksia. Vladimir Putin vaatii selitystä. Kauppalehti seuraa markkinapäivän kehittymistä tässä artikkelissa.",
-          "date": "2026-04-17T13:39:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/580f9798-a7f6-4408-b848-e14dac1449da"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Donut Labin rikosilmoitus ja kiistot",
+      "mainTitle": "Donut Labin rikosilmoitus ja kiistot jatkuvat",
       "mainCategories": [
         "Taloussanomat",
         "Auto"
@@ -424,7 +646,7 @@
       ]
     },
     {
-      "mainTitle": "Markkinaoikeus: Finnair ei rikkonut lakia",
+      "mainTitle": "Markkinaoikeus: Finnair sai hylätä korvaukset",
       "mainCategories": [
         "Suomi",
         "Taloussanomat",
@@ -460,7 +682,7 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Kuluttajansuoja | Markkina­oikeus: Finnair ei rikkonut lakia hylätessään korvaus­vaatimuksia",
+          "title": "Kuluttajansuoja | Markkinaoikeus: Finnair sai lain mukaan hylätä asiakkaiden korvaus­vaatimuksia",
           "content": "Kuluttaja-asiamies vaati Finnairilta 300 000 euron sakkoa käytännöstä, jossa korvausvaatimukset on tehtävä kahden kuukauden kuluessa lentopäivästä.",
           "date": "2026-04-17T13:21:00.000Z",
           "categories": [
@@ -471,11 +693,11 @@
       ]
     },
     {
-      "mainTitle": "Pieni tyttö kuoli kuorma-auton alle",
+      "mainTitle": "Mynämäen kuolonkolarin tutkinta päättynyt",
       "mainCategories": [
-        "Kotimaa",
         "Rikosepäilyt",
-        "Mynämäki"
+        "Mynämäki",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -509,6 +731,23 @@
             "varsinais-suomi"
           ],
           "link": "https://yle.fi/a/74-20221258?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Rikosnimike muuttui Mynämäen kuolonkolarissa",
+          "content": "",
+          "date": "2026-04-17T13:11:12.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "onnettomuudet",
+            "mynämäki",
+            "rikos ja oikeus",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6957681"
         },
         {
           "publisherId": "iltalehti",
@@ -562,11 +801,11 @@
       ]
     },
     {
-      "mainTitle": "Opiskelija kiinni leikkiaseen kanssa Porissa",
+      "mainTitle": "Leikkiaseen kanssa liikkunut opiskelija kiinni",
       "mainCategories": [
         "Kotimaa",
-        "Koulutus",
-        "Pori"
+        "Suomi",
+        "Poliisioperaatio"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -605,22 +844,19 @@
           "link": "//www.kaleva.fi/poliisi-satakunnan-ammattikorkeakoululta-kiinni-ot/13454103?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Opiskelija kulki leikkiaseen kanssa ammattikorkeakoulussa Porissa – poliisi uhkasi miestä kiinniottotilanteessa aseella",
-          "content": "Poliisi sai ilmoituksen aseistautuneesta henkilöstä Satakunnan ammattikorkeakoulussa aamupäivällä. Poliisi vahvistaa, että kyse oli leikkiaseesta.",
-          "date": "2026-04-17T07:14:09.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Poliisi otti kiinni porilaiskoulun tiloissa liikkuneen maastopukuisen miehen, ase paljastui leikkiaseeksi",
+          "content": "",
+          "date": "2026-04-17T07:31:27.000Z",
           "categories": [
-            "koulutus",
-            "satakunnan ammattikorkeakoulu",
+            "poliisioperaatio",
             "pori",
             "kotimaa",
-            "aseet",
-            "poliisi",
-            "satakunta"
+            "uutiset"
           ],
-          "link": "https://yle.fi/a/74-20221142?origin=rss"
+          "link": "https://www.ts.fi/a/6957331"
         }
       ]
     },
@@ -682,7 +918,7 @@
         "Eläkkeet",
         "Taloussanomat"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -726,13 +962,53 @@
       ]
     },
     {
+      "mainTitle": "Hormuzinsalmen liikenteen turvaaminen käynnissä",
+      "mainCategories": [
+        "Ulkomaat",
+        "Hormuzinsalmi",
+        "Britannia"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kymmenet maat valmistelevat operaatiota Hormuzinsalmen liikenteen turvaamiseksi",
+          "content": "Iran ilmoitti Hormuzinsalmen avaamisesta kesken Ranskan ja Britannian isännöimän kokouksen.",
+          "date": "2026-04-17T12:30:41.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "hormuzinsalmi",
+            "britannia",
+            "iran",
+            "ranska",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20221235?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tärkeän Iran-kokouksen tulokset julkaistaan – suora lähetys kello 16.45",
+          "content": "Mahdollisen operaation tavoitteena on palauttaa merenkulun vapaus Hormuzinsalmessa.",
+          "date": "2026-04-17T11:48:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011951574.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Öljytankkerit aiheuttavat huolta Itämerellä",
       "mainCategories": [
         "Onnettomuudet",
         "Suomenlahti",
         "Pietari"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -780,11 +1056,11 @@
     {
       "mainTitle": "Stubb vierailee Jordaniassa ja Egyptissä",
       "mainCategories": [
-        "Politiikka",
         "Valtiovierailut",
-        "Egypti"
+        "Egypti",
+        "Jordania"
       ],
-      "imageUrl": "/images/stubb/2.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -814,56 +1090,11 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20221240?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Stubb Egyptiin – Mukana iso joukko yrityksiä",
-          "content": "Presidentin kanslia: Vastaavaa ei ole tapahtunut sitten vuoden 2009. Presidentti Alexander Stubb tekee virallisen vierailun Jordaniaan ja Egyptiin ensi viikolla 20.–22. huhtikuuta. Stubb tapaa Egyptin presidentin Abdel Fattah al-Sisin Kairossa tiistaina 21. huhtikuuta. – Keskusteluissa ovat esillä tilanne Iranissa, Hormuzinsalmessa, Gazassa ja laajemmin Lähi-idässä, tasavallan presidentin kanslian tiedotteessa kerrotaan.",
-          "date": "2026-04-17T11:13:39.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/314b08d4-82c2-45c4-9069-c66804ec356b"
         }
       ]
     },
     {
-      "mainTitle": "Trumpin Fed-pääjohtajan nimitys vaikeutuu",
-      "mainCategories": [
-        "Taloussanomat"
-      ],
-      "imageUrl": "/images/trump/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Trumpin vihamielisyys on kääntymässä häntä itseään vastaan",
-          "content": "Presidentti Donald Trump on reilun vuoden koettanut päästä eroon Fedin pääjohtajasta Jerome Powellista. Nyt Powellin kausi on päättymässä ja Trump itse vaikeuttaa johtajan vaihdosta, kirjoittaa Yhdysvaltojen kirjeenvaihtaja Jukka Lehtinen.",
-          "date": "2026-04-17T11:45:00.000Z",
-          "categories": [
-            "yhdysvaltojen talous"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/2a03cdeb-4735-4ef0-ac3d-a63b2c7bacd9"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump uhkaa Fedin pääjohtajaa potkuilla – republikaani estämässä nimityksen",
-          "content": "Donald Trump puhui asiasta Foxin haastattelussa.",
-          "date": "2026-04-15T23:46:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011947155.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomi puolustaa datakeskusten investointeja",
+      "mainTitle": "Suomi puolustaa datakeskushankkeita",
       "mainCategories": [
         "Politiikka",
         "Taloussanomat"
@@ -897,7 +1128,7 @@
       ]
     },
     {
-      "mainTitle": "Sodanaikainen tykistökranaatti löytyi Sallasta",
+      "mainTitle": "Sallasta löytyi vanha tykistökranaatti",
       "mainCategories": [
         "Kotimaa",
         "Venäjä",
@@ -921,18 +1152,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20221234?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Vaarallinen löytö aivan itärajan vierestä – Alue eristetty",
-          "content": "Räjähtämätön tykistökranaatti löydettiin torstaina illalla noin 250 metrin päässä valtakunnan rajasta. Sallan rajanylityspaikan läheltä rajalle rakennettavan esteaidan kaivuutöiden yhteydessä  on löytynyt sodanaikainen tykistökranaatti, tiedottaa Lapin poliisilaitos. Räjähtämätön tykistökranaatti löydettiin torstaina illalla noin 250 metrin päässä valtakunnan rajasta. Alue eristettiin välittömästi löydön jälkeen.",
-          "date": "2026-04-17T11:12:33.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/defef1c0-5ae3-4c20-a360-77a13ef53339"
         },
         {
           "publisherId": "kaleva",
@@ -1084,7 +1303,7 @@
       ]
     },
     {
-      "mainTitle": "Myanmarin uusi presidentti armahti vankeja",
+      "mainTitle": "Myanmarin presidentti armahti tuhansia vankeja",
       "mainCategories": [
         "Oikeus",
         "Myanmar",
@@ -1254,12 +1473,13 @@
       ]
     },
     {
-      "mainTitle": "Venäjältä laukaistu raketti aiheutti hälytyksiä",
+      "mainTitle": "Venäjältä laukaistu kantoraketti herätti huomiota",
       "mainCategories": [
+        "Kotimaa",
         "Suomi",
-        "Kotimaa"
+        "Taivaanilmiöt"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/venäjä/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1270,6 +1490,23 @@
           "date": "2026-04-17T05:44:13.000Z",
           "categories": [],
           "link": "//www.kaleva.fi/nayttava-valoilmio-heratti-huomiota-perjantain-vas/13453644?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Poliisi: Itärajan tuntumassa havaintoja valoilmiöstä, kyseessä Venäjältä laukaistu kantoraketti",
+          "content": "",
+          "date": "2026-04-17T04:14:18.000Z",
+          "categories": [
+            "taivaanilmiöt",
+            "avaruus",
+            "avaruusohjelmat",
+            "venäjä",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6957048"
         },
         {
           "publisherId": "hs",
@@ -1298,7 +1535,7 @@
       ]
     },
     {
-      "mainTitle": "Unkarin vaalit: Oikeiston uudistustarve korostuu",
+      "mainTitle": "Unkarin vaalit: Uuden johdon haasteet ja odotukset",
       "mainCategories": [
         "Vaalit",
         "Unkari",
@@ -1444,7 +1681,7 @@
       "mainCategories": [
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1637,26 +1874,14 @@
       ]
     },
     {
-      "mainTitle": "Roberta Metsola vierailee Suomessa ja puhuu EU:sta",
+      "mainTitle": "Metsola: Trumpin arvostelu ei hyväksyttävää",
       "mainCategories": [
-        "Politiikka",
         "Ulkomaat",
-        "Unkari"
+        "Unkari",
+        "Kotimaa"
       ],
-      "imageUrl": "/images/euroopan unioni/1.jpg",
+      "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin Roberta Metsola puhui Suomessa",
-          "content": "Euroopan parlamentin puhemies Roberta Metsola vierailee Suomessa.",
-          "date": "2026-04-16T15:22:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011949306.html"
-        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -1673,23 +1898,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20221074?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "EU-parlamentin puhemies Roberta Metsola vierailee Suomessa",
-          "content": "",
-          "date": "2026-04-15T23:21:04.000Z",
-          "categories": [
-            "euroopan unioni",
-            "euroopan parlamentin puhemies",
-            "roberta metsola",
-            "alexander stubb",
-            "kansainvälinen politiikka",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20220846?origin=rss"
         },
         {
           "publisherId": "yle",
@@ -1750,11 +1958,11 @@
       ]
     },
     {
-      "mainTitle": "Turkissa koulusurmia ja mielenosoituksia",
+      "mainTitle": "Turkissa mielenosoituksia kouluampumisten vuoksi",
       "mainCategories": [
-        "Maailma",
         "Ampuminen",
-        "Turkki"
+        "Turkki",
+        "Mielenosoitukset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1786,18 +1994,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20221011?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Turkki | Useita kuoli ja kymmeniä loukkaantui kahdessa peräkkäisessä koulu­ampumisessa Turkissa",
-          "content": "Turkissa tapahtui kouluampuminen sekä tiistaina että keskiviikkona.",
-          "date": "2026-04-15T15:31:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011946314.html"
         }
       ]
     },
@@ -1887,7 +2083,7 @@
       ]
     },
     {
-      "mainTitle": "Orpon hallituksen tulos heikoin puoluebarometrissa",
+      "mainTitle": "Orpon hallituksen tulos heikko puoluebarometrissa",
       "mainCategories": [
         "Politiikka",
         "Kyselytutkimus",
@@ -2057,40 +2253,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000011947163.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Unkarin vaalivoitto ja Orbánin häviö",
-      "mainCategories": [
-        "Politiikka",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Unkarin vaalivoittaja naljaili Orbánille – ”Lukiko hän Trumpin lausuntoa”",
-          "content": "Pääministeri Viktor Orbánin rökittäneen puolueen johtaja viittasi presidentti Donald Trumpin kehuun.",
-          "date": "2026-04-15T20:27:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011947052.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Unkarin vaalit | ”Olen hymyillyt viimeiset neljä päivää”, kommentoi Stubb Orbánin häviötä",
-          "content": "Unkarin vallanvaihto on helpotus, kommentoi tasavallan presidentti vierailullaan Kanadassa.",
-          "date": "2026-04-15T15:06:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000011946775.html"
         }
       ]
     }
