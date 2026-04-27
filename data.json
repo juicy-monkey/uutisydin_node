@@ -1,120 +1,40 @@
 {
-  "timestamp": "2026-04-26T19:43:49.317Z",
-  "successCount": 12,
-  "failureCount": 10,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2026-04-27T06:24:55.923Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Ampumavälikohtaus keskeytti Valkoisen talon illallisen",
+      "mainTitle": "Ampumavälikohtaus keskeytti Trumpin illallisen",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma",
-        "Ampumavälikohtaus"
+        "Maailma"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Ampuja pilkkasi hotellin turvatoimia ”järjettömän” surkeiksi",
+          "title": "Trump sanoo vastustelleensa agenttejaan – kertoo nyt syyn",
           "content": "Hilton-hotellissa käynnissä olleet Valkoisen talon kirjeenvaihtajien illalliset keskeytyivät laukausten ääniin.",
-          "date": "2026-04-26T15:35:00.000Z",
+          "date": "2026-04-27T06:22:00.000Z",
           "categories": [
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000011968145.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tältä Washingtonin ammuskelu­paikalla näyttää nyt – Mary kuuli laukaukset huoneeseensa",
+          "content": "IS vieraili paikan päällä Hilton-hotellissa, jossa Donald Trumpin johtama illallinen muuttui lauantaina kaaokseksi.",
+          "date": "2026-04-26T20:00:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011968509.html"
         },
         {
           "publisherId": "hs",
@@ -127,22 +47,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011968146.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Tämä epäillystä ampujasta tiedetään",
-          "content": "",
-          "date": "2026-04-26T09:24:47.000Z",
-          "categories": [
-            "ampumavälikohtaus",
-            "yhdysvallat",
-            "donald trump",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6965310"
         },
         {
           "publisherId": "is",
@@ -179,6 +83,120 @@
           "link": "https://www.is.fi/ulkomaat/art-2000011968192.html"
         },
         {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Stefan kertoo IS:lle kaaoksesta ampumispaikalla",
+          "content": "Trumpin isännöimillä Valkoisen talon kirjeenvaihtajien illallisella tapahtui ampumavälikohtaus. Hotellin aulassa tapahtumien aikaan ollut Stefan kuvailee tunnelmaa kaoottiseksi.",
+          "date": "2026-04-26T03:56:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011968160.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin illallisvälikohtaus ja ampujan manifesti",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Ampumavälikohtaukset"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tämän tiedämme nyt: Yhdysvaltain kirjeen­vaihtaja­illallisen ampumisesta epäilty julkaisi manifestin",
+          "content": "Lauantaisesta välikohtauksesta epäilty on saamassa syytteet. Hänen kerrotaan julkaisseen perusteet teolleen hetkeä ennen hyökkäystä.",
+          "date": "2026-04-27T06:12:13.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "yhdysvaltain presidentti",
+            "ampumavälikohtaukset",
+            "väkivalta",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222800?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yksi yksityiskohta Trumpin illallisen ampuma­väli­kohtauksessa hämmentää",
+          "content": "Huomio kiinnittyy varapresidentti J. D. Vanceen.",
+          "date": "2026-04-26T12:38:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011968412.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trumpin puhe välikohtauksen jälkeen oli ”erittäin kiinnostava”, sanoo professori: ”Hänellä on kyky hallita julkisuutta”",
+          "content": "Professori Benita Heiskanen näkee kolme syytä siihen, miksi Trumpiin liittyy poikkeuksellisen paljon väkivaltaisia välikohtauksia.",
+          "date": "2026-04-26T10:44:07.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "yhdysvaltojen politiikka",
+            "yhdysvaltain presidentti",
+            "ampumavälikohtaukset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222745?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Tämä epäillystä ampujasta tiedetään",
+          "content": "",
+          "date": "2026-04-26T09:24:47.000Z",
+          "categories": [
+            "ampumavälikohtaus",
+            "yhdysvallat",
+            "donald trump",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6965310"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tämä tiedetään epäillystä ampujasta: kalifornialainen opettaja, joka antoi Harrisille 25 dollarin lahjoituksen",
+          "content": "CBS: Halusi ampua Trumpin hallinnon jäseniä.",
+          "date": "2026-04-26T05:23:55.000Z",
+          "categories": [
+            "rikokset",
+            "poliisi",
+            "ulkomaat",
+            "yhdysvallat",
+            "donald trump",
+            "hotellit"
+          ],
+          "link": "https://yle.fi/a/74-20222728?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpilta synkkä arvio ampujan tavoitteesta – ”Luulen niin”",
+          "content": "Trump kertoi tiedotustilaisuudessa yksityiskohtia välikohtauksesta.",
+          "date": "2026-04-26T05:03:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011968225.html"
+        },
+        {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
@@ -195,16 +213,724 @@
           "link": "https://www.ts.fi/a/6965223"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stefan kertoo IS:lle kaaoksesta ampumispaikalla",
-          "content": "Trumpin isännöimillä Valkoisen talon kirjeenvaihtajien illallisella tapahtui ampumavälikohtaus. Hotellin aulassa tapahtumien aikaan ollut Stefan kuvailee tunnelmaa kaoottiseksi.",
-          "date": "2026-04-26T03:56:00.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trump antoi haastattelun, epäillyn manifesti julkaistiin – Viimeisimmät tiedot ampumaväli­kohtauksesta",
+          "content": "Epäilty ampuja myönsi viranomaisille, että hyökkäyksen kohteena oli Yhdysvaltain presidentti Donald Trumpin hallinto. Yhdysvaltain presidentti Donald Trump antoi medialle lausunnon ampumavälikohtauksen jälkeen. Trumpin mukaan yksi viranomainen loukkaantui välikohtauksessa. Agentti ei kuitenkaan loukkaantunut vakavasti. Trumpin mukaan ensimmäinen nainen Melania Trump on tapahtuneesta erittäin järkyttynyt.",
+          "date": "2026-04-26T00:53:10.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011968160.html"
+          "link": "https://www.iltalehti.fi/ulkomaat/a/eed27e93-8e63-46cf-9ce0-478cdb13b3e9"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kuluttajien luottamus heikentynyt huhtikuussa",
+      "mainCategories": [
+        "Kuluttajat",
+        "Tilastokeskus",
+        "Asuntokauppa"
+      ],
+      "imageUrl": "/images/talous/2.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Kuluttajien luottamus umpisurkeissa lukemissa: ”Taantuman todennäköisyys kasvaa”",
+          "content": "Elinkeinoelämä näkee valoa tunnelin päässä, vaikka kuluttajien tunnelmat synkistyvät.",
+          "date": "2026-04-27T06:06:00.000Z",
+          "categories": [
+            "kansantalous"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/973c7675-69b0-4695-b86c-1438f4414a04"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Karu tieto suomalaisten mielialasta – asunnon­­ostoaikeet matalimmillaan pitkään aikaan",
+          "content": "Kuluttajien luottamus on heikentynyt kuukausi kuukaudelta alkuvuodesta.",
+          "date": "2026-04-27T06:04:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000011969039.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tilastokeskus: Kuluttajien luottamus vajosi lisää huhtikuussa",
+          "content": "Harvinaisen harva kaavailee asunnon ostamista.",
+          "date": "2026-04-27T05:41:18.000Z",
+          "categories": [
+            "kuluttajat",
+            "tilastokeskus",
+            "asuntokauppa",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20222810?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Viimeinen päivä veroilmoituksen jättämiseen",
+      "mainCategories": [
+        "Verotus",
+        "Veroilmoitukset",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viimeisilläkin on veroilmoituksen määräpäivä huomenna tiistaina",
+          "content": "Valtaosalla veroilmoituksen tiedot ovat valmiiksi oikein.",
+          "date": "2026-04-27T05:51:58.000Z",
+          "categories": [
+            "verotus",
+            "suomen verohallinto",
+            "veroilmoitukset",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20222812?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Huomenna on viimeinen veroilmoittamisen määräpäivä – verotuspäätös tulee suurimmalle osalle vain sähköisesti",
+          "content": "",
+          "date": "2026-04-27T05:36:16.000Z",
+          "categories": [
+            "veroilmoitus",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6965754"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mies jatkoi salaattia laukauksista huolimatta",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Muut syöksyivät pöytiensä alle – tämä mies jatkoi salaattinsa syömistä",
+          "content": "Yksi vieras oli sitä mieltä, että salaatin syömistä voi jatkaa kesken vaaratilanteen.",
+          "date": "2026-04-27T04:54:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011968996.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kirjeenvaihtajien illalliset | Muut syöksyivät pöytien alle, mutta yksi illalliselle osallistunut mies jatkoi salaattinsa syömistä",
+          "content": "Tilaisuus keskeytyi laukauksiin, mutta illalliselle osallistunut Michael Glantz ei antanut sen häiritä ateriointiaan.",
+          "date": "2026-04-26T22:32:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011968947.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Törkeä varkaus Helsingin keskustassa",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Helsinki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisilla operaatio Helsingin ydin­keskustassa",
+          "content": "Yksi henkilö on otettu kiinni epäiltynä törkeästä varkaudesta.",
+          "date": "2026-04-27T03:50:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011968964.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Nyt puhuu koruliike Holmaston yrittäjä: \"Tietysti ottaa pannuun\"",
+          "content": "Helsinkiläinen kello- ja koruliike joutui yöllä varkauden kohteeksi. Saalis on huomattava. Helsingin ydinkeskustassa sijaitsevaan koru- ja rahaliikkeeseen on murtauduttu yöllä. Aleksanterinkadulla sijaitsevan Holmasto-liikkeen iso näyteikkuna on täysin irti paikoiltaan. Helsingin poliisi kertoo tiedotteessaan, että tapausta tutkitaan törkeänä varkautena.",
+          "date": "2026-04-27T02:24:57.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/6fc98a31-8d48-41f2-bd61-97346106aecc"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi­operaatio Helsingin keskustassa: Kello­liikkeeseen törkeä varkaus, yksi kiinni",
+          "content": "Liikkeestä on rikkoutunut lasi, jota kautta on päästy sisään kello­liikkeeseen, Helsingin poliisista kerrotaan Ylelle.",
+          "date": "2026-04-27T02:24:05.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "helsinki",
+            "törkeä varkaus",
+            "kello- ja kultasepänliikkeet",
+            "helsingin poliisilaitos",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20222797?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kansallinen veteraanipäivä 27. huhtikuuta",
+      "mainCategories": [
+        "Kotimaa",
+        "Suomi",
+        "Veteraanipäivä"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tästä syystä tänään liputetaan",
+          "content": "Maanantaina vietetään kansallista veteraanipäivää. Maanantaina 27. huhtikuuta Suomen lippu nousee jälleen salkoon kansallisen veteraanipäivän kunniaksi. Juhlapäivänä kunnioitetaan Suomen sotaveteraaneja.",
+          "date": "2026-04-27T03:33:31.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/a82fef0b-22ba-48f6-a972-68cb7324268b"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tänään liputetaan sotaveteraanien kunniaksi",
+          "content": "",
+          "date": "2026-04-26T23:49:18.000Z",
+          "categories": [
+            "suomi",
+            "veteraanipäivä",
+            "sotaveteraanit",
+            "mikkeli",
+            "liputus",
+            "alexander stubb",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20222794?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sote-palveluille vaaditaan tarkempaa lupauksia",
+      "mainCategories": [
+        "Politiikka",
+        "Sosiaalipalvelut",
+        "Peruspalvelut"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Professori lataa inhottavan totuuden – Tämä suomalaisilla on edessä",
+          "content": "Professori Kristiina Patjan mielestä soteen ei pitäisi laittaa enempää rahaa, vaan jakaa rahat uudella tavalla. Helsingin yliopiston terveydenhuollon professori Kristiina Patja kertoo nyt suoran näkemyksensä siitä, mitä suomalaisten sosiaali- ja terveyspalveluille pitäisi hänestä tehdä tulevalla hallituskaudella – ja mikä on hänestä inhottava totuus, jota poliitikot eivät uskalla sanoa ääneen. Patjan mukaan olennaista olisi, että päättäjät kertoisivat avoimesti palvelulupauksen, eli millaisia palveluita saa julkisesta terveydenhuollosta.",
+          "date": "2026-04-27T03:00:17.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/3357afbb-e45c-42e7-983b-63c28e2ff79d"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suuri osa suomalaisista haluaa julkisiin sote-palveluihin tarkemman palvelu­lupauksen",
+          "content": "Finanssialan näkemyksen mukaan julkinen palvelulupaus toisi läpinäkyvyyttä kustannuksiin ja auttaisi suomalaisia varautumaan omaan hoivaansa.",
+          "date": "2026-04-26T21:45:00.000Z",
+          "categories": [
+            "sosiaalipalvelut",
+            "sosiaali- ja terveyspalvelut",
+            "finanssialan keskusliitto",
+            "peruspalvelut",
+            "kyselytutkimus",
+            "politiikka",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20222790?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pohjois-Korea ja Venäjä vahvistavat yhteistyötä",
+      "mainCategories": [
+        "Venäjä",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pohjois-Korean Kim sanoi jatkavansa Venäjän tukemista",
+          "content": "Venäjän delegaatio osallistui Pohjois-Korean sotilaiden muistomerkin valmistumis­seremoniaan.",
+          "date": "2026-04-27T01:17:18.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "pohjois-korea",
+            "venäjä",
+            "kim jong-un",
+            "venäjän hyökkäys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222796?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Venäjä ja Pohjois-Korea sopivat sotilaallisesta yhteistyöstä tuleviksi vuosiksi",
+          "content": "",
+          "date": "2026-04-26T12:43:45.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "pohjois-korea",
+            "venäjä",
+            "kim jong-un",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222763?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kuningas Charles vierailulle Yhdysvaltoihin",
+      "mainCategories": [
+        "Britannia",
+        "Yhdysvallat",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Britannian kuningas Charles valtio­vierailulle Yhdysvaltoihin",
+          "content": "",
+          "date": "2026-04-27T00:45:27.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "britannia",
+            "yhdysvallat",
+            "charles iii",
+            "donald trump",
+            "valtiovierailut",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222795?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kuninkaallinen valtiovierailu keskellä myrskyäviä suhteita",
+          "content": "Kuningas Charles tapaa Washingtonissa Britanniaa kärkevästi arvostelleen presidentti Donald Trumpin. Nolot tilanteet pyritään välttämään pitämällä keskustelut suljettujen ovien takana.",
+          "date": "2026-04-26T10:45:25.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "britannia",
+            "donald trump",
+            "charles iii",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222752?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Räjähdys poliisiaseman edustalla Pohjois-Irlannissa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Poliisi",
+        "Räjähdykset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kaappaajat räjäyttivät auton poliisiaseman edessä Pohjois-Irlannissa",
+          "content": "Poliisi ehti eristää ja evakuoida lähialueet ennen kuin auto räjähti.",
+          "date": "2026-04-26T21:18:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011968943.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pohjois-Irlanti | Poliisiaseman edustalla räjähti, uutta IRA:ta epäillään",
+          "content": "Kaapattuun jakeluautoon piilotettiin kaasupulloräjähde, joka räjäytti ajoneuvon ilmiliekkeihin. Kukaan ei loukkaantunut räjähdyksessä.",
+          "date": "2026-04-26T18:33:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011968858.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Pohjois-Irlannissa Belfastin esi­kaupunki­alueella räjähti poliisiaseman ulkopuolella",
+          "content": "",
+          "date": "2026-04-26T09:14:24.000Z",
+          "categories": [
+            "poliisi",
+            "pohjois-irlanti",
+            "pommit ja räjähdykset",
+            "räjähdykset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222743?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Junaliikenne palautui Tampereen ja Parkanon välillä",
+      "mainCategories": [
+        "Liikenne",
+        "Rautatieliikenne",
+        "Junat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ilkivalta pysäytti junat Parkanon ja Tampereen välillä – Junaliikenne jatkuu taas",
+          "content": "Parkanon ja Tampereen välillä oli ilkivallasta aiheutuva sähköratavika, selviää VR:n sivuilta. Junaliikenne Tampereen ja Parkanon välillä jatkuu jälleen, kertoo Fintraffic varhain maanantaiaamuna julkaistussa tiedotteessa. Kolme kaukoliikenteen junaa myöhästyi noin kaksi tuntia.",
+          "date": "2026-04-26T20:04:39.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/8fd4e32a-495d-46de-abab-93753c9d23df"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Junaliikenne jatkuu Tampereen ja Parkanon välillä",
+          "content": "",
+          "date": "2026-04-26T19:31:14.000Z",
+          "categories": [
+            "liikenne",
+            "rautatieliikenne",
+            "junat",
+            "junaliikennehäiriöt",
+            "junaliikenne",
+            "junan aikataulu",
+            "junaliikenne (rautatieliikenne)",
+            "tampere",
+            "helsinki",
+            "rovaniemi",
+            "pirkanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20222783?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäjä vetäytyy kriisistä Malissa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Mali",
+        "Sotilasjuntta"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Venäjä joutuu vetäytymään liittolais­maassaan – Pekka Toveri varoittaa seurauksista",
+          "content": "Venäjän tukema pohjoisafrikkalainen sotilasjuntta on vaarassa kaatua. RFI:n mukaan jihadistijärjestö sanoo tappaneensa Malin puolustusministerin. Malia johtava sotilasjuntta on vakavan kriisin keskellä. Junttaa vastustavat jihadistijärjestöt ja tuaregikapinalliset liittoutuivat lauantaina. Joukot iskevät toista päivää voimalla Malin hallintoa vastaan esimerkiksi pääkaupunki Bamakossa.",
+          "date": "2026-04-26T18:48:13.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/ebca6019-83b7-4720-be46-734041356ac0"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Malin taistelut kiihtyvät, venäläiset häädettiin tukikohdastaan",
+          "content": "Ääri-islamilaiset jihadistit ja maan pohjoisosien tuaregikapinalliset ovat lauantaista lähtien hyökänneet armeijan joukkojen kimppuun liki koko Malissa.",
+          "date": "2026-04-26T13:22:51.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "mali",
+            "sotilasjuntta",
+            "puolustusvoimat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222762?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lentokoneen moottori syttyi tuleen Intiassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Onnettomuudet",
+        "Lentoliikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lentokoneen lähtö sai ikävän käänteen Intiassa – moottori liekeissä, kuusi loukkaantui",
+          "content": "Vammat tulivat hätäevakuoinnin aikana.",
+          "date": "2026-04-26T16:20:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011968359.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lentokoneen moottori syttyi tuleen kesken lähtö­kiihdytyksen Intiassa – kuusi ihmistä loukkaantui koneen evakuoinnissa",
+          "content": "",
+          "date": "2026-04-26T04:11:55.000Z",
+          "categories": [
+            "onnettomuudet",
+            "lentoliikenne",
+            "intia",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222727?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sdp vaatii Orpon eroa pääministerinä",
+      "mainCategories": [
+        "Politiikka",
+        "Hallitukset",
+        "Talous"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tuppurainen: Sdp ryhtyi toimiin Orpon erottamiseksi",
+          "content": "Sdp:n eduskuntaryhmän puheenjohtaja ihmettelee, eikö pääministeri Petteri Orpo tunne tulosvastuun käsitettä.",
+          "date": "2026-04-26T14:01:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011968645.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Orpo vastasi Ylellä erovaatimuksiin",
+          "content": "Sdp:n Antti Lindtman ja vihreiden Sofia Virta ovat vaatineet Petteri Orpoa eroamaan pääministerin paikalta.",
+          "date": "2026-04-26T11:27:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011968484.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Orpo: Drooneihin tarvittaisiin parempi havainnointijärjestelmä",
+          "content": "Seurasimme lähetystä tässä artikkelissa. Ohjelman voit kuunnella jälkikäteen Yle Areenasta.",
+          "date": "2026-04-26T10:50:08.000Z",
+          "categories": [
+            "politiikka",
+            "petteri orpo",
+            "hallitukset",
+            "talous",
+            "pääministerin haastattelutunti"
+          ],
+          "link": "https://yle.fi/a/74-20222754?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Purra kiistää sosiaaliturvan leikkaukset",
+      "mainCategories": [
+        "Politiikka",
+        "Perussuomalaiset",
+        "Puolueet"
+      ],
+      "imageUrl": "/images/riikka purra/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Purra kiisti Ylellä luvanneensa, että köyhiltä ei leikata – näin perus­suomalaisten vaaliohjelmissa luki",
+          "content": "Perussuomalaisten poliittisissa ohjelmissa kerrotaan Purran mukaan selkeästi tarvittavat leikkaukset sosiaaliturvaan. Yle ei löytänyt ohjelmista näitä tietoja.",
+          "date": "2026-04-26T12:56:27.000Z",
+          "categories": [
+            "politiikka",
+            "riikka purra",
+            "perussuomalaiset",
+            "puolueet",
+            "talous",
+            "populistiset puolueet",
+            "suomen poliittiset puolueet",
+            "pienituloiset",
+            "euroskeptiset poliittiset puolueet",
+            "suomen politiikka",
+            "köyhyys ja sosiaaliturva",
+            "suomi",
+            "vaalit"
+          ],
+          "link": "https://yle.fi/a/74-20222708?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valtiovarain­ministeri Purra kiisti Ykkös­aamussa luvanneensa, ettei pienituloisilta leikata",
+          "content": "Valtiovarain­ministeri Riikka Purra vastasi yleisö­kysymykseen lapsiköyhyyttä lisäävistä päätöksistä.",
+          "date": "2026-04-25T06:30:35.000Z",
+          "categories": [
+            "politiikka",
+            "riikka purra",
+            "ykkösaamu",
+            "valtiontalous",
+            "kehysriihi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20222655?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Opposition talousratkaisut jäävät epäselviksi",
+      "mainCategories": [
+        "Politiikka",
+        "Puolueet",
+        "Oppositiopuolueet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS-analyysi | Keskusta ja vihreät ovat ajamassa vaaleihin vanhoilla viesteillä",
+          "content": "Ideologisesti eripariset oppositiopuolueet kaventavat hallitusvaihtoehtoja, kirjoittaa politiikan toimittaja Santeri Saarinen.",
+          "date": "2026-04-26T12:51:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011968275.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Videoanalyysi: Opposition ratkaisut velkaantumiseen jäävät epäselviksi",
+          "content": "SDP, keskusta ja vihreät kritisoivat lauantaina voimakkaasti hallituksen talouspolitiikkaa. Niiden omista vaihtoehdoista on kuitenkin vaikeaa löytää konkretiaa, sanoo politiikan toimittaja Petri Raivio videoanalyysissaan.",
+          "date": "2026-04-25T17:12:52.000Z",
+          "categories": [
+            "politiikka",
+            "puolueet",
+            "oppositiopuolueet",
+            "vihreä liitto",
+            "suomen sosialidemokraattinen puolue",
+            "suomen keskusta"
+          ],
+          "link": "https://yle.fi/a/74-20222713?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin hallinto laukausvaarassa, ei haavoittuneita",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvaltain väliaikainen oikeusministeri: Trumpin hallinto eilisen ampujan kohteena, tietoa Iran-yhteyksistä ei ole",
+          "content": "Presidentti Donald Trump kiidätettiin pois lavalta laukausten jälkeen.",
+          "date": "2026-04-26T12:11:40.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "valkoinen talo",
+            "yhdysvaltain presidentti",
+            "presidentti trumpin hallinto",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222760?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump vietiin turvaan kesken illallisen, kun juhlasaliin kuului laukauksia – Stubb: ”Olen välittänyt tukeni Trumpille”",
+          "content": "Presidentti Trump sekä varapresidentti J. D. Vance eivät kumpikaan ole haavoittuneet, kertoi Trumpin avustaja.",
+          "date": "2026-04-26T00:43:50.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "valkoinen talo",
+            "yhdysvaltain presidentti",
+            "yhdysvaltojen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222725?origin=rss"
         }
       ]
     },
@@ -240,6 +966,45 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011933852.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Takatalvi uhkaa huonoa ajokeliä",
+      "mainCategories": [
+        "Kotimaa",
+        "Sää",
+        "Liikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Karmea sääennuste sunnuntaille – uusi takatalvi vaanii jo näköpiirissä, sitten jopa +20 astetta voi ylittyä",
+          "content": "Ajokeli voi olla erittäin huono, ja tuulivahingot ovat mahdollisia.",
+          "date": "2026-04-26T06:17:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011968181.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ajokeli on erittäin huono maan keskiosissa, lunta kertynyt jopa 15 senttimetriä",
+          "content": "Merialueilla myrskylukemat saattavat ylittyä, sanoo Ylen meteorologi Matti Huutonen.",
+          "date": "2026-04-25T10:00:35.000Z",
+          "categories": [
+            "sää",
+            "liikenne",
+            "lumisade",
+            "takatalvi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20222679?origin=rss"
         }
       ]
     },
@@ -284,10 +1049,11 @@
       ]
     },
     {
-      "mainTitle": "Kolumbiassa kuolettava tienvarsi-isku",
+      "mainTitle": "Kolumbiassa väkivaltaisuudet kiihtyvät vaalien alla",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Ulkomaat",
+        "Väkivalta",
+        "Kolumbia"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -314,6 +1080,115 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011968143.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kolumbiassa räjäytettiin pommi linja-autossa – 20 kuollut",
+          "content": "Viranomaiset epäilevät iskusta entisiä Farc-sissejä.",
+          "date": "2026-04-25T23:24:41.000Z",
+          "categories": [
+            "väkivalta",
+            "kolumbia",
+            "etelä-amerikka",
+            "levottomuudet",
+            "pommit ja räjähdykset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222724?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Uusnatsien kokoontumisen ennakkotapahtumat Jyväskylässä",
+      "mainCategories": [
+        "Kotimaa",
+        "Yhteiskunta",
+        "Uusnatsismi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "KSML: Uusnatsien kokoontumispaikan ikkunat rikottiin",
+          "content": "Nuorisoseurantalon ikkunoita rikottiin ennen uusnatsijärjestön kokoontumista, kertoo Keskisuomalainen.",
+          "date": "2026-04-25T19:21:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011967934.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Uusnatsien tapahtuma Jyväskylässä sujui rauhallisesti, kertoo poliisi – ikkunat rikottiin jo aiemmin",
+          "content": "Ylen lauantaina paikalta ottamissa kuvissa näkyy, että tapahtumapaikan takaseinän ikkunat on peitetty vanereilla.",
+          "date": "2026-04-25T16:49:41.000Z",
+          "categories": [
+            "yhteiskunta",
+            "uusnatsismi",
+            "turvallisuus",
+            "jyväskylä",
+            "mielenosoitukset",
+            "keski-suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20222712?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uusnatsit koolla Jyväskylässä – nyt puhuu poliisi",
+          "content": "Jyväskylässä järjestettiin mielenosoitus natseja vastaan lauantaina puoliltapäivin.",
+          "date": "2026-04-25T15:31:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000011967632.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Orbán luopuu parlamenttipaikastaan Unkarissa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Unkari",
+        "Vaalit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Orbánilta yllättävä veto",
+          "content": "Orbán on hallinnut Unkaria 16 vuotta.",
+          "date": "2026-04-25T17:52:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011967911.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Orbán luopuu paikastaan Unkarin parlamentissa",
+          "content": "",
+          "date": "2026-04-25T15:56:30.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "unkari",
+            "victor orban",
+            "vaalit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20222706?origin=rss"
         }
       ]
     },
@@ -321,8 +1196,8 @@
       "mainTitle": "SDP valmistelee välikysymystä hallituksesta",
       "mainCategories": [
         "Politiikka",
-        "Oppositio",
-        "Välikysymys"
+        "Puoluevaltuusto",
+        "Puolueet"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -349,55 +1224,28 @@
           "link": "https://www.hs.fi/politiikka/art-2000011958906.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sdp haluaa kiristää nikotiini­tuotteiden ikärajaa, maahan­muuttajille vaatimuksia",
-          "content": "Sdp ottaa uudessa poliittisessa ohjelmassaan kantaa EU:n talouskurin ja käännytyslain puolesta.",
-          "date": "2026-04-25T14:03:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011967350.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Antti Lindtman: Jos pääministeri ei eroa, Sdp toimii",
-          "content": "Sdp:n puheenjohtajan mukaan hallitus on lyönyt hanskat naulaan.",
-          "date": "2026-04-25T13:42:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011964178.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Oppositio kokoontui puoluevaltuustojen kokouksiin: Lindtman ilmoitti välikysymyksestä, Virtakin vaatii Orpon eroa",
-          "content": "",
-          "date": "2026-04-25T12:41:39.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "SDP valmistelee välikysymystä – Lindtman: Hallitus epäonnistunut talouden korjaamisessa",
+          "content": "SDP julkaisi myös puolue­hallituksensa esityksen poliittisesta ohjelmasta, joka katsoo kymmenen vuoden päähän.",
+          "date": "2026-04-25T11:30:35.000Z",
           "categories": [
             "politiikka",
-            "hallituksen talouspolitiikka",
-            "oppositio",
-            "välikysymys",
-            "sdp",
-            "keskustapuolue",
-            "vihreät",
-            "kotimaa",
-            "uutiset"
+            "suomen sosialidemokraattinen puolue",
+            "puoluevaltuusto",
+            "antti lindtman",
+            "puolueet"
           ],
-          "link": "https://www.ts.fi/a/6964926"
+          "link": "https://yle.fi/a/74-20222673?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Vihreät vaativat Petteri Orpon eroa",
+      "mainTitle": "Sofia Virta vaatii Petteri Orpon eroa",
       "mainCategories": [
-        "Politiikka"
+        "Politiikka",
+        "Puoluevaltuusto"
       ],
       "imageUrl": "/images/sofia virta/1.jpg",
       "relatedNews": [
@@ -414,6 +1262,22 @@
           "link": "https://www.is.fi/politiikka/art-2000011967471.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Vihreiden Sofia Virta vaatii pääministeri Orpoa eroamaan",
+          "content": "Virran mukaan vihreille ei riitä pelkkä hallituksen vaihto, vaan puolue ajaa suunnanmuutosta Suomeen.",
+          "date": "2026-04-25T08:49:26.000Z",
+          "categories": [
+            "politiikka",
+            "sofia virta",
+            "vihreä liitto",
+            "puoluevaltuusto",
+            "petteri orpo"
+          ],
+          "link": "https://yle.fi/a/74-20222676?origin=rss"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -424,6 +1288,45 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011967363.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Keskusta mittauttaa hallituksen luottamusta",
+      "mainCategories": [
+        "Politiikka",
+        "Puolueet",
+        "Puoluevaltuusto"
+      ],
+      "imageUrl": "/images/antti kaikkonen/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kaikkonen: Hallituksen eväät on syöty – keskusta mittauttaa luottamuksen eduskunnassa",
+          "content": "Puheenjohtaja Antti Kaikkonen ehdotti keskustan puolue­valtuuston kokouksessa julkisen sektorin tehostamista tekoälyn avulla.",
+          "date": "2026-04-25T10:05:04.000Z",
+          "categories": [
+            "politiikka",
+            "suomen keskusta",
+            "antti kaikkonen",
+            "puolueet",
+            "puoluevaltuusto"
+          ],
+          "link": "https://yle.fi/a/74-20222671?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Keskusta | Antti Kaikkonen vaatii hallituksen luottamuksen mittaamista, väisti kysymykset säästöistä",
+          "content": "Keskusta ei edelleenkään avaa tarkemmin omia ehdotuksiaan siitä, mistä velkajarrun takia joudutaan säästämään.",
+          "date": "2026-04-25T09:53:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011952024.html"
         }
       ]
     }
