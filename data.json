@@ -1,15 +1,106 @@
 {
-  "timestamp": "2026-05-11T16:29:28.719Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-05-11T20:15:29.378Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Andes-virus julistettiin yleisvaaralliseksi Suomessa",
+      "mainTitle": "Hantavirus julistettu yleisvaaralliseksi Suomessa",
       "mainCategories": [
-        "Politiikka",
-        "Terveys",
-        "Maailma"
+        "Maailma",
+        "Suomi",
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -17,140 +108,228 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Hantavirus | Suomen hallitus määritteli Andes-viruksen aiheuttaman taudin yleis­vaaralliseksi",
-          "content": "Tiedossa on tällä hetkellä kaksi suomalaista, jotka ovat altistuneet Hondius-laivalla levinneelle virukselle.",
-          "date": "2026-05-11T16:28:00.000Z",
+          "title": "Hantavirus | Laivalta evakuoidulla espanjalaisella todettu tartunta – Alus lähti kohti Hollantia",
+          "content": "Suomen hallitus päätti määritellä taudin yleis­vaaralliseksi. THL:n osastonjohtaja ei ota kantaa siihen, onko kaksi taudille altistunutta suomalaista testattu viruksen varalta.",
+          "date": "2026-05-11T19:54:00.000Z",
           "categories": [
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011998490.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Hallitus päätti pikavauhtia – Tässä riskiarvio hanta­viruksesta",
-          "content": "Hallitus on hyväksynyt asetusmuutoksen Andes- eli hantaviruksen luokittelemisesta yleisvaaralliseksi tartuntataudiksi. Asia vahvistetaan Iltalehdelle hallituslähteistä. Asiasta pidettiin tänään valtioneuvoston istunto.",
-          "date": "2026-05-11T12:42:57.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Hantavirus | Alkaako risteily­alukselta uusi pandemia? THL ja professori perustelevat, miksi ei",
+          "content": "Uuteen pandemiaan ei uskota, koska virus tarttuu huonosti ihmisten välillä, se on tunnettu jo 1990-luvulta ja sen korkea kuolleisuus helpottaa rajoitustoimien perustelua.",
+          "date": "2026-05-11T13:35:00.000Z",
           "categories": [
-            "politiikka"
+            "tilaajille",
+            "suomi"
           ],
-          "link": "https://www.iltalehti.fi/politiikka/a/63a870a8-2c51-4c46-92c1-8406bbe458e3"
+          "link": "https://www.hs.fi/suomi/art-2000011998850.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Valmistelu edennyt: Andes-viruksen aiheuttama tauti Suomessa yleisvaaralliseksi tartuntataudiksi ehkä jo lähipäivinä",
-          "content": "Asetustekstiin kirjoitettavan lisäyksen sanamuodoksi on näillä näkymin tulossa Andes-viruksen aiheuttama vakava tauti.",
-          "date": "2026-05-10T16:07:19.000Z",
-          "categories": [
-            "terveys",
-            "sosiaali- ja terveysministeriö",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20225213?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ampumavälikohtaus Nizzassa, kaksi kuollut",
-      "mainCategories": [
-        "Ulkomaat",
-        "Rikokset",
-        "Nizza"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Nizzassa ampuma­välikohtaus: Ainakin kaksi ihmistä kuollut",
-          "content": "Ampumavälikohtauksen epäillään liittyvän huumerikollisuuteen. Ainakin kaksi ihmistä on kuollut ja kolme loukkaantunut ammuskelussa Nizzassa, kertoo ranskalaismedia Le Monde. Tapaus sattui maanantai-iltapäivänä Les Moulinsin kaupunginosassa.",
-          "date": "2026-05-11T16:15:44.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/f75577c4-7adc-4249-a4fa-bef570d378e5"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ammuskelu Nizzassa – ainakin kaksi kuollut ja kolme loukkaantunut",
-          "content": "Ammuskelu liittyy todennäköisesti huumekauppaan.",
-          "date": "2026-05-11T15:51:38.000Z",
-          "categories": [
-            "rikokset",
-            "nizza",
-            "ulkomaat",
-            "ampumavälikohtaukset",
-            "väkivaltarikokset",
-            "aseelliset konfliktit",
-            "ranska"
-          ],
-          "link": "https://yle.fi/a/74-20225455?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "EU valmistelee rauhanneuvotteluja Venäjän kanssa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ukraina",
-        "Rauhanneuvottelut"
-      ],
-      "imageUrl": "/images/venäjä/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Elina Valtonen: Venäjällä alkaa olla aitoa kiinnostusta rauhan­neuvotteluihin",
-          "content": "EU:n ulkoministeri­kokouksesta välittyy viesti, että EU voisi ryhtyä keskustelemaan Putinin kanssa rauhasta Ukrainaan",
-          "date": "2026-05-11T15:59:41.000Z",
-          "categories": [
-            "euroopan unioni",
-            "rauhanneuvottelut",
-            "ukraina",
-            "venäjä",
-            "vladimir putin",
-            "volodymyr zelenskyi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225451?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "EU:n ulkoministerit kokoontuvat tänään Brysselissä",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Hantaviruksen aiheuttama tauti on luokiteltu yleisvaaralliseksi tartuntataudiksi Suomessa",
           "content": "",
-          "date": "2026-05-10T22:44:34.000Z",
+          "date": "2026-05-11T13:04:42.000Z",
           "categories": [
-            "euroopan unioni",
-            "bryssel ",
-            "elina valtonen",
-            "kansainvälinen politiikka",
-            "ukraina",
-            "venäjän hyökkäys",
-            "ulkoministeri",
-            "ulkomaat"
+            "tartuntataudit",
+            "taudit",
+            "virukset",
+            "hallitus",
+            "maailma",
+            "kotimaa",
+            "uutiset"
           ],
-          "link": "https://yle.fi/a/74-20225256?origin=rss"
+          "link": "https://www.ts.fi/a/6979281"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Asiantuntija: Tällainen johtaja pärjäisi neuvotteluissa Putinin kanssa",
-          "content": "Keskusteluyhteyden avaaminen Venäjän kanssa on Euroopalle kiperä paikka.",
-          "date": "2026-05-09T17:15:00.000Z",
+          "title": "Hantavirus on nyt yleis­vaarallinen tartunta­tauti Suomessa – tätä se tarkoittaa käytännössä",
+          "content": "Tartuntataudin luokittelulla on merkittävä vaikutus viranomaisten valtuuksien määrään. Yhteiskunnan sulkua se ei silti vielä tarkoita.",
+          "date": "2026-05-11T12:45:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011998852.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Lähes sata evakuoitu hantaviruksen piinaamalta laivalta",
+          "content": "”THL:llä ei ole tiedossa muita altistuneita, jotka olisivat päätyneet Suomeen”, kertoo osastonjohtaja Otto Helve.",
+          "date": "2026-05-11T09:53:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011997500.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hantavirustartuntoja risteilyaluksella, kolme kuollut",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "MV Hondiukselta evakuoidulla todettu hantavirustartunta",
+          "content": "Kolme ihmistä on kuollut. IS seuraa hantavirustilannetta tässä artikkelissa.",
+          "date": "2026-05-11T19:48:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011996777.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000011996253.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Hondius-laivalta evakuoiduilla yhdysvaltalaisella ja ranskalaisella vahvistettu hantavirustartunta",
+          "content": "Ainakin kolme ihmistä on kuollut hantaviruksen levittyä risteilyaluksella, ja useat muut ovat saaneet oireita.",
+          "date": "2026-05-11T05:40:09.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/hondius-laivalta-evakuoiduilla-yhdysvaltalaisella/13488263?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "SDP:n taloushaasteet ja Lindtmanin kritiikki",
+      "mainCategories": [
+        "Politiikka",
+        "Paakirjoitus"
+      ],
+      "imageUrl": "/images/espanja/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puolueet | Sdp:n kontolle voi jäädä Suomen talouden pelastaminen – HS kävi läpi, mitä puolue aikoo",
+          "content": "Antti Lindtman puhui maanantaina Oodissa luottamuksesta ja tyrmäsi talousgurun ehdotuksen eläkeleikkauksista.",
+          "date": "2026-05-11T19:35:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000011995584.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Pääkirjoitus: Lindtman kehui Espanjaa – Paljastui nolo asia",
+          "content": "SDP:n puheenjohtaja Antti Lindtmanin liikkumavara ei ole kovin suuri taloudessa eikä turvallisuudessa, kirjoittaa Juha Ristamäki. SDP johtaa edelleen kannatuskyselyitä isolla kaulalla seuraaviin puolueisiin. Niinpä sen puheenjohtaja Antti Lindtman on varteenotettava pääministerikandidaatti ja sitä kautta kilpailijapuolueiden kasvavan rökityksen kohteena. Lindtmanin tapauksessa tilanteen tekee haastavaksi se, että demarityyliin myös omassa puolueessa riittää vastustajia, jotka kaivavat maata Lindtmanin jalkojen alta ja haluaisivat nykyjohdon tekevän erilaista politiikkaa.",
+          "date": "2026-05-11T18:00:02.000Z",
+          "categories": [
+            "paakirjoitus"
+          ],
+          "link": "https://www.iltalehti.fi/paakirjoitus/a/b8da1779-fcd6-416a-9ca2-8642a8b2da29"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Antti Lindtman teki Espanjan kokoisen talous­mokan – demari­pomon ihaileville puheille tuli nolo loppu",
+          "content": "Tiedot EU-tukien väärinkäytöstä panevat Sdp:n puheenjohtajan Antti Lindtmanin Espanjaa ihailevat talouspuheet enemmän kuin outoon valoon, kirjoittaa politiikan erikoistoimittaja Timo Haapala.",
+          "date": "2026-05-11T07:36:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000011998642.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump hylkäsi Iranin ehdot tulitauosta",
+      "mainCategories": [
+        "Maailma",
+        "Uutiset",
+        "Politiikka"
+      ],
+      "imageUrl": "/images/trump/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Trump: ”Tulitauko hengityskoneessa”",
+          "content": "Yhdysvaltojen ja Iranin välinen tulitauko on vaarassa, sillä Iranin ehdotus ei kelvannut presidentti Donald Trumpille.",
+          "date": "2026-05-11T18:27:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/7f4ff6c0-9c95-4fca-aa80-4bee139a83ba"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Iranin asettamat ehdot eivät kelpaa Trumpille",
+          "content": "Iranilaismedian mukaan Iran oli vaatinut Yhdysvalloilta merisaarron ja pakotteiden purkamista.",
+          "date": "2026-05-10T23:42:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000011998344.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Trump ei hyväksy Iranin vastausta USA:n sopimusehdotukseen",
+          "content": "",
+          "date": "2026-05-10T20:57:44.000Z",
+          "categories": [
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6978390"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin vierailu Kiinassa herättää huolia",
+      "mainCategories": [
+        "Ulkomaat",
+        "Kiina"
+      ],
+      "imageUrl": "/images/kiina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Musk ja Cook Trumpin matkassa Pekingiin − Yksi iso nimi jäämässä pois",
+          "content": "Presidentti Donald Trump vierailee tällä viikolla Kiinassa. Mukaan lähtee nimekäs joukko yritysjohtajia. Nvidian Jensen Huangin poissaolo viittaa huonoihin uutisiin siruvalmistajalle.",
+          "date": "2026-05-11T17:59:00.000Z",
+          "categories": [
+            "kiina"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/7f0dfebc-2fff-4e73-b41b-61c5a8c1ff3c"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Trump lähtee Pekingiin, mutta kädessä on huonommat kortit kuin Kiinan johtajalla Xi Jinpingillä",
+          "content": "Maailman vaikutusvaltaisimmat miehet tapaavat Iranin sodan varjossa, kirjoittaa erikoistoimittaja Jouko Juonala.",
+          "date": "2026-05-11T15:15:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011999229.html"
         }
       ]
     },
@@ -189,11 +368,10 @@
       ]
     },
     {
-      "mainTitle": "Opettajan somekuva herättää huolta koulussa",
+      "mainTitle": "12-vuotias mopoilija kuoli onnettomuudessa Juuassa",
       "mainCategories": [
-        "Koulut",
-        "Kotimaa",
-        "Kemiönsaari"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -201,110 +379,35 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Opettaja julkaisi härskin somekuvan – nyt kommentoi kunta",
-          "content": "Kemiönsaaren kunnan mukaan oppilaiden huoleen suhtaudutaan vakavasti.",
-          "date": "2026-05-11T14:37:00.000Z",
-          "categories": [
-            "turun seutu"
-          ],
-          "link": "https://www.is.fi/turun-seutu/art-2000012000654.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Opettaja lähetti kuvan paljaasta ylävartalostaan someen – Kemiönsaaren kunta suhtautuu asiaan vakavasti",
-          "content": "Iltalehden tietojen mukaan opettajan julkaisema kuva paljaasta ylävartalosta julkaistiin kanavalla, jossa on mukana koulun oppilaita.",
-          "date": "2026-05-11T12:25:36.000Z",
-          "categories": [
-            "sosiaalinen media",
-            "kemiönsaari",
-            "koulut",
-            "varsinais-suomi",
-            "kunnat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225413?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Opettaja lähetti kuvan itsestään yläosattomissa oppilaiden someryhmään",
-          "content": "",
-          "date": "2026-05-11T11:27:11.000Z",
-          "categories": [
-            "sosiaalinen media",
-            "varsinais-suomi",
-            "koulut",
-            "koululaiset",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6979132"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "IL: Opettaja julkaisi härskin kuvan oppilaiden some­ryhmässä",
-          "content": "Opettaja ei halunnut kommentoida asiaa Iltalehdelle.",
-          "date": "2026-05-11T10:30:00.000Z",
-          "categories": [
-            "turun seutu"
-          ],
-          "link": "https://www.is.fi/turun-seutu/art-2000011999721.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Opettaja läväytti tissikuvan someen oppilaiden nähtäville: Nyt kommentoi kunta",
-          "content": "Kunnan johdosta kommentoitiin Iltalehdelle, että asia on selvityksessä. Osa koulun oppilaista ja huoltajista on ollut tapauksen vuoksi yhteydessä kuntaan. Kemiönsaaressa sijaitseva yläkoulu selvittää väitteitä, joiden mukaan koulun opettaja olisi julkaissut itsestään ”tissikuvan” sosiaalisessa mediassa, jossa on myös koulun oppilaita. Asiasta keskustellaan kunnan asioita puivassa someryhmässä. Kemiönsaaren kunta vahvistaa asian tiedotteessaan. Kunta toteaa ymmärtävänsä, että tapaus on herättänyt oppilaissa huolta ja kysymyksiä. Tiedotteen mukaan asiaan suhtaudutaan erittäin vakavasti.",
-          "date": "2026-05-11T09:37:47.000Z",
+          "title": "12-vuotias mopoilija kuoli – poliisilta uutta tietoa Juuan onnettomuudesta",
+          "content": "Mopoilija menehtyi lauantai-iltana onnettomuuspaikalla.",
+          "date": "2026-05-11T12:50:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/fd710c11-766b-49af-88f7-f35538c104e3"
+          "link": "https://www.is.fi/kotimaa/art-2000012000446.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Pohjois-Karjala | 12-vuotias mopoilija kuoli liikenneturmassa Juuassa",
+          "content": "Mopoilijapoika kuoli törmäyksessä pakettiauton kanssa. Poliisi ei vielä tiedä, miten ajo-oikeudeton nuori sai mopon käyttöönsä.",
+          "date": "2026-05-09T20:19:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000011997447.html"
         }
       ]
     },
     {
-      "mainTitle": "Lapsilisäuudistus herättää puolueiden erimielisyyksiä",
+      "mainTitle": "Lapsilisät muuttuisivat tasasuuruiksi 100 euroksi",
       "mainCategories": [
-        "Politiikka",
-        "Lapsilisät",
-        "Sosiaaliturva"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Näin suurimmat puolueet kommentoivat ehdotettua lapsilisä­remonttia",
-          "content": "Perus­suomalaiset torppaa mahdolliset lisä­kustannukset. Keskusta arvostelee ehdotusta heikennyksistä monilapsisille perheille.",
-          "date": "2026-05-11T14:22:54.000Z",
-          "categories": [
-            "politiikka",
-            "lapsilisät",
-            "sosiaaliturva",
-            "sanni grahn-laasonen"
-          ],
-          "link": "https://yle.fi/a/74-20225363?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lapsilisiin esitetään isoa remonttia – katso tästä, mikä muuttuisi",
-          "content": "Selvityshenkilöt eivät kannata lapsilisän verottamista tai muuttamista tulosidonnaiseksi.",
-          "date": "2026-05-11T10:04:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011998774.html"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -328,1089 +431,14 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000011999052.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Lapsilisään ehdotetaan isoa muutosta",
-          "content": "",
-          "date": "2026-05-11T07:19:00.000Z",
-          "categories": [
-            "perhe",
-            "lapset",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6978823"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lapsilisiin ehdotetaan isoa remonttia: tasan 100 euroa kuussa siihen asti, että lapsi on 18-vuotias",
-          "content": "Kaikista lapsista maksettaisiin jatkossa saman verran, ja lapsilisän maksamista pidennettäisiin vuodella. Tällä hallituskaudella uudistus ei etene.",
-          "date": "2026-05-11T06:00:36.000Z",
-          "categories": [
-            "politiikka",
-            "lapsilisät",
-            "sosiaaliturva",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20225054?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Uuden kyselyn tulokset koulukiusaamisesta ja syrjinnästä",
+      "mainTitle": "Narges Mohammadi ehdollisesti vapauteen Iranissa",
       "mainCategories": [
-        "Kiusaaminen",
-        "Nuoret",
-        "Koululaiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Uusi kysely antaa lisää tietoa Uudenkaupungin yläkoulun ongelmista – aikuisen kiusaamisesta kertoi aiempaa harvempi",
-          "content": "Yle kertoi huhtikuussa, että erityisesti yhden koulun aikuisen käytös on koettu häiritseväksi. Tuore jatkokysely antaa tarkempaa tietoa oppilaiden kokemuksista.",
-          "date": "2026-05-11T14:18:35.000Z",
-          "categories": [
-            "nuoret",
-            "uusikaupunki",
-            "koulut",
-            "kiusaaminen",
-            "koululaiset",
-            "lapset ja nuoret",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225337?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Katso, kuinka moni nuori kohtaa syrjintää kunnassasi – Lahdessa ulkomaalais­taustaisten kokemukset ovat maan synkimpiä",
-          "content": "THL:n kysely paljastaa, että yli puolet ulkomailla syntyneistä ulkomaalais­­taustaisista 8.–9.-luokkalaisista kertoo kokeneensa syrjintää.",
-          "date": "2026-05-11T09:04:29.000Z",
-          "categories": [
-            "syrjintä",
-            "lahti",
-            "kiusaaminen",
-            "nuoret",
-            "koululaiset",
-            "päijät-häme",
-            "peruskoulun yläaste",
-            "ulkomaalaistaustainen",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20224973?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hantaviruksen evakuoinnit Teneriffalla käynnissä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Sairaudet",
-        "Teneriffa"
-      ],
-      "imageUrl": "/images/espanja/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Hantavirus | Alkaako risteily­alukselta uusi pandemia? THL ja professori perustelevat, miksi ei",
-          "content": "Uuteen pandemiaan ei uskota, koska virus tarttuu huonosti ihmisten välillä, se on tunnettu jo 1990-luvulta ja sen korkea kuolleisuus helpottaa rajoitustoimien perustelua.",
-          "date": "2026-05-11T13:35:00.000Z",
-          "categories": [
-            "tilaajille",
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011998850.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hantavirusalus saapui Teneriffalle – itse­hallinto­alueen johtaja yritti kieltää viime hetkellä",
-          "content": "Matkustajat evakuoidaan veneisiin ja he jatkavat suoraan evakuointilennoille.",
-          "date": "2026-05-11T06:37:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011997543.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hantavirukselle altistuneiden kotiutukset jatkuvat – evakuoiduilla kaksi uutta tartuntaa",
-          "content": "Nykyisillä varotoimenpiteillä hantavirusepidemia pysyy kontrollissa, eikä pääse leviämään laajasti, sanoo professori.",
-          "date": "2026-05-11T06:09:28.000Z",
-          "categories": [
-            "sairaudet",
-            "teneriffa",
-            "hantavirukset",
-            "virustaudit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225275?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kahdella hantavirusalukselta evakuoidulla yhdysvaltalaisella epäillään tartuntaa",
-          "content": "",
-          "date": "2026-05-11T02:54:07.000Z",
-          "categories": [
-            "sairaudet",
-            "evakuointi",
-            "yhdysvaltain terveysministeriö",
-            "hantavirukset",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225261?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hantavirusaluksen matkustajien viimeiset evakuointilennot on määrä lentää iltapäivällä",
-          "content": "Tähän mennessä Teneriffan edustalle ankkuroidusta aluksesta on evakuoitu 94 matkustajaa.",
-          "date": "2026-05-10T23:47:20.000Z",
-          "categories": [
-            "sairaudet",
-            "teneriffa",
-            "espanja",
-            "kanariansaaret",
-            "kuolema, hengenvaara ja loukkaantuminen",
-            "hantavirukset",
-            "evakuointi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225257?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hantavirus­aluksen evakuoinnit täydessä vauhdissa, noin puolet on päässyt lähtemään kotiin",
-          "content": "Ranskalaisella evakuoidulla havaittiin oireita paluulennolla. Ranskassa alkoivat tiukat eristystoimet.",
-          "date": "2026-05-10T17:26:38.000Z",
-          "categories": [
-            "sairaudet",
-            "ranska",
-            "espanja",
-            "teneriffa",
-            "kanariansaaret",
-            "matkailu",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225244?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ylen toimittaja Teneriffalla: Näin matkustajien evakuointi viruslaivalta etenee",
-          "content": "Menossa on yksi Espanjan historian suurimmista terveys­turvallisuuden operaatioista, kertoo Ylen Espanjan-toimittaja Maija Salmi.",
-          "date": "2026-05-10T09:50:51.000Z",
-          "categories": [
-            "sairaudet",
-            "kanariansaaret",
-            "teneriffa",
-            "hantavirukset",
-            "espanja",
-            "yle uutiset somenostot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225185?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Espanjan Alicantessa epäilty hantavirus­tapaus negatiivinen",
-          "content": "",
-          "date": "2026-05-09T17:43:09.000Z",
-          "categories": [
-            "terveys",
-            "espanja",
-            "taudit",
-            "virustaudit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225167?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Andes-virus luokiteltu yleisvaaralliseksi tartuntataudiksi",
-      "mainCategories": [
-        "Tartuntataudit",
-        "Kotimaa",
-        "Sairaudet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Suomen hallitus linjasi: Andes-virus on nyt yleisvaarallinen tartuntatauti",
-          "content": "Orpon hallitus on lisännyt hantaviruksiin kuuluvan Andes-viruksen aiheuttaman taudin yleisvaarallisten tartuntatautien luetteloon. Maailman terveysjärjestö WHO ja Euroopan tautienehkäisy- ja valvontakeskus suosittavat altistumisen jälkeen 42 vuorokauden karanteenia. Karanteeni oikeuttaa tartuntatautipäivärahaan, jos töistä joutuu olemaan poissa.",
-          "date": "2026-05-11T13:34:00.000Z",
-          "categories": [
-            "terveydenhuolto"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/b105b54c-391e-46de-a24c-5996a72de33f"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Hantaviruksen aiheuttama tauti on luokiteltu yleisvaaralliseksi tartuntataudiksi Suomessa",
-          "content": "",
-          "date": "2026-05-11T13:04:42.000Z",
-          "categories": [
-            "tartuntataudit",
-            "taudit",
-            "virukset",
-            "hallitus",
-            "maailma",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6979281"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hantavirus on nyt yleis­vaarallinen tartunta­tauti Suomessa – tätä se tarkoittaa käytännössä",
-          "content": "Tartuntataudin luokittelulla on merkittävä vaikutus viranomaisten valtuuksien määrään. Yhteiskunnan sulkua se ei silti vielä tarkoita.",
-          "date": "2026-05-11T12:45:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011998852.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomi lisäsi hantaviruksen yleis­vaarallisiin tartunta­tauteihin – Grahn-Laasonen: Kyseessä varotoimi",
-          "content": "Sosiaali­turvaministeri Sanni Grahn-Laasonen (kok.) sanoo, että päätös antaa terveys­viranomaisille esimerkiksi valtuuksia määrätä karanteeneja.",
-          "date": "2026-05-11T12:44:44.000Z",
-          "categories": [
-            "sairaudet",
-            "hantavirusinfektiot",
-            "sosiaali- ja terveysministeriö",
-            "tartuntataudit",
-            "asetukset",
-            "kotimaa",
-            "terveys"
-          ],
-          "link": "https://yle.fi/a/74-20225421?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Epäilty hyökkäys ulkomaalaistaustaista naista kohtaan Oulussa",
-      "mainCategories": [
-        "Rikosepäilyt",
-        "Oulu",
-        "Poliisi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi epäilee: Tuntematon pyöräilijä löi ulkomaalais­naista Oulussa",
-          "content": "Oulun poliisi tutkii, onko väli­kohtauksella yhteyttä Raksilassa huhtikuussa tapahtuneeseen puukotukseen.",
-          "date": "2026-05-11T13:31:30.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "oulu",
-            "poliisi",
-            "väkivalta",
-            "rikokset",
-            "kotimaa",
-            "pohjois-pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20225431?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Jälleen ulkomaalaistaustaiseen kohdistunut epäilty hyökkäys Oulussa – tekopaikka ja -tapa lähes sama kuin kuukausi sitten",
-          "content": "Oulun poliisi tutkii törkeän pahoinpitelyn yritystä, joka kohdistui ulkomaalaistaustaiseen nuoreen naiseen.",
-          "date": "2026-05-11T13:14:21.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/jalleen-ulkomaalaistaustaiseen-kohdistunut-epailty/13489540?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin oppositio ja hallinto yhdistyivät",
-      "mainCategories": [
-        "Iran",
-        "Mielenosoitukset",
-        "Israel"
-      ],
-      "imageUrl": "/images/trump/6.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iranissa tapahtui käänne, jota Trump ei halunnut: oppositio ja sortohallinto löysivät yhteisen vihollisen",
-          "content": "Iranilainen rauhannobelisti pääsi vankilasta tutkijan mukaan siksi, että hallinnolla ei ole enää syytä pelätä häntä.",
-          "date": "2026-05-11T13:12:51.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "iran",
-            "mielenosoitukset",
-            "lähi-itä",
-            "ali khamenei",
-            "israel",
-            "benjamin netanjahu",
-            "teheran",
-            "donald trump",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225276?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Iranin asettamat ehdot eivät kelpaa Trumpille",
-          "content": "Iranilaismedian mukaan Iran oli vaatinut Yhdysvalloilta merisaarron ja pakotteiden purkamista.",
-          "date": "2026-05-10T23:42:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011998344.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "26-vuotias nainen epäiltynä henkirikoksesta Vaasassa",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Poliisitutkinta"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "26-vuotiaan naisen epäillään tappaneen miesystävänsä Vaasassa",
-          "content": "Tapausta tutkittiin ensin normaalina kuolemansyyn tutkintana. Tutkinnan edetessä poliisi alkoi epäillä rikosta.",
-          "date": "2026-05-11T12:57:46.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "vaasa",
-            "poliisi",
-            "poliisitutkinta",
-            "epäillyt",
-            "henkirikokset",
-            "poliisin toimenpiteet",
-            "tappo",
-            "palosaari",
-            "rikokset",
-            "kuolema",
-            "väkivaltarikokset",
-            "kuolemansyyt",
-            "kotimaa",
-            "pohjanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20225418?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Epäily: 26-vuotias nainen tappanut miesystävänsä – erikoinen tieto rikoksen tekoajasta",
-          "content": "”En avaa tekotapaa, kun se on meillekin hieman vielä epäselvä.”",
-          "date": "2026-05-11T12:50:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012000168.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Pariskunta julkaisi romanttisia yhteiskuvia – Nyt naista, 26, epäillään peruutta­mattomasta teosta",
-          "content": "Kuolemansyyn selvittäminen muuttui henkirikostutkinnaksi. Poliisi epäilee 26-vuotiasta naista taposta Pohjanmaalla. Uhri on naisen 37-vuotias miesystävä, joka kuoli marraskuussa 2025 Vaasassa.",
-          "date": "2026-05-11T12:40:22.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/e601bf53-0ff5-444f-b05b-52ab9aeec77e"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisilta uutta tietoa Kotkan henkirikoksesta – miestä epäillään kumppaninsa murhasta",
-          "content": "Poliisi selvittää henkirikoksen taustaa.",
-          "date": "2026-05-11T10:21:52.000Z",
-          "categories": [
-            "poliisi",
-            "henkirikokset",
-            "lainvalvonta",
-            "poliisitutkinta",
-            "rikokset",
-            "esitutkinta",
-            "murha",
-            "kotka",
-            "epäillyt",
-            "kotimaa",
-            "karhuvuori",
-            "kymenlaakso"
-          ],
-          "link": "https://yle.fi/a/74-20225360?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi tutkii Vaasan parvekeammuskelua tapon yrityksenä",
-          "content": "60-vuotiaan miehen epäilleen ampuneen parvekkeelta rakennuksen ikkunaan metsästysaseella.",
-          "date": "2026-05-11T05:37:44.000Z",
-          "categories": [
-            "poliisi",
-            "vaasa",
-            "palosaari",
-            "rikokset",
-            "poliisitutkinta",
-            "hätäkeskukset",
-            "pohjanmaa",
-            "lainvalvonta",
-            "poliisipartio",
-            "kerrostalot",
-            "pelastustoiminta",
-            "ampuma-aseet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225279?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Aborttien määrä kasvoi kolmatta vuotta",
-      "mainCategories": [
-        "Kotimaa",
-        "Abortti",
-        "Terveys"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Aborttien määrä kasvoi – Yksi ikäryhmä korostuu",
-          "content": "Terveyden- ja hyvinvoinnin laitoksen (THL) johtava asiantuntija pitää raskauden keskeytyksen määrän kasvua huolestuttavana merkkinä. Raskaudenkeskeytysten eli aborttien määrä on kasvanut vuonna 2025, kertoo Terveyden- ja hyvinvoinnin laitos (THL) tiedotteessaan. Tuolloin hedelmällisyysikäisille naisille (15–49 -vuotiasta) tehtiin liki 9 100 raskaudenkeskeytystä, jolloin kasvua oli lähes neljä prosenttia edellisvuoteen. Määrä on kasvanut vuodesta 2022.",
-          "date": "2026-05-11T12:54:27.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/a78dee70-511e-4a20-9fc9-695e7c1baaf1"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Aborttien määrä kasvoi jälleen",
-          "content": "Iso osa aborteista tehtiin henkilöille, joille oli tehty raskaudenkeskeytys aiemminkin.",
-          "date": "2026-05-11T10:31:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011998801.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Aborttien määrä nousi kolmatta vuotta putkeen – THL huolissaan uusintakeskeytyksistä",
-          "content": "",
-          "date": "2026-05-11T08:29:17.000Z",
-          "categories": [
-            "abortti",
-            "thl",
-            "syntyvyys",
-            "terveydenhuolto",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6978920"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Aborttien määrä nousi kolmatta vuotta putkeen",
-          "content": "",
-          "date": "2026-05-11T05:00:02.000Z",
-          "categories": [
-            "terveys",
-            "abortti",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225274?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "12-vuotias mopoilija kuoli onnettomuudessa Juuassa",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Juuka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "12-vuotias mopoilija kuoli – poliisilta uutta tietoa Juuan onnettomuudesta",
-          "content": "Mopoilija menehtyi lauantai-iltana onnettomuuspaikalla.",
-          "date": "2026-05-11T12:50:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012000446.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi epäilee liikenne­turvallisuuden vaarantamisesta 12-vuotiasta mopoilijaa, joka kuoli jäätyään auton alle Juuassa",
-          "content": "Pojan päälle ajaneessa pakettiautossa oli useita matkustajia. 12-vuotias ei saa ajaa mopolla yleisellä tiellä.",
-          "date": "2026-05-11T12:32:01.000Z",
-          "categories": [
-            "onnettomuudet",
-            "juuka",
-            "liikenneonnettomuudet",
-            "nuoret",
-            "lapset",
-            "mopo-onnettomuudet",
-            "mopot",
-            "kotimaa",
-            "pohjois-karjala"
-          ],
-          "link": "https://yle.fi/a/74-20225404?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Uutta tietoa 12-vuotiaan mopoilijan turmasta",
-          "content": "Poliisi ei epäile alkoholilla olleen osaa kuolemaan johtaneessa onnettomuudessa. 12-vuotiaan mopoilijan kuolemaan johtanutta liikenneonnettomuutta tutkitaan törkeänä liikenneturvan vaarantamisena. Epäiltynä on kuitenkin alaikäinen mopoilija, joka kuoli onnettomuudessa, joten asia ei tule etenemään oikeuteen. 12-vuotias mopoilija kuoli lauantaina liikenneonnettomuudessa Juuan Tervonkankaalla.",
-          "date": "2026-05-11T11:27:43.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/e66cfcc1-134f-477c-ac6a-ef4ddbb978af"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Juuassa suru­liputetaan 12-vuotiaan mopopojan muistolle – lapsille ja nuorille tarjotaan kriisiapua",
-          "content": "12-vuotias mopolla ajanut poika jäi pakettiauton alle ja kuoli onnettomuus­paikalle.",
-          "date": "2026-05-11T07:27:25.000Z",
-          "categories": [
-            "onnettomuudet",
-            "juuka",
-            "mopot",
-            "tieliikenneonnettomuudet",
-            "kuolemaan johtanut tieliikenneonnettomuus",
-            "kotimaa",
-            "pohjois-karjala"
-          ],
-          "link": "https://yle.fi/a/74-20225302?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pohjois-Karjala | 12-vuotias mopoilija kuoli liikenneturmassa Juuassa",
-          "content": "Mopoilijapoika kuoli törmäyksessä pakettiauton kanssa. Poliisi ei vielä tiedä, miten ajo-oikeudeton nuori sai mopon käyttöönsä.",
-          "date": "2026-05-09T20:19:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011997447.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pakettiauto törmäsi mopoilijaan – 12-vuotias poika kuoli",
-          "content": "Pakettiauto törmäsi metsäautotieltä tulleeseen nuoreen mopoilijaan lauantai-iltana Juuassa.",
-          "date": "2026-05-09T19:31:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011997468.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "HSL vähentää 38 työ- tai virkasuhdetta",
-      "mainCategories": [
-        "Liikenne",
-        "Henkilöstö",
-        "Henkilöstöjohtaminen"
-      ],
-      "imageUrl": "/images/hsl/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "HSL päättää 38 työ- tai virkasuhdetta",
-          "content": "Joukkoliikenteen kuljettajat eivät ole HSL:n työntekijöitä.",
-          "date": "2026-05-11T12:10:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012000252.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "HSL päättää 38 työ- tai virkasuhdetta – määrä pieneni neuvotteluissa kymmenellä",
-          "content": "Neuvottelu­järjestö Jukon mukaan HSL:n koko henkilöstöä koskeneet yhteis­toiminta­neuvottelut ovat päättyneet erimielisinä.",
-          "date": "2026-05-11T11:28:40.000Z",
-          "categories": [
-            "liikenne",
-            "helsingin seudun liikenne (hsl)",
-            "yt-neuvottelut",
-            "henkilöstö",
-            "henkilöstöjohtaminen",
-            "henkilöstöhallinto",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225385?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin sodan vaikutukset Suomen teollisuuteen maltilliset",
-      "mainCategories": [
-        "Elinkeinoelämä",
-        "Talouskasvu",
-        "Taloustutkimus"
-      ],
-      "imageUrl": "/images/talous/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Etlalta yllättävä arvio Iranin sodan vaikutuksista",
-          "content": "Teollisuudessa näkymät ovat jakautuneet kahtia.",
-          "date": "2026-05-11T11:52:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011998659.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Etla: Iranin sodan vaikutukset Suomen teollisuuteen jäävät maltillisiksi",
-          "content": "Etla arvioi, että teollisuuden lisäksi kasvua on luvassa myös rakentamiseen ja palvelualoille.",
-          "date": "2026-05-11T02:19:06.000Z",
-          "categories": [
-            "elinkeinoelämä",
-            "elinkeinoelämän tutkimuslaitos (etla)",
-            "taloudellinen tila",
-            "talouskasvu",
-            "suomen talous",
-            "taloustutkimus",
-            "taloustutkimuslaitokset",
-            "kotimaa",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20225255?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pääministeri Starmerin tilanne kriisiytyy Britanniassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Britannia",
-        "Vasemmistopuolueet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Pääministeri Starmerin tilanne on todella vaikea – harppaus vasemmallekaan ei välttämättä enää pelasta",
-          "content": "Britannian pääministeri Keir Starmer vakuuttaa, ettei eroa, vaikka kymmenet omat kansanedustajat jo vaativat häntä lähtemään.",
-          "date": "2026-05-11T11:48:20.000Z",
-          "categories": [
-            "britannia",
-            "vasemmistopuolueet",
-            "työväenpuolue (uk)",
-            "nigel farage",
-            "reform uk",
-            "vaalit",
-            "ulkomaat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225383?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Omat vaativat Britannian pääministerin eroa – Starmerilta uhmakas puhe",
-          "content": "Starmerin kujanjuoksun taustalla on monta asiaa.",
-          "date": "2026-05-11T11:35:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011999621.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Katastrofi Britanniassa: Pääministeri Starmerilla 24 tuntia aikaa",
-          "content": "Starmerin näkyvät tukijat uhkaavat häntä potkuilla huonosti menneiden vaalien jälkeen. Pääministeri vannoo kantavansa vastuun eikä suostu eroamaan. Britannian hallituksessa kytee avoin kapina pääministeri Keir Starmeria vastaan. Pääministerillä on 24 tuntia aikaa pelastaa hallituksensa, uutisoivat The Independent ja Daily Express. Brittimedian mukaan työväenpuolueen (Labour) sisäpiiri uhkaa savustaa Starmerin ulos, ellei hallituksen politiikka muutu.",
-          "date": "2026-05-11T08:07:25.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/8c727fd8-8bdc-4376-82ee-7a161f6328b9"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukraina selittää droonihavaintojen syitä Suomessa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Droonit",
-        "Ukraina"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ukraina selittää, miksi drooneja on havaittu Suomessakin",
-          "content": "Ukrainan ulkoministerin mukaan droonien harhautuminen johtuu Venäjän toiminnasta.",
-          "date": "2026-05-11T11:45:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012000054.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Drooni­asian­tuntijalta suora viesti epäilijöille: ”Turpa kiinni”",
-          "content": "Suomeen on harhautunut useampia drooneja. Asiantuntijat vastaavat kysymyksiin turvallisuudesta ja teknologiasta sekä Suomen mahdollisuuksista.",
-          "date": "2026-05-11T08:12:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000011998586.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Harvinainen haastattelu: Salainen Monitor varoittaa ukrainalaisia drooneista",
-          "content": "",
-          "date": "2026-05-11T05:29:20.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "droonit",
-            "ukraina",
-            "ilmahyökkäys",
-            "sosiaalinen media",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20224060?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Netanjahu ehdottaa USA:n tuen lopettamista",
-      "mainCategories": [
-        "Israel",
-        "Ulkomaat",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/netanjahu/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Netanjahu haluaa Israelin luopuvan USA:n taloudellisesta tuesta",
-          "content": "Netanjahun mukaan tuki voidaan lopettaa 10 vuoden kuluessa.",
-          "date": "2026-05-11T10:58:31.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "israel",
-            "ulkomaat",
-            "benjamin netanjahu",
-            "yhdysvallat"
-          ],
-          "link": "https://yle.fi/a/74-20225384?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Netanjahu: Haluan nollata Yhdysvaltain taloudellisen sotilaallisen tuen Israelille seuraavien 10 vuoden aikana",
-          "content": "Pääministeri Netanjahun mukaan Israel saa vuosittain Yhdysvalloilta noin 3,8 miljardin dollarin edestä sotilaallista apua.",
-          "date": "2026-05-11T00:59:57.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "israel",
-            "benjamin netanjahu",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225259?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Stubb osallistuu Naton huippukokoukseen Bukarestissa",
-      "mainCategories": [
-        "Politiikka",
-        "Bukarest",
-        "Romania"
-      ],
-      "imageUrl": "/images/stubb/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubb Romaniaan – kutsuttujen joukossa myös Volodymyr Zelenskyi",
-          "content": "Kokouksen teemana on transatlanttinen turvallisuus ja Naton tuleva Ankaran huippukokous.",
-          "date": "2026-05-11T10:47:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000011999834.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Presidentti Stubb osallistuu huippu­kokoukseen Bukarestissa",
-          "content": "Kokouksen teemana on trans­atlanttinen turvallisuus ja Naton tuleva Ankaran huippukokous.",
-          "date": "2026-05-11T10:31:38.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "alexander stubb",
-            "bukarest",
-            "romania",
-            "huippukokous",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225369?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hotelli Tallukka huutokaupataan jälleen",
-      "mainCategories": [
-        "Yritykset",
-        "Asikkala",
-        "Hotellit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Legendaarinen Tallukka on taas huuto­kaupattavana",
-          "content": "Edellisen kerran Tallukan huutokauppa raukesi, kun korkein tarjous ei ylittänyt vähimmäishintaa.",
-          "date": "2026-05-11T10:02:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011999547.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Legendaarinen Hotelli Tallukka on taas huuto­kaupattavana",
-          "content": "Vara­toimitusjohtajalle tieto myynnistä tuli yllätyksenä. Yritys jatkaa toimintaansa normaalisti.",
-          "date": "2026-05-11T09:09:10.000Z",
-          "categories": [
-            "yritykset",
-            "asikkala",
-            "hotellit",
-            "päijät-häme",
-            "vääksy",
-            "hotelli- ja ravintola-ala",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225340?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hantavirukselle altistuneita evakuoitu laivalta",
-      "mainCategories": [
-        "Suomi",
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Lähes sata evakuoitu hantaviruksen piinaamalta laivalta",
-          "content": "”THL:llä ei ole tiedossa muita altistuneita, jotka olisivat päätyneet Suomeen”, kertoo osastonjohtaja Otto Helve.",
-          "date": "2026-05-11T09:53:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000011997500.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Espanjan Alicantessa epäillyn hanta­virus­tapauksen testi­tulos on negatiivinen",
-          "content": "Suomessa on kaksi hantavirukselle altistunutta. THL:n mukaan on erittäin epätodennäköistä, että täällä olisi enempää altistuneita.",
-          "date": "2026-05-09T18:14:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000011996755.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lähihoitajat vaativat parempaa turvaa",
-      "mainCategories": [
-        "Kotimaa",
-        "Työelämä",
-        "Työmarkkinat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lähihoitajat näreissään – Liiton puheenjohtaja: ulkomailta palkatut paremmassa turvassa potkuilta",
-          "content": "Ulkomailta rekrytoitujen hoitajien pitkät työsopimukset ovat antaneet suojaa muutos­neuvotteluissa.",
-          "date": "2026-05-11T09:31:45.000Z",
-          "categories": [
-            "työelämä",
-            "sosiaali- ja terveydenhuolto",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20224946?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yksityisen terveyspalvelualan työehtosopimuksesta neuvottelutulos",
-          "content": "",
-          "date": "2026-05-11T08:53:40.000Z",
-          "categories": [
-            "työmarkkinat",
-            "suomen lähi- ja perushoitajaliitto super",
-            "hyvinvointiala hali",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225334?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Aurinkopaneelien myynti herättää valituksia",
-      "mainCategories": [
-        "Kuluttajat",
-        "Aurinkopaneelit",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Painostava aurinkopaneelien kotimyynti johti valitustulvaan",
-          "content": "Kilpailu- ja kuluttajavirasto on saanut kymmeniä yhteydenottoja Seronin aurinkopaneeleiden ja akustojen kotimyynnistä.",
-          "date": "2026-05-11T07:50:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000011998847.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "KKV:lle tehty ilmoituksia iäkkäitä kauppoihin painostavasta aurinkopaneeliyrityksestä",
-          "content": "",
-          "date": "2026-05-11T06:52:50.000Z",
-          "categories": [
-            "kuluttajat",
-            "kilpailu- ja kuluttajavirasto",
-            "aurinkopaneelit",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225293?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Narges Mohammadi vapautettu sairaalahoitoon Iranissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Kansalaistoiminta",
-        "Teheran"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1437,42 +465,27 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000011998469.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iranilainen rauhannobelisti päästettiin vapaaksi takuita vastaan terveydentilansa vuoksi",
-          "content": "Rintakivuista ja tajunnanmenetyksistä kärsinyt Narges Mohammadi on siirretty sairaalahoitoon pääkaupunki Teheraniin.",
-          "date": "2026-05-11T01:29:44.000Z",
-          "categories": [
-            "kansalaistoiminta",
-            "teheran",
-            "iran",
-            "vankeus",
-            "nobelin rauhanpalkinto",
-            "terveydentila",
-            "narges mohammadi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225260?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Hantavirustartuntoja Hondius-risteilyaluksella",
-      "mainCategories": [],
+      "mainTitle": "Hantavirusristeilyltä evakuoituja matkustajia oireilee",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Hondius-laivalta evakuoiduilla yhdysvaltalaisella ja ranskalaisella vahvistettu hantavirustartunta",
-          "content": "Ainakin kolme ihmistä on kuollut hantaviruksen levittyä risteilyaluksella, ja useat muut ovat saaneet oireita.",
-          "date": "2026-05-11T05:40:09.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hondius-laivalta-evakuoiduilla-yhdysvaltalaisella/13488263?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hantavirusalus saapui Teneriffalle – itse­hallinto­alueen johtaja yritti kieltää viime hetkellä",
+          "content": "Matkustajat evakuoidaan veneisiin ja he jatkavat suoraan evakuointilennoille.",
+          "date": "2026-05-11T06:37:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000011997543.html"
         },
         {
           "publisherId": "kaleva",
@@ -1483,48 +496,6 @@
           "date": "2026-05-10T17:25:31.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/hantavirusristeilylta-ranskaan-evakuoidulla-matkus/13487985?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hantavirustapaukset lähes tuplaantuneet Argentiinassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Sairaudet",
-        "Argentiina"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hantavirustapauksissa raju nousu",
-          "content": "Tapaukset ovat lähes tuplaantuneet Argentiinassa.",
-          "date": "2026-05-10T18:15:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011997992.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "CNN: Hantavirus­tapaukset lähes tuplaantuneet Argentiinassa vuoden aikana",
-          "content": "Yhtenä syynä rajuun kasvuun pidetään ilmaston­muutosta sekä Andes-virusta levittävien jyrsijöiden elinalueen tuhoutumista.",
-          "date": "2026-05-10T12:10:51.000Z",
-          "categories": [
-            "sairaudet",
-            "argentiina",
-            "taudit",
-            "jyrsijät",
-            "virustaudit",
-            "maailman terveysjärjestö",
-            "etelä-amerikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225220?origin=rss"
         }
       ]
     },
@@ -1601,7 +572,7 @@
       ]
     },
     {
-      "mainTitle": "Äideille myönnettiin kunniamerkkejä Helsingissä",
+      "mainTitle": "Stubb palkitsi äitejä kunniamerkeillä",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1628,44 +599,6 @@
           "date": "2026-05-10T05:48:30.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/stubb-palkitsi-aiteja-ansiokkaasta-kasvatustyosta/13487320?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hantavirus-epidemia luksusristeilyllä, yli 100 sairastui",
-      "mainCategories": [
-        "Ulkomaat",
-        "Terveys",
-        "Tartuntataudit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ripulia luksus­risteilyllä – yli 100 sairastunutta",
-          "content": "Risteilyllä on yli 3 000 matkustajaa.",
-          "date": "2026-05-10T08:22:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011997703.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "WHO hanta­viruksesta: Kaikkia risteily­aluksella olleita seurataan yli 40 päivää",
-          "content": "",
-          "date": "2026-05-09T16:44:07.000Z",
-          "categories": [
-            "terveys",
-            "maailman terveysjärjestö",
-            "tartuntataudit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225164?origin=rss"
         }
       ]
     },
