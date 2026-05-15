@@ -1,35 +1,241 @@
 {
-  "timestamp": "2026-05-15T06:52:19.588Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-05-15T09:45:08.738Z",
+  "successCount": 16,
+  "failureCount": 6,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Koneen jättikauppa ja drooniuhka keskustelussa",
+      "mainTitle": "Drooniuhka Suomessa, tilanne rauhoittunut",
       "mainCategories": [
-        "Kotimaa",
-        "Talousaamu"
+        "Turvallisuus",
+        "Politiikka",
+        "Maanpuolustus"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Uudenmaan drooniuhka | Ilmavoimat: Suomen alueelle ei harhautunut lennokkeja",
+          "content": "Pääministeri Petteri Orpo (kok) kertoi viranomaisten saaneen alkuyöstä tiedon, että Suomen alueelle voi harhautua drooneja. Orpon mukaan tilanteessa ei ylireagoitu.",
+          "date": "2026-05-15T09:43:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012008896.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Puolustusvoimat: Ei drooneja tai alueloukkauksia – aamuyön tilanne oli ”toisentyyppinen” kuin aiemmin",
+          "content": "Pääministeri Petteri Orpo ja viranomaiset kommentoivat aamun drooniuhkaa.",
+          "date": "2026-05-15T09:27:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012008720.html"
+        },
         {
           "publisherId": "kauppalehti",
           "publisher": "Kauppalehti",
           "publisherUrl": "kauppalehti.fi",
-          "title": "Vesittyykö Koneen jättikauppa viranomaisten käsissä? Talousjohtaja vastaa suorassa lähetyksessä",
-          "content": "Talousaamussa keskustellaan Suomen turvallisuustilanteesta, Koneen jättikaupasta sekä markkinatunnelmista. Vieraina ovat Koneen talousjohtaja Ilkka Hara, Finlandia Rahastoyhtiön toimitusjohtaja Vesa Engdahl sekä Iltalehden sota-asiantuntija Emil Kastehelmi.",
-          "date": "2026-05-15T06:50:00.000Z",
+          "title": "Armeija sai yöllä tiedon, että Suomeen voi tulla lennokkeja räjähdelastissa – Sama voi toistua uudelleen",
+          "content": "Kauppalehti lähettää pääministeri Orpon tiedotustilaisuuden suorana tässä jutussa.",
+          "date": "2026-05-15T09:15:00.000Z",
           "categories": [
-            "talousaamu"
+            "turvallisuus"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/4672fbb3-a741-4cb6-9c5f-34835fb4a40e"
+          "link": "https://www.kauppalehti.fi/uutiset/a/6d0721b4-50cf-4451-aa12-9a95d606b92c"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Puolustusvoimat: Suomeen ei tullut lopulta drooneja – Orpon mukaan ensiviestintä jätti useita kysymyksiä auki",
+          "content": "Pääministeri Petteri Orpo (kok.) mukaan on aivan selvää, että uusi tekstiviestipohjainen hälytysjärjestelmä on saatava toimimaan viivästyksettä.",
+          "date": "2026-05-15T09:00:17.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/puolustusvoimat-suomeen-ei-tullut-lopulta-drooneja/13495076?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "llmatilaloukkausta ei tapahtunut, Suomi sai yöllä varoituksen alueelleen mahdollisesti ajautuvista aseistetuista drooneista",
+          "content": "",
+          "date": "2026-05-15T08:47:58.000Z",
+          "categories": [
+            "vaaratiedote",
+            "ukrainan sota",
+            "pääministeri",
+            "suomi",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6982822"
         },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Asian­tuntijalta selvä tulkinta Suomeen kohdistuvasta drooniuhasta – Suora lähetys käynnissä",
-          "content": "Talousaamun vieraina ovat Koneen talousjohtaja Ilkka Hara, Finlandia Rahastoyhtiön toimitusjohtaja Vesa Engdahl ja sota-asiantuntija Emil Kastehelmi. Uudellamaalla herättiin perjantaina vaaratiedotteeseen mahdollisista droonihavainnoista. Mitä tästä nyt tiedetään? Maksaako hissiyhtiö Kone jättimäisessä TK Elevator -yrityskaupassa liikaa?",
+          "title": "Suomessa droonivaroitus – Näille alueille Ukraina iski yön aikana",
+          "content": "Suomeen aiemmin harhautuneiden droonien on epäilty liittyneen Ukrainan iskuihin Leningradin alueen satamiin. Venäjän puolustusministeriön päiväkatsauksen sekä Leningradin alueen paikallismedioiden mukaan Suomen lähialueille ei raportoitu yön aikana drooni-iskuja. Aiemmissa tapauksissa Suomeen harhautuneiden droonien on epäilty liittyneen Ukrainan iskuihin Leningradin alueen öljynjalostamoihin tai satamiin.",
+          "date": "2026-05-15T07:48:11.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/819a5abb-b881-4931-9c30-6e9047d2b336"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Pelastusylijohtaja: Ainakin yksi drooni harhautunut Suomeen –Puolustusvoimat ei vahvista droonihavaintoa",
+          "content": "Drooni harhautui Suomeen. Pelastusylijohtaja vahvisti tilanteen, joka oli ohi aamulla. Myös Latviassa annettiin varoitus ilmatilan uhasta.",
+          "date": "2026-05-15T05:47:03.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/pelastusylijohtaja-ainakin-yksi-drooni-harhautunut/13494610?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Puolustusvoimat: Ei havaintoja, että lennokkeja olisi tullut Suomen alueelle, Orpo kiistää ylireagoinnin",
+          "content": "Ilmavoimien mukaan riski oli, että Suomeen päätyy aikaisempaa isompia ja isommassa räjähdelastissa olevia lennokkeja.",
+          "date": "2026-05-15T02:23:41.000Z",
+          "categories": [
+            "turvallisuus",
+            "maanpuolustus",
+            "droonihavainnot suomessa 2026",
+            "droonit"
+          ],
+          "link": "https://yle.fi/a/74-20226061?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suuri tulipalo Nokialla kerrostalossa",
+      "mainCategories": [
+        "Onnettomuudet",
+        "Tulipalot",
+        "Nokia"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suuri tulipalo Nokialla – kerrostalon katto tulessa",
+          "content": "Palohälytys tuli ennen puoltapäivää.",
+          "date": "2026-05-15T09:38:00.000Z",
+          "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000012009479.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nokialla palaa kerrostalon katto – sammutustöissä useita pelastus­laitoksen yksiköitä",
+          "content": "Hälytys muuttui nopeasti keskisuuresta suureksi.",
+          "date": "2026-05-15T09:09:31.000Z",
+          "categories": [
+            "onnettomuudet",
+            "tulipalot",
+            "pirkanmaan pelastuslaitos",
+            "nokia",
+            "pirkanmaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20226148?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomessa drooniuhka herättää huolta",
+      "mainCategories": [
+        "Kotimaa",
+        "Talousaamu"
+      ],
+      "imageUrl": "/images/talous/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Poikkeuksellinen tilanne Suomessa: Yksi asia oli tällä kertaa erityisen hankala",
+          "content": "Talousaamun lähetyksessä keskusteltiin perjantaina aamuyön droonivaroituksesta.",
+          "date": "2026-05-15T09:17:00.000Z",
+          "categories": [
+            "talousaamu"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/49aa94aa-70fd-41e4-ba3d-71bda9482c24"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Asian­tuntijalta selvä tulkinta Suomeen kohdistuvasta drooniuhasta ",
+          "content": "Talousaamussa keskusteltiin perjantaina Suomen turvallisuustilanteesta, Koneen jättikaupasta sekä markkinatunnelmista. Vieraina olivat Koneen talousjohtaja Ilkka Hara, Finlandia Rahastoyhtiön toimitusjohtaja Vesa Engdahl sekä Iltalehden sota-asiantuntija Emil Kastehelmi. Uudellamaalla herättiin perjantaina vaaratiedotteeseen mahdollisista droonihavainnoista. Mitä oikeastaan tapahtui ja miltä Suomen droonipuolustus näyttää? Maksaako hissiyhtiö Kone jättimäisessä TK Elevator -yrityskaupassa liikaa?",
           "date": "2026-05-15T05:32:59.000Z",
           "categories": [
             "kotimaa"
@@ -39,61 +245,61 @@
       ]
     },
     {
-      "mainTitle": "Uudellamaalla havaittiin mahdollinen drooniuhka",
+      "mainTitle": "Uudenmaan drooniuhka aiheutti lentohäiriöitä",
       "mainCategories": [
         "Kotimaa",
         "Turvallisuus",
-        "Droonit"
+        "Uusimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Drooniuhka ohi – Vaara­tiedote kehotti 1,8 miljoonaa suomalaista pysymään sisällä",
-          "content": "Sisäministeriön pelastusylijohtaja Kimmo Kohvakka kertoi STT:lle, että tämänhetkisten tietojen mukaan Suomeen harhautui ainakin yksi drooni.",
-          "date": "2026-05-15T06:41:00.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin asiantuntija kommentoi viranomaisten tiedottamista: ”Kaksi tasoa”",
+          "content": "Uudenmaan alueella oli perjantaina aamulla drooniuhka, josta tieto ei heti tavoittanut kaikkia.",
+          "date": "2026-05-15T09:15:00.000Z",
           "categories": [
-            "suomi"
+            "kotimaa"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000012008359.html"
+          "link": "https://www.is.fi/kotimaa/art-2000012009138.html"
         },
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "112 Suomi -sovellus petti – Ilmoitus drooneista tuli pahasti myöhässä",
-          "content": "Osa 112 Suomi -sovelluksen käyttäjistä ei nähnyt minkäänlaista mainintaa drooneista ennen aamukahdeksaa perjantaina. Tässä vaiheessa vaaratilanne oli ollut jo pitkään ohi.",
-          "date": "2026-05-15T06:39:00.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Uhka taivaalla: Yksi asia oli tällä kertaa erityisen hankala",
+          "content": "Talousaamun lähetyksessä keskusteltiin perjantaina aamuyön droonivaroituksesta.  Uudellamaalla varoitettiin perjantaina aamuyöllä mahdollisesti vaarallisesta droonista. Asukkaita kehotettiin pysymään sisätiloissa. Aamuseitsemän jälkeen pelastusviranomainen tiedotti, että tilanne oli ohi. Iltalehden sota-asiantuntija Emil Kastehelmi tulkitsi tilannetta Kauppalehden Talousaamun suorassa lähetyksessä.",
+          "date": "2026-05-15T08:12:12.000Z",
           "categories": [
-            "turvallisuus"
+            "kotimaa"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/5ed70945-c2d6-4635-9726-3f8c7fc48b65"
+          "link": "https://www.iltalehti.fi/kotimaa/a/c5bef07b-213f-447e-a3db-35ab2d74b387"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Finnairin lentoja peruttiin drooniuhan vuoksi – Ei korvauksia matkustajille",
+          "content": "Finnair keskeytti liikenteen perjantaiaamuna Helsinki-Vantaan lentoasemalla. Viestintäjohtaja Päivyt Tallqvist kertoo, kuinka häiriö vaikuttaa toimintaan. Perjantaiaamuna Uudenmaan alueella raportoitiin mahdollisesta droonista. Uhan takia lentoliikenne Helsinki-Vantaan lentoasemalla keskeytettiin perjantaiaamuna useaksi tunniksi ilmatilarajoitteiden vuoksi. Liikennettä ohjattiin muille kentille.",
+          "date": "2026-05-15T07:31:23.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/e962d1c3-8331-404e-b299-126685d8d2d1"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Stubb kommentoi droonihälytystä – STT: Suomeen harhautui ainakin yksi drooni",
-          "content": "Sisäministeriö julisti Uudellemaalle yleisen vaaratilanteen mahdollisten droonihavaintojen takia. IS seuraa tilannetta tässä artikkelissa.",
-          "date": "2026-05-15T06:12:00.000Z",
+          "title": "Viesti drooniuhasta tuli kello 3.49 – näin aamun tapahtumat etenivät Uudellamaalla",
+          "content": "Vaaratiedote oli voimassa aamuneljästä seitsemään saakka.",
+          "date": "2026-05-15T07:30:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000012008358.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lukijat tyrmistyivät drooniuhasta tiedottamisesta: ”Tekstiviesti-ilmoitus tarvitaan”",
-          "content": "Perjantaiaamun drooniuhka vaikutti monien aamuun.",
-          "date": "2026-05-15T06:02:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012008476.html"
+          "link": "https://www.is.fi/kotimaa/art-2000012008789.html"
         },
         {
           "publisherId": "yle",
@@ -107,115 +313,10 @@
             "uusimaa",
             "puolustusvoimat",
             "droonit",
+            "yle uutiset somenostot",
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20226082?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Antti Kaikkoselta painavaa kritiikkiä: ”Ei voi olla niin, että suomalaiset joutuvat odottamaan”",
-          "content": "Ex-puolustusministeri Antti Kaikkosen mukaan erityisen kiireellinen tarve on kansalaisille suunnattavassa droonivaroitusjärjestelmässä. Keskustan puheenjohtaja Antti Kaikkonen peräänkuuluttaa nopeampaa viranomaistiedotusta droonitilanteissa. Perjantaina Uudenmaan alueella raportoitiin mahdollisesta droonista. Lisäksi viime kuussa Kaakkois-Suomessa drooneja putosi lähelle asutusta. Kaikkosen mukaan nämä tapaukset osoittavat, että viranomaisten tiedotusta ja varoitusjärjestelmiä on kehitettävä kiireellisesti.",
-          "date": "2026-05-15T05:58:29.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/32d10e45-9b26-4d6e-876b-f477c1dbd5cb"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Mika Aaltola arvioi: Tästä drooni­tilanteessa oli mahdollisesti kyse",
-          "content": "Turvallisuuspolitiikan asiantuntija, meppi Mika Aaltola kertoo, miten droonit voivat aiheuttaa vaaratilanteita.  Europarlamentaarikko Mika Aaltola (kok/EPP) sanoo Iltalehdelle, että sodan olemassaolo kasvaa Suomen lähialueilla. Uudellamaalla havaittiin mahdollisesti vaarallinen miehittämätön ilma-alus eli drooni varhain perjantaiaamuna. Asiasta annettiin vaaratiedote neljän aikaan aamuyöllä, ja hieman kello seitsemän jälkeen tilanne oli ohi. Ihmisiä kehotettiin pysymään sisätiloissa.",
-          "date": "2026-05-15T05:51:21.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/16e0ac23-0b34-45e5-8851-8e82c0c17e65"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Pelastusylijohtaja: Ainakin yksi drooni harhautunut Suomeen –Puolustusvoimat ei vahvista droonihavaintoa",
-          "content": "Drooni harhautui Suomeen. Pelastusylijohtaja vahvisti tilanteen, joka oli ohi aamulla. Myös Latviassa annettiin varoitus ilmatilan uhasta.",
-          "date": "2026-05-15T05:47:03.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/pelastusylijohtaja-ainakin-yksi-drooni-harhautunut/13494610?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Puolustusvoimat: Ei havaintoja drooneista",
-          "content": "Puolustusvoimien mukaan sillä oli tietoa, että drooneja olisi lähestymässä. Niistä ei ole kuitenkaan tehty havaintoja.",
-          "date": "2026-05-15T05:30:00.000Z",
-          "categories": [
-            "turvallisuus"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/2f506c0a-77a9-4886-a4f3-90f18cf58574"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Katso poikkeuk­selliset kuvat Helsingin keskustasta sen jälkeen, kun valtio varoitti mahdollisesta ilmavaarasta",
-          "content": "Helsingin keskusta ei ollut ainakaan vilkas vaaratiedotteen jälkeen. Toukokuun 15:nnen päivän aamu oli Helsingissä poikkeuksellinen. Viranomaiset antoivat vaaratiedotteen miehittämättömästä ilma-aluksesta Uudenmaan alueella, ja ilmavaaran vuoksi ihmisiä kehotettiin pysyttelemään sisätiloissa. Venäjän laittomaan hyökkäyssotaan liittyvät droonihavainnot erityisesti Kaakkois-Suomessa ovat olleet tänä vuonna uutisissa. Nyt epäily kosketti ensimmäistä kertaa pääkaupunkia. Aamukahdeksan aikaan ei ollut tiedossa, mistä ilma-alus tai -alukset olivat peräisin. Aiempien droonien on kerrottu olevan ukrainalaisia.",
-          "date": "2026-05-15T05:18:15.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/2ca61328-8f7b-4b29-9cb1-8fb62148b88a"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Video: Hävittäjät nousivat ilmaan Uudellamaalla",
-          "content": "Puolustusvoimat tehosti aseistettujen hävittäjien päivystystä ja muuta valvontaa mahdollisen droonihavainnon aikana. Iltalehden saamilla videoilla näkyy, kun hävittäjät lentävät eri puolilla pääkaupunkiseutua. Viranomaiset antoivat varhain perjantaina Uudenmaan alueelle vaaratiedotteen. Syynä oli havainto mahdollisesti vaarallisesta droonista. Hieman kello seitsemän jälkeen aamulla tiedotettiin, että vaaratilanne on ohi. Mahdollisesta vaaratilanteesta ilmoitettiin hieman ennen kello neljää. Viranomaiset kehottivat ihmisiä pysymään sisätiloissa vaaratilanteen päättymiseen saakka.",
-          "date": "2026-05-15T05:04:26.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/49e5495a-ab7b-4575-bfc9-0a4c99d47d75"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Kaikkonen: Drooni toi esiin kiireen – ”Varoitusjärjestelmä ei ole avaruusteknologiaa”",
-          "content": "Antti Kaikkonen jyrähtää viranomaistiedotuksesta.",
-          "date": "2026-05-15T05:04:00.000Z",
-          "categories": [
-            "turvallisuus"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/fc4836cb-2848-435c-bfd5-971a01d67513"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Puolustus­voimat: Drooneista ei havaintoa – Tästä syystä vaaratiedote annettiin",
-          "content": "Puolustusvoimien mukaan sillä oli tietoa, että drooneja olisi lähestymässä. Niistä ei ole kuitenkaan tehty havaintoja.  Puolustusvoimilla ei ole havaintoja drooneista, kertoo puolustusvoimien viestintäasiantuntija Henrik Gahmberg. Sisäministeriön pelastusylijohtaja Kimmo Kohvakka sanoo STT:lle, että tämänhetkisten tietojen mukaan Suomeen harhautui ainakin yksi drooni.",
-          "date": "2026-05-15T05:00:22.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/6dceae76-82c4-4b14-94fc-13c50ac2fd7f"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi nosti valmiuttaan drooni­havaintojen vuoksi",
-          "content": "Myös poliisi kehottaa ihmisiä pysymään sisällä.",
-          "date": "2026-05-15T04:02:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012008417.html"
         },
         {
           "publisherId": "kaleva",
@@ -228,77 +329,11 @@
           "link": "https://www.kaleva.fi/droonivaara-sekoitti-uudenmaan-perjantaiaamun-tois/13494534?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sisäministeriö: Toimi näin jos havaitset droonin",
-          "content": "Kansalaisia ohjeistetaan ilmoittamaan epäilyttävistä havainnoista hätänumeroon.",
-          "date": "2026-05-15T03:40:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012008388.html"
-        },
-        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Puolustus­voimat reagoi drooni­tilanteeseen",
-          "content": "Puolustusvoimien mukaan Suomeen ei kohdistu tällä hetkellä suoraa sotilaallista uhkaa. Puolustusvoimat kertoi perjantaiaamuna tehostaneensa välittömästi valvonta- ja torjuntakykyään saatuaan tiedon Suomeen mahdollisesti harhautuvista lennokeista. Puolustusvoimilla ei kuitenkaan ole havaintoja drooneista, kertoi puolustusvoimien viestintäasiantuntija Henrik Gahmberg Iltalehdelle.",
-          "date": "2026-05-15T03:27:08.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/a7021f39-979d-4ca0-b438-582d549cb1ea"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Viranomaiset ohjeistavat: jos löydät droonin, siirry vähintään 150 metrin päähän",
-          "content": "",
-          "date": "2026-05-15T02:43:48.000Z",
-          "categories": [
-            "turvallisuus",
-            "droonit",
-            "pelastustoimi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226062?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Uudellamaalla varoitettiin drooniuhasta, vaara nyt ohi – katso Ylen suoraa lähetystä",
-          "content": "Sisäministeriön tämänhetkisten tietojen mukaan Suomeen harhautui ainakin yksi drooni.",
-          "date": "2026-05-15T02:23:41.000Z",
-          "categories": [
-            "turvallisuus",
-            "maanpuolustus",
-            "droonihavainnot suomessa 2026",
-            "droonit"
-          ],
-          "link": "https://yle.fi/a/74-20226061?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hävittäjiä ilmassa Helsingissä ja Vantaalla",
-          "content": "Ihmisiä kehotetaan pysymään sisätiloissa mahdollisen vaarallisen droonin takia.",
-          "date": "2026-05-15T01:56:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012008362.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Presidentti Stubb kommentoi aamun drooni­hälytystä",
-          "content": "Viranomaiset tiedottavat asiasta myöhemmin lisää. Uudellamaalla havaittiin mahdollisesti vaarallinen miehittämätön ilma-alus eli drooni varhain perjantaina. Viranomaiset ilmoittivat vaaratilanteen olevan ohi hieman aamuseitsemän jälkeen. Hetkellisesti aamulla sisäministeriön pelastusviranomaiset kehottivat alueen asukkaita pysymään sisätiloissa.",
+          "title": "Antti Häkkänen jyrähtää Ukrainalle Helsingin drooniuhasta – Puolustus­voimat sai hälyttävän tiedon keskellä yötä: IL seuraa",
+          "content": "Suomessa annettiin varhain perjantaiaamuna vaaratiedote mahdollisesta drooniuhasta. Uudellamaalla annettiin varhain perjantaina vaaratiedote mahdollisesta drooniuhasta.  Viranomaiset ilmoittivat vaaratilanteen olevan ohi hieman aamuseitsemän jälkeen. Sisäministeriön pelastusviranomaiset kehottivat hetkellisesti aamulla alueen asukkaita pysymään sisätiloissa.",
           "date": "2026-05-15T01:03:04.000Z",
           "categories": [
             "kotimaa"
@@ -317,126 +352,568 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20226058?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Media: Tanskassa ammuttiin epäillyn drooni­havainnon jälkeen – matkusta­jakone lensi alueella",
-          "content": "Tanskassa kohistiin viime syksynä drooneista.",
-          "date": "2026-05-13T13:47:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012005691.html"
         }
       ]
     },
     {
-      "mainTitle": "Suomi Euroviisujen finaalissa toisella puoliskolla",
+      "mainTitle": "Drooniuhan tiedottamisessa ongelmia hätäkeskuksessa",
       "mainCategories": [
-        "Euroviisut",
-        "Viihde",
-        "Laulukilpailut"
+        "Kotimaa",
+        "Turvallisuus",
+        "Onnettomuudet"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/helsinki/1.jpg",
       "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suomi esiintyy Euroviisujen finaalissa toisella puoliskolla – loputkin finaalivastukset ovat selvillä",
-          "content": "",
-          "date": "2026-05-15T06:38:13.000Z",
-          "categories": [
-            "euroviisut",
-            "laulukilpailut",
-            "pop",
-            "iskelmä",
-            "kulttuuri"
-          ],
-          "link": "https://www.ts.fi/a/6982744"
-        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Ennakkosuosikit Tanska ja Australia etenivät Euroviisujen finaaliin haastamaan Suomea – tässä kaikki illan kohokohdat",
-          "content": "Seurasimme toista semifinaalia tässä jutussa.",
-          "date": "2026-05-14T15:50:49.000Z",
+          "title": "Drooniuhan vaaratiedottaminen ei toiminut kunnolla – Hätäkeskus­laitoksen ylijohtaja pahoittelee",
+          "content": "Hätä­keskuslaitoksen 112 Suomi -sovelluksessa ilmeni lukuisia ongelmia perjantai­aamuna, kun viranomaiset tiedottivat drooniuhasta.",
+          "date": "2026-05-15T08:58:41.000Z",
           "categories": [
-            "viihde",
-            "euroviisut 2026",
-            "euroviisut"
+            "turvallisuus",
+            "onnettomuudet",
+            "hätäkeskukset",
+            "hätätilanteet",
+            "matkapuhelimet ja mobiililaitteet",
+            "teknologia",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20226034?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjä iski Ukrainaan massiivisesti drooneilla",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat",
-        "Ukraina"
-      ],
-      "imageUrl": "/images/venäjä/1.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjä: Ukraina teki massiivisen lennokkihyökkäyksen – videot valtavasta tulipalosta leviävät",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä.",
-          "date": "2026-05-15T06:11:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011945121.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Venäjän iskussa Kiovaan kuoli viisi ja haavoittui kymmeniä – droonit osuivat YK:n ajoneuvoon Hersonin alueella",
-          "content": "Zelenskyin mukaan Venäjä hyökkäsi viime yönä yli 670 droonilla ja 56 ohjuksella.",
-          "date": "2026-05-14T15:42:11.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/venajan-iskussa-kiovaan-kuoli-viisi-ja-haavoittui/13494129?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Zelenskyi: Venäjä iski YK:n ajoneuvoon Hersonissa",
-          "content": "",
-          "date": "2026-05-14T13:20:48.000Z",
-          "categories": [
-            "ukrainan sota",
-            "ukraina",
-            "venäjä",
-            "yk",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6982292"
+          "link": "https://yle.fi/a/74-20226095?origin=rss"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Venäjän laajat iskut Ukrainaan jatkuvat",
-          "content": "Kiovassa ainakin viisi ihmistä on kuollut. Zelenskyi kutsui hyökkäystä yhdeksi Venäjän laajimmista ja pitkä­kestoisimmista.",
-          "date": "2026-05-14T11:49:00.000Z",
+          "title": "Tuoreimmat tiedot | Tieto drooniuhan päättymisestä tavoitti ihmiset viiveellä teknisen vian vuoksi",
+          "content": "Aamun drooniuhka saattaa vaikuttaa Helsinki-Vantaan lentoliikenteeseen vielä iltapäivälläkin.",
+          "date": "2026-05-15T08:56:00.000Z",
           "categories": [
-            "maailma"
+            "suomi"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000012006685.html"
+          "link": "https://www.hs.fi/suomi/art-2000012008359.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Drooniuhka ei pysäyttänyt helsinkiläisiä perjantaiaamuna",
+          "content": "Kysyimme ihmisten mielipiteitä Helsingin Kalliossa ja pää­rauta­tie­asemalla.",
+          "date": "2026-05-15T07:42:35.000Z",
+          "categories": [
+            "turvallisuus",
+            "droonit",
+            "helsingin päärautatieasema",
+            "helsinki",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20226085?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Sisäministeriö: Toimi näin jos havaitset droonin",
+          "content": "Kansalaisia ohjeistetaan ilmoittamaan epäilyttävistä havainnoista hätänumeroon.",
+          "date": "2026-05-15T03:40:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012008388.html"
         }
       ]
     },
     {
-      "mainTitle": "Helsinki-Vantaan lentoliikenne rajoitettu jälleen",
+      "mainTitle": "Yhdysvallat keskeytti sotilaiden siirron Eurooppaan",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "USA:lta märkä rätti liittolaiselle – Pentagonkin yllättyi",
+          "content": "4 000 yhdysvaltalaissotilaan oli määrä viettää Puolassa yhdeksän kuukautta. Yhdysvallat on päättänyt olla sijoittamatta 4 000 sotilasta Puolaan, kertoo yhdysvaltalaismedia Politico. Yhdysvaltain puolustusministerin Pete Hegsethin viime hetken päätös tuli Politicon mukaan yllätyksenä niin hänen omalle ministeriölleen kuin Yhdysvaltain eurooppalaisille liittolaisillekin. Politicon lähteiden mukaan syyt Hegsethin päätösten taustalla ovat edelleen avoinna.",
+          "date": "2026-05-15T08:48:29.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/98966b44-34da-4eaa-a9a5-3ef15b01faae"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Nato | Liettuan puolustus­ministeri: Yhdysvallat keskeytti sotilaiden siirron Eurooppaan",
+          "content": "Liettua pitää taukoa väliaikaisena. Joukot oli tiettävästi tarkoitus sijoittaa Puolaan.",
+          "date": "2026-05-14T14:38:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012007773.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Finnair ei maksa korvauksia droonihäiriöstä",
+      "mainCategories": [
+        "Politiikka",
+        "Liikenne"
+      ],
+      "imageUrl": "/images/finnair/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Droonihälytys muutti Otto Meren matkaa",
+          "content": "Finnairin viestintäjohtaja sanoo Kauppalehdelle, ettei korvauksia viivästyneistä lennoista tule.",
+          "date": "2026-05-15T08:46:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012009075.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Finnairin lentoja peruttiin drooniuhan vuoksi – Ei korvauksia matkustajille",
+          "content": "Finnair keskeytti liikenteen perjantaiaamuna Helsinki-Vantaan lentoasemalla. Viestintäjohtaja Päivyt Tallqvist kertoo, kuinka häiriö vaikuttaa toimintaan.",
+          "date": "2026-05-15T07:17:00.000Z",
+          "categories": [
+            "liikenne"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/8781e5ae-694c-4e58-a628-4511c95f2924"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Marko Vainio menetti kodin ja varat",
+      "mainCategories": [
+        "Asuminen",
+        "Kosteusvauriot",
+        "Asunnot"
+      ],
+      "imageUrl": "/images/oikeudenkäyn/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Yle: Marko joutui vuosien painajaiseen – Jätti­korvauksia ei maksa kukaan",
+          "content": "Markon homeluolaksi paljastuneen talon oikeusprosessikulut maksoivat lähes kolmasosan talon hinnasta. Korvausta talosta ei kuitenkaan näytä tulevan. Esiintyvä taiteilija Marko Vainio osti hyväkuntoisen myydyn asunnon, mutta kohtalokkaan kaupan seurauksena menetti vain aikaa ja rahaa, kertoo Yle. Kesällä 2017 Vainio osti omakotitalon Kaarinasta. Kolmen vuoden päästä paljastui mittava homeongelma. Kymmenien tuhansien eurojen tutkimukset lähtivät liikkeelle siitä, kun Vainion ystävä muutti hänen luokseen asumaan.",
+          "date": "2026-05-15T08:02:26.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/f5c7f5ab-29fd-4e6c-b02c-221ae304112d"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Marko Vainio menetti kodin ja satoja tuhansia – oikeudenkäynnit maksavat keskituloisille jo liikaa",
+          "content": "Asian­tuntijoiden mukaan pitkät ja kalliit oikeudenkäynnit ovat riski oikeusturvalle.",
+          "date": "2026-05-15T05:43:57.000Z",
+          "categories": [
+            "asuminen",
+            "kosteusvauriot",
+            "asunnot",
+            "oikeudenkäynnit",
+            "kiinteistökauppa",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20221250?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Starmerin haasteet Britannian politiikassa kasvavat",
+      "mainCategories": [
+        "Ulkomaat",
+        "Britannia",
+        "Pääministerit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Starmerin kujanjuoksu kiihtyy – onko joku heistä Britannian uusi pääministeri?",
+          "content": "Brittimedian mukaan Starmer ei aio estää pahan kilpakumppanin pyrkimystä päästä parlamenttiin.",
+          "date": "2026-05-15T07:49:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012008295.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Britannian terveysministeri erosi, haastanee Starmerin",
+          "content": "",
+          "date": "2026-05-14T14:02:49.000Z",
+          "categories": [
+            "britannia",
+            "britannian politiikka",
+            "pääministerit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20226026?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kaurislauma eksyi Helsingin keskustaan",
+      "mainCategories": [
+        "Kotimaa",
+        "Eläimet",
+        "Hirvieläimet"
+      ],
+      "imageUrl": "/images/helsinki/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Laukauksia Helsingin yössä – poliisi lopetti kaksi hirveä",
+          "content": "",
+          "date": "2026-05-15T07:39:15.000Z",
+          "categories": [
+            "eläimet",
+            "hirvieläimet",
+            "helsinki",
+            "hirvi",
+            "poliisi",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20226112?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kauriit eksyivät keskelle Helsinkiä – näin kommentoi poliisi",
+          "content": "Kolme kaurista löysi urbaaniin Helsinkiin.",
+          "date": "2026-05-14T11:52:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012007645.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tilausrikollisuus ja alaikäisten värväys kasvavat",
+      "mainCategories": [
+        "Rikokset",
+        "Helsinki",
+        "Vantaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tilaus­rikollisuudessa on kyse hyväksi­käytöstä, sanoo tutkija – ongelma kasvaa, jos tilaajia ei saada kiinni",
+          "content": "Tilatut väkivalta­rikokset saavat jatkoa Suomessa, jos rikollis­verkostojen toimintaan ei saada puututtua. Näin uskoo apulais­professori Markus Kaakinen Helsingin yliopistosta.",
+          "date": "2026-05-15T07:28:27.000Z",
+          "categories": [
+            "rikokset",
+            "helsinki",
+            "espoo",
+            "vantaa",
+            "poliisi",
+            "helsingin yliopisto",
+            "nuorisorikollisuus",
+            "järjestäytynyt rikollisuus",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20225846?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Alaikäisiä käytetään vakaviin rikoksiin, jotka kohdistuvat myös sivullisiin – poliisi tutkii jo neljää tilausrikosta",
+          "content": "Nuoria ja jopa alaikäisiä on värvätty tekemään vakavia rikoksia eri puolilla pää­kaupunkiseutua. Taustalla toimivat rikolliset pakoilevat ulkomailla.",
+          "date": "2026-05-15T02:30:35.000Z",
+          "categories": [
+            "rikokset",
+            "helsinki",
+            "vantaa",
+            "suomen katujengit",
+            "jengit",
+            "ruotsi",
+            "kansainvälinen rikollisuus",
+            "järjestäytynyt rikollisuus",
+            "nuorisorikollisuus",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20224943?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump ja Xi keskustelivat Kiinan suhteista",
+      "mainCategories": [
+        "Ulkomaat",
+        "Kiina",
+        "Yhdysvallat"
+      ],
+      "imageUrl": "/images/trump/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Trumpin valtiovierailun alfauros olikin Xi",
+          "content": "Kiinan presidentti saattoi onnistua valtio­vierailulla nostamaan maansa tasavertaiseksi kumppaniksi Yhdysvaltain rinnalle, arvioi Ylen Aasian-kirjeen­vaihtaja.",
+          "date": "2026-05-15T07:17:59.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "kiina",
+            "yhdysvallat",
+            "donald trump",
+            "xi jinping",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20225551?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump: Xi tarjosi apuaan Hormuzinsalmen avaamisessa",
+          "content": "",
+          "date": "2026-05-14T17:02:34.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "kiina",
+            "yhdysvallat",
+            "hormuzinsalmi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20226039?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump kutsui Xin Valkoiseen taloon syyskuussa",
+          "content": "",
+          "date": "2026-05-14T11:00:11.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "kiina",
+            "yhdysvallat",
+            "diplomatia",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20226003?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Kiina nokitti Trumpia heti Taiwan-kortilla",
+          "content": "Valtiovierailun alku näyttää, että ero kahden suurvaltajohtajan välillä ei voisi olla suurempi, arvioi Ylen Aasian-kirjeenvaihtaja.",
+          "date": "2026-05-14T07:37:57.000Z",
+          "categories": [
+            "kiina",
+            "yhdysvallat",
+            "xi jinping",
+            "donald trump",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20225975?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump ja Xi keskustelivat Kiinassa – presidentti Xi: Kysymys Taiwanista voi johtaa törmäys­kurssille tai jopa konfliktiin",
+          "content": "Meneillään on ensimmäinen Yhdysvaltain presidentin matka Kiinaan lähes vuosikymmeneen.",
+          "date": "2026-05-14T05:28:10.000Z",
+          "categories": [
+            "kiina",
+            "donald trump",
+            "xi jinping",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20225970?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Kiinan Xi varoitti Trumpia – sanoi maiden voivan \"joutua konfliktiin\", jos Taiwan-kysymystä käsitellään väärin",
+          "content": "Tapaamisen aiheina ovat muun muassa maiden kahdenväliset suhteet, tilanne Lähi-idässä sekä Trumpin tullipolitiikka.",
+          "date": "2026-05-14T04:30:22.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/kiinan-xi-varoitti-trumpia-sanoi-maiden-voivan-jou/13493900?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näky Kiinassa teki valtavan vaikutuksen Donald Trumpiin",
+          "content": "Donald Trump ja Xi Jinping tapaavat.",
+          "date": "2026-05-14T03:07:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012007262.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump ja Xi aloittivat tapaamisensa Kiinassa",
+          "content": "",
+          "date": "2026-05-14T02:39:33.000Z",
+          "categories": [
+            "kiina",
+            "donald trump",
+            "xi jinping",
+            "yhdysvallat",
+            "elon musk",
+            "yhdysvaltain presidentti",
+            "marco rubio",
+            "pete hegseth",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20225965?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin Kiinan-vierailu päättyi tuloksetta",
+      "mainCategories": [
+        "Kiina",
+        "Ulkomaat",
+        "Yhdysvallat"
+      ],
+      "imageUrl": "/images/trump/7.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trumpin Kiinan-vierailu päättyi – merkittävistä tuloksista ei tietoa",
+          "content": "Vierailun päätteeksi Trump pääsi Pekingin Kielletyssä kaupungissa sijaitsevaan puutarhaan.",
+          "date": "2026-05-15T06:58:54.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "kiina",
+            "ulkomaat",
+            "xi jinping",
+            "donald trump",
+            "kielletty kaupunki",
+            "yhdysvallat"
+          ],
+          "link": "https://yle.fi/a/74-20226104?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kiina järjesti Trumpille mahtipontisen vastaanoton – katso kuvat",
+          "content": "Kiinan ja Yhdysvaltain presidenttien virallinen tapaaminen kesti reilut kaksi tuntia. Tiedot tapaamisesta ovat toistaiseksi niukkoja.",
+          "date": "2026-05-14T10:07:51.000Z",
+          "categories": [
+            "kiina",
+            "donald trump",
+            "xi jinping",
+            "yhdysvallat",
+            "yhdysvaltain presidentti",
+            "mahtava kansan sali",
+            "donald trumpin perhe",
+            "jinping",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20225873?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Drooniuhka nostaa viranomaisten valmiutta",
+      "mainCategories": [
+        "Kotimaa",
+        "Turvallisuus",
+        "Droonit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisi nosti valmiuttaan drooni­havaintojen vuoksi",
+          "content": "Myös poliisi kehottaa ihmisiä pysymään sisällä.",
+          "date": "2026-05-15T04:02:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012008417.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Puolustusvoimat reagoi drooniuhkaan",
+          "content": "Puolustusvoimat kehottaa pysymään rauhallisena ja noudattamaan viranomaisten ohjeita.",
+          "date": "2026-05-15T03:13:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012008389.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viranomaiset ohjeistavat: jos löydät droonin, siirry vähintään 150 metrin päähän",
+          "content": "",
+          "date": "2026-05-15T02:43:48.000Z",
+          "categories": [
+            "turvallisuus",
+            "droonit",
+            "pelastustoimi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20226062?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Hävittäjiä ilmassa Helsingissä ja Vantaalla",
+          "content": "Ihmisiä kehotetaan pysymään sisätiloissa mahdollisen vaarallisen droonin takia.",
+          "date": "2026-05-15T01:56:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012008362.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Helsinki-Vantaan lentoja ohjattu muille kentille",
       "mainCategories": [
         "Kotimaa",
         "Ilmailu",
@@ -465,18 +942,6 @@
           "link": "https://yle.fi/a/74-20226066?origin=rss"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Helsinki-Vantaan lentoliikenne käynnistyi jälleen",
-          "content": "HSL:n verkkosivuilla kehotetaan pysymään sisätiloissa.  Finavia tiedottaa, että lentoliikenne Helsinki-Vantaalla on käynnistetty uudestaan. Puolustusvoimien mukaan Helsinki-Vantaan lentoaseman lentoliikenne sekä Suomenlahden meriliikenne reititettiin uudelleen aamuyöllä. Tällöin Helsinki-Vantaan lentoliikenne oli pysäytetty.",
-          "date": "2026-05-15T02:52:33.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/615c9b51-55fc-42fd-bf33-8f512ecf5ffd"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -491,12 +956,12 @@
       ]
     },
     {
-      "mainTitle": "Trumpin nimi uusiin lentokenttäprojekteihin Floridassa",
+      "mainTitle": "Trumpin nimi nyt Floridan lentokentässä",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat"
       ],
-      "imageUrl": "/images/trump/4.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -527,7 +992,7 @@
       ]
     },
     {
-      "mainTitle": "Kuubassa laajat sähkökatkokset ja mielenosoitukset",
+      "mainTitle": "Kuubassa laajat sähkökatkokset jatkuvat",
       "mainCategories": [
         "Ulkomaat",
         "Energia"
@@ -558,66 +1023,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012007946.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomen ja Israelin puolustusseminaari herätti kritiikkiä",
-      "mainCategories": [
-        "Israel",
-        "Politiikka",
-        "Maanpuolustus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puolustusteollisuus | Israel väittää Suomen olleen mukana järjestämässä konferenssia, ministeriö kiistää",
-          "content": "Helsingissä järjestettyyn konferenssiin osallistui Suomen ja Israelin puolustusteollisuuden yrityksiä.",
-          "date": "2026-05-14T19:52:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012007760.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomen ja Israelin puolustusseminaari sai arvosteluryöpyn oppositiopuolueista – ”Kyseessä on maa, joka toteuttaa kansanmurhaa”",
-          "content": "Helsingissä tällä viikolla pidettyyn seminaariin osallistui yli 30 israelilaista puolustusalan yritystä ja noin 30 suomalaisyritystä, tiedotti Israelin puolustusministeriö.",
-          "date": "2026-05-14T19:11:59.000Z",
-          "categories": [
-            "maanpuolustus",
-            "israel",
-            "puolustusministeriö",
-            "lähi-itä",
-            "suomi",
-            "libanon",
-            "puolustuspolitiikka",
-            "politiikka",
-            "suomen puolustusministeriö"
-          ],
-          "link": "https://yle.fi/a/74-20226049?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suomen ja Israelin puolustusseminaarista arvosteluryöppy: \"Kyseessä on maa, joka toteuttaa kansanmurhaa\"",
-          "content": "",
-          "date": "2026-05-14T18:24:11.000Z",
-          "categories": [
-            "ihmisoikeudet",
-            "israel",
-            "palestiina",
-            "kansainvälinen politiikka",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6982434"
         }
       ]
     },
@@ -738,91 +1143,6 @@
       ]
     },
     {
-      "mainTitle": "Trump ja Xi keskustelevat Hormuzinsalmen avauksesta",
-      "mainCategories": [
-        "Kiina",
-        "Yhdysvallat",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/kiina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump: Xi tarjosi apuaan Hormuzinsalmen avaamisessa",
-          "content": "",
-          "date": "2026-05-14T17:02:34.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "kiina",
-            "yhdysvallat",
-            "hormuzinsalmi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226039?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump ja Xi aloittivat tapaamisensa Kiinassa",
-          "content": "",
-          "date": "2026-05-14T02:39:33.000Z",
-          "categories": [
-            "kiina",
-            "donald trump",
-            "xi jinping",
-            "yhdysvallat",
-            "elon musk",
-            "yhdysvaltain presidentti",
-            "marco rubio",
-            "pete hegseth",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225965?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvaltain tuki Taiwanille huolestuttaa Kiinaa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Kiina"
-      ],
-      "imageUrl": "/images/kiina/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Xiltä painava varoitus Trumpille: ”Voi johtaa vaaralliseen tilanteeseen”",
-          "content": "Yhdysvaltain Taiwanille osoittama tuki voi Kiinan mukaan johtaa ikävään tilanteeseen.",
-          "date": "2026-05-14T16:58:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012007280.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump ja Xi keskustelivat Kiinassa – presidentti Xi: Kysymys Taiwanista voi johtaa törmäys­kurssille tai jopa konfliktiin",
-          "content": "Meneillään on ensimmäinen Yhdysvaltain presidentin matka Kiinaan lähes vuosikymmeneen.",
-          "date": "2026-05-14T05:28:10.000Z",
-          "categories": [
-            "kiina",
-            "donald trump",
-            "xi jinping",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225970?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kuningatar Margareeta sairaalahoidossa rintakipujen vuoksi",
       "mainCategories": [
         "Kuninkaalliset",
@@ -864,13 +1184,63 @@
       ]
     },
     {
+      "mainTitle": "Venäjän laajat iskut Ukrainassa jatkuvat",
+      "mainCategories": [
+        "Maailma",
+        "Ukraina",
+        "Venäjä"
+      ],
+      "imageUrl": "/images/venäjä/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Venäjän iskussa Kiovaan kuoli viisi ja haavoittui kymmeniä – droonit osuivat YK:n ajoneuvoon Hersonin alueella",
+          "content": "Zelenskyin mukaan Venäjä hyökkäsi viime yönä yli 670 droonilla ja 56 ohjuksella.",
+          "date": "2026-05-14T15:42:11.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/venajan-iskussa-kiovaan-kuoli-viisi-ja-haavoittui/13494129?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Zelenskyi: Venäjä iski YK:n ajoneuvoon Hersonissa",
+          "content": "",
+          "date": "2026-05-14T13:20:48.000Z",
+          "categories": [
+            "ukrainan sota",
+            "ukraina",
+            "venäjä",
+            "yk",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6982292"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Venäjän laajat iskut Ukrainaan jatkuvat",
+          "content": "Kiovassa ainakin viisi ihmistä on kuollut. Zelenskyi kutsui hyökkäystä yhdeksi Venäjän laajimmista ja pitkä­kestoisimmista.",
+          "date": "2026-05-14T11:49:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012006685.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Latvian hallitus kaatui droonitapauksen vuoksi",
       "mainCategories": [
         "Latvia",
         "Ulkomaat",
         "Ukraina"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -923,11 +1293,11 @@
       ]
     },
     {
-      "mainTitle": "MTV ja Elisa kiistassa jääkiekon MM-kisoista",
+      "mainTitle": "MTV ja Elisa kiistelevät MM-kisojen lähetyksistä",
       "mainCategories": [
+        "Mtv3",
         "Elisa",
-        "Kotimaa",
-        "Tietoliikenne"
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -998,197 +1368,17 @@
           "date": "2026-05-14T10:22:31.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/elisan-mukaan-mtv-kieltaytyi-ehdotuksesta-jatkaa-l/13494083?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Elisa ei anna armoa, jos asiakas haluaa irtisanoa sopimuksen MTV:n pimenemisen vuoksi",
-          "content": "Viihde- ja kaapeli­television palveluehdoissa lukee, että niihin voi tulla muutoksia, Elisa perustelee.",
-          "date": "2026-05-13T13:51:25.000Z",
-          "categories": [
-            "tietoliikenne",
-            "elisa",
-            "mtv oy",
-            "televisiokanavat",
-            "kotimaa",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20225828?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Elisan ja MTV:n kiista jatkuu – ministeri haluaa osapuolet sopuun ennen jääkiekon MM-kisoja",
-          "content": "MTV irtisanoi jakelusopimukset Elisan kanssa, mutta Elisa tarjoaa kiertotietä MTV:n ohjelmien katseluun.",
-          "date": "2026-05-13T09:13:45.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/elisan-ja-mtvn-kiista-jatkuu-ministeri-haluaa-osap/13492327?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
     {
-      "mainTitle": "Trumpin ja Xin tapaaminen Kiinassa",
+      "mainTitle": "Trumpin valtiovierailu Kiinaan, mukana Musk",
       "mainCategories": [
         "Ulkomaat",
         "Kiina",
-        "Yhdysvallat"
+        "Maailma"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asiantuntija Trumpin ja Xin tapaamisesta: Kiinalla vahvemmat kortit käsissään",
-          "content": "EK:n Timo Vuori huomauttaa, että Kiinalla on aikaa, kun taas Trumpilla on kiire. Toisaalta Kiina tarvitsee Yhdysvaltoja talouskasvunsa vauhdittajaksi.",
-          "date": "2026-05-14T14:40:50.000Z",
-          "categories": [
-            "kiina",
-            "kauppapolitiikka",
-            "donald trump",
-            "yhdysvallat",
-            "talous",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20226008?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kiina järjesti Trumpille mahtipontisen vastaanoton – katso kuvat",
-          "content": "Kiinan ja Yhdysvaltain presidenttien virallinen tapaaminen kesti reilut kaksi tuntia. Tiedot tapaamisesta ovat toistaiseksi niukkoja.",
-          "date": "2026-05-14T10:07:51.000Z",
-          "categories": [
-            "kiina",
-            "donald trump",
-            "xi jinping",
-            "yhdysvallat",
-            "yhdysvaltain presidentti",
-            "mahtava kansan sali",
-            "donald trumpin perhe",
-            "jinping",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225873?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Kiina nokitti Trumpia heti Taiwan-kortilla",
-          "content": "Valtiovierailun alku näyttää, että ero kahden suurvaltajohtajan välillä ei voisi olla suurempi, arvioi Ylen Aasian-kirjeenvaihtaja.",
-          "date": "2026-05-14T07:37:57.000Z",
-          "categories": [
-            "kiina",
-            "yhdysvallat",
-            "xi jinping",
-            "donald trump",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225975?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näky Kiinassa teki valtavan vaikutuksen Donald Trumpiin",
-          "content": "Donald Trump ja Xi Jinping tapaavat.",
-          "date": "2026-05-14T03:07:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012007262.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Trumpilta ilmoitus Kiinan Xistä – IL seuraa",
-          "content": "Iltalehti seuraa Yhdysvaltain presidentti Donald Trumpin Kiinan-vierailua tässä artikkelissa. Yhdysvaltain presidentti Donald Trump on saapunut valtionvierailulle Kiinaan. Trump saapui Pekingiin keskiviikkoiltana paikallista aikaa, kertovat CNN ja Britannian yleisradioyhtiö BBC.",
-          "date": "2026-05-13T16:49:24.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/b04dad2d-fd8c-41cc-ba11-e5a41551d681"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Huippukokous | Trump laskeutui Kiinaan, mukana Musk ja Nvidian pomo",
-          "content": "Kyseessä on ensimmäinen yhdysvaltalaispresidentin valtiovierailu Kiinaan lähes vuosikymmeneen.",
-          "date": "2026-05-13T14:28:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012004192.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Xi varoitti Yhdysvaltoja Taiwanista",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Kiina",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/kiina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Xi varoitti Yhdysvaltoja tiukasti tukemasta Taiwania",
-          "content": "",
-          "date": "2026-05-14T14:00:06.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "yhdysvallat",
-            "kiina",
-            "taiwan",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226025?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump kutsui Xin Valkoiseen taloon syyskuussa",
-          "content": "",
-          "date": "2026-05-14T11:00:11.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "kiina",
-            "yhdysvallat",
-            "diplomatia",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226003?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kiinan Xi varoitti Trumpia – sanoi maiden voivan \"joutua konfliktiin\", jos Taiwan-kysymystä käsitellään väärin",
-          "content": "Tapaamisen aiheina ovat muun muassa maiden kahdenväliset suhteet, tilanne Lähi-idässä sekä Trumpin tullipolitiikka.",
-          "date": "2026-05-14T04:30:22.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kiinan-xi-varoitti-trumpia-sanoi-maiden-voivan-jou/13493900?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Elon Musk ja Trump Kiinassa yritysvaltuuskunnan kanssa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Kiina"
-      ],
-      "imageUrl": "/images/elon musk/5.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1214,6 +1404,18 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20225979?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Huippukokous | Trump laskeutui Kiinaan, mukana Musk ja Nvidian pomo",
+          "content": "Kyseessä on ensimmäinen yhdysvaltalaispresidentin valtiovierailu Kiinaan lähes vuosikymmeneen.",
+          "date": "2026-05-13T14:28:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012004192.html"
         }
       ]
     },
@@ -1259,9 +1461,7 @@
     {
       "mainTitle": "Liike Nytin valtuutetut loikkaavat keskustaan",
       "mainCategories": [
-        "Politiikka",
-        "Savonlinna",
-        "Puolueet"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1288,92 +1488,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000012007535.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomen Liike Nyt -kaupungissa kuohuu: äänikuningas loikkaa toiseen puolueeseen – Harkimo pitää äänestäjien pettämisenä",
-          "content": "Panu Peitsaron mukana keskustaan siirtyvät myös muut puolueen kaupunginvaltuutetut.",
-          "date": "2026-05-14T09:00:35.000Z",
-          "categories": [
-            "politiikka",
-            "savonlinna",
-            "markku jokisipilä",
-            "puolueet",
-            "kotimaa",
-            "etelä-savo"
-          ],
-          "link": "https://yle.fi/a/74-20225921?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ammattikorkeakoulujen pääsykokeet uhattu lakolla",
-      "mainCategories": [
-        "Ammattikorkeakoulut",
-        "Kotimaa",
-        "Koulutus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ainakin kaksi ammattikorkeakoulua pitää pääsykokeet normaalisti mahdollisesta lakosta huolimatta",
-          "content": "OAJ antoi keskiviikkona lakkovaroituksen ammattikorkeakouluihin pääsykoepäiväksi.",
-          "date": "2026-05-14T08:29:11.000Z",
-          "categories": [
-            "koulutus",
-            "lakot",
-            "opetusalan ammattijärjestö oaj",
-            "ammattikorkeakoulut",
-            "pääsykokeet",
-            "työmarkkinapolitiikka",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225987?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "OAJ: Lakko uhkaa ammatti­korkeakoulujen pääsykokeita toukokuussa",
-          "content": "Mahdollinen työnseisaus jatkuisi vuorokauden ajan.",
-          "date": "2026-05-13T15:35:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012006514.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työnseisaukset | OAJ:lta lakko­varoitus kaikkiin ammatti­korkea­kouluihin",
-          "content": "Opetusalan ammattijärjestön työnseisaus koskee pääsykokeiden valvontaan liittyviä työtehtäviä 28. toukokuuta.",
-          "date": "2026-05-13T15:33:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012006289.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "OAJ antoi lakkovaroituksen kaikkiin ammattikorkeakouluihin",
-          "content": "",
-          "date": "2026-05-13T14:57:22.000Z",
-          "categories": [
-            "lakkovaroitus",
-            "ammattikorkeakoulut",
-            "työriidat",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6981737"
         }
       ]
     },
@@ -1440,43 +1554,6 @@
       ]
     },
     {
-      "mainTitle": "Koivun kukinta heikentynyt tänä vuonna",
-      "mainCategories": [
-        "Luonto",
-        "Siitepöly",
-        "Kukinta"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Koivun kukinta jäänyt keskimääräisestä",
-          "content": "Koivun kukinta on tänä vuonna jäänyt selvästi keskimääräistä heikommaksi.",
-          "date": "2026-05-14T06:19:32.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/koivun-kukinta-jaanyt-keskimaaraisesta/13493936?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Koivun kukinta jäänyt keskimääräisestä",
-          "content": "",
-          "date": "2026-05-14T06:05:09.000Z",
-          "categories": [
-            "luonto",
-            "siitepöly",
-            "kukinta",
-            "koivu",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225972?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Ebookers lopettaa toimintansa Suomessa syyskuussa",
       "mainCategories": [
         "Matkailu",
@@ -1516,7 +1593,7 @@
       ]
     },
     {
-      "mainTitle": "Putinin puheissa merkittävä muutos",
+      "mainTitle": "Putinin puheissa rauhan signaaleja?",
       "mainCategories": [
         "Politiikka",
         "Ulkomaat"
@@ -1551,103 +1628,9 @@
       ]
     },
     {
-      "mainTitle": "Kevin Warsh vahvistettu Fedin pääjohtajaksi",
+      "mainTitle": "Joona Räsänen rattijuopumuksesta kohua Sdp:ssä",
       "mainCategories": [
-        "Talous",
-        "Yhdysvallat",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Trumpin nimittämä Kevin Warsh vahvistettiin Fedin uudeksi pääjohtajaksi",
-          "content": "Senaatti äänesti selvemmin puoluelinjojen mukaan kuin koskaan aiemmin. Demokraattipuolueesta on esitetty huolia siitä, pysyykö Warsh itsenäisenä.",
-          "date": "2026-05-14T00:34:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012007248.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Senaatti vahvisti Trumpin ehdokkaan USA:n keskuspankin uudeksi pääjohtajaksi",
-          "content": "",
-          "date": "2026-05-13T19:45:26.000Z",
-          "categories": [
-            "talous",
-            "donald trump",
-            "yhdysvaltain keskuspankki",
-            "yhdysvallat",
-            "jerome h. powell",
-            "yhdysvaltain senaatti",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20225953?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Summa Defence varoittaa rahapulasta",
-      "mainCategories": [
-        "Talous",
-        "Taloussanomat",
-        "Yritykset"
-      ],
-      "imageUrl": "/images/talous/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Summa Defence pulassa – rahaa riittää vain kahdeksi kuukaudeksi",
-          "content": "Yhtiön käyttöpääoma riittää noin kahdeksi kuukaudeksi.",
-          "date": "2026-05-13T20:09:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012007084.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Summa Defence varoittaa: käyttöpääoma uhkaa loppua",
-          "content": "",
-          "date": "2026-05-13T18:43:03.000Z",
-          "categories": [
-            "yritykset",
-            "rahoitus",
-            "talous",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6981908"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Puolustusalan Summa Defence varoittaa käyttöpääoman riittämättömyydestä",
-          "content": "",
-          "date": "2026-05-13T18:29:16.000Z",
-          "categories": [
-            "talous",
-            "summa defence"
-          ],
-          "link": "https://yle.fi/a/74-20225950?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Joona Räsänen kärähti rattijuopumuksesta",
-      "mainCategories": [
-        "Politiikka",
-        "Päihteet",
-        "Kansanedustajat"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1710,40 +1693,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000012004415.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "SDP:n Lindtman kansanedustaja Joona Räsäsen rattikärystä: ”Tällainen ei voi toistua”",
-          "content": "SDP:n puheenjohtaja Antti Lindtman ja kansanedustaja Tytti Tuppurainen kommentoivat kansanedustaja Joona Räsäsen rattijuopumusta ennen eduskunnan täysistuntoa.",
-          "date": "2026-05-13T10:20:38.000Z",
-          "categories": [
-            "päihteet",
-            "kansanedustajat",
-            "liikennejuopumus",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20225830?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kansanedustaja Joona Räsänen kärysi ratista – ”Tein vakavan virhearvion”",
-          "content": "Räsänen kertoi asiasta ensin sosiaalisessa mediassa. Räsänen kertoo, että ei hae jatkoa SDP:n puoluehallituksen eikä SDP:n Uudenmaan piirin puheenjohtajana.",
-          "date": "2026-05-13T08:16:21.000Z",
-          "categories": [
-            "päihteet",
-            "liikennejuopumus",
-            "kansanedustajat",
-            "sakko",
-            "liikennerikkomukset",
-            "rangaistukset",
-            "joona räsänen",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20225791?origin=rss"
         }
       ]
     },
@@ -1839,43 +1788,36 @@
       ]
     },
     {
-      "mainTitle": "17-vuotiailta yöllinen autoilu kielletty",
+      "mainTitle": "Ammattikorkeakoulujen pääsykokeet uhattu lakolla",
       "mainCategories": [
         "Politiikka",
-        "Liikenne",
-        "Tieliikenne"
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "17-vuotiaat eivät voi kohta autoilla öisin",
-          "content": "Ikäpoikkeusluvalla ei saa autoilla kello 0–5. Lisäksi 17-vuotiaan auto tulee merkitä valvonnan helpottamiseksi.",
-          "date": "2026-05-13T13:43:09.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "OAJ: Lakko uhkaa ammatti­korkeakoulujen pääsykokeita toukokuussa",
+          "content": "Mahdollinen työnseisaus jatkuisi vuorokauden ajan.",
+          "date": "2026-05-13T15:35:00.000Z",
           "categories": [
-            "liikenne",
-            "tieliikenne",
-            "autot",
-            "ajokortit",
-            "nuoret",
-            "kotimaa",
-            "politiikka"
+            "taloussanomat"
           ],
-          "link": "https://yle.fi/a/74-20225906?origin=rss"
+          "link": "https://www.is.fi/taloussanomat/art-2000012006514.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ajokortti | 17-vuotiailta kielletään auton ajaminen yöllä",
-          "content": "Hallitus kiristää ajokortin ikä­poikkeus­lupaan liittyviä ehtoja. Taustalla on nuorten autoilijoiden suojelu, sanoo ministeri tiedotteessa.",
-          "date": "2026-05-13T13:14:00.000Z",
+          "title": "Työnseisaukset | OAJ:lta lakko­varoitus kaikkiin ammatti­korkea­kouluihin",
+          "content": "Opetusalan ammattijärjestön työnseisaus koskee pääsykokeiden valvontaan liittyviä työtehtäviä 28. toukokuuta.",
+          "date": "2026-05-13T15:33:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000012006051.html"
+          "link": "https://www.hs.fi/politiikka/art-2000012006289.html"
         }
       ]
     },
@@ -1910,92 +1852,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000012005061.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Eduskunta myönsi hallitukselle luottamuksen",
-      "mainCategories": [
-        "Politiikka",
-        "Välikysymykset",
-        "Eduskunta"
-      ],
-      "imageUrl": "/images/eduskunta/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Eduskunta luottaa yhä hallitukseen",
-          "content": "Opposition välikysymys huonosta taloudenpidosta ei kaatanut hallitusta.",
-          "date": "2026-05-13T11:16:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012005264.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hallitus sai eduskunnan luottamuksen äänin 99–86",
-          "content": "Hallituksen luottamuksesta äänestettiin, koska oppositiopuolueet tekivät aiemmin välikysymyksen hallituksen talouspolitiikan epäonnistumisesta.",
-          "date": "2026-05-13T11:07:57.000Z",
-          "categories": [
-            "politiikka",
-            "välikysymykset",
-            "suomen eduskunta",
-            "eduskunta",
-            "eduskunnan äänestys",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225617?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Metsä Wood vähentää 100 työpaikkaa",
-      "mainCategories": [
-        "Talous",
-        "Muutosneuvottelut",
-        "Yritykset"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Metsä Wood aloittaa muutosneuvottelut – 100 työpaikkaa vaarassa Suomessa ja Virossa",
-          "content": "Taustalla on heikentynyt kannattavuus ja rakentamisen romahdus Euroopassa.",
-          "date": "2026-05-13T07:37:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012004536.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Metsä Wood on vähentämässä jopa 100 työpaikkaa Suomesta ja Virosta – kovin isku osuu Punkaharjulle",
-          "content": "Yhtiön mukaan työpaikkoja karsitaan muun muassa siksi, että toiminnan kannattavuus on heikentynyt.",
-          "date": "2026-05-13T07:17:14.000Z",
-          "categories": [
-            "talous",
-            "muutosneuvottelut",
-            "yritykset",
-            "äänekoski",
-            "punkaharju",
-            "metsä group",
-            "lohja",
-            "savonlinna",
-            "kotimaa",
-            "keski-suomi",
-            "etelä-savo",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20225772?origin=rss"
         }
       ]
     }
