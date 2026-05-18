@@ -1,165 +1,357 @@
 {
-  "timestamp": "2026-05-18T11:47:14.293Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-05-18T15:22:06.493Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Lukiolaisten määrä vähenee Suomessa merkittävästi",
+      "mainTitle": "Kuuba harkitsee drooni-iskuja USA:ta vastaan",
       "mainCategories": [
-        "Kotimaa",
-        "Koulutus",
-        "Lukio"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Nyt tuli karu tieto Suomen lukioista – Kuntaliitto vaatii toimia",
-          "content": "Monissa seutukunnissa nuorten määrä vähenee kovaa vauhtia, mikä vaikuttaa lukioverkkoon.",
-          "date": "2026-05-18T11:45:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012014321.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Uusi selvitys: Lukiolaisten määrä romahtaa",
-          "content": "Lukioita tullaan lakkauttamaan, arvioi Kuntaliiton tuore selvitys.",
-          "date": "2026-05-18T05:30:45.000Z",
-          "categories": [
-            "koulutus",
-            "lukio",
-            "suomen kuntaliitto",
-            "mänttä-vilppula",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20225589?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Opetushallitus tutkii oppimateriaalikohua",
-      "mainCategories": [
-        "Kotimaa",
-        "Opetushallitus",
-        "Uskonnot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Islamin ja ortodoksisen uskonnon oppimateriaalit vedettiin myynnistä – tunnustuksellisuus tiedossa jo vuosia sitten",
-          "content": "",
-          "date": "2026-05-18T11:36:54.000Z",
-          "categories": [
-            "opetus",
-            "uskonto",
-            "opetushallitus",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6985059"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Opetus­hallituksen julkaisemat islamin ja orto­doksisen uskonnon oppi­materiaalit vedettiin myynnistä",
-          "content": "",
-          "date": "2026-05-18T08:47:03.000Z",
-          "categories": [
-            "uskonnot",
-            "opetushallitus",
-            "oppimateriaali",
-            "ortodoksisuus",
-            "islam",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226527?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Opetushallitus selvittää toimintaansa 10 vuoden ajalta Islam-kohun takia: ”Olemme pahoillamme”",
-          "content": "Opetushallitus tiedotti maanantaina selvittävänsä toimintaansa usean vuoden ajalta. – Pääjohtajan pyynnöstä selvitämme nyt sisäisesti toimintaamme katsomusaineiden oppimateriaalituotannossa reilun kymmenen vuoden ajalta, jotta saamme kokonaiskuvan tapahtuneesta oppimateriaalien ja koko kustannustoiminnan kehittämistä varten, sanoo johtaja Paula Merikko opetushallituksen maanantaina julkaisemassa tiedotteessa. Opetushallituksesta on jo aiemmin kerrottu Iltalehdelle, että sen laadunvarmistusprosessi islamin uskonnon opetuksen Salam-oppimateriaalin tuotannossa ja päivityksissä on pettänyt. Islamin oppimateriaalien ympärillä vellova kohu alkoi Iltalehden uutisoitua materiaalin sisältävän uskonnollisesti sitouttavaa ja tunnustuksellista sisältöä.",
-          "date": "2026-05-18T08:24:09.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/d7ea1f7a-7a5b-498d-93b7-3db5fae95a39"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Löytötex hakeutuu konkurssiin Suomessa",
-      "mainCategories": [
-        "Talous",
-        "Kangasala",
-        "Löytötex"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Perinteinen kauppaketju konkurssiin",
-          "content": "Vuonna 1979 perustetun perheyrityksen jättämä konkurssihakemus tuli vireille maanantaina. Halpakauppaketju Löytötex hakeutuu konkurssiin. Asia on tullut vireille Pirkanmaan käräjäoikeudessa maanantaina. Yritys on tehnyt konkurssihakemuksen itse.",
-          "date": "2026-05-18T11:36:01.000Z",
-          "categories": [
-            "talous"
-          ],
-          "link": "https://www.iltalehti.fi/talous/a/3b584f16-2a3f-4c2e-842c-201cd54beba3"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Halpa­kauppaketju Löytötex hakeutuu konkurssiin",
-          "content": "1970-luvulla perustettu halpa­kauppaketju on toiminut useilla paikkakunnilla Pirkanmaalla ja Keski-Suomessa.",
-          "date": "2026-05-18T11:07:56.000Z",
-          "categories": [
-            "talous",
-            "kangasala",
-            "löytötex",
-            "jämsä",
-            "tampere",
-            "konkurssi",
-            "konkurssihakemus",
-            "pirkanmaa",
-            "keski-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226571?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Malediivien sukellustragediassa löytyivät ruumiit",
-      "mainCategories": [
-        "Ulkomaat",
-        "Matkailu",
-        "Malediivit"
-      ],
-      "imageUrl": "/images/italia/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Malediivien sukellus­turma | Suomalais­sukeltajat onnistuivat löytämään italialaisten ruumiit luolasta",
-          "content": "Etsintäoperaatioon osallistui kolme maineikasta suomalaissukeltajaa.",
-          "date": "2026-05-18T11:33:00.000Z",
+          "title": "Kuuba | Axios: Kuuba pohtii drooni-iskuja Yhdys­­valtoja vastaan",
+          "content": "Yhdysvallat on julkistamassa rikos­syytteet Raúl Castroa vastaan keskiviikkona, kertoi Miami Herald.",
+          "date": "2026-05-18T15:02:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012014059.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Axios: Kuuba harkitsee hyökkäystä USA:ta vastaan",
+          "content": "Kuuban pelätään iskevän amerikkalaiskohteisiin.",
+          "date": "2026-05-17T14:25:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012013648.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mehiläinen laajenee merkittävällä yrityskaupalla",
+      "mainCategories": [
+        "Taloussanomat",
+        "Yrityskaupat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Mehiläinen teki jättikaupan ulkomailla – Toimitusjohtajalta tiukka arvio Suomesta",
+          "content": "Mehiläisen tuore yrityskauppa jatkaa Mehiläisen nopeaa kansainvälistä laajentumista. Toimitusjohtaja Janne-Olli Järvenpään mukaan tavoitteena on nousta koko Euroopan suurimmaksi yritykseksi alalla.",
+          "date": "2026-05-18T14:49:00.000Z",
+          "categories": [
+            "yrityskaupat"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/b376ca85-f5c8-4036-81fd-0bfbce41b99c"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mehiläinen tekee merkittävän yrityskaupan",
+          "content": "Mehiläinen kasvaa yrityskaupalla.",
+          "date": "2026-05-18T07:19:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000012014294.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hantaviruslaiva desinfioidaan Hollannissa",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Hantaviruslaiva saapui Hollantiin – laiva desinfioidaan, miehistö joutuu karanteeniin",
+          "content": "Risteilynjärjestäjän mukaan kenelläkään laivalla saapuneista ei ainakaan toistaiseksi ole ollut oireita.",
+          "date": "2026-05-18T14:44:26.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/hantaviruslaiva-saapui-hollantiin-laiva-desinfioid/13498883?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Hantavirus | Rotterdamiin saapuneen Hondius-risteily­aluksen desinfiointi kestää päiviä",
+          "content": "Vielä ei ole varmaa, lähteekö risteilyalus uudelle matkalle heti puhdistuksen jälkeen.",
+          "date": "2026-05-18T10:09:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012014031.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukraina iski Venäjälle massiivisesti drooneilla",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat",
+        "Droonit"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Ukraina iski lähes 600 droonin voimin Venäjälle – Kremlistä erikoinen lausunto",
+          "content": "Venäjä on vastannut Ukrainan viikonloppuisiin drooni-iskuihin niin ikään drooni- ja ohjusiskuilla. Ilmaiskujen kiihtyessä Kremlistä väläytellään neuvotteluyhteyden avaamista Euroopan kanssa.",
+          "date": "2026-05-18T14:30:00.000Z",
+          "categories": [
+            "ukrainan kriisi"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/c0937255-bdba-4503-951f-b589216f8efa"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Zelenskyi: Vastaiskut ovat oikeutettuja – Venäjä kertoo tuhonneensa satoja ukrainalaisdrooneja",
+          "content": "Latvian viranomaisten mukaan maan ilmatilassa kävi drooni, jonka takia rajaseudun asukkaille lähetettiin sunnuntaiaamuna vaaratiedote.",
+          "date": "2026-05-17T15:10:03.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/zelenskyi-vastaiskut-ovat-oikeutettuja-venaja-kert/13497563?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ukrainalta massiivisia iskuja Moskovan alueelle – useita kuollut",
+          "content": "Ukraina sanoo tuhonneensa myös Venäjän sotilaskalustoa Krimin niemimaalla.",
+          "date": "2026-05-17T14:38:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012013616.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Ukraina teki yöllä suurimman iskunsa Moskovaan yli vuoteen",
+          "content": "Venäjä kertoi torjuneensa yli 550 droonia lauantain ja sunnuntain välisenä yönä. Neljä ihmistä kuoli, ja tuhoja raportoitiin laajalti useilla alueilla.",
+          "date": "2026-05-17T10:04:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012013059.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Venäjä kertoo tuhonneensa yli 500 ukrainalaisdroonia, Latviassa vaaratiedote mahdollisesta uhasta ilmatilassa",
+          "content": "Lisääntyneiden ukrainalaisdrooni-iskujen seurauksena drooneja on harhautunut myös Suomeen ja Baltian maihin.",
+          "date": "2026-05-17T06:03:35.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/venaja-kertoo-tuhonneensa-yli-500-ukrainalaisdroon/13497216?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Latvian ilmatilassa kävi drooni, Venäjälle laaja drooni-isku",
+          "content": "",
+          "date": "2026-05-17T05:27:38.000Z",
+          "categories": [
+            "droonit",
+            "latvia",
+            "venäjä",
+            "ukrainan sota",
+            "ukraina",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/6984016"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Valio suunnittelee Oulun tehtaan sulkemista",
+      "mainCategories": [
+        "Taloussanomat",
+        "Talous",
+        "Elintarvikkeet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Valio harkitsee tuotannon lopettamista Oulussa, voi vähentää 140 työntekijää",
+          "content": "Jopa 140 ihmistä saattaa menettää työpaikkansa muutosneuvottelujen seurauksena.",
+          "date": "2026-05-18T12:56:00.000Z",
+          "categories": [
+            "elintarvikkeet"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/b361d66c-4182-4c66-bdfe-51147292fb24"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Valiolta tyly uutinen Ouluun",
+          "content": "Valio suunnittelee siirtävänsä toimintojaan Oulusta. Valio kertoo suunnittelevansa Oulun tehtaan lopettamista. Näin tapahtuessa tuotanto siirtyisi Riihimäelle, Jyväskylään ja Joensuuhun.",
+          "date": "2026-05-18T12:28:25.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.iltalehti.fi/talous/a/d36c269b-fddc-42ed-baed-585071a5d884"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Valio suunnittelee Oulun tehtaan tuotannon sulkemista ja aloittaa muutosneuvottelut – Työntekijät järkyttyivät",
+          "content": "Valio suunnittelee Oulun tehtaan tuotannnon sulkemista. Yhtiö kertoi suunnitelmistaan maanantaina iltapäivällä.",
+          "date": "2026-05-18T12:27:16.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/valio-suunnittelee-oulun-tehtaan-tuotannon-sulkemi/13499267?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Valio suunnittelee Oulun tehtaan sulkemista – 140 työpaikkaa uhattuna",
+          "content": "Mikäli suunnitelma toteutuu, tehtaan tuotanto lakkaa vuonna 2028.",
+          "date": "2026-05-18T12:24:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000012015706.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Malediivien sukellusturmassa löytyi neljä ruumista",
+      "mainCategories": [
+        "Ulkomaat",
+        "Suomi",
+        "Maailma"
+      ],
+      "imageUrl": "/images/italia/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Malediivien sukellus­turma | Suomalais­sukeltajat löysivät italialaisten ruumiit hyvin vaikeassa operaatiossa",
+          "content": "Operaatioon osallistuneet suomalais­sukeltajat voivat hyvin, kerrotaan HS:lle sukellusturvallisuus­ryhmä Divers Alert Networkista. Ryhmän edustaja arvioi, että italialaissukeltajat olivat mahdollisesti eksyneet luolassa.",
+          "date": "2026-05-18T12:17:00.000Z",
           "categories": [
             "suomi"
           ],
@@ -190,23 +382,11 @@
           "link": "https://www.is.fi/ulkomaat/art-2000012015272.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Suomalaiset luolasukeltajat löysivät Malediiveilla hukkuneiden italialaisten ruumiit",
-          "content": "Ruumita ei nosteta vielä tänään ylös.",
-          "date": "2026-05-18T10:46:44.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226565?origin=rss"
-        },
-        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Malediivien sukellus­tragedia: Uhrit löytyivät",
-          "content": "Pelastusoperaatiota suorittava suomalaiskolmikko aloitti sukelluksensa maanantaina. Malediiveilla kuolleiden italialaissukeltajien ruumiit ovat löytyneet, muun muassa italialaislehti Repubblica kertoo. Italialaisen Corriere Della Sera -lehden mukaan Malediivien paikallisviranomaiset ovat vahvistaneet, että kaikki ruumiit löytyivät luolaston kolmannesta kammiosta. Lehtitietojen mukaan luolasto koostuu kolmesta kammiosta, joita kapeat tunnelit yhdistävät.",
+          "title": "Suomalaiset ”eliitti­sukeltajat” löysivät Malediivien sukellusturman uhrit – Näin ruumiit olivat luolassa",
+          "content": "Pelastusoperaatiota suorittava suomalaiskolmikko aloitti sukelluksensa maanantaina. Malediiveilla kuolleiden italialaissukeltajien ruumiit ovat löytyneet, etsintäoperaatioon osallistunut sukellusturvallisuusjärjestö Divers Alert Network (Dan) kertoo tiedotteessaan. Järjestön ryhmään kuuluu kolme suomalaissukeltajaa, jotka aloittivat sukelluksensa maanantaina. Brittilehti Daily Mailin uutisessa suomalaisia kutsutaan ”eliittisukeltajiksi” ja ”luolasukellusspesialisteiksi”.",
           "date": "2026-05-18T09:13:33.000Z",
           "categories": [
             "ulkomaat"
@@ -226,21 +406,28 @@
           "link": "https://www.hs.fi/maailma/art-2000012013433.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kokeneet luolasukeltajat Suomesta etsimään Malediiveilla hukkuneita italialaisia",
-          "content": "Malediivien sukellusonnettomuuden italialaisia uhreja nostamaan on saapunut kolme suomalaista luolasukeltamisen asiantuntijaa.",
-          "date": "2026-05-17T13:44:44.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Malediivien sukellusturma | Suomalaisten tehtävä on vaikea ja vaarallinen – ”Peliaikaa per sukellus ei hirveästi ole”",
+          "content": "Suunnitelman mukaan suomalaiset sukeltajat lähtevät etsimään ruumiita maanantaina, kertoo sukelluslääkäri Anne Räisänen-Sokolowski.",
+          "date": "2026-05-17T16:41:00.000Z",
           "categories": [
-            "matkailu",
-            "malediivit",
-            "tekninen sukeltaminen",
-            "italia",
-            "pelastustoiminta",
-            "ulkomaat"
+            "suomi"
           ],
-          "link": "https://yle.fi/a/74-20226421?origin=rss"
+          "link": "https://www.hs.fi/suomi/art-2000012013731.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Laitesukellus | Malediivien sukellus­turmassa jo kuusi uhria, myös pelastus­sukeltaja kuoli",
+          "content": "Viisi italialaista sukelsi tutkimaan noin 50 metrin syvyydessä sijaitsevia luolia torstaina. Lauantaihin mennessä vain yksi ruumiista on löytynyt.",
+          "date": "2026-05-17T16:03:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012010085.html"
         },
         {
           "publisherId": "is",
@@ -257,135 +444,36 @@
       ]
     },
     {
-      "mainTitle": "Oikeus hylkäsi Fazerin veropetossyytteen",
+      "mainTitle": "Tiikeri karkasi ja ammuttiin Saksassa",
       "mainCategories": [
-        "Talous",
-        "Käräjäoikeudet",
-        "Taloussanomat"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Oikeus hylkäsi Fazer-miljonäärin syytteen törkeästä veropetoksesta",
-          "content": "",
-          "date": "2026-05-18T11:26:31.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Eksoottiset eläimet | Tiikeri karkasi siirtola­puutarhaan Saksassa",
+          "content": "Poliisi ampui tiikerin mutta ei saanut kiinni kengurua.",
+          "date": "2026-05-18T12:02:00.000Z",
           "categories": [
-            "talous",
-            "helsingin käräjäoikeus",
-            "käräjäoikeudet",
-            "oikeus hylkää syytteet"
+            "maailma"
           ],
-          "link": "https://yle.fi/a/74-20226581?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000012015265.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Fazer-miljonäärin, 51, rikosjutussa yllättävä käänne",
-          "content": "Monimiljonääri Jan Fazer vältteli mediaa oikeudessa ja kiisti syyllistyneensä rikokseen. Nyt oikeus antoi ratkaisunsa.",
-          "date": "2026-05-18T11:08:00.000Z",
+          "title": "Tiikeri karkasi – yksi loukkaantunut",
+          "content": "Tilanne tapahtui sunnuntaina Leipzigissa Saksassa.",
+          "date": "2026-05-17T12:22:00.000Z",
           "categories": [
-            "taloussanomat"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012014167.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tampereen areenahotelli myyty 40 miljoonalla eurolla",
-      "mainCategories": [
-        "Talous",
-        "Hotellit",
-        "Tampere"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Tampereen areenahotelli myytiin 40 miljoonalla eurolla",
-          "content": "Lapland Hotels toimii myydyssä hotellissa pitkäaikaisena vuokralaisena.",
-          "date": "2026-05-18T11:08:00.000Z",
-          "categories": [
-            "matkailu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/9014c596-1c72-4540-904b-51262232fe46"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Neljä suomalais­yhtiötä myi Tampereen areenahotellin 40 miljoonalla eurolla",
-          "content": "Ruotsalaiseen pörssiyhtiöön kuuluva ostaja Balder Finland omistaa, hallinnoi, rakennuttaa ja kehittää kiinteistöjä Suomessa.",
-          "date": "2026-05-18T10:22:54.000Z",
-          "categories": [
-            "talous",
-            "hotellit",
-            "tampere",
-            "kiinteistösijoittaminen",
-            "pirkanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226556?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ensimmäinen hellepäivä saapuu Suomeen",
-      "mainCategories": [
-        "Kotimaa",
-        "Helle",
-        "Sää"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vuoden ensimmäinen hellepäivä on todennäköisesti huomenna",
-          "content": "Tiistaina Itä-Suomessa hätyytellään hellerajaa. Länsi-Suomessa lämpötila jää kymmenkunta astetta alhaisemmaksi.",
-          "date": "2026-05-18T11:05:20.000Z",
-          "categories": [
-            "sää",
-            "aurinkoinen sää",
-            "helle",
-            "ukkonen",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226539?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lämpöaalto vyöryy Suomeen: Jopa +27 astetta",
-          "content": "Helleraja rikkoutunee ensimmäisen kerran alkavan kesän aikana tiistaina.",
-          "date": "2026-05-18T08:01:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012014115.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Vuoden ensimmäiset helteet ja ukkoset saapuvat Suomeen alkuviikolla",
-          "content": "",
-          "date": "2026-05-17T10:03:57.000Z",
-          "categories": [
-            "sääennusteet",
-            "kevät",
-            "helle",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6984111"
+          "link": "https://www.is.fi/ulkomaat/art-2000012013515.html"
         }
       ]
     },
@@ -447,703 +535,9 @@
       ]
     },
     {
-      "mainTitle": "Vantaan henkirikos ja traaginen onnettomuus",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikokset",
-        "Vantaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Epäily: 18-vuotias tappoi vuokran­antajansa – Näin hän käyttäytyi oikeudessa",
-          "content": "Epäilty henkirikos tapahtui helatorstaina Vantaan Kaivokselassa. Taposta epäilty vantaalainen 18-vuotias nuorukainen oli piilossa mustan hupun alla, kun hänen vangitsemistaan käsiteltiin Itä-Uudenmaan käräjäoikeudessa maanantaina. Mukanaan hänellä oli Juristi-lehti. Itä-Uudenmaan käräjäoikeus vangitsi miehen todennäköisin syin epäiltynä taposta.",
-          "date": "2026-05-18T10:55:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/a5b8b54a-ef2b-4c26-8e1d-8e3e5794f1f9"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "19-vuotias mies vangittiin epäiltynä 75-vuotiaan vuokra­n­­antajansa taposta Vantaan Kaivokselassa",
-          "content": "Poliisin mukaan epäilty asui uhrin omistamassa kerrostalo­asunnossa vuokralla.",
-          "date": "2026-05-18T10:53:13.000Z",
-          "categories": [
-            "rikokset",
-            "vantaa",
-            "henkirikokset",
-            "poliisitutkinta",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226540?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "19-vuotias varusmies kuoli karmeassa turmassa – vanhemmat saivat poliisilta lohduttoman viestin kello 5 aamulla",
-          "content": "Poliisi löysi turma-auton kuljettajan myöhemmin kotoaan Vantaalta. ”Olen ollut paniikissa”, parikymppinen mies väitti.",
-          "date": "2026-05-17T07:30:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012004103.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ikea vähentää 850 työpaikkaa globaalisti",
-      "mainCategories": [
-        "Talous",
-        "Ikea",
-        "Huonekaluteollisuus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ikea vähentää noin 850 työpaikkaa kansainvälisesti",
-          "content": "",
-          "date": "2026-05-18T10:43:20.000Z",
-          "categories": [
-            "talous",
-            "ikea",
-            "huonekaluteollisuus",
-            "lomautukset ja irtisanomiset",
-            "ruotsi"
-          ],
-          "link": "https://yle.fi/a/74-20226564?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ikea irtisanoo satoja työntekijöitä – suunnittelee hintojen laskua",
-          "content": "Ikea aikoo vähentää sadoittain työntekijöitä. Syynä on myynnin lasku ja nousseet kustannukset.",
-          "date": "2026-05-18T10:15:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012014299.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pyöräilijä kuoli liikenneonnettomuudessa Pöytyällä",
-      "mainCategories": [
-        "Kotimaa",
-        "Pöytyä",
-        "Liikenneonnettomuudet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Pyöräilijä kuoli Pöytyällä",
-          "content": "75-vuotias henkilö kuoli autoilijan ja pyöräilijän välisessä liikenneonnettomuudessa, tiedottaa Lounais-Suomen poliisi. 75-vuotias pyöräilijä kuoli sunnuntaina liikenneonnettomuudessa Pöytyällä. Kyseessä oli auton ja pyörän välinen liikenneonnettomuus. Pyöräilijä kuoli pian törmäyksen jälkeen. Hälytys Auvaistentien liikenneonnettomuudesta tuli viranomaisille kello 14.30 aikaan, tiedottaa Lounais-Suomen poliisi.",
-          "date": "2026-05-18T10:27:40.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/478ea3c8-826e-42ed-8463-dcac755cadca"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "75-vuotias polku­pyöräilijä kuoli Pöytyällä",
-          "content": "Polkupyöräilijä törmäsi autoon.",
-          "date": "2026-05-18T10:27:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012015165.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Iäkäs polkupyöräilijä kuoli liikenneonnettomuudessa Pöytyällä",
-          "content": "",
-          "date": "2026-05-18T10:22:31.000Z",
-          "categories": [
-            "liikenneonnettomuudet",
-            "lounais-suomen poliisilaitos",
-            "pöytyä",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6984908"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Iäkäs pyöräilijä kuoli kolarissa auton kanssa Pöytyällä",
-          "content": "Poliisin mukaan 75-vuotias pyöräilijä oli tilanteessa väistämis­velvollinen.",
-          "date": "2026-05-18T10:19:04.000Z",
-          "categories": [
-            "poliisi",
-            "pöytyä",
-            "liikenneonnettomuudet",
-            "onnettomuudet",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226557?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hantaviruksen vuoksi Hondius-alus desinfioidaan",
-      "mainCategories": [
-        "Sairaudet",
-        "Hantavirukset",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Hantavirus | Rotterdamiin saapuneen Hondius-risteily­aluksen desinfiointi kestää päiviä",
-          "content": "Vielä ei ole varmaa, lähteekö risteilyalus uudelle matkalle heti puhdistuksen jälkeen.",
-          "date": "2026-05-18T10:09:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012014031.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hantavirukseen liitetty MV Hondius saapui Rotterdamiin desinfioi­tavaksi",
-          "content": "",
-          "date": "2026-05-18T08:11:07.000Z",
-          "categories": [
-            "sairaudet",
-            "hantavirukset",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226467?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Karhuhavainto sulki päiväkotilapset sisälle",
-      "mainCategories": [
-        "Kotimaa",
-        "Eläimet",
-        "Karhut"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Muuramessa päiväkodin lapset suljettiin karhun takia sisätiloihin",
-          "content": "Muuramessa päiväkotilapset sulkeutuivat sisälle lähellä tehdyn karhuhavainnon takia.",
-          "date": "2026-05-18T09:03:31.000Z",
-          "categories": [
-            "eläimet",
-            "karhut",
-            "muurame",
-            "päiväkodit",
-            "turvallisuus",
-            "keski-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226529?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Muuramessa liikkuu karhu – päiväkotilapset suljettu sisätiloihin",
-          "content": "Poliisi ja riistanhoitoyhdistys etsivät parhaillaan karhua.",
-          "date": "2026-05-18T08:15:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012014687.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Pelottava suurpeto Keski-Suomessa – Päivä­kotilapset suljettu sisätiloihin",
-          "content": "Karhuhavainto tehtiin puoli kymmenen aikoihin maanantaiaamuna. Muuramessa päiväkodin lapset on suljettu maanantaina sisätiloihin lähistöllä liikkuvan karhun vuoksi. Muuramen kunnan verkkosivuilla kerrotaan, että tuore havainto karhusta saatiin kunnan keskustan lähistöllä maanantaiaamuna puoli kymmenen aikoihin.",
-          "date": "2026-05-18T07:59:11.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/55a5d02e-a56d-4949-bca9-1b12e420dce0"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kuuba harkitsee drooni-iskuja Yhdysvaltoihin",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Kuuba"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kuuba | Axios: Kuuba pohtii drooni-iskuja Yhdys­­valtoja vastaan",
-          "content": "Yhdysvallat on julkistamassa rikos­syytteet Raúl Castroa vastaan keskiviikkona, kertoi Miami Herald.",
-          "date": "2026-05-18T08:03:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012014059.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Axios: Kuuba harkitsee hyökkäystä USA:ta vastaan",
-          "content": "Kuuban pelätään iskevän amerikkalaiskohteisiin.",
-          "date": "2026-05-17T14:25:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012013648.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Axios: Kuubalta drooniuhkaus Yhdysvalloille",
-          "content": "Yhdysvallat on öljysaarrollaan aiheuttanut maahan energiakriisin sekä elintarvike- ja lääkepulan.",
-          "date": "2026-05-17T12:35:36.000Z",
-          "categories": [
-            "yhdysvallat",
-            "kuuba",
-            "venezuela",
-            "guantanamo bayn laivastotukikohta",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226420?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nainen surmattu Raumalla, kaksi epäiltyä",
-      "mainCategories": [
-        "Kotimaa",
-        "Rauma",
-        "Henkirikokset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Nainen löytyi kuolleena kerrostaloasunnosta Raumalla, poliisi epäilee henkirikosta",
-          "content": "",
-          "date": "2026-05-18T07:58:41.000Z",
-          "categories": [
-            "henkirikokset",
-            "lounais-suomen poliisilaitos",
-            "rauma",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6984745"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Nainen surmattu Raumalla – kahta epäillään taposta",
-          "content": "Poliisi löysi naisen kuolleena asunnosta.",
-          "date": "2026-05-18T07:09:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012014422.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nainen menehtyi yksityisasunnossa Raumalla, poliisi epäilee henkirikosta",
-          "content": "Poliisi pyytää yleisöhavaintoja Nortamonkatu 26:n lähistöltä. Nainen löytyi kuolleena lauantaina iltapäivällä kerrostaloasunnosta.",
-          "date": "2026-05-18T07:07:26.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "rauma",
-            "poliisi",
-            "poliisitutkinta",
-            "lounais-suomen poliisilaitos",
-            "henkirikokset",
-            "satakunta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226485?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Täällä Rauman epäilty henkirikos tapahtui, naapuri kuuli metelin: ”En uskaltanut avata ovea”",
-          "content": "Rauman Nortamonkadulla sijaitsevasta asunnosta löytyi lauantaina noin kello 14.30 naisen ruumis. Lounais-Suomen poliisi epäilee, että nainen olisi joutunut henkirikoksen uhriksi. Poliisi sai ilmoituksen asiasta sivulliselta. Tapahtumapaikalta otettiin kiinni kaksi miestä taposta epäiltynä.",
-          "date": "2026-05-18T07:01:59.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/d5e812a9-b819-4d48-b2d6-f8cb535c18ca"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iäkäs mies hukkui Vähä-Ohtiojärvessä",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Hukkuminen"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iäkäs mies hukkui Kankaanpäässä",
-          "content": "Rantasaunalta uimaan lähtenyt mies vajosi pinnan alle Vähä-Ohtiojärvellä sunnuntaina.",
-          "date": "2026-05-18T07:57:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012014598.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Uimari vajosi pinnan alle ja kuoli Kankaanpäässä",
-          "content": "Noin 80-vuotias mies löydettiin hukkuneena Kankaanpään Vähä-Ohtiojärveltä sunnuntaina.",
-          "date": "2026-05-18T07:47:12.000Z",
-          "categories": [
-            "onnettomuudet",
-            "hukkuminen",
-            "lounais-suomen poliisilaitos",
-            "satakunta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226506?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trump uhkasi Irania, öljyn hinta nousi",
-      "mainCategories": [
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Trump varoitti kellon tikittävän Iranille – Öljyn hinta pomppasi jälleen yli 110 dollarin",
-          "content": "Yhdysvaltain presidentti Donald Trump uhkasi sosiaalisessa mediassa, ettei Iranista jäisi mitään jäljelle, jos he eivät ala toimia maiden välisten rauhanneuvottelujen suhteen.",
-          "date": "2026-05-18T07:27:14.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/trump-varoitti-kellon-tikittavan-iranille-oljyn-hi/13498153?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ex-liittolainen varoitti Trumpia ”poliittisesta vallankumouksesta”, jos tämä lähettää joukkoja Iraniin",
-          "content": "IS seuraa tässä artikkelissa tilannetta Lähi-idässä.",
-          "date": "2026-05-18T07:11:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000011984567.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mehiläinen laajenee Aleriksen oston myötä",
-      "mainCategories": [
-        "Talous",
-        "Tanska",
-        "Norja"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Mehiläinen tekee merkittävän yrityskaupan",
-          "content": "Mehiläinen kasvaa yrityskaupalla.",
-          "date": "2026-05-18T07:19:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012014294.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mehiläinen ostaa terveys­palvelu­yhtiö Aleriksen ja laajenee samalla Norjaan ja Tanskaan",
-          "content": "",
-          "date": "2026-05-18T06:18:05.000Z",
-          "categories": [
-            "talous",
-            "sairaalat ja terveyskeskukset",
-            "mehiläinen oy",
-            "tanska",
-            "norja",
-            "yrityskaupat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20226473?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin erityislähettiläs vierailee Grönlannissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Grönlanti"
-      ],
-      "imageUrl": "/images/trump/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump ei ole unohtanut Grönlantia – tämä on tilanne nyt",
-          "content": "Yhdysvaltojen Grönlanti-erityislähettiläs Jeff Landry saapui sunnuntaina Nuukiin.",
-          "date": "2026-05-18T04:20:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012004621.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Presidentti Trumpin erityislähettiläs saapui vierailulle Grönlantiin",
-          "content": "Matkan virallisena syynä on osallistuminen talousfoorumiin. Nuukiin lentää tänään myös Yhdysvaltain Tanskan-suurlähettiläs Kenneth Howery.",
-          "date": "2026-05-17T22:10:14.000Z",
-          "categories": [
-            "yhdysvallat",
-            "kansainvälinen politiikka",
-            "grönlanti",
-            "tanska",
-            "donald trump",
-            "arktinen alue",
-            "jeff landry",
-            "nuuk",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226447?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Turku päättää raitiotien tulevaisuudesta tänään",
-      "mainCategories": [
-        "Paikallispolitiikka",
-        "Paikalliset",
-        "Uutiset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Turun historiallinen ratikkapäätös tehdään tänään: näin eri vaihtoehdot etenisivät",
-          "content": "",
-          "date": "2026-05-18T02:00:00.000Z",
-          "categories": [
-            "turun joukkoliikenneratkaisu",
-            "turun ratikka",
-            "joukkoliikenne",
-            "turku",
-            "turku päättää",
-            "politiikka",
-            "paikallispolitiikka",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6978874"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Turku päättää, palaavatko raitiovaunut kaupunkiin yli 50 vuoden jälkeen – tästä historiallisessa päätöksessä on kyse",
-          "content": "Turun kaupunginvaltuusto päättää maanantaina, tekevätkö raitiovaunut paluun kaupungin kaduille. Kokosimme tähän juttuun pääkohdat Turun ratikasta.",
-          "date": "2026-05-17T17:25:31.000Z",
-          "categories": [
-            "liikenne",
-            "turun raitiotie",
-            "turku",
-            "turun raitiotiet",
-            "raitioliikenne",
-            "raitiotiet",
-            "liikenne ja kuljetus",
-            "varsinais-suomi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20224362?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Turun vasemmistoliitto ja perussuomalaiset linjasivat kevätkokouksissaan raitiotiestä",
-          "content": "",
-          "date": "2026-05-17T14:37:11.000Z",
-          "categories": [
-            "paikallispolitiikka",
-            "raitiotieliikenne",
-            "turun ratikka",
-            "turku päättää",
-            "perussuomalaiset",
-            "vasemmistoliitto",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6984208"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "TS seuraa ratikkavaltuustoa: tuleeko Turkuun raitiotie vai ei?",
-          "content": "",
-          "date": "2026-05-17T03:00:00.000Z",
-          "categories": [
-            "ts suora",
-            "ts hetki hetkeltä",
-            "turku päättää",
-            "turun ratikka",
-            "kaupunginvaltuusto",
-            "paikallispolitiikka",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6980266"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainalaisdrooni aiheutti vaaratiedotteen Latviassa",
-      "mainCategories": [
-        "Latvia",
-        "Ukraina",
-        "Maailma"
-      ],
-      "imageUrl": "/images/ukraina/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Drooni putosi Liettuaan – epäillään ukrainalaiseksi",
-          "content": "",
-          "date": "2026-05-17T19:44:10.000Z",
-          "categories": [
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6984337"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Zelenskyi: Vastaiskut ovat oikeutettuja – Venäjä kertoo tuhonneensa satoja ukrainalaisdrooneja",
-          "content": "Latvian viranomaisten mukaan maan ilmatilassa kävi drooni, jonka takia rajaseudun asukkaille lähetettiin sunnuntaiaamuna vaaratiedote.",
-          "date": "2026-05-17T15:10:03.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/zelenskyi-vastaiskut-ovat-oikeutettuja-venaja-kert/13497563?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Venäjä kertoo tuhonneensa yli 500 ukrainalaisdroonia, Latviassa vaaratiedote mahdollisesta uhasta ilmatilassa",
-          "content": "Lisääntyneiden ukrainalaisdrooni-iskujen seurauksena drooneja on harhautunut myös Suomeen ja Baltian maihin.",
-          "date": "2026-05-17T06:03:35.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/venaja-kertoo-tuhonneensa-yli-500-ukrainalaisdroon/13497216?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Latvian ilmatilassa kävi drooni, Venäjälle laaja drooni-isku",
-          "content": "",
-          "date": "2026-05-17T05:27:38.000Z",
-          "categories": [
-            "droonit",
-            "latvia",
-            "venäjä",
-            "ukrainan sota",
-            "ukraina",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6984016"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Latviassa vaaratiedote uhasta ilmatilassa, Latvian ilmatilassa lensi drooni",
-          "content": "",
-          "date": "2026-05-17T05:02:02.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "latvia",
-            "ukraina",
-            "moskova",
-            "drooni-iskut",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226372?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Puolustusvaliokunta käsittelee drooniuhkaa tiistaina",
       "mainCategories": [
-        "Politiikka",
-        "Puolustusvaliokunta",
-        "Droonit"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1156,22 +550,6 @@
           "date": "2026-05-17T18:32:25.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/puolustusvaliokunta-kasittelee-drooniasiaa-tiistai/13497904?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Puolustus­valiokunta käsittelee drooniasiaa tiistaina",
-          "content": "Autton mukaan kokouksessa on lisäksi määrä keskustella myös vaara­tiedottamisesta.",
-          "date": "2026-05-17T18:23:45.000Z",
-          "categories": [
-            "politiikka",
-            "puolustusvaliokunta",
-            "droonit",
-            "turvallisuus",
-            "eduskunta"
-          ],
-          "link": "https://yle.fi/a/74-20226444?origin=rss"
         },
         {
           "publisherId": "is",
@@ -1188,175 +566,10 @@
       ]
     },
     {
-      "mainTitle": "Suomalaiset sukeltajat etsivät Malediivien uhreja",
-      "mainCategories": [
-        "Suomi",
-        "Ulkomaat",
-        "Onnettomuudet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Järjestö: Nämä suomalaissukeltajat osallistuvat Malediivien sukellusturman uhrien etsintöihin",
-          "content": "Suomalaissukeltajien ensimmäinen etsintäsukellus on suunniteltu maanantaille.",
-          "date": "2026-05-17T17:32:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012013774.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Malediivien sukellusturma | Suomalaisten tehtävä on vaikea ja vaarallinen – ”Peliaikaa per sukellus ei hirveästi ole”",
-          "content": "Suunnitelman mukaan suomalaiset sukeltajat lähtevät etsimään ruumiita maanantaina, kertoo sukelluslääkäri Anne Räisänen-Sokolowski.",
-          "date": "2026-05-17T16:41:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012013731.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Kolme suomalaista sukeltajaa etsii Malediivien turman uhreja – asiantuntija: Ei tunnettu luolasukelluskohde",
-          "content": "",
-          "date": "2026-05-17T16:31:01.000Z",
-          "categories": [
-            "onnettomuudet",
-            "pelastustehtävät",
-            "matkailu",
-            "maailma",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/6984190"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Moskovassa sammutettiin suuri tulipalo",
-      "mainCategories": [
-        "Venäjä",
-        "Tulipalot",
-        "Moskova"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjä | Moskovassa savuttanut tulipalo on saatu sammutettua",
-          "content": "Tulipalo nosti suuren savupatsaan taivaalle. Liikenne suurella valtaväylällä katkaistiin ja ylikulkusillan rakenteet vääntyivät.",
-          "date": "2026-05-17T17:31:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012013717.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Moskovassa sammutettiin suurta tulipaloa",
-          "content": "",
-          "date": "2026-05-17T15:26:52.000Z",
-          "categories": [
-            "venäjä",
-            "tulipalot",
-            "moskova",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226434?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Malediivien sukellusturmassa kuusi uhria",
+      "mainTitle": "Ebolaepidemia julistettiin kansainväliseksi uhaksi",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Laitesukellus | Malediivien sukellus­turmassa jo kuusi uhria, myös pelastus­sukeltaja kuoli",
-          "content": "Viisi italialaista sukelsi tutkimaan noin 50 metrin syvyydessä sijaitsevia luolia torstaina. Lauantaihin mennessä vain yksi ruumiista on löytynyt.",
-          "date": "2026-05-17T16:03:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012010085.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Viisi kuoli sukellus­onnettomuudessa Malediiveilla – nyt tuli uusi suru-uutinen",
-          "content": "Saarivaltion pahimman sukellusturman uhrien etsintä osoittautui riskialttiiksi.",
-          "date": "2026-05-16T14:11:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012012015.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kiinan uhka Taiwalle huolestuttaa Trumpin tiimi",
-      "mainCategories": [
-        "Ulkomaat",
-        "Kiina",
-        "Taiwan"
-      ],
-      "imageUrl": "/images/kiina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Xi uhkaili Trumpia – nyt puhuu Taiwanin presidentti",
-          "content": "Axiosin lähteiden mukaan Trumpin neuvonantajat pelkäävät, että Kiina hyökkää Taiwaniin seuraavan viiden vuoden kuluessa.",
-          "date": "2026-05-17T15:06:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012013606.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Axios: Trumpin neuvonantajat pelkäävät Kiinan hyökkäävän Taiwaniin lähivuosina",
-          "content": "Pelko kasvatti kierroksiaan Kiinan huippukokouksen jälkeen.",
-          "date": "2026-05-17T11:49:48.000Z",
-          "categories": [
-            "kiina",
-            "taiwan",
-            "donald trump",
-            "yhdysvallat",
-            "axios",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226410?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ebolaepidemia Kongossa julistettiin terveysuhkaksi",
-      "mainCategories": [
-        "Ulkomaat",
-        "Sairaudet",
-        "Ebola"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1393,21 +606,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012012652.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "WHO julisti Kongon ebolaepidemian kansainväliseksi terveysuhkaksi",
-          "content": "”Joka päivä ihmisiä kuolee ja tämä on jatkunut noin viikon ajan”, kertoi paikallinen asukas lauantaina uutistoimisto AP:lle Kongon Buniassa.",
-          "date": "2026-05-16T23:11:35.000Z",
-          "categories": [
-            "sairaudet",
-            "ebola-virus",
-            "ebola",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226359?origin=rss"
         }
       ]
     },
@@ -1442,104 +640,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000012013375.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tiikeri karkasi Leipzigissa, yksi loukkaantui",
-      "mainCategories": [
-        "Ulkomaat",
-        "Eläimet",
-        "Saksa"
-      ],
-      "imageUrl": "/images/saksa/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Saksassa karkasi tiikeri – yksi loukkaantunut",
-          "content": "",
-          "date": "2026-05-17T12:52:02.000Z",
-          "categories": [
-            "eläimet",
-            "saksa",
-            "kissaeläimet",
-            "tiikeri",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226422?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tiikeri karkasi – yksi loukkaantunut",
-          "content": "Tilanne tapahtui sunnuntaina Leipzigissa Saksassa.",
-          "date": "2026-05-17T12:22:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012013515.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukraina iski Moskovaan laajasti drooneilla",
-      "mainCategories": [
-        "Ukraina",
-        "Venäjä",
-        "Droonit"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sota-asiantuntija: Viime yön hyökkäys Moskovan alueelle oli Ukrainalle onnistuminen",
-          "content": "Hyökkäys on Moskovan suunnalla yksi Ukrainan laajimmista tähän mennessä, sanoo sotaa seuraavan Black Bird Groupin asiantuntija Ylelle.",
-          "date": "2026-05-17T12:16:08.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "venäjä",
-            "droonit",
-            "venäjän hyökkäys ukrainaan 2022",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226373?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Ukraina teki yöllä suurimman iskunsa Moskovaan yli vuoteen",
-          "content": "Venäjä kertoi torjuneensa yli 550 droonia lauantain ja sunnuntain välisenä yönä. Neljä ihmistä kuoli, ja tuhoja raportoitiin laajalti useilla alueilla.",
-          "date": "2026-05-17T10:04:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012013059.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ukrainan drooneja satoi Moskovaan – Zelenskyi kertoo iskuista, jättiläiskonekin tuhottu",
-          "content": "Zelenskyin julkaisemat tiedot ilmentävät, ettei Venäjän ilmatorjunta kykene enää estämään kaikkia Ukrainan iskuja.",
-          "date": "2026-05-17T04:52:20.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "moskova",
-            "ulkomaat",
-            "droonit",
-            "ukraina",
-            "venäjä",
-            "moskovan alue",
-            "ilmatorjunta"
-          ],
-          "link": "https://yle.fi/a/74-20226370?origin=rss"
         }
       ]
     },
@@ -1579,11 +679,10 @@
       ]
     },
     {
-      "mainTitle": "Hantavirustartunta todettu Kanadassa risteilyllä",
+      "mainTitle": "Kanadassa todettu hantavirustartunta risteilyaluksella",
       "mainCategories": [
-        "Ulkomaat",
-        "Sairaudet",
-        "Kanada"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "/images/kanada/2.jpg",
       "relatedNews": [
@@ -1610,49 +709,17 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012012964.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hondius-aluksella matkustaneen kanadalaisen hantavirustesti positiivinen",
-          "content": "Matkailija on ollut karanteenissa varotoimena mahdollisen tartunnan vuoksi.",
-          "date": "2026-05-16T20:29:43.000Z",
-          "categories": [
-            "sairaudet",
-            "kanada",
-            "taudit",
-            "virustaudit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226347?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ruandan kansanmurhan epäilty Félicien Kabuga kuollut",
+      "mainTitle": "Félicien Kabuga on kuollut Ruandassa",
       "mainCategories": [
-        "Ulkomaat",
-        "Oikeudenkäynnit",
-        "Ruanda"
+        "Maailma",
+        "Ulkomaat"
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yksi Ruandan kansanmurhan epäillyistä on kuollut",
-          "content": "",
-          "date": "2026-05-17T00:12:01.000Z",
-          "categories": [
-            "oikeudenkäynnit",
-            "ruanda",
-            "ruandan kansanmurha",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20226362?origin=rss"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -1744,115 +811,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012012835.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Euroviisuissa mielenosoitus Israelin vuoksi",
-      "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Euroviisujen illan finaali näkyy Wienissä myös poliisien läsnäolona – Israelia vastaan protestoitiin",
-          "content": "Tänään illalla selviää, mikä maa vie Euroviisujen voiton. Israelin laulukilpailuun osallistumista vastaan on protestoitu pitkin viikkoa Wienissä.",
-          "date": "2026-05-16T17:29:27.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/euroviisujen-illan-finaali-nakyy-wienissa-myos-pol/13496575?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Wienissä | Arviolta parisataa ihmistä kokoontui osoittamaan mieltään Israelin osallistumista vastaan",
-          "content": "Israelin viisuosallistumista vastustava mielenosoitus alkoi Wienissä rauhallisesti lauantaina iltapäivällä.",
-          "date": "2026-05-16T13:30:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012011761.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Helsinki Priden esteettömyysongelmat johtivat joukkopakoon",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "HS: Helsinki Pridessa tapahtumajärjestäjien joukkopako",
-          "content": "HS:n mukaan esteettömien tilojen puute tuli järjestölle yllätyksenä.",
-          "date": "2026-05-16T16:07:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012012075.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Vähemmistöt | Priden vaatimus esteettömyydestä johti tapahtuma­järjestäjien joukko­pakoon",
-          "content": "Tapahtumajärjestäjien mukaan Helsingistä ei löydy riittävästi esteettömiä tiloja. Ongelma tiedostetaan myös Pride Helsingissä.",
-          "date": "2026-05-16T13:03:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012002963.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjän droonit aiheuttivat uhkaa Uudellamaalla",
-      "mainCategories": [
-        "Politiikka",
-        "Kotimaa"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Puolustusvoimat: Perjantaina uhan aiheuttaneet droonit tulivat Venäjän suunnalta",
-          "content": "Drooniuhan Uudellemaalle varhain perjantaina aiheuttaneet droonit tulivat Venäjän suunnalta, kerrottiin Puolustusvoimista STT:lle lauantaina.",
-          "date": "2026-05-16T15:42:08.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/puolustusvoimat-perjantaina-uhan-aiheuttaneet-droo/13496588?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Uudenmaan drooniuhka | Pääesi­kunta: Lennokit lähestyivät Suomea Venäjän suunnasta",
-          "content": "Puolustus­ministeri Häkkäsen (kok) mukaan loppu­peleissä puhuttiin kuitenkin vain muutamista lennokeista. Suomeen ei lopulta harhautunut lennokkeja perjantaina.",
-          "date": "2026-05-16T12:49:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012010025.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Puolustusvoimat: Räjähde­droonit olivat matkalla Suomea kohti Venäjän suunnasta",
-          "content": "Pääesikunnan mukaan droonit voivat harhautua esimerkiksi Venäjän häirinnän, torjuntatulen tai teknisen vian seurauksena.",
-          "date": "2026-05-16T12:18:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012011919.html"
         }
       ]
     }
