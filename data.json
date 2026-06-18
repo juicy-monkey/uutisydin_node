@@ -1,126 +1,280 @@
 {
-  "timestamp": "2026-06-18T15:58:37.543Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-06-18T18:28:57.518Z",
+  "successCount": 12,
+  "failureCount": 10,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Trumpin ja Iranin ydinsopimuskiista jatkuu",
+      "mainTitle": "Veteraanijärjestöjen avustuskäytännöt kyseenalaistettu",
       "mainCategories": [
-        "Ulkomaat",
-        "Iran",
-        "Yhdysvallat"
+        "Politiikka"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Trump mollaa Obaman ydinsopimusta Iranin kanssa, mutta mikä on totuus?",
-          "content": "Trumpin ei ehkä kannattaisi jatkuvasti parjata Obaman aikaista ydinsopimusta. Silloin Iran oli kauempana ydinaseesta, kirjoittaa Lähi-idän erikoistoimittaja Antti Kuronen.",
-          "date": "2026-06-18T15:53:35.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Järjestöjen avustukset | HS selvitti: Veteraani­järjestö ja saamelaisten päihde­työ ovat käyttäneet rahansa Suomen huonoiten",
+          "content": "Saamelaisjärjestö pelkää, että Wille Rydmanin uudet tiukemmat sote-järjestöjen avustuskriteerit osuvat saamelaisiin.",
+          "date": "2026-06-18T18:24:00.000Z",
           "categories": [
-            "lähi-itä",
-            "iaea",
-            "iran",
-            "ydinaseet",
-            "donald trump",
-            "barack obama",
-            "ulkomaat"
+            "tilaajille",
+            "politiikka"
           ],
-          "link": "https://yle.fi/a/74-20232257?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Asiantuntija arvioi Yhdysvaltain ja Iranin sopua: ”Iran on selvästi sopimuksen voittaja”",
-          "content": "Lähi-idän instituutin johtajan Juha Mäkelän mukaan Iranin ei tarvinnut tehdä neuvotteluissa juurikaan kompromisseja.",
-          "date": "2026-06-18T14:12:37.000Z",
-          "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "iran",
-            "yhdysvallat",
-            "lähi-itä",
-            "ydinaseet",
-            "donald trump",
-            "hormuzinsalmi",
-            "iranin ydinohjelma",
-            "aiesopimus",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20232255?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kommentti: Trump poltti näppinsä – lopahtiko valloitus­into?",
-          "content": "Iranin sota oli Donald Trumpin Yhdysvalloille viittä vaille tappio. Lääkkeet nöyryytykseen voivat olla vaarallisia, kirjoittaa erikoistoimittaja Seppo Varjus.",
-          "date": "2026-06-18T10:15:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012087924.html"
+          "link": "https://www.hs.fi/politiikka/art-2000012089435.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Yhdysvallat julkaisi Iranin kanssa solmitun sopimuksen, Trump pani nimensä paperiin kesken illallisen",
-          "content": "Varsinaiset rauhanneuvottelut kestävät 60 päivää. Trump uhkasi jatkaa Iranin pommittamista, jos rauhan­sopimusta ei saada neuvoteltua.",
-          "date": "2026-06-18T08:28:00.000Z",
+          "title": "Järjestöjen avustukset | Vasemmistoliitto uhkaa mittauttaa Rydmanin luottamuksen",
+          "content": "Sosiaali- ja terveysministeri Wille Rydman ei ole perääntynyt sote-järjestöjen avustuskriteerien muuttamisesta.",
+          "date": "2026-06-18T07:53:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012088399.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainan drooni-iskut aiheuttavat huolta Moskovassa",
+      "mainCategories": [
+        "Maailma",
+        "Kirjeenvaihtajat",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Drooni-iskut | Moskovan savu­pilvet ovat merkki Ukrainan drooni­joukkojen nopeasta kehittymisestä",
+          "content": "Moskovan torstaisten savupilvien taustalla on Ukrainan pitkäjänteinen työ droonijoukkojen kehittämiseksi sekä Venäjän kyvyttömyys oppia Ukrainalta.",
+          "date": "2026-06-18T18:00:00.000Z",
           "categories": [
             "maailma"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000012087538.html"
+          "link": "https://www.hs.fi/maailma/art-2000012088554.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Vuodettu aiesopimus ei lupaa hyvää Trumpille",
-          "content": "Julki vuodettu USA:n ja Iranin aiesopimus on suotuisa Iranille. Rauhaan on pitkä matka, kirjoittaa Lähi-idän erikoistoimittaja Antti Kuronen.",
-          "date": "2026-06-17T15:50:35.000Z",
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ukrainan iskut aiheuttivat yllättävän huolen Moskovassa: \"En halua kaljuuntua\"",
+          "content": "Ukrainan isku Moskovan Kapotnjan alueen öljynjalostamoon on aiheuttanut paikallisten mukaan öljysateita. Ukrainan tekemät drooni-iskut ovat aiheuttaneet yllättävää huolta moskovalaisissa, kertoo venäläismedia Gazeta. Ukraina teki torstaina yhden sodan laajimmista ilmaiskuistaan Venäjän pääkaupunkiin Moskovaan. Yksi drooni-iskujen näyttävimmistä saavutuksista oli osuma Moskovan Kapotnjan alueella sijaitsevaan öljynjalostamoon.",
+          "date": "2026-06-18T15:18:42.000Z",
           "categories": [
-            "lähi-itä",
-            "iran",
-            "israel",
-            "donald trump",
-            "aiesopimus",
-            "yhdysvallat",
             "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20232197?origin=rss"
+          "link": "https://www.iltalehti.fi/ulkomaat/a/2926954f-28f1-4969-98f2-c3d8c2206d8f"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Professori: Yhdysvallat vaikuttaa taipuneen Iranin toiveiden suuntaan",
-          "content": "Uutistoimisto Blomberg julkaisi tietoja Iranin ja Yhdysvaltojen yhteis­ymmärrys­pöytäkirjasta.",
-          "date": "2026-06-17T11:43:28.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Moskovan drooni-iskut | Öljysäiliön katto räjähti korkeuksiin: video synnytti meemitulvan",
+          "content": "Ukrainan pitkän kantaman drooni osui jalostamon öljysäiliöön, ja räjähdyksen voimasta yläilmoihin nousi koko katto.",
+          "date": "2026-06-18T10:31:00.000Z",
           "categories": [
-            "yhdysvaltojen ja israelin ilmaiskut iraniin 2026",
-            "iran",
-            "donald trump",
-            "yhdysvallat",
-            "ulkomaat"
+            "kirjeenvaihtajat"
           ],
-          "link": "https://yle.fi/a/74-20232121?origin=rss"
+          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012088806.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomen talouskasvu ylitti odotukset",
+      "mainCategories": [
+        "Politiikka",
+        "Talous"
+      ],
+      "imageUrl": "/images/talous/7.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Talous | Tilastokeskus: Suomen talous kasvoi viime vuonna odotettua enemmän",
+          "content": "Tilastokeskuksen mukaan kasvua vauhditti erityisesti viennin vahva kehitys, kun taas kotimainen kysyntä pysyi edelleen heikkona.",
+          "date": "2026-06-18T16:46:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012090352.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Yllätyskäänne Suomen talouskasvussa – ”Poikkeuk­sellista”, sanoo ekonomisti ",
+          "content": "Vientialan hyvä vire nostikin viime vuonna Suomen talouskasvun aiempaa suuremmaksi. Kotimarkkinoilla vaisu tilanne jatkui.  Tilastokeskus on korjannut Suomen talouskasvulukua vuodelta 2025 tarkentuneiden ennakkotietojen pohjalta. Aiemmin bruttokansantuotteen kerrottiin kasvaneen 0,2 prosenttia, mutta uusissa luvuissa talouskasvu oli 0,8 prosenttia. Talouden positiivisen vireen taustalla vuonna 2025 ja vuoden 2026 ensimmäisellä neljänneksellä oli Tilastokeskuksen mukaan viennin kasvu. Vahvuutta on nähty useammalla toimialalla. Samaan aikaan ulkomaankaupan kohentuminen näkyy myös vaihtotaseessa, joka oli vuonna 2025 pitkästä aikaa ylijäämäinen. Vaihtotaseella mitataan sitä, saako kansantalous ulkomailta menojaan enemmän tuloja.",
+          "date": "2026-06-18T14:53:39.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.iltalehti.fi/talous/a/79f90827-82df-4f20-8a34-c6634767415d"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainan isku aiheutti räjähdyksen Moskovassa",
+      "mainCategories": [
+        "Kirjeenvaihtajat",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS Moskovassa | Näin Moskovan savuavan, enkä ollut uskoa silmiäni",
+          "content": "Tällä kertaa Ukrainan iskuissa ei ollut kyse vain kaukaisista räjähdyksistä tai Telegram-videoista. Moskova savusi oikeasti, raportoi kirjeenvaihtaja Maarit Uber paikan päältä.",
+          "date": "2026-06-18T16:40:00.000Z",
+          "categories": [
+            "tilaajille",
+            "kirjeenvaihtajat"
+          ],
+          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012088570.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Axios: Trumpin sisäpiirissä heräsi epäilys Iran-diilistä – ”Tiedustelutiedot viittaavat siihen...”",
-          "content": "Mediatietojen mukaan CIA on varoittanut presidenttiä siitä, että Iran pelaa kaksin kortein.",
-          "date": "2026-06-16T16:11:00.000Z",
+          "title": "Massiivinen räjähdys Moskovassa tallentui videolle",
+          "content": "Sosiaalisessa mediassa on levinnyt videoita, joiden kerrotaan näyttävän Ukrainan iskun seurauksia Moskovassa sijaitsevalla öljynjalostamolla.",
+          "date": "2026-06-18T13:07:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012083438.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000012089232.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Helleaalto aiheuttaa häiriöitä Ranskassa",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/ranska/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Helleaalto iski Ranskaan: Kymmeniä juna­vuoroja peruttu ja kouluja uhkaa sulkeminen",
+          "content": "Ranskan ilmatieteen laitoksen mukaan helleaallon ennustetaan jatkuvan ensi viikolle saakka.",
+          "date": "2026-06-18T16:30:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012089649.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Helle­aalto tuo Eurooppaan yli 40 asteen lämpö­tiloja",
+          "content": "Ranska valmistautui keskiviikkona kuumaan säähän.",
+          "date": "2026-06-17T14:23:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012087182.html"
         }
       ]
     },
@@ -134,6 +288,18 @@
       "imageUrl": "/images/nato/2.jpg",
       "relatedNews": [
         {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Häkkänen: Jos Iran onnistuu suunnitelmissaan, on se Natolle uhka",
+          "content": "Naton päämajassa Brysselissä käynnistyi erityisen kiinnostava puolustusministerikokous, sillä paikalle saapui torstaiaamuna Yhdysvaltain puolustusministeri Pete Hegseth.",
+          "date": "2026-06-18T16:17:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012083871.html"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -144,18 +310,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012090226.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Häkkänen: Jos Iran onnistuu suunnitelmissaan, on se Natolle uhka",
-          "content": "Naton päämajassa Brysselissä käynnistyi erityisen kiinnostava puolustusministerikokous, sillä paikalle saapui torstaiaamuna Yhdysvaltain puolustusministeri Pete Hegseth.",
-          "date": "2026-06-18T15:20:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012083871.html"
         },
         {
           "publisherId": "iltalehti",
@@ -196,11 +350,9 @@
       ]
     },
     {
-      "mainTitle": "Sofia Virran kohu ja sen seuraukset",
+      "mainTitle": "Sofia Virran kohu jakaa vihreitä.",
       "mainCategories": [
-        "Politiikka",
-        "Eduskunta",
-        "Erikoisjoukot"
+        "Politiikka"
       ],
       "imageUrl": "/images/sofia virta/1.jpg",
       "relatedNews": [
@@ -217,28 +369,16 @@
           "link": "https://www.is.fi/politiikka/art-2000012089023.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sofia Virta: Vihreät haluaa ministeri Rydmanista eroon",
-          "content": "Vihreiden puheenjohtaja Sofia Virta moittii pääministeri Petteri Orpoa (kok) johtajuuden puutteesta.",
-          "date": "2026-06-18T12:43:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Poissaolokohu | Vihreiden suut aukesivat: Osa aiemmin vaienneista vannoo nyt tukea Virralle",
+          "content": "Suurin osa vihreiden kansanedustajista ei keskiviikkona halunnut ensin kommentoida puheenjohtajan osallistumista tosi-tv-ohjelmaan tai sitä, luottavatko he Sofia Virtaan.",
+          "date": "2026-06-18T11:57:00.000Z",
           "categories": [
             "politiikka"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000012089606.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "IL: Näin paljon Sofia Virralle maksettiin Erikoisjoukoista",
-          "content": "Iltalehden mukaan puoluejohtaja nettosi viihdeohjelmasta useita tuhansia euroja.",
-          "date": "2026-06-18T11:44:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012089516.html"
+          "link": "https://www.hs.fi/politiikka/art-2000012085453.html"
         },
         {
           "publisherId": "is",
@@ -275,30 +415,6 @@
           "link": "https://www.is.fi/politiikka/art-2000012086412.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Poissaolokohu | ”Ei ole hyvä lopputulos” – Eduskunnan ohjeet Sofia Virralle eivät menneet perille",
-          "content": "Hallintojohtaja Pertti Rauhion mukaan palkkion palauttaminen Valtiokonttorin kautta on teknisesti ja juridisesti hankalaa. Pääministerin mukaan ohjelmiin osallistumista olisi syytä käsitellä eduskunnassa.",
-          "date": "2026-06-17T12:42:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012085635.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Petteri Orpo kommentoi Sofia Virran Erikoisjoukot-kohua – ”On sitten kansanedustaja tai ministeri...”",
-          "content": "Pääministeri Petteri Orpo (kok) otti mediatapaamisessa kantaa hallituksen riitaan avustusleikkauksista ja linjasi Suomen suhtautumisesta EU:n yhteisvelkaan.",
-          "date": "2026-06-17T12:35:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012085062.html"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -309,22 +425,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000012085019.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Sofia Virran julkisuuden­hallinta petti",
-          "content": "Ilmeisin syy tosi-tv-ohjelmaan osallistu­miselle jäi Virran tiedotus­tilaisuudessa mainitsematta, kirjoittaa Ylen politiikan toimittaja Petri Raivio.",
-          "date": "2026-06-17T11:44:40.000Z",
-          "categories": [
-            "politiikka",
-            "sofia virta",
-            "vihreä liitto",
-            "eduskunta",
-            "erikoisjoukot"
-          ],
-          "link": "https://yle.fi/a/74-20232101?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -338,91 +438,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000012082741.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Moottoriveneonnettomuus Kotkassa, yksi kuollut",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Vesiliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Moottoriveneilijä menehtyi Kotkassa",
-          "content": "IS seuraa tässä artikkelissa tapahtumia läpi keskikesän juhlan.",
-          "date": "2026-06-18T15:37:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012064290.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Moottorivene on upposi lähellä Kotkan Kuutsaloa – yksi kuoli",
-          "content": "Yksi ihminen on hukkunut Kotkassa sattuneessa veneonnettomuudessa.",
-          "date": "2026-06-18T12:56:58.000Z",
-          "categories": [
-            "onnettomuudet",
-            "vesiliikenne",
-            "vesiliikenneonnettomuudet",
-            "kymenlaakso",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232408?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainan drooni-iskut aiheuttavat huolta Moskovassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Kirjeenvaihtajat"
-      ],
-      "imageUrl": "/images/ukraina/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ukrainan iskut aiheuttivat yllättävän huolen Moskovassa: \"En halua kaljuuntua\"",
-          "content": "Ukrainan isku Moskovan Kapotnjan alueen öljynjalostamoon on aiheuttanut paikallisten mukaan öljysateita. Ukrainan tekemät drooni-iskut ovat aiheuttaneet yllättävää huolta moskovalaisissa, kertoo venäläismedia Gazeta. Ukraina teki torstaina yhden sodan laajimmista ilmaiskuistaan Venäjän pääkaupunkiin Moskovaan. Yksi drooni-iskujen näyttävimmistä saavutuksista oli osuma Moskovan Kapotnjan alueella sijaitsevaan öljynjalostamoon.",
-          "date": "2026-06-18T15:18:42.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/2926954f-28f1-4969-98f2-c3d8c2206d8f"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Massiivinen räjähdys Moskovassa tallentui videolle",
-          "content": "Sosiaalisessa mediassa on levinnyt videoita, joiden kerrotaan näyttävän Ukrainan iskun seurauksia Moskovassa sijaitsevalla öljynjalostamolla.",
-          "date": "2026-06-18T13:07:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012089232.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Moskovan drooni-iskut | Öljysäiliön katto räjähti korkeuksiin: irvailevat meemit videosta leviävät",
-          "content": "Ukrainan pitkän kantaman drooni osui jalostamon öljysäiliöön, ja räjähdyksen voimasta yläilmoihin nousi koko katto.",
-          "date": "2026-06-18T10:31:00.000Z",
-          "categories": [
-            "kirjeenvaihtajat"
-          ],
-          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012088806.html"
         }
       ]
     },
@@ -461,62 +476,7 @@
       ]
     },
     {
-      "mainTitle": "Stubb: Venäjä ei valmistele hyökkäystä",
-      "mainCategories": [
-        "Politiikka",
-        "Nato",
-        "Suomi"
-      ],
-      "imageUrl": "/images/stubb/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "HBL: Stubb tyrmää varoitukset Venäjän hyökkäyksestä",
-          "content": "Stubbin mukaan Venäjä on häviämässä sodan Ukrainassa.",
-          "date": "2026-06-18T15:00:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012089466.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Stubb HBL:lle: En usko Venäjän valmistelevan hyökkäystä Nato-maahan",
-          "content": "Tasavallan presidentti Alexander Stubb ei allekirjoita viimeaikaisia varoituksia Venäjän aikeista.",
-          "date": "2026-06-18T07:18:46.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "politiikka",
-            "alexander stubb",
-            "nato",
-            "suomi",
-            "venäjä",
-            "ukrainan sota",
-            "turvallisuus",
-            "puolustuspolitiikka"
-          ],
-          "link": "https://yle.fi/a/74-20232298?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubbilta uusi Venäjä-avaus – nyt kommentoi Naton pää­sihteeri Mark Rutte",
-          "content": "Naton pääsihteeri Mark Rutte vastasi IS:n kysymykseen siitä, pitäisikö keskusteluyhteys avata Venäjän kanssa. Tasavallan presidentti Alexander Stubb sanoi aiemmin, että asialle pitäisi tehdä jotain tulevina kuukausina.",
-          "date": "2026-06-17T10:31:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012085869.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hormuzinsalmen liikenne hidastuu vakuutusmaksujen vuoksi",
+      "mainTitle": "Hormuzinsalmen liikenne vaikeutuu vakuutusmaksuista",
       "mainCategories": [
         "Logistiikka"
       ],
@@ -547,564 +507,11 @@
       ]
     },
     {
-      "mainTitle": "G7-kokous Euroopalle menestys, Trump vitsaili",
+      "mainTitle": "Seksuaalirikolliselle yli kymmenen vuoden tuomio",
       "mainCategories": [
-        "Ulkomaat",
-        "G7",
-        "Huippukokous"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Trump vain vitsaili: \"Poikkeuk­sellista\"",
-          "content": "G7-kokous meni Euroopan kannalta putkeen. Tilanne voi taas muuttua äkisti, mutta nyt on hyvä hengähtää hetki lämmenneessä transatlanttisessa auringossa, sanoi kirjeenvaihtaja Kreeta Karvala Talousaamussa. G7-maiden kolmipäiväinen huippukokous oli Euroopan kannalta menestys. – Tunnelma oli poikkeuksellisen hyvä, henki oli hyvä. (USA:n presidentti) Donald Trump itse sanoi, että kokous oli erittäin onnistunut, kokousta Ranskan Évianissa seurannut kirjeenvaihtaja Kreeta Karvala sanoi Talousaamun lähetyksessä.",
-          "date": "2026-06-18T14:47:15.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/990720ac-ffb7-4e87-b699-d8f49f19de19"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump vaikeni Putinin vastuusta Ukrainan sodan jatkumisessa – myönsi Venäjän menettävän enemmän sotilaita",
-          "content": "Yhdysvaltain presidentin puheet G7-kokouksessa tulkittiin merkiksi mahdollisesta suunnanmuutoksesta Ukrainaan liittyen.",
-          "date": "2026-06-18T06:18:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012087659.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Videoanalyysi: Macronin suurin saavutus oli pitää Trump G7-kokouksessa loppuun asti",
-          "content": "Huippukokous saattoi olla käännekohta Ukrainalle, arvioi Yle Uutisten Ranskan-toimittaja Miina Väisänen.",
-          "date": "2026-06-17T19:16:18.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "g7",
-            "huippukokous",
-            "päättäjät",
-            "donald trump",
-            "emmanuel macron",
-            "ukraina",
-            "volodymyr zelenskyi",
-            "iran",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20232235?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump ja Macron illallistavat Versailles'n palatsissa",
-          "content": "",
-          "date": "2026-06-17T18:15:53.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "emmanuel macron",
-            "donald trump",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20232234?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Päälle jäänyt mikrofoni paljasti Macronin ja Zelenskyin keskustelun Trumpista – ”Ensinnäkin, onko teillä jo ...”",
-          "content": "Keskustelua ei ollut tarkoitettu kaiken kansan kuultavaksi.",
-          "date": "2026-06-17T13:10:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012086776.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hengenpelastusmitalit kuudelle kansalaiselle",
-      "mainCategories": [
-        "Kotimaa",
-        "Palkinnot",
-        "Tunnustuspalkinnot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jari Lampela juoksi jokeen, kun näki siellä auton – pelasti äidin ja lapsen sekä tietämättään kolmannenkin henkilön",
-          "content": "Presidentti Alexander Stubb on myöntänyt tänä vuonna hengen­pelastusmitalit kuudelle henkilölle.",
-          "date": "2026-06-18T14:46:35.000Z",
-          "categories": [
-            "palkinnot",
-            "tunnustuspalkinnot",
-            "sankarit",
-            "pelastustoiminta",
-            "hengenpelastusmitali",
-            "oulu",
-            "rovaniemi",
-            "kotimaa",
-            "lappi"
-          ],
-          "link": "https://yle.fi/a/74-20232299?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Matti, 78, oli juuri lähdössä kuntosalilta, kun hän havahtui liekkeihin autossa – ”Ystävän sydän oli pysähtynyt”",
-          "content": "Tasavallan presidentti Alexander Stubb on myöntänyt hengenpelastusmitalin kuudelle kansalaiselle. Yksi heistä on imatralainen Matti Ovaskainen.",
-          "date": "2026-06-17T16:23:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012086565.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Käymäläseuran projektipäällikkö tuomittiin petoksesta",
-      "mainCategories": [
-        "Oikeudenkäynnit",
-        "Sambia",
-        "Avustuspetos"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Käymäläseuran projektipäällikkö tuomittiin törkeästä avustuspetoksesta",
-          "content": "Kyse ei ole vähäisestä teosta, totesi Pirkanmaan käräjäoikeus.",
-          "date": "2026-06-18T14:24:15.000Z",
-          "categories": [
-            "oikeudenkäynnit",
-            "sambia",
-            "avustuspetos",
-            "ghana",
-            "pirkanmaan käräjäoikeus",
-            "rikokset",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20232424?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tuomiot | Käymäläseuran projekti­päällikkö tuomittiin kavalluksesta, korvaus­vaatimus yli 600 000 euroa",
-          "content": "Tuomio liittyy hankkeisiin, joihin ulkoministeriö oli myöntänyt yhdistykselle valtionavustuksia. Varoja oli käytetty muun muassa yhdistykselle kuulumattomiin maksuihin ja käteisnostoihin.",
-          "date": "2026-06-18T07:25:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012088319.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Vauvojen kuolemat koti­synnytyksissä lisääntyneet Suomessa",
-      "mainCategories": [
-        "Kotimaa",
-        "Terveys",
-        "Kotisynnytys"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Vauva kuoli koti­­synnytyksessä Keski-Suomessa – poliisi selvittänyt useita muitakin tapauksia",
-          "content": "Poliisilaitoksilla eri puolilla Suomea on ollut tutkinnassa tapauksia, joissa vauva on kuollut kotisynnytyksessä.",
-          "date": "2026-06-18T14:13:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012088270.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Seitsemän vauvaa kuollut koti­synnytyksiin liittyen viime vuosien aikana Suomessa",
-          "content": "Lukumäärät kotisynnytyksiin liittyvistä kuolemista ovat tarkentuneet. Suurin osa kuolemista on tapahtunut 2023–2025.",
-          "date": "2026-06-16T17:09:51.000Z",
-          "categories": [
-            "terveys",
-            "kotisynnytys",
-            "kätilöt",
-            "lapsen kuolema",
-            "vauvat",
-            "mot",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20231951?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Supo varoittaa datakeskusten turvallisuusuhista",
-      "mainCategories": [
-        "Kotimaa",
-        "Suojelupoliisi",
-        "Talous"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Supo varoitti datakeskuksista – Kuntaliitto: Datakeskusten ei ole arvioitu aiheuttavan kunnille turvallisuus­uhkaa",
-          "content": "Lausunto­kierroksella oleva sijoitus­lupalaki on kehittämis­päällikkö Ari Korhosen mukaan erittäin tarpeellinen.",
-          "date": "2026-06-18T13:52:14.000Z",
-          "categories": [
-            "kunnat",
-            "turvallisuus",
-            "suojelupoliisi",
-            "talous",
-            "palvelinkeskukset",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232315?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle: Supo varoittaa data­keskuksista",
-          "content": "Suojelupoliisin mukaan ei ole takuita siitä, että datakeskusten kiinalais- tai venäläiskäyttäjät eivät antaisi keräämiään tietoja maiden hallinnoille.",
-          "date": "2026-06-18T04:53:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012087776.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kunnilla on sokea piste datakeskuksissa – supo: Ottakaa yhteyttä meihin ennen sopimusten tekemistä",
-          "content": "Suojelupoliisin mukaan datakeskuksista voi tulla autoritaaristen valtioiden väline. Kuntien ei pitäisi tehdä sopimuksia tuntematta yritysten taustoja.",
-          "date": "2026-06-18T02:30:35.000Z",
-          "categories": [
-            "talous",
-            "palvelinkeskukset",
-            "suojelupoliisi",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232079?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nainen vangittu henkirikoksesta Karijoella",
-      "mainCategories": [
-        "Kotimaa",
-        "Väkivaltarikokset",
-        "Turku"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi epäilee: Nainen teki henki­rikoksen Kari­joella – uhri kuoli elvytys­yrityksistä huolimatta",
-          "content": "Karijoella yksityisasunnossa tapahtuneessa puukotuksessa menehtyi mies.",
-          "date": "2026-06-18T13:38:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012089900.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi tutkii henkirikosta Karijoella, mies puukotettiin hengiltä yksityisasunnossa",
-          "content": "Poliisi otti tapahtumapaikalta kiinni taposta epäillyn naisen. Epäilty ja uhri eivät ole paikkakuntalaisia.",
-          "date": "2026-06-18T13:04:42.000Z",
-          "categories": [
-            "etelä-pohjanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232409?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Lähihoitajaa, 49, epäillään synkästä teosta Etelä-Pohjanmaalla",
-          "content": "49-vuotias nainen on vangittu taposta epäiltynä. Pohjanmaan poliisi epäilee 49-vuotiasta naista taposta. Epäilty henkirikos tapahtui Karijoella torstaina 18. kesäkuuta. Pohjanmaan poliisi epäilee, että nainen puukotti miehen hengiltä yksityisasunnossa. Hätäkeskus välitti tehtävän poliisille kello kolmen aikaan aamuyöllä.",
-          "date": "2026-06-18T13:00:54.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/3bde7bcc-9fa7-47f4-a1fc-1c47697077af"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Epäilty tapon yritys Turun Haritussa – kerrostaloasunnosta löytyi puukotettu mies",
-          "content": "",
-          "date": "2026-06-18T11:38:59.000Z",
-          "categories": [
-            "väkivaltarikokset",
-            "rikos ja oikeus",
-            "varsinais-suomen käräjäoikeus",
-            "lounais-suomen poliisilaitos",
-            "turku",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7014951"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Esportin taustayhdistystä haetaan konkurssiin",
-      "mainCategories": [
-        "Taloussanomat",
-        "Konkurssit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Liikunta­keskusten tausta­yhdistystä haetaan konkurssiin",
-          "content": "Konkurssin hakijoita on kaksi ja kyse on miljoonien veloista.",
-          "date": "2026-06-18T13:34:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012089867.html"
-        },
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Esport-liikuntakeskusten taustayhdistystä haetaan konkurssiin",
-          "content": "Liikunta- ja kuntokeskusketju Esportin taustayhdistystä haetaan konkurssiin. Hakemuksen tekijä puhuu kuuden miljoonan euron saatavista. Kauppalehti ei tavoittanut Esportin edustajaa kommentoimaan konkurssihakemusta.",
-          "date": "2026-06-18T12:36:00.000Z",
-          "categories": [
-            "konkurssit"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/31067a82-d63d-4eba-a11e-fe5a60fe2c7f?utm_source=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hovioikeus hylkäsi raiskaussyytteet kolmelta mieheltä",
-      "mainCategories": [
-        "Kotimaa",
-        "Oikeus",
-        "Helsinki"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "17-vuotias tyttö kertoi kolmen miehen raiskanneen hänet sairaalan pusikossa – Kaikki syytteet nurin",
-          "content": "Kolmea miestä syytettiin teinitytön törkeästä raiskauksesta. Helsingin hovioikeus hylkäsi kaikki syytteet. Helsingin hovioikeus ei muuttanut käräjäoikeuden tuomiota Malmin sairaalan edustalla tapahtuneessa väitetyssä joukkoraiskauksessa. Hovioikeus hylkäsi kolmea miestä vastaan nostetut syytteet törkeästä raiskauksesta. Helsingin käräjäoikeus oli päätynyt samaan ratkaisuun viime vuoden huhtikuussa.",
-          "date": "2026-06-18T13:08:41.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/1b306041-e47d-47e3-8360-4438bde7dece"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hovioikeudelta ratkaisu: kolmea miestä ei tuomittu epäillystä raiskauksesta Malmin sairaalan ulkopuolella",
-          "content": "Asianomistaja valitti käräjäoikeuden päätöksestä hoviin. Hovioikeus hyväksyi perusteet syytteiden hylkäämisestä.",
-          "date": "2026-06-18T12:16:15.000Z",
-          "categories": [
-            "oikeus",
-            "helsinki",
-            "uusimaa",
-            "hovioikeudet",
-            "tuomiot",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232385?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Häirintäepäilyt sisäministeriössä tutkitaan vakavasti",
-      "mainCategories": [
-        "Politiikka",
-        "Sisäministeriö",
-        "Työelämä"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työsuojelu | Tarkastus: Sisä­ministeriössä väitetysti häirintää ja epä­asiallista käytöstä",
-          "content": "Kansliapäällikön mukaan asia otetaan vakavasti ja pyritään selvittämään. Työnantajan tiedossa ei ole, mistä tapauksissa on kyse.",
-          "date": "2026-06-18T12:39:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012089685.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Häirintää ja epäasiallista kohtelua – työsuojelutarkastus paljasti karun tilanteen sisäministeriössä",
-          "content": "Työsuojeluviranomainen vaatii tuoreessa raportissa, että sisäministeriö selvittää häirintään liittyvät haitta- ja vaaratekijät kattavasti.",
-          "date": "2026-06-18T09:17:44.000Z",
-          "categories": [
-            "politiikka",
-            "sisäministeriö",
-            "työelämä"
-          ],
-          "link": "https://yle.fi/a/74-20232112?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sofia Virran tosi-tv-kohun vaikutukset politiikassa",
-      "mainCategories": [
-        "Politiikka",
-        "Kansanedustajat",
-        "Eduskunta"
-      ],
-      "imageUrl": "/images/sofia virta/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tämä asia hämmentää Sofia Virran tosi-tv-kohussa: ”Minun järkeeni ei mene”",
-          "content": "Politiikan puskaradion juhannusjaksossa puhutaan Sofia Virran tosi-tv-kohusta ja kansanedustajien kulukorvauksista, joita ollaan korottamassa. Lisäksi paljastetaan, kuka määrää tahdin Kesärannassa ja mitä Jukka Kopra tekee juhannuksen jälkeen. Iltalehden politiikan toimittaja Marko-Oskari Lehtosen juontamassa Politiikan puskaradio -podcastin jaksossa numero 235 ruoditaan vihreiden puheenjohtaja Sofia Virran Erikoisjoukot -ohjelmaan osallistumista ja siitä noussutta kohua. Iltalehden politiikan toimituksen päällikkö Juha Ristamäki sanoo ihmettelevänsä tv-ohjelmaan liittyvässä kohussa yhtä asiaa.",
-          "date": "2026-06-18T12:35:11.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/331014f3-830d-483d-8a68-a044bdf557a2"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Poissaolokohu | Vihreiden suut aukesivat: Osa aiemmin vaienneista vannoo nyt tukea Virralle",
-          "content": "Suurin osa vihreiden kansanedustajista ei keskiviikkona halunnut ensin kommentoida puheenjohtajan osallistumista tosi-tv-ohjelmaan tai sitä, luottavatko he Sofia Virtaan.",
-          "date": "2026-06-18T11:57:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012085453.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jussi Halla-aho: Kansan­edustajien meno tosi-tv:hen voi olla jopa perustuslaillinen ongelma",
-          "content": "Eduskunnan puhemies Jussi Halla-aho kommentoi vihreiden puheenjohtajan Sofia Virran poissaoloa ja palkkio­kysymystä keskiviikkona.",
-          "date": "2026-06-17T12:02:07.000Z",
-          "categories": [
-            "politiikka",
-            "kansanedustajat",
-            "suomalaiset poliitikot",
-            "vihreä liitto"
-          ],
-          "link": "https://yle.fi/a/74-20232133?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eduskunnan hallintojohtaja varoitti Sofia Virtaa kritiikistä etukäteen: ”On syytä ottaa huomioon”",
-          "content": "Sofia Virralle oli kerrottu, että kansanedustajan palkkiota ei voi jättää maksamatta.",
-          "date": "2026-06-17T08:05:11.000Z",
-          "categories": [
-            "politiikka",
-            "vihreä liitto",
-            "eduskunta",
-            "tosi-tv",
-            "tosi-tv-osallistujat",
-            "sofia virta",
-            "pertti rauhio"
-          ],
-          "link": "https://yle.fi/a/74-20232070?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Vihreiden Sofia Virta vahvisti poissaolojensa syyksi tv-ohjelman kuvaukset – \"En kadu mukaan lähtemistä\"",
-          "content": "Vihreiden puheenjohtaja Sofia Virta sanoi tiistaina olleensa siinä käsityksessä, että kansanedustajan palkkioiden palauttaminen jälkikäteen olisi mahdollista.",
-          "date": "2026-06-16T17:34:32.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/vihreiden-sofia-virta-vahvisti-poissaolojensa-syyk/13544998?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukraina vahvistaa sotilaallista kykyään",
-      "mainCategories": [
-        "Ulkomaat",
-        "Talousaamu"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Ukraina tekee tuhoa – Miten Putin vastaa? \"Koko ajan vaikeutuu”",
-          "content": "Ukrainan sotilaallinen kyky vahvistuu. Saadaanko rauhanneuvottelut käyntiin?",
-          "date": "2026-06-18T12:30:00.000Z",
-          "categories": [
-            "talousaamu"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/3076fdde-be38-40d6-9268-3692fc8eeab9?utm_source=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ukraina tekee tuhoa: Miten Putin vastaa? \"Koko ajan vaikeutuu”",
-          "content": "Ukrainan sotilaallinen kyky vahvistuu. Saadaanko rauhanneuvottelut käyntiin? Ukrainan droonit tekivät torstaina tuhoa Moskovan suuressa öljynjalostamossa. Presidentti Volodymyr Zelenskyin mukaan Ukraina teki torstaina iskuja myös Rostovin alueella sekä Venäjän miehittämillä alueilla Ukrainassa.",
-          "date": "2026-06-18T11:31:29.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/0c738c7e-01b2-4400-a97c-1077e8cdc003"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mies tuomittiin pitkästä seksuaalirikoshistorian vuoksi",
-      "mainCategories": [
-        "Rikokset",
-        "Hovioikeudet",
-        "Seksuaalirikos"
+        "Suomi",
+        "Seksuaalirikokset",
+        "Paikalliset"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1119,26 +526,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000012089135.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hovioikeus korotti rangaistusta: Miehelle lähes 11 vuotta vankeutta lapsiin kohdistuneista seksuaali­rikoksista",
-          "content": "Rikossarja jatkui 15 vuotta. Mies etsi uhreiksi alle 16-vuotiaita tyttöjä järjes­telmällisesti keskustelu­palstoilta.",
-          "date": "2026-06-18T11:50:47.000Z",
-          "categories": [
-            "rikokset",
-            "hovioikeudet",
-            "seksuaalirikos",
-            "tuomiot",
-            "helsinki",
-            "lasten seksuaalinen hyväksikäyttö",
-            "grooming (seksuaalirikos)",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232358?origin=rss"
         },
         {
           "publisherId": "is",
@@ -1171,137 +558,10 @@
       ]
     },
     {
-      "mainTitle": "Juhannusliikenne vilkastuu torstai-iltapäivänä",
+      "mainTitle": "JSN antoi huomautuksia drooniuutisista",
       "mainCategories": [
         "Kotimaa",
-        "Liikenne",
-        "Juhannus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Juhannus­liikenne on nyt vilkkaimmillaan – asiantuntija kehottaa unohtamaan kiireen: ”Saavutaan se varttitunti myöhemmin”",
-          "content": "Juhannuksen menoliikenne ajoittuu etenkin torstai-iltapäivään.",
-          "date": "2026-06-18T11:50:11.000Z",
-          "categories": [
-            "liikenne",
-            "juhannus",
-            "juhannusliikenne",
-            "juhlapäivät",
-            "kesä",
-            "kotimaa",
-            "etelä-savo",
-            "päijät-häme"
-          ],
-          "link": "https://yle.fi/a/74-20232275?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Juhannuksen menoliikenne vilkkaimmillaan tänään",
-          "content": "Vilkkain aika Etelä-Suomessa on tänään torstaina kello 14–18.",
-          "date": "2026-06-18T00:13:32.000Z",
-          "categories": [
-            "liikenne",
-            "juhannus",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232245?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Liikenne | HS:n hakukone kertoo juhannuksen ruuhkahuiput",
-          "content": "Kovimmat ruuhkat ajoittuvat juhannuksena torstai-iltapäivään. HS:n hakukone auttaa välttämään ruuhkahuiput meno- ja paluuliikenteessä.",
-          "date": "2026-06-17T16:39:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012081991.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Juhannusliikenne kiihtyy, autojen vauhti hidastuu – katso tästä ruuhka­huippujen ajat ja paikat",
-          "content": "Juhannuksen menoliikenne alkaa jo tänään illalla.",
-          "date": "2026-06-17T12:45:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012085986.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Juhannuksen menoliikenne vilkkaimmillaan huomenna",
-          "content": "Etelä-Suomessa menoliikenne on vilkkaimmillaan kello 14–18. Pohjois-Suomessa menoliikenne on vilkasta myöhäisiltaan saakka.",
-          "date": "2026-06-17T05:15:04.000Z",
-          "categories": [
-            "liikenne",
-            "juhannus",
-            "juhannusliikenne",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232020?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Euroopassa poikkeuksellinen helleaalto jatkuu",
-      "mainCategories": [
-        "Sää",
-        "Helle",
-        "Lämpö"
-      ],
-      "imageUrl": "/images/ranska/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poikkeuk­sellisen kuuma helleaalto käristää Eurooppaa",
-          "content": "Tukalimmat helteet osuvat Ranskaan, Espanjaan ja Italiaan.",
-          "date": "2026-06-18T11:48:54.000Z",
-          "categories": [
-            "sää",
-            "helle",
-            "lämpö",
-            "eurooppa",
-            "ranska",
-            "länsi-eurooppa",
-            "keski-eurooppa",
-            "sääennusteet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20232256?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Helle­aalto tuo Eurooppaan yli 40 asteen lämpö­tiloja",
-          "content": "Ranska valmistautui keskiviikkona kuumaan säähän.",
-          "date": "2026-06-17T14:23:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012087182.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "JSN langetti päätöksiä Ylelle ja Ilta-Sanomille",
-      "mainCategories": [
-        "Kotimaa",
-        "Media",
-        "Yle"
+        "Suomi"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1317,296 +577,6 @@
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012088347.html"
         },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ylelle langettava päätös Julkisen sanan neuvostolta – kielteisen julkisuuden kohteeksi joutunutta ei kuultu",
-          "content": "JSN:n mukaan Ylen olisi pitänyt kuulla kielteistä julkisuutta saanutta henkilöstöyritystä.",
-          "date": "2026-06-18T08:00:41.000Z",
-          "categories": [
-            "yle",
-            "julkisen sanan neuvosto",
-            "media",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232302?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ylelle langettava päätös Julkisen sanan neuvostolta",
-          "content": "Langettava päätös 10064/YLE/25",
-          "date": "2026-06-18T08:00:39.000Z",
-          "categories": [
-            "media",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232285?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "JSN:n langettava päätös",
-          "content": "JSN on antanut Ilta-Sanomille huomautuksen.",
-          "date": "2026-06-18T08:00:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012088406.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Juhannuksen sää: hellettä ja poutaa",
-      "mainCategories": [
-        "Sää",
-        "Juhannus",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Neljä nostoa juhannuksen säästä: lämpimät järvivedet hellivät uimareita",
-          "content": "Helleraja saattaa rikkoutua juhannuksena, joten kannattaa muistaa riittävä nesteytys ja aurinkovoide.",
-          "date": "2026-06-18T11:02:53.000Z",
-          "categories": [
-            "sää",
-            "juhannus",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232286?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Juhannus | Tässä on juhannuksen sää: lämpö hellii ja kokkoa saa polttaa",
-          "content": "Perjantaina on luvassa laajalti poutaa, lauantaina jopa hellettä.",
-          "date": "2026-06-18T06:08:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012087809.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Jänisruttoa varusmiehillä Santahaminassa",
-      "mainCategories": [
-        "Kotimaa",
-        "Sairaudet",
-        "Helsinki"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Taudit | Varusmiehiä on sairastunut jänis­ruttoon Santa­haminassa",
-          "content": "Sairastuneet ovat hyvävointisia, Puolustusvoimista kerrotaan.",
-          "date": "2026-06-18T10:34:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012089072.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Santahaminassa on todettu jänisruttoa – sairastuneiden joukossa varusmiehiä ja kadetteja",
-          "content": "Sairastuneet ovat todennäköisesti altistuneet hyttysen tai muun hyönteisen pistolle. Tauti ei tartu ihmisestä toiseen.",
-          "date": "2026-06-18T10:15:38.000Z",
-          "categories": [
-            "sairaudet",
-            "helsinki",
-            "santahamina",
-            "santahaminan varuskunta",
-            "tartuntataudit",
-            "jänisrutto",
-            "tularemia",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232355?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Santahaminassa jänisruttoa",
-          "content": "Sairastuneet ovat hoidossa ja hyvävointisia.",
-          "date": "2026-06-18T09:38:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012088924.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Britannian pääministerin paikka uhattuna",
-      "mainCategories": [
-        "Ulkomaat",
-        "Britannia",
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Britannia | Nigel Faragen joukot lähtivät aamu­seitsemältä kampittamaan työväen­puolueen tähteä",
-          "content": "Jos työväenpuolueen Andy Burnham voittaa torstaiset täytevaalit, haastaa hän pääministeri Keir Starmerin.",
-          "date": "2026-06-18T10:26:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012068021.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Keir Starmerin haastaja on tänään ehdolla Britannian parlamenttiin",
-          "content": "Andy Burnhamin on uumoiltu haastavan Starmerin puheenjohtajan paikasta.",
-          "date": "2026-06-18T02:05:28.000Z",
-          "categories": [
-            "britannia",
-            "andy burnham",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20232244?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pääministerin ahdinko – pakko tukea pahinta haastajaa",
-          "content": "Britannian pääministerin Keir Starmerin on pakko avittaa haastajaansa Andy Burnhamia. Pikku täytevaalit torstaina voivat ratkaista pääministerin paikan, kirjoittaa erikoistoimittaja Seppo Varjus.",
-          "date": "2026-06-17T15:00:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012084915.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Proteiinipatukoita takaisinvedetään kananmunan vuoksi",
-      "mainCategories": [
-        "Kotimaa",
-        "Elintarvikkeet",
-        "Kananmunat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Proteiinipatukoita vedetään takaisin kananmunajäämän takia",
-          "content": "Takaisinveto koskee Leader- ja Coop-tuotemerkkien proteiinipatukoita, Ruokavirasto tiedottaa.",
-          "date": "2026-06-18T09:55:11.000Z",
-          "categories": [
-            "elintarvikkeet",
-            "ruoka-allergia",
-            "kananmunat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232341?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ostitko tämän S-ryhmän patukan? Varoitus",
-          "content": "Proteiinipatukoissa voi olla kananmunaa.",
-          "date": "2026-06-17T15:41:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012087338.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Takaisinvedot | Leader ja S-ryhmä vetävät takaisin proteiini­patukoita, vaarallisia kananmuna-allergikoille",
-          "content": "Patukat sisältävät kananmunaa, vaikka sitä ei mainita tuotetiedoissa. Patukat ovat vaarallisia vain kananmunalle allergisille.",
-          "date": "2026-06-17T14:45:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012086659.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Vasemmistoliitto esittää epäluottamusta Rydmanille",
-      "mainCategories": [
-        "Politiikka",
-        "Ministerit",
-        "Vasemmisto"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Vasemmistoliitto aikoo esittää epä­luottamusta Rydmanille – ”Ministeri ei ole oman hallinnonalansa diktaattori”",
-          "content": "Sosiaali- ja terveysministeri Wille Rydman (ps) pyrkii tukahduttamaan kansalais­yhteiskuntaa, sanoo vasemmistoliiton puheenjohtaja Minja Koskela.",
-          "date": "2026-06-18T09:00:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012088716.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Järjestöjen avustukset | Vasemmistoliitto uhkaa mittauttaa Rydmanin luottamuksen",
-          "content": "Sosiaali- ja terveysministeri Wille Rydman ei ole perääntynyt sote-järjestöjen avustuskriteerien muuttamisesta.",
-          "date": "2026-06-18T07:53:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012088399.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vasemmistoliiton eduskuntaryhmä uhkaa esittää epäluottamuslausetta sosiaali- ja terveysministeri Wille Rydmanille",
-          "content": "Vasemmistoliitto ei ole tyytyväinen  STEA-avustusten kriteereihin.",
-          "date": "2026-06-18T07:23:31.000Z",
-          "categories": [
-            "politiikka",
-            "ministerit",
-            "vasemmisto"
-          ],
-          "link": "https://yle.fi/a/74-20232300?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "JSN:n päätökset drooniuutisista julkaistu",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -1630,47 +600,220 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000012088069.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "JSN:n langettava päätös",
+          "content": "JSN on antanut Ilta-Sanomille huomautuksen.",
+          "date": "2026-06-18T08:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012088406.html"
         }
       ]
     },
     {
-      "mainTitle": "Eurooppa vahvistaa Naton puolustusta",
+      "mainTitle": "Juhannuksen sää ja liikenneennusteet julkaistu",
       "mainCategories": [
-        "Politiikka",
-        "Nato",
-        "Ydinaseet"
+        "Kotimaa",
+        "Suomi",
+        "Juhannus"
       ],
-      "imageUrl": "/images/nato/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Häkkänen: Eurooppa ottaa suurempaa vastuuta Naton puolustuksesta",
-          "content": "Nato lausui ydin­ase­politiikastaan edellisen kerran 19 vuotta sitten. Yhdysvallat on samaan aikaan vähentämässä Natolle kriisi­tilanteessa osoitettuja joukkojaan.",
-          "date": "2026-06-18T08:15:37.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Juhannusta päästään viettämään jopa helteisessä kelissä, kokot saavat todennäköisesti roihuta",
+          "content": "",
+          "date": "2026-06-18T11:14:19.000Z",
           "categories": [
-            "politiikka",
-            "nato",
-            "ydinaseet"
+            "juhannus",
+            "sääennusteet",
+            "sää",
+            "juhannuskokko",
+            "ilmatieteen laitos",
+            "ilmatieteen laitos (suomi)",
+            "paikalliset",
+            "uutiset"
           ],
-          "link": "https://yle.fi/a/74-20232046?origin=rss"
+          "link": "https://www.ts.fi/a/7014654"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nato-maat aikovat lausua julkisesti ydinaseista ensi kertaa vuosiin – mainitaanko Suomi?",
-          "content": "Myös puolustusministeri Antti Häkkänen osallistuu ydinpeloteryhmän kokoukseen.",
-          "date": "2026-06-17T15:37:31.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Nyt tuli tuore ennuste – juhannuspäivänä Suomi jakautuu kahtia",
+          "content": "Sääennuste tarjoilee juhannuksen viettäjille ensin porkkanaa, sitten piiskaa.",
+          "date": "2026-06-18T07:09:00.000Z",
           "categories": [
-            "nato",
-            "turvallisuus",
-            "puolustus",
-            "politiikka",
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012087828.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Juhannus | Tässä on juhannuksen sää: lämpö hellii ja kokkoa saa polttaa",
+          "content": "Perjantaina on luvassa laajalti poutaa, lauantaina jopa hellettä.",
+          "date": "2026-06-18T06:08:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012087809.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Juhannusliikenne kiihtyy, autojen vauhti hidastuu – katso tästä ruuhka­huippujen ajat ja paikat",
+          "content": "Juhannuksen menoliikenne alkaa jo tänään illalla.",
+          "date": "2026-06-17T12:45:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012085986.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Varusmiehiä sairastunut jänisruttoon Santahaminassa",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Taudit | Varusmiehiä on sairastunut jänis­ruttoon Santa­haminassa",
+          "content": "Sairastuneet ovat hyvävointisia, Puolustusvoimista kerrotaan.",
+          "date": "2026-06-18T10:34:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012089072.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Santahaminassa jänisruttoa",
+          "content": "Sairastuneet ovat hoidossa ja hyvävointisia.",
+          "date": "2026-06-18T09:38:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012088924.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Britannian pääministerin paikka uhattuna",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Britannia | Oikeistopopulistit nousivat aamuvarhain bussiin kampittaakseen mahdollisen tulevan pääministerin",
+          "content": "Jos työväenpuolueen Andy Burnham voittaa torstaiset täytevaalit, haastaa hän pääministeri Keir Starmerin.",
+          "date": "2026-06-18T10:26:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012068021.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pääministerin ahdinko – pakko tukea pahinta haastajaa",
+          "content": "Britannian pääministerin Keir Starmerin on pakko avittaa haastajaansa Andy Burnhamia. Pikku täytevaalit torstaina voivat ratkaista pääministerin paikan, kirjoittaa erikoistoimittaja Seppo Varjus.",
+          "date": "2026-06-17T15:00:00.000Z",
+          "categories": [
             "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20232218?origin=rss"
+          "link": "https://www.is.fi/ulkomaat/art-2000012084915.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat ja Iran solmivat rauhansopimuksen",
+      "mainCategories": [
+        "Maailma",
+        "Iran",
+        "Yhdysvallat"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Yhdysvallat julkaisi Iranin kanssa solmitun sopimuksen, Trump pani nimensä paperiin kesken illallisen",
+          "content": "Varsinaiset rauhanneuvottelut kestävät 60 päivää. Trump uhkasi jatkaa Iranin pommittamista, jos rauhan­sopimusta ei saada neuvoteltua.",
+          "date": "2026-06-18T08:28:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012087538.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Yhdysvallat ja Iran allekirjoittivat alustavan rauhansopimuksen",
+          "content": "",
+          "date": "2026-06-18T04:32:44.000Z",
+          "categories": [
+            "iran",
+            "yhdysvallat",
+            "ulkomaat",
+            "maailma",
+            "politiikka",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7014334"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Yhdysvallat julkaisi Iranin alustavan rauhansopimuksen sisällön",
+          "content": "",
+          "date": "2026-06-17T18:15:00.000Z",
+          "categories": [
+            "rauhanneuvottelut",
+            "yhdysvallat",
+            "iran",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7014239"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Bloomberg julkaisi koko sopimus­tekstin: USA poistaa kaikki pakotteet, Iranin uraanin kohtalo ratkaisematta",
+          "content": "Yhdysvallat lupaa Iranille vähintään 300 miljardia dollaria. Iranin ja Yhdysvaltojen aiesopimuksen yksityiskohdat eivät olleet aiemmin julki.",
+          "date": "2026-06-17T08:59:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012085324.html"
         }
       ]
     },
@@ -1785,41 +928,18 @@
     },
     {
       "mainTitle": "Yhdysvallat ja Iran allekirjoittivat rauhansopimuksen",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat",
-        "Iran"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "mainCategories": [],
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
           "title": "Yhdysvallat ja Iran allekirjoittivat alustavan rauhansopimuksen",
-          "content": "",
-          "date": "2026-06-18T04:32:44.000Z",
-          "categories": [
-            "iran",
-            "yhdysvallat",
-            "ulkomaat",
-            "maailma",
-            "politiikka",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7014334"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Iranin piti langeta polvilleen – nyt pöydällä on sopimus, joka voi muuttaa kaiken",
-          "content": "Asiantuntija Henri Vanhasen mukaan Iran näyttää saaneen neuvotteluihin vahvan lähtöaseman, vaikka maan ydinohjelman vaikeimmat kysymykset on siirretty myöhemmäksi.",
-          "date": "2026-06-18T03:25:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012085620.html"
+          "content": "Pakistanin pääministerin mukaan sopimuksen kunniaksi järjestetään seremonia Sveitsissä perjantaina.",
+          "date": "2026-06-18T03:22:08.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/yhdysvallat-ja-iran-allekirjoittivat-alustavan-rau/13547027?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "kaleva",
@@ -1830,34 +950,6 @@
           "date": "2026-06-17T19:12:10.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/yhdysvallat-julkaisi-iranin-alustavan-rauhansopimu/13546899?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Yhdysvallat julkaisi Iranin alustavan rauhansopimuksen sisällön",
-          "content": "",
-          "date": "2026-06-17T18:15:00.000Z",
-          "categories": [
-            "rauhanneuvottelut",
-            "yhdysvallat",
-            "iran",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7014239"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Bloomberg julkaisi koko sopimus­tekstin: USA poistaa kaikki pakotteet, Iranin uraanin kohtalo ratkaisematta",
-          "content": "Yhdysvallat lupaa Iranille vähintään 300 miljardia dollaria. Iranin ja Yhdysvaltojen aiesopimuksen yksityiskohdat eivät olleet aiemmin julki.",
-          "date": "2026-06-17T08:59:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012085324.html"
         }
       ]
     },
@@ -1927,11 +1019,10 @@
       ]
     },
     {
-      "mainTitle": "Pääradan junaliikenteessä laajoja häiriöitä",
+      "mainTitle": "Junaliikenteessä laajoja viivästyksiä edelleen",
       "mainCategories": [
-        "Liikenne",
-        "Helsinki",
-        "Rautatieliikenne"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1948,128 +1039,50 @@
           "link": "https://www.hs.fi/suomi/art-2000012087362.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kaivuri osui kaapeliin ratatöiden yhteydessä – pääradan vika saatiin korjattua, liikenne palaa hiljalleen normaaliksi",
-          "content": "Osa pääradan vuoroista on tällä hetkellä noin tunnin tai yli kaksikin myöhässä aikatauluistaan.",
-          "date": "2026-06-17T14:28:59.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Junakaaos raiteilla – vika korjattu, viivästykset jatkuvat",
+          "content": "Ratajärjestelmävika on korjattu, mutta viivästykset ovat edelleen mahdollisia.",
+          "date": "2026-06-17T15:21:00.000Z",
           "categories": [
-            "liikenne",
-            "helsinki",
-            "rautatieliikenne",
-            "junien myöhästely",
-            "junat",
-            "tampere",
-            "kotimaa",
-            "pirkanmaa"
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20232212?origin=rss"
+          "link": "https://www.is.fi/kotimaa/art-2000012087294.html"
         }
       ]
     },
     {
-      "mainTitle": "Hallituksen vaalipiirimuutos saa vastustusta",
+      "mainTitle": "S-ryhmän patukoissa kananmunaa, varoitus!",
       "mainCategories": [
-        "Politiikka",
-        "Perustuslait",
-        "Vaalipiirit"
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Vaalit | Hallituksen vaalipiiriesitys saa tylyn vastaanoton keskustalta ja Sdp:ltä",
-          "content": "Hallitus ehdottaa muutosta eduskuntavaalipiirien vähimmäis- ja enimmäismäärään, jotta eduskuntavaalien suhteellisuus paranisi. Keskusta ja Sdp tyrmäävät ehdotuksen.",
-          "date": "2026-06-17T15:56:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012087356.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hallitus haluaa muuttaa perustuslakia ja pienentää vaalipiirien määrää",
-          "content": "Oppositiopuolueet SDP ja keskusta eivät kannata hallituksen esitysluonnosta.",
-          "date": "2026-06-17T13:05:59.000Z",
-          "categories": [
-            "politiikka",
-            "orpon hallitus",
-            "perustuslait",
-            "vaalipiirit"
-          ],
-          "link": "https://yle.fi/a/74-20232183?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Hallitus ehdottaa perustuslakiin muutosta, joka mahdollistaisi vaalipiirien määrän leikkaamisen – Yhdistyvätkö Lapin ja Oulun vaalipiirit?",
-          "content": "Nykyisin perustuslaki edellyttää, että vaalipiirien määrä on 12–18.",
-          "date": "2026-06-17T13:05:33.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hallitus-ehdottaa-perustuslakiin-muutosta-joka-mah/13546505?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainan sota etenee Venäjän kustannuksella",
-      "mainCategories": [
-        "Ulkomaat",
-        "Ukraina",
-        "Venäjä"
-      ],
-      "imageUrl": "/images/venäjä/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän hyökkäyssota | Ukraina tekee juuri nyt niin suuria, että Venäjä ei voi kuin hoiperrella",
-          "content": "On helppo pudota laskuista, vaikka seuraisi sodan kulkua tarkasti. Niin usein Ukraina onnistuu iskemään syvälle Venäjän selustaan.",
-          "date": "2026-06-17T15:05:00.000Z",
-          "categories": [
-            "tilaajille",
-            "kirjeenvaihtajat"
-          ],
-          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012084967.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "”Pidemmän päälle ei hyvältä näytä Venäjän kannalta” – tämä on rintamatilanne Ukrainassa nyt",
-          "content": "Venäjä saattaa onnistua Kostjantynivkan kaupungin valloittamisessa. Se on ollut yksi Venäjän strategisista tavoitteista jo pitkään.",
-          "date": "2026-06-17T13:15:22.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "venäjä",
-            "ukrainan asevoimat",
-            "ukrainan sota",
-            "eurooppa",
-            "aseelliset konfliktit",
-            "avoin lähde",
-            "venäjän hyökkäys ukrainaan 2022",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20232025?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Näin Ukrainan sota eteni 18.5.–16.6.2026",
-          "content": "IS seurasi tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia Venäjällä touko-kesäkuussa 2026.",
-          "date": "2026-06-17T01:20:00.000Z",
+          "title": "Ostitko tämän S-ryhmän patukan? Varoitus",
+          "content": "Proteiinipatukoissa voi olla kananmunaa.",
+          "date": "2026-06-17T15:41:00.000Z",
           "categories": [
-            "ulkomaat"
+            "kotimaa"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012014080.html"
+          "link": "https://www.is.fi/kotimaa/art-2000012087338.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Takaisinvedot | Leader ja S-ryhmä vetävät takaisin proteiini­patukoita, vaarallisia kananmuna-allergikoille",
+          "content": "Patukat sisältävät kananmunaa, vaikka sitä ei mainita tuotetiedoissa. Patukat ovat vaarallisia vain kananmunalle allergisille.",
+          "date": "2026-06-17T14:45:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012086659.html"
         }
       ]
     },
@@ -2120,80 +1133,7 @@
       ]
     },
     {
-      "mainTitle": "KPMG sai työministeriöltä synninpäästön veroista",
-      "mainCategories": [
-        "Talous",
-        "Vastuullisuus",
-        "Kpmg"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Veroneuvoja massimuijille myynyt konsulttijätti KPMG sai synninpäästön työministeriöltä",
-          "content": "Verotuksen porsaanreikää some­vaikuttajille markkinoinut KPMG ei toiminut vastuullisen toiminnan ohjeita vastaan. Finnwatch pettyi työministeriön linjaukseen.",
-          "date": "2026-06-17T13:23:28.000Z",
-          "categories": [
-            "talous",
-            "vastuullisuus",
-            "kpmg",
-            "finnwatch"
-          ],
-          "link": "https://yle.fi/a/74-20232095?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Ministeriöltä linjaus ”massimuijien” vero­neuvonnasta – järjestö: ”Emme voisi olla enempää eri mieltä”",
-          "content": "KPMG:n toiminnasta valittaneen Finnwatchin mukaan viranomainen heitti yritysvastuuohjeet roskakoriin.",
-          "date": "2026-06-17T10:40:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012085753.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Rydman: Järjestöjen rahoitus­kriteerit pysyvät ennallaan",
-      "mainCategories": [
-        "Politiikka",
-        "Järjestöt"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Rydman pysyy kannassaan: järjestöjen rahoitus­kriteereistä ei enää neuvotella – pääministeri Orpo: hallitus käy asian läpi",
-          "content": "Sosiaali- ja terveys­ministeri Wille Rydman sanoo, että järjestö­avustusten uudet kriteerit ovat voimassa ja saatettu asianomaisille tiedoksi.",
-          "date": "2026-06-17T12:53:11.000Z",
-          "categories": [
-            "politiikka",
-            "järjestöt",
-            "wille rydman",
-            "petteri orpo"
-          ],
-          "link": "https://yle.fi/a/74-20232164?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Orpo: Sote-järjestöjen avustuskriteerit käsitellään ennen lomia",
-          "content": "Sosiaali- ja terveysministeri Wille Rydmanin (ps.) mielestä avustuskriteereistä päättäminen ei kuulu hallituksen yhteisesti käsiteltäviin asioihin.",
-          "date": "2026-06-16T16:57:36.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/orpo-sote-jarjestojen-avustuskriteerit-kasitellaan/13544702?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Valio sulkee Oulun tehtaan ja irtisanoo 140 työntekijää",
+      "mainTitle": "Valio sulkee Oulun tehtaan ja irtisanoo 140",
       "mainCategories": [
         "Suomi",
         "Taloussanomat"
@@ -2227,111 +1167,7 @@
       ]
     },
     {
-      "mainTitle": "Eduskunta myönsi hallitukselle luottamuksen",
-      "mainCategories": [
-        "Politiikka",
-        "Välikysymyskeskustelu",
-        "Eduskunta"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Eduskunta hyväksyi kiistellyn lain",
-          "content": "Hallitus sai myös eduskunnan luottamuksen välikysymysäänestyksessä.",
-          "date": "2026-06-17T11:47:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012086447.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Hallitukselle eduskunnan luottamus",
-          "content": "",
-          "date": "2026-06-17T11:42:04.000Z",
-          "categories": [
-            "politiikka",
-            "välikysymyskeskustelu",
-            "eduskunta"
-          ],
-          "link": "https://yle.fi/a/74-20232160?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Eduskunnassa äänestetään hallituksen luottamuksesta",
-          "content": "",
-          "date": "2026-06-16T23:44:32.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20232007?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mette-Marit sai keuhkonsiirron nopeasti",
-      "mainCategories": [
-        "Terveys",
-        "Keuhkot",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mette-Marit sai uudet keuhkot poikkeuksellisen nopeasti – asiantuntijat avaavat syitä",
-          "content": "Normaalisti keuhkonsiirron odotusaika on noin viidestä kuukaudesta vuoteen, kertoo norjalainen media.",
-          "date": "2026-06-17T11:16:06.000Z",
-          "categories": [
-            "terveys",
-            "mette-marit",
-            "keuhkot",
-            "elimensiirto",
-            "lääketiede",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20232141?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Norja | Kruununprinsessa Mette-Maritille tehtiin keuhkon­siirto",
-          "content": "Keuhkonsiirto on tähän mennessä sujunut onnistuneesti, Norjan kuningashuone kertoo tiedotteessaan.",
-          "date": "2026-06-17T07:53:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012085320.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Norjan kruunun­prinsessalle Mette-Maritille on tehty keuhkonsiirto",
-          "content": "",
-          "date": "2026-06-17T07:31:48.000Z",
-          "categories": [
-            "terveys",
-            "norja",
-            "ulkomaat",
-            "keuhkot"
-          ],
-          "link": "https://yle.fi/a/74-20232064?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kotkan kaupunginjohtaja irtisanoutui korvauksella",
+      "mainTitle": "Kotkan kaupunginjohtaja Esa Sirviö irtisanoutui",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2361,91 +1197,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012085523.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Saimaannorppien kuolemat kalastuspyydyksiin jatkuvat",
-      "mainCategories": [
-        "Kotimaa",
-        "Luonto",
-        "Saimaannorppa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Saimaannorppa hukkui rysään",
-          "content": "Suomessa on kuollut tänä vuonna jo seitsemän saimaannorppaa kalastuspyydyksiin.",
-          "date": "2026-06-17T07:05:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012085036.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pienikokoinen kuutti ui rysään ja kuoli –  seitsemäs saimaannorpan pyydyskuolema tänä vuonna",
-          "content": "Norpanpoikanen hukkui lailliseen, estokalterilla varustettuun rysään.",
-          "date": "2026-06-17T06:42:07.000Z",
-          "categories": [
-            "luonto",
-            "saimaannorppa",
-            "kalastus",
-            "kalastusvälineet",
-            "saimaa",
-            "kotimaa",
-            "etelä-savo"
-          ],
-          "link": "https://yle.fi/a/74-20232040?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Vasemmistoliiton kannatus ennätyslukemissa",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "HS-gallup: Vasemmistoliiton ennätyssuosio jatkuu",
-          "content": "Vasemmistoliiton kannatus oli viime kuun kyselyssä korkeimmillaan kolmeen vuosikymmeneen.",
-          "date": "2026-06-17T03:16:24.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/hs-gallup-vasemmistoliiton-ennatyssuosio-jatkuu/13545180?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vasemmistoliiton ja perussuomalaisten kannatukset jatkavat nousuaan HS:n gallupissa",
-          "content": "SDP on yhä suosituin puolue. Vasemmistoliiton kannatus on suurinta noin 30 vuoteen.",
-          "date": "2026-06-16T23:47:42.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20232008?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS-gallup | Lindtmanin Sdp lipuu alaspäin, vasemmisto­liitto nousee – Tutkijan mukaan tilanne on täysin uusi",
-          "content": "Sdp:n vasen kylki vuotaa, mutta punavihreässä blokissa on tällä hetkellä aiempaa enemmän ääniä tarjolla, tutkija Mikko Majander analysoi.",
-          "date": "2026-06-16T23:00:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012080291.html"
         }
       ]
     }
