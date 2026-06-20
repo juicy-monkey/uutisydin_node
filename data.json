@@ -1,90 +1,509 @@
 {
-  "timestamp": "2026-06-20T07:47:33.784Z",
-  "successCount": 14,
-  "failureCount": 8,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34953"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-19274"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-38033"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-819"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35354"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35057"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2026-06-20T10:29:26.681Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Starmerin ero vaaditaan Burnhamin vuoksi",
+      "mainTitle": "Venäjän ohjus räjäytti öljysäiliön Moskovassa",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma",
+        "Venäjä",
+        "Moskova"
+      ],
+      "imageUrl": "/images/ukraina/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "NYT: Venäjän oma ohjus saattoi aiheuttaa Moskovan jätti­räjähdyksen",
+          "content": "Venäjän ilmapuolustuksella on merkittäviä vaikeuksia torjua Ukrainan yhä laajempia drooniparvia. Moskovan Kapotnjan öljynjalostamolla torstaina tapahtunut suuri räjähdys saattoi olla Venäjän oman ilmatorjunnan aiheuttama, kertoo The New York Times. Lehden analysoimien ja varmentamien sosiaalisen median videoiden perusteella räjähdyksen taustalla ei välttämättä ollut ukrainalaisdrooni, vaan venäläinen ilmatorjuntaohjus.",
+          "date": "2026-06-20T10:25:26.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/3e3e7114-9c81-4d80-94ee-e7fd37dcaeba"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Venäjä näyttää ampuneen omaa öljynjalostamoaan Moskovassa",
+          "content": "Venäjä näyttää räjäyttäneen oman öljysäiliönsä Ukrainan torstaisen droonihyökkäyksen yhteydessä.",
+          "date": "2026-06-20T08:01:58.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "venäjä",
+            "moskova",
+            "ukraina",
+            "droonit",
+            "moskovan alue",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232538?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Asiantuntija: Venäjän harhautunut ohjus räjäytti öljysäiliön Moskovassa",
+          "content": "Uudesta kuvakulmasta julkaistu video näyttää, kuinka Venäjän oma ilmatorjuntaohjus osuu öljysäiliöön.",
+          "date": "2026-06-19T17:29:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012090939.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ukraina iski rajusti Moskovaan – some repesi irvailemaan Putinin kustannuksella",
+          "content": "Öljynjalostamon räjähdyksessä ilmaan sinkoutunut säiliön kansi muuttui nopeasti meemiksi. Sen kyytiin sosiaalisen median käyttäjät nostivat muun muassa Vladimir Putinin.",
+          "date": "2026-06-18T19:16:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012089343.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Drooni-iskut | Miksi Moskova palaa? Ukraina on kehittänyt drooni­sotaansa ennen­näkemättömästi",
+          "content": "Moskovan torstaisten savupilvien taustalla on Ukrainan pitkäjänteinen työ droonijoukkojen kehittämiseksi sekä Venäjän kyvyttömyys oppia Ukrainalta.",
+          "date": "2026-06-18T18:00:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012088554.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Massiivinen räjähdys Moskovassa tallentui videolle",
+          "content": "Sosiaalisessa mediassa on levinnyt videoita, joiden kerrotaan näyttävän Ukrainan iskun seurauksia Moskovassa sijaitsevalla öljynjalostamolla.",
+          "date": "2026-06-18T13:07:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012089232.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Moskovan drooni-iskut | Öljysäiliön katto räjähti korkeuksiin: video synnytti meemitulvan",
+          "content": "Ukrainan pitkän kantaman drooni osui jalostamon öljysäiliöön, ja räjähdyksen voimasta yläilmoihin nousi koko katto.",
+          "date": "2026-06-18T10:31:00.000Z",
+          "categories": [
+            "kirjeenvaihtajat"
+          ],
+          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012088806.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mies kuoli parveketurmassa Tikkurilassa",
+      "mainCategories": [
+        "Kotimaa",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies putosi parvekelasin läpi ja kuoli Tikkurilassa – naapurit huolissaan: ”On mennyt luottamus”",
+          "content": "Tragedian jäljet näkyivät kerrostalolla vielä aamulla.",
+          "date": "2026-06-20T10:16:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012091468.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies putosi kuolemaansa Tikkurilassa – kaikki parvekkeet käyttökieltoon",
+          "content": "Onnettomuustutkintakeskus arvioi maanantaina, aloittaako se selvityksen.",
+          "date": "2026-06-20T09:53:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012091548.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kuvat osoittavat parvekelasien kammottavan kunnon – Vantaan turma­parvekkeen naapurilta pysäyttävä tieto",
+          "content": "Naapuri tuli paikalle heti parveketurman jälkeen. Nyt hän on entistä enemmän huolissaan oman parvekkeensa turvallisuudesta. Tikkurilan parveketurma herättää huolta parvekelasien turvallisuudesta. Noin 30-vuotias mies kuoli perjantai-iltana pudottuaan parvekelasin läpi kerrostalon viidennestä kerroksesta Vantaan Tikkurilassa.",
+          "date": "2026-06-20T09:40:15.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/1879aaf6-fa48-4b61-8c6c-664a25b69c6c"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies putosi parvekkeelta Vantaalla ja kuoli – näin kommentoi poliisi",
+          "content": "Kolmekymppinen mies putosi kuolemaansa parvekekaiteen lasituksen läpi.",
+          "date": "2026-06-20T09:40:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012091373.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Nuori mies syöksyi kuolemaansa Vantaalla – Nyt taloyhtiö teki kovan päätöksen",
+          "content": "Taloyhtiön hallitus on tietoinen tapahtuneesta.  Vantaan Tikkurilassa kuoli perjantai-iltana noin 30-vuotias mies, kun hän putosi parvekekaiteen lasituksen läpi kerrostalon viidennestä kerroksesta. Kyseisen kerrostalon taloyhtiön hallituksen puheenjohtaja Reetta Räsänen kertoo, että talossa on varotoimenpiteenä asetettu kaikki parvekkeet käyttökieltoon toistaiseksi.",
+          "date": "2026-06-20T09:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/ca176955-5d52-4368-80bc-9bcb8e988936"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Juhannuksen onnettomuudet | Mies kuoli pudottuaan parveke­kaiteen lasituksen läpi Tikkurilassa",
+          "content": "Mies putosi kerrostalon neljännen kerroksen parvekkeelta Vantaan Tikkurilassa juhannusaaton iltana.",
+          "date": "2026-06-20T07:25:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012090816.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Nuori mies kuollut parveke­turmassa Vantaalla: Turmapaikalla järkyttävä näky – Tämä tiedetään nyt",
+          "content": "Noin 30-vuotiasta miestä yritettiin elvyttää. Varoitus: artikkelin video voi järkyttää. Noin 30-vuotias mies kuoli pudottuaan parvekkeelta Vantaan Tikkurilassa, kerrotaan Itä-Uudenmaan poliisista. Traaginen tapaus sattui Tikkurilantiellä perjantai-iltana. Viranomaiset saivat tiedon tapauksesta noin kello 21.10 maissa.",
+          "date": "2026-06-19T23:07:11.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/4bc5efad-b24c-4f54-a22d-09c7b70c8763"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Rajuilma uhkaa Suomea juhannuksena",
+      "mainCategories": [
+        "Suomi",
+        "Sää",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Helteille dramaattinen loppu – Kohta pamahtaa rajuilma",
+          "content": "Meteorologin mukaan lauantai on vielä poutainen, mutta yöllä saattaa ukkostaa.  Forecan päivystävän meteorologin Anna Latvalan mukaan juhannuspäivä on suurimmassa osassa Suomea lämmin ja poutainen. Lämmintä ilmaa virtaa Suomeen lounaasta. Etelä-Suomesta Etelä-Lapin rajoille asti lämpötila kohoaa lauantaina kahteenkymmeneen asteeseen tai sen yläpuolelle.",
+          "date": "2026-06-20T09:20:08.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/d19654be-f0c5-4128-8ea6-28287d5d50ef"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Ilmatieteen laitos varoittaa rajusta ukonilmasta sunnuntaina",
+          "content": "Juhannuspäivänä on pieni sadekuurojen mahdollisuus.",
+          "date": "2026-06-20T08:41:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012091510.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Juhannuspäivän sää on pääosin lämmin",
+          "content": "",
+          "date": "2026-06-20T04:37:02.000Z",
+          "categories": [
+            "juhannus",
+            "sää",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7015622"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Juhannussää suosii etelää ja länttä – hellelukemiakin luvassa",
+          "content": "Sunnuntaina sää muuttuu epävakaammaksi. Kylmä rintama tuo mukanaan ukkoskuuroja ja sateita Etelä- ja Itä-Suomeen.",
+          "date": "2026-06-19T11:48:32.000Z",
+          "categories": [
+            "sää",
+            "lämpötila",
+            "meteorologit",
+            "suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232482?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Juhannussää | Sunnuntaina mahdollisuus rajuihin ukkosiin",
+          "content": "Juhannus on aurinkoinen ja lämmin, mutta viikonlopun edetessä Suomea saattaa lähestyä ukkosrintama.",
+          "date": "2026-06-19T06:14:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012090693.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Junatörmäyksessä yksi kuollut, yli 80 loukkaantui",
+      "mainCategories": [
+        "Onnettomuudet",
+        "Ulkomaat",
         "Britannia"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Junankuljettaja kuoli ja yli 80 loukkaantui junien törmäyksessä Lontoossa",
+          "content": "Corbysta Lontooseen matkalla ollut juna törmäsi Nottinghamista lähteneeseen junaan perjantaina.",
+          "date": "2026-06-20T08:23:10.000Z",
+          "categories": [
+            "onnettomuudet",
+            "junat",
+            "britannia",
+            "rautatieliikenne",
+            "tapaturmat",
+            "veturinkuljettajat",
+            "lontoo",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232545?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Britannian junaonnettomuus: yksi kuoli, 90 loukkaantui",
+          "content": "",
+          "date": "2026-06-19T19:24:26.000Z",
+          "categories": [
+            "onnettomuudet",
+            "liikenneonnettomuudet",
+            "britannia",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7015572"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Vakava onnettomuus Britanniassa: Kaksi junaa törmäsi, yksi kuolonuhri",
+          "content": "Onnettomuus aiheuttaa merkittäviä häiriöitä iltaliikenteeseen, kertovat brittimediat. Kaksi matkustajajunaa törmäsi toisiinsa Britanniassa noin 100 kilometriä Lontoosta pohjoiseen, kertovat brittimediat ja uutistoimisto Reuters. Turmassa kuoli yksi ihminen ja loukkaantui useita, viranomaiset sanovat. He eivät ole kertoneet uhrien kansallisuuksia.",
+          "date": "2026-06-19T19:17:16.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/6ec31cbf-bd21-4edd-84ba-f9ca12d02117"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kaksi junaa törmännyt Englannissa – ainakin yksi ihminen kuollut",
+          "content": "Yhden ihmisen kerrotaan kuolleen onnettomuudessa. Bedfordin sairaala on varautunut ainakin 50 loukkaantuneen hoitamiseen.",
+          "date": "2026-06-19T17:51:40.000Z",
+          "categories": [
+            "onnettomuudet",
+            "junaliikenne",
+            "englanti",
+            "bedford",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232509?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Useita henkirikoksia tutkitaan eri paikkakunnilla",
+      "mainCategories": [
+        "Kotimaa",
+        "Poliisi",
+        "Rikokset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi tutkii tappoa Varkaudessa",
+          "content": "Uhri kuoli väkivallanteon seurauksena.",
+          "date": "2026-06-20T08:08:56.000Z",
+          "categories": [
+            "rikokset",
+            "poliisi",
+            "varkaus",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232544?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisi tutkii henkirikosta Varkaudessa",
+          "content": "Poliisi tutkii kahden henkilön osallisuutta asiaan.",
+          "date": "2026-06-20T07:46:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012091504.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mies kuoli pudottuaan parvekkeen lasikaiteen läpi Vantaan Tikkurilassa",
+          "content": "Poliisi tutkii tapahtumien kulkua eikä alustavasti epäile rikosta.",
+          "date": "2026-06-19T23:21:18.000Z",
+          "categories": [
+            "onnettomuudet",
+            "vantaa",
+            "poliisi",
+            "tikkurila",
+            "uusimaa",
+            "tikkurilan suuralue",
+            "kaatumis- ja putoamisturmat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232518?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tulipaloa sammuttanut nainen kuoli Kuopiossa",
+          "content": "Nainen oli poliisin mukaan mennyt takaisin sisälle omakotitaloon sammuttamaan paloa.",
+          "date": "2026-06-19T16:46:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012091231.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "MTV: Yksi kuollut Vaasassa",
+          "content": "Poliisi jatkaa tapahtumien tutkintaa.",
+          "date": "2026-06-19T14:16:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012090774.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisi: Tappelu Pieksä­mäellä – yksi kuollut",
+          "content": "Tapahtunutta tutkitaan alustavasti tappona ja useampana pahoinpitelynä.",
+          "date": "2026-06-18T17:42:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012090416.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisi epäilee: Nainen teki henki­rikoksen Kari­joella – uhri kuoli elvytys­yrityksistä huolimatta",
+          "content": "Karijoella yksityisasunnossa tapahtuneessa puukotuksessa menehtyi mies.",
+          "date": "2026-06-18T13:38:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012089900.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Varkaudessa henkirikos juhannuksena tutkinnassa",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Tulipalot"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ihminen surmattu juhannuksena Varkaudessa",
+          "content": "Poliisi tutkii asiaa tappona.  Poliisi tutkii Varkaudessa tapahtunutta henkirikosta, selviää poliisin tiedotteesta. Hätäkeskus sai juhannusaattona 19.6. iltakahdeksalta ilmoituksen Varkaudessa epäselvissä olosuhteissa tapahtuneesta väkivallanteosta.",
+          "date": "2026-06-20T07:51:59.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/ccea642d-f623-4a8c-9a62-4057c38b1a7e"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Useita ihmisiä on kuollut onnettomuuksissa ja hukkumalla – näin juhannus on työllistänyt poliisia",
+          "content": "Juhannusaattona tapahtui useita onnettomuuksia.",
+          "date": "2026-06-20T05:51:37.000Z",
+          "categories": [
+            "onnettomuudet",
+            "tulipalot",
+            "hukkuminen",
+            "kuolema",
+            "rikosepäilyt",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232528?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Starmerin asema uhattuna Burnhamin vuoksi",
+      "mainCategories": [
+        "Ulkomaat",
+        "Britannia",
+        "Maailma"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -117,18 +536,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000012091310.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Keir Starmerille annettu 48 tuntia aikaa erota",
-          "content": "Starmeria vaaditaan väistymään Manchesterin pormestari Andy Burnhamin tieltä. Britannian hallituksen ministerit vaativat pääministeri Keir Starmeria esittämään aikataulun eroamiselleen, kertovat useat brittimediat kuten yleisradio BBC. The Independentin ja The Guardianin lähteiden mukaan useat Starmerin liittolaiset, kuten energiaministeri Ed Miliband ja sisäministeri Shabana Mahmood, olisivat jo vaatineet Starmeria eroamaan ja luovuttamaan pääministerin paikkansa Suur-Manchesterin pormestari Andy Burnhamille.",
-          "date": "2026-06-19T18:10:05.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/fee97bcb-463c-4448-9952-19f5edbd198f"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -139,6 +546,24 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012089409.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Starmer toisti aikeensa olla luovuttamatta",
+          "content": "",
+          "date": "2026-06-19T09:28:28.000Z",
+          "categories": [
+            "britannia",
+            "keir starmer",
+            "andy burnham",
+            "britannian politiikka",
+            "lontoo",
+            "britannian poliittiset puolueet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232479?origin=rss"
         },
         {
           "publisherId": "is",
@@ -163,108 +588,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012090657.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Britannia | Oikeistopopulistit nousivat aamuvarhain bussiin kampittaakseen mahdollisen tulevan pääministerin",
-          "content": "Jos työväenpuolueen Andy Burnham voittaa torstaiset täytevaalit, haastaa hän pääministeri Keir Starmerin.",
-          "date": "2026-06-18T10:26:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012068021.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mies kuoli parveketurmassa Vantaalla",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Vantaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Juhannuksen onnettomuudet | Mies kuoli pudottuaan parveke­kaiteen lasituksen läpi Tikkurilassa",
-          "content": "Mies putosi kerrostalon neljännen kerroksen parvekkeelta Vantaan Tikkurilassa juhannusaaton iltana.",
-          "date": "2026-06-20T07:25:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012090816.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Mies putosi parvekkeelta Vantaalla ja kuoli – näin kommentoi poliisi",
-          "content": "Kolmekymppinen mies putosi kuolemaansa parvekekaiteen lasituksen läpi.",
-          "date": "2026-06-20T05:09:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012091373.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Mies kuoli pudottuaan parvekkeen lasikaiteen läpi Vantaan Tikkurilassa",
-          "content": "Poliisi tutkii tapahtumien kulkua eikä alustavasti epäile rikosta.",
-          "date": "2026-06-19T23:21:18.000Z",
-          "categories": [
-            "onnettomuudet",
-            "vantaa",
-            "poliisi",
-            "tikkurila",
-            "uusimaa",
-            "tikkurilan suuralue",
-            "kaatumis- ja putoamisturmat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232518?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Nuori mies kuollut parveke­turmassa Vantaalla: Turmapaikalla järkyttävä näky – Tämä tiedetään nyt",
-          "content": "Noin 30-vuotiasta miestä yritettiin elvyttää. Varoitus: artikkelin video voi järkyttää. Noin 30-vuotias mies kuoli pudottuaan parvekkeelta Vantaan Tikkurilassa, kerrotaan Itä-Uudenmaan poliisista. Traaginen tapaus sattui Tikkurilantiellä perjantai-iltana. Viranomaiset saivat tiedon tapauksesta noin kello 21.10 maissa.",
-          "date": "2026-06-19T23:07:11.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/4bc5efad-b24c-4f54-a22d-09c7b70c8763"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi: Tappelu Pieksä­mäellä – yksi kuollut",
-          "content": "Tapahtunutta tutkitaan alustavasti tappona ja useampana pahoinpitelynä.",
-          "date": "2026-06-18T17:42:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012090416.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Mies vangittiin tapon yrityksestä Turussa",
-          "content": "Poliisi löysi asunnosta vakavasti loukkaantuneen henkilön.",
-          "date": "2026-06-18T11:28:00.000Z",
-          "categories": [
-            "turun seutu"
-          ],
-          "link": "https://www.is.fi/turun-seutu/art-2000012089461.html"
         }
       ]
     },
@@ -302,7 +625,7 @@
       ]
     },
     {
-      "mainTitle": "Juhannusjuhlat ja menoliikenne käynnissä",
+      "mainTitle": "Juhannusliikenne vilkastuu juhannuspäivänä",
       "mainCategories": [
         "Juhannus",
         "Kotimaa",
@@ -338,77 +661,215 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20232450?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Juhannussää lämmin, ukkoset mahdollisia",
-      "mainCategories": [
-        "Kotimaa",
-        "Sää",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Juhannuspäivän sää on pääosin lämmin",
-          "content": "",
-          "date": "2026-06-20T04:37:02.000Z",
-          "categories": [
-            "juhannus",
-            "sää",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7015622"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Supersolu-ukkoset mahdollisia Suomen lähellä juhannuksena – ”Meilläkin on syytä varautua”",
-          "content": "Forecan mukaan Pohjois-Euroopassa on ”potentiaalia kuluvan kesän rajuimmalle ukkosepisodille”.  Juhannuspäivä jatkuu Suomessa aaton tapaan pääosin lämpimänä, mutta juhannusjuhlia voivat haitata myös rankkasateet, tuulenpuuskat ja salamointi. Näin ennustaa Foreca blogissaan. Hellerajan ennustetaan menevän juhannuspäivänä rikki ainakin maan etelä- ja länsiosissa. Helleraja rikkoutuu, kun 25 astetta ylittyy.",
-          "date": "2026-06-19T18:35:47.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/f3456eae-928e-4e5a-9ada-13a750921632"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Juhannussää suosii etelää ja länttä – hellelukemiakin luvassa",
-          "content": "Sunnuntaina sää muuttuu epävakaammaksi. Kylmä rintama tuo mukanaan ukkoskuuroja ja sateita Etelä- ja Itä-Suomeen.",
-          "date": "2026-06-19T11:48:32.000Z",
+          "title": "Juhannus­liikenne on nyt vilkkaimmillaan – asiantuntija kehottaa unohtamaan kiireen: ”Saavutaan se varttitunti myöhemmin”",
+          "content": "Juhannuksen menoliikenne ajoittuu etenkin torstai-iltapäivään.",
+          "date": "2026-06-18T11:50:11.000Z",
           "categories": [
-            "sää",
-            "lämpötila",
-            "meteorologit",
-            "suomi",
-            "kotimaa"
+            "liikenne",
+            "juhannus",
+            "juhannusliikenne",
+            "juhlapäivät",
+            "kesä",
+            "kotimaa",
+            "etelä-savo",
+            "päijät-häme"
           ],
-          "link": "https://yle.fi/a/74-20232482?origin=rss"
+          "link": "https://yle.fi/a/74-20232275?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump esitteli uuden Air Force One -koneen",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Lentokoneet"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump esitteli Qatarin lahjoittaman Air Force One -lentokoneen",
+          "content": "",
+          "date": "2026-06-20T04:31:27.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "lentokoneet",
+            "yhdysvaltain presidentti",
+            "air force one",
+            "qatar",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232526?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trump paljasti Qatarin lahjan",
+          "content": "Yhdysvaltain presidentille tarkoitetulla koneella on poikkeuksellinen historia. Yhdysvaltain presidentti Donald Trump paljasti uuden Air Force One -koneen. Boeing 747–8 -kone liittyy Yhdysvaltain presidentilliseen lentolaivueeseen.",
+          "date": "2026-06-20T02:01:11.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/1e272035-5fe1-4c1c-8adc-1ea298704a76"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Australia vahvisti H5N1-lintu­influenssatapauksen",
+      "mainCategories": [
+        "Australia",
+        "Lintuinfluenssa",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/australia/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Australiassa vahvistettu H5N1-tyypin lintu­influenssa­tapaus",
+          "content": "",
+          "date": "2026-06-20T00:35:32.000Z",
+          "categories": [
+            "terveys",
+            "australia",
+            "lintuinfluenssa",
+            "virustaudit",
+            "länsi-australia",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232520?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Australia raportoi H5N1-tyypin lintu­influenssa­epäilyn",
+          "content": "Australia on ainoa maanosa, jossa ei ole vielä varmistettua tapausta tästä viruksesta mantereella.",
+          "date": "2026-06-19T08:34:26.000Z",
+          "categories": [
+            "eläimet",
+            "luonto",
+            "australia",
+            "lintuinfluenssa",
+            "taudit",
+            "länsi-australia",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232472?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat vastustaa Kuuban talousuudistuksia",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Kuuba"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvallat tyrmää Kuuban suunnittelemat historialliset talous­uudistukset",
+          "content": "Kuuban lainsäätäjät hyväksyivät torstaina lähes 200 vapaan markkina­talouden uudistusta, joiden tavoitteena on pelastaa kommunistinen saari talous­kriisiltä.",
+          "date": "2026-06-20T00:24:25.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "yhdysvallat",
+            "kuuba",
+            "kuuban politiikka",
+            "kansainväliset pakotteet",
+            "kommunistiset puolueet",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232519?origin=rss"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Juhannussää | Sunnuntaina mahdollisuus rajuihin ukkosiin",
-          "content": "Juhannus on aurinkoinen ja lämmin, mutta viikonlopun edetessä Suomea saattaa lähestyä ukkosrintama.",
-          "date": "2026-06-19T06:14:00.000Z",
+          "title": "Kuuba | Laaja uudistuspaketti veisi Kuuban kohti markkinataloutta",
+          "content": "Kuuba on taipumassa merkittäviin uudistuksiin Yhdysvaltain ankarien pakotteiden seurauksena.",
+          "date": "2026-06-18T22:27:00.000Z",
           "categories": [
-            "suomi"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000012090693.html"
+          "link": "https://www.hs.fi/maailma/art-2000012090590.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
+          "content": "Kuuba on taipumassa merkittäviin uudistuksiin Yhdysvaltain ankarien pakotteiden seurauksena.",
+          "date": "2026-06-18T22:27:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012090584.html"
         }
       ]
     },
     {
-      "mainTitle": "Mies vapautettiin krokotiili-incidentin vuoksi",
+      "mainTitle": "EU-johtajien erimielisyydet Venäjä-yhteyksistä",
+      "mainCategories": [
+        "Ulkomaat",
+        "Huippukokous",
+        "Venäjä"
+      ],
+      "imageUrl": "/images/venäjä/5.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Politico: EU lähestyi Putinia kulissien takana – Viron pääministeri raivostui",
+          "content": "Tähän artikkeliin on koottu Ukrainan sodan keskeisimmät tapahtumat perjantailta 19. kesäkuuta 2026. Kyseessä on sodan 1577. päivä. Euroopan unionissa (EU) on voimakasta erimielisyyttä siitä, miten ja milloin keskusteluyhteys Venäjän presidentti Vladimir Putiniin pitäisi avata ja kenen hänen kanssaan tulisi puhua, kertoo Politico viiden viranomaislähteensä pohjalta. Lähteet kertovat, että Ranskan presidentti Emmanuel Macron ja Saksan liittokansleri Friedrich Merz haukkuivat huippukokouksessa voimakkaasti Eurooppa-neuvoston puheenjohtaja António Costan yrityksiä ottaa yhteys Kremliin.",
+          "date": "2026-06-19T20:35:16.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/ebdd8d08-f543-484b-978e-60e4e688fa0b"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Eurooppa-neuvoston puheenjohtajan sooloilu Venäjä-yhteyksissä hermostutti monia EU-johtajia",
+          "content": "Huippukokous päätyi siihen, ettei Venäjän kanssa ole aika neuvotella.",
+          "date": "2026-06-19T15:58:29.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "euroopan unioni",
+            "huippukokous",
+            "antónio costa",
+            "venäjä",
+            "neuvottelut",
+            "ukraina",
+            "petteri orpo",
+            "volodymyr zelenskyi",
+            "vladimir putin",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232502?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Krokotiiliin heitetty poika sai vammoja",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -438,52 +899,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012090316.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin ja Melonin välit kiristyneet",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/trump/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kova syytös liittolaiselta: Trump nöyristelee vihollisten edessä",
-          "content": "Trumpin välit läheiseen liittolaiseen ovat viilenneet. Aiemmin Euroopan ”Trump-kuiskaajana” pidetyn Italian pääministeri Giorgia Melonin vihanpito Yhdysvaltain presidentti Donald Trumpin kanssa ottaa uusia kierroksia. Meloni syyttää sosiaalisessa mediassa Trumpin myötäilevän länsimaiden vihollisia. Trump suututti Melonin väittämällä, että Italian pääministeri olisi kerjännyt päästä kuvaan presidentin kanssa G7-maiden huippukokouksessa.",
-          "date": "2026-06-19T19:59:43.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/2eb55e55-2269-44f6-b956-d7e9f36fb8ac"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trumpin sanat ”loukkasivat koko Italiaa” – Melonilta tulinen vastaus",
-          "content": "Kaikki alkoi yhteiskuvasta.",
-          "date": "2026-06-19T17:57:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012091213.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Italia | Meloni hermostui, kun Trump väitti hänen anelleen yhteis­kuvaa",
-          "content": "Italian ulkoministeri perui suunnitellun vierailunsa Yhdysvaltoihin Trumpin puheiden takia.",
-          "date": "2026-06-19T15:57:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012091087.html"
         }
       ]
     },
@@ -560,57 +975,7 @@
       ]
     },
     {
-      "mainTitle": "Nainen kuoli tulipalossa Kuopiossa",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Kuopio"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tulipaloa sammuttanut nainen kuoli Kuopiossa",
-          "content": "Nainen oli poliisin mukaan mennyt takaisin sisälle omakotitaloon sammuttamaan paloa.",
-          "date": "2026-06-19T16:46:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012091231.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nainen palasi sammuttamaan palavaa omakotitaloa Kuopiossa ja kuoli",
-          "content": "Poliisin mukaan asunnossa asui mies ja nainen, jotka olivat sisällä talossa tulipalon syttyessä.",
-          "date": "2026-06-19T11:54:00.000Z",
-          "categories": [
-            "onnettomuudet",
-            "kuopio",
-            "pohjois-savo",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232490?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi epäilee: Nainen teki henki­rikoksen Kari­joella – uhri kuoli elvytys­yrityksistä huolimatta",
-          "content": "Karijoella yksityisasunnossa tapahtuneessa puukotuksessa menehtyi mies.",
-          "date": "2026-06-18T13:38:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012089900.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nainen ja nuori mies hukkui vedessä",
+      "mainTitle": "Nainen kuoli Helsingissä, mies Mikkelissä hukkui",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -672,6 +1037,45 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012090843.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Meloni syyttää Trumpia perättömistä väitteistä",
+      "mainCategories": [
+        "G7",
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Italia | Meloni hermostui, kun Trump väitti hänen anelleen yhteis­kuvaa",
+          "content": "Italian ulkoministeri perui suunnitellun vierailunsa Yhdysvaltoihin Trumpin puheiden takia.",
+          "date": "2026-06-19T15:57:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012091087.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Italian Meloni syyttää Trumpia perättömistä puheista",
+          "content": "Donald Trumpin mukaan Giorgia Meloni halusi kovasti yhteiskuvaa, Meloni kiistää tämän.",
+          "date": "2026-06-19T11:54:55.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "giorgia meloni",
+            "donald trump",
+            "g7",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20232491?origin=rss"
         }
       ]
     },
@@ -748,12 +1152,55 @@
       ]
     },
     {
+      "mainTitle": "Yhdysvaltain maavoimaministerin vierailu Mikkelissä",
+      "mainCategories": [
+        "Politiikka",
+        "Puolustuspolitiikka",
+        "Puolustusministeriö"
+      ],
+      "imageUrl": "/images/yhdysval/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Häkkänen ja Yhdysvaltain maavoima­ministeri vierailulla Mikkelissä",
+          "content": "Ministerit ovat keskustelleet muun muassa ajankohtaisista Nato-kysymyksistä.",
+          "date": "2026-06-19T14:29:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012090963.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvaltain maavoimaministeri vierailee Suomessa – tapaa Mikkelissä puolustusministeri Häkkäsen",
+          "content": "Työvierailun aikana ministeri Driscoll tapaa myös puolustusvoimien johtoa ja tutustuu Suomen puolustusteollisuuteen.",
+          "date": "2026-06-18T12:30:53.000Z",
+          "categories": [
+            "politiikka",
+            "puolustuspolitiikka",
+            "puolustusministeriö",
+            "mikkeli",
+            "antti häkkänen",
+            "maanpuolustus",
+            "yhdysvallat",
+            "etelä-savo",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232395?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Kiina ostaa kiinteistöjä Kulosaaren alueelta",
       "mainCategories": [
         "Politiikka",
         "Kotimaa"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -821,7 +1268,7 @@
       ]
     },
     {
-      "mainTitle": "Linnanmäen Salama-laite jälleen käytössä",
+      "mainTitle": "Linnanmäen Salama-laite avattu jälleen käyttöön",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -845,24 +1292,6 @@
           "link": "https://yle.fi/a/74-20232468?origin=rss"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Huvipuistolaite jäi jumiin Linnanmäellä – neljä ihmistä pelastettiin",
-          "content": "Aikuiset ja lapset odottivat apua noin puoli tuntia.",
-          "date": "2026-06-18T19:03:45.000Z",
-          "categories": [
-            "onnettomuudet",
-            "linnanmäki",
-            "huvipuistot",
-            "pelastustoimi",
-            "vuoristoradat",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20232440?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -873,53 +1302,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012090411.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukraina tehostaa droonisotaa Moskovassa",
-      "mainCategories": [
-        "Maailma",
-        "Kirjeenvaihtajat",
-        "Politiikka"
-      ],
-      "imageUrl": "/images/ukraina/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Moskovan drooni-iskut | Venäjä ei ehdi kiusata Eurooppaa, koska se on hädässä Ukrainan kanssa",
-          "content": "Iskut syvälle Venäjälle ovat kääntäneet sotilaallisen tilanteen Ukrainan eduksi, uskoo puolustus­valiokunnan puheenjohtaja Heikki Autto. Myös ulkoasiain­valiokunnan puheenjohtaja Johannes Koskinen näkee iskujen tasapainottavan tilannetta.",
-          "date": "2026-06-19T08:10:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012088945.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Drooni-iskut | Miksi Moskova palaa? Ukraina on kehittänyt drooni­sotaansa ennen­näkemättömästi",
-          "content": "Moskovan torstaisten savupilvien taustalla on Ukrainan pitkäjänteinen työ droonijoukkojen kehittämiseksi sekä Venäjän kyvyttömyys oppia Ukrainalta.",
-          "date": "2026-06-18T18:00:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012088554.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Moskovan drooni-iskut | Öljysäiliön katto räjähti korkeuksiin: video synnytti meemitulvan",
-          "content": "Ukrainan pitkän kantaman drooni osui jalostamon öljysäiliöön, ja räjähdyksen voimasta yläilmoihin nousi koko katto.",
-          "date": "2026-06-18T10:31:00.000Z",
-          "categories": [
-            "kirjeenvaihtajat"
-          ],
-          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012088806.html"
         }
       ]
     },
@@ -1012,127 +1394,28 @@
       ]
     },
     {
-      "mainTitle": "Kuuba siirtymässä kohti markkinataloutta",
+      "mainTitle": "Hegseth opetti Eurooppaa Amerikka ensin -periaatteesta",
       "mainCategories": [
-        "Maailma",
+        "Nato",
+        "Politiikka",
         "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kuuba | Laaja uudistuspaketti veisi Kuuban kohti markkinataloutta",
-          "content": "Kuuba on taipumassa merkittäviin uudistuksiin Yhdysvaltain ankarien pakotteiden seurauksena.",
-          "date": "2026-06-18T22:27:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012090590.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kuubassa suunnitellaan valtavaa mullistusta kohti markkinataloutta",
-          "content": "Kuuba on taipumassa merkittäviin uudistuksiin Yhdysvaltain ankarien pakotteiden seurauksena.",
-          "date": "2026-06-18T22:27:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012090584.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Veteraanijärjestöjen avustuskäytännöt kyseenalaistettu",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Järjestöjen avustukset | HS selvitti: Veteraani­järjestö ja saamelaisten päihde­työ ovat käyttäneet rahansa Suomen huonoiten",
-          "content": "Saamelaisjärjestö pelkää, että Wille Rydmanin uudet tiukemmat sote-järjestöjen avustuskriteerit osuvat saamelaisiin.",
-          "date": "2026-06-18T18:24:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012089435.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Järjestöjen avustukset | Vasemmistoliitto uhkaa mittauttaa Rydmanin luottamuksen",
-          "content": "Sosiaali- ja terveysministeri Wille Rydman ei ole perääntynyt sote-järjestöjen avustuskriteerien muuttamisesta.",
-          "date": "2026-06-18T07:53:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012088399.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ukrainan isku aiheutti räjähdyksen Moskovassa",
-      "mainCategories": [
-        "Kirjeenvaihtajat",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Moskovassa | Näin Moskovan savuavan, enkä ollut uskoa silmiäni",
-          "content": "Tällä kertaa Ukrainan iskuissa ei ollut kyse vain kaukaisista räjähdyksistä tai Telegram-videoista. Moskova savusi oikeasti, raportoi kirjeenvaihtaja Maarit Uber paikan päältä.",
-          "date": "2026-06-18T16:40:00.000Z",
-          "categories": [
-            "tilaajille",
-            "kirjeenvaihtajat"
-          ],
-          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012088570.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Massiivinen räjähdys Moskovassa tallentui videolle",
-          "content": "Sosiaalisessa mediassa on levinnyt videoita, joiden kerrotaan näyttävän Ukrainan iskun seurauksia Moskovassa sijaitsevalla öljynjalostamolla.",
-          "date": "2026-06-18T13:07:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012089232.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Iranin suunnitelmat uhkaavat Natoa",
-      "mainCategories": [
-        "Maailma",
-        "Politiikka"
       ],
       "imageUrl": "/images/nato/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Häkkänen: Jos Iran onnistuu suunnitelmissaan, on se Natolle uhka",
-          "content": "Naton päämajassa Brysselissä käynnistyi erityisen kiinnostava puolustusministerikokous, sillä paikalle saapui torstaiaamuna Yhdysvaltain puolustusministeri Pete Hegseth.",
-          "date": "2026-06-18T16:17:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Pete Hegseth kävi taas opettamassa Euroopalle, mitä tarkoittaa Amerikka ensin",
+          "content": "Viime aikojen vaikeudet Naton sisällä ovat yhdistäneet Euroopan maita suhteessa Venäjän uhkaan.",
+          "date": "2026-06-18T17:10:25.000Z",
           "categories": [
-            "politiikka"
+            "nato",
+            "donald trump",
+            "politiikka",
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000012083871.html"
+          "link": "https://yle.fi/a/74-20232060?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -1145,98 +1428,6 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012090226.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "JSN antoi huomautuksia drooniuutisista",
-      "mainCategories": [
-        "Kotimaa",
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "JSN:n langettava päätös",
-          "content": "JSN on antanut Ilta-Sanomille huomautuksen.",
-          "date": "2026-06-18T11:42:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012088347.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "JSN:ltä langettava päätös Ilta-Sanomien drooniuutisesta",
-          "content": "JSN piti tekoälyn tuottaman virheellisen tiedon julkaisemista vakavana virheenä. Ilta-Sanomat katsoi, ettei Journalistin ohjeita rikottu.",
-          "date": "2026-06-18T08:59:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012088609.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Journalismi | JSN antoi HS:lle huomautuksen virheellisestä drooni­uutisesta",
-          "content": "Julkisen sanan neuvosto antoi Helsingin Sanomille huomautuksen. Neuvoston mukaan lehti luopui journalistisesta päätösvallastaan, eikä osoittanut riittävää lähdekriittisyyttä.",
-          "date": "2026-06-18T08:30:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012088069.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "JSN:n langettava päätös",
-          "content": "JSN on antanut Ilta-Sanomille huomautuksen.",
-          "date": "2026-06-18T08:00:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012088406.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Varusmiehiä sairastunut jänisruttoon Santahaminassa",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Taudit | Varusmiehiä on sairastunut jänis­ruttoon Santa­haminassa",
-          "content": "Sairastuneet ovat hyvävointisia, Puolustusvoimista kerrotaan.",
-          "date": "2026-06-18T10:34:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012089072.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Santahaminassa jänisruttoa",
-          "content": "Sairastuneet ovat hoidossa ja hyvävointisia.",
-          "date": "2026-06-18T09:38:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012088924.html"
         }
       ]
     }
