@@ -1,26 +1,8 @@
 {
-  "timestamp": "2026-06-19T20:13:44.682Z",
-  "successCount": 12,
-  "failureCount": 10,
+  "timestamp": "2026-06-20T07:47:33.784Z",
+  "successCount": 14,
+  "failureCount": 8,
   "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837"
-      },
-      "reason": {}
-    },
     {
       "url": {
         "publisherId": "yle",
@@ -96,59 +78,32 @@
   ],
   "feeds": [
     {
-      "mainTitle": "Trumpin ja Melonin välit kiristyvät",
+      "mainTitle": "Starmerin ero vaaditaan Burnhamin vuoksi",
       "mainCategories": [
         "Ulkomaat",
-        "Maailma"
+        "Maailma",
+        "Britannia"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kova syytös liittolaiselta: Trump nöyristelee vihollisten edessä",
-          "content": "Trumpin välit läheiseen liittolaiseen ovat viilenneet. Aiemmin Euroopan ”Trump-kuiskaajana” pidetyn Italian pääministeri Giorgia Melonin vihanpito Yhdysvaltain presidentti Donald Trumpin kanssa ottaa uusia kierroksia. Meloni syyttää sosiaalisessa mediassa Trumpin myötäilevän länsimaiden vihollisia. Trump suututti Melonin väittämällä, että Italian pääministeri olisi kerjännyt päästä kuvaan presidentin kanssa G7-maiden huippukokouksessa.",
-          "date": "2026-06-19T19:59:43.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "BBC: Paine tiivistyy Britannian Starmerin ympärillä",
+          "content": "Starmerin toivotaan luovuttavan paikkansa Suur-Manchesterin pormestarille Andy Burnhamille.",
+          "date": "2026-06-20T07:25:02.000Z",
           "categories": [
+            "britannia",
+            "bbc",
+            "keir starmer",
+            "työväenpuolue (uk)",
+            "britannian politiikka",
+            "puoluejohtajat",
             "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/2eb55e55-2269-44f6-b956-d7e9f36fb8ac"
+          "link": "https://yle.fi/a/74-20232540?origin=rss"
         },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump väitti Melonin ”anelleen” yhteiskuvaa – ministeri: Koko Italiaa loukattu",
-          "content": "Kaikki alkoi yhteiskuvasta.",
-          "date": "2026-06-19T17:57:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012091213.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Italia | Meloni hermostui, kun Trump väitti hänen anelleen yhteis­kuvaa",
-          "content": "Italian ulkoministeri perui suunnitellun vierailunsa Yhdysvaltoihin Trumpin puheiden takia.",
-          "date": "2026-06-19T15:57:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012091087.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Keir Starmerin ero vaaditaan nopeasti",
-      "mainCategories": [
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -174,6 +129,18 @@
           "link": "https://www.iltalehti.fi/ulkomaat/a/fee97bcb-463c-4448-9952-19f5edbd198f"
         },
         {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Britannia | Pääministeri­peli alkoi Britanniassa, kun voittoisa ”Pohjoisen kuningas” pääsee haastamaan Starmerin",
+          "content": "Nyt odotetaan, väistyykö istuva pääministeri vapaaehtoisesti.",
+          "date": "2026-06-19T10:41:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012089409.html"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -196,15 +163,27 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012090657.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Britannia | Oikeistopopulistit nousivat aamuvarhain bussiin kampittaakseen mahdollisen tulevan pääministerin",
+          "content": "Jos työväenpuolueen Andy Burnham voittaa torstaiset täytevaalit, haastaa hän pääministeri Keir Starmerin.",
+          "date": "2026-06-18T10:26:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012068021.html"
         }
       ]
     },
     {
-      "mainTitle": "Juhannuksen onnettomuudet vaativat kaksi uhria",
+      "mainTitle": "Mies kuoli parveketurmassa Vantaalla",
       "mainCategories": [
         "Kotimaa",
-        "Suomi",
-        "Hukkuneet"
+        "Onnettomuudet",
+        "Vantaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -212,9 +191,9 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Juhannuksen onnettomuudet | Nainen kuoli, kun hän meni sammuttamaan oma­koti­talon tulipaloa Kuopiossa",
-          "content": "Juhannusaattona seitsemän­kymppinen nainen löytyi kuolleena vedestä Helsingin Lauttasaaressa.",
-          "date": "2026-06-19T18:44:00.000Z",
+          "title": "Juhannuksen onnettomuudet | Mies kuoli pudottuaan parveke­kaiteen lasituksen läpi Tikkurilassa",
+          "content": "Mies putosi kerrostalon neljännen kerroksen parvekkeelta Vantaan Tikkurilassa juhannusaaton iltana.",
+          "date": "2026-06-20T07:25:00.000Z",
           "categories": [
             "suomi"
           ],
@@ -224,63 +203,168 @@
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Tulipaloa sammuttanut nainen kuoli Kuopiossa",
-          "content": "Nainen oli poliisin mukaan mennyt takaisin sisälle omakotitaloon sammuttamaan paloa.",
-          "date": "2026-06-19T16:46:00.000Z",
+          "title": "Mies putosi parvekkeelta Vantaalla ja kuoli – näin kommentoi poliisi",
+          "content": "Kolmekymppinen mies putosi kuolemaansa parvekekaiteen lasituksen läpi.",
+          "date": "2026-06-20T05:09:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000012091231.html"
+          "link": "https://www.is.fi/kotimaa/art-2000012091373.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Mies kuoli pudottuaan parvekkeen lasikaiteen läpi Vantaan Tikkurilassa",
+          "content": "Poliisi tutkii tapahtumien kulkua eikä alustavasti epäile rikosta.",
+          "date": "2026-06-19T23:21:18.000Z",
+          "categories": [
+            "onnettomuudet",
+            "vantaa",
+            "poliisi",
+            "tikkurila",
+            "uusimaa",
+            "tikkurilan suuralue",
+            "kaatumis- ja putoamisturmat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232518?origin=rss"
         },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Omakotitalo paloi – Nainen kuoli",
-          "content": "Nainen oli mennyt sammuttamaan paloa. Nainen on kuollut tulipalossa Kuopiossa. Asiasta kertoo Itä-Suomen poliisilaitos tiedotteessa. Omakotitalo paloi juhannusaattona yhden aikaan iltapäivällä Vehmersalmen lähellä.",
-          "date": "2026-06-19T16:41:54.000Z",
+          "title": "Nuori mies kuollut parveke­turmassa Vantaalla: Turmapaikalla järkyttävä näky – Tämä tiedetään nyt",
+          "content": "Noin 30-vuotiasta miestä yritettiin elvyttää. Varoitus: artikkelin video voi järkyttää. Noin 30-vuotias mies kuoli pudottuaan parvekkeelta Vantaan Tikkurilassa, kerrotaan Itä-Uudenmaan poliisista. Traaginen tapaus sattui Tikkurilantiellä perjantai-iltana. Viranomaiset saivat tiedon tapauksesta noin kello 21.10 maissa.",
+          "date": "2026-06-19T23:07:11.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/276571f3-b1ec-44e5-ad5d-75c1e5d078ce"
+          "link": "https://www.iltalehti.fi/kotimaa/a/4bc5efad-b24c-4f54-a22d-09c7b70c8763"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Nainen kuoli veteen Lauttasaaressa",
-          "content": "Uimaan lähtenyt nainen löytyi rantavedestä.",
-          "date": "2026-06-19T16:04:00.000Z",
+          "title": "Poliisi: Tappelu Pieksä­mäellä – yksi kuollut",
+          "content": "Tapahtunutta tutkitaan alustavasti tappona ja useampana pahoinpitelynä.",
+          "date": "2026-06-18T17:42:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000012091214.html"
+          "link": "https://www.is.fi/kotimaa/art-2000012090416.html"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Nainen löytyi kuolleena merestä Helsingissä, nuori mies hukkui Mikkelissä",
-          "content": "",
-          "date": "2026-06-19T13:10:54.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies vangittiin tapon yrityksestä Turussa",
+          "content": "Poliisi löysi asunnosta vakavasti loukkaantuneen henkilön.",
+          "date": "2026-06-18T11:28:00.000Z",
           "categories": [
-            "hukkuneet",
-            "juhannus",
-            "kotimaa",
-            "uutiset"
+            "turun seutu"
           ],
-          "link": "https://www.ts.fi/a/7015452"
+          "link": "https://www.is.fi/turun-seutu/art-2000012089461.html"
         }
       ]
     },
     {
-      "mainTitle": "Rajut ukkoset mahdollisia juhannuksena Suomessa",
+      "mainTitle": "EU avasi diplomaattisen kanavan Kremliin",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa"
+        "Politiikka"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Costa avasi yhteyden Kremliin, Orpo kuuli asiasta jälkikäteen",
+          "content": "Eurooppa-neuvoston puheenjohtaja António Costa puolustaa yhteydenottoa Kremliin sillä, ettei EU voi olla ulkopuolisten viestinviejien varassa.",
+          "date": "2026-06-20T07:20:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012086604.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | EU valmistautuu rauhan­neuvotteluihin – Bryssel avasi diplomaattisen kanavan Kremliin",
+          "content": "Eurooppa-neuvoston puheenjohtaja avasi diplomaattisen kanavan Kremliin. Osalle EU-johtajista aloite tuli yllätyksenä.",
+          "date": "2026-06-19T02:55:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012086595.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Juhannusjuhlat ja menoliikenne käynnissä",
+      "mainCategories": [
+        "Juhannus",
+        "Kotimaa",
+        "Liikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Lippu liehuu juhannuspäivänä Suomen lipun kunniaksi",
+          "content": "",
+          "date": "2026-06-20T04:38:18.000Z",
+          "categories": [
+            "juhannus",
+            "liputuspäivät",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7015621"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Juhannuksen menoliikenne jatkuu tänään",
+          "content": "",
+          "date": "2026-06-18T22:17:42.000Z",
+          "categories": [
+            "liikenne",
+            "juhannus",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232450?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Juhannussää lämmin, ukkoset mahdollisia",
+      "mainCategories": [
+        "Kotimaa",
+        "Sää",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Juhannuspäivän sää on pääosin lämmin",
+          "content": "",
+          "date": "2026-06-20T04:37:02.000Z",
+          "categories": [
+            "juhannus",
+            "sää",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7015622"
+        },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
@@ -294,6 +378,22 @@
           "link": "https://www.iltalehti.fi/kotimaa/a/f3456eae-928e-4e5a-9ada-13a750921632"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Juhannussää suosii etelää ja länttä – hellelukemiakin luvassa",
+          "content": "Sunnuntaina sää muuttuu epävakaammaksi. Kylmä rintama tuo mukanaan ukkoskuuroja ja sateita Etelä- ja Itä-Suomeen.",
+          "date": "2026-06-19T11:48:32.000Z",
+          "categories": [
+            "sää",
+            "lämpötila",
+            "meteorologit",
+            "suomi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232482?origin=rss"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -304,18 +404,125 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000012090693.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mies vapautettiin krokotiili-incidentin vuoksi",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Krokotiileille pikkupojan heittänyt mies vapautettiin takuita vastaan",
+          "content": "Miestä epäillään murhan yrityksestä.",
+          "date": "2026-06-19T20:25:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012090338.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Juhannus | Tässä on juhannuksen sää: lämpö hellii ja kokkoa saa polttaa",
-          "content": "Perjantaina on luvassa laajalti poutaa, lauantaina jopa hellettä.",
-          "date": "2026-06-18T06:08:00.000Z",
+          "title": "Britannia | Lehti: Lapsi heitettiin krokotiili­aitaukseen, miestä epäillään murhan yrityksestä",
+          "content": "Kolmevuotias lapsi sai eläintarhassa vakavia vammoja. Mies ja lapsi eivät tunteneet toisiaan.",
+          "date": "2026-06-18T18:53:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012090316.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin ja Melonin välit kiristyneet",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/7.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kova syytös liittolaiselta: Trump nöyristelee vihollisten edessä",
+          "content": "Trumpin välit läheiseen liittolaiseen ovat viilenneet. Aiemmin Euroopan ”Trump-kuiskaajana” pidetyn Italian pääministeri Giorgia Melonin vihanpito Yhdysvaltain presidentti Donald Trumpin kanssa ottaa uusia kierroksia. Meloni syyttää sosiaalisessa mediassa Trumpin myötäilevän länsimaiden vihollisia. Trump suututti Melonin väittämällä, että Italian pääministeri olisi kerjännyt päästä kuvaan presidentin kanssa G7-maiden huippukokouksessa.",
+          "date": "2026-06-19T19:59:43.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/2eb55e55-2269-44f6-b956-d7e9f36fb8ac"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trumpin sanat ”loukkasivat koko Italiaa” – Melonilta tulinen vastaus",
+          "content": "Kaikki alkoi yhteiskuvasta.",
+          "date": "2026-06-19T17:57:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012091213.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Italia | Meloni hermostui, kun Trump väitti hänen anelleen yhteis­kuvaa",
+          "content": "Italian ulkoministeri perui suunnitellun vierailunsa Yhdysvaltoihin Trumpin puheiden takia.",
+          "date": "2026-06-19T15:57:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012091087.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Junaliikenne palautuu Tampereen ja Seinäjoen välillä",
+      "mainCategories": [
+        "Liikenne",
+        "Rautatieliikenne",
+        "Junaliikennehäiriöt"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Junaliikenne | Junat liikkuvat taas Tampereen ja Seinä­joen välillä",
+          "content": "Ratajärjestelmävika keskeytti junaliikenteen juhannusaaton iltana.",
+          "date": "2026-06-19T19:05:00.000Z",
           "categories": [
             "suomi"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000012087809.html"
+          "link": "https://www.hs.fi/suomi/art-2000012091226.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Junaliikenne kulkee taas Tampereen ja Seinäjoen välillä – liikenne palautuu normaaliksi aamuun mennessä",
+          "content": "",
+          "date": "2026-06-19T15:46:40.000Z",
+          "categories": [
+            "liikenne",
+            "rautatieliikenne",
+            "junaliikennehäiriöt",
+            "joukkoliikenne",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232503?origin=rss"
         }
       ]
     },
@@ -353,44 +560,127 @@
       ]
     },
     {
-      "mainTitle": "EU avasi diplomaattisen kanavan Kremliin",
+      "mainTitle": "Nainen kuoli tulipalossa Kuopiossa",
       "mainCategories": [
-        "Politiikka"
+        "Kotimaa",
+        "Onnettomuudet",
+        "Kuopio"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Orpo kuuli Brysselin ja Kremlin välisen linjan avaamisesta vasta jälkikäteen",
-          "content": "Eurooppa-neuvoston puheenjohtaja António Costa puolustaa yhteydenottoa Kremliin sillä, ettei EU voi olla ulkopuolisten viestinviejien varassa.",
-          "date": "2026-06-19T17:46:00.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tulipaloa sammuttanut nainen kuoli Kuopiossa",
+          "content": "Nainen oli poliisin mukaan mennyt takaisin sisälle omakotitaloon sammuttamaan paloa.",
+          "date": "2026-06-19T16:46:00.000Z",
           "categories": [
-            "politiikka"
+            "kotimaa"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000012086604.html"
+          "link": "https://www.is.fi/kotimaa/art-2000012091231.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | EU valmistautuu rauhan­neuvotteluihin – Bryssel avasi diplomaattisen kanavan Kremliin",
-          "content": "Eurooppa-neuvoston puheenjohtaja avasi diplomaattisen kanavan Kremliin. Osalle EU-johtajista aloite tuli yllätyksenä.",
-          "date": "2026-06-19T02:55:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nainen palasi sammuttamaan palavaa omakotitaloa Kuopiossa ja kuoli",
+          "content": "Poliisin mukaan asunnossa asui mies ja nainen, jotka olivat sisällä talossa tulipalon syttyessä.",
+          "date": "2026-06-19T11:54:00.000Z",
           "categories": [
-            "politiikka"
+            "onnettomuudet",
+            "kuopio",
+            "pohjois-savo",
+            "kotimaa"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000012086595.html"
+          "link": "https://yle.fi/a/74-20232490?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisi epäilee: Nainen teki henki­rikoksen Kari­joella – uhri kuoli elvytys­yrityksistä huolimatta",
+          "content": "Karijoella yksityisasunnossa tapahtuneessa puukotuksessa menehtyi mies.",
+          "date": "2026-06-18T13:38:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012089900.html"
         }
       ]
     },
     {
-      "mainTitle": "Vestman syyttää kansanedustajia influenssereiksi",
+      "mainTitle": "Nainen ja nuori mies hukkui vedessä",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Helsinki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Nainen kuoli veteen Lauttasaaressa",
+          "content": "Uimaan lähtenyt nainen löytyi rantavedestä.",
+          "date": "2026-06-19T16:04:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012091214.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Seitsemän­kymppinen nainen löytyi kuolleena vedestä Helsingissä",
+          "content": "",
+          "date": "2026-06-19T16:02:16.000Z",
+          "categories": [
+            "onnettomuudet",
+            "helsinki",
+            "lauttasaari",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232504?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Nainen löytyi kuolleena merestä Helsingissä, nuori mies hukkui Mikkelissä",
+          "content": "",
+          "date": "2026-06-19T13:10:54.000Z",
+          "categories": [
+            "hukkuneet",
+            "juhannus",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7015452"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Pari­kymppinen mies hukkui Mikkelissä – kolme pelastautui rantaan kaatuneesta veneestä",
+          "content": "Miehillä ei ollut pelastusliivejä.",
+          "date": "2026-06-19T11:40:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012090843.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kansanedustajien tv-osallistuminen herättää kohua",
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/sofia virta/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -405,6 +695,21 @@
           "link": "https://www.is.fi/politiikka/art-2000012091014.html"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ministeri Mika Poutala puolustaa Sofia Virtaa tosi-tv-ohjelmaan osallistumisesta – treenasivat yhdessä ennen kuvauksia",
+          "content": "Vihreiden puheenjohtaja joutui ryöpytykseen tv-ohjelmaan osallistumisen takia. Yksi syy kohuun on eduskunnan tiukentunut linja perustelemattomiin poissaoloihin.",
+          "date": "2026-06-19T14:19:35.000Z",
+          "categories": [
+            "politiikka",
+            "mika poutala",
+            "sofia virta",
+            "vihreä liitto"
+          ],
+          "link": "https://yle.fi/a/74-20232498?origin=rss"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -415,73 +720,30 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000012090821.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvaltojen ja Iranin sopimusneuvottelut siirtyvät",
-      "mainCategories": [
-        "Maailma",
-        "Sijoittaminen"
-      ],
-      "imageUrl": "/images/yhdysval/2.jpg",
-      "relatedNews": [
+        },
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Iranin ja Yhdysvaltojen neuvottelut Sveitsissä siirtyvät",
-          "content": "Yhdysvaltain ja Iranin välinen aiesopimus on valmis. Maat ovat ilmoittaneet sotatoimien päättymisestä.",
-          "date": "2026-06-19T12:48:00.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kommentti: Naisviha­kortin käyttö ontuu Sofia Virta -kohussa",
+          "content": "Keskustelu vihreiden puheenjohtajasta lähti oudoille kierroksille, kirjoittaa IS:n politiikan toimittaja Olli Waris.",
+          "date": "2026-06-18T15:41:00.000Z",
           "categories": [
-            "sijoittaminen"
+            "politiikka"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/c11c3471-9af2-4e98-800c-a61265147d63?utm_source=rss"
+          "link": "https://www.is.fi/politiikka/art-2000012089023.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Iranin sota | Libanon kirjattiin Yhdys­valtojen ja Iranin sopimus­luonnokseen ilman Israelin ja Libanonin tukea",
-          "content": "Yhdysvaltojen ja Iranin välinen alustava sopimus sisältää kohdan sodan välittömästä päättymisestä kaikilla rintamilla, mukaan lukien Libanonissa.",
-          "date": "2026-06-18T08:12:00.000Z",
+          "title": "Poissaolokohu | Vihreiden suut aukesivat: Osa aiemmin vaienneista vannoo nyt tukea Virralle",
+          "content": "Suurin osa vihreiden kansanedustajista ei keskiviikkona halunnut ensin kommentoida puheenjohtajan osallistumista tosi-tv-ohjelmaan tai sitä, luottavatko he Sofia Virtaan.",
+          "date": "2026-06-18T11:57:00.000Z",
           "categories": [
-            "maailma"
+            "politiikka"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000012087374.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pääministerikilpailu kiihtyy Britanniassa",
-      "mainCategories": [
-        "Maailma"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Britannia | Pääministeri­peli alkoi Britanniassa, kun voittoisa ”Pohjoisen kuningas” pääsee haastamaan Starmerin",
-          "content": "Nyt odotetaan, väistyykö istuva pääministeri vapaaehtoisesti.",
-          "date": "2026-06-19T10:41:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012089409.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Britannia | Oikeistopopulistit nousivat aamuvarhain bussiin kampittaakseen mahdollisen tulevan pääministerin",
-          "content": "Jos työväenpuolueen Andy Burnham voittaa torstaiset täytevaalit, haastaa hän pääministeri Keir Starmerin.",
-          "date": "2026-06-18T10:26:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012068021.html"
+          "link": "https://www.hs.fi/politiikka/art-2000012085453.html"
         }
       ]
     },
@@ -491,7 +753,7 @@
         "Politiikka",
         "Kotimaa"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -520,13 +782,108 @@
       ]
     },
     {
+      "mainTitle": "Lindtman suosituin pääministeriehdokas kyselyssä",
+      "mainCategories": [
+        "Politiikka",
+        "Pääministerit",
+        "Kysely"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yllättävä kakkonen MT:n pääministerikyselyssä",
+          "content": "Istuva pääministeri Petteri Orpo (kok) keräsi puoluettaan huomattavasti vähemmän kannatusta.",
+          "date": "2026-06-19T09:09:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012090707.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Maaseudun Tulevaisuus: Antti Lindtman suosituin pääministeriehdokas",
+          "content": "Kakkossijalle ylsivät keskustan Kaikkonen ja perussuomalaisten Purra. Kokoomuksen Orpo jäi neljänneksi.",
+          "date": "2026-06-19T02:00:16.000Z",
+          "categories": [
+            "politiikka",
+            "pääministerit",
+            "kysely",
+            "suomen poliittiset puolueet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232455?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Linnanmäen Salama-laite jälleen käytössä",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Linnanmäki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Linnanmäen Salama-laite on korjattu ja taas käytössä",
+          "content": "Linnanmäen Huvipuistossa pelastettiin tostaina neljä ihmistä Salama-laitteesta, joka jäi jumiin kesken ajon.",
+          "date": "2026-06-19T08:15:34.000Z",
+          "categories": [
+            "onnettomuudet",
+            "linnanmäki",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232468?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Huvipuistolaite jäi jumiin Linnanmäellä – neljä ihmistä pelastettiin",
+          "content": "Aikuiset ja lapset odottivat apua noin puoli tuntia.",
+          "date": "2026-06-18T19:03:45.000Z",
+          "categories": [
+            "onnettomuudet",
+            "linnanmäki",
+            "huvipuistot",
+            "pelastustoimi",
+            "vuoristoradat",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20232440?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Salama jumissa Linnanmäellä – ”Syytä selvitellään”",
+          "content": "Salama jäi jumiin Linnanmäellä viiden metrin korkeuteen.",
+          "date": "2026-06-18T18:13:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012090411.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Ukraina tehostaa droonisotaa Moskovassa",
       "mainCategories": [
         "Maailma",
         "Kirjeenvaihtajat",
         "Politiikka"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -567,7 +924,61 @@
       ]
     },
     {
-      "mainTitle": "Trumpin kunnostaman altaan sininen väri kuoriutuu",
+      "mainTitle": "Ulosajo Merikarvialla vaati yhden kuoleman",
+      "mainCategories": [
+        "Liikenneonnettomuudet",
+        "Kotimaa",
+        "Onnettomuudet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Yksi kuoli ulosajossa Merikarvialla Satakunnassa",
+          "content": "",
+          "date": "2026-06-19T06:09:32.000Z",
+          "categories": [
+            "liikenneonnettomuudet",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7015294"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ulosajo Merikarvialla – yksi kuollut, toinen vakavasti loukkaantunut",
+          "content": "Valtatie 8 on onnettomuuden vuoksi suljettu liikenteeltä.",
+          "date": "2026-06-19T05:19:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012090673.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Vakava ulosajo Merikarvialla – yksi menehtyi, toinen loukkaantui vakavasti",
+          "content": "",
+          "date": "2026-06-19T04:48:31.000Z",
+          "categories": [
+            "onnettomuudet",
+            "liikenneonnettomuudet",
+            "merikarvia",
+            "kuolema",
+            "kotimaa",
+            "satakunta"
+          ],
+          "link": "https://yle.fi/a/74-20232458?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trumpin remontin altaasta kuoriutuu väriä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -631,40 +1042,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012090584.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mies epäiltynä lapsen heittämisestä krokotiileille",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Britannia | Lehti: Lapsi heitettiin krokotiili­aitaukseen, miestä epäillään murhan yrityksestä",
-          "content": "Kolmevuotias lapsi sai eläintarhassa vakavia vammoja. Mies ja lapsi eivät tunteneet toisiaan.",
-          "date": "2026-06-18T18:53:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012090316.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tuntematon mies heitti 3-vuotiaan pojan krokotiileille",
-          "content": "Poliisi on pidättänyt miehen ja epäilee tätä murhan yrityksestä.",
-          "date": "2026-06-18T16:58:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012090338.html"
         }
       ]
     },
@@ -772,51 +1149,6 @@
       ]
     },
     {
-      "mainTitle": "Sofia Virta -kohun tukijoukoissa muutoksia",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "/images/sofia virta/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kommentti: Naisviha­kortin käyttö ontuu Sofia Virta -kohussa",
-          "content": "Keskustelu vihreiden puheenjohtajasta lähti oudoille kierroksille, kirjoittaa IS:n politiikan toimittaja Olli Waris.",
-          "date": "2026-06-18T15:41:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012089023.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Poissaolokohu | Vihreiden suut aukesivat: Osa aiemmin vaienneista vannoo nyt tukea Virralle",
-          "content": "Suurin osa vihreiden kansanedustajista ei keskiviikkona halunnut ensin kommentoida puheenjohtajan osallistumista tosi-tv-ohjelmaan tai sitä, luottavatko he Sofia Virtaan.",
-          "date": "2026-06-18T11:57:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012085453.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Oras Tynkkynen: Tuen Sofia Virtaa",
-          "content": "Vihreiden eduskuntaryhmän puheenjohtaja Oras Tynkkynen ei keskiviikkona halunnut kommentoida Sofia Virran tapausta IS:lle, mutta avasi ajatteluaan Sofia Virrasta torstaina Instagramissa.",
-          "date": "2026-06-18T11:33:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012089136.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "JSN antoi huomautuksia drooniuutisista",
       "mainCategories": [
         "Kotimaa",
@@ -905,104 +1237,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012088924.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomi hankkii liitopommeja F-35-hävittäjiin",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Suomi hankkii Yhdysvalloista liitopommeja monitoimihävittäjiin",
-          "content": "Suomi on päättänyt hankkia Yhdysvalloista SDB-liitopommeja F-35-monitoimihävittäjiin.",
-          "date": "2026-06-18T07:01:04.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/suomi-hankkii-yhdysvalloista-liitopommeja-monitoim/13547272?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Häkkänen: Suomi ostaa liitopommeja",
-          "content": "Liitopommeja käytetään uusissa F-35-hävittäjissä.",
-          "date": "2026-06-18T06:22:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012088024.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kansanedustaja muutti uhkailun vuoksi",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Demokratia | KS: Kansanedustaja joutui muuttamaan uhkailun takia",
-          "content": "Kokoomuksen kansanedustajaa Ville Kaunistoa uhkailtiin jopa kadulla, kertoo Kouvolan Sanomat.",
-          "date": "2026-06-18T06:24:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012087961.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "KS: Kansanedustaja joutui muuttamaan uhkausten takia",
-          "content": "Kansanedustaja perheineen muutti kerrostaloon uhkailua pakoon.",
-          "date": "2026-06-18T05:23:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012087808.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Teknomiljonääri Joshua Baer kuoli lento-onnettomuudessa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kuolleet | Yhdysvaltalainen tekno­miljonääri Joshua Baer kuoli lento-onnettomuudessa",
-          "content": "Moottoritielle syöksyneessä ja tuleen syttyneessä yksityis­koneessa oli Baerin lisäksi viisi muuta ihmistä, mutta muut selvisivät hengissä.",
-          "date": "2026-06-17T22:07:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012087706.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lentokone putosi moottoritielle – teknomiljonääri kuollut",
-          "content": "Joshua Baer kuoli lento-onnettomuudessa.",
-          "date": "2026-06-17T21:39:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012087703.html"
         }
       ]
     }
