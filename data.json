@@ -1,11 +1,641 @@
 {
-  "timestamp": "2026-07-07T20:22:40.361Z",
+  "timestamp": "2026-07-08T06:24:15.835Z",
   "successCount": 22,
   "failureCount": 0,
   "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "New Yorkissa tornitalo sortumavaarassa, evakuointeja tehty",
+      "mainTitle": "Velkajärjestelyjen haku lisääntynyt Suomessa",
+      "mainCategories": [
+        "Velkaantuminen",
+        "Talous",
+        "Kuluttajat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Yhä useampi haki alkuvuonna velkajärjestelyä Suomessa – varsinaissuomalaisten osuus on pieni",
+          "content": "",
+          "date": "2026-07-08T06:16:46.000Z",
+          "categories": [
+            "velkaantuminen",
+            "talous",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7030051"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomalaisten pitkäkestoiset velkaongelmat lisääntyneet",
+          "content": "Pitkäkestoisessa ulosotossa olevien henkilöiden määrä on lisääntynyt vuodessa lähes 25 prosenttia.",
+          "date": "2026-07-07T05:03:31.000Z",
+          "categories": [
+            "kuluttajat",
+            "maksuhäiriöt",
+            "velkaantuminen",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20235168?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat ja Iran kärjistävät konfliktia",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tämä tiedetään | Yhdysvallat iski voimalla Iraniin",
+          "content": "Iranin asevoimat varoitti Yhdysvaltoja \"murskaavasta vastauksesta\".",
+          "date": "2026-07-08T06:12:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012127612.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Iran vastasi Yhdysvaltojen iskuihin hyökkäämällä Kuwaitiin ja Bahrainiin",
+          "content": "Yhdysvallat sanoo iskujensa olleen vastaus Hormuzinsalmella tiistaina tehtyihin laivaiskuihin. Iran syyttää Yhdysvaltojen rikkovan maiden välistä alustavaa rauhansopimusta.",
+          "date": "2026-07-08T04:04:39.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/iran-vastasi-yhdysvaltojen-iskuihin-hyokkaamalla-k/13574803?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Garden Helsinki -sotku herättää poliittista kritiikkiä",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Li Andersson: Petteri Orpo ei ole puhunut totta",
+          "content": "Europarlamentaarikko Li Andersson (vas) ottaa kantaa Petteri Orpon (kok) hallituksen Garden Helsinki -sotkuun.",
+          "date": "2026-07-08T05:53:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012127727.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Garden Helsingin tuet | Putositko kärryiltä? Tässä ovat Orpoa horjuttavan kohun tärkeät kysymykset",
+          "content": "Paine pääministeri Petteri Orpoa kohtaan kasvaa. Kritiikki kohdistuu muun muassa hänen julkisten lausuntojensa paikkansapitävyyteen.",
+          "date": "2026-07-07T15:53:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012125525.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lisää löylyä Garden-sotkuun – Sofia Virta: Jos Orpo on antanut väärää tietoa, hänen on erottava",
+          "content": "Kansanedustaja Harry Harkimon mielestä pääministeri Petteri Orpon (kok) puheet eivät pidä paikkaansa.",
+          "date": "2026-07-07T10:22:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012126154.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Keskustasta kovaa tekstiä pääministeri Orpolle: ”Tämä ei voi jäädä tähän”",
+          "content": "Keskustan varapuheenjohtaja Markku Siponen vaatii pääministeri Petteri Orpoa (kok) ja hallitusta julkistamaan kaikki asiakirjat Garden Helsinki -sotkun selvittämiseksi.",
+          "date": "2026-07-07T08:50:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012125842.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Garden-kohu kiihtyy: vihreiden Hyrkkö vaatii lisä­selityksiä pää­ministeri Orpolta: ”Jokin ei nyt täsmää”",
+          "content": "”On edelleen epäselvää, ymmärtääkö pääministeri ylipäätään, mikä tässä asetelmassa on ongelmallista”, sanoo vihreiden kansanedustaja Saara Hyrkkö.",
+          "date": "2026-07-07T06:28:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012125307.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kauneushoitolan toiminta keskeytetty Helsingissä",
+      "mainCategories": [
+        "Kotimaa",
+        "Hyvinvointi",
+        "Helsinki"
+      ],
+      "imageUrl": "/images/helsinki/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Potilasturvallisuutta laiminlyöneen kauneushoitolan toiminta on keskeytetty Helsingissä",
+          "content": "Nordicshape Helsinki Oy:n toiminta on  keskeytetty potilasturvallisuuspuutteiden vuoksi.",
+          "date": "2026-07-08T05:40:10.000Z",
+          "categories": [
+            "hyvinvointi",
+            "helsinki",
+            "kauneudenhoito",
+            "potilasturvallisuus",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20235361?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kauneus­klinikka säppiin Helsingissä",
+          "content": "Nordicshape Helsingin toiminnassa ilmeni useita potilasturvallisuutta vakavasti vaarantavia yksityiskohtia. Nordicshape oy:n Espoossa sijaitseva klinikka suljettiin jo huhtikuussa. Lupa- ja valvontavirasto (LVV) on keskeyttänyt Helsingissä sijaitsevan esteettisen klinikan Nordicshape Helsinki oy:n terveydenhuollon palvelutoiminnan. Asiasta kerrotaan LVV:n tiedotteessa. Keskeyttämisen syyksi kerrottiin potilasturvallisuutta vakavasti vaarantavat puutteet.",
+          "date": "2026-07-08T05:35:01.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/a91bc429-87de-4daf-ac86-2849985e69b1?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Marjanpoimijoiden viisumihakemukset hylätty lähes täysin",
+      "mainCategories": [
+        "Elinkeinoelämä",
+        "Marjanpoiminta",
+        "Marjat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Marjan­poimijoiden viisumit evätty: Satovuoden marjat jäävät metsään ja hinnat nousevat",
+          "content": "Ulkoministeriö on toiminut kohtuuttomasti marja-alaa kohtaan sekä työnantaja­liiton että toimiala­yhdistyksen mukaan.",
+          "date": "2026-07-08T05:33:31.000Z",
+          "categories": [
+            "elinkeinoelämä",
+            "marjanpoiminta",
+            "marjat",
+            "viisumit",
+            "ulkoasiainministeriö",
+            "kotimaa",
+            "lappi",
+            "kainuu",
+            "pohjois-pohjanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20235256?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ulkoministeriö: valtaosa luonnonmarjanpoimijoiden kausityöviisumipäätöksistä kielteisiä",
+          "content": "Vuonna 2025 voimaan tullut lakimuutos siirsi ulkomaiset marjanpoimijat turistiviisumeista kausityöviisumien piiriin. Ulkoministeriön mukaan sen tavoitteena on ehkäistä hyväksikäyttöä ja ihmiskauppaa sekä parantaa poimijoiden asemaa.",
+          "date": "2026-07-07T09:41:01.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/ulkoministerio-valtaosa-luonnonmarjanpoimijoiden-k/13572476?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Marja-ala | Suomi hylkäsi lähes 90 prosenttia marjan­poimijoiden viisumi­hakemuksista",
+          "content": "Ulkoministeriön mukaan viisumien käsittelyssä tuli esiin viitteitä työntekijöiden hyväksikäyttöriskistä",
+          "date": "2026-07-07T08:12:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012125653.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Naton huippukokous Ankarassa käynnistyy tänään",
+      "mainCategories": [
+        "Politiikka",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/nato/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tanska vastasi Trumpin uhkaukseen – IL seuraa",
+          "content": "Naton huippukokous pidetään Ankarassa. Iltalehti seuraa tapahtumia hetki hetkeltä. Puolustusliitto Naton huippukokous on koolla Ankarassa. Keskiviikon ohjelma alkaa noin kello 08.00 Suomen aikaa ja Iltalehti näyttää keskeisimmät tapahtumat suorana lähetyksenä. Johtajien on määrä neuvotella muun muassa jäsenmaiden puolustussatsauksista ja Ukrainan tukemisen jatkamisesta Venäjän laitonta hyökkäyssotaa vastaan. Yhdysvaltain presidentin Donald Trumpin näkemykset viiden prosentin budjettilupauksista ovat kokousten mahdollisesti keskeisintä antia.",
+          "date": "2026-07-08T04:53:05.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/9d14b9e1-e71c-4bd5-9974-93fd9116269e?utm_source=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS-analyysi | Nato rauhoittelee Trumpia miljardien arvoisilla sopimuksilla",
+          "content": "Naton huippukokouksesta Ankarasta odotetaan muun muassa miljardien arvosta hankkeita puolustusteollisuuteen. Suurin huomio on silti Yhdysvaltojen ulostuloissa, kirjoittaa politiikan toimittaja Elina Kervinen.",
+          "date": "2026-07-06T15:26:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012117295.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Analyysi: USA:n puolustusministerin pöyristyttävä suunnitelma paljastui – se kertoo Nato-kokouksen tunnelmasta",
+          "content": "Jos asiat menevät Naton huippukokouksen suljettujen ovien takana pieleen, voi Yhdysvaltain presidentin Donald Trumpin lähtö takaisin Yhdysvaltoihin olla vielä odotettuakin värikkäämpi, kirjoittaa politiikan toimittaja Iida Hallikainen.",
+          "date": "2026-07-06T14:44:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012123739.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat perui Iranin öljynmyyntiluvan",
+      "mainCategories": [
+        "Sijoittaminen"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Uusia iskuja Iraniin, Yhdysvallat perui öljynmyyntiluvan – Öljyn hinta nousee",
+          "content": "Nokia laski jyrkästi Helsingin pörssissä. Jättimäinen myyntipäätös puolestaan ravisteli kryptovaluutta bitcoinia.",
+          "date": "2026-07-08T04:48:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/638851c3-f945-4642-bf80-59ea9328ae1f?utm_source=rss"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Analyytikko: Nousu oli harhautus – Myyntiaalto kiihtyy",
+          "content": "Öljyn hinta nousi sen jälkeen, kun Yhdysvallat perui poikkeusluvan, joka salli Iranin öljyn myynnin.",
+          "date": "2026-07-08T03:27:00.000Z",
+          "categories": [
+            "sijoittaminen"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/66558a04-fac1-416b-b10c-9a2b6e09b486?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Verkossa yleistyneet kiristykset nuoria kohtaan",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikokset",
+        "Seksuaalirikokset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kylmäävä lapsiin kohdistuva ilmiö leviää netissä – Poliisi varoittaa",
+          "content": "Poliisin mukaan lapsiin ja nuoriin kohdistuvat kiristykset ovat yleistyneet.  Itä-Suomen poliisi varoittaa lapsiin ja nuoriin kohdistuvista kiristyksistä, joissa uhrilta kiristetään sosiaalisessa mediassa rahaa tekoälyllä tehtyjen alastonkuvien avulla. Poliisin tietoon on tullut useita samankaltaisia tapauksia. Pääsääntöisesti tapaukset alkavat sillä, että uhri saa tuntemattomalta henkilöltä yhteydenoton somealustalla.",
+          "date": "2026-07-08T04:46:48.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/a709e9f6-06c5-4ef6-a233-6ae3f7b254e9?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kiristäjä otti kuvia nuoren Instagram-tililtä ja muokkasi niistä alastonkuvia – verkon seksuaali­väkivalta on yleistynyt",
+          "content": "Poliisin mukaan lapsiin ja nuoriin verkossa kohdistuvat kiristykset ovat yleistyneet. Poliisi haluaa herätellä myös vanhempia havahtumaan verkon vaaroihin.",
+          "date": "2026-07-07T15:55:02.000Z",
+          "categories": [
+            "rikokset",
+            "seksuaalirikokset",
+            "lapset ja nuoret",
+            "alastonkuvat",
+            "kiristys",
+            "lasten seksuaalinen hyväksikäyttö",
+            "pohjois-savo",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20235319?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Garden Helsinki -hanke kohtaa taloudellisia vaikeuksia",
+      "mainCategories": [
+        "Politiikka",
+        "Lobbaus"
+      ],
+      "imageUrl": "/images/helsinki/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Garden Helsingin taustalta paljastuu lisää outoja asioita: Kokenut analyytikko ei ole nähnyt vastaavaa",
+          "content": "Asiakirjat paljastavat, että Garden Helsinki -hanke yrittää saada lainaajia luopumaan koroista ja osin lainaamistaan pääomista. Yksi taustayhtiöistä on vastustanut menettelyä. Yhtiö on kulkenut veitsen terällä. Pääministeri Petteri Orpon (kok) hallitukselta kohutun ehdollisen 35 miljoonan euron investointituen saanut Garden Helsinki -hankkeen taustayhtiö Projekti GH on taloudellisissa vaikeuksissa. Iltalehti selvitti asiakirjoista, miten yhtiö on yrittänyt päästä eroon valtavasta velkakuormasta, joka on kasvanut tilikaudesta toiseen. Kauppalehden analyytikko Ari Rajala kommentoi aikaisemmin Iltalehdelle, että yhtiö on konkurssin partaalla, mikäli se ei onnistu saamaan uutta rahoitusta. Asia ilmenee myös asiakirjalähteistä.",
+          "date": "2026-07-08T04:30:14.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/643db03f-30a3-4a3e-bbf4-63e6f12237a8?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "IS paljastaa viestit: Vapaavuori haki apua huipulta – VM vastasi tavalla, joka näyttää nyt poikkeuksellisen tylyltä",
+          "content": "Sähköpostit paljastavat, miten Jan Vapaavuoren yritykset edistää Garden Helsinkiä törmäsivät valtiovarainministeriössä poikkeuksellisen tylyyn kohteluun. Viesteistä käy ilmi, miten hallihanke torjuttiin kulisseissa – ja miten Vapaavuorta jopa näpäytettiin matkalla ministerin pakeille.",
+          "date": "2026-07-07T13:32:00.000Z",
+          "categories": [],
+          "link": "https://www.is.fi/politiikka/art-2000012125568.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viestit paljastavat, miten ministeriö antoi rukkaset Garden-hankkeelle ja miten Vapaavuori kääntyi Orpon puoleen",
+          "content": "Valtiovarain­ministeriön ja Helsingin Garden -hanketta lobanneen Jan Vapaavuoren viestin­­vaihdosta selviää, kuinka ministeriö torjui hankkeen tukemisen valtion­takauksella.",
+          "date": "2026-07-07T06:32:43.000Z",
+          "categories": [
+            "politiikka",
+            "garden helsinki",
+            "jan vapaavuori",
+            "lobbaus"
+          ],
+          "link": "https://yle.fi/a/74-20235167?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Garden Helsingin tuet | Vapaavuoren sähköposti: Orpo kannusti tapaamaan Purraa",
+          "content": "Sähköpostit paljastavat, miten virkakunta tyrmäsi hallirahoituksen. Orpo väitti, ettei muista hankkeista ollut ”mitään vastaavaa tietoa” tukipäätöstä tehtäessä. Virkamiesmuistio todistaa päinvastaista.",
+          "date": "2026-07-06T18:27:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012124916.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Uusi paljastus Garden Helsinki -kohusta",
+          "content": "IS:n tietopyynnöllä saamat sähköpostit paljastavat tiiviin yhteydenpidon Jan Vapaavuoren ja valtiovarainministeriön ylimpien virkamiesten välillä.",
+          "date": "2026-07-06T17:38:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012124981.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Maanvyöry Kiinassa vaati 21 kuolonuhria",
+      "mainCategories": [
+        "Ulkomaat",
+        "Kiina",
+        "Onnettomuudet"
+      ],
+      "imageUrl": "/images/kiina/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Synkkä päivä kuvan­kauniissa laaksossa – maan­vyörymä tappoi 21 ihmistä Kiinassa",
+          "content": "Muualla Kiinassa tulvat johtivat siihen, että noin 900 käärmettä karkasi matelijafarmilta.",
+          "date": "2026-07-08T04:19:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012127631.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kiinassa noin 20 ihmistä kuoli maanvyöryssä",
+          "content": "",
+          "date": "2026-07-08T03:13:23.000Z",
+          "categories": [
+            "kiina",
+            "onnettomuudet",
+            "maanvyörymät",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20235354?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Nato-kokous: Suomi edustettuna johtajien tapaamisessa",
+      "mainCategories": [
+        "Nato",
+        "Puolustuspolitiikka",
+        "Sotateollisuus"
+      ],
+      "imageUrl": "/images/nato/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Naton johtajat huippukokouksessa, Trumpin linjasta epävarmuutta",
+          "content": "Suomea Nato-johtajien tapaamisessa edustaa presidentti Alexander Stubb. Ankarassa on Suomesta myös ulkoministeri Elina Valtonen (kok.), joka osallistui tiistai-iltana ulkoministereille tarkoitetulle Nato–Ukraina-neuvoston työillalliselle.",
+          "date": "2026-07-08T04:15:27.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/naton-johtajat-huippukokouksessa-trumpin-linjasta/13574742?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nato-kokouksessa isojen päätösten päivä, Suomen Stubb tapaa useita johtajia",
+          "content": "Yle seuraa keskiviikon Nato-ratkaisuja tässä päivittyvässä artikkelissa.",
+          "date": "2026-07-06T13:30:44.000Z",
+          "categories": [
+            "nato",
+            "puolustuspolitiikka",
+            "sotateollisuus"
+          ],
+          "link": "https://yle.fi/a/74-20235117?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Epävakaa sää jatkuu, aurinkoa myös",
+      "mainCategories": [
+        "Sää",
+        "Meteorologit",
+        "Lämpötila"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viikon sää jatkuu epävakaisena, mutta aurinkokin paistaa",
+          "content": "",
+          "date": "2026-07-08T02:59:17.000Z",
+          "categories": [
+            "sää",
+            "meteorologit",
+            "lämpötila",
+            "sääennusteet"
+          ],
+          "link": "https://yle.fi/a/74-20235352?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Säässä kylmää kyytiä – meteorologi: Täällä jopa alle kymmenen astetta",
+          "content": "Alkuviikon teema on sateet.",
+          "date": "2026-07-06T15:26:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012122702.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kirkon huoltorakennus paloi Vantaalla",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Vantaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kirkon rakennus paloi Vantaalla",
+          "content": "Iso hallirakennus paloi Helsingin pitäjän kirkonkylässä.",
+          "date": "2026-07-08T02:40:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012127618.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Vantaa | Seurakunnan konehalli liekehti Helsingin pitäjän kirkon­kylässä",
+          "content": "Konehallin tulipalosta ei aiheutunut henkilövahinkoja.",
+          "date": "2026-07-08T02:30:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012127621.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Vantaalla Helsingin pitäjän kirkonkylässä paloi seurakunnan huoltorakennus",
+          "content": "Palanut rakennus sijaitsee keskellä merkittävää kulttuuri­maisemaa. Palon leviäminen saatiin kuitenkin estetyksi.",
+          "date": "2026-07-07T23:58:55.000Z",
+          "categories": [
+            "onnettomuudet",
+            "vantaa",
+            "tulipalot",
+            "pääkaupunkiseudut",
+            "keski-uusimaa",
+            "rakennuspalo",
+            "helsingin pitäjän kirkonkylä",
+            "vantaan pyhän laurin kirkko",
+            "keski-uudenmaan pelastuslaitos",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20235349?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Nainen sai syövän elinluovuttajalta",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ruotsi | DN: Nainen sai elin­luovuttajalta maksan, jossa oli syöpä",
+          "content": "On erittäin harvinaista, että syöpä siirtyy suoraan luovuttajalta elimen saajalle.",
+          "date": "2026-07-07T22:08:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012127613.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Karmea tapaus Ruotsissa – nainen sai syövän elin­luovuttajalta",
+          "content": "Tapaus on erittäin harvinainen, Dagens Nyheter kertoo.",
+          "date": "2026-07-07T11:31:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012125359.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tornitalo sortumavaarassa New Yorkissa",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -18,8 +648,8 @@
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
           "title": "Yhdysvallat | Tornitalo uhkaa sortua New Yorkissa, useita rakennuksia evakuoitu",
-          "content": "Sortumavaarassa olevaa rakennusta remontoidaan parhaillaan. Pormestari Zohran Mamdani kuvaili tilannetta erittäin vakavaksi.",
-          "date": "2026-07-07T20:20:00.000Z",
+          "content": "Sortumavaarassa olevaa rakennusta remontoidaan parhaillaan. Pormestari Zohran Mamdani kuvaili tilannetta aiemmin erittäin vakavaksi.",
+          "date": "2026-07-07T21:57:00.000Z",
           "categories": [
             "maailma"
           ],
@@ -31,7 +661,7 @@
           "publisherUrl": "is.fi",
           "title": "Hätätilanne New Yorkissa: pilvenpiirtäjä sortuma­vaarassa – ihmisiä evakuoitu",
           "content": "Pilvenpiirtäjän työmaalta sekä ympäröivistä rakennuksista on evakuoitu ihmisiä.",
-          "date": "2026-07-07T20:18:00.000Z",
+          "date": "2026-07-07T21:23:00.000Z",
           "categories": [
             "ulkomaat"
           ],
@@ -51,18 +681,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20235334?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "New Yorkissa hätätila – Kerrostalo vaarassa romahtaa: ”Teräspalkit taipuvat kuin savukkeet”",
-          "content": "Manhattanin kadut evakuoitiin Pfizerin entisen pääkonttorin romahdusvaaran takia. ”Teräspalkit taipuvat kuin savukkeet”, kuvailee paikallinen. Korkea kerrostalo on vaarassa romahtaa Manhattanilla, kertovat New Yorkin viranomaiset. Useita katuja on tyhjennetty ja rakennuksia evakuoitu romahdusvaarassa olevan talon vierestä keskellä aamuruuhkaa Midtownissa. Pormestari Zohran Mamdanin mukaan noin 400 oppilasta on evakuoitu rakennuksen viereisestä koulusta, kertoo The New York Times.",
-          "date": "2026-07-07T16:25:35.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/27b174c3-6fd9-486d-a7e5-9e8f09d7f238?utm_source=rss"
         }
       ]
     },
@@ -113,11 +731,11 @@
       ]
     },
     {
-      "mainTitle": "Marine Le Pen asettuu ehdolle presidentinvaaleissa",
+      "mainTitle": "Marine Le Pen asettuu ehdolle presidentiksi",
       "mainCategories": [
         "Ulkomaat",
-        "Vaalit",
-        "Ranska"
+        "Ranska",
+        "Maailma"
       ],
       "imageUrl": "/images/ranska/2.jpg",
       "relatedNews": [
@@ -265,69 +883,14 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012124888.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Voiko Ranskan laitaoikeiston keulahahmo Marine Le Pen lähteä presidenttikisaan? Se selviää tänään",
-          "content": "Marine Le Pen saa tänään tiistaina tuomion kavallussyytteistä. Tuomio määrittää sen, kuka on laitaoikeiston ehdokas Ranskan kevään 2027 presidentinvaaleissa.",
-          "date": "2026-07-07T01:00:35.000Z",
-          "categories": [
-            "vaalit",
-            "kansallinen liittouma",
-            "marine le pen",
-            "emmanuel macron",
-            "ranskan poliittiset puolueet",
-            "ranskan politiikka",
-            "äärioikeisto",
-            "puolueet",
-            "ranskalaiset poliitikot",
-            "oikeistopuolueet",
-            "ranskan presidentinvaalit",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20233413?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Yhdysvallat peruu Iranin öljynmyyntiluvan",
+      "mainTitle": "Argentiina voitti Egyptin MM-neljännesvälierässä",
       "mainCategories": [
-        "Sijoittaminen"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Yhdysvallat peruu Iranin öljynmyyntiluvan, öljyn hinta nousee – KL seuraa",
-          "content": "Hormuzinsalmesta poistuneeseen alukseen osui yöllä. Iskujen seurauksena Yhdysvaltain valtiovarainministeriö peruu poikkeusluvan, joka salli Iranin öljyn myynnin, kertoo uutistoimisto Bloomberg.",
-          "date": "2026-07-07T19:49:00.000Z",
-          "categories": [
-            "sijoittaminen"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/638851c3-f945-4642-bf80-59ea9328ae1f?utm_source=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Merenkulkuviranomainen: Öljytankkereihin iskettiin Hormuzinsalmella",
-          "content": "Yhdysvaltalaislähteiden mukaan Iran olisi syyllinen ainakin osaan iskuista.",
-          "date": "2026-07-07T15:28:22.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/merenkulkuviranomainen-oljytankkereihin-iskettiin/13574407?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Argentiina eteni MM-kisojen puolivälieriin",
-      "mainCategories": [
-        "Jalkapallo",
-        "Urheilu",
-        "Suomi"
+        "Suomi",
+        "Urheilu"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -335,7 +898,7 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "MM-jalkapallo | Argentiinalaiset hurrasivat helsinkiläisessä juottolassa, kun Messi itki ilosta atlantalaisella stadionilla",
+          "title": "MM-jalkapallo | Argentiinalaiset hurrasivat helsinkiläisessä pubissa, kun Messi itki ilosta atlantalaisella stadionilla",
           "content": "Argentiina kukisti Egyptin tiistai-illan jännittävässä neljännes­väli­erässä lukemin 3–2.",
           "date": "2026-07-07T19:44:00.000Z",
           "categories": [
@@ -344,67 +907,21 @@
           "link": "https://www.hs.fi/suomi/art-2000012127487.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lionel Messi purskahti itkuun ja teki MM-historiaa huimassa trillerissä – pilkkumoka kuumensi tunteet Ylen studiossa",
-          "content": "Argentiina eteni dramaattisten vaiheiden jälkeen MM-kisojen kahdeksan parhaan joukkoon kukistettuaan Egyptin 3–2 Atlantassa.",
-          "date": "2026-07-07T18:43:08.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Argentiinalta järisyttävä nousu kahden maalin takaa – Egypti ulkona MM-kisoista",
+          "content": "",
+          "date": "2026-07-07T18:48:27.000Z",
           "categories": [
-            "jalkapallo",
-            "jalkapallon mm 2026",
-            "lionel messi",
-            "kansainvälinen jalkapalloliitto (fifa)",
-            "jalkapallon miesten mm-kisat",
             "urheilu"
           ],
-          "link": "https://yle.fi/a/74-20235338?origin=rss"
+          "link": "https://www.ts.fi/a/7029873"
         }
       ]
     },
     {
-      "mainTitle": "Lahdessa kadonnut opiskelija löytyi",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Lahti"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lahdessa kadonnut löytyi",
-          "content": "Poliisi pyysi apua kadonneen löytämiseksi.",
-          "date": "2026-07-07T19:41:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012127478.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Intialais­opiskelija nousi lähijunaan Lahdessa ja katosi Helsingissä – KRP tutkii",
-          "content": "Poliisin mukaan katoamiseen ei liity rikosepäilyä.",
-          "date": "2026-07-07T09:02:04.000Z",
-          "categories": [
-            "poliisi",
-            "kadonneet henkilöt",
-            "lahti",
-            "poliisitutkinta",
-            "keskusrikospoliisi (krp)",
-            "päijät-häme",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20235216?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Nuori syyllistyi vakaviin rikoksiin",
+      "mainTitle": "Nuori tuomittu seksuaalirikoksista ja uhkailusta",
       "mainCategories": [
         "Kotimaa",
         "Oikeudenkäynnit",
@@ -446,11 +963,11 @@
       ]
     },
     {
-      "mainTitle": "Suomi hankkii Saabin GlobalEye-koneen",
+      "mainTitle": "Suomi hankkii GlobalEye-valvontakoneen Naton tueksi",
       "mainCategories": [
-        "Politiikka",
         "Nato",
-        "Uutiset"
+        "Uutiset",
+        "Politiikka"
       ],
       "imageUrl": "/images/nato/1.jpg",
       "relatedNews": [
@@ -465,18 +982,6 @@
             "kotimaa"
           ],
           "link": "https://www.iltalehti.fi/kotimaa/a/ae11a0c0-c579-472b-8e35-8413ae3c0e60?utm_source=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubbit saapuivat illalliselle – IS seuraa Nato-kokousta",
-          "content": "Donald Trumpin Beast kaarsi hevosten saattamana Erdoganin palatsille. Alexander Stubb tarjosi puolustusfoorumissa mainoskatkon. Antti Häkkäsen mukaan Suomikin hankkii tulevaisuudessa Saabin GlobalEye-sotakoneen.",
-          "date": "2026-07-07T19:04:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012122978.html"
         },
         {
           "publisherId": "hs",
@@ -525,13 +1030,13 @@
       ]
     },
     {
-      "mainTitle": "Oppositio vaatii eduskuntaa koolle Garden-kohun vuoksi",
+      "mainTitle": "Oppositio vaatii eduskuntaa koolle Garden-hankkeen vuoksi",
       "mainCategories": [
         "Politiikka",
         "Suomi",
         "Hallitukset"
       ],
-      "imageUrl": "/images/eduskunta/3.jpg",
+      "imageUrl": "/images/eduskunta/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -640,119 +1145,7 @@
       ]
     },
     {
-      "mainTitle": "Kuuba syyttää Yhdysvaltoja öljysaartosta",
-      "mainCategories": [
-        "Kuuba",
-        "Ulkomaat",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kuuban ulkoministeri syyttää Yhdysvaltoja sotaisista teoista – ”Öljysaarto tukehduttaa ja tappaa hiljaisella tavalla”",
-          "content": "Kuuban sähköverkko romahti maanantaina. Presidentti Trump asetti Kuuban öljysaartoon tammikuussa.",
-          "date": "2026-07-07T19:02:08.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "kuuba",
-            "yhdysvallat",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20235336?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sähköt palautumassa hitaasti Kuubassa sähköverkon romahduksesta",
-          "content": "",
-          "date": "2026-07-07T00:11:30.000Z",
-          "categories": [
-            "energia",
-            "kuuba",
-            "sähköverkot",
-            "sähkökatkot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20235158?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Garden-kohun paineet pääministeri Orpolle kasvavat",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Näkökulma: Petteri Orpo aiheutti itselleen nolon tilanteen – Nyt herää vakava kysymys ",
-          "content": "Uudet paljastukset Garden-kohuhankkeesta saattoivat pääministeri Petteri Orpon puheet erikoiseen valoon ja saivat opposition riehaantumaan, kirjoittaa politiikan toimittaja Joakim Kullas.  Garden Helsinki -kohuhankkeen kujanjuoksu on ajautunut pisteeseen, jossa avoimia kysymyksiä on enemmän kuin vastauksia. Samalla pääministeri Petteri Orpo (kok) on aiheuttanut itselleen kiusallisen tilanteen. Parhaillaan lomailevan Orpon vapaapäivät eivät välttämättä ole rentouttavia, kun otsikot kertovat päivästä toiseen uusia paljastuksia Gardenin epäselvyyksistä.",
-          "date": "2026-07-07T18:53:46.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/9e11d6d4-bc50-41a3-8629-742311b3f865?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Garden Helsingin tuet | Putositko kärryiltä? Tässä ovat Orpoa horjuttavan kohun tärkeät kysymykset",
-          "content": "Paine pääministeri Petteri Orpoa kohtaan kasvaa. Kritiikki kohdistuu muun muassa hänen julkisten lausuntojensa paikkansapitävyyteen.",
-          "date": "2026-07-07T15:53:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012125525.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lisää löylyä Garden-sotkuun – Sofia Virta: Jos Orpo on antanut väärää tietoa, hänen on erottava",
-          "content": "Kansanedustaja Harry Harkimon mielestä pääministeri Petteri Orpon (kok) puheet eivät pidä paikkaansa.",
-          "date": "2026-07-07T10:22:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012126154.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Keskustasta kovaa tekstiä pääministeri Orpolle: ”Tämä ei voi jäädä tähän”",
-          "content": "Keskustan varapuheenjohtaja Markku Siponen vaatii pääministeri Petteri Orpoa (kok) ja hallitusta julkistamaan kaikki asiakirjat Garden Helsinki -sotkun selvittämiseksi.",
-          "date": "2026-07-07T08:50:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012125842.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Garden-kohu kiihtyy: vihreiden Hyrkkö vaatii lisä­selityksiä pää­ministeri Orpolta: ”Jokin ei nyt täsmää”",
-          "content": "”On edelleen epäselvää, ymmärtääkö pääministeri ylipäätään, mikä tässä asetelmassa on ongelmallista”, sanoo vihreiden kansanedustaja Saara Hyrkkö.",
-          "date": "2026-07-07T06:28:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012125307.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Erdoğan ja Trump Naton huippukokouksessa",
+      "mainTitle": "Erdoğanin vastustajan oikeudenkäynti Naton aikaan",
       "mainCategories": [
         "Maailma",
         "Politiikka"
@@ -786,7 +1179,7 @@
       ]
     },
     {
-      "mainTitle": "Nigel Farage eroaa parlamentista vaalirahakohun vuoksi",
+      "mainTitle": "Nigel Farage eroaa parlamentista ja ehdolle",
       "mainCategories": [
         "Ulkomaat",
         "Vaalit",
@@ -834,18 +1227,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20235317?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Britanniassa kiehuu – Täystyrmäys Brexit-pomon ”epätoivoiselle tempulle”",
-          "content": "Brexitin isä erosi parlamentista puhdistaakseen vaalirahakohun likaaman maineensa. Muut puolueet boikotoivat Nigel Faragen välivaaleja.  Britannian suosituinta puoluetta Reform UK:ta johtava Nigel Farage eroaa parlamentista vaalirahaskandaalin takia. Farage aikoo asettuaa uudestaan ehdolle välivaaleissa Clactonissa. – Äänestäjien tulee ratkaista kohtaloni, Farage sanoo Sky Newsilla.",
-          "date": "2026-07-07T13:36:08.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/dbc01146-a6ff-41ea-8a8b-55bfad661efb?utm_source=rss"
         }
       ]
     },
@@ -856,7 +1237,7 @@
         "Ulkomaat",
         "Maailma"
       ],
-      "imageUrl": "/images/ranska/3.jpg",
+      "imageUrl": "/images/ranska/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -914,80 +1295,6 @@
             "ulkomaat"
           ],
           "link": "https://yle.fi/a/74-20235222?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Suomussalmen raakkutuho: syytteet ja korvaukset",
-      "mainCategories": [
-        "Kotimaa",
-        "Luonto",
-        "Suomussalmi"
-      ],
-      "imageUrl": "/images/metsä/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "2 miljoonan euron raakkutuho: He selvisivät ilman syytteitä",
-          "content": "Syyttäjä katsoi, että viidellä epäillyllä ei ollut suoraa vastuuta tai valvontavelvollisuutta yksittäisistä hakkuista eli Hukkajoen kohteesta Viisi ihmistä selvisi ilman syytteitä elokuussa 2024 Suomussalmen Hukkajoella tapahtuneesta yli 3 000 jokihelmisimpukan eli raakun kuolemasta. Heitä epäiltiin törkeästä luonnonsuojelurikoksesta, törkeästä eläinsuojelurikoksesta ja ympäristörikoksesta.",
-          "date": "2026-07-07T17:42:47.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/a3d13151-15c2-47e0-9245-4d68e31d2109?utm_source=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Metsäkone aiheutti tuhansien raakkujen kuoleman – syytteet nostettu",
-          "content": "Syyttäjä haluaa viisi ihmistä ja kolme yhtiötä vastuuseen törkeistä rikoksista.",
-          "date": "2026-07-07T13:53:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012126992.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Viidelle ihmiselle syytteet Suomussalmen raakkutuhosta – valtiolle vaaditaan lähes kahden miljoonan euron korvauksia",
-          "content": "Syyttäjä on nostanut syytteet tapauksessa, jossa tuhansia raakkuja kuoli metsäyhtiö Stora Enson työmaalla Suomussalmen Hukkajoella.",
-          "date": "2026-07-07T13:27:25.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/viidelle-ihmiselle-syytteet-suomussalmen-raakkutuh/13574254?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Raakut | Syyttäjä vaatii kahden miljoonan korvauksia raakkujen tuhoamisesta Hukkajoella",
-          "content": "Viittä henkilöä syytetään törkeistä luonnonsuojelu­rikoksista, törkeistä eläinsuojelu­rikoksista ja ympäristön turmelemisista.",
-          "date": "2026-07-07T13:14:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012126903.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Viidelle syytteet: Syyttäjä vaatii kahta miljoonaa euroa Suomussalmen raakkutuhoista",
-          "content": "Raakkutuho paljastui Suomussalmen Hukkajoella elokuussa 2024, kun rauhoitettujen joki­helmisimpukoiden päältä oli ajettu metsä­työkoneella toistuvasti.",
-          "date": "2026-07-07T13:11:24.000Z",
-          "categories": [
-            "luonto",
-            "suomussalmi",
-            "kainuu",
-            "hukkajoki",
-            "jokihelmisimpukka",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20235308?origin=rss"
         }
       ]
     },
@@ -1132,60 +1439,13 @@
       ]
     },
     {
-      "mainTitle": "Trumpin Grönlanti-kommentit herättävät keskustelua",
-      "mainCategories": [
-        "Nato",
-        "Ulkomaat",
-        "Grönlanti"
-      ],
-      "imageUrl": "/images/trump/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump: Grönlannin pitäisi olla Yhdysvaltojen hallinnassa, ei Tanskan",
-          "content": "Tanskan pääministeri sanoi, että hän odottaa Nato-liittolaisten kunnioittavan Tanskan suvereniteettia ja hyväksyvän, että Grönlanti ei ole myytävänä.",
-          "date": "2026-07-07T15:26:02.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "grönlanti",
-            "donald trump",
-            "tanska",
-            "yhdysvallat",
-            "nato",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20235325?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump palkitsee ja kiristää eurooppalaisia – Suomea turvaavat jättiostokset Yhdysvalloista",
-          "content": "Suomi on Euroopan kärkeä aseostoissa Yhdysvalloista. Tutkijan mielestä riippuvuus on ongelma, Suomen mielestä ei.",
-          "date": "2026-07-06T02:30:35.000Z",
-          "categories": [
-            "nato",
-            "politiikka",
-            "ulkomaat",
-            "turvallisuus",
-            "suomen puolustusvoimat",
-            "kansainvälinen politiikka",
-            "donald trump"
-          ],
-          "link": "https://yle.fi/a/74-20234211?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Hamas hajottaa hallintonsa rauhan edistämiseksi",
       "mainCategories": [
         "Ulkomaat",
         "Hamas",
         "Israel"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1284,11 +1544,11 @@
       ]
     },
     {
-      "mainTitle": "Nato-kokous Ankarassa keskittyy Ukrainan tukeen",
+      "mainTitle": "Nato-kokouksessa rauhan edistäminen keskiössä",
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/nato/1.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1313,18 +1573,6 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000012126309.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Stubbilta viiltävä Venäjä-kuitti CNBC:llä: IL seuraa Nato-kokousta",
-          "content": "Naton huippukokous pidetään Ankarassa. Iltalehti seuraa tapahtumia hetki hetkeltä. Puolustusliitto Naton huippukokous on koolla Ankarassa. Johtajien on määrä neuvotella muun muassa jäsenmaiden puolustussatsauksista ja Ukrainan tukemisen jatkamisesta Venäjän laitonta hyökkäyssotaa vastaan. Yhdysvaltain presidentin Donald Trumpin näkemykset viiden prosentin budjettilupauksista ovat kokousten mahdollisesti keskeisintä antia. Suomesta paikalle lähtevät ulko- ja turvallisuuspolitiikan ykkösnimet: Ankarassa ovat tasavallan presidentti Alexander Stubb, ulkoministeri Elina Valtonen (kok) ja puolustusministeri Antti Häkkänen (kok).",
-          "date": "2026-07-07T04:52:39.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/54c3f593-884d-4f83-8c9c-c29a353e552e?utm_source=rss"
         }
       ]
     },
@@ -1410,61 +1658,64 @@
       ]
     },
     {
-      "mainTitle": "Vapaavuoren Garden Helsinki -hanke torjuttiin ministeriössä",
+      "mainTitle": "Raakkujen tuhoamisesta syytteet viidelle henkilölle",
       "mainCategories": [
-        "Politiikka",
-        "Lobbaus"
+        "Kotimaa",
+        "Luonto",
+        "Suomussalmi"
       ],
-      "imageUrl": "/images/helsinki/1.jpg",
+      "imageUrl": "/images/metsä/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "IS paljastaa viestit: Vapaavuori haki apua huipulta – VM vastasi tavalla, joka näyttää nyt poikkeuksellisen tylyltä",
-          "content": "Sähköpostit paljastavat, miten Jan Vapaavuoren yritykset edistää Garden Helsinkiä törmäsivät valtiovarainministeriössä poikkeuksellisen tylyyn kohteluun. Viesteistä käy ilmi, miten hallihanke torjuttiin kulisseissa – ja miten Vapaavuorta jopa näpäytettiin matkalla ministerin pakeille.",
-          "date": "2026-07-07T13:32:00.000Z",
-          "categories": [],
-          "link": "https://www.is.fi/politiikka/art-2000012125568.html"
+          "title": "Metsäkone aiheutti tuhansien raakkujen kuoleman – syytteet nostettu",
+          "content": "Syyttäjä haluaa viisi ihmistä ja kolme yhtiötä vastuuseen törkeistä rikoksista.",
+          "date": "2026-07-07T13:53:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012126992.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Viestit paljastavat, miten ministeriö antoi rukkaset Garden-hankkeelle ja miten Vapaavuori kääntyi Orpon puoleen",
-          "content": "Valtiovarain­ministeriön ja Helsingin Garden -hanketta lobanneen Jan Vapaavuoren viestin­­vaihdosta selviää, kuinka ministeriö torjui hankkeen tukemisen valtion­takauksella.",
-          "date": "2026-07-07T06:32:43.000Z",
-          "categories": [
-            "politiikka",
-            "garden helsinki",
-            "jan vapaavuori",
-            "lobbaus"
-          ],
-          "link": "https://yle.fi/a/74-20235167?origin=rss"
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Viidelle ihmiselle syytteet Suomussalmen raakkutuhosta – valtiolle vaaditaan lähes kahden miljoonan euron korvauksia",
+          "content": "Syyttäjä on nostanut syytteet tapauksessa, jossa tuhansia raakkuja kuoli metsäyhtiö Stora Enson työmaalla Suomussalmen Hukkajoella.",
+          "date": "2026-07-07T13:27:25.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/viidelle-ihmiselle-syytteet-suomussalmen-raakkutuh/13574254?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Garden Helsingin tuet | Vapaavuoren sähköposti: Orpo kannusti tapaamaan Purraa",
-          "content": "Sähköpostit paljastavat, miten virkakunta tyrmäsi hallirahoituksen. Orpo väitti, ettei muista hankkeista ollut ”mitään vastaavaa tietoa” tukipäätöstä tehtäessä. Virkamiesmuistio todistaa päinvastaista.",
-          "date": "2026-07-06T18:27:00.000Z",
+          "title": "Raakut | Syyttäjä vaatii kahden miljoonan korvauksia raakkujen tuhoamisesta Hukkajoella",
+          "content": "Viittä henkilöä syytetään törkeistä luonnonsuojelu­rikoksista, törkeistä eläinsuojelu­rikoksista ja ympäristön turmelemisista.",
+          "date": "2026-07-07T13:14:00.000Z",
           "categories": [
-            "politiikka"
+            "suomi"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000012124916.html"
+          "link": "https://www.hs.fi/suomi/art-2000012126903.html"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Uusi paljastus Garden Helsinki -kohusta",
-          "content": "IS:n tietopyynnöllä saamat sähköpostit paljastavat tiiviin yhteydenpidon Jan Vapaavuoren ja valtiovarainministeriön ylimpien virkamiesten välillä.",
-          "date": "2026-07-06T17:38:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Viidelle syytteet: Syyttäjä vaatii kahta miljoonaa euroa Suomussalmen raakkutuhoista",
+          "content": "Raakkutuho paljastui Suomussalmen Hukkajoella elokuussa 2024, kun rauhoitettujen joki­helmisimpukoiden päältä oli ajettu metsä­työkoneella toistuvasti.",
+          "date": "2026-07-07T13:11:24.000Z",
           "categories": [
-            "politiikka"
+            "luonto",
+            "suomussalmi",
+            "kainuu",
+            "hukkajoki",
+            "jokihelmisimpukka",
+            "kotimaa"
           ],
-          "link": "https://www.is.fi/politiikka/art-2000012124981.html"
+          "link": "https://yle.fi/a/74-20235308?origin=rss"
         }
       ]
     },
@@ -1521,7 +1772,7 @@
       ]
     },
     {
-      "mainTitle": "Oulun pyöräilevä puukottaja yhä vapaalla",
+      "mainTitle": "Oulun pyöräilijäpuukottaja yhä etsinnässä",
       "mainCategories": [
         "Kotimaa",
         "Rikokset",
@@ -1665,56 +1916,13 @@
       ]
     },
     {
-      "mainTitle": "Poliisi jäljitti leluasetta Helsingissä",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Leikkiaseet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi jäljitti asemiestä Helsingin keskustassa, kyseessä olikin kuula-ase",
-          "content": "Helsingin ydinkeskustassa Kampissa oli useita poliisi­partioita epäiltyä asemiestä etsimässä.",
-          "date": "2026-07-07T10:00:04.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "leikkiaseet",
-            "kamppi (kauppakeskus)",
-            "kamppi",
-            "helsinki",
-            "poliisin toimenpiteet",
-            "helsingin poliisilaitos",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20235241?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisi etsi aseen kanssa liikkunutta Helsingin Kampissa – ase olikin lelu",
-          "content": "Poliisin mukaan tilanteesta ei aiheutunut vaaraa ulkopuolisille.",
-          "date": "2026-07-07T09:40:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012126020.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Monacon pommi-iskusta epäilty nainen kuollut",
       "mainCategories": [
         "Ulkomaat",
         "Rikokset",
         "Monaco"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1759,45 +1967,13 @@
       ]
     },
     {
-      "mainTitle": "Armeija sallii miehille pitkät hiukset",
-      "mainCategories": [
-        "Suomi"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Santahaminassa | Armeija salli pitkät hiukset kaikille, näin se näkyy kasarmilla",
-          "content": "Uudet alokkaat aloittivat maanantaina varusmiespalveluksen. Puolustusvoimien tuore käytäntö sallii ensimmäistä kertaa miehille pitkät hiukset.",
-          "date": "2026-07-07T07:16:00.000Z",
-          "categories": [
-            "tilaajille",
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012115734.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Varusmiehet aloittavat palveluksensa uudessa ajassa – nyt miehilläkin saa olla pitkät hiukset",
-          "content": "Hiuskäytännön muuttuminen on osa yleisen palvelusohjesäännön päivitystä. Muutoksen myötä esimerkiksi ahvenanmaalaisten miesten on nyt mahdollista hakeutua vapaaehtoiseen asepalvelukseen.",
-          "date": "2026-07-06T04:30:17.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/varusmiehet-aloittavat-palveluksensa-uudessa-ajass/13571631?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Venäjän iskut Kiovaan kiihtyvät jälleen",
       "mainCategories": [
         "Kiova",
         "Ukraina",
         "Siviiliuhrit"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1899,7 +2075,7 @@
         "Venäjä",
         "Ukraina"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/stubb/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -1944,7 +2120,7 @@
       ]
     },
     {
-      "mainTitle": "Venezuelassa 12-vuotias tyttö selviytyi raunioista",
+      "mainTitle": "Venezuelassa maanjäristys, tyttö selviytyi raunioista",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2053,41 +2229,7 @@
       ]
     },
     {
-      "mainTitle": "Nato-kokouksessa miljardisopimuksia ja jännitystä",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "/images/nato/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS-analyysi | Nato rauhoittelee Trumpia miljardien arvoisilla sopimuksilla",
-          "content": "Naton huippukokouksesta Ankarasta odotetaan muun muassa miljardien arvosta hankkeita puolustusteollisuuteen. Suurin huomio on silti Yhdysvaltojen ulostuloissa, kirjoittaa politiikan toimittaja Elina Kervinen.",
-          "date": "2026-07-06T15:26:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012117295.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Analyysi: USA:n puolustusministerin pöyristyttävä suunnitelma paljastui – se kertoo Nato-kokouksen tunnelmasta",
-          "content": "Jos asiat menevät Naton huippukokouksen suljettujen ovien takana pieleen, voi Yhdysvaltain presidentin Donald Trumpin lähtö takaisin Yhdysvaltoihin olla vielä odotettuakin värikkäämpi, kirjoittaa politiikan toimittaja Iida Hallikainen.",
-          "date": "2026-07-06T14:44:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012123739.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Rata-alueella liikkuminen on hengenvaarallista",
+      "mainTitle": "Väylävirasto varoittaa rata-alueen vaaroista",
       "mainCategories": [
         "Kotimaa"
       ],
