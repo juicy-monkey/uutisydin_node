@@ -1,15 +1,437 @@
 {
-  "timestamp": "2026-08-18T19:47:34.014Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-08-19T04:32:02.532Z",
+  "successCount": 20,
+  "failureCount": 2,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Öljyvuoto Linnansaaren kansallispuistossa Rantasalmella",
+      "mainTitle": "SDP ykkönen, kokoomus pohjalukemissa",
       "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Öljyvuodot"
+        "Politiikka",
+        "Puolueet",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "HS-gallup: SDP jatkaa suosituimpana puolueena, kokoomuksen kannatus alimmillaan yli viiteen vuoteen",
+          "content": "",
+          "date": "2026-08-19T04:17:32.000Z",
+          "categories": [
+            "kannatusmittaukset",
+            "puolueet",
+            "politiikka",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7060983"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HS-gallup: Kokoomuksen kannatus vaalikauden pohja­mudissa",
+          "content": "Kokoomuksen kannatus jatkaa laskemistaan.",
+          "date": "2026-08-19T00:39:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012214698.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS-gallup: Kokoomuksen kannatus alimmillaan yli viiteen vuoteen",
+          "content": "",
+          "date": "2026-08-19T00:21:13.000Z",
+          "categories": [
+            "politiikka",
+            "suomen poliittiset puolueet",
+            "puolueet",
+            "suomen politiikka",
+            "puolueiden kannatus",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20241731?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "HS-gallup: Perus­suomalaiset kiri keskustan ohi – Kokoomus vajosi vaalikauden pohjalukemiin",
+          "content": "Heinäkuuhun verrattuna muutokset ovat kokonaisuudessaan vähäisiä. Kokoomuksen kannatus on painunut Helsingin Sanomien gallupissa vaalikauden alhaisimmalle tasolleen 16,5 prosenttiin. Kannatus laski heinäkuusta 0,2 prosenttiyksikköä. SDP säilyttää asemansa gallupin kärkipaikalla 23,8 prosentin kannatuksella.",
+          "date": "2026-08-18T23:59:54.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/100c05d7-5f45-41f9-a0ec-5fb60c422e57?utm_source=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS-gallup | Kokoomuksen kannatus vaali­kauden matalin, Sdp jatkaa suurimpana",
+          "content": "Vasemmistoliiton äänestäjät ovat varmimpia puoluekannastaan, selviää elokuun HS-gallupista.",
+          "date": "2026-08-18T23:00:00.000Z",
+          "categories": [
+            "tilaajille",
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012212668.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat kysyy liittolaisten uskollisuutta",
+      "mainCategories": [
+        "Politiikka",
+        "Yhdysvallat",
+        "Nato"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "USA:n kirjelmä Suomelle hämmentää – \"Ei ole normaalia\"",
+          "content": "Yhdysvaltojen menettely kyselyn kanssa ei ole Ulkopoliittisen instituutin tutkijan mukaan normaalia liittolaisten välillä käytävää diplomaattista keskustelua. Yhdysvallat haluaa lähettämällään kyselyllä selvästi luoda painetta Nato-liittolaisilleen Euroopassa, arvioi Ulkopoliittisen instituutin tutkija Joel Linnainmäki Iltalehdelle. – Halutaan muistuttaa siitä, että Yhdysvallat seuraa sitä, nousevatko puolustusmenot, tukevatko maat Trumpin hallinnon politiikkaa ja tehdäänkö hankintoja myös Yhdysvaltain puolustusteollisuudelta, Linnainmäki sanoo.",
+          "date": "2026-08-19T04:01:03.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/e772ed53-4528-4f91-bcbc-6a3cfe969628?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump kartoittaa kirjeellä Suomenkin uskollisuutta – Häkkänen: Ei dramatiikkaa",
+          "content": "Yhdysvallat kysyy, miten kukin maa on tukenut sen ulkopolitiikkaa. Puolustusministeri Häkkänen on keskustellut asiasta ministeri Hegsethin kanssa.",
+          "date": "2026-08-18T16:33:18.000Z",
+          "categories": [
+            "politiikka",
+            "yhdysvallat",
+            "antti häkkänen",
+            "donald trump",
+            "nato",
+            "maanpuolustus"
+          ],
+          "link": "https://yle.fi/a/74-20241705?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Näin Yhdysvallat selvittää Nato-kumppanien uskollisuutta – Häkkänen kommentoi kirjettä",
+          "content": "Yhdysvallat on lähettänyt kirjeen liittolaisilleen.",
+          "date": "2026-08-18T14:45:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012212484.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Puolustus | Mitä Yhdysvallat oikein hakee ”uskollisuus­kyselyllä”, Antti Häkkänen?",
+          "content": "Suomikin on saanut kyselyn, jossa Yhdysvallat tiedustelee liittolaistensa uskollisuutta presidentti Donald Trumpin politiikalle.",
+          "date": "2026-08-18T13:16:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012212546.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump lykkää Kanadan tuontitulleja kolmella päivällä",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Kanada"
+      ],
+      "imageUrl": "/images/kanada/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppasota | Trump lykkää Kanadan tuontitullien voimaantuloa kolmella päivällä",
+          "content": "Presidentti Trumpin mukaan Yhdysvallat ja Kanada ovat päässeet sopimukseen.",
+          "date": "2026-08-19T03:40:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012214711.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trump antaa Kanadalle lisäaikaa",
+          "content": "Uusien tullien uhka on lisännyt painetta Kanadan taloudelle. Yhdysvaltain presidentti Donald Trump on lykännyt suunniteltujen 50 prosentin tullien käyttöönottoa tietyille kanadalaisille tuotteille kolmella päivällä. Trump ilmoitti lykkäyksestä varhain keskiviikkona Truth Social -palvelussa Kanadan pääministerin Mark Carneyn kanssa käytyjen kiireisten neuvottelujen jälkeen. Asiasta on uutisoinut muun muassa AFP. ",
+          "date": "2026-08-19T03:21:42.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/d92d7de1-bd89-4d2c-a4ce-3de6edde65c7?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump lykkää Kanadalle määrättyjä hurjia tullimaksuja",
+          "content": "Kanadasta tuotaville tavaroille suunnitellut tullit keskeytetään kolmeksi päiväksi.",
+          "date": "2026-08-19T02:51:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012214714.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump: Yhdysvallat ja Kanada sopuun, tuontitullien voimaantuloa lykätään",
+          "content": "Uusien tullien oli määrä astua voimaan keskiviikon vastaisena yönä paikallista aikaa.",
+          "date": "2026-08-19T02:31:03.000Z",
+          "categories": [
+            "yhdysvallat",
+            "kanada",
+            "tuontitulli",
+            "kansainvälinen kauppa",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20241734?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Fedorov vaatii vaaleja Ukrainaan sota-aikana",
+      "mainCategories": [
+        "Ulkomaat",
+        "Ukraina",
+        "Maailma"
+      ],
+      "imageUrl": "/images/ukraina/4.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yllättävä vaatimus Ukrainan suositulta ex-puolustus­ministeriltä: vaalit sota-aikana",
+          "content": "Myhailo Fedorovin mukaan Venäjän presidentin Vladimir Putinin ei tule päättää, milloin ukrainalaiset valitsevat uuden hallituksen.",
+          "date": "2026-08-19T03:33:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012214645.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina | Suosittu ex-puolustus­ministeri vaatii vaaleja, kritisoi voimakkaasti Zelenskyin hallintoa",
+          "content": "”Demokratia ei voi olla Venäjän panttivanki”, perustelee Myhailo Fedorov.",
+          "date": "2026-08-18T22:01:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012214670.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suosittu entinen puolustusministeri Fedorov vaatii vaaleja Ukrainaan",
+          "content": "Fedorov on ensimmäinen merkittävä ukrainalainen poliitikko, joka on vaatinut vaaleja sen jälkeen, kun Venäjä aloitti täysimittaisen hyökkäyssotansa.",
+          "date": "2026-08-18T20:03:02.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ukraina",
+            "ukrainan politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20241723?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump haluaa tapaamisen Kimin kanssa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Politiikka"
+      ],
+      "imageUrl": "/images/trump/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "WSJ: Trump patistelee avustajiaan – haluaa tavata Pohjois-Korean johtajan pian",
+          "content": "Johtajat saattavat tavata marraskuussa, lehden lähteet kertovat.",
+          "date": "2026-08-19T03:24:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012214684.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | WSJ: Trump haluaa tavata Pohjois-Korean Kimin vielä tänä syksynä",
+          "content": "Johtajat saattavat tavata marraskuussa, lehden lähteet kertovat.",
+          "date": "2026-08-19T03:23:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012214679.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "WSJ: Trump havittelee tapaamista Pohjois-Korean Kimin kanssa",
+          "content": "Trump ja Kim tapasivat viimeksi vuonna 2019. Wall Street Journalin mukaan Yhdysvaltain presidentti Donald Trump tavoittelee tapaamista Pohjois-Korean johtajan Kim Jong-unin kanssa marraskuussa. Tapaaminen voisi toteutua Trumpin Aasian-matkan yhteydessä Aasian ja Tyynenmeren maiden talousjärjestön Apecin huippukokouksessa. Trump ja Kim tapasivat viimeksi vuonna 2019. Kaikkiaan Trump ja Kim tapasivat kolme kertaa vuosina 2018–2019, mutta neuvottelut Pohjois-Korean ydinaseohjelmasta eivät johtaneet pysyvään sopimukseen.",
+          "date": "2026-08-18T23:30:49.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/609bd6f0-d217-4c97-a3a8-560b28c97ec1?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "WSJ: Trump pyrkii tapaamaan Pohjois-Korean Kimin loppuvuodesta",
+          "content": "Tapaaminen voisi tapahtua samassa yhteydessä, kun Trump matkustaa Aasian ja Tyynenmeren maiden talousjärjestön huippukokoukseen.  Kaksikko tapasi viimeksi vuonna 2019.",
+          "date": "2026-08-18T23:18:57.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "pohjois-korea",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20241730?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kommentit Etelä-Koreasta ovat tyypillistä Trumpia, sanoo tutkija – ”Hän ei arvosta liittolaisiaan”",
+          "content": "Trump sanoi olevansa turhautunut liittolaiseensa Etelä-Koreaan, mutta taustalla on myös halu olla vahvan johtajan kaveri, arvioi tutkija Maria Lindén.",
+          "date": "2026-08-17T14:29:40.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "politiikka",
+            "kim jong-un",
+            "etelä-korea",
+            "pohjois-korea",
+            "kansainvälinen politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20241402?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sosiaaliturvan leikkaukset lisäävät tuloeroja",
+      "mainCategories": [
+        "Politiikka",
+        "Sosiaaliturva",
+        "Tulonjako"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Uusi raportti: Leikkaukset iskivät pahiten tähän ryhmään – Nyt puhuu ministeri Partanen",
+          "content": "Suojaosia ei palauteta tällä hallituskaudella. Tuore tutkimus asettaa kyseenalaiseksi suojaosien poiston. Hallituksen poistamat työttömyysetuuksien ja asumistuen suojaosat lisäsivät selvästi osa-aikatyön tekemistä työttömyyden aikana, osoittaa Laboren, Tampereen yliopiston ja Valtion taloudellisen tutkimuskeskuksen (VATT) tutkijoiden juuri julkaistu tutkimus. Suojaosat eivät myöskään syrjäytä kokoaikatyötä. ",
+          "date": "2026-08-19T03:00:04.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/8e33271a-b541-41c9-8e4a-5cd3ec9539b1?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Raportti: Pienituloisilta lähti liki 1 000 euroa vuodessa, suurituloiset saivat yli 2 000 euroa lisää",
+          "content": "Pienituloisuus ja tuloerot lisääntyvät hallituksen toimien takia, uusi raportti paljastaa. Veronkevennykset hyödyttävät erityisesti suurituloisia.",
+          "date": "2026-08-18T07:25:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000012212250.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tutkijat laskivat hallituksen päätösten vaikutukset: pienituloisimmat köyhtyvät, suurituloisimmat rikastuvat",
+          "content": "Sosiaaliturvan leikkaukset ovat lisänneet pienituloisuutta ennakoitua enemmän. Veroratkaisut tuovat samalla lisää rahaa hyvätuloisille, kertoo Laboren tutkimus.",
+          "date": "2026-08-18T04:30:35.000Z",
+          "categories": [
+            "politiikka",
+            "sosiaaliturva",
+            "tulonjako",
+            "menoleikkaukset",
+            "toimeentulotuki",
+            "orpon hallitus"
+          ],
+          "link": "https://yle.fi/a/74-20241461?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Työllisyys | Tutkimus: Hallituksen poistamat sosiaaliturvan suojaosat tukivatkin työllistymistä",
+          "content": "Poistamisesta vastuussa ollut silloinen työministeri Arto Satonen (kok) pitää mahdollisena suojaosien palauttamista uudenlaisessa muodossa.",
+          "date": "2026-08-17T15:09:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012210870.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Öljyvahinko Saimaalla torjuntatoimilla jatkuu",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -17,70 +439,163 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Savo | Kansallis­puistossa torjutaan öljy­vahinkoa: Vedessä jopa satoja litroja moottori­öljyä",
-          "content": "Öljyä on vuotanut Linnansaaren kansallispuiston alueelle: ”Sitä on jo rannoilla, saarissa, kaikkea ei tulla saamaan pois.”",
-          "date": "2026-08-18T19:41:00.000Z",
+          "title": "Savo | Kansallis­puistossa torjutaan öljy­vahinkoa: Veteen vuoti satoja litroja moottori­öljyä",
+          "content": "Torjuntatoimet jatkuivat läpi tiistain ja keskiviikon välisen yön, ja niitä jatketaan vielä keskiviikkona.",
+          "date": "2026-08-19T02:55:00.000Z",
           "categories": [
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000012214577.html"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Öljyvuoto kansallis­puiston lähellä – Saimaalla käynnissä suuri operaatio",
-          "content": "Kauppa-aluksen tekninen vika aiheutti öljyvuodon luonnonsuojelualueella. Rantasalmella Linnansaaren kansallispuiston lähettyvillä on tapahtunut öljyvuoto. Asian vahvistaa Iltalehdelle Etelä-Savon pelastuslaitoksen palopäällikkö Antti Peltonen. Linnansaaren kansallispuisto sijaitsee Saimaalla.",
-          "date": "2026-08-18T16:47:37.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Öljyvahinko Saimaalla",
+          "content": "Öljyntorjuntatoimet Haukivedellä jatkuvat yön yli.",
+          "date": "2026-08-18T20:08:00.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/114582eb-d050-451b-a021-88e8d8a7ee64?utm_source=rss"
+          "link": "https://www.is.fi/kotimaa/art-2000012214514.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "RKP, kokoomus ja keskusta kokoontuvat",
+      "mainCategories": [
+        "Politiikka",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "RKP:n eduskuntaryhmä koolla tänään Itä-Uudellamaalla",
+          "content": "",
+          "date": "2026-08-19T01:51:06.000Z",
+          "categories": [
+            "politiikka",
+            "suomen ruotsalainen kansanpuolue",
+            "suomen politiikka",
+            "suomen poliittiset puolueet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20241733?origin=rss"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Jopa 900 litraa öljyä valui rahtilaivasta veteen kansallispuiston alueella Rantasalmella",
-          "content": "Paikalla on useita pelastusyksiköitä kahden maakunnan alueelta.",
-          "date": "2026-08-18T16:09:22.000Z",
+          "title": "Kokoomus ja keskusta kokoustavat tänään",
+          "content": "",
+          "date": "2026-08-18T01:50:08.000Z",
           "categories": [
-            "onnettomuudet",
-            "öljyvuodot",
-            "rantasalmi",
-            "etelä-savo",
-            "öljyvahingot",
-            "pelastustoimi",
-            "öljyonnettomuudet",
-            "pelastustoiminta",
-            "pelastuslaitokset",
-            "kotimaa",
-            "pohjois-savo"
+            "politiikka",
+            "suomen poliittiset puolueet",
+            "kansallinen kokoomus",
+            "suomen keskusta",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20241708?origin=rss"
+          "link": "https://yle.fi/a/74-20241526?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Sähkön hinnat nousevat syksyllä merkittävästi",
+      "mainTitle": "Ikääntyneet haavoittuvaisempia kuumuudelle tulevaisuudessa",
       "mainCategories": [
-        "Energia",
-        "Kotimaa",
-        "Talous"
+        "Ilmasto",
+        "Tutkimus",
+        "Ilmastonmuutos"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tutkimus | Kova helle on yli 60-vuotiaille vaarallisempaa kuin on ajateltu",
+          "content": "Tulevaisuudessa yhä useammat iäkkäät aikuiset voivat kärsiä kuumuuteen liittyvistä terveysongelmista.",
+          "date": "2026-08-19T00:53:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012214622.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tutkimus: Ikääntyvät aiempaa luultua haavoittuvaisempia ilmaston lämpenemiselle",
+          "content": "Tutkimuksen perusteella yli 60-vuotiaista joka viides altistuu vaaralliselle kuumuudelle vähintään kuukauden ajan, jos keskilämpötila nousee 1,5 astetta.",
+          "date": "2026-08-18T01:38:23.000Z",
+          "categories": [
+            "ilmasto",
+            "tutkimus",
+            "ilmastonmuutos",
+            "terveys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20241525?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Maailman rumin koira -kilpailu järjestettiin",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Sähkön hinta keskiviikkona elokuun ennätykseen",
-          "content": "Halvan pörssisähkön kesä alkaa olla auttamattomasti ohitse.",
-          "date": "2026-08-18T19:15:00.000Z",
+          "title": "Tässä on maailman rumin koira",
+          "content": "Maailman rumin koira -kilpailu järjestettiin Santa Rosassa Kaliforniassa.",
+          "date": "2026-08-19T00:34:00.000Z",
           "categories": [
-            "taloussanomat"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012214301.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000012214697.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Lemmikit | Jinny Lu on maailman rumin koira",
+          "content": "Maailman rumin koira -kilpailu järjestettiin Santa Rosassa Kaliforniassa.",
+          "date": "2026-08-19T00:30:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012214676.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sähkön hinta nousee ennätyslukemiin",
+      "mainCategories": [
+        "Kotimaa",
+        "Energia",
+        "Talous"
+      ],
+      "imageUrl": "/images/talous/8.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Hirvittävä piikki – Sähkön hinta kipuaa rajuihin lukemiin",
+          "content": "Sekä vuorokauden keskihinta että päivän korkein varttihinta ovat kuukauden ennätyslukemissa. Pörssisähkön hinta kallistuu keskiviikkona tuntuvasti tiistaihin verrattuna ja nousee samalla elokuun korkeimmille tasoille. Sekä vuorokauden keskihinta että päivän korkein varttihinta ovat kuukauden ennätyslukemissa.",
+          "date": "2026-08-18T21:33:38.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/54ed0862-40dc-4ccf-8566-18018bdf9cf8?utm_source=rss"
         },
         {
           "publisherId": "yle",
@@ -128,6 +643,58 @@
       ]
     },
     {
+      "mainTitle": "Poliisiylijohtaja: Voimankäyttö epäonnistunut kolmessa tapauksessa",
+      "mainCategories": [
+        "Kotimaa",
+        "Poliisi",
+        "Turvallisuus"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Poliisi­ylijohtaja kommentoi voimankäyttöä Ylellä: ”Ei ole poliisi­toiminta onnistunut”",
+          "content": "Ylen A-studiossa vieraillut poliisiylijohtaja Ilkka Koskimäki kommentoi kolmessa julkisuuteen hiljattain tulleessa tapauksessa poliisin voimankäytön epäonnistuneen. Poliisiylijohtaja Ilkka Koskimäki otti kantaa Ylen tiistai-illan A-studiossa viimeaikaiseen poliisin voimankäyttöön. – Meidän käsityksemme mukaan näissä tapauksissa ei ole poliisitoiminta onnistunut, Koskimäki kommentoi A-studiossa.",
+          "date": "2026-08-18T19:52:15.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/bb461cc2-11b9-4061-90a2-267a55fd8473?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisiylijohtaja Ylellä: ”Poliisin toiminta ei ole ollut onnistunutta”",
+          "content": "Poliisin voimankäyttö on herättänyt kysymyksiä.",
+          "date": "2026-08-18T18:52:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012214464.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisiylijohtaja voimankäytöstä A-studiossa: Poliisitoiminta ei ole onnistunut",
+          "content": "Kolme tapausta puolentoista viikon sisään on toimitettu syyttäjän arvioitavaksi.",
+          "date": "2026-08-18T17:32:52.000Z",
+          "categories": [
+            "poliisi",
+            "turvallisuus",
+            "lainvalvonta",
+            "poliisitutkinta",
+            "kotimaa",
+            "a-studio"
+          ],
+          "link": "https://yle.fi/a/74-20241683?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Poliisi käytti etälamautinta kehitysvammaiseen mieheen",
       "mainCategories": [
         "Kotimaa",
@@ -156,7 +723,7 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Yle: Poliisin etä­lamauttimeen kuollut oli kehitys­vammainen mies",
+          "title": "Yle: Poliisin etälamauttimen tappama mies oli kehitys­vammainen",
           "content": "Poliisi tiedotti ampuneensa väkivaltaisesti käyttäytynyttä miestä etälamauttimella 14. elokuuta. Poliisi ampui etälamauttimella noin 50-vuotiasta kehitysvammaista miestä, uutisoi Yle. Uhrin lähiomaiset kertoivat Ylelle, että mies asui espoolaisessa kehitysvammaisten asumisyksikössä.",
           "date": "2026-08-18T18:33:03.000Z",
           "categories": [
@@ -209,12 +776,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjän ekonomisti sai potkut suorasanaisuudesta",
+      "mainTitle": "Venäjän ekonomisti sai potkut kriittisistä puheista",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/talous/2.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -243,47 +810,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisiylijohtaja myöntää epäonnistumisia voimankäytössä",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Turvallisuus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisiylijohtaja Ylellä: ”Poliisin toiminta ei ole ollut onnistunutta”",
-          "content": "Poliisin voimankäyttö on herättänyt kysymyksiä.",
-          "date": "2026-08-18T18:52:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012214464.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisiylijohtaja voimankäytöstä A-studiossa: Poliisitoiminta ei ole onnistunut",
-          "content": "Kolme tapausta puolentoista viikon sisään on toimitettu syyttäjän arvioitavaksi.",
-          "date": "2026-08-18T17:32:52.000Z",
-          "categories": [
-            "poliisi",
-            "turvallisuus",
-            "lainvalvonta",
-            "poliisitutkinta",
-            "kotimaa",
-            "a-studio"
-          ],
-          "link": "https://yle.fi/a/74-20241683?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Riistavaroitusjärjestelmät ja peltipoliisit Suomessa",
+      "mainTitle": "Riistavaroitusjärjestelmät vähentävät kolareita Naantalissa",
       "mainCategories": [
         "Liikenne",
         "Kotimaa",
@@ -349,7 +876,7 @@
         "Saaristomeri",
         "Parainen"
       ],
-      "imageUrl": "/images/stubb/4.jpg",
+      "imageUrl": "/images/stubb/3.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -378,70 +905,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000012191115.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvallat kysyy liittolaisten uskollisuutta",
-      "mainCategories": [
-        "Politiikka",
-        "Yhdysvallat",
-        "Nato"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trump kartoittaa kirjeellä Suomenkin uskollisuutta – Häkkänen: Ei dramatiikkaa",
-          "content": "Yhdysvallat kysyy, miten kukin maa on tukenut sen ulkopolitiikkaa. Puolustusministeri Häkkänen on keskustellut asiasta ministeri Hegsethin kanssa.",
-          "date": "2026-08-18T16:33:18.000Z",
-          "categories": [
-            "politiikka",
-            "yhdysvallat",
-            "antti häkkänen",
-            "donald trump",
-            "nato",
-            "maanpuolustus"
-          ],
-          "link": "https://yle.fi/a/74-20241705?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin Yhdysvallat selvittää Nato-kumppanien uskollisuutta – Häkkänen kommentoi kirjettä",
-          "content": "Yhdysvallat on lähettänyt kirjeen liittolaisilleen.",
-          "date": "2026-08-18T14:45:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012212484.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Uutta tietoa Yhdysvaltain yllättävästä kirjelmästä Suomelle: Kyse on vakavista asioista",
-          "content": "Puolustusministeri Antti Häkkänen sanoo olevansa rauhallisin mielin Yhdysvaltain toimittamasta kyselystä. – Kyllä me suurin piirtein tiedämme, missä mennään, sanoo puolustusministeri Antti Häkkänen (kok) Iltalehdelle viime viikon turvallisuuspoliittisesta uutisesta. Yhdysvallat lähestyi Suomea ja muita liittolaisiaan vastikään selvityspyynnöllä, jossa tiedusteltiin maiden näkemyksiä ja erityisesti tukea presidentti Donald Trumpin ulkopolitiikalle. Bloombergin mukaan Nato-maissa heräsi asiasta jopa kiukkua: osa maista koki Yhdysvaltojen painostavan liittolaisiaan Trumpin taakse, jotta sotilasmahti pysyy niiden tukena puolustusasioissa.",
-          "date": "2026-08-18T14:44:10.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/576fb742-439a-4ed2-9715-6c7e029a33ee?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puolustus | Mitä Yhdysvallat oikein hakee ”uskollisuus­kyselyllä”, Antti Häkkänen?",
-          "content": "Suomikin on saanut kyselyn, jossa Yhdysvallat tiedustelee liittolaistensa uskollisuutta presidentti Donald Trumpin politiikalle.",
-          "date": "2026-08-18T13:16:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012212546.html"
         }
       ]
     },
@@ -480,13 +943,13 @@
       ]
     },
     {
-      "mainTitle": "Trump haluaa muuttaa Yhdysvaltojen laivanrakennusta",
+      "mainTitle": "Trump ehdottaa Suomi-mallia laivanrakennukseen",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Laivanrakennus"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -521,60 +984,7 @@
       ]
     },
     {
-      "mainTitle": "Uusia sikaruttotapauksia Kaakkois-Suomessa",
-      "mainCategories": [
-        "Kotimaa",
-        "Terveys",
-        "Virolahti"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Neljä uutta sikarutto­tapausta",
-          "content": "Virusta löytyi kuolleena löydetyistä villisioista Kaakkois-Suomessa. Sikaruttotapauksia löytyi taas lisää. Asiasta kertoo Ruokavirasto tiedotteessa.  Ruokaviraston tänään valmistuneissa tutkimuksissa todettiin sikaruttoa neljällä luonnonvaraisella villisialla.",
-          "date": "2026-08-18T14:58:09.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/1d6f847c-1d9b-448a-a4b5-5d36b02e4b15?utm_source=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Taas uusia sikaruttotapauksia",
-          "content": "Tutkimuksissa oli mukana yhteensä viisi kuolleena löydettyä villisikaa sekä yksi epätyypillisen käytöksen takia ammuttu villisika.",
-          "date": "2026-08-18T14:29:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012214277.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Neljä uutta afrikkalaisen sikaruton tapausta todettu Kaakkois-Suomessa",
-          "content": "Ruokaviraston tänään valmistuneissa tutkimuksissa paljastui uusia sikaruttotapauksia.",
-          "date": "2026-08-18T14:10:59.000Z",
-          "categories": [
-            "terveys",
-            "virolahti",
-            "villisika",
-            "virustaudit",
-            "kymenlaakso",
-            "etelä-karjala",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20241695?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Poliisin aseellinen uhkaus tutkintaan Tampereella",
+      "mainTitle": "Poliisin toiminta mopoilijoita kohtaan tutkinnassa",
       "mainCategories": [
         "Kotimaa",
         "Suomi",
@@ -640,7 +1050,7 @@
       ]
     },
     {
-      "mainTitle": "Bussikuski pyörtyi, matkustajat ottivat ohjat",
+      "mainTitle": "Bussikuski pyörtyi, matkustajat ohjasivat bussia",
       "mainCategories": [
         "Ulkomaat",
         "Onnettomuudet",
@@ -680,25 +1090,46 @@
       ]
     },
     {
-      "mainTitle": "Israelilainen kuollut ampumaradan läheisyydessä",
+      "mainTitle": "Keskusta esittää veronkorotuksia ja leikkauksia",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Keskusta | Kaikkonen: ”Kokoomus ei näytä työttömistä kovin paljon välittävän”",
+          "content": "Keskusta kaavailee sopeuttavansa taloutta siten, että sopeutuksista kolmannes hoidettaisiin veronkorotuksilla ja kaksi kolmasosaa menoleikkauksilla.",
+          "date": "2026-08-18T14:43:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012214203.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Keskusta esittää muutoksia työnhakuun ja sosiaaliturvaan – Kaikkonen piikitteli hallitusta",
+          "content": "Keskustapomot nostavat pöydälle verotusmuutokset, sosiaaliturvan – ja maakuntien elinvoiman.",
+          "date": "2026-08-18T08:57:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012212468.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Israelilainen kuollut Luhangan ampumaradalla",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ampumaradalta löytyi israelilaisen ruumis – Nyt puhuu ampumaseuran puheenjohtaja",
-          "content": "Paikallisen ampumaseuran puheenjohtaja Ahti Weijo kertoo, että ampumaradan valvontakameratallenteet on luovutettu poliisille. Laidonkankaan ampumaradalla Keski-Suomen Luhangalla ei näy merkkejä siitä, että tasan viikkoa aiemmin ampumaradan katoksesta löytyi Israelin kansalaisen ruumis. Paikalla käynyt Iltalehden kuvaaja kertoo, ettei radalla tiistaina iltapäivällä näkynyt mitään tavallisesta poikkeavaa. Radalla ei tuolloin ollut lainkaan käyttäjiä.",
-          "date": "2026-08-18T14:47:17.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/c0b4197a-ffad-48cd-aa32-565e5ceb2b5a?utm_source=rss"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -734,90 +1165,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012212309.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Keskusta esittää veronkorotuksia ja leikkauksia",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Keskusta | Kaikkonen: ”Kokoomus ei näytä työttömistä kovin paljon välittävän”",
-          "content": "Keskusta kaavailee sopeuttavansa taloutta siten, että sopeutuksista kolmannes hoidettaisiin veronkorotuksilla ja kaksi kolmasosaa menoleikkauksilla.",
-          "date": "2026-08-18T14:43:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012214203.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Keskusta esittää muutoksia työnhakuun ja sosiaaliturvaan – Kaikkonen piikitteli hallitusta",
-          "content": "Keskustapomot nostavat pöydälle verotusmuutokset, sosiaaliturvan – ja maakuntien elinvoiman.",
-          "date": "2026-08-18T08:57:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012212468.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Alaikäinen vakavasti loukkaantui kolarissa Raumalla",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Liikenneonnettomuudet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Alaikäinen loukkaantui vakavasti kolarissa Raumalla",
-          "content": "Poikaan törmännyttä kuljettajaa epäillään rikoksista.",
-          "date": "2026-08-18T14:42:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012214266.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Pakettiauto osui alaikäiseen suojatiellä – Skootterikuski kiidätettiin hoitoon",
-          "content": "Skootterin kyydissä oli kuljettajan lisäksi yksi matkustaja. Alaikäinen skootterikuljettaja loukkaantui vakavasti Raumalla tiistaina, tiedottaa Lounais-Suomen poliisilaitos. Pakettiauto törmäsi skootteriin Rauman Huittistentiellä. Poliisi sai hätäkeskukselta liikenneonnettomuuteen liittyvän tehtävän kolmen jälkeen iltapäivällä.",
-          "date": "2026-08-18T14:41:46.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/43377325-93e4-4ed2-802b-6fb4295cdb79?utm_source=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Nuori kuljettaja loukkaantui vakavasti skootterin ja pakettiauton törmäyksessä Raumalla",
-          "content": "Pakettiauton kuljettajaa epäillään törkeästä liikenneturvallisuuden vaarantamisesta ja törkeästä vammantuottamuksesta.",
-          "date": "2026-08-18T13:45:48.000Z",
-          "categories": [
-            "onnettomuudet",
-            "liikenneonnettomuudet",
-            "rauma",
-            "satakunta",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20241689?origin=rss"
         }
       ]
     },
@@ -873,65 +1220,43 @@
       ]
     },
     {
-      "mainTitle": "Salmonellatartunta kananmunissa Pöytyän tilalta",
+      "mainTitle": "Uusia afrikkalaisen sikaruton tapauksia Suomessa",
       "mainCategories": [
-        "Suomi",
-        "Taloussanomat",
-        "Kotimaa"
+        "Kotimaa",
+        "Terveys",
+        "Virolahti"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Ostitko kananmunia tältä torilta? Hävitä heti",
-          "content": "Ylitalon tilan kanojen salmonellatartunnat varmistuivat tänään. Tilalla aloitetaan mittavat puhdistukset, kertoo tilalla työskentelevä Reijo Kajander. Ylitalon tilan kananmunista on löytynyt salmonellaa. Asiasta kertoo Iltalehdelle tilalla työskentelevä Reijo Kajander. – Aika raskasta on, Kajander sanoo.",
-          "date": "2026-08-18T14:09:25.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/db80ad42-cc33-49e3-b26f-a593a09ea5d2?utm_source=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Ostitko tämän kananmuna­paketin? Tarkista se heti",
-          "content": "Suomalaisella kananmunatilalla todettiin salmonellaa.",
-          "date": "2026-08-18T13:49:00.000Z",
+          "title": "Taas uusia sikaruttotapauksia",
+          "content": "Tutkimuksissa oli mukana yhteensä viisi kuolleena löydettyä villisikaa sekä yksi epätyypillisen käytöksen takia ammuttu villisika.",
+          "date": "2026-08-18T14:29:00.000Z",
           "categories": [
-            "taloussanomat"
+            "kotimaa"
           ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012214005.html"
+          "link": "https://www.is.fi/kotimaa/art-2000012214277.html"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Takaisinvedot | Pöytyäläiseltä tilalta löytyi salmonellaa, kananmunia vedetään takaisin",
-          "content": "Takaisinveto koskee kananmunia, joiden kuoreen on merkitty leima 2FI164181 tai 2FI164182.",
-          "date": "2026-08-18T13:30:00.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Neljä uutta afrikkalaisen sikaruton tapausta todettu Kaakkois-Suomessa",
+          "content": "Ruokaviraston tänään valmistuneissa tutkimuksissa paljastui uusia sikaruttotapauksia.",
+          "date": "2026-08-18T14:10:59.000Z",
           "categories": [
-            "suomi"
+            "terveys",
+            "virolahti",
+            "villisika",
+            "virustaudit",
+            "kymenlaakso",
+            "etelä-karjala",
+            "kotimaa"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000012213957.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Pöytyäläiseltä kanatilalta löytyi salmonellaa",
-          "content": "",
-          "date": "2026-08-18T12:06:44.000Z",
-          "categories": [
-            "salmonella",
-            "kananmunat",
-            "pöytyä",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7060627"
+          "link": "https://yle.fi/a/74-20241695?origin=rss"
         }
       ]
     },
@@ -977,80 +1302,58 @@
       ]
     },
     {
-      "mainTitle": "SOK ja Mieli ry aloittavat muutosneuvottelut",
+      "mainTitle": "Salmonellaa suomalaisessa kananmunapaketissa",
       "mainCategories": [
+        "Suomi",
         "Taloussanomat",
-        "Muutosneuvottelut",
-        "Irtisanomiset"
+        "Salmonella"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Näitä työtehtäviä SOK:n laajat muutosneuvottelut koskevat",
-          "content": "SOK:n henkilöstöjohtaja avaa Kauppalehdelle, millaisiin tehtäviin muutosneuvottelut kohdistuvat.",
-          "date": "2026-08-18T13:43:00.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ostitko tämän kananmuna­paketin? Tarkista se heti",
+          "content": "Suomalaisella kananmunatilalla todettiin salmonellaa.",
+          "date": "2026-08-18T13:49:00.000Z",
           "categories": [
-            "muutosneuvottelut"
+            "taloussanomat"
           ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/2c3c57e2-9fd8-4e2b-97c2-5c5888871afd?utm_source=rss"
+          "link": "https://www.is.fi/taloussanomat/art-2000012214005.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Takaisinvedot | Pöytyäläiseltä tilalta löytyi salmonellaa, kananmunia vedetään takaisin",
+          "content": "Takaisinveto koskee kananmunia, joiden kuoreen on merkitty leima 2FI164181 tai 2FI164182.",
+          "date": "2026-08-18T13:30:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012213957.html"
         },
         {
           "publisherId": "ts",
           "publisher": "Turun Sanomat",
           "publisherUrl": "ts.fi",
-          "title": "SOK aloittaa muutosneuvottelut – voivat johtaa 130 tehtävän lakkauttamiseen",
+          "title": "Pöytyäläiseltä kanatilalta löytyi salmonellaa",
           "content": "",
-          "date": "2026-08-18T09:05:31.000Z",
+          "date": "2026-08-18T12:06:44.000Z",
           "categories": [
-            "muutosneuvottelut",
-            "irtisanomiset",
-            "osuuskauppa",
-            "kotimaa",
+            "salmonella",
+            "kananmunat",
+            "pöytyä",
+            "paikalliset",
             "uutiset"
           ],
-          "link": "https://www.ts.fi/a/7060429"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "SOK vähentää jopa 130 nykyistä työtehtävää",
-          "content": "Muutosneuvottelujen piirissä on noin 900 työntekijää.",
-          "date": "2026-08-18T08:28:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012212814.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "SOK:n muutosneuvottelut eivät kohdistu Ouluun – Pääkonttorilla yli 130 tehtävää uhattuna",
-          "content": "Suomen Osuuskauppojen Keskuskunta SOK kertoo käynnistävänsä muutosneuvottelut.",
-          "date": "2026-08-18T08:27:43.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/sokn-muutosneuvottelut-eivat-kohdistu-ouluun-paako/13626999?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Mieli ry aloittaa muutosneuvottelut",
-          "content": "Irtisanottavien määräksi on arvioitu enintään 20 henkilöä. Yhteensä työntekijöitä on nyt noin 160.",
-          "date": "2026-08-17T04:57:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012209457.html"
+          "link": "https://www.ts.fi/a/7060627"
         }
       ]
     },
     {
-      "mainTitle": "Koulujen aloitus lisäsi poliisitehtäviä",
+      "mainTitle": "Koulujen aloitus lisäsi poliisin tehtäviä",
       "mainCategories": [
         "Liikenne",
         "Koulut",
@@ -1144,7 +1447,7 @@
         "Tullit",
         "Verkkokauppa"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1178,106 +1481,7 @@
       ]
     },
     {
-      "mainTitle": "Ukraina iski Venäjälle sadoilla drooneilla",
-      "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Britannia"
-      ],
-      "imageUrl": "/images/venäjä/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Räjähdys Venäjällä tallentui videolle: ”On lähellä!”",
-          "content": "Ukraina iski tiistain vastaisena yönä Moskovaan sadoilla drooneilla.",
-          "date": "2026-08-18T11:19:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012213388.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Mediat: Ukraina moukaroi Venäjää britti­drooneilla – Moskovalta suora uhkaus Britannialle",
-          "content": "Mediatietojen mukaan Ukraina on iskenyt Venäjälle brittidroonein jo puolen vuoden ajan.",
-          "date": "2026-08-18T10:29:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012213179.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukraina | Ukraina aiheutti Venäjälle miljardi­tuhot britti­drooneilla, nyt Moskova uhittelee Britannialle",
-          "content": "Asiasta uutisoinut The Sunday Times paljasti vain toisen brittidroonin valmistajan ja mallin.",
-          "date": "2026-08-18T07:12:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012212187.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Venäjä uhkaa Britanniaa seurauksilla drooni-iskujen jälkeen",
-          "content": "",
-          "date": "2026-08-18T04:39:02.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "venäjä",
-            "britannia",
-            "ukraina",
-            "droonit",
-            "venäjän hyökkäys",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20241535?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Ukraina käyttänyt tiettävästi brittidrooneja iskuissaan Venäjälle – Venäjä varoittaa Britanniaa seurauksista",
-          "content": "Venäjä varoittaa Britanniaa seurauksista sen jälkeen, kun julkisuuteen on tullut tietoja siitä, että Ukraina käyttäisi brittiläisten valmistajien drooneja iskuissaan Venäjälle.",
-          "date": "2026-08-18T03:35:58.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/ukraina-kayttanyt-tiettavasti-brittidrooneja-iskui/13626555?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lehti: Venäjä rakentaa rajoilleen salaisia tukikohtia drooneille",
-          "content": "Osaa tukikohdista on jo käytetty Ukrainaa vastaan tehtävissä iskuissa.",
-          "date": "2026-08-17T11:22:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012210109.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "BBC: Vuoden suurin isku Ukrainalta – seitsemän kuollut Venäjällä",
-          "content": "Ukraina iski venäjälle noin 820 droonilla.",
-          "date": "2026-08-17T04:08:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012209277.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Brittipari kuoli helikopteriturmassa Kreikassa",
+      "mainTitle": "Kreikassa helikopteriturma, kolme kuollut",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1307,33 +1511,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012211931.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Paloja Oulussa: Pyykkikone ja ruoka uunissa",
-      "mainCategories": [],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Pyykkikone syttyi roihuten Maikkulassa – \"Äkäinen palo\"",
-          "content": "Pelastuslaitos sai hälytyksen rakennuspalosta Puohitielle tiistaina kello 13:n jälkeen.",
-          "date": "2026-08-18T10:39:44.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/pyykkikone-syttyi-roihuten-maikkulassa-akainen-pal/13627323?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Asukas nukahti, ruoka kärysi uunissa Oulun keskustassa",
-          "content": "Pelastuslaitos kutsuttiin yöllä Pakkahuoneenkadulle, kun viisikerroksisen kerrostalon asunnossa hälytti palovaroitin hieman ennen kello kahta yöllä.",
-          "date": "2026-08-18T03:15:06.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/asukas-nukahti-ruoka-karysi-uunissa-oulun-keskusta/13626554?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -1385,51 +1562,36 @@
       ]
     },
     {
-      "mainTitle": "Kongon ebolaepidemia on historian tappavin",
+      "mainTitle": "Ukraina iski Venäjälle brittidrooneilla",
       "mainCategories": [
-        "Sairaudet",
-        "Taudit",
-        "Ebola"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "WHO:n hätätilakomitea kokoontuu ebolatilanteen vuoksi",
-          "content": "Kongon demokraattisen tasavallan ebolatilanne on maan historian tappavin.",
-          "date": "2026-08-18T09:10:24.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mediat: Ukraina moukaroi Venäjää britti­drooneilla – Moskovalta suora uhkaus Britannialle",
+          "content": "Mediatietojen mukaan Ukraina on iskenyt Venäjälle brittidroonein jo puolen vuoden ajan.",
+          "date": "2026-08-18T10:29:00.000Z",
           "categories": [
-            "sairaudet",
-            "taudit",
-            "kongon demokraattinen tasavalta",
-            "ebola",
             "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20241615?origin=rss"
+          "link": "https://www.is.fi/ulkomaat/art-2000012213179.html"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Kongo | Yli 2 300 kuollut Kongon kaikkien aikojen tappavimmassa ebola­epidemiassa",
-          "content": "Nykyinen epidemia julistettiin puhjenneeksi 15. toukokuuta, mutta taudin uskotaan levinneen jo viikkojen ajan ennen sitä.",
-          "date": "2026-08-17T15:33:00.000Z",
+          "title": "Ukraina | Ukraina aiheutti Venäjälle miljardi­tuhot britti­drooneilla, nyt Moskova uhittelee Britannialle",
+          "content": "Asiasta uutisoinut The Sunday Times paljasti vain toisen brittidroonin valmistajan ja mallin.",
+          "date": "2026-08-18T07:12:00.000Z",
           "categories": [
             "maailma"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000012211637.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kongon demokraattisen tasavallan ebolaepidemia maan historian tappavin",
-          "content": "Kongon demokraattisessa tasavallassa riehuva ebolaepidemia on maan historian tappavin, kertovat maan hallituksen julkistamat tiedot. Ebolaan on kuollut toukokuun puolivälissä alkaneen epidemian aikana yli 2 300 ihmistä. Tartuntoja on lähes 5 000.",
-          "date": "2026-08-17T10:33:20.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kongon-demokraattisen-tasavallan-ebolaepidemia-maa/13625518?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+          "link": "https://www.hs.fi/maailma/art-2000012212187.html"
         }
       ]
     },
@@ -1476,69 +1638,7 @@
       ]
     },
     {
-      "mainTitle": "Pienituloisten köyhtyminen ja tuloerot kasvavat",
-      "mainCategories": [
-        "Politiikka",
-        "Sosiaaliturva",
-        "Tulonjako"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Raportti: Pienituloisilta lähti liki 1 000 euroa vuodessa, suurituloiset saivat yli 2 000 euroa lisää",
-          "content": "Pienituloisuus ja tuloerot lisääntyvät hallituksen toimien takia, uusi raportti paljastaa. Veronkevennykset hyödyttävät erityisesti suurituloisia.",
-          "date": "2026-08-18T07:25:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012212250.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tutkijat laskivat hallituksen päätösten vaikutukset: pienituloisimmat köyhtyvät, suurituloisimmat rikastuvat",
-          "content": "Sosiaaliturvan leikkaukset ovat lisänneet pienituloisuutta ennakoitua enemmän. Veroratkaisut tuovat samalla lisää rahaa hyvätuloisille, kertoo Laboren tutkimus.",
-          "date": "2026-08-18T04:30:35.000Z",
-          "categories": [
-            "politiikka",
-            "sosiaaliturva",
-            "tulonjako",
-            "menoleikkaukset",
-            "toimeentulotuki",
-            "orpon hallitus"
-          ],
-          "link": "https://yle.fi/a/74-20241461?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Uusi laskelma: Hallituksen leikkaukset lisäävät pienituloisten määrää lähes 100 000:lla",
-          "content": "Kalevi Sorsa -säätiön laskelman mukaan sosiaaliturvan leikkausten vaikutukset ovat selvästi ennakoitua suurempia.",
-          "date": "2026-08-18T04:30:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/uusi-laskelma-hallituksen-leikkaukset-lisaavat-pie/13626573?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Työllisyys | Tutkimus: Hallituksen poistamat sosiaaliturvan suojaosat tukivatkin työllistymistä",
-          "content": "Poistamisesta vastuussa ollut silloinen työministeri Arto Satonen (kok) pitää mahdollisena suojaosien palauttamista uudenlaisessa muodossa.",
-          "date": "2026-08-17T15:09:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012210870.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Saimaannorppien pyydyskuolemat saavuttivat ennätysluvun",
+      "mainTitle": "Saimaannorppien kuolemat verkkoihin lisääntyvät",
       "mainCategories": [
         "Kotimaa",
         "Luonto",
@@ -1557,16 +1657,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012212233.html"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Saimaalla surullinen ennätys: Vuoden kolmastoista pyydykseen kuollut norppa löytynyt",
-          "content": "Kyseessä on suurin vuosittainen tietoon tulleiden pyydyskuolemien lukema sitten 1980-luvun.",
-          "date": "2026-08-18T06:18:26.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/saimaalla-surullinen-ennatys-vuoden-kolmastoista-p/13626716?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -1599,13 +1689,13 @@
       ]
     },
     {
-      "mainTitle": "Asumismenot nousevat vuokra-asujilla paremmin",
+      "mainTitle": "Asumismenot nousevat, vuokra-asujat paremmassa asemassa",
       "mainCategories": [
         "Talous",
         "Asuminen",
         "Asunnot"
       ],
-      "imageUrl": "/images/asuminen/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1621,16 +1711,6 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20241434?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Omakotitalon omistajien asuminen kallistuu tänä vuonna reippaasti",
-          "content": "Aiempaa korkeammat lämmityskulut iskevät Kiinteistöliiton ja Omakotiliiton selvityksen mukaan tänä vuonna erityisesti eläkeläisiin ja pienituloisiin omakotiasujiin.",
-          "date": "2026-08-18T06:00:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/omakotitalon-omistajien-asuminen-kallistuu-tana-vu/13626663?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -1655,7 +1735,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1696,72 +1776,6 @@
       ]
     },
     {
-      "mainTitle": "Trumpin suhteet Pohjois-Koreaan herättävät huolta",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Politiikka"
-      ],
-      "imageUrl": "/images/trump/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kommentti: Presidentti Donald Trump antoi taas lahjan ”ystävälleen” Pohjois-Koreassa",
-          "content": "Ylipäällikön uusimmat ulostulot heikentävät entisestään Yhdysvaltoja, arvioi erikoistoimittaja Jouko Juonala.",
-          "date": "2026-08-18T04:15:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012210376.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kommentit Etelä-Koreasta ovat tyypillistä Trumpia, sanoo tutkija – ”Hän ei arvosta liittolaisiaan”",
-          "content": "Trump sanoi olevansa turhautunut liittolaiseensa Etelä-Koreaan, mutta taustalla on myös halu olla vahvan johtajan kaveri, arvioi tutkija Maria Lindén.",
-          "date": "2026-08-17T14:29:40.000Z",
-          "categories": [
-            "yhdysvallat",
-            "donald trump",
-            "politiikka",
-            "kim jong-un",
-            "etelä-korea",
-            "pohjois-korea",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20241402?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Trump ylistää Pohjois-Koreaa – karu ilmoitus Etelä-Korealle",
-          "content": "Trump kehuu suhdettaan Pohjois-Korean diktaattoriin ”erittäin hyväksi”.",
-          "date": "2026-08-17T00:43:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012209387.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Korean niemimaa | Trump ylistää Pohjois-Koreaa, supistaa yhteistä sota­harjoitusta Etelä-Korean kanssa",
-          "content": "Trump kehuu suhdettaan Pohjois-Korean diktaattoriin ”erittäin hyväksi”.",
-          "date": "2026-08-17T00:26:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012209398.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Säiliöräjähdys Stora Enson tehtaalla Imatralla",
       "mainCategories": [
         "Suomi",
@@ -1796,12 +1810,12 @@
       ]
     },
     {
-      "mainTitle": "Viraalihitti-animaatioelokuva menestyy Kiinassa",
+      "mainTitle": "Viraalihitti animaatioelokuvasta Kiinassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1908,61 +1922,7 @@
       ]
     },
     {
-      "mainTitle": "Tekoälyn vaikutukset hyvinvointivaltiolle keskusteluttavat",
-      "mainCategories": [
-        "Talous",
-        "Tekoäly",
-        "Verotus"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ministeriön tekoälynäkemys närkästytti – strategiajohtaja vastaa: ”Keino puolustaa hyvinvointivaltion ydintä”",
-          "content": "Valtiovarainministeriön strategia- ja tutkimusjohtaja Olli Kärkkäisen mukaan tekoäly auttaa Suomea selviytymään julkisen sektorin suuresta eläköitymisaallosta.",
-          "date": "2026-08-17T16:34:43.000Z",
-          "categories": [
-            "talous",
-            "tekoäly",
-            "työntekijät",
-            "verotus",
-            "politiikka",
-            "valtiovarainministeriö",
-            "julkinen sektori",
-            "työelämä",
-            "työtehtävät",
-            "työmarkkinat",
-            "olli kärkkäinen",
-            "verotulot"
-          ],
-          "link": "https://yle.fi/a/74-20241446?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Akavan puheenjohtaja huolestui tekoälystä: Hyvinvointiyhteiskunta uhkaa rapautua",
-          "content": "Jos tekoäly korvaa ihmistyötä, yhtiöiden voittoja pitäisi verottaa ja rahat ohjata yhteiskunnan hyväksi, sanoo Akavan puheenjohtaja Maria Löfgren.",
-          "date": "2026-08-17T02:30:35.000Z",
-          "categories": [
-            "talous",
-            "tekoäly",
-            "työmarkkinat",
-            "teknologia",
-            "työelämä",
-            "verotus",
-            "politiikka",
-            "valtiovarainministeriö",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20239543?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Liikenneonnettomuudet ja rattijuopumus tutkinnassa",
+      "mainTitle": "Mies ajoi autolla talon seinään",
       "mainCategories": [
         "Kotimaa",
         "Liikenne",
@@ -1970,24 +1930,6 @@
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Vehmaalla kaahailtiin ylinopeutta, Pyhärannassa auto päätyi ojaan – poliisia työllistäneet tielläliikkujat",
-          "content": "",
-          "date": "2026-08-17T13:15:00.000Z",
-          "categories": [
-            "liikennerikokset",
-            "varkaudet",
-            "ylinopeudet",
-            "lounais-suomen poliisilaitos",
-            "poliisi",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7059723"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -2078,23 +2020,13 @@
       ]
     },
     {
-      "mainTitle": "Poliisi epäiltynä törkeästä vammantuottamuksesta",
+      "mainTitle": "Tuusulan poliisin rikosepäilyt vakavoituvat",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "IS: Poliisin rikosepäilyt kovenivat Tuusulan mopokiilaustapauksessa",
-          "content": "Tuusulassa mopopojan ojaan kiilannutta poliisia epäillään nyt törkeästä vammantuottamuksesta.",
-          "date": "2026-08-17T08:34:44.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/is-poliisin-rikosepailyt-kovenivat-tuusulan-mopoki/13625301?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -2118,108 +2050,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012209733.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Euroopan suurin Neitsyt Maria -patsas pystytetty",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pikku­kylään nousi Euroopan suurin Neitsyt Maria -patsas",
-          "content": "Patsaan on rahoittanut paikallinen miljonääripariskunta.",
-          "date": "2026-08-17T03:03:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012209411.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Puola | Pikku­kylään nousi Euroopan suurin Neitsyt Maria -patsas",
-          "content": "Patsaan on rahoittanut paikallinen miljonääripariskunta.",
-          "date": "2026-08-17T02:55:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012209402.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi maastopaloa Kreikassa, kaksi kuollut",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kaksi maastopaloa roihahti samaan aikaan saarella – kaksi kuollut, satoja evakuoitu",
-          "content": "Satoja ihmisiä evakuoitiin sunnuntaina Salamiin saarelta Kreikasta nopeasti leviävien maastopalojen tieltä.",
-          "date": "2026-08-16T22:28:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012209380.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kreikka | Vanha pariskunta kuoli, kun kaksi maasto­paloa roihahti lähes samaan aikaan saarella",
-          "content": "Satoja ihmisiä evakuoitiin sunnuntaina Salamiin saarelta Kreikasta nopeasti leviävien maastopalojen tieltä.",
-          "date": "2026-08-16T21:09:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012209338.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Viisi teiniä kuoli Irlannin onnettomuudessa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Irlanti | Väärällä puolella tietä ajanut auto törmäsi toiseen: viisi teiniä kuollut",
-          "content": "Onnettomuus tapahtui varhain sunnuntaina. Toisessa autossa olleet neljä ihmistä on viety sairaalaan.",
-          "date": "2026-08-16T22:16:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012209377.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Auto ajoi väärällä puolella moottoritietä Irlannissa – viisi teiniä kuoli rajussa kolarissa",
-          "content": "Varastetuksi epäilty auto oli poliisin mukaan ajanut väärällä puolella tietä ja törmännyt toiseen autoon.",
-          "date": "2026-08-16T21:43:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012209355.html"
         }
       ]
     }
