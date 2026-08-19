@@ -1,30 +1,60 @@
 {
-  "timestamp": "2026-08-19T04:32:02.532Z",
-  "successCount": 20,
-  "failureCount": 2,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "kaleva",
-        "publisher": "Kaleva",
-        "publisherUrl": "kaleva.fi",
-        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
-      },
-      "reason": {}
-    },
-    {
-      "url": {
-        "publisherId": "kaleva",
-        "publisher": "Kaleva",
-        "publisherUrl": "kaleva.fi",
-        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2026-08-19T05:24:34.048Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "SDP ykkönen, kokoomus pohjalukemissa",
+      "mainTitle": "Kongon ebolaepidemia tappavin historiassa",
+      "mainCategories": [
+        "Sairaudet",
+        "Ebola",
+        "Virustaudit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kongossa jo yli 5 000 ebolatapausta – lähes puolet on kuollut",
+          "content": "",
+          "date": "2026-08-19T05:01:27.000Z",
+          "categories": [
+            "sairaudet",
+            "kongon demokraattinen tasavalta",
+            "ebola",
+            "virustaudit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20241750?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kongo | Yli 2 300 kuollut Kongon kaikkien aikojen tappavimmassa ebola­epidemiassa",
+          "content": "Nykyinen epidemia julistettiin puhjenneeksi 15. toukokuuta, mutta taudin uskotaan levinneen jo viikkojen ajan ennen sitä.",
+          "date": "2026-08-17T15:33:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012211637.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Kongon demokraattisen tasavallan ebolaepidemia maan historian tappavin",
+          "content": "Kongon demokraattisessa tasavallassa riehuva ebolaepidemia on maan historian tappavin, kertovat maan hallituksen julkistamat tiedot. Ebolaan on kuollut toukokuun puolivälissä alkaneen epidemian aikana yli 2 300 ihmistä. Tartuntoja on lähes 5 000.",
+          "date": "2026-08-17T10:33:20.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/kongon-demokraattisen-tasavallan-ebolaepidemia-maa/13625518?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "SDP ykkönen, kokoomus alimmillaan viiteen vuoteen",
       "mainCategories": [
         "Politiikka",
         "Puolueet",
@@ -47,6 +77,16 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/a/7060983"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "HS-gallup: SDP jatkaa suosituimpana puolueena, kokoomuksen kannatus alimmillaan yli viiteen vuoteen",
+          "content": "Vuoden takaiseen verrattuna eniten kannatustaan on kasvattanut perussuomalaiset.",
+          "date": "2026-08-19T04:00:18.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/hs-gallup-sdp-jatkaa-suosituimpana-puolueena-kokoo/13628017?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "is",
@@ -93,7 +133,7 @@
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "HS-gallup | Kokoomuksen kannatus vaali­kauden matalin, Sdp jatkaa suurimpana",
+          "title": "HS-gallup | Kokoomuksen suosio luisuu, ero perus­suomalaisiin kapeni",
           "content": "Vasemmistoliiton äänestäjät ovat varmimpia puoluekannastaan, selviää elokuun HS-gallupista.",
           "date": "2026-08-18T23:00:00.000Z",
           "categories": [
@@ -111,7 +151,7 @@
         "Yhdysvallat",
         "Nato"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -239,7 +279,7 @@
         "Ukraina",
         "Maailma"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -289,7 +329,7 @@
         "Yhdysvallat",
         "Politiikka"
       ],
-      "imageUrl": "/images/trump/1.jpg",
+      "imageUrl": "/images/trump/5.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -364,7 +404,7 @@
       ]
     },
     {
-      "mainTitle": "Sosiaaliturvan leikkaukset lisäävät tuloeroja",
+      "mainTitle": "Hallituksen leikkaukset lisäävät tuloeroja ja köyhyyttä",
       "mainCategories": [
         "Politiikka",
         "Sosiaaliturva",
@@ -414,6 +454,16 @@
           "link": "https://yle.fi/a/74-20241461?origin=rss"
         },
         {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Uusi laskelma: Hallituksen leikkaukset lisäävät pienituloisten määrää lähes 100 000:lla",
+          "content": "Kalevi Sorsa -säätiön laskelman mukaan sosiaaliturvan leikkausten vaikutukset ovat selvästi ennakoitua suurempia.",
+          "date": "2026-08-18T04:30:00.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/uusi-laskelma-hallituksen-leikkaukset-lisaavat-pie/13626573?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -428,7 +478,7 @@
       ]
     },
     {
-      "mainTitle": "Öljyvahinko Saimaalla torjuntatoimilla jatkuu",
+      "mainTitle": "Öljyvahinko Saimaalla torjuntatoimilla edelleen päällä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -583,7 +633,7 @@
         "Energia",
         "Talous"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/2.jpeg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -720,18 +770,6 @@
           "link": "https://www.ts.fi/a/7060926"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Yle: Poliisin etälamauttimen tappama mies oli kehitys­vammainen",
-          "content": "Poliisi tiedotti ampuneensa väkivaltaisesti käyttäytynyttä miestä etälamauttimella 14. elokuuta. Poliisi ampui etälamauttimella noin 50-vuotiasta kehitysvammaista miestä, uutisoi Yle. Uhrin lähiomaiset kertoivat Ylelle, että mies asui espoolaisessa kehitysvammaisten asumisyksikössä.",
-          "date": "2026-08-18T18:33:03.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/21d40850-171c-4343-bbc4-d66e308e60a9?utm_source=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -776,12 +814,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjän ekonomisti sai potkut kriittisistä puheista",
+      "mainTitle": "Venäjän ekonomisti sai potkut suorasanaisuudesta",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -810,7 +848,7 @@
       ]
     },
     {
-      "mainTitle": "Riistavaroitusjärjestelmät vähentävät kolareita Naantalissa",
+      "mainTitle": "Riistavaroitusjärjestelmät vähentävät kolareita",
       "mainCategories": [
         "Liikenne",
         "Kotimaa",
@@ -876,7 +914,7 @@
         "Saaristomeri",
         "Parainen"
       ],
-      "imageUrl": "/images/stubb/3.jpg",
+      "imageUrl": "/images/stubb/4.jpg",
       "relatedNews": [
         {
           "publisherId": "ts",
@@ -909,7 +947,7 @@
       ]
     },
     {
-      "mainTitle": "Tuhkarokko levisi Ruotsin festivaaleilla",
+      "mainTitle": "Tuhkarokko levisi festivaaleilla Ruotsissa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -943,13 +981,13 @@
       ]
     },
     {
-      "mainTitle": "Trump ehdottaa Suomi-mallia laivanrakennukseen",
+      "mainTitle": "Trump haluaa muuttaa Yhdysvaltojen laivanrakennusta",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Laivanrakennus"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -984,7 +1022,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisin toiminta mopoilijoita kohtaan tutkinnassa",
+      "mainTitle": "Poliisin aseellinen uhkaus tutkintaan Tampereella",
       "mainCategories": [
         "Kotimaa",
         "Suomi",
@@ -1046,46 +1084,6 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000012209696.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Bussikuski pyörtyi, matkustajat ohjasivat bussia",
-      "mainCategories": [
-        "Ulkomaat",
-        "Onnettomuudet",
-        "Sairauskohtaukset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Hurja tilanne Ruotsissa – bussi­kuski pyörtyi kesken ajon, matkustajat tarttuivat rattiin",
-          "content": "Kuljettaja vietiin sairaalaan.",
-          "date": "2026-08-18T14:55:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012212147.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kauhun hetkiä Ruotsissa: bussikuski pyörtyi rattiin moottoritiellä",
-          "content": "Poliisin mukaan pyörtymisen aiheutti kuljettajan sairastuminen. Epäilyä liikennerikoksesta ei ole.",
-          "date": "2026-08-18T14:49:19.000Z",
-          "categories": [
-            "onnettomuudet",
-            "linja-autot",
-            "sairauskohtaukset",
-            "ruotsi",
-            "moottoritiet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20241697?origin=rss"
         }
       ]
     },
@@ -1447,7 +1445,7 @@
         "Tullit",
         "Verkkokauppa"
       ],
-      "imageUrl": "/images/kiina/1.jpg",
+      "imageUrl": "/images/kiina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1515,6 +1513,33 @@
       ]
     },
     {
+      "mainTitle": "Palotilanteet Oulussa: Maikkula ja keskustan asunnot",
+      "mainCategories": [],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Pyykkikone syttyi roihuten Maikkulassa – \"Äkäinen palo\"",
+          "content": "Pelastuslaitos sai hälytyksen rakennuspalosta Puohitielle tiistaina kello 13:n jälkeen.",
+          "date": "2026-08-18T10:39:44.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/pyykkikone-syttyi-roihuten-maikkulassa-akainen-pal/13627323?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Asukas nukahti, ruoka kärysi uunissa Oulun keskustassa",
+          "content": "Pelastuslaitos kutsuttiin yöllä Pakkahuoneenkadulle, kun viisikerroksisen kerrostalon asunnossa hälytti palovaroitin hieman ennen kello kahta yöllä.",
+          "date": "2026-08-18T03:15:06.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/asukas-nukahti-ruoka-karysi-uunissa-oulun-keskusta/13626554?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
       "mainTitle": "Kokoomus vaatii 8 miljardin leikkauksia",
       "mainCategories": [
         "Politiikka"
@@ -1562,12 +1587,12 @@
       ]
     },
     {
-      "mainTitle": "Ukraina iski Venäjälle brittidrooneilla",
+      "mainTitle": "Ukraina hyödyntää brittidrooneja Venäjällä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1592,6 +1617,65 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012212187.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ukraina käyttänyt tiettävästi brittidrooneja iskuissaan Venäjälle – Venäjä varoittaa Britanniaa seurauksista",
+          "content": "Venäjä varoittaa Britanniaa seurauksista sen jälkeen, kun julkisuuteen on tullut tietoja siitä, että Ukraina käyttäisi brittiläisten valmistajien drooneja iskuissaan Venäjälle.",
+          "date": "2026-08-18T03:35:58.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/ukraina-kayttanyt-tiettavasti-brittidrooneja-iskui/13626555?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "SOK aloittaa muutosneuvottelut 130 tehtävälle",
+      "mainCategories": [
+        "Taloussanomat",
+        "Muutosneuvottelut",
+        "Irtisanomiset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "SOK aloittaa muutosneuvottelut – voivat johtaa 130 tehtävän lakkauttamiseen",
+          "content": "",
+          "date": "2026-08-18T09:05:31.000Z",
+          "categories": [
+            "muutosneuvottelut",
+            "irtisanomiset",
+            "osuuskauppa",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7060429"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "SOK vähentää jopa 130 nykyistä työtehtävää",
+          "content": "Muutosneuvottelujen piirissä on noin 900 työntekijää.",
+          "date": "2026-08-18T08:28:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000012212814.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "SOK:n muutosneuvottelut eivät kohdistu Ouluun – Pääkonttorilla yli 130 tehtävää uhattuna",
+          "content": "Suomen Osuuskauppojen Keskuskunta SOK kertoo käynnistävänsä muutosneuvottelut.",
+          "date": "2026-08-18T08:27:43.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/sokn-muutosneuvottelut-eivat-kohdistu-ouluun-paako/13626999?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         }
       ]
     },
@@ -1638,7 +1722,7 @@
       ]
     },
     {
-      "mainTitle": "Saimaannorppien kuolemat verkkoihin lisääntyvät",
+      "mainTitle": "Saimaannorppien pyydyskuolemat saavuttivat ennätyksen",
       "mainCategories": [
         "Kotimaa",
         "Luonto",
@@ -1657,6 +1741,16 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012212233.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Saimaalla surullinen ennätys: Vuoden kolmastoista pyydykseen kuollut norppa löytynyt",
+          "content": "Kyseessä on suurin vuosittainen tietoon tulleiden pyydyskuolemien lukema sitten 1980-luvun.",
+          "date": "2026-08-18T06:18:26.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/saimaalla-surullinen-ennatys-vuoden-kolmastoista-p/13626716?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "hs",
@@ -1695,7 +1789,7 @@
         "Asuminen",
         "Asunnot"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/asuminen/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1711,6 +1805,16 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20241434?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Omakotitalon omistajien asuminen kallistuu tänä vuonna reippaasti",
+          "content": "Aiempaa korkeammat lämmityskulut iskevät Kiinteistöliiton ja Omakotiliiton selvityksen mukaan tänä vuonna erityisesti eläkeläisiin ja pienituloisiin omakotiasujiin.",
+          "date": "2026-08-18T06:00:00.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/omakotitalon-omistajien-asuminen-kallistuu-tana-vu/13626663?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
         },
         {
           "publisherId": "yle",
@@ -1810,12 +1914,12 @@
       ]
     },
     {
-      "mainTitle": "Viraalihitti animaatioelokuvasta Kiinassa",
+      "mainTitle": "Viraalihitti-animaatioelokuvasta tuli suosittu Kiinassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kiina/2.jpg",
+      "imageUrl": "/images/kiina/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -2020,13 +2124,23 @@
       ]
     },
     {
-      "mainTitle": "Tuusulan poliisin rikosepäilyt vakavoituvat",
+      "mainTitle": "Poliisi epäiltynä törkeästä vammantuottamuksesta",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "IS: Poliisin rikosepäilyt kovenivat Tuusulan mopokiilaustapauksessa",
+          "content": "Tuusulassa mopopojan ojaan kiilannutta poliisia epäillään nyt törkeästä vammantuottamuksesta.",
+          "date": "2026-08-17T08:34:44.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/is-poliisin-rikosepailyt-kovenivat-tuusulan-mopoki/13625301?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
