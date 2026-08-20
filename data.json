@@ -1,11 +1,21 @@
 {
-  "timestamp": "2026-08-20T17:54:58.659Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-08-20T18:32:14.109Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Venäläinen ilma-alus epäilty ilmatilaloukkauksesta",
+      "mainTitle": "Venäläinen ilma-alus epäillyssä ilmatilaloukkauksessa",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -13,28 +23,28 @@
       "imageUrl": "",
       "relatedNews": [
         {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Suomenlahti | Venäläistä ilma-alusta epäillään alue­loukkauksesta Suomen­lahdella",
+          "content": "Rajavartiolaitos on aloittanut tutkinnan asiasta.",
+          "date": "2026-08-20T18:00:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012219914.html"
+        },
+        {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Suomenlahdella epäilty ilmatila­loukkaus",
+          "title": "Epäily: Suomen ilmatilaa loukattu",
           "content": "Epäilty ilmatilaloukkaus tapahtui torstai-iltapäivänä. Venäläisen ilma-aluksen epäillään loukanneen Suomen ilmatilaa Läntisellä Suomenlahdella torstaina. – Jokaiseen epäiltyyn alueloukkaukseen suhtaudutaan vakavasti. Tutkinta on käynnissä, puolustusministeri Antti Häkkänen sanoo puolustusministeriön tiedotteessa.",
           "date": "2026-08-20T17:48:43.000Z",
           "categories": [
             "kotimaa"
           ],
           "link": "https://www.iltalehti.fi/kotimaa/a/31a2f0c9-8c8f-450a-a96b-e819968b8759?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Suomenlahti | Venäläistä ilma-alusta epäillään alue­loukkauksesta Suomen­lahdella",
-          "content": "Asian tutkinta on käynnissä.",
-          "date": "2026-08-20T17:46:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012219914.html"
         },
         {
           "publisherId": "is",
@@ -53,7 +63,7 @@
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
           "title": "Venäläisalusta epäillään ilmatilaloukkauksesta Suomenlahdella",
-          "content": "",
+          "content": "Tapaus sattui torstaina iltapäivällä.",
           "date": "2026-08-20T17:44:23.000Z",
           "categories": [],
           "link": "https://yle.fi/a/74-20242140?origin=rss"
@@ -61,7 +71,76 @@
       ]
     },
     {
-      "mainTitle": "Pienkone upposi järveen Pieksämäellä, lentäjä pelastui",
+      "mainTitle": "Poliisiylijohtaja puhuu luottamuksesta ja virheistä",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Poliisiylijohtaja kertoo viimeaikaisten tapausten vaikutuksista: Poliisien päältä on yritetty ajaa autolla",
+          "content": "Poliisiyli­johtaja Ilkka Koskimäen mukaan kaikki mahdollinen tehdään, jotta luottamus poliisin voimankäyttöön palautuu.",
+          "date": "2026-08-20T17:41:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012217701.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS-haastattelu | Poliisi­yli­johtaja Koskimäki viime aikojen videoista: Eivät näytä onnistumisilta",
+          "content": "Poliisiylijohtaja Ilkka Koskimäen mukaan virheistä otetaan opiksi. Nyt on aikomus lähestyä varsinkin mopomiittien nuoria.",
+          "date": "2026-08-19T13:06:00.000Z",
+          "categories": [
+            "tilaajille",
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012210844.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäjän hyökkäys Kiovaan jatkuu voimakkaana",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/venäjä/1.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän iskut Kiovaan | Zelenskyi: Viime yön hyökkäys oli massiivinen",
+          "content": "Venäjä iski yöllä Ukrainan pääkaupunkiin ainakin ballistisilla ohjuksilla ja risteilyohjuksilla, kertovat paikallisviranomaiset.",
+          "date": "2026-08-20T17:41:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012217453.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjä moukaroi Kiovaa koko yön – lasten­sairaala vaurioitui, ainakin 15 kuollut",
+          "content": "Venäjä iski Kiovaan koko yön ajan ballistisilla- ja risteilyohjuksilla.",
+          "date": "2026-08-20T10:25:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012217520.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pienkone upposi järveen Pieksämäellä",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -69,18 +148,6 @@
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Pieksämäki | Laskeutumasa ollut vesi­taso­kone haukkasi vettä ja upposi järveen",
-          "content": "Koneessa oli ainoastaan lentäjä, joka pääsi koneen ovesta ulos itse.",
-          "date": "2026-08-20T17:43:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012219904.html"
-        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -113,82 +180,13 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Vesilentokone onnetto­muudessa Pieksämäellä",
+          "title": "Vesilentokone upposi järveen Pieksämäellä",
           "content": "Pelastuslaitos sai ilmoituksen torstai-iltana ennen kello kahdeksaa. Vesitaso eli vesilentokone upposi järveen Pieksämäen Vangasjärvellä torstaina alkuillasta, kerrotaan Etelä-Savon pelastuslaitokselta. Lentäjä pääsi sivullisten avulla rantautumaan järvestä. Lentäjä oli koneessa yksin. Kukaan ei loukkaantunut tilanteessa. ",
           "date": "2026-08-20T17:03:46.000Z",
           "categories": [
             "kotimaa"
           ],
           "link": "https://www.iltalehti.fi/kotimaa/a/4e860b36-0a09-4cd3-b644-b71486389cf8?utm_source=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Poliisiylijohtaja korostaa stressinhallintaa",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisiylijohtaja: Poliisin pitäisi hallita stressiä vielä paremmin",
-          "content": "Poliisiyli­johtaja Ilkka Koskimäen mukaan kaikki mahdollinen tehdään, jotta luottamus poliisin voimankäyttöön palautuu.",
-          "date": "2026-08-20T17:41:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012217701.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS-haastattelu | Poliisi­yli­johtaja Koskimäki viime aikojen videoista: Eivät näytä onnistumisilta",
-          "content": "Poliisiylijohtaja Ilkka Koskimäen mukaan virheistä otetaan opiksi. Nyt on aikomus lähestyä varsinkin mopomiittien nuoria.",
-          "date": "2026-08-19T13:06:00.000Z",
-          "categories": [
-            "tilaajille",
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012210844.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjä iski Kiovaan yöllä massiivisesti",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/venäjä/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän iskut Kiovaan | Zelenskyi: Viime yön hyökkäys oli massiivinen",
-          "content": "Venäjä iski yöllä Ukrainan pääkaupunkiin ainakin ballistisilla ohjuksilla ja risteilyohjuksilla, kertovat paikallisviranomaiset.",
-          "date": "2026-08-20T17:41:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012217453.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Venäjä moukaroi Kiovaa koko yön – lasten­sairaala vaurioitui, ainakin 15 kuollut",
-          "content": "Venäjä iski Kiovaan koko yön ajan ballistisilla- ja risteilyohjuksilla.",
-          "date": "2026-08-20T10:25:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012217520.html"
         }
       ]
     },
@@ -306,7 +304,7 @@
       ]
     },
     {
-      "mainTitle": "Öljyvuoto Saimaalla aiheuttaa ympäristövahinkoja",
+      "mainTitle": "Öljyvuoto Saimaalla aiheuttaa käyttökiellon",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -387,7 +385,7 @@
       ]
     },
     {
-      "mainTitle": "Suomalaiset hyväksyvät EU:n laajenemisen ehdollisesti",
+      "mainTitle": "Suomalaiset kannattavat EU:n laajentumista",
       "mainCategories": [
         "Maailma",
         "Ulkomaat",
@@ -535,7 +533,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/3.jpg",
+      "imageUrl": "/images/gaza/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -610,13 +608,13 @@
       ]
     },
     {
-      "mainTitle": "Trumpin päätös herättää reaktioita Koreassa",
+      "mainTitle": "Trumpin päätös rauhoittaa Korea-tilannetta",
       "mainCategories": [
         "Ulkomaat",
         "Turvallisuus",
         "Ammukset"
       ],
-      "imageUrl": "/images/trump/5.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -656,7 +654,7 @@
         "Talous",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -686,7 +684,7 @@
       ]
     },
     {
-      "mainTitle": "Kokoomuksen kannatushistorian alhaisin taso",
+      "mainTitle": "Kokoomuksen kannatus kriisissä kesäkokouksessa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -1060,65 +1058,6 @@
       ]
     },
     {
-      "mainTitle": "Ukrainan ex-puolustusministeri vaatii vaaleja sodassa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat",
-        "Paakirjoitus"
-      ],
-      "imageUrl": "/images/ukraina/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Pääkirjoitus: Zelenskyi ampui itseään jalkaan",
-          "content": "Ukrainan sisäpolitiikan sotkut satavat lopulta Venäjän laariin, kirjoittaa Joonas Lehtonen. Ukrainan presidentti Volodymyr Zelenskyin asemaa haastetaan nyt kenties kovemmin kuin kertaakaan aiemmin Venäjän hyökkäyssodan aikana. Zelenskyin kesällä syrjäyttämä ex-puolustusministeri Myhailo Fedorov teki tiistaina näyttävän ulostulon ja vaati vaalien järjestämistä Ukrainassa jo sodan aikana. Fedorovin mukaan maan demokratia ja hallinto ovat kriisissä.",
-          "date": "2026-08-20T13:43:00.000Z",
-          "categories": [
-            "paakirjoitus"
-          ],
-          "link": "https://www.iltalehti.fi/paakirjoitus/a/dac655a3-7cf7-4536-8413-26cac6a18f5a?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukraina | Ex-puolustus­ministeri ”haistoi veren” ja vaatii nyt vaaleja Ukrainaan",
-          "content": "Presidentti Zelenskyi erotti suositun puolustus­ministerinsä Myhailo Fedorovin heinäkuussa. Nyt Fedorov yrittää horjuttaa Zelenskyin asemaa julkisesti.",
-          "date": "2026-08-19T14:38:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012215020.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yllättävä vaatimus Ukrainan suositulta ex-puolustus­ministeriltä: vaalit sota-aikana",
-          "content": "Myhailo Fedorovin mukaan Venäjän presidentin Vladimir Putinin ei tule päättää, milloin ukrainalaiset valitsevat uuden hallituksen.",
-          "date": "2026-08-19T03:33:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012214645.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukraina | Suosittu ex-puolustus­ministeri vaatii vaaleja, kritisoi voimakkaasti Zelenskyin hallintoa",
-          "content": "”Demokratia ei voi olla Venäjän panttivanki”, perustelee Myhailo Fedorov.",
-          "date": "2026-08-18T22:01:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012214670.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kaupunginhallituksen puheenjohtaja jakoi Tiktok-videoita",
       "mainCategories": [
         "Kotimaa",
@@ -1159,7 +1098,7 @@
       ]
     },
     {
-      "mainTitle": "Äitiä syytetään törkeästä ihmiskaupasta Syyriassa",
+      "mainTitle": "Äiti syytetään törkeästä ihmiskaupasta Syyriassa",
       "mainCategories": [
         "Rikosepäilyt",
         "Syyria",
@@ -1199,13 +1138,13 @@
       ]
     },
     {
-      "mainTitle": "Postin työntekijöiden ulosmarssi viivästyttää jakelua",
+      "mainTitle": "Postin työntekijöiden ulosmarssi viivästyttää lähetyksiä",
       "mainCategories": [
         "Talous",
         "Posti",
         "Politiikka"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1362,7 +1301,7 @@
         "Droonit",
         "Suomi"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1495,7 +1434,7 @@
         "Kyselytutkimus",
         "Säästäminen"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1623,12 +1562,12 @@
       ]
     },
     {
-      "mainTitle": "Kenia: seitsemän kuollut helikopteriturmassa",
+      "mainTitle": "Seitsemän kuollut helikopteriturmassa Keniassa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1657,7 +1596,7 @@
       ]
     },
     {
-      "mainTitle": "Seiska-lehdelle ei nosteta syytteitä",
+      "mainTitle": "Seiska-lehdelle ei nostettu syytteitä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1734,7 +1673,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kanada/1.jpg",
+      "imageUrl": "/images/kanada/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1759,6 +1698,52 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012214714.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ex-puolustusministeri vaatii vaaleja Ukrainaan",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina | Ex-puolustus­ministeri ”haistoi veren” ja vaatii nyt vaaleja Ukrainaan",
+          "content": "Presidentti Zelenskyi erotti suositun puolustus­ministerinsä Myhailo Fedorovin heinäkuussa. Nyt Fedorov yrittää horjuttaa Zelenskyin asemaa julkisesti.",
+          "date": "2026-08-19T14:38:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012215020.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yllättävä vaatimus Ukrainan suositulta ex-puolustus­ministeriltä: vaalit sota-aikana",
+          "content": "Myhailo Fedorovin mukaan Venäjän presidentin Vladimir Putinin ei tule päättää, milloin ukrainalaiset valitsevat uuden hallituksen.",
+          "date": "2026-08-19T03:33:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012214645.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukraina | Suosittu ex-puolustus­ministeri vaatii vaaleja, kritisoi voimakkaasti Zelenskyin hallintoa",
+          "content": "”Demokratia ei voi olla Venäjän panttivanki”, perustelee Myhailo Fedorov.",
+          "date": "2026-08-18T22:01:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012214670.html"
         }
       ]
     },
@@ -1818,7 +1803,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi ampui kehitysvammaista miestä etälamauttimella",
+      "mainTitle": "Poliisi tutkii etälamautintapausta Rinnekodissa",
       "mainCategories": [
         "Kotimaa",
         "Politiikka"
@@ -1873,18 +1858,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012215381.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle: Poliisin etälamauttimen uhri oli kehitysvammainen mies",
-          "content": "Uhri asui Ylen mukaan asumisyksikössä.",
-          "date": "2026-08-18T18:10:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012214526.html"
         }
       ]
     },
@@ -1964,7 +1937,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi etsii Katja Miinalaisen luita Muoniossa",
+      "mainTitle": "Poliisi etsii Katja Miinalaisen luita",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -2008,7 +1981,7 @@
       ]
     },
     {
-      "mainTitle": "Uusia pidätyksiä Nord Stream -tutkinnassa",
+      "mainTitle": "Epäilty pidätetty Nord Stream -räjäytyksistä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -2277,7 +2250,7 @@
       ]
     },
     {
-      "mainTitle": "Trump haluaa tavata Kimia syksyllä",
+      "mainTitle": "Trump haluaa tavata Kim Jong-unin syksyllä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
