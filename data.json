@@ -1,24 +1,82 @@
 {
-  "timestamp": "2026-08-20T18:32:14.109Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "kaleva",
-        "publisher": "Kaleva",
-        "publisherUrl": "kaleva.fi",
-        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
-      },
-      "reason": {}
-    }
-  ],
+  "timestamp": "2026-08-20T19:26:44.888Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Yhdysvallat uhkaa Irania talouspakotteilla",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/talous/8.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Yhdysvallat vaihtaa taktiikkaa − ”Kaikkien aikojen murskaavin talousoperaatio”",
+          "content": "Trump uhkaa Irania mittavilla talouspakotteilla. Niistä saattaa tulla riitaa myös Kiinan kanssa, kirjoittaa Kauppalehden kirjeenvaihtaja Jukka Lehtinen.",
+          "date": "2026-08-20T19:25:00.000Z",
+          "categories": [
+            "öljy "
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/5e81b910-142f-4498-a274-556e53144be2?utm_source=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Trump julisti Irania vastaan talous­sodan, joka voi osua myös Kiinaan",
+          "content": "Yhdysvallat on ilmoittanut ulottavansa ”murskaavimman taloudellisen operaationsa koskaan” toimet myös Iranin kanssa kauppasuhteissa olevia maita vastaan.",
+          "date": "2026-08-20T18:35:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012218581.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukraina kehittää Moskovaan yltävää ohjusta",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Moskovaan yltävä ballistinen ohjus on pian käytössä, uskoo Ukraina",
+          "content": "Ukrainan pitkän kantaman iskukyky on jo nyt vaikuttava, mutta ballistiset ohjukset nostaisivat sen uudelle tasolle.",
+          "date": "2026-08-20T19:08:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012217461.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Aseet | Ukraina saattaa pian ottaa käyttöön oman ballistisen ohjuksen, joka yltää Moskovaan asti",
+          "content": "Ukrainan pitkän kantaman iskukyky on jo nyt vaikuttava, mutta ballistiset ohjukset nostaisivat sen uudelle tasolle.",
+          "date": "2026-08-20T10:27:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012217445.html"
+        }
+      ]
+    },
     {
       "mainTitle": "Venäläinen ilma-alus epäillyssä ilmatilaloukkauksessa",
       "mainCategories": [
         "Kotimaa",
-        "Suomi"
+        "Venäjä",
+        "Suomenlahti"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -39,7 +97,7 @@
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
           "title": "Epäily: Suomen ilmatilaa loukattu",
-          "content": "Epäilty ilmatilaloukkaus tapahtui torstai-iltapäivänä. Venäläisen ilma-aluksen epäillään loukanneen Suomen ilmatilaa Läntisellä Suomenlahdella torstaina. – Jokaiseen epäiltyyn alueloukkaukseen suhtaudutaan vakavasti. Tutkinta on käynnissä, puolustusministeri Antti Häkkänen sanoo puolustusministeriön tiedotteessa.",
+          "content": "Epäilty ilmatilaloukkaus tapahtui torstai-iltapäivänä. Venäläisen ilma-aluksen epäillään loukanneen Suomen ilmatilaa Läntisellä Suomenlahdella torstai-iltapäivänä. – Jokaiseen epäiltyyn alueloukkaukseen suhtaudutaan vakavasti. Tutkinta on käynnissä, puolustusministeri Antti Häkkänen sanoo puolustusministeriön tiedotteessa.",
           "date": "2026-08-20T17:48:43.000Z",
           "categories": [
             "kotimaa"
@@ -65,7 +123,14 @@
           "title": "Venäläisalusta epäillään ilmatilaloukkauksesta Suomenlahdella",
           "content": "Tapaus sattui torstaina iltapäivällä.",
           "date": "2026-08-20T17:44:23.000Z",
-          "categories": [],
+          "categories": [
+            "venäjä",
+            "suomenlahti",
+            "rajavartiolaitos",
+            "puolustusministeriö",
+            "ilmatilan loukkaus",
+            "kotimaa"
+          ],
           "link": "https://yle.fi/a/74-20242140?origin=rss"
         }
       ]
@@ -106,12 +171,12 @@
       ]
     },
     {
-      "mainTitle": "Venäjän hyökkäys Kiovaan jatkuu voimakkaana",
+      "mainTitle": "Venäjä iski Kiovaan massiivisesti yön aikana",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -304,7 +369,7 @@
       ]
     },
     {
-      "mainTitle": "Öljyvuoto Saimaalla aiheuttaa käyttökiellon",
+      "mainTitle": "Öljyvuoto Saimaalla aiheuttaa ympäristövahinkoja",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -437,46 +502,6 @@
       ]
     },
     {
-      "mainTitle": "Poliisin voimankäyttö herättää keskustelua",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Poliisiammattikorkeakoulu"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisiopiskelijoita mietityttää poliisin voimankäyttö, osa tapauksista päätyy luennoille",
-          "content": "Poliisiopiskelijat pitävät avointa keskustelua poliisin toiminnasta tärkeänä. Voimankäyttöä opiskellaan Poliisiammattikorkeakoulussa läpi opintojen.",
-          "date": "2026-08-20T15:49:51.000Z",
-          "categories": [
-            "poliisi",
-            "poliisiammattikorkeakoulu",
-            "opiskelijat",
-            "tampere",
-            "pirkanmaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242055?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisiylijohtaja Ylellä: ”Poliisin toiminta ei ole ollut onnistunutta”",
-          "content": "Poliisin voimankäyttö on herättänyt kysymyksiä.",
-          "date": "2026-08-18T18:52:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012214464.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Huoltovarmuuskeskus viljakeskustelussa epäselvyyksiä",
       "mainCategories": [
         "Politiikka",
@@ -533,7 +558,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/gaza/2.jpg",
+      "imageUrl": "/images/gaza/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -614,7 +639,7 @@
         "Turvallisuus",
         "Ammukset"
       ],
-      "imageUrl": "/images/trump/7.jpg",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -654,7 +679,7 @@
         "Talous",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -684,7 +709,7 @@
       ]
     },
     {
-      "mainTitle": "Kokoomuksen kannatus kriisissä kesäkokouksessa",
+      "mainTitle": "Kokoomuksen kannatushistorian alhaisin taso",
       "mainCategories": [
         "Politiikka"
       ],
@@ -813,7 +838,7 @@
       ]
     },
     {
-      "mainTitle": "Modernan ihosyöpärokote etenee kehityksessä",
+      "mainTitle": "Modernan ihosyöpärokote etenee kliinisiin kokeisiin",
       "mainCategories": [
         "Terveys",
         "Moderna",
@@ -1144,7 +1169,7 @@
         "Posti",
         "Politiikka"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1235,73 +1260,13 @@
       ]
     },
     {
-      "mainTitle": "Aino-jäänmurtaja rakennetaan Helsingin ja Porin telakoilla",
-      "mainCategories": [
-        "Telakkateollisuus",
-        "Jäänmurtajat",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Porin telakalla iloitaan Aino-jäänmurtajan tilauksesta – toimitusjohtaja: ”Töitä on paljon, mutta ne pystytään tekemään”",
-          "content": "Väyläviraston tilaama uusi jäänmurtaja rakennetaan Helsingin ja Porin telakoilla. Sen on määrä valmistua vuonna 2029.",
-          "date": "2026-08-20T12:17:47.000Z",
-          "categories": [
-            "teollisuus",
-            "pori",
-            "telakkateollisuus",
-            "mäntyluoto, pori",
-            "jäänmurtajat",
-            "mäntyluodon telakka",
-            "työllisyys",
-            "kotimaa",
-            "satakunta"
-          ],
-          "link": "https://yle.fi/a/74-20242021?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Suomen uusi Aino-jäänmurtaja rakennetaan Helsingissä ja Porissa",
-          "content": "",
-          "date": "2026-08-19T14:28:00.000Z",
-          "categories": [
-            "jäänmurtajat",
-            "telakkateollisuus",
-            "helsingin telakka",
-            "laivaliikenne",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7061822"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Helsingin telakalle uusi jäänmurtajatilaus",
-          "content": "Jäänmurtajan rakennus alkaa vuonna 2027.",
-          "date": "2026-08-19T14:20:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012216856.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Suomalaisyhtiö valmistaa drooneja Ukrainalle",
       "mainCategories": [
         "Yritykset",
         "Droonit",
         "Suomi"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1596,7 +1561,7 @@
       ]
     },
     {
-      "mainTitle": "Seiska-lehdelle ei nostettu syytteitä",
+      "mainTitle": "Seiska-lehdelle ei nosteta syytteitä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1673,7 +1638,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/kanada/2.jpg",
+      "imageUrl": "/images/kanada/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1707,7 +1672,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1803,7 +1768,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi tutkii etälamautintapausta Rinnekodissa",
+      "mainTitle": "Poliisi ampui kehitysvammaista miestä etälamauttimella",
       "mainCategories": [
         "Kotimaa",
         "Politiikka"
@@ -1937,7 +1902,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi etsii Katja Miinalaisen luita",
+      "mainTitle": "Poliisi etsii Katja Miinalaisen luita Muoniossa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
