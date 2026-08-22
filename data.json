@@ -1,52 +1,121 @@
 {
-  "timestamp": "2026-08-22T11:43:44.268Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-08-22T12:29:56.168Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Ukraina kärsi massiivisista venäläisiskuista",
+      "mainTitle": "Päivi Räsänen sai viisumin Britanniaan",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Politiikka",
+        "Britannia",
+        "Sisäministeriö"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kansanedustaja Päivi Räsänen sai myönteisen viisumipäätöksen Britanniaan",
+          "content": "Britannian sisäministeriön ohjeistuksen mukaan Britanniaan voi hakea viisumia, vaikka ETA-matkustuslupa maahan olisi hylätty.",
+          "date": "2026-08-22T12:28:03.000Z",
+          "categories": [
+            "britannia",
+            "sisäministeriö",
+            "päivi räsänen",
+            "kansanedustajat",
+            "politiikka"
+          ],
+          "link": "https://yle.fi/a/74-20242408?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Päivi Räsänen sai myönteisen uutisen – Liian myöhään",
+          "content": "Kansanedustaja Päivi Räsänen (kd) on saanut Britannialta myönteisen viisumipäätöksen. Aikaisemmin kesällä hänen viisuminsa evättiin ilmeisesti korkeimman oikeuden langettaman tuomion vuoksi. Kansanedustaja Päivi Räsäsen (kd) oli tarkoitus osallistua lauantaina Yhdistyneen kuningaskunnan alueella Pohjois-Irlannissa järjestettävään konferenssiin ja puhua siellä sanan- ja uskonnonvapaudesta. Räsäselle tuli kuitenkin mutka matkaan, sillä viisumipäätös saapui myöhässä.",
+          "date": "2026-08-22T12:06:31.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/907e518d-b478-475d-9017-0480579ec208?utm_source=rss"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Ukrainalta jälleen massiivinen isku Venäjälle",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia.",
-          "date": "2026-08-22T11:25:00.000Z",
+          "title": "Päivi Räsänen sai viisumin Britanniaan",
+          "content": "Päivi Räsäsen matkustustilanne helpottui viimein.",
+          "date": "2026-08-22T11:31:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012223730.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Päivi Räsänen suivaantui Britannian päätöksestä – lähetti sisäministeri Mahmoodille kirjeen ja häkeltyi: ”Erikoista käytöstä”",
+          "content": "Räsänen on kuvaillut Britannian päätöstä aikaisemmin muun muassa ”järkyttäväksi”.",
+          "date": "2026-08-20T18:38:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012219679.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Isä jätti poikansa yksin Fuji-vuorelle",
+      "mainCategories": [
+        "Ulkomaat",
+        "Luonto",
+        "Perheet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "BBC: Isä jätti 7-vuotiaan poikansa yksin tunneiksi Japanin Fuji-vuorella",
+          "content": "Poika löytyi penkiltä istumassa sumuisissa ja sateisissa olosuhteissa 2000 metrin korkeudesta.",
+          "date": "2026-08-22T12:27:21.000Z",
+          "categories": [
+            "luonto",
+            "perheet",
+            "japani",
+            "bbc",
+            "vaellusreitti",
+            "lapset",
+            "vaellusreitit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20242407?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Isä jätti 7-vuotiaan poikansa yksin 2 000 metrin korkeuteen",
+          "content": "7-vuotias lapsi valitti väsymystä kiipeilyreitillä. Isän ratkaisu poiki nuhtelut poliiseilta.",
+          "date": "2026-08-22T10:02:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012208431.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Venäjä iski ostos­keskukseen kahdesti Ukrainassa, ainakin 16 kuoli",
-          "content": "Venäjä iski ostoskeskukseen kahdessa aallossa. Zelenskyin mukaan jälkimmäinen isku olisi kohdistunut paikalle saapuneisiin pelastajiin.",
-          "date": "2026-08-22T09:02:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012223543.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäjän iskut Kiovaan | Zelenskyi: Viime yön hyökkäys oli massiivinen",
-          "content": "Venäjä iski yöllä Ukrainan pääkaupunkiin ainakin ballistisilla ohjuksilla ja risteilyohjuksilla, kertovat paikallisviranomaiset.",
-          "date": "2026-08-20T17:41:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012217453.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000012223648.html"
         }
       ]
     },
@@ -246,7 +315,7 @@
         "Elintarviketeollisuus",
         "Elintarviketeollisuusliitto"
       ],
-      "imageUrl": "/images/talous/7.jpg",
+      "imageUrl": "/images/talous/8.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -693,6 +762,39 @@
       ]
     },
     {
+      "mainTitle": "Venäjä iski ostoskeskukseen ja Kiovaan",
+      "mainCategories": [
+        "Maailma"
+      ],
+      "imageUrl": "/images/venäjä/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Venäjä iski ostos­keskukseen kahdesti Ukrainassa, ainakin 16 kuoli",
+          "content": "Venäjä iski ostoskeskukseen kahdessa aallossa. Zelenskyin mukaan jälkimmäinen isku olisi kohdistunut paikalle saapuneisiin pelastajiin.",
+          "date": "2026-08-22T09:02:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012223543.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän iskut Kiovaan | Zelenskyi: Viime yön hyökkäys oli massiivinen",
+          "content": "Venäjä iski yöllä Ukrainan pääkaupunkiin ainakin ballistisilla ohjuksilla ja risteilyohjuksilla, kertovat paikallisviranomaiset.",
+          "date": "2026-08-20T17:41:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012217453.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Poliisi käytti etälamautinta nuoreen Uudessakaarlepyyssä",
       "mainCategories": [
         "Kotimaa",
@@ -729,8 +831,8 @@
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Poliisi käytti etälamautinta 16-vuotiaaseen Uudessa­kaarlepyyssä",
-          "content": "Pohjanmaan poliisilaitokselta kerrotaan, että etälamauttimen käyttöä oli edeltänyt aktiivinen väkivaltatilanne. Poliisi käytti etälamautinta 16-vuotiaaseen nuoreen perjantai-iltana Uudessakaarlepyyssä, Pohjanmaan poliisilaitokselta vahvistetaan Iltalehdelle. Tilanne tapahtui Uusikaarlepyyn keskusta-alueella. Etälamauttimen käyttöä oli poliisin mukaan edeltänyt aktiivinen väkivaltatilanne, johon poliisi joutui puuttumaan. ",
+          "title": "Poliisi käytti etälamautinta 16-vuotiaaseen nuoreen Uudessa­kaarlepyyssä – Uutta tietoa tapauksesta",
+          "content": "Pohjanmaan poliisilaitokselta kerrotaan, että etälamauttimen käyttöä oli edeltänyt aktiivinen väkivaltatilanne. Poliisi käytti etälamautinta 16-vuotiaaseen poikaan perjantain ja lauantain välisenä yönä Uudessakaarlepyyssä, Pohjanmaan poliisilaitokselta vahvistetaan Iltalehdelle. Tilanne tapahtui Uudenkaarlepyyn keskusta-alueella. Etälamauttimen käyttöä oli poliisin mukaan edeltänyt aktiivinen väkivaltatilanne, johon poliisi joutui puuttumaan. Poliisin mukaan poika alkoi pahoinpitelemään toista henkilöä.",
           "date": "2026-08-22T07:21:19.000Z",
           "categories": [
             "kotimaa"
@@ -742,64 +844,18 @@
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
           "title": "Poliisi käytti etälamautinta 16-vuotiaaseen nuoreen Uudessakaarlepyyssä",
-          "content": "Poliisiylijohtaja Ilkka Koskimäki sanoi tällä viikolla Ylen A-studiossa, että poliisin tulee voimankäyttötilanteessa aina arvioida kohteen haavoittuvuus.",
+          "content": "Tapahtumaa edelsi väkivaltatilanne, jossa epäilty oli nuori kaatanut toisen henkilön maahan niin, että pää oli osunut asfalttiin. Poliisi käytti etälamautinta ottaakseen epäillyn kiinni.",
           "date": "2026-08-22T07:10:49.000Z",
           "categories": [
             "kotimaa",
             "pohjanmaa"
           ],
           "link": "https://yle.fi/a/74-20242379?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Poliisiylijohtaja kertoo viimeaikaisten tapausten vaikutuksista: Poliisien päältä on yritetty ajaa autolla",
-          "content": "Poliisiyli­johtaja Ilkka Koskimäen mukaan kaikki mahdollinen tehdään, jotta luottamus poliisin voimankäyttöön palautuu.",
-          "date": "2026-08-20T17:41:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012217701.html"
         }
       ]
     },
     {
-      "mainTitle": "Trumpin ja avustajan tiiviit suhteet paljastuivat",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Tämä saattoi paljastaa Natalien, 35, ja Trumpin suhteen laadun: ”Kulminaatio­piste”",
-          "content": "Natalie Harp päätyi valokeilaan sen jälkeen, kun demokraattisenaattori vihjasi Harpilla ja presidentillä olevan suhde. Valkoinen talo reagoi kommenttiin poikkeuksellisen rumasti. Hän ei pidä vapaapäiviä edes sunnuntaisin. Hän tekstailee maailmanjohtajille Yhdysvaltain presidentin Donald Trumpin puolesta ja valvoo presidentin kanssa myöhään sosiaalisen median julkaisuja luonnostellen. Näin yhdysvaltalainen The New York Times kuvaa Trumpin avustajaa, 35-vuotiasta Natalie Harpia.",
-          "date": "2026-08-22T06:00:03.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/dbb6f68f-d1f7-4433-8dc6-8b044b79d664?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Senaattori sanoi sen, mistä Valkoinen talo halusi pysyä hiljaa: Trumpin ja avustajan välit ovat poikkeuksellisen tiiviit",
-          "content": "The Daily Beast -sivusto julkaisi avustaja Natalie Harpin henkilökohtaisia kirjeitä Donald Trumpille.",
-          "date": "2026-08-21T15:55:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220561.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tiktok maksaa korvauksia USA:n oikeusministeriölle",
+      "mainTitle": "Tiktok maksaa 400 miljoonaa dollaria",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -900,7 +956,7 @@
       ]
     },
     {
-      "mainTitle": "Ministeri Poutala toipuu sairaalasta",
+      "mainTitle": "Ministeri Poutala kotiutui sairaalasta",
       "mainCategories": [
         "Politiikka",
         "Onnettomuudet"
@@ -1061,72 +1117,7 @@
       ]
     },
     {
-      "mainTitle": "Traficom syytetty luvattomista katsastuksista Raahessa",
-      "mainCategories": [],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "”Meidät ajettiin miinaan” – raahelainen katsastusyrittäjä syyttää Traficomia luvattomista katsastuksista",
-          "content": "Varma Leiman yrittäjä Marko Herranen pitää Traficomia suurimpana syyllisenä siihen, että hän katsasti heinäkuussa autoja ilman voimassa olevaa katsastuslupaa.",
-          "date": "2026-08-21T15:00:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/meidat-ajettiin-miinaan-raahelainen-katsastusyritt/13631597?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Katsastusasema jatkoi toimintaansa Raahessa luvan peruuttamisen jälkeen – Traficom selvittää kymmenien autoilijoiden tilannetta",
-          "content": "Katsastusasemien toimintaa valvova Liikenne- ja viestintävirasto Traficom on ollut viime aikoina yhteydessä useisiin ajoneuvojen omistajiin ja haltijoihin Raahen alueella.",
-          "date": "2026-08-20T13:19:35.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/katsastusasema-jatkoi-toimintaansa-raahessa-luvan/13627521?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Turkki vaatii Netanjahusta pidätysmääräystä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Turkki",
-        "Israel"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Turkki vaatii: Netanjahusta uusi pidätys­määräys",
-          "content": "Turkki vaatii Interpolilta toimia.",
-          "date": "2026-08-21T14:53:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012222761.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Turkki on antanut kansainvälisen pidätysmääräyksen Israelin Netanjahusta",
-          "content": "",
-          "date": "2026-08-21T13:00:18.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "turkki",
-            "israel",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20242320?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Prinssi Harryn oikeusjuttu Daily Mailille",
+      "mainTitle": "Prinssi Harryn miljoonakorvaukset Daily Mailille",
       "mainCategories": [
         "Oikeudenkäynnit",
         "Britannia",
@@ -1236,7 +1227,7 @@
       ]
     },
     {
-      "mainTitle": "Pieksämäen ilmailuonnettomuuden syy selvisi",
+      "mainTitle": "Tampereen poliisiauton oven avaus tutkinnassa",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1442,38 +1433,7 @@
       ]
     },
     {
-      "mainTitle": "A-klinikkasäätiö aloittaa muutosneuvottelut",
-      "mainCategories": [
-        "Taloussanomat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "A-klinikka aloittaa muutosneuvottelut, toiminta supistuu myös Oulussa",
-          "content": "A-klinikkasäätiö aloittaa muutosneuvottelut, jotka voivat johtaa 16 henkilön irtisanomiseen.\nSyynä ovat sosiaali- ja terveysjärjestöihin kohdistuvat avustusleikkaukset, säätiö kertoo. Säätiö tiedotti asiasta 20. elokuuta.",
-          "date": "2026-08-21T12:10:45.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/a-klinikka-aloittaa-muutosneuvottelut-toiminta-sup/13631871?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "A-klinikkasäätiö aloittaa muutosneuvottelut – uhattuna jopa kolmannes työpaikoista",
-          "content": "Irtisanomisuhan syynä ovat sosiaali- ja terveys­järjestöihin kohdistuvat avustusleikkaukset.",
-          "date": "2026-08-20T12:32:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012218481.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäläinen tiedustelukone loukkasi Suomen ilmatilaa",
+      "mainTitle": "Venäläinen tiedustelukone loukkasi ilmatilaa",
       "mainCategories": [
         "Kotimaa",
         "Suomi"
@@ -1766,7 +1726,7 @@
       ]
     },
     {
-      "mainTitle": "Ääriverkostoon kuulunut mies tuomittiin vankeuteen",
+      "mainTitle": "Ääriverkostoon kuuluneelle miehelle pitkä vankeustuomio",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1805,7 +1765,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1834,7 +1794,7 @@
       ]
     },
     {
-      "mainTitle": "Israelilaisministeri kehui palestiinalaisten hirtto­paikkaa",
+      "mainTitle": "Israel hyväksyi lain kuolemanrangaistuksesta palestiinalaisille",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1868,7 +1828,7 @@
       ]
     },
     {
-      "mainTitle": "Pohjois-Suomessa tulvat uhkaavat joita",
+      "mainTitle": "Pohjois-Suomessa voimakkaat sateet ja tulvat",
       "mainCategories": [
         "Kotimaa",
         "Sää",
@@ -2015,7 +1975,7 @@
       ]
     },
     {
-      "mainTitle": "Isis-äitiä syytetään törkeästä ihmiskaupasta",
+      "mainTitle": "Suomalaisäitiä syytetään törkeästä ihmiskaupasta",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
