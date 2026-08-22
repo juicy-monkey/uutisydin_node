@@ -1,36 +1,60 @@
 {
-  "timestamp": "2026-08-22T16:48:16.757Z",
-  "successCount": 20,
-  "failureCount": 2,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
-      },
-      "reason": {
-        "errno": -104,
-        "code": "ECONNRESET",
-        "syscall": "read"
-      }
-    },
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {
-        "errno": -104,
-        "code": "ECONNRESET",
-        "syscall": "read"
-      }
-    }
-  ],
+  "timestamp": "2026-08-22T17:16:35.375Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
+    {
+      "mainTitle": "Venäjä vaatii Suomea kieltämään mielenosoitukset",
+      "mainCategories": [
+        "Kotimaa",
+        "Venäjä",
+        "Vaalit"
+      ],
+      "imageUrl": "/images/venäjä/2.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomi sai Venäjältä nootin, jossa vaaditaan mielenosoitusten kieltämistä duumanvaalien aikaan",
+          "content": "Nootissa pyydetään Suomelta tehostettuja turvatoimia äänestyspaikan läheisyyteen.",
+          "date": "2026-08-22T16:53:59.000Z",
+          "categories": [
+            "venäjä",
+            "vaalit",
+            "lähetystöt",
+            "mielenosoitukset",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242423?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjältä nootti Suomelle",
+          "content": "Venäjä pyysi Suomea rajoittamaan mielenosoittamista Venäjän suurlähetystöllä vaalipäivänä.",
+          "date": "2026-08-22T16:49:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012224091.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Venäjältä tiukka vaatimus Suomelle",
+          "content": "Venäjä on lähettänyt nootteja, joissa se pyytää mielenosoitusten kieltämistä sen suurlähetystöjen läheisyydessä duumanvaalien päivänä. Suomi on saanut Venäjältä nootin, jossa pyydetään kieltämään mielenosoitukset Venäjän Suomen-suurlähetystön edustalla duumanvaalien päivänä, kerrotaan Suomen ulkoministeriöstä Iltalehdelle. – Suomi on saanut Venäjältä nootin, jossa ilmoitetaan normaalikäytännön mukaisesti äänestyspaikan avaamisesta Venäjän suurlähetystössä duumanvaalien johdosta.",
+          "date": "2026-08-22T15:22:24.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/f96d622d-c180-4993-9ccd-23336c0aaf2f?utm_source=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Suomi tiukentaa maahanmuuttoa ja palautuksia",
       "mainCategories": [
@@ -65,7 +89,7 @@
       ]
     },
     {
-      "mainTitle": "Myräkkä tuo tuulia ja sateita Suomeen",
+      "mainTitle": "Myrskyvaroitus: Voimakkaat tuulet ja sateet Suomessa",
       "mainCategories": [
         "Kotimaa",
         "Sää",
@@ -77,7 +101,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Myräkkä saapuu Suomeen – näin se etenee",
+          "title": "”Terassikalusteet kannattaa siirtää suojaan”, varoittaa Ylen meteorologi – myräkkä riepottelee pian Suomea",
           "content": "Voimakas tuuli saattaa kaataa puita  ja katkaista sähköjä Etelä- ja Itä-Suomessa. Laajoilta vahingoilta todennäköisesti vältytään.",
           "date": "2026-08-22T16:21:44.000Z",
           "categories": [
@@ -200,7 +224,7 @@
       ]
     },
     {
-      "mainTitle": "Väärän suuntaan ajaminen aiheutti kuolemantapauksia",
+      "mainTitle": "Väärään suuntaan ajaminen aiheuttaa kuolemia",
       "mainCategories": [
         "Ulkomaat",
         "Onnettomuudet",
@@ -267,11 +291,11 @@
       ]
     },
     {
-      "mainTitle": "Tuhkarokko levinnyt Ruotsista Suomeen",
+      "mainTitle": "Tuhkarokko leviää Ruotsissa festivaaleilta",
       "mainCategories": [
-        "Terveydenhuolto",
         "Tuhkarokko",
-        "Rokotteet"
+        "Terveys",
+        "Kotimaa"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -293,6 +317,21 @@
           "link": "https://yle.fi/a/74-20242397?origin=rss"
         },
         {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Ruotsissa löytyi kolme uutta tuhkarokkotartuntaa – tapauksia nyt 27",
+          "content": "",
+          "date": "2026-08-21T15:32:10.000Z",
+          "categories": [
+            "ruotsi",
+            "tuhkarokko",
+            "terveys",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20242346?origin=rss"
+        },
+        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -303,6 +342,26 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012220216.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "THL: Tuhkarokkoon sairastunut matkusti Ahvenanmaan ja Ruotsin välillä",
+          "content": "Riski laivalla saadulle tartunnalle on pieni, mutta THL neuvoo tietyillä laivoilla matkustaneita varmistamaan rokotussuojansa.",
+          "date": "2026-08-21T05:12:30.000Z",
+          "categories": [
+            "terveys",
+            "tuhkarokko",
+            "terveyden ja hyvinvoinnin laitos",
+            "tartuntataudit",
+            "ahvenanmaa",
+            "maarianhamina",
+            "turku",
+            "kotimaa",
+            "varsinais-suomi"
+          ],
+          "link": "https://yle.fi/a/74-20242162?origin=rss"
         }
       ]
     },
@@ -386,7 +445,7 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Päivi Räsänen sai viisumin Britanniaan",
+          "title": "Kansanedustaja Päivi Räsänen sai myönteisen viisumipäätöksen Britanniaan",
           "content": "Britannian sisäministeriön ohjeistuksen mukaan Britanniaan voi hakea viisumia, vaikka ETA-matkustuslupa maahan olisi hylätty.",
           "date": "2026-08-22T12:28:03.000Z",
           "categories": [
@@ -476,13 +535,13 @@
       ]
     },
     {
-      "mainTitle": "Yrittäjien luottamus talouteen kasvaa",
+      "mainTitle": "Pk-yritysten luottamus talouteen kasvanut",
       "mainCategories": [
         "Yritykset",
         "Talous",
-        "Työllisyys"
+        "Talouskasvu"
       ],
-      "imageUrl": "/images/talous/4.jpeg",
+      "imageUrl": "/images/talous/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -631,7 +690,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi käytti etälamautinta 16-vuotiaaseen",
+      "mainTitle": "Poliisi käytti etälamautinta 16-vuotiasta vastaan",
       "mainCategories": [
         "Kotimaa",
         "Pohjanmaa",
@@ -703,7 +762,7 @@
       ]
     },
     {
-      "mainTitle": "Isä jätti poikansa yksin Fuji-vuorelle",
+      "mainTitle": "Isä jätti poikansa yksin vuorelle",
       "mainCategories": [
         "Ulkomaat",
         "Luonto",
@@ -750,7 +809,7 @@
         "Taloussanomat",
         "Ravintolat"
       ],
-      "imageUrl": "/images/ravintola/1.jpg",
+      "imageUrl": "/images/ravintola/3.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -947,7 +1006,7 @@
       ]
     },
     {
-      "mainTitle": "Liikenneonnettomuuksissa kuoli kaksi miestä",
+      "mainTitle": "Liikenneonnettomuuksissa kuoli kaksi henkilöä",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -974,18 +1033,6 @@
           "link": "https://yle.fi/a/74-20242391?origin=rss"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Mies kuoli liikenne­onnettomuudessa Liperissä",
-          "content": "Onnettomuudessa kuoli 67-vuotias mies. Suvirannantiellä Liperissä kuoli 67-vuotias mies liikenneonnettomuudessa lauantaiaamuna, kertoo Itä-Suomen poliisilaitos tiedotteessa.  Uutinen päivittyy. ",
-          "date": "2026-08-22T09:30:18.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/30de5a31-dd7b-4598-9324-71a8333b42d4?utm_source=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -996,6 +1043,24 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012223604.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Polkupyöräilijä kuoli liikenneonnettomuudessa Lempäälässä",
+          "content": "Onnettomuus tapahtui perjantaina puoli kymmenen aikaan aamupäivällä.",
+          "date": "2026-08-21T12:00:27.000Z",
+          "categories": [
+            "onnettomuudet",
+            "liikenneonnettomuudet",
+            "lempäälä",
+            "liikenne",
+            "tieliikenne",
+            "kotimaa",
+            "pirkanmaa"
+          ],
+          "link": "https://yle.fi/a/74-20242302?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -1015,8 +1080,7 @@
       "mainTitle": "Karhujahti Joensuussa päättyi hyökkäykseen",
       "mainCategories": [
         "Kotimaa",
-        "Suomi",
-        "Onnettomuudet"
+        "Suomi"
       ],
       "imageUrl": "/images/metsä/1.jpg",
       "relatedNews": [
@@ -1057,22 +1121,6 @@
           "link": "https://www.iltalehti.fi/kotimaa/a/28500cd6-35bd-4138-a87d-248f1967b485?utm_source=rss"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Autoilija törmäsi karhuun Virolahdella – poliisi on lopettanut loukkaantuneen karhun etsinnät",
-          "content": "Karhun epäillään loukkaantuneen törmäyksessä. Poliisin mukaan loukkaantunutta karhua ei saa lähestyä.",
-          "date": "2026-08-22T00:35:46.000Z",
-          "categories": [
-            "onnettomuudet",
-            "virolahti",
-            "kymenlaakso",
-            "karhu",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242370?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -1103,7 +1151,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1349,18 +1397,110 @@
             "suomi"
           ],
           "link": "https://www.hs.fi/suomi/art-2000012220605.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tuhkarokkoaltistus Viking Glorylla, tartuntariski pieni",
+      "mainCategories": [
+        "Tuhkarokko",
+        "Terveys",
+        "Taudit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tuhkarokkoon sairastunut matkusti Viking Linen ja Eckerö Linjenin laivoilla – jatkotartuntariski on pieni",
+          "content": "Viking Line on tiedottanut Glorylla samana päivänä matkustaneille tapauksesta.",
+          "date": "2026-08-21T12:45:29.000Z",
+          "categories": [
+            "terveys",
+            "taudit",
+            "tuhkarokko",
+            "virustaudit",
+            "tartuntataudit",
+            "rokotteet",
+            "terveyden ja hyvinvoinnin laitos",
+            "turku",
+            "varsinais-suomi"
+          ],
+          "link": "https://yle.fi/a/74-20242228?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "THL varoittaa tuhkarokkoaltistuksesta Viking Glorylla",
+          "content": "",
+          "date": "2026-08-21T05:37:20.000Z",
+          "categories": [
+            "tuhkarokko",
+            "viking glory",
+            "maarianhamina",
+            "ruotsi",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7063154"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Lain­säädäntö | Oikeustieteilijät arvostelevat päätöstä aloittaa esitutkinta auton oven avanneesta",
-          "content": "Esitutkintalain mukaan ketään ei saa aiheettomasti epäillä rikoksesta.",
-          "date": "2026-08-20T17:04:00.000Z",
+          "title": "Tartuntataudit | THL: Tuhkarokko­potilas matkusti Viking Glorylla viime viikolla",
+          "content": "Sairastunut matkustaja on rokotettu, mistä johtuen riski laivalla saadulle tartunnalle on pieni.",
+          "date": "2026-08-21T05:36:00.000Z",
           "categories": [
             "suomi"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000012219833.html"
+          "link": "https://www.hs.fi/suomi/art-2000012220210.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hopealinja lopettaa liikennöinnin talousvaikeuksien vuoksi",
+      "mainCategories": [
+        "Liikenne",
+        "Tampere",
+        "Laivaliikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Jatkajaa ei löytynyt – Hopealinja lopettaa",
+          "content": "Toistaiseksi on epäselvää, kuinka liikenne Viikinsaareen järjestetään ensi vuonna.",
+          "date": "2026-08-21T12:45:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000012222143.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Laivayhtiö Hopealinjan toiminta ajetaan alas – liikennöinti päättyy kesän jälkeen",
+          "content": "Hopealinjat on ollut talousvaikeuksissa pitkään. Yhtiö irtisanoo henkilöstöään toiminnan lopettamisen takia. Hopealinjat liikennöi Pirkanmaalla ja Kanta-Hämeessä.",
+          "date": "2026-08-21T08:10:22.000Z",
+          "categories": [
+            "liikenne",
+            "tampere",
+            "laivaliikenne",
+            "hämeenlinna",
+            "vesiliikenne",
+            "vesistöt",
+            "sisävesiliikenne",
+            "pirkanmaa",
+            "kotimaa",
+            "kanta-häme"
+          ],
+          "link": "https://yle.fi/a/74-20242219?origin=rss"
         }
       ]
     },
@@ -1407,6 +1547,59 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012220422.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lennonjohtajien lakko aiheuttaa lentoja peruutuksia Norjassa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Liikenne",
+        "Lentoliikenne"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Useita lentoja peruttu Norjassa",
+          "content": "12 lennonjohtajaa asettui lakkoon.",
+          "date": "2026-08-21T10:56:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012220977.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Norja | Lennon­johtajat lakkoilevat Norjassa, Oslon lentoasema suljetaan sunnuntai­aamuksi",
+          "content": "Lakko alkaa perjantaina. Lauantaina osa Norjan ilmatilasta saatetaan ajoittain sulkea.",
+          "date": "2026-08-21T07:54:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012220262.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lennonjohtajat menossa lakkoon Norjassa",
+          "content": "",
+          "date": "2026-08-21T07:02:39.000Z",
+          "categories": [
+            "liikenne",
+            "lentoliikenne",
+            "työtaistelut",
+            "norja",
+            "lennonjohto",
+            "lakot",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20242191?origin=rss"
         }
       ]
     },
@@ -1458,7 +1651,7 @@
         "Diplomatia",
         "Suurlähetystö"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1537,46 +1730,6 @@
       ]
     },
     {
-      "mainTitle": "THL varoittaa tuhkarokkoaltistuksesta laivalla",
-      "mainCategories": [
-        "Suomi",
-        "Tuhkarokko",
-        "Maarianhamina"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "THL varoittaa tuhkarokkoaltistuksesta Viking Glorylla",
-          "content": "",
-          "date": "2026-08-21T05:37:20.000Z",
-          "categories": [
-            "tuhkarokko",
-            "viking glory",
-            "maarianhamina",
-            "ruotsi",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7063154"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tartuntataudit | THL: Tuhkarokko­potilas matkusti Viking Glorylla viime viikolla",
-          "content": "Sairastunut matkustaja on rokotettu, mistä johtuen riski laivalla saadulle tartunnalle on pieni.",
-          "date": "2026-08-21T05:36:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012220210.html"
-        }
-      ]
-    },
-    {
       "mainTitle": "Yliopisto hyllytti plagioinnista syyttäneen tutkijan",
       "mainCategories": [
         "Maailma",
@@ -1645,12 +1798,12 @@
       ]
     },
     {
-      "mainTitle": "Ääriverkostoon kuuluneelle miehelle vankeustuomio",
+      "mainTitle": "Ääriverkostoon kuuluneelle miehelle pitkä vankeustuomio",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1684,7 +1837,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1709,40 +1862,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012220069.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Israelilaisministeri kehui palestiinalaisten hirtto­paikkaa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Israelilais­ministeri kehuskeli palestiinalaisten hirtto­paikalla",
-          "content": "Teloituspaikka liittyy vain palestiinalaisia koskevaan kritisoituun lakiin.",
-          "date": "2026-08-20T20:50:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012220033.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Israel | Ääri­oikeistolainen ministeri julkaisi videon palestiinalaisten hirtto­paikasta",
-          "content": "Hirttopaikan rakentaminen liittyy Israelissa hyväksyttyyn lakiin kuolemanrangaistuksesta. Juutalaisväestöä laki ei käytännössä koske.",
-          "date": "2026-08-20T16:50:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012219826.html"
         }
       ]
     },
