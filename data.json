@@ -1,15 +1,42 @@
 {
-  "timestamp": "2026-08-22T16:18:01.476Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-08-22T16:48:16.757Z",
+  "successCount": 20,
+  "failureCount": 2,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-35138"
+      },
+      "reason": {
+        "errno": -104,
+        "code": "ECONNRESET",
+        "syscall": "read"
+      }
+    },
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {
+        "errno": -104,
+        "code": "ECONNRESET",
+        "syscall": "read"
+      }
+    }
+  ],
   "feeds": [
     {
       "mainTitle": "Suomi tiukentaa maahanmuuttoa ja palautuksia",
       "mainCategories": [
         "Politiikka"
       ],
-      "imageUrl": "/images/italia/1.jpg",
+      "imageUrl": "/images/italia/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -17,7 +44,7 @@
           "publisherUrl": "hs.fi",
           "title": "Maahanmuutto | Viesti kiirii Aasiaan: Opiskelijat tietävät Suomen tiukentuvasta linjasta",
           "content": "Hallitus rajoittaa Euroopan ulkopuolelta tulevien opiskelijoiden maahanmuuttoa. Myös Suomen heikko työllisyystilanne voi vaikuttaa opiskelijamäärän laskuun.",
-          "date": "2026-08-22T16:12:00.000Z",
+          "date": "2026-08-22T16:35:00.000Z",
           "categories": [
             "politiikka"
           ],
@@ -34,6 +61,84 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000012220824.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Myräkkä tuo tuulia ja sateita Suomeen",
+      "mainCategories": [
+        "Kotimaa",
+        "Sää",
+        "Sade"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Myräkkä saapuu Suomeen – näin se etenee",
+          "content": "Voimakas tuuli saattaa kaataa puita  ja katkaista sähköjä Etelä- ja Itä-Suomessa. Laajoilta vahingoilta todennäköisesti vältytään.",
+          "date": "2026-08-22T16:21:44.000Z",
+          "categories": [
+            "sää",
+            "tuuli",
+            "sade",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242420?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Rankkasateet vyöryvät nyt Suomeen – myrskyvaroitus",
+          "content": "Tuuli voi aiheuttaa tuhoja sunnuntaiyönä. Merellä myrskyää.",
+          "date": "2026-08-22T13:26:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012223816.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Veneilijä, varo tätä",
+          "content": "Lauantai-iltana maan etelä- ja itäosissa sataa ja tuulee. Baltiasta on saapumassa lauantai-illaksi Suomeen ärhäkkää matalapainetta, kertoo Ilmatieteen laitoksen päivystävä meteorologi Pauli Jokinen.  – Tuuli voimistuu Suomenlahdella nopeasti iltapäivän ja illan aikana, mikä veneilijöiden kannattaa ottaa huomioon. Maa-alueilla tuuli on illan ja yön aikana niin voimakasta, että joitain puita saattaa kaatua ja aiheuttaa sähkökatkoksia. ",
+          "date": "2026-08-22T10:52:04.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/ef61631c-f9b4-4b4d-ae1a-46a8f8b97008?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tuore ennuste julki: Tänne myräkkä iskee",
+          "content": "Kovimmat tuulet ja sateet tulevat todennäköisesti silloin, kun suurin osa kansasta on unten mailla.",
+          "date": "2026-08-22T10:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012223443.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kesämyräkkä iskee illalla",
+          "content": "Pouta saa väistyä, kun etelän suunnasta saapuva syvä matalapaine tuo mukanaan sadetta ja tuulta. Suomenlahdella tuuli voi yöllä yltää lähelle myrskylukemia.",
+          "date": "2026-08-22T03:40:25.000Z",
+          "categories": [
+            "sää",
+            "sääennusteet",
+            "sade",
+            "sademäärä",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242372?origin=rss"
         }
       ]
     },
@@ -162,11 +267,11 @@
       ]
     },
     {
-      "mainTitle": "Tuhkarokko leviää Ruotsissa festivaaleilta",
+      "mainTitle": "Tuhkarokko levinnyt Ruotsista Suomeen",
       "mainCategories": [
+        "Terveydenhuolto",
         "Tuhkarokko",
-        "Terveys",
-        "Kotimaa"
+        "Rokotteet"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -188,21 +293,6 @@
           "link": "https://yle.fi/a/74-20242397?origin=rss"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ruotsissa löytyi kolme uutta tuhkarokkotartuntaa – tapauksia nyt 27",
-          "content": "",
-          "date": "2026-08-21T15:32:10.000Z",
-          "categories": [
-            "ruotsi",
-            "tuhkarokko",
-            "terveys",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20242346?origin=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -213,26 +303,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012220216.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "THL: Tuhkarokkoon sairastunut matkusti Ahvenanmaan ja Ruotsin välillä",
-          "content": "Riski laivalla saadulle tartunnalle on pieni, mutta THL neuvoo tietyillä laivoilla matkustaneita varmistamaan rokotussuojansa.",
-          "date": "2026-08-21T05:12:30.000Z",
-          "categories": [
-            "terveys",
-            "tuhkarokko",
-            "terveyden ja hyvinvoinnin laitos",
-            "tartuntataudit",
-            "ahvenanmaa",
-            "maarianhamina",
-            "turku",
-            "kotimaa",
-            "varsinais-suomi"
-          ],
-          "link": "https://yle.fi/a/74-20242162?origin=rss"
         }
       ]
     },
@@ -292,7 +362,7 @@
       ]
     },
     {
-      "mainTitle": "Päivi Räsänen sai viisumin Britanniaan myöhään",
+      "mainTitle": "Päivi Räsänen sai viisumin myöhässä",
       "mainCategories": [
         "Politiikka",
         "Britannia",
@@ -406,7 +476,7 @@
       ]
     },
     {
-      "mainTitle": "Pk-yritysten luottamus talouteen kasvanut",
+      "mainTitle": "Yrittäjien luottamus talouteen kasvaa",
       "mainCategories": [
         "Yritykset",
         "Talous",
@@ -561,70 +631,7 @@
       ]
     },
     {
-      "mainTitle": "Rankkasateet ja myrskytuuli Suomeen saapuvat",
-      "mainCategories": [
-        "Kotimaa",
-        "Sää",
-        "Sääennusteet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Rankkasateet vyöryvät nyt Suomeen – myrskyvaroitus",
-          "content": "Tuuli voi aiheuttaa tuhoja sunnuntaiyönä. Merellä myrskyää.",
-          "date": "2026-08-22T13:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012223816.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Veneilijä, varo tätä",
-          "content": "Lauantai-iltana maan etelä- ja itäosissa sataa ja tuulee. Baltiasta on saapumassa lauantai-illaksi Suomeen ärhäkkää matalapainetta, kertoo Ilmatieteen laitoksen päivystävä meteorologi Pauli Jokinen.  – Tuuli voimistuu Suomenlahdella nopeasti iltapäivän ja illan aikana, mikä veneilijöiden kannattaa ottaa huomioon. Maa-alueilla tuuli on illan ja yön aikana niin voimakasta, että joitain puita saattaa kaatua ja aiheuttaa sähkökatkoksia. ",
-          "date": "2026-08-22T10:52:04.000Z",
-          "categories": [
-            "saauutiset"
-          ],
-          "link": "https://www.iltalehti.fi/saauutiset/a/ef61631c-f9b4-4b4d-ae1a-46a8f8b97008?utm_source=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tuore ennuste julki: Tänne myräkkä iskee",
-          "content": "Kovimmat tuulet ja sateet tulevat todennäköisesti silloin, kun suurin osa kansasta on unten mailla.",
-          "date": "2026-08-22T10:00:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012223443.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kesämyräkkä iskee illalla",
-          "content": "Pouta saa väistyä, kun etelän suunnasta saapuva syvä matalapaine tuo mukanaan sadetta ja tuulta. Suomenlahdella tuuli voi yöllä yltää lähelle myrskylukemia.",
-          "date": "2026-08-22T03:40:25.000Z",
-          "categories": [
-            "sää",
-            "sääennusteet",
-            "sade",
-            "sademäärä",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242372?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Poliisi käytti etälamautinta 16-vuotiaaseen poikaan",
+      "mainTitle": "Poliisi käytti etälamautinta 16-vuotiaaseen",
       "mainCategories": [
         "Kotimaa",
         "Pohjanmaa",
@@ -743,7 +750,7 @@
         "Taloussanomat",
         "Ravintolat"
       ],
-      "imageUrl": "/images/ravintola/4.jpg",
+      "imageUrl": "/images/ravintola/1.jpg",
       "relatedNews": [
         {
           "publisherId": "kauppalehti",
@@ -778,7 +785,7 @@
         "Yhdysvallat",
         "Kanada"
       ],
-      "imageUrl": "/images/yhdysval/1.jpg",
+      "imageUrl": "/images/yhdysval/2.jpg",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
@@ -991,24 +998,6 @@
           "link": "https://www.is.fi/kotimaa/art-2000012223604.html"
         },
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Polkupyöräilijä kuoli liikenneonnettomuudessa Lempäälässä",
-          "content": "Onnettomuus tapahtui perjantaina puoli kymmenen aikaan aamupäivällä.",
-          "date": "2026-08-21T12:00:27.000Z",
-          "categories": [
-            "onnettomuudet",
-            "liikenneonnettomuudet",
-            "lempäälä",
-            "liikenne",
-            "tieliikenne",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20242302?origin=rss"
-        },
-        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
@@ -1114,7 +1103,7 @@
       "mainCategories": [
         "Maailma"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1143,7 +1132,7 @@
       ]
     },
     {
-      "mainTitle": "Tiktok maksaa 400 miljoonaa dollaria",
+      "mainTitle": "Tiktok maksaa korvauksia USA:n oikeusministeriölle",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -1200,7 +1189,7 @@
         "Yhdysvallat",
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1318,7 +1307,7 @@
       ]
     },
     {
-      "mainTitle": "Pieksämäen ilmailuonnettomuuden syy selvisi",
+      "mainTitle": "Pieksämäen ilmailuonnettomuuden syy selvillä",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1376,110 +1365,6 @@
       ]
     },
     {
-      "mainTitle": "Tuhkarokkoaltistus Viking Glorylla, tartuntariski pieni",
-      "mainCategories": [
-        "Tuhkarokko",
-        "Terveys",
-        "Taudit"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tuhkarokkoon sairastunut matkusti Viking Linen ja Eckerö Linjenin laivoilla – jatkotartuntariski on pieni",
-          "content": "Viking Line on tiedottanut Glorylla samana päivänä matkustaneille tapauksesta.",
-          "date": "2026-08-21T12:45:29.000Z",
-          "categories": [
-            "terveys",
-            "taudit",
-            "tuhkarokko",
-            "virustaudit",
-            "tartuntataudit",
-            "rokotteet",
-            "terveyden ja hyvinvoinnin laitos",
-            "turku",
-            "varsinais-suomi"
-          ],
-          "link": "https://yle.fi/a/74-20242228?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "THL varoittaa tuhkarokkoaltistuksesta Viking Glorylla",
-          "content": "",
-          "date": "2026-08-21T05:37:20.000Z",
-          "categories": [
-            "tuhkarokko",
-            "viking glory",
-            "maarianhamina",
-            "ruotsi",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7063154"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tartuntataudit | THL: Tuhkarokko­potilas matkusti Viking Glorylla viime viikolla",
-          "content": "Sairastunut matkustaja on rokotettu, mistä johtuen riski laivalla saadulle tartunnalle on pieni.",
-          "date": "2026-08-21T05:36:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012220210.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Hopealinja lopettaa liikennöinnin talousvaikeuksien vuoksi",
-      "mainCategories": [
-        "Liikenne",
-        "Tampere",
-        "Laivaliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Jatkajaa ei löytynyt – Hopealinja lopettaa",
-          "content": "Toistaiseksi on epäselvää, kuinka liikenne Viikinsaareen järjestetään ensi vuonna.",
-          "date": "2026-08-21T12:45:00.000Z",
-          "categories": [
-            "taloussanomat"
-          ],
-          "link": "https://www.is.fi/taloussanomat/art-2000012222143.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Laivayhtiö Hopealinjan toiminta ajetaan alas – liikennöinti päättyy kesän jälkeen",
-          "content": "Hopealinjat on ollut talousvaikeuksissa pitkään. Yhtiö irtisanoo henkilöstöään toiminnan lopettamisen takia. Hopealinjat liikennöi Pirkanmaalla ja Kanta-Hämeessä.",
-          "date": "2026-08-21T08:10:22.000Z",
-          "categories": [
-            "liikenne",
-            "tampere",
-            "laivaliikenne",
-            "hämeenlinna",
-            "vesiliikenne",
-            "vesistöt",
-            "sisävesiliikenne",
-            "pirkanmaa",
-            "kotimaa",
-            "kanta-häme"
-          ],
-          "link": "https://yle.fi/a/74-20242219?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Venäläinen tiedustelukone loukkasi ilmatilaa",
       "mainCategories": [
         "Kotimaa",
@@ -1522,59 +1407,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012220422.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lennonjohtajien lakko aiheuttaa lentoja peruutuksia Norjassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Liikenne",
-        "Lentoliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Useita lentoja peruttu Norjassa",
-          "content": "12 lennonjohtajaa asettui lakkoon.",
-          "date": "2026-08-21T10:56:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012220977.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Norja | Lennon­johtajat lakkoilevat Norjassa, Oslon lentoasema suljetaan sunnuntai­aamuksi",
-          "content": "Lakko alkaa perjantaina. Lauantaina osa Norjan ilmatilasta saatetaan ajoittain sulkea.",
-          "date": "2026-08-21T07:54:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220262.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lennonjohtajat menossa lakkoon Norjassa",
-          "content": "",
-          "date": "2026-08-21T07:02:39.000Z",
-          "categories": [
-            "liikenne",
-            "lentoliikenne",
-            "työtaistelut",
-            "norja",
-            "lennonjohto",
-            "lakot",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20242191?origin=rss"
         }
       ]
     },
@@ -1626,7 +1458,7 @@
         "Diplomatia",
         "Suurlähetystö"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1705,6 +1537,46 @@
       ]
     },
     {
+      "mainTitle": "THL varoittaa tuhkarokkoaltistuksesta laivalla",
+      "mainCategories": [
+        "Suomi",
+        "Tuhkarokko",
+        "Maarianhamina"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "THL varoittaa tuhkarokkoaltistuksesta Viking Glorylla",
+          "content": "",
+          "date": "2026-08-21T05:37:20.000Z",
+          "categories": [
+            "tuhkarokko",
+            "viking glory",
+            "maarianhamina",
+            "ruotsi",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7063154"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tartuntataudit | THL: Tuhkarokko­potilas matkusti Viking Glorylla viime viikolla",
+          "content": "Sairastunut matkustaja on rokotettu, mistä johtuen riski laivalla saadulle tartunnalle on pieni.",
+          "date": "2026-08-21T05:36:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012220210.html"
+        }
+      ]
+    },
+    {
       "mainTitle": "Yliopisto hyllytti plagioinnista syyttäneen tutkijan",
       "mainCategories": [
         "Maailma",
@@ -1739,7 +1611,7 @@
       ]
     },
     {
-      "mainTitle": "Ruotsalaispuolue ehdottaa koirakieltoa jengirikollisilta",
+      "mainTitle": "Ruotsalaispuolue ehdottaa koirakiellon laajentamista",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1773,12 +1645,12 @@
       ]
     },
     {
-      "mainTitle": "Ääriverkostoon kuuluneelle miehelle pitkä vankeustuomio",
+      "mainTitle": "Ääriverkostoon kuuluneelle miehelle vankeustuomio",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/3.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -1812,7 +1684,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
