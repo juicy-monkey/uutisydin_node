@@ -1,21 +1,221 @@
 {
-  "timestamp": "2026-08-23T15:17:12.815Z",
-  "successCount": 21,
-  "failureCount": 1,
+  "timestamp": "2026-08-23T15:45:40.851Z",
+  "successCount": 20,
+  "failureCount": 2,
   "failedFeeds": [
     {
       "url": {
-        "publisherId": "ts",
-        "publisher": "Turun Sanomat",
-        "publisherUrl": "ts.fi",
-        "rssUrl": "https://www.ts.fi/rss.xml"
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
       },
       "reason": {}
     }
   ],
   "feeds": [
     {
-      "mainTitle": "Fagerstan kouluiskusta epäilty vangittu Ruotsissa",
+      "mainTitle": "Stubb tukee Ukrainaa vierailullaan Kiovassa",
+      "mainCategories": [
+        "Politiikka",
+        "Ulkomaat",
+        "Ukraina"
+      ],
+      "imageUrl": "/images/stubb/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Stubb ja Zelenskyi: Droonidiili lähellä",
+          "content": "Alexander Stubb tutustui ukrainalaiseen sotateknologiaan Kiovassa",
+          "date": "2026-08-23T15:36:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012224809.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kuvat: Stubb kuiskutteli Zelenskyin korvaan",
+          "content": "Kuvat näyttävät Stubbin vierailun Ukrainassa.",
+          "date": "2026-08-23T11:54:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012224571.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Stubb piti puheen Kiovassa: Näistä syistä Suomi tukee Ukrainaa",
+          "content": "Tasavallan presidentti osallistui sunnuntaina Ukrainan kansallislipun päivän juhlallisuuksiin. Tasavallan presidentti Alexander Stubb piti sunnuntaina lyhyen puheen Ukrainan pääkaupungissa Kiovassa Ukrainan kansallislipun päivän juhlallisuuksissa. Stubb kertoi puheessaan muun muassa, että Suomi tukee Ukrainaa yksinkertaisesta ja kaksijakoisesta syystä.",
+          "date": "2026-08-23T11:52:22.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/f8fb1658-c670-496b-bce8-763aa8e82086?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Stubb Kiovassa: Suomi tukee Ukrainaa niin kauan kuin tarvitaan",
+          "content": "Stubb painotti, että Suomella on samankaltaisia kokemuksia toisesta maailmansodasta ja kertoi, kuinka hänen sukulaisiaan joutui pakenemaan Karjalasta.",
+          "date": "2026-08-23T08:32:03.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "ukraina",
+            "alexander stubb",
+            "politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20242448?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "HS Ukrainassa | Presidentti Stubb puheessaan Kiovassa: ”Me jatkamme teidän tukemistanne”",
+          "content": "Ukrainaan odotetaan sunnuntaina ja maanantaina useiden maiden johtajia.",
+          "date": "2026-08-23T08:32:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012220802.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Stubb on Ukrainassa",
+          "content": "Alexander Stubb ja Suzanne Innes-Stubb vierailevat Ukrainassa.",
+          "date": "2026-08-23T05:44:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012224303.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Presidentti Stubb kahden päivän vierailulla Kiovassa – Venäjän ohjusiskut varjostavat",
+          "content": "Tasavallan presidentti Alexander Stubb on saapunut puolisoineen Kiovaan kireän turvallisuustilanteen vallitessa. Stubb juhlistaa huomenna Ukrainan itsenäisyyspäivää.",
+          "date": "2026-08-23T05:43:46.000Z",
+          "categories": [
+            "venäjän hyökkäys",
+            "alexander stubb",
+            "ukraina",
+            "ukrainan itsenäisyyspäivä",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20242413?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Myräkkä ja sateet vaikuttavat Suomeen",
+      "mainCategories": [
+        "Kotimaa",
+        "Sää",
+        "Sääennusteet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Sateille päätös – kesäinen lämpö palaa Suomeen",
+          "content": "Myös kovat tuulet jäävät taakse alkuviikon aikana.",
+          "date": "2026-08-23T15:21:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012224653.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Sade jatkuu Helsingissä, Uudellamaalla voimassa tuulivaroitus",
+          "content": "Pohjoisen ja koillisen välinen tuuli voi puhaltaa puuskissa 15 metriä sekunnissa.",
+          "date": "2026-08-23T03:56:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012223388.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sade ja tuuli jatkuvat sunnuntaina",
+          "content": "Pahin myräkkä lienee jo ohi, mutta etelässä ja idässä tuulivahingot ovat edelleen mahdollisia.",
+          "date": "2026-08-23T03:40:40.000Z",
+          "categories": [
+            "sää",
+            "sääennusteet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242436?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Myräkkä riepottelee Suomea tänä yönä",
+          "content": "Voimakas tuuli saattaa kaataa puita  ja katkaista sähköjä Etelä- ja Itä-Suomessa. Laajoilta vahingoilta todennäköisesti vältytään.",
+          "date": "2026-08-22T16:21:44.000Z",
+          "categories": [
+            "sää",
+            "tuuli",
+            "sade",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242420?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Rankkasateet vyöryvät nyt Suomeen – myrskyvaroitus",
+          "content": "Tuuli voi aiheuttaa tuhoja sunnuntaiyönä. Merellä myrskyää.",
+          "date": "2026-08-22T13:26:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012223816.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tuore ennuste julki: Tänne myräkkä iskee",
+          "content": "Kovimmat tuulet ja sateet tulevat todennäköisesti silloin, kun suurin osa kansasta on unten mailla.",
+          "date": "2026-08-22T10:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012223443.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Fagerstan kouluiskussa yksi kuollut ja loukkaantuneita",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
@@ -23,16 +223,6 @@
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Fagerstan kouluiskusta epäilty vangittiin",
-          "content": "Ruotsissa paikallinen tuomioistuin on sunnuntaina vanginnut todennäköisin syin 18-vuotiaan miehen epäiltynä Fagerstan kouluiskusta. Tuomioistuin kertoo asiasta verkkosivuillaan julkaistussa tiedotteessa.",
-          "date": "2026-08-23T15:16:36.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/fagerstan-kouluiskusta-epailty-vangittiin/13634262?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -289,13 +479,13 @@
         "Ukraina",
         "Droonit"
       ],
-      "imageUrl": "/images/ukraina/4.jpg",
+      "imageUrl": "/images/ukraina/3.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Aseteollisuus | Patrian ukrainalais­yhteistyö tuo Suomeen drooni­osaamista sota­oloista, arvioi asiantuntija",
+          "title": "Aseteollisuus | Patrian ukrainalais­­yhteistyö tuo Suomelle sota­oloissa testattua drooni­osaamista, arvioi asian­tuntija",
           "content": "Patria aloittaa yhteistyön ukrainalaisen droonivalmistaja General Cherryn kanssa ja suunnittelee droonien tuotantoa Suomeen.",
           "date": "2026-08-23T13:57:00.000Z",
           "categories": [
@@ -342,97 +532,6 @@
             "keski-suomi"
           ],
           "link": "https://yle.fi/a/74-20242458?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Stubb tukee Ukrainaa vierailullaan Kiovassa",
-      "mainCategories": [
-        "Politiikka",
-        "Ulkomaat",
-        "Ukraina"
-      ],
-      "imageUrl": "/images/stubb/4.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kuvat: Stubb kuiskutteli Zelenskyin korvaan",
-          "content": "Kuvat näyttävät Stubbin vierailun Ukrainassa.",
-          "date": "2026-08-23T11:54:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012224571.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Stubb piti puheen Kiovassa: Näistä syistä Suomi tukee Ukrainaa",
-          "content": "Tasavallan presidentti osallistui sunnuntaina Ukrainan kansallislipun päivän juhlallisuuksiin. Tasavallan presidentti Alexander Stubb piti sunnuntaina lyhyen puheen Ukrainan pääkaupungissa Kiovassa Ukrainan kansallislipun päivän juhlallisuuksissa. Stubb kertoi puheessaan muun muassa, että Suomi tukee Ukrainaa yksinkertaisesta ja kaksijakoisesta syystä.",
-          "date": "2026-08-23T11:52:22.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/f8fb1658-c670-496b-bce8-763aa8e82086?utm_source=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Stubb Kiovassa: Suomi tukee Ukrainaa niin kauan kuin tarvitaan",
-          "content": "Stubb painotti, että Suomella on samankaltaisia kokemuksia toisesta maailmansodasta ja kertoi, kuinka hänen sukulaisiaan joutui pakenemaan Karjalasta.",
-          "date": "2026-08-23T08:32:03.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "ukraina",
-            "alexander stubb",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20242448?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "HS Ukrainassa | Presidentti Stubb puheessaan Kiovassa: ”Me jatkamme teidän tukemistanne”",
-          "content": "Ukrainaan odotetaan sunnuntaina ja maanantaina useiden maiden johtajia.",
-          "date": "2026-08-23T08:32:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012220802.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubb on Ukrainassa",
-          "content": "Alexander Stubb ja Suzanne Innes-Stubb vierailevat Ukrainassa.",
-          "date": "2026-08-23T05:44:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012224303.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Presidentti Stubb kahden päivän vierailulla Kiovassa – Venäjän ohjusiskut varjostavat",
-          "content": "Tasavallan presidentti Alexander Stubb on saapunut puolisoineen Kiovaan kireän turvallisuustilanteen vallitessa. Stubb juhlistaa huomenna Ukrainan itsenäisyyspäivää.",
-          "date": "2026-08-23T05:43:46.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "alexander stubb",
-            "ukraina",
-            "ukrainan itsenäisyyspäivä",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20242413?origin=rss"
         }
       ]
     },
@@ -543,7 +642,7 @@
       ]
     },
     {
-      "mainTitle": "Oslon lentokenttä avautui lakon jälkeen",
+      "mainTitle": "Oslon lentokenttä avautuu lakon jälkeen",
       "mainCategories": [
         "Oslo",
         "Norja",
@@ -588,7 +687,7 @@
       ]
     },
     {
-      "mainTitle": "Kanada asettaa vastatulleet Yhdysvalloille",
+      "mainTitle": "Kanada asettaa vastatulleja Yhdysvalloille",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -638,94 +737,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012224280.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sateet ja tuuli jatkuvat Suomessa",
-      "mainCategories": [
-        "Kotimaa",
-        "Sää",
-        "Sääennusteet"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Suomen säähän tulossa käänne – Näin pitkään sitä pitää odottaa",
-          "content": "Sää jatkuu sunnuntaina epävakaana. Alkuviikosta poutaantuu. Sunnuntaina sää jatkuu epävakaisena, kertoo Ilmatieteen laitoksen meteorologi Pauli Jokinen. Etenkin maan etelä- ja itäosissa sataa, ja sää on viileää sekä tuulista.  Meteorologin mukaan matalapaine siirtyy vähitellen Suomen itäiselle puolelle ja vie sateita mukanaan. Pitkin päivää kuitenkin todennäköisesti sataa vielä etelässä ja idässä. ",
-          "date": "2026-08-23T08:04:25.000Z",
-          "categories": [
-            "saauutiset"
-          ],
-          "link": "https://www.iltalehti.fi/saauutiset/a/d9868606-1e08-49fe-a063-517db20dd8c2?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sää | Sade jatkuu Helsingissä, Uudellamaalla voimassa tuulivaroitus",
-          "content": "Pohjoisen ja koillisen välinen tuuli voi puhaltaa puuskissa 15 metriä sekunnissa.",
-          "date": "2026-08-23T03:56:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012223388.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Sade ja tuuli jatkuvat sunnuntaina",
-          "content": "Pahin myräkkä lienee jo ohi, mutta etelässä ja idässä tuulivahingot ovat edelleen mahdollisia.",
-          "date": "2026-08-23T03:40:40.000Z",
-          "categories": [
-            "sää",
-            "sääennusteet",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242436?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Myräkkä riepottelee Suomea tänä yönä",
-          "content": "Voimakas tuuli saattaa kaataa puita  ja katkaista sähköjä Etelä- ja Itä-Suomessa. Laajoilta vahingoilta todennäköisesti vältytään.",
-          "date": "2026-08-22T16:21:44.000Z",
-          "categories": [
-            "sää",
-            "tuuli",
-            "sade",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242420?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Rankkasateet vyöryvät nyt Suomeen – myrskyvaroitus",
-          "content": "Tuuli voi aiheuttaa tuhoja sunnuntaiyönä. Merellä myrskyää.",
-          "date": "2026-08-22T13:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012223816.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tuore ennuste julki: Tänne myräkkä iskee",
-          "content": "Kovimmat tuulet ja sateet tulevat todennäköisesti silloin, kun suurin osa kansasta on unten mailla.",
-          "date": "2026-08-22T10:00:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012223443.html"
         }
       ]
     },
@@ -803,7 +814,7 @@
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -838,7 +849,7 @@
         "Venäjä",
         "Vaalit"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -867,49 +878,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012224091.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tuhkarokko leviää Ruotsissa festivaaleilta",
-      "mainCategories": [
-        "Tuhkarokko",
-        "Terveys",
-        "Terveydenhuolto"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Tuhkarokko lähti leviämään Ruotsissa musiikkifestivaaleilta – asiantuntija: ”Tarttuvin tauti mitä on”",
-          "content": "Suurin osa Ruotsissa tartunnan saaneista on rokottamattomia lapsia ja nuoria aikuisia.",
-          "date": "2026-08-22T14:49:57.000Z",
-          "categories": [
-            "terveydenhuolto",
-            "tuhkarokko",
-            "rokotteet",
-            "terveyden ja hyvinvoinnin laitos",
-            "neuvolat",
-            "terveys"
-          ],
-          "link": "https://yle.fi/a/74-20242397?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ruotsissa löytyi kolme uutta tuhkarokkotartuntaa – tapauksia nyt 27",
-          "content": "",
-          "date": "2026-08-21T15:32:10.000Z",
-          "categories": [
-            "ruotsi",
-            "tuhkarokko",
-            "terveys",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20242346?origin=rss"
         }
       ]
     },
@@ -1005,7 +973,7 @@
         "Talous",
         "Työllisyys"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "/images/talous/4.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1210,7 +1178,7 @@
       ]
     },
     {
-      "mainTitle": "Tiktok maksaa korvauksia USA:ssa",
+      "mainTitle": "Tiktok maksaa 400 miljoonaa dollaria",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
