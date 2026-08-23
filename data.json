@@ -1,11 +1,21 @@
 {
-  "timestamp": "2026-08-23T14:47:56.522Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-08-23T15:17:12.815Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Fagerstan kouluiskussa yksi kuollut ja loukkaantuneita",
+      "mainTitle": "Fagerstan kouluiskusta epäilty vangittu Ruotsissa",
       "mainCategories": [
         "Ulkomaat",
         "Maailma",
@@ -14,12 +24,22 @@
       "imageUrl": "",
       "relatedNews": [
         {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Fagerstan kouluiskusta epäilty vangittiin",
+          "content": "Ruotsissa paikallinen tuomioistuin on sunnuntaina vanginnut todennäköisin syin 18-vuotiaan miehen epäiltynä Fagerstan kouluiskusta. Tuomioistuin kertoo asiasta verkkosivuillaan julkaistussa tiedotteessa.",
+          "date": "2026-08-23T15:16:36.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/fagerstan-kouluiskusta-epailty-vangittiin/13634262?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
           "title": "Fagerstan kouluisku | Kouluiskusta epäilty vangittiin – pyöri joukkomurhaajia ihannoivissa nettiyhteisöissä",
           "content": "Fagerstan kouluiskusta epäilty 18-vuotias mies vangittiin sunnuntaina.",
-          "date": "2026-08-23T14:46:00.000Z",
+          "date": "2026-08-23T15:07:00.000Z",
           "categories": [
             "maailma"
           ],
@@ -148,6 +168,58 @@
       ]
     },
     {
+      "mainTitle": "Lastenkoti paloi Helsingissä, poliisi tutkii",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Helsinki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Helsinki | Lastenkodin rakennus paloi käyttökelvottomaksi Mellunmäessä",
+          "content": "Poliisi tutkii palon syttymissyytä.",
+          "date": "2026-08-23T15:02:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012224262.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lastenkodissa paloi Helsingissä",
+          "content": "Poliisi tutkii palon syttymissyytä.",
+          "date": "2026-08-22T21:05:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012224266.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lastenkodissa paloi Helsingissä – mittavia tuhoja rakennukselle",
+          "content": "Pelastuslaitoksen mukaan palosta ei aiheutunut henkilövahinkoja.",
+          "date": "2026-08-22T20:54:48.000Z",
+          "categories": [
+            "onnettomuudet",
+            "helsinki",
+            "uusimaa",
+            "tulipalot",
+            "lastenkodit",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242433?origin=rss"
+        }
+      ]
+    },
+    {
       "mainTitle": "Väärällä puolella ajaminen aiheutti kuolemat",
       "mainCategories": [
         "Ulkomaat",
@@ -211,65 +283,13 @@
       ]
     },
     {
-      "mainTitle": "Lastenkoti paloi Helsingissä, poliisi tutkii",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Helsinki"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Helsinki | Lastenkodin rakennus paloi käyttökelvottomaksi Mellunmäessä",
-          "content": "Poliisi tutkii palon syttymissyytä.",
-          "date": "2026-08-23T14:14:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012224262.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lastenkodissa paloi Helsingissä",
-          "content": "Poliisi tutkii palon syttymissyytä.",
-          "date": "2026-08-22T21:05:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012224266.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Lastenkodissa paloi Helsingissä – mittavia tuhoja rakennukselle",
-          "content": "Pelastuslaitoksen mukaan palosta ei aiheutunut henkilövahinkoja.",
-          "date": "2026-08-22T20:54:48.000Z",
-          "categories": [
-            "onnettomuudet",
-            "helsinki",
-            "uusimaa",
-            "tulipalot",
-            "lastenkodit",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242433?origin=rss"
-        }
-      ]
-    },
-    {
       "mainTitle": "Patria aloittaa droonituotannon yhteistyössä Ukrainassa",
       "mainCategories": [
         "Patria",
         "Ukraina",
         "Droonit"
       ],
-      "imageUrl": "/images/ukraina/3.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -326,10 +346,10 @@
       ]
     },
     {
-      "mainTitle": "Stubb vierailee Ukrainassa tukemassa maata",
+      "mainTitle": "Stubb tukee Ukrainaa vierailullaan Kiovassa",
       "mainCategories": [
-        "Ulkomaat",
         "Politiikka",
+        "Ulkomaat",
         "Ukraina"
       ],
       "imageUrl": "/images/stubb/4.jpg",
@@ -359,18 +379,6 @@
           "link": "https://www.iltalehti.fi/ulkomaat/a/f8fb1658-c670-496b-bce8-763aa8e82086?utm_source=rss"
         },
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Stubb Kiovassa: ”Ukraina on meidän kaikkien suurin turvatakuu”",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia.",
-          "date": "2026-08-23T10:36:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012208431.html"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -397,18 +405,6 @@
             "politiikka"
           ],
           "link": "https://www.hs.fi/politiikka/art-2000012220802.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Stubb on Ukrainassa",
-          "content": "Tasavallan presidentti Alexander Stubb on puolisonsa Suzanne Innes-Stubbin kanssa parhaillaan Ukrainassa. Tasavallan presidentti Alexander Stubb on tällä hetkellä Ukrainassa, kertoo tasavallan presidentin kanslia. Stubb osallistuu tänään Ukrainassa Pohjoismaiden, Baltian ja Ukrainan yhteiseen huippukokoukseen.",
-          "date": "2026-08-23T05:48:59.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/f21c3ce2-3cba-4727-bc98-1c7021a7640d?utm_source=rss"
         },
         {
           "publisherId": "is",
@@ -547,7 +543,7 @@
       ]
     },
     {
-      "mainTitle": "Oslon lentokenttä avautuu lakon jälkeen",
+      "mainTitle": "Oslon lentokenttä avautui lakon jälkeen",
       "mainCategories": [
         "Oslo",
         "Norja",
@@ -592,13 +588,13 @@
       ]
     },
     {
-      "mainTitle": "Kanada asettaa vastatulleja Yhdysvalloille",
+      "mainTitle": "Kanada asettaa vastatulleet Yhdysvalloille",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Tullit"
       ],
-      "imageUrl": "/images/kanada/1.jpg",
+      "imageUrl": "/images/kanada/2.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -768,77 +764,6 @@
       ]
     },
     {
-      "mainTitle": "Trumpin ja avustajan suhteesta paljastuu lisää",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/7.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Kohu Trumpin avustajasta syvenee: Uusia kuvia julki",
-          "content": "Brittitabloidi on julkaissut kuvia Yhdysvaltain presidentti Donald Trumpista ja tämän avustajasta Natalie Harpista, jotka on väitetysti otettu Skotlannissa. Brittitabloidi Mirror on julkaissut Yhdysvaltain presidentti Donald Trumpista ja hänen avustajastaan Natalie Harpista aiemmin julkaisemattomia kuvia. Kuvat on lehden mukaan otettu vuonna 2023, jolloin Harp oli Skotlannissa Trumpin kanssa.  Yhdysvaltalaissivusto The Daily Beast julkaisi torstaina kirjeitä, joita Harp oli väitetysti lähettänyt Trumpille. Kirjeet on sivuston mukaan kirjoitettu joko Skotlannin-matkan aikana tai sen jälkeen. ",
-          "date": "2026-08-23T06:18:55.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/2f6ed127-1ba2-4c42-bd65-eabaf65ecce0?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Senaattori sanoi sen, mistä Valkoinen talo halusi pysyä hiljaa: Trumpin ja avustajan välit ovat poikkeuksellisen tiiviit",
-          "content": "The Daily Beast -sivusto julkaisi avustaja Natalie Harpin henkilökohtaisia kirjeitä Donald Trumpille.",
-          "date": "2026-08-21T15:55:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220561.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sosiaalinen media ja ympäristökatastrofit",
-      "mainCategories": [
-        "Metsäpalot",
-        "Matkailu",
-        "Ranska"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Jo Ellison: Täydellisen somekuvan tavoittelu aiheuttaa syyllisyyttä keskellä palavaa maailmaa",
-          "content": "",
-          "date": "2026-08-23T03:00:00.000Z",
-          "categories": [
-            "metsäpalot",
-            "matkailu",
-            "sosiaalinen media",
-            "ranska",
-            "ilmastonmuutos"
-          ],
-          "link": "https://www.ts.fi/a/7062530"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Ympäristökatastrofi pilasi tarkoin suunnittelemani täydelliset lomakuvat",
-          "content": "Metsäpalot muuttivat lomasuunnitelmat yhdessä yössä. Samalla ne pakottivat pohtimaan, kuinka vahvasti sosiaalinen media ohjaa tapaamme kokea elämää, Jo Ellison kirjoittaa.",
-          "date": "2026-08-22T09:00:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/ymparistokatastrofi-pilasi-tarkoin-suunnittelemani/13630220?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Kauppasota: Yhdysvaltojen ja Kanadan tullit voimaan",
       "mainCategories": [
         "Maailma",
@@ -873,7 +798,7 @@
       ]
     },
     {
-      "mainTitle": "Venäjän isku Ukrainassa vaati 16 kuolonuhria",
+      "mainTitle": "Venäjä iski Ukrainaan, 16 kuollut",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -913,7 +838,7 @@
         "Venäjä",
         "Vaalit"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -1040,7 +965,7 @@
       ]
     },
     {
-      "mainTitle": "Seitsemän kuoli moottoritietakaa-ajossa",
+      "mainTitle": "Seitsemän kuoli moottoritien onnettomuudessa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -1080,7 +1005,7 @@
         "Talous",
         "Työllisyys"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/talous/3.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
