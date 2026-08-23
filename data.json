@@ -1,9 +1,380 @@
 {
-  "timestamp": "2026-08-22T19:44:36.789Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-08-23T04:32:00.588Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Myrskyvaroitus voimassa Etelä-Suomessa",
+      "mainCategories": [
+        "Kotimaa",
+        "Sää",
+        "Sääennusteet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sää | Sade jatkuu Helsingissä, Uudellamaalla voimassa tuulivaroitus",
+          "content": "Pohjoisen ja koillisen välinen tuuli voi puhaltaa puuskissa 15 metriä sekunnissa.",
+          "date": "2026-08-23T03:56:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012223388.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Sade ja tuuli jatkuvat sunnuntaina",
+          "content": "Pahin myräkkä lienee jo ohi, mutta etelässä ja idässä tuulivahingot ovat edelleen mahdollisia.",
+          "date": "2026-08-23T03:40:40.000Z",
+          "categories": [
+            "sää",
+            "sääennusteet",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242436?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ilmatieteen laitos varoittaa: Tänä yönä voi käydä huonosti",
+          "content": "Matalapaineen vaikutukset painottuvat maan etelä- ja itäosiin. Tuuli voi aiheuttaa vahinkoa maan etelä- ja itäosassa lauantain ja sunnuntain välisenä yönä, varoittaa Ilmatieteen laitos. Lauantai-iltana etelästä saapuva matalapaine voimistaa tuulta niin maalla kuin merellä. ",
+          "date": "2026-08-22T17:21:31.000Z",
+          "categories": [
+            "saauutiset"
+          ],
+          "link": "https://www.iltalehti.fi/saauutiset/a/a03c9681-7c1f-4165-bb90-9bc258a10785?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Myräkkä riepottelee Suomea tänä yönä",
+          "content": "Voimakas tuuli saattaa kaataa puita  ja katkaista sähköjä Etelä- ja Itä-Suomessa. Laajoilta vahingoilta todennäköisesti vältytään.",
+          "date": "2026-08-22T16:21:44.000Z",
+          "categories": [
+            "sää",
+            "tuuli",
+            "sade",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242420?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Rankkasateet vyöryvät nyt Suomeen – myrskyvaroitus",
+          "content": "Tuuli voi aiheuttaa tuhoja sunnuntaiyönä. Merellä myrskyää.",
+          "date": "2026-08-22T13:26:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012223816.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tuore ennuste julki: Tänne myräkkä iskee",
+          "content": "Kovimmat tuulet ja sateet tulevat todennäköisesti silloin, kun suurin osa kansasta on unten mailla.",
+          "date": "2026-08-22T10:00:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012223443.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kesämyräkkä iskee illalla",
+          "content": "Pouta saa väistyä, kun etelän suunnasta saapuva syvä matalapaine tuo mukanaan sadetta ja tuulta. Suomenlahdella tuuli voi yöllä yltää lähelle myrskylukemia.",
+          "date": "2026-08-22T03:40:25.000Z",
+          "categories": [
+            "sää",
+            "sääennusteet",
+            "sade",
+            "sademäärä",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242372?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ihminen tippui veneestä Taipalsaarella",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Taipalsaari | Ihminen tippui purjeveneestä veteen, tuntien etsinnät päättyivät tuloksetta",
+          "content": "Veneestä tippuneella ei ollut pelastusliivejä, pelastuslaitos kertoo.",
+          "date": "2026-08-23T03:02:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012224283.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Ihminen tippui veneestä Taipalsaarella – Etsinnät päättyivät tuloksetta",
+          "content": "Pelastustoiminta päättyi sunnuntaina puoli kahdelta aamuyöllä. Pelastuslaitos etsi sunnuntain vastaisena yönä tuntien ajan ihmistä, joka oli tippunut lauantai-iltana purjeveneen kyydistä veteen.  Pelastuslaitos sai hälytyksen lauantaina kello 21:41. Tiedotteen mukaan kadonneella ei ollut pelastusliivejä yllään. ",
+          "date": "2026-08-23T01:49:23.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/cb3fbe49-1371-4b0a-9f6b-1d316994ff8e?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sosiaalinen media ja ympäristökatastrofit",
+      "mainCategories": [
+        "Metsäpalot",
+        "Matkailu",
+        "Ranska"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Jo Ellison: Täydellisen somekuvan tavoittelu aiheuttaa syyllisyyttä keskellä palavaa maailmaa",
+          "content": "",
+          "date": "2026-08-23T03:00:00.000Z",
+          "categories": [
+            "metsäpalot",
+            "matkailu",
+            "sosiaalinen media",
+            "ranska",
+            "ilmastonmuutos"
+          ],
+          "link": "https://www.ts.fi/a/7062530"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Ympäristökatastrofi pilasi tarkoin suunnittelemani täydelliset lomakuvat",
+          "content": "Metsäpalot muuttivat lomasuunnitelmat yhdessä yössä. Samalla ne pakottivat pohtimaan, kuinka vahvasti sosiaalinen media ohjaa tapaamme kokea elämää, Jo Ellison kirjoittaa.",
+          "date": "2026-08-22T09:00:00.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/ymparistokatastrofi-pilasi-tarkoin-suunnittelemani/13630220?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Taipalsaaressa purjeveneen kyydistä pudonnut kadonnut",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Taipalsaari"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Taipalsaaressa purjeveneen kyydistä pudonnutta ei löydetty etsintäoperaatiossa",
+          "content": "",
+          "date": "2026-08-22T23:55:35.000Z",
+          "categories": [
+            "onnettomuudet",
+            "etelä-karjala",
+            "taipalsaari",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242435?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yksi tippui purjeveneen kyydistä Taipalsaarella – tuntien etsinnät päättyivät tuloksetta",
+          "content": "Pudonneella ei ollut pelastusliivejä yllään.",
+          "date": "2026-08-22T23:05:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012224242.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Lastenkodin palo Helsingissä tutkinnassa",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Helsinki"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lastenkodissa paloi Helsingissä",
+          "content": "Poliisi tutkii palon syttymissyytä.",
+          "date": "2026-08-22T21:05:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012224266.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Helsinki | Lastenkotirakennuksessa paloi Mellunmäessä",
+          "content": "Poliisi tutkii palon syttymissyytä.",
+          "date": "2026-08-22T21:02:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012224262.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Lastenkodissa paloi Helsingissä – mittavia tuhoja rakennukselle",
+          "content": "Pelastuslaitoksen mukaan palosta ei aiheutunut henkilövahinkoja.",
+          "date": "2026-08-22T20:54:48.000Z",
+          "categories": [
+            "onnettomuudet",
+            "helsinki",
+            "uusimaa",
+            "tulipalot",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20242433?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Ukrainan sota: Iskuja ja evakuointeja jatkuvasti",
+      "mainCategories": [
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Synkkä savupatsas Venäjällä – Satoja evakuoitu",
+          "content": "Tähän artikkeliin on koottu Ukrainan sodan keskeisimmät tapahtumat lauantailta 22. elokuuta 2026. Kyseessä on sodan 1640. päivä. Ukraina teki lauantaiaamuna useita iskuja Venäjän Samaran alueelle, kertoo The Kyiv Post. Kohteena olivat mediatietojen mukaan kohteena olivat ainakin Novokuibyševskin öljynjalostamo sekä verkkokauppayhtiö Ozonin logistiikkakeskus.",
+          "date": "2026-08-22T20:41:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/218471ed-8ed6-4ee8-ae0e-95c8170a1c8a?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Venäjä iski Ukrainaan tuhoisasti – ainakin 16 kuollut",
+          "content": "Pelastustyöt olivat edelleen lauantaina kesken.",
+          "date": "2026-08-22T20:07:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012224184.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Venäjä iski ostos­keskukseen kahdesti Ukrainassa, ainakin 16 kuoli",
+          "content": "Venäjä iski ostoskeskukseen kahdessa aallossa. Zelenskyin mukaan jälkimmäinen isku olisi kohdistunut paikalle saapuneisiin pelastajiin.",
+          "date": "2026-08-22T09:02:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012223543.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvaltojen ja Kanadan kauppasota alkaa",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Kanada"
+      ],
+      "imageUrl": "/images/kanada/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppasota | Yhdysvaltojen ja Kanadan neuvottelut kariutuivat, 50 prosentin tullit voimaan",
+          "content": "Kanada ilmoitti vastaavansa Yhdysvaltain tuontitulleihin samalla mitalla 8. syyskuuta alkaen.",
+          "date": "2026-08-22T20:34:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012223326.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kanada ja Yhdysvallat eivät päässeet sopuun – hurjat tullimaksut voimaan",
+          "content": "Yhdysvaltojen määräämät 50 prosentin tuontitullit astuvat voimaan.",
+          "date": "2026-08-22T04:09:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012223327.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Yhdysvallat ja Kanada eivät päässeet kauppasopimukseen – uudet tullit astuvat voimaan",
+          "content": "Yhdysvaltain asettamat 50 prosentin tuontitullit astuvat lauantaina voimaan joillekin kanadalaistuotteille. Kanada on kertonut vastaavansa vastatulleilla.",
+          "date": "2026-08-22T00:12:21.000Z",
+          "categories": [
+            "yhdysvallat",
+            "kanada",
+            "kansainvälinen politiikka",
+            "tuontitulli",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20242369?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Oslon lentokenttä suljettuna lakon vuoksi",
       "mainCategories": [
@@ -68,7 +439,7 @@
         "Venäjä",
         "Vaalit"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/4.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -113,7 +484,7 @@
       ]
     },
     {
-      "mainTitle": "Suomi tiukentaa maahanmuuttoa ja palautuksia",
+      "mainTitle": "Suomi tiukentaa maahanmuuttopolitiikkaansa",
       "mainCategories": [
         "Politiikka"
       ],
@@ -146,130 +517,7 @@
       ]
     },
     {
-      "mainTitle": "Myräkkä tuo myrskyä ja sateita Suomeen",
-      "mainCategories": [
-        "Kotimaa",
-        "Sää",
-        "Sade"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Myräkkä riepottelee Suomea tänä yönä",
-          "content": "Voimakas tuuli saattaa kaataa puita  ja katkaista sähköjä Etelä- ja Itä-Suomessa. Laajoilta vahingoilta todennäköisesti vältytään.",
-          "date": "2026-08-22T16:21:44.000Z",
-          "categories": [
-            "sää",
-            "tuuli",
-            "sade",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242420?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Rankkasateet vyöryvät nyt Suomeen – myrskyvaroitus",
-          "content": "Tuuli voi aiheuttaa tuhoja sunnuntaiyönä. Merellä myrskyää.",
-          "date": "2026-08-22T13:26:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012223816.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tuore ennuste julki: Tänne myräkkä iskee",
-          "content": "Kovimmat tuulet ja sateet tulevat todennäköisesti silloin, kun suurin osa kansasta on unten mailla.",
-          "date": "2026-08-22T10:00:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012223443.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Kesämyräkkä iskee illalla",
-          "content": "Pouta saa väistyä, kun etelän suunnasta saapuva syvä matalapaine tuo mukanaan sadetta ja tuulta. Suomenlahdella tuuli voi yöllä yltää lähelle myrskylukemia.",
-          "date": "2026-08-22T03:40:25.000Z",
-          "categories": [
-            "sää",
-            "sääennusteet",
-            "sade",
-            "sademäärä",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242372?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "SDP:n sisäinen riita sote-säästöistä jatkuu",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Säästökohu repii SDP:tä – Nyt puhuu keskeinen vaikuttaja: ”Asia on tavalla tai toisella edessä”",
-          "content": "SDP:n keskeinen talousvaikuttaja, kansanedustaja Joona Räsänen katsoo, että julkisen talouden tilanne on todella pahassa tilanteessa vuonna 2028. Sen vuoksi myös indeksien leikkaamisesta on puhuttava. SDP:n kansanedustaja Joona Räsänen ottaa kantaa tällä viikolla käytyyn keskusteluun sosiaali- ja terveyspuolen säästötarpeesta. – On käyty tätä keskustelua indeksisidonnaisista menoista ja niiden tarkastelusta, että miksi tämä on edessä. Tämän [pääministeri Petteri Orpon] hallituksen jäljiltä ollaan alijäämämenettelyssä. Sen myötä vaateet varsinkin vuoteen 2028 ovat aivan järkyttävät, Räsänen avaa.",
-          "date": "2026-08-22T15:03:31.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/0801c843-7274-4c1b-aeb0-08b4991ec803?utm_source=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Tytti Tuppurainen kommentoi kiisteltyä sote-avausta: ”Ei voi poissulkea”",
-          "content": "Kansanedustaja Aki Lindénin ehdotus hyvinvointialueiden rahoista kuumensi tunteita Sdp:ssä.",
-          "date": "2026-08-21T15:45:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012222474.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Säästöehdotukset | Kiuru kutsui sote-demarit koolle oman edustajan säästö­ehdotuksesta, Lindén ei peräänny",
-          "content": "Sdp:n kansan­edustajan Aki Lindénin säästöehdotus hyvinvointialue­indeksistä hämmentää puolueen sote-valiokunta­ryhmää. Lindén puolustaa yhä esittämäänsä miljardi­leikkausta.",
-          "date": "2026-08-21T14:24:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012220654.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Aki Lindénin avaus kuumensi tunteet Sdp:ssä: ”Emme me elä missään diktatuurissa”",
-          "content": "Lindén sanoo, ettei kysynyt puoluejohdolta lupaa avaukselleen, jonka teki hyvinvointi­alueiden rahoista.",
-          "date": "2026-08-21T12:31:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012221802.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Väärään suuntaan ajaminen aiheuttaa kuolemia",
+      "mainTitle": "Väärän suuntaan ajaminen aiheuttaa kuolemia",
       "mainCategories": [
         "Ulkomaat",
         "Onnettomuudet",
@@ -417,7 +665,7 @@
         "Ukraina",
         "Venäjä"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/ukraina/4.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -454,7 +702,7 @@
       ]
     },
     {
-      "mainTitle": "Päivi Räsänen sai viisumin Britanniaan myöhään",
+      "mainTitle": "Päivi Räsänen sai viisumin Britanniaan",
       "mainCategories": [
         "Politiikka",
         "Britannia",
@@ -491,18 +739,6 @@
           "link": "https://yle.fi/a/74-20242408?origin=rss"
         },
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Päivi Räsänen sai myönteisen uutisen – Liian myöhään",
-          "content": "Kansanedustaja Päivi Räsänen (kd) on saanut Britannialta myönteisen viisumipäätöksen. Aikaisemmin kesällä hänen viisuminsa evättiin ilmeisesti korkeimman oikeuden langettaman tuomion vuoksi. Kansanedustaja Päivi Räsäsen (kd) oli tarkoitus osallistua lauantaina Yhdistyneen kuningaskunnan alueella Pohjois-Irlannissa järjestettävään konferenssiin ja puhua siellä sanan- ja uskonnonvapaudesta. Räsäselle tuli kuitenkin mutka matkaan, sillä viisumipäätös saapui myöhässä.",
-          "date": "2026-08-22T12:06:31.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.iltalehti.fi/politiikka/a/907e518d-b478-475d-9017-0480579ec208?utm_source=rss"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -517,52 +753,13 @@
       ]
     },
     {
-      "mainTitle": "Prinsessa Victoria ja prinssi Daniel Vaasassa",
-      "mainCategories": [
-        "Kuninkaalliset",
-        "Ruotsi",
-        "Naantali"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "IL: Prinsessa Victoria ja prinssi Daniel piipahtivat salaa Kultarannassa",
-          "content": "",
-          "date": "2026-08-22T14:23:10.000Z",
-          "categories": [
-            "kuninkaalliset",
-            "ruotsi",
-            "naantali",
-            "kultaranta",
-            "alexander stubb",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7064231"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Kruununprinsessa Victoria ja prinssi Daniel vierailivat Vaasassa – näin heidät tavanneet kertovat päivästä",
-          "content": "Kruununprinsessa Victoria yllätti vaasalaiset lämmöllään. Kaupunginjohtaja ja luottamushenkilöt kertovat, mitä kuninkaallisten vierailulla puhuttiin.",
-          "date": "2026-08-21T14:30:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/kruununprinsessa-victoria-ja-prinssi-daniel-vierai/13632324?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
       "mainTitle": "Yrittäjien luottamus talouteen kasvaa",
       "mainCategories": [
         "Yritykset",
         "Talous",
-        "Talouskasvu"
+        "Työllisyys"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/talous/7.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -711,7 +908,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi käytti etälamautinta 16-vuotiaaseen poikaan",
+      "mainTitle": "Poliisi käytti etälamautinta 16-vuotiasta vastaan",
       "mainCategories": [
         "Kotimaa",
         "Pohjanmaa",
@@ -754,18 +951,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012223498.html"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Uutta tietoa: Tämän takia poliisi käytti etälamautinta 16-vuotiaaseen",
-          "content": "Pohjanmaan poliisilaitokselta kerrotaan, että etälamauttimen käyttöä oli edeltänyt aktiivinen väkivaltatilanne. Poliisi käytti etälamautinta 16-vuotiaaseen poikaan perjantain ja lauantain välisenä yönä Uudessakaarlepyyssä, Pohjanmaan poliisilaitokselta vahvistetaan Iltalehdelle. Tilanne tapahtui Uudenkaarlepyyn keskusta-alueella. Etälamauttimen käyttöä oli poliisin mukaan edeltänyt aktiivinen väkivaltatilanne, johon poliisi joutui puuttumaan. Poliisin mukaan poika alkoi pahoinpitelemään toista henkilöä.",
-          "date": "2026-08-22T07:21:19.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/37aadf76-df2d-4c36-a8b1-7ed2f4f7a360?utm_source=rss"
         },
         {
           "publisherId": "yle",
@@ -1017,58 +1202,7 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvaltojen ja Kanadan kauppasota alkaa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Yhdysvallat",
-        "Kanada"
-      ],
-      "imageUrl": "/images/kanada/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kauppasota | Yhdysvaltojen ja Kanadan neuvottelut kariutuivat, 50 prosentin tullit voimaan",
-          "content": "Kanada aikoo vastata Yhdysvaltain tuontitulleihin samalla mitalla.",
-          "date": "2026-08-22T04:11:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012223326.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kanada ja Yhdysvallat eivät päässeet sopuun – hurjat tullimaksut voimaan",
-          "content": "Yhdysvaltojen määräämät 50 prosentin tuontitullit astuvat voimaan.",
-          "date": "2026-08-22T04:09:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012223327.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Yhdysvallat ja Kanada eivät päässeet kauppasopimukseen – uudet tullit astuvat voimaan",
-          "content": "Yhdysvaltain asettamat 50 prosentin tuontitullit astuvat lauantaina voimaan joillekin kanadalaistuotteille. Kanada on kertonut vastaavansa vastatulleilla.",
-          "date": "2026-08-22T00:12:21.000Z",
-          "categories": [
-            "yhdysvallat",
-            "kanada",
-            "kansainvälinen politiikka",
-            "tuontitulli",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20242369?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Tiktok maksaa korvauksia USA:n oikeusministeriölle",
+      "mainTitle": "Tiktok maksaa 400 miljoonaa dollaria USA:lle",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
@@ -1125,7 +1259,7 @@
         "Yhdysvallat",
         "Maailma"
       ],
-      "imageUrl": "/images/yhdysval/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1169,7 +1303,7 @@
       ]
     },
     {
-      "mainTitle": "Ministeri Poutala kotiutui sairaalasta",
+      "mainTitle": "Ministeri Poutala toipuu sairaalasta",
       "mainCategories": [
         "Politiikka",
         "Onnettomuudet"
@@ -1202,6 +1336,51 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000012222991.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sdp:n sisäiset erimielisyydet sote-ehdotuksesta",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tytti Tuppurainen kommentoi kiisteltyä sote-avausta: ”Ei voi poissulkea”",
+          "content": "Kansanedustaja Aki Lindénin ehdotus hyvinvointialueiden rahoista kuumensi tunteita Sdp:ssä.",
+          "date": "2026-08-21T15:45:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012222474.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Säästöehdotukset | Kiuru kutsui sote-demarit koolle oman edustajan säästö­ehdotuksesta, Lindén ei peräänny",
+          "content": "Sdp:n kansan­edustajan Aki Lindénin säästöehdotus hyvinvointialue­indeksistä hämmentää puolueen sote-valiokunta­ryhmää. Lindén puolustaa yhä esittämäänsä miljardi­leikkausta.",
+          "date": "2026-08-21T14:24:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012220654.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Aki Lindénin avaus kuumensi tunteet Sdp:ssä: ”Emme me elä missään diktatuurissa”",
+          "content": "Lindén sanoo, ettei kysynyt puoluejohdolta lupaa avaukselleen, jonka teki hyvinvointi­alueiden rahoista.",
+          "date": "2026-08-21T12:31:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012221802.html"
         }
       ]
     },
@@ -1243,7 +1422,7 @@
       ]
     },
     {
-      "mainTitle": "Pieksämäen ilmailuonnettomuuden syy selvisi",
+      "mainTitle": "Pieksämäen ilmailuonnettomuuden syy selvitetty",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -1289,11 +1468,11 @@
       ]
     },
     {
-      "mainTitle": "Tuhkarokkoaltistus Viking Glorylla, tartuntariski pieni",
+      "mainTitle": "Tuhkarokko­potilas matkusti laivoilla, riski pieni",
       "mainCategories": [
-        "Tuhkarokko",
         "Terveys",
-        "Taudit"
+        "Taudit",
+        "Tuhkarokko"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -1316,23 +1495,6 @@
             "varsinais-suomi"
           ],
           "link": "https://yle.fi/a/74-20242228?origin=rss"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "THL varoittaa tuhkarokkoaltistuksesta Viking Glorylla",
-          "content": "",
-          "date": "2026-08-21T05:37:20.000Z",
-          "categories": [
-            "tuhkarokko",
-            "viking glory",
-            "maarianhamina",
-            "ruotsi",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7063154"
         },
         {
           "publisherId": "hs",
@@ -1482,11 +1644,10 @@
     {
       "mainTitle": "Valko-Venäjä sulkee suurlähetystönsä Suomessa",
       "mainCategories": [
-        "Politiikka",
-        "Diplomatia",
-        "Suurlähetystö"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -1511,192 +1672,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012220160.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "HS: Valko-Venäjä sulkee suurlähetystönsä Suomessa",
-          "content": "Sulkeminen astuu lehden mukaan voimaan syyskuun ensimmäisenä päivänä, HS kirjoittaa.",
-          "date": "2026-08-21T03:36:20.000Z",
-          "categories": [
-            "politiikka",
-            "diplomatia",
-            "suurlähetystö",
-            "valko-venäjä",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20242155?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Lentokoneonnettomuus Alaskassa, kahdeksan kuollut",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lentokone syöksyi maahan Alaskassa – kahdeksan kuoli",
-          "content": "Tilauslentokone oli matkalla asevoimien käyttämälle kentälle.",
-          "date": "2026-08-21T05:43:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012220221.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Lentokone syöksyi maahan Alaskassa, kahdeksan pelätään kuolleen",
-          "content": "Tilauslento oli matkalla ilmavoimien tutka-asemalle.",
-          "date": "2026-08-21T04:24:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220166.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yliopisto hyllytti plagioinnista syyttäneen tutkijan",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Belgia | Yliopisto hyllytti Jason Ardayta plagioinnista syyttäneen tutkijan",
-          "content": "Yliopiston mukaan tutkija on hyllytetty varotoimenpiteenä.",
-          "date": "2026-08-21T04:25:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220131.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yliopisto hyllytti Jason Ardayta plagioinnista syyttäneen tutkijan",
-          "content": "Jason Arday löydettiin elottomana kotiosoitteestaan Etelä-Lontoosta perjantaina 14. elokuuta.",
-          "date": "2026-08-21T02:12:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012220139.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ruotsalaispuolue ehdottaa koirakiellon laajentamista",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Lemmikit | Aftonbladet: Koiran pitäminen pitäisi kieltää jengirikollisilta, ehdottaa ruotsalaispuolue",
-          "content": "Sosiaalidemokraattien mukaan kiellon pitäisi koskea kaikkia koirarotuja.",
-          "date": "2026-08-21T01:46:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220130.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Aftonbladet: Ruotsalaispuolue haluaa kieltää koirat jengirikollisilta",
-          "content": "Ruotsalaisen kansanedustajan mukaan kiellon pitäisi koskea kaikkia koirarotuja.",
-          "date": "2026-08-21T01:39:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012220122.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ääriverkostoon kuulunut mies tuomittiin vankeuteen",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Parikymppiselle miehelle yli 70 vuoden vankeustuomio – kuului vaaralliseen ääriverkostoon",
-          "content": "27-vuotiaan yhdysvaltalaismiehen kerrotaan olleen verkossa toimivan ääriverkosto 764:n jäsen.",
-          "date": "2026-08-20T23:48:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012220120.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Väkivaltaiseen ääri­verkostoon kuulunut mies sai ennätyspitkän vankeustuomion",
-          "content": "27-vuotiaan yhdysvaltalaismiehen kerrotaan olleen verkossa toimivan ääriverkosto 764:n jäsen.",
-          "date": "2026-08-20T23:34:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220112.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvallat karkottaa meksikolaisia Guatemalaan",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/yhdysval/3.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Maahanmuutto | Yhdysvallat on karkottanut tuhansia meksikolaisia, mutta ei Meksikoon",
-          "content": "Guatemala kertoo vastaanottaneensa tänä vuonna tuhansia karkotettuja meksikolaisia. Meksiko vastustaa Yhdysvaltain uutta toimintatapaa.",
-          "date": "2026-08-20T21:46:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012220107.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yhdysvallat on karkottanut tuhansia meksikolaisia – määränpää aivan muu kuin Meksiko",
-          "content": "Meksiko vastustaa Yhdysvaltain uutta toimintatapaa.",
-          "date": "2026-08-20T21:02:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012220069.html"
         }
       ]
     }
