@@ -39,24 +39,25 @@ export const generateEmbeddings = async (items: NewsItem[]): Promise<number[][]>
     return res.data.map(d => d.embedding)
 }
 
-export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
+
+export const clusterFeeds = async (items: NewsItem[], similarity_thresh = 0.3, min_items = 2) => {
     const embeddings = await generateEmbeddings(items)
     const clusters: NewsCluster[] = []
-    const visited = new Set<number>()
 
-    for (let i = 0; i < items.length; i++) {
-        if (visited.has(i)) continue
-        visited.add(i)
+    const { DBSCAN } = await import('density-clustering')
 
-        const cluster = [items[i]]
-        for (let j = i + 1; j < items.length; j++) {
-            if (visited.has(j)) continue
-            const sim = cosineSimilarity(embeddings[i], embeddings[j])
-            if (sim > threshold) {
-                cluster.push(items[j])
-                visited.add(j)
-            }
-        }
+    // DBSCAN uses distance, while threshold is cosine similarity.
+    // cosine distance = 1 - cosine similarity
+    const dbscan = new DBSCAN()
+    const clusterIndexes = dbscan.run(
+        embeddings,
+        similarity_thresh,
+        min_items,
+        (a: number[], b: number[]) => 1 - cosineSimilarity(a, b)
+    )
+
+    for (const indexes of clusterIndexes) {
+        const cluster = indexes.map((index: number) => items[index])
 
         const allCategories = cluster.flatMap(item => item.categories || [])
         const categoryCounts = countBy(allCategories)
@@ -106,6 +107,7 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
     })
     return sortedClusters
 }
+
 
 export const cosineSimilarity = (a: number[], b: number[]) => {
     const dot = a.reduce((sum, val, i) => sum + val * b[i], 0)
