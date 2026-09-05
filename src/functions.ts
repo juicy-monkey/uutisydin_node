@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { NewsCluster, NewsItem, RSSResult } from './interfaces'
 import { countBy, orderBy } from 'lodash'
+import { DBSCAN } from 'density-clustering'
 
 const openai = new OpenAI()
 
@@ -44,20 +45,18 @@ export const clusterFeeds = async (items: NewsItem[], similarity_thresh = 0.3, m
     const embeddings = await generateEmbeddings(items)
     const clusters: NewsCluster[] = []
 
-    const { DBSCAN } = await import('density-clustering')
-
     // DBSCAN uses distance, while threshold is cosine similarity.
     // cosine distance = 1 - cosine similarity
     const dbscan = new DBSCAN()
-    const clusterIndexes = dbscan.run(
+    const clusterIndeces = dbscan.run(
         embeddings,
         similarity_thresh,
         min_items,
         (a: number[], b: number[]) => 1 - cosineSimilarity(a, b)
     )
 
-    for (const indexes of clusterIndexes) {
-        const cluster = indexes.map((index: number) => items[index])
+    for (const clusterIndex of clusterIndeces) {
+        const cluster = clusterIndex.map((index: number) => items[index])
 
         const allCategories = cluster.flatMap(item => item.categories || [])
         const categoryCounts = countBy(allCategories)
