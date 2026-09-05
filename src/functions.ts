@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { NewsCluster, NewsItem, RSSResult } from './interfaces'
 import { countBy, orderBy } from 'lodash'
+import { DBSCAN } from 'density-clustering'
 
 const openai = new OpenAI()
 
@@ -39,24 +40,23 @@ export const generateEmbeddings = async (items: NewsItem[]): Promise<number[][]>
     return res.data.map(d => d.embedding)
 }
 
-export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
+
+export const clusterFeeds = async (items: NewsItem[], similarity_thresh = 0.3, min_items = 2) => {
     const embeddings = await generateEmbeddings(items)
     const clusters: NewsCluster[] = []
-    const visited = new Set<number>()
 
-    for (let i = 0; i < items.length; i++) {
-        if (visited.has(i)) continue
-        visited.add(i)
+    // DBSCAN uses distance, while threshold is cosine similarity.
+    // cosine distance = 1 - cosine similarity
+    const dbscan = new DBSCAN()
+    const clusterIndeces = dbscan.run(
+        embeddings,
+        similarity_thresh,
+        min_items,
+        (a: number[], b: number[]) => 1 - cosineSimilarity(a, b)
+    )
 
-        const cluster = [items[i]]
-        for (let j = i + 1; j < items.length; j++) {
-            if (visited.has(j)) continue
-            const sim = cosineSimilarity(embeddings[i], embeddings[j])
-            if (sim > threshold) {
-                cluster.push(items[j])
-                visited.add(j)
-            }
-        }
+    for (const clusterIndex of clusterIndeces) {
+        const cluster = clusterIndex.map((index: number) => items[index])
 
         const allCategories = cluster.flatMap(item => item.categories || [])
         const categoryCounts = countBy(allCategories)
@@ -107,6 +107,7 @@ export const clusterFeeds = async (items: NewsItem[], threshold = 0.6) => {
     return sortedClusters
 }
 
+
 export const cosineSimilarity = (a: number[], b: number[]) => {
     const dot = a.reduce((sum, val, i) => sum + val * b[i], 0)
     const normA = Math.sqrt(a.reduce((sum, val) => sum + val * val, 0))
@@ -119,9 +120,7 @@ export const generateClusterTitle = async (items: NewsItem[]) => {
     const date = new Date().toLocaleDateString('de-DE');
 
     const completion: OpenAI.ChatCompletion = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
-        temperature: 0.0,
-        top_p: 0.0,
+        model: 'gpt-5.6-luna',
         messages: [
             {
                 role: 'system',
@@ -129,11 +128,12 @@ export const generateClusterTitle = async (items: NewsItem[]) => {
                     Olet uutistoimittaja.
                     Sinulle annetaan vähintään kahden uutisartikkelin otsikko ja mahdollisesti niiden ingressi.
                     Tämän hetkinen päivämäärä on ${date}, ja uutisartikkelit ovat viimeisen kahden päivän ajalta.
-                    Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö yhdeksi ytimekkääksi, neutraaliksi otsikoksi, jossa on korkeintaan kuusi sanaa.
+                    Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö yhdeksi ytimekkääksi, neutraaliksi otsikoksi.
+                    Otsikossa on oltava korkeintaan kahdeksan sanaa.
                     Otsikon tulee olla informatiivinen, ytimekäs ja uskollinen alkuperäiselle sisällölle.
-                    Otsikon tulee olla hyvää suomenkieltä ja sanajärjestys on oltava kieliopillisesti oikein.
-                    On tärkeää, että otsikko ei harhaanjohda tai ole monitulkintainen.
-                    Vastaa vain otsikko, älä mitään muuta.
+                    Otsikon tulee olla hyvää suomenkieltä ja sanajärjestyksen on oltava kieliopillisesti oikein.
+                    On tärkeää, että otsikko ei harhaanjohtava tai ole monitulkintainen.
+                    Vastaa vain otsikko ilman pistettä, älä mitään muuta.
 
                     Otsikot ja ingressit:
                     ${texts.join('\n')}`
@@ -153,6 +153,8 @@ export const getSuitableImageUrl = async (items: NewsItem[]) => {
         return acc
     }, {} as Record<string, number>)
 
+
+    // For debug: print the most frequent keywords and their counts
     // console.log('---' + items[0].title.toUpperCase())
     // console.log(
     //     Object.entries(keywordFrequencies)
