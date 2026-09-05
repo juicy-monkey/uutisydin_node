@@ -120,9 +120,7 @@ export const generateClusterTitle = async (items: NewsItem[]) => {
     const date = new Date().toLocaleDateString('de-DE');
 
     const completion: OpenAI.ChatCompletion = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
-        temperature: 0.0,
-        top_p: 0.0,
+        model: 'gpt-5.6-luna',
         messages: [
             {
                 role: 'system',
@@ -155,6 +153,8 @@ export const getSuitableImageUrl = async (items: NewsItem[]) => {
         return acc
     }, {} as Record<string, number>)
 
+
+    // For debug: print the most frequent keywords and their counts
     // console.log('---' + items[0].title.toUpperCase())
     // console.log(
     //     Object.entries(keywordFrequencies)
