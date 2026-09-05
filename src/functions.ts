@@ -129,11 +129,12 @@ export const generateClusterTitle = async (items: NewsItem[]) => {
                     Olet uutistoimittaja.
                     Sinulle annetaan vähintään kahden uutisartikkelin otsikko ja mahdollisesti niiden ingressi.
                     Tämän hetkinen päivämäärä on ${date}, ja uutisartikkelit ovat viimeisen kahden päivän ajalta.
-                    Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö yhdeksi ytimekkääksi, neutraaliksi otsikoksi, jossa on korkeintaan kuusi sanaa.
+                    Tehtäväsi on analysoida ne ja tiivistää niiden keskeinen sisältö yhdeksi ytimekkääksi, neutraaliksi otsikoksi.
+                    Otsikossa on oltava korkeintaan kahdeksan sanaa.
                     Otsikon tulee olla informatiivinen, ytimekäs ja uskollinen alkuperäiselle sisällölle.
-                    Otsikon tulee olla hyvää suomenkieltä ja sanajärjestys on oltava kieliopillisesti oikein.
-                    On tärkeää, että otsikko ei harhaanjohda tai ole monitulkintainen.
-                    Vastaa vain otsikko, älä mitään muuta.
+                    Otsikon tulee olla hyvää suomenkieltä ja sanajärjestyksen on oltava kieliopillisesti oikein.
+                    On tärkeää, että otsikko ei harhaanjohtava tai ole monitulkintainen.
+                    Vastaa vain otsikko ilman pistettä, älä mitään muuta.
 
                     Otsikot ja ingressit:
                     ${texts.join('\n')}`
