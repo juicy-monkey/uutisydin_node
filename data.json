@@ -1,9 +1,58 @@
 {
-  "timestamp": "2026-09-07T18:27:02.659Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-09-07T18:38:58.761Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
+    {
+      "mainTitle": "Kansallisarkisto: Venäjä-aineiston 9999-rajoitus on tekninen",
+      "mainCategories": [
+        "Kotimaa",
+        "Yhteiskunta",
+        "Kansallisarkisto"
+      ],
+      "imageUrl": "/images/venäjä/2.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Mitä tapahtuu vuonna 10000? Kansallis­arkiston mysteeri sai asiantuntijan nauramaan",
+          "content": "Kansallisarkiston aineistorajoituksista on noussut erikoinen kohu. Futuristi Perttu Pölönen pohtii, miltä maailma voi näyttää vuonna 10000. Kansallisarkisto on keskellä kummallista jupakkaa. Yle kertoi sunnuntaina, että Kansallisarkisto on rajoittanut pääsyä Venäjältä tuotuihin historiallisiin aineistoihin. Ylen mukaan aineiston rajoitus on voimassa syyskuusta 2022 aina 31. joulukuuta 9999 asti. Yle kertoi, että Suomeen on 15 vuodessa saapunut miljoona sivua asiakirjoja vuosilta 1500–1990. Venäjän arkistoissa on suuri määrä Suomea koskevaa aineistoa.",
+          "date": "2026-09-07T18:30:46.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/fe3bd073-a2de-4f07-93c4-40c76b7e1c54?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kansallisarkisto vuoteen 9999 ulottuvasta käyttörajoituksesta: ”Järjestelmätekninen asia”",
+          "content": "Kansallisarkiston Venäjältä tuotuihin aineistoihin ei pääse etäyhteydellä. Pääjohtaja Päivi Happosen mukaan Kansallisarkistolla ei ole syytä sensuroida aineistoja.",
+          "date": "2026-09-07T18:05:37.000Z",
+          "categories": [
+            "yhteiskunta",
+            "kansallisarkisto",
+            "suomen historia",
+            "venäjä",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20245035?origin=rss"
+        }
+      ]
+    },
     {
       "mainTitle": "Somevaikuttaja Olivia Oras kuoli rasvaimun yhteydessä",
       "mainCategories": [
@@ -47,30 +96,12 @@
       ]
     },
     {
-      "mainTitle": "Garden-yhtiö ilmoitti Orpo-tapaamisista – Orpo: Ei uutta",
+      "mainTitle": "Garden-yhtiö ilmoitti Orpo-tapaamisista, Orpo kiistää ristiriidan",
       "mainCategories": [
-        "Politiikka",
-        "Talous",
-        "Kotimaa"
+        "Politiikka"
       ],
       "imageUrl": "/images/helsinki/1.jpg",
       "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "USU: Garden Helsingin taustayhtiö ilmoitti tavanneensa Orpoa useasti",
-          "content": "",
-          "date": "2026-09-07T17:34:41.000Z",
-          "categories": [
-            "politiikka",
-            "talous",
-            "petteri orpo",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7078237"
-        },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
@@ -132,7 +163,7 @@
       ]
     },
     {
-      "mainTitle": "Kuumuus uhkaa tehdä Ranskan viinisadosta heikoimman 30 vuoteen",
+      "mainTitle": "Helle voi painaa Ranskan viinisadon 30 vuoden pohjille",
       "mainCategories": [
         "Ranska",
         "Viinit",
@@ -171,7 +202,7 @@
       ]
     },
     {
-      "mainTitle": "Ruotsi hankkii Himars-järjestelmän, Suomi sopi huollosta",
+      "mainTitle": "Ruotsi hankkii Himarsit, Suomi tarjoaa huoltoyhteistyötä",
       "mainCategories": [
         "Politiikka",
         "Turvallisuus",
@@ -216,7 +247,7 @@
       ]
     },
     {
-      "mainTitle": "Anak Krakataun purkaus pysäytti lennot Indonesiassa",
+      "mainTitle": "Anak Krakataun purkaus sulki lentokenttiä ja jumitti matkustajat",
       "mainCategories": [
         "Ulkomaat",
         "Maailma"
@@ -262,7 +293,7 @@
       ]
     },
     {
-      "mainTitle": "AfD:n vaalivoitto vahvistaa puolueen asemaa Saksassa",
+      "mainTitle": "AfD:n murskavoitto vahvistaa sen asemaa Saksassa",
       "mainCategories": [
         "Saksa",
         "Ulkomaat",
@@ -309,7 +340,7 @@
       ]
     },
     {
-      "mainTitle": "Ylöjärven eläinlääkäriasemalta varastettu Euthasol voi tappaa",
+      "mainTitle": "Poliisi varoittaa Ylöjärveltä varastetusta hengenvaarallisesta Euthasolista",
       "mainCategories": [
         "Kotimaa",
         "Lääkkeet",
@@ -361,7 +392,7 @@
       ]
     },
     {
-      "mainTitle": "Vantaalla kuolleen tytön tapauksessa epäillään 18-vuotiasta miestä",
+      "mainTitle": "Vantaalla kuolleen tytön tapauksessa 18-vuotiasta epäillään rikoksista",
       "mainCategories": [
         "Kotimaa",
         "Rikosepäilyt",
@@ -414,13 +445,13 @@
       ]
     },
     {
-      "mainTitle": "Itärajalle valmistui 200 kilometrin esteaita",
+      "mainTitle": "Itärajan 200 kilometrin esteaita valmistui, lisäaitaa saatetaan tarvita",
       "mainCategories": [
         "Turvallisuus",
         "Rajavartiolaitos",
         "Kainuu"
       ],
-      "imageUrl": "/images/venäjä/1.jpeg",
+      "imageUrl": "/images/venäjä/5.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -481,7 +512,7 @@
       ]
     },
     {
-      "mainTitle": "Kulosaaressa vedestä löytyi kuollut ihminen, rikosta ei epäillä",
+      "mainTitle": "Kulosaaren vedestä löytyi kuollut ihminen, rikosta ei epäillä",
       "mainCategories": [
         "Kotimaa",
         "Onnettomuudet",
@@ -524,69 +555,13 @@
       ]
     },
     {
-      "mainTitle": "Metallinetsijä löysi Sysmästä 4,5 kiloa viikinkiaikaisia hopearahoja",
-      "mainCategories": [
-        "Historia",
-        "Arkeologia",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Sysmästä löytyi yli neljä kiloa viikinkiaikaisia hopearahoja",
-          "content": "",
-          "date": "2026-09-07T10:52:01.000Z",
-          "categories": [
-            "arkeologia",
-            "historia",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7077887"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Harrastaja löysi 4,5 kiloa viikinkiaikaisia hopearahoja Sysmästä: ”Ensin tuli pieni epäusko”",
-          "content": "Metallinetsintää vuosia harrastanut Kalle Lappinen löysi maasta tuhansia myöhäisrautakautisia hopearahoja.",
-          "date": "2026-09-07T07:31:02.000Z",
-          "categories": [
-            "historia",
-            "arkeologia",
-            "muinaisjäännökset",
-            "viikinkiaika",
-            "sysmä",
-            "päijät-häme",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20244887?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Arkeologia | Harrastaja löysi Sysmästä tuhansia viikinki­aikaisia hopea­rahoja",
-          "content": "Löydettyjen rahojen kokonaispaino on noin 4,5 kiloa.",
-          "date": "2026-09-07T07:29:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012256614.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "AfD sai murskavoiton Saksi-Anhaltin osavaltiovaaleissa",
+      "mainTitle": "AfD murskasi keskustaoikeiston Saksi-Anhaltin osavaltiovaaleissa",
       "mainCategories": [
         "Ulkomaat",
         "Vaalit",
         "Saksa"
       ],
-      "imageUrl": "/images/saksa/1.jpg",
+      "imageUrl": "/images/saksa/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -654,22 +629,6 @@
           "link": "https://www.is.fi/ulkomaat/art-2000012255934.html"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Saksassa laitaoikeiston AfD otti murskavoiton Saksi-Anhaltin osavaltiovaaleissa",
-          "content": "",
-          "date": "2026-09-06T17:06:39.000Z",
-          "categories": [
-            "saksa",
-            "vaalit",
-            "maailma",
-            "uutiset",
-            "kansainvälinen politiikka"
-          ],
-          "link": "https://www.ts.fi/a/7077205"
-        },
-        {
           "publisherId": "kaleva",
           "publisher": "Kaleva",
           "publisherUrl": "kaleva.fi",
@@ -725,13 +684,13 @@
       ]
     },
     {
-      "mainTitle": "Trump haluaa nimetä New Mexicon uudelleen, kuvernööri vastustaa",
+      "mainTitle": "Trump ehdottaa New Mexicon uudelleennimeämistä, kuvernööri vastustaa",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Osavaltiot"
       ],
-      "imageUrl": "/images/trump/6.jpg",
+      "imageUrl": "/images/trump/3.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -765,7 +724,48 @@
       ]
     },
     {
-      "mainTitle": "Kiovassa ei läpimurtoa, Yhdysvallat tavoittelee kolmenvälisiä neuvotteluja",
+      "mainTitle": "Harrastaja löysi Sysmästä 4,5 kiloa viikinkiaikaisia hopearahoja",
+      "mainCategories": [
+        "Historia",
+        "Arkeologia",
+        "Muinaisjäännökset"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Harrastaja löysi 4,5 kiloa viikinkiaikaisia hopearahoja Sysmästä: ”Ensin tuli pieni epäusko”",
+          "content": "Metallinetsintää vuosia harrastanut Kalle Lappinen löysi maasta tuhansia myöhäisrautakautisia hopearahoja.",
+          "date": "2026-09-07T07:31:02.000Z",
+          "categories": [
+            "historia",
+            "arkeologia",
+            "muinaisjäännökset",
+            "viikinkiaika",
+            "sysmä",
+            "päijät-häme",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20244887?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Arkeologia | Harrastaja löysi Sysmästä tuhansia viikinki­aikaisia hopea­rahoja",
+          "content": "Löydettyjen rahojen kokonaispaino on noin 4,5 kiloa.",
+          "date": "2026-09-07T07:29:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012256614.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kiovan neuvotteluissa ei läpimurtoa, Yhdysvallat tavoittelee kolmenvälisiä neuvotteluja",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -799,7 +799,7 @@
       ]
     },
     {
-      "mainTitle": "Amazonin rahtikoneonnettomuudessa Miamissa kuoli ainakin viisi",
+      "mainTitle": "Amazonin rahtikone suistui kiitotieltä Miamissa, ainakin viisi kuoli",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -833,11 +833,9 @@
       ]
     },
     {
-      "mainTitle": "Yhdysvaltain lähettiläät tapasivat Zelenskyin Kiovassa ilman läpimurtoa",
+      "mainTitle": "Yhdysvaltain lähettiläät tapasivat Zelenskyin, läpimurtoa ei syntynyt",
       "mainCategories": [
-        "Maailma",
-        "Sota",
-        "Politiikka"
+        "Maailma"
       ],
       "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
@@ -862,25 +860,6 @@
           "date": "2026-09-06T17:31:00.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/yhdysvaltain-erityislahettilaat-neuvottelivat-zele/13655854?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Yhdysvaltain erityislähettiläät neuvottelivat Zelenskyin kanssa Kiovassa – Witkoff: Molempien tehtävä kompromisseja",
-          "content": "",
-          "date": "2026-09-06T11:39:09.000Z",
-          "categories": [
-            "ukrainan sota",
-            "sota",
-            "politiikka",
-            "venäjä",
-            "yhdysvallat",
-            "ukraina",
-            "maailma",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7077032"
         },
         {
           "publisherId": "kaleva",
