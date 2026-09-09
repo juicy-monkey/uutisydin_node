@@ -1,18 +1,518 @@
 {
-  "timestamp": "2026-09-08T19:46:47.140Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-09-09T07:11:11.888Z",
+  "successCount": 20,
+  "failureCount": 2,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/"
+      },
+      "reason": {}
+    },
+    {
+      "url": {
+        "publisherId": "kaleva",
+        "publisher": "Kaleva",
+        "publisherUrl": "kaleva.fi",
+        "rssUrl": "https://www.kaleva.fi/feedit/rss/managed-listing/ulkomaat/"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Salatut asiakirjat: Viranomaiset tiesivät WTC-ilman vaarallisuudesta",
+      "mainTitle": "Nuorten osaaminen heikkenee, Hiab hakee kasvua yrityskaupalla",
       "mainCategories": [
-        "Yhdysvallat",
-        "Terrorismi",
-        "Ilmasto"
+        "Politiikka",
+        "Talousaamu"
+      ],
+      "imageUrl": "/images/talous/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Suomen koulu kriisissä, konepaja teki miljardin ostoksen – Katso keskiviikon Talousaamu",
+          "content": "Talousaamussa keskustellaan keskiviikkona koulujen Pisa-tuloksista, kuormausnosturimarkkinoista ja Donald Trumpin tullihermoilusta. Haastatteluissa ovat ministeri Anders Adlercreutz (r) sekä Hiabin toimitusjohtaja Scott Phillips.",
+          "date": "2026-09-09T07:05:00.000Z",
+          "categories": [
+            "talousaamu"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/0120034e-7dd1-4b16-b589-81727775e179?utm_source=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tekikö Suomi kammottavan virheen? Opetus­ministeri suorassa Talousaamussa",
+          "content": "Talousaamussa keskustellaan keskiviikkona koulujen Pisa-tuloksista, kuormausnosturimarkkinoista ja Donald Trumpin tullihermoilusta. Haastatteluissa ovat ministeri Anders Adlercreutz (r) sekä Hiabin toimitusjohtaja Scott Phillips. Suomalaisnuorten osaaminen on jälleen heikentynyt Pisa-tutkimuksessa, ja tämä alkaa näkyä myös työpaikoilla. Millainen hintalappu asialla on ja mitä sille pitäisi tehdä? Kuormankäsittelylaitteita valmistava Hiab teki melkoisen yrityskaupan kesällä. Myös tilauskirjat pullistelevat. Yltääkö yhtiö tavoitteisiinsa?",
+          "date": "2026-09-09T05:27:15.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/0cf27b1c-22c0-417c-9997-906476260a1d?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Norjan kuningas Harald V haudataan tänään",
+      "mainCategories": [
+        "Kuninkaalliset",
+        "Hautajaiset",
+        "Norja"
       ],
       "imageUrl": "",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Norjan kuninkaan Harald V:n hautajaiset ovat tänään – seuraa tapahtumia täältä",
+          "content": "Voit seurata Harald V:n hautajaisia tässä artikkelissa.",
+          "date": "2026-09-09T06:55:08.000Z",
+          "categories": [
+            "kuninkaalliset",
+            "hautajaiset",
+            "harald v",
+            "norja",
+            "norjan kuninkaalliset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20245288?origin=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Norjan kuningas Harald haudataan tänään – tässä päivän aikataulu ja kiinnostavat vieraat",
+          "content": "Ylen erikoislähetys alkaa kello 12.45. Haraldin hautajaisiin saapuu valtiojohtoa eri puolilta maailmaa.",
+          "date": "2026-09-09T02:00:35.000Z",
+          "categories": [
+            "kuninkaalliset",
+            "harald v",
+            "hautajaiset",
+            "norja",
+            "norjan kuninkaalliset",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20245078?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Oulun kaupungin irtisanomisesta tutkitaan epäiltyä virkarikosta",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Oulu"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Poliisi tutkii virkarikosta Oulussa – Useita epäiltyjä",
+          "content": "Tapausta tutkitaan virka-aseman väärinkäyttönä ja työsyrjintänä. Poliisi tutkii epäiltyä virkarikosta Oulussa. Epäily liittyy Oulun kaupungin entisen palvelussuhdepäällikön irtisanomisen laillisuuteen. Tapausta tutkitaan tässä vaiheessa virka-aseman väärinkäyttönä ja työsyrjintänä. Epäiltyinä asiassa on useita eri ihmisiä, jotka ovat liittyneet irtisanomismenettelyyn.",
+          "date": "2026-09-09T06:23:27.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/909880e0-d101-48b3-bc06-8f5fb6b6d475?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Oulun kaupungin johtohenkilöitä epäillään rikoksesta – liittyy entisen työntekijän irtisanomiseen",
+          "content": "Irtisanomispäätöksen teki Oulun kaupunginjohtaja, eli epäily kohdistunee häneen. Epäily koskee entisen työntekijän irtisanomista.",
+          "date": "2026-09-09T06:21:39.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "oulu",
+            "kaupunginjohtajat",
+            "pohjois-pohjanmaa",
+            "poliisitutkinta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20245276?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomessa suruliputetaan Norjan kuningas Haraldin muistolle",
+      "mainCategories": [
+        "Kuninkaalliset",
+        "Suruliputus",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomessa suruliputetaan Norjan kuninkaan Haraldin muistolle",
+          "content": "Suruliputus koskee presidentin kansliaa, eduskuntaa ja valtioneuvoston kiinteistöjä.",
+          "date": "2026-09-09T06:21:25.000Z",
+          "categories": [
+            "kuninkaalliset",
+            "suruliputus",
+            "harald v",
+            "ministerit, ministeriöt ja valtioneuvosto",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20245275?origin=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Suomessa suruliputetaan Norjan kuningas Haraldin muistolle",
+          "content": "",
+          "date": "2026-09-09T06:15:31.000Z",
+          "categories": [
+            "kuninkaalliset",
+            "kuolleet",
+            "norja",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7079504"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump antoi kolmelle avustajalle 45 000 dollarin lahjat",
+      "mainCategories": [
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/trump/6.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Uusi paljastus Trumpista ja Nataliesta, 35: \"Näin ei voi tehdä\"",
+          "content": "Trump antoi muhkean rahalahjan kohuavustajalleen. Yhdysvalloissa Donald Trumpin, 80, suhde avustajaansa Natalie Harpiin, 35, kuohuttaa jälleen. Trumpin hallinnon julkistamista tiedoista selviää, että Trump antoi huomattavan rahalahjan Harpille sekä viestintäneuvonantaja Margo Martinille ja Valkoisen talon ovaalin työhuoneen toiminnoista vastaavalle varajohtajalle Chamberlain Harrisille.",
+          "date": "2026-09-09T05:45:28.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/d48a2ac8-e25c-4aee-83da-82fe35849db7?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Natalie Harp ja kaksi muuta avustajaa saivat Trumpilta 45 000 dollaria joululahjaksi",
+          "content": "Rahalahjat vastaavat noin kolmannesta avustajien vuosipalkasta.",
+          "date": "2026-09-09T04:36:10.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20245262?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhdysvallat ja Iran iskivät toistensa aluksiin",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/yhdysval/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Iranin sota | Yhdys­vallat kosti iskut sota-aluksiin: iski iranilais­tankkereihin",
+          "content": "Iran kosti öljyalusiskut. Maa ilmoitti myös ottaneensa haltuun yhdysvaltalaisen miehittämättömän sukellusveneen.",
+          "date": "2026-09-09T05:38:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012261246.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yhdysvallat iski useisiin iranilaistankkereihin – Iran kosti rivakasti",
+          "content": "Iskut olivat vastaus Iranin iskuihin, jotka kohdistuivat Yhdysvaltain laivaston sota-aluksiin.",
+          "date": "2026-09-09T02:56:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012261237.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Poliisi tutkii Olivia Oraksen kuolemaa kauneusklinikalla",
+      "mainCategories": [
+        "Kotimaa",
+        "Suomi",
+        "Terveys"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Olivia Oraksen, 27, kuolemaan yhdistetystä klinikasta paljastuu kummia yksityiskohtia",
+          "content": "Eräällä Plastic Surgery Center -ketjun klinikoista on hurjat velat. Maksuongelmia on ollut myös Helsingin klinikalla, jolle Olivia Oras Ylen mukaan hakeutui traagiseen lopun saaneeseen kauneusoperaatioon.",
+          "date": "2026-09-09T05:22:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000012260835.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Olivia Oras kuoli – Viranomainen jyrähtää kauneus­klinikoista: Laitteet ja aineet jopa radikaalisti laittomia",
+          "content": "Asiantuntija sanoo, että kauneudenhoitoalan sääntely on villi länsi. Asiakkaan vastuulle jää ottaa selvää klinikan taustoista ja osaamisesta. Potilasvakuutuskeskuksen (PVK) tilastoista selviää, että kymmenen viime vuoden aikana ei ole tapahtunut ainuttakaan kuolemantapausta plastiikkakirurgiassa.  PVK:n viestinnästä kerrotaan, ettei PVK tilastoi erikseen esteettisistä syistä tehtyjä kauneustoimenpiteitä, vaan plastiikkakirurgian kategoriaan kuuluvat niin lääketieteellisistä syistä tehdyt toimenpiteet, kuten palovammojen hoito, kuin esteettiset toimenpiteet. ",
+          "date": "2026-09-09T03:30:51.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/a8942afb-c93e-46f9-98fa-306f88c7b5cf?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tällainen on klinikka, jossa Olivia Oras kävi – IL: Jo aiemmin ilmoitus pieleen menneestä rasvaimusta",
+          "content": "Kävimme koputtamassa klinikan ovelle.",
+          "date": "2026-09-08T16:24:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012260392.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Plastiikkakirurgi: Tämä hengen­vaarallinen riski voi liittyä puuduttamiseen",
+          "content": "Olivia Oraksen kuolema on herättänyt keskustelun kauneuskirurgian riskeistä ja heikosta säätelystä. Suomessa kuka vain lääkäri voi tehdä esimerkiksi rasvaimuja, plastiikkakirurgi Heikki Kupi huomauttaa.",
+          "date": "2026-09-08T14:29:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012259418.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Yle: Olivia Oraksen kuolemaan liittyvä toimen­pide tehtiin Helsingin Plastic Surgery Centerissä",
+          "content": "Yritys mainostaa olevansa ”Suomen suurin ja johtava plastiikkakirurginen klinikka”, ja sillä on vastaanotot 12 eri kaupungissa Suomessa.",
+          "date": "2026-09-08T14:03:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012259760.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle: Olivia Oraksen, 27, kuolemaan liittyvä toimenpide tehtiin Plastic Surgery Center -klinikalla",
+          "content": "Klinikkaa on aiemmin arvosteltu potilasturvallisuuden laiminlyönneistä, Yle kertoo.",
+          "date": "2026-09-08T13:41:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012260690.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Poliisi aloitti esitutkinnan Olivia Oraksen kuolemasta",
+          "content": "Poliisi tutkii tapausta törkeänä kuolemantuottamuksena.",
+          "date": "2026-09-08T11:37:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012260137.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Olivia Oraksen, 27, kuolemasta rikostutkinta",
+          "content": "Olivia Oras kuoli 3. syyskuuta.",
+          "date": "2026-09-08T11:34:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012260139.html"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Poliisi aloittaa tutkinnan Olivia Oraksen kuolemasta kauneusklinikalla",
+          "content": "",
+          "date": "2026-09-08T07:46:41.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "kuolemantapaukset",
+            "sosiaalinen media",
+            "kuolleet",
+            "kauneuskirurgia",
+            "koski tl",
+            "terveys",
+            "rikos ja oikeus",
+            "paikalliset",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7078581"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Olivia Oraksen, 27, kuolema järkyttää – ”Hirveä kohtalo”",
+          "content": "Yle kertoi maanantaina, että Oras menetti tajuntansa rasvaimua edeltäneessä puudutuksessa ja kuoli myöhemmin sairaalassa.",
+          "date": "2026-09-08T06:09:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012258787.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kuolleet | Yle: Some­vaikuttaja Olivia Oras menetti tajuntansa kauneus­klinikalla ja kuoli sairaalassa",
+          "content": "Ylen tietojen mukaan kuolema tapahtui helsinkiläisellä klinikalla tehdyn rasvaimun yhteydessä.",
+          "date": "2026-09-07T17:41:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012258496.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Olivia Oraksen vanhemmat tekivät tyttärensä kuolemasta rikosilmoituksen – taustalla kauneusleikkaus",
+          "content": "Ylen MOT:n lähteet vahvistavat, että kuolema tapahtui helsinkiläisellä klinikalla tehdyn rasvaimun yhteydessä. Oras menetti tajuntansa puudutuksessa ja vietiin sairaalaan, jossa hän kuoli.",
+          "date": "2026-09-07T16:19:18.000Z",
+          "categories": [
+            "terveys",
+            "kuolleet",
+            "olivia oras",
+            "sosiaalinen media",
+            "plastiikkakirurgia",
+            "mot",
+            "yle uutiset somenostot",
+            "kotimaa",
+            "uusimaa"
+          ],
+          "link": "https://yle.fi/a/74-20245040?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Britannian tekninen häiriö peruu Finnairin lentoja",
+      "mainCategories": [
+        "Ulkomaat",
+        "Lontoo",
+        "Liikenne"
+      ],
+      "imageUrl": "/images/finnair/1.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Britanniassa lentojen peruutukset jatkuvat",
+          "content": "Lennonjohtojärjestelmän vika on saanut Lontoon lentoasemat sekaisin.",
+          "date": "2026-09-09T03:22:15.000Z",
+          "categories": [
+            "matkailu",
+            "lontoo",
+            "heathrow’n lentoasema",
+            "britannia",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20245258?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Britanniassa lentokaaos – Finnairin lentoja peruttu",
+          "content": "Lennonjohdon tekninen ongelma aiheuttaa viivästyksiä ja peruutuksia lentoihin useilla Britannian lentokentillä.",
+          "date": "2026-09-09T00:41:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012261101.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Finnair on perunut useita lentoja Britannian lentokenttien teknisten ongelmien vuoksi",
+          "content": "Finnair kertoo viestivänsä asiakkaille suoraan tekemistään muutoksista. Perumisia ja uudelleenreitityksiä voi Finnairin viestinnän mukaan tulla lisää.",
+          "date": "2026-09-08T17:31:36.000Z",
+          "categories": [
+            "liikenne",
+            "lentokoneet",
+            "lontoo",
+            "helsinki-vantaan lentoasema",
+            "matkustaminen",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20245245?origin=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Nämä kaikki Finnairin lennot on peruttu",
+          "content": "Lentojen peruutukset ja viivästykset johtuvat lentojenkäsittelyjärjestelmän ongelmista. Britannian lentokenttien tekniset ongelmat vaikuttavat Finnairin Lontoon-lentoihin tiistaina ja keskiviikkona. Asia vahvistetaan Iltalehdelle Finnairin viestinnästä. Lento AY1335 Helsingistä Lontooseen joutui laskeutumaan tiistaina Lontoon Stanstedin lentokentälle Heathrown lentokentän sijaan.",
+          "date": "2026-09-08T15:55:35.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/5369fd9b-90ae-4214-a433-6120a0f6d4fd?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Asiakirjat paljastavat New Yorkin peitelleen WTC-ilman vaaroja",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Terrorismi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Järkyttävä paljastus WTC-iskujen jälkeisestä ajasta – Kaupunki peitteli totuutta",
+          "content": "Asiakirjat sisältävät muun muassa virkamiesten sisäisiä muistioita ilmanlaadusta. New Yorkin kaupunki on julkaissut yli 170 000 sivua aiemmin salassa pidettyjä asiakirjoja syyskuun 11. päivän 2001 terrori-iskujen jälkeisestä ilmanlaadusta. Asiakirjojen perusteella kaupungin viranomaiset tiesivät, ettei alueen ilmaa ollut turvallista hengittää, vaikka ihmisille vakuutettiin toistuvasti muuta. Asiasta kertoo CNN.",
+          "date": "2026-09-09T01:33:13.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/4f6769da-cd17-4bb7-bfd5-d14977bf35f5?utm_source=rss"
+        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -47,108 +547,86 @@
       ]
     },
     {
-      "mainTitle": "Britannian lentokenttien tekniset ongelmat peruvat Finnairin lentoja",
+      "mainTitle": "Trump kiristää kauppakiistaa Kanadan kanssa tuontikielloilla ja tulleilla",
       "mainCategories": [
-        "Ulkomaat",
-        "Liikenne",
-        "Lentokoneet"
+        "Maailma",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/finnair/1.jpg",
+      "imageUrl": "/images/kanada/2.jpg",
       "relatedNews": [
         {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Britanniassa lentokaaos – Finnairin lentoja peruttu",
-          "content": "Lennonjohdon tekninen ongelma aiheuttaa viivästyksiä ja peruutuksia lentoihin useilla Britannian lentokentillä.",
-          "date": "2026-09-08T18:15:00.000Z",
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Kauppasota | Trump kiristää kauppasotaa: Maitotuotteiden ja alkoholin tuontia Kanadasta kielletään",
+          "content": "Uusien kiristysten on tarkoitus tulla voimaan 29. syyskuuta.",
+          "date": "2026-09-09T01:25:00.000Z",
           "categories": [
-            "ulkomaat"
+            "maailma"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012261101.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Finnair on perunut useita lentoja Britannian lentokenttien teknisten ongelmien vuoksi",
-          "content": "Finnair kertoo viestivänsä asiakkaille suoraan tekemistään muutoksista. Perumisia ja uudelleenreitityksiä voi Finnairin viestinnän mukaan tulla lisää.",
-          "date": "2026-09-08T17:31:36.000Z",
-          "categories": [
-            "liikenne",
-            "lentokoneet",
-            "lontoo",
-            "helsinki-vantaan lentoasema",
-            "matkustaminen",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20245245?origin=rss"
+          "link": "https://www.hs.fi/maailma/art-2000012261255.html"
         },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Nämä kaikki Finnairin lennot on peruttu",
-          "content": "Lentojen peruutukset ja viivästykset johtuvat lentojenkäsittelyjärjestelmän ongelmista. Britannian lentokenttien tekniset ongelmat vaikuttavat Finnairin Lontoon-lentoihin tänään ja huomenna. Asia vahvistetaan Iltalehdelle Finnairin viestinnästä. Lento AY1335 Helsingistä Lontooseen joutui laskeutumaan tiistaina Lontoon Stanstedin lentokentälle Heathrown lentokentän sijaan.",
-          "date": "2026-09-08T15:55:35.000Z",
+          "title": "Trumpilta uusi isku Kanadalle",
+          "content": "USA kieltää joidenkin kanadalaistuotteiden maahantuonnin. Yhdysvaltain presidentti Donald Trump kiristää kauppakiistaa Kanadan kanssa kieltämällä joidenkin kanadalaistuotteiden maahantuonnin ja korottamalla muiden tuotteiden tulleja, kertovat muun muassa Reuters ja AFP.  Valkoinen talo ilmoitti uusista toimista varhain keskiviikkona. Presidentin asetuksen mukaan useille kanadalaisille tuotteille, kuten patjoille, moottoriveneille ja golfkärryille, asetetaan 50 prosentin lisätulli 15. syyskuuta alkaen.",
+          "date": "2026-09-09T00:00:33.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/5369fd9b-90ae-4214-a433-6120a0f6d4fd?utm_source=rss"
+          "link": "https://www.iltalehti.fi/ulkomaat/a/26d81858-97f0-4c1b-ac11-2beb2985678b?utm_source=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ylöjärveltä varastettua lopetusainetta käytettiin päihteenä Tampereella",
+      "mainTitle": "Smithsonian-instituutin johtaja jättää tehtävänsä Trumpin kritiikin jälkeen",
       "mainCategories": [
-        "Kotimaa",
-        "Päihteet",
-        "Päihderiippuvuus"
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Maailma"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/trump/2.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Yle: Eläinlääkäristä anastettu aine päätynyt päihde­käyttöön Tampereella",
-          "content": "Tampereen päihdepalveluissa on jo törmätty henkilöön, joka on käyttänyt eläinlääkäristä varastettua ainetta päihtymis­tarkoituksessa.",
-          "date": "2026-09-08T16:52:00.000Z",
+          "title": "Trumpin tähtäimeen joutuneen Smithsonian-instituutin johtaja jättää tehtävänsä",
+          "content": "Trumpin hallinto on toistuvasti arvostellut tapaa, jolla instituutti esittelee Yhdysvaltain historiaa.",
+          "date": "2026-09-09T00:14:00.000Z",
           "categories": [
-            "tampereen seutu"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000012260947.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000012261251.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Trumpin hallinnon arvosteleman Smithsonian-instituutin johtaja jättää tehtävänsä",
+          "content": "Trumpin hallinto on toistuvasti arvostellut tapaa, jolla instituutti esittelee Yhdysvaltain historiaa.",
+          "date": "2026-09-09T00:09:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012261178.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Ylöjärvellä varastettu vaarallinen eläinten lopetusaine on jo päätynyt päihdekäyttöön Tampereella",
-          "content": "Tampereen päihdepalveluissa kohdattiin henkilö, joka oli käyttänyt Ylöjärveltä varastettua Euthasol-valmistetta. Vain gramman annos voi tappaa ihmisen.",
-          "date": "2026-09-08T12:28:42.000Z",
+          "title": "Trumpin hallinnon piinaama Smithsonian-instituutin johtaja jättää tehtävänsä",
+          "content": "Trumpin hallinto ilmoitti jo vuosi sitten aloittavansa museoiden syynäämisen saadakseen maan historian vastaamaan presidentin näkemyksiä.",
+          "date": "2026-09-08T17:30:30.000Z",
           "categories": [
-            "päihteet",
-            "päihderiippuvuus",
-            "tampere",
-            "ylöjärvi",
-            "rikokset",
-            "lääkkeet ja päihteet",
-            "kotimaa",
-            "pirkanmaa"
+            "yhdysvallat",
+            "smithsonian-instituutti",
+            "presidentti trumpin hallinto",
+            "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20245136?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Hengen­vaarallista ainetta varastettiin – Yle: Tähän käyttöön aine päätyi",
-          "content": "Ylöjärveläiseltä eläinlääkäriasemalta varastettiin viikonloppuna eläinten lopettamiseen käytettävää Euthasol-valmistetta. Poliisi varoitti maanantaina Ylöjärvellä varastetusta hengenvaarallisesta aineesta. Asiasta tiedotti Sisä-Suomen poliisilaitos. Ylöjärven Kurussa sijaitsevasta eläinlääkäriasema Haukivetistä anastettiin murron yhteydessä eläinten lopettamiseen käytettävää Euthasol-valmistetta viikonloppuna.",
-          "date": "2026-09-07T12:31:18.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/3ac9e9bd-d736-4c4c-aa71-b3e368d8bdf0?utm_source=rss"
+          "link": "https://yle.fi/a/74-20245246?origin=rss"
         }
       ]
     },
@@ -251,11 +729,11 @@
       ]
     },
     {
-      "mainTitle": "Avoimuusrekisteri kertoo useista Garden-tapaamisista, Orpo kiistää hankkeesta keskustelemisen",
+      "mainTitle": "Garden Helsinki -tapaamisista kiista, Orpo kiistää väärät tiedot",
       "mainCategories": [
         "Politiikka",
-        "Kotimaa",
-        "Uutiset"
+        "Pääministeri",
+        "Hankkeet"
       ],
       "imageUrl": "/images/helsinki/1.jpg",
       "relatedNews": [
@@ -301,16 +779,6 @@
           "link": "https://www.ts.fi/a/7078987"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Pääministeri Orpo kieltää valehdelleensa Garden Helsingistä: \"Olen kertonut kaiken\"",
-          "content": "Orpo ei suostunut kertomaan medialle tiistaina eduskunnassa, minkälaisissa yhteyksissä hän on tarkalleen tavannut hankkeen puuhamiestä Jan Vapaavuorta. Vapaavuoren mukaan avoimuusrekisteriin ilmoitettiin rajatapauksetkin.",
-          "date": "2026-09-08T12:52:12.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/paaministeri-orpo-kieltaa-valehdelleensa-garden-he/13658907?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -349,22 +817,6 @@
           "link": "https://www.is.fi/politiikka/art-2000012258612.html"
         },
         {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "USU: Garden Helsingin taustayhtiö ilmoitti tavanneensa Orpoa useasti",
-          "content": "",
-          "date": "2026-09-07T17:34:41.000Z",
-          "categories": [
-            "politiikka",
-            "talous",
-            "petteri orpo",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7078237"
-        },
-        {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
@@ -389,16 +841,6 @@
           "link": "https://www.hs.fi/politiikka/art-2000012258403.html"
         },
         {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "USU: Garden Helsingin taustayhtiö ilmoitti tavanneensa Orpoa useasti, Orpon mukaan kyse Vapaavuoren \"maininnoista\"",
-          "content": "Garden Helsinki -hallihankkeen taustalla oleva yhtiö on ilmoittanut avoimuusrekisteriin useammasta tapaamisesta pääministeri Petteri Orpon kanssa. Asiasta uutisoi aiemmin Uutissuomalainen.",
-          "date": "2026-09-07T17:19:39.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/usu-garden-helsingin-taustayhtio-ilmoitti-tavannee/13657683?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -409,245 +851,6 @@
             "politiikka"
           ],
           "link": "https://yle.fi/a/74-20245027?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Poliisi tutkii Olivia Oraksen kuolemaa klinikkatoimenpiteen jälkeen",
-      "mainCategories": [
-        "Kotimaa",
-        "Suomi",
-        "Rikosepäilyt"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Saimme käsiimme viranomais­ilmoitukset kohuklinikasta, jolla Olivia Oras kävi: Tämä niistä selviää",
-          "content": "Yksityisellä klinikalla plastiikkakirurgin työtä on tehnyt yleislääkäri. Yrityksellä on ollut myös huomattavia velkoja. Klinikasta, jossa Olivia Oras, 27, kävi ennen kuolemaansa, on otettu yhteyttä Kilpailu- ja kuluttajavirastoon (KKV).  Yle kertoo, että Oras kävi yksityisellä plastiikkakirurgiklinikka Plastic Surgery Centerillä. Helsingin poliisi tutkii Oraksen kuolemaa. Tapausta tutkitaan rikosnimikkeellä törkeä kuolemantuottamus. ",
-          "date": "2026-09-08T14:44:52.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/8c42b61c-ea2f-4cda-844a-84005ccc75ea?utm_source=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rikosepäilyt | Yle: Olivia Oraksen kuolemaan liittyvä toimen­pide tehtiin Helsingin Plastic Surgery Centerissä",
-          "content": "Yritys mainostaa olevansa ”Suomen suurin ja johtava plastiikkakirurginen klinikka”, ja sillä on vastaanotot 12 eri kaupungissa Suomessa.",
-          "date": "2026-09-08T14:03:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012259760.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yle: Olivia Oraksen, 27, kuolemaan liittyvä toimenpide tehtiin Plastic Surgery Center -klinikalla",
-          "content": "Klinikkaa on aiemmin arvosteltu potilasturvallisuuden laiminlyönneistä, Yle kertoo.",
-          "date": "2026-09-08T13:41:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012260690.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "MOT:n tiedot: Tällainen on Plastic Surgery Center, jonka kauneusleikkauksen yhteydessä Olivia Oras kuoli",
-          "content": "Plastic Surgery Center -klinikan johtaja on herättänyt jo vuosia kovaa keskustelua plastiikkakirurgien keskuudessa.",
-          "date": "2026-09-08T13:08:56.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "plastiikkakirurgia",
-            "mot",
-            "kauneusleikkaukset",
-            "yle uutiset somenostot",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20245188?origin=rss"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rikosepäilyt | Poliisi aloitti esitutkinnan Olivia Oraksen kuolemasta",
-          "content": "Poliisi tutkii tapausta törkeänä kuolemantuottamuksena.",
-          "date": "2026-09-08T11:37:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012260137.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Olivia Oraksen, 27, kuolemasta rikostutkinta",
-          "content": "Olivia Oras kuoli 3. syyskuuta.",
-          "date": "2026-09-08T11:34:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012260139.html"
-        },
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Poliisi aloittaa tutkinnan Olivia Oraksen kuolemasta kauneusklinikalla",
-          "content": "",
-          "date": "2026-09-08T07:46:41.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "kuolemantapaukset",
-            "sosiaalinen media",
-            "kuolleet",
-            "kauneuskirurgia",
-            "koski tl",
-            "terveys",
-            "rikos ja oikeus",
-            "paikalliset",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7078581"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Olivia Oraksen, 27, kuolema järkyttää – ”Hirveä kohtalo”",
-          "content": "Yle kertoi maanantaina, että Oras menetti tajuntansa rasvaimua edeltäneessä puudutuksessa ja kuoli myöhemmin sairaalassa.",
-          "date": "2026-09-08T06:09:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012258787.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Kuolleet | Yle: Some­vaikuttaja Olivia Oras menetti tajuntansa kauneus­klinikalla ja kuoli sairaalassa",
-          "content": "Ylen tietojen mukaan kuolema tapahtui helsinkiläisellä klinikalla tehdyn rasvaimun yhteydessä.",
-          "date": "2026-09-07T17:41:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012258496.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Olivia Oraksen vanhemmat tekivät tyttärensä kuolemasta rikosilmoituksen – taustalla kauneusleikkaus",
-          "content": "Ylen MOT:n lähteet vahvistavat, että kuolema tapahtui helsinkiläisellä klinikalla tehdyn rasvaimun yhteydessä. Oras menetti tajuntansa puudutuksessa ja vietiin sairaalaan, jossa hän kuoli.",
-          "date": "2026-09-07T16:19:18.000Z",
-          "categories": [
-            "terveys",
-            "kuolleet",
-            "olivia oras",
-            "sosiaalinen media",
-            "plastiikkakirurgia",
-            "mot",
-            "yle uutiset somenostot",
-            "kotimaa",
-            "uusimaa"
-          ],
-          "link": "https://yle.fi/a/74-20245040?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Indonesian viimeisetkin lentokentät avattiin tulivuorenpurkauksen jälkeen",
-      "mainCategories": [
-        "Liikenne",
-        "Tulivuorenpurkaukset",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Indonesiassa avattiin viimeisetkin lentokentät tulivuorenpurkauksen jälkeen",
-          "content": "",
-          "date": "2026-09-08T14:05:22.000Z",
-          "categories": [
-            "liikenne",
-            "tulivuorenpurkaukset",
-            "ulkomaat",
-            "indonesia",
-            "lentokentät",
-            "jakarta",
-            "lentoliikenne",
-            "tulivuoret"
-          ],
-          "link": "https://yle.fi/a/74-20245231?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Indonesiassa lentokenttiä avattiin jälleen tulivuorenpurkauksen jälkeen",
-          "content": "Jaavan ja Sumatran välissä purkautuva tulivuori on syössyt tuhkapilviä kilometrien korkeuteen.",
-          "date": "2026-09-07T04:46:43.000Z",
-          "categories": [
-            "liikenne",
-            "tulivuorenpurkaukset",
-            "lentoliikenne",
-            "indonesia",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20244871?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Miljoonien arvoisia Renoirin maalauksia varastettiin Ranskassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Rikokset",
-        "Ranska"
-      ],
-      "imageUrl": "/images/ranska/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Museovarkaus Ranskassa – miljoonien arvoiset taulut vietiin",
-          "content": "Renoirin maalauksista on maksettu huutokaupoissa kymmeniä miljoonia.",
-          "date": "2026-09-08T11:41:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012259426.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Vorot veivät miljoonien arvoiset maalaukset Renoir-museosta",
-          "content": "Tunnetulle impressionistille omistettu museo sijaitsee Kaakkois-Ranskassa.",
-          "date": "2026-09-08T07:07:58.000Z",
-          "categories": [
-            "rikokset",
-            "ranska",
-            "museot",
-            "kuvataide",
-            "pierre-auguste renoir",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20245089?origin=rss"
         }
       ]
     },
@@ -686,46 +889,7 @@
       ]
     },
     {
-      "mainTitle": "Islanti kutsui Yhdysvaltain-suurlähettilään puhutteluun Trumpin kartasta",
-      "mainCategories": [
-        "Yhdysvallat",
-        "Islanti",
-        "Ulkomaat"
-      ],
-      "imageUrl": "/images/trump/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Islanti | Islanti kutsui Yhdysvaltain suur­lähettilään puhutteluun, syynä Trumpin julkaisema kartta",
-          "content": "Islannin ulkoministeriö kuvaili Trumpin julkaisua sopimattomaksi.",
-          "date": "2026-09-08T08:18:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012259245.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trumpin karttakuva suututti Islannin – ulkoministeri kutsui USA:n suurlähettilään puhutteluun",
-          "content": "Islannin ulkoministeriön mukaan Trumpin julkaisu on ”täysin sopimaton”.",
-          "date": "2026-09-08T07:49:36.000Z",
-          "categories": [
-            "yhdysvallat",
-            "islanti",
-            "donald trump",
-            "kansainvälinen politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20245099?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Pisa: Suomalaisten nuorten lukutaito heikkeni, sinnikkyys vähäistä",
+      "mainTitle": "Pisa: Suomalaisten nuorten lukutaito heikkeni, sinnikkyys jäi heikoksi",
       "mainCategories": [
         "Suomi",
         "Politiikka"
@@ -759,7 +923,7 @@
       ]
     },
     {
-      "mainTitle": "Helsinkiläisen lääkäriklinikan toiminta keskeytettiin vakavien puutteiden vuoksi",
+      "mainTitle": "Helsinkiläisklinikan toiminta keskeytettiin vakavien puutteiden vuoksi",
       "mainCategories": [
         "Kotimaa",
         "Terveys",
@@ -799,10 +963,9 @@
       ]
     },
     {
-      "mainTitle": "Krakataun purkaukset sekoittivät lentoliikenteen Indonesiassa",
+      "mainTitle": "Krakatau purkautui uudelleen, lentoliikennettä rajoitettiin Indonesiassa",
       "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
+        "Maailma"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -829,23 +992,11 @@
             "maailma"
           ],
           "link": "https://www.hs.fi/maailma/art-2000012256260.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lentokaaos Indonesiassa – 270 000 matkustajaa jumissa",
-          "content": "Anak Krakatau -tulivuoren purkaus on pitänyt lentokoneet maassa.",
-          "date": "2026-09-07T07:00:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012256297.html"
         }
       ]
     },
     {
-      "mainTitle": "Lohjan teollisuuskiinteistön palon sammutus päättyi, syytä tutkitaan",
+      "mainTitle": "Lohjan teollisuuskiinteistön palon syttymissyytä tutkitaan",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -879,7 +1030,7 @@
       ]
     },
     {
-      "mainTitle": "Helle kutisti Ranskan viinisadon, Champagne kärsii eniten",
+      "mainTitle": "Helle painaa Ranskan viinisadon 30 vuoden pohjalukemiin",
       "mainCategories": [
         "Ranska",
         "Viinit",
@@ -918,7 +1069,7 @@
       ]
     },
     {
-      "mainTitle": "Ruotsi hankkii Himarsit, Suomi osallistuu huoltoon",
+      "mainTitle": "Ruotsi hankkii Himarsit, Suomi osallistuu huoltoyhteistyöhön",
       "mainCategories": [
         "Politiikka",
         "Turvallisuus",
@@ -963,109 +1114,7 @@
       ]
     },
     {
-      "mainTitle": "Sysmästä löytyi 4,5 kiloa viikinkiaikaisia hopearahoja",
-      "mainCategories": [
-        "Suomi",
-        "Arkeologia",
-        "Historia"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Sysmästä löytyi yli neljä kiloa viikinkiaikaisia hopearahoja",
-          "content": "",
-          "date": "2026-09-07T10:52:01.000Z",
-          "categories": [
-            "arkeologia",
-            "historia",
-            "kotimaa",
-            "uutiset"
-          ],
-          "link": "https://www.ts.fi/a/7077887"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Arkeologia | Harrastaja löysi Sysmästä tuhansia viikinki­aikaisia hopea­rahoja",
-          "content": "Löydettyjen rahojen kokonaispaino on noin 4,5 kiloa.",
-          "date": "2026-09-07T07:29:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012256614.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "AfD sai historiallisen murskavoiton Saksi-Anhaltissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Vaalit",
-        "Saksa"
-      ],
-      "imageUrl": "/images/saksa/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kolme syytä äärioikeiston historiallisen vaalivoiton taustalla – kolme kovaa seurausta Saksalle",
-          "content": "AfD on onnistunut myymään itsensä ainoana vaihtoehtona muille puolueille, mutta edessä on äärimmäisen vaikeat hallitustunnustelut.",
-          "date": "2026-09-07T10:45:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012256355.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Äärioikeistolle murskavoitto Saksassa – hallituksen muodostamisesta tulossa vaikeaa",
-          "content": "AfD voitti osavaltiovaalit Saksi-Anhaltissa.",
-          "date": "2026-09-07T03:58:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012255773.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Saksa | Kaikki äänet laskettu: AfD sai ennätys­voiton vaaleissa Saksi-Anhaltissa",
-          "content": "Äärioikeistolaiseksi määritelty Saksi-Anhaltin Vaihtoehto Saksalle sai 43,8 prosenttia äänistä. Kristillisdemokraatit kärsi murskatappion, ja arvelut liittokansleri Merzin eropaineista alkoivat heti.",
-          "date": "2026-09-07T03:33:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012255480.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Äärioikeiston AfD ei vain voittanut vaan murskasi keskustaoikeiston CDU:n Saksi-Anhaltin vaaleissa",
-          "content": "Sunnuntain vaalit muuttavat Saksan poliittista asetelmaa, Eurooppa-kirjeenvaihtaja Anna Karismo kirjoittaa.",
-          "date": "2026-09-06T20:08:54.000Z",
-          "categories": [
-            "vaalit",
-            "saksa",
-            "saksan politiikka",
-            "laitaoikeisto",
-            "ulkomaat",
-            "politiikka"
-          ],
-          "link": "https://yle.fi/a/74-20244855?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Kaksi ihmistä kuoli poliisin tiloissa Oulussa",
+      "mainTitle": "Kaksi ihmistä kuoli Oulun poliisin tiloissa",
       "mainCategories": [
         "Suomi"
       ],
@@ -1094,40 +1143,6 @@
             "oulun seutu"
           ],
           "link": "https://www.is.fi/oulun-seutu/art-2000012256765.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvallat tavoittelee kolmenvälisiä neuvotteluja ilman läpimurtoa Kiovassa",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Kiovassa ei läpimurtoa – näin Trumpin lähettiläiden neuvotteluja kommentoitiin",
-          "content": "Yhdysvaltain erityislähettiläät matkustivat viikonloppuna Moskovaan ja Kiovaan.",
-          "date": "2026-09-07T04:21:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012256149.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Tämä tiedetään | Kiovassa ei läpi­murtoa, Yhdys­vallat tavoittelee kolmen­välisiä neuvotteluja Venäjän kanssa",
-          "content": "Yhdysvaltain erityislähettiläät matkustivat viikonloppuna Moskovaan ja Kiovaan.",
-          "date": "2026-09-07T04:07:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012256140.html"
         }
       ]
     }
