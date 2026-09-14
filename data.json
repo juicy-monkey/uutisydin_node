@@ -1,18 +1,220 @@
 {
-  "timestamp": "2026-09-14T14:50:37.107Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-09-14T19:45:57.324Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "yle",
+        "publisher": "Yle",
+        "publisherUrl": "yle.fi",
+        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
+      },
+      "reason": {
+        "errno": -104,
+        "code": "ECONNRESET",
+        "syscall": "read"
+      }
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Suomi liittyy Ranskan ydinpelotealoitteeseen, Naton ydinpelote säilyy",
+      "mainTitle": "Trump arvostelee Googlen miljardin datakeskusinvestointia Suomeen",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Google"
+      ],
+      "imageUrl": "/images/trump/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump tuohtui Suomen datakeskus­diilistä – ”En ole tyytyväinen”",
+          "content": "Trump sanoi toivovansa, että Google muuttaa ajatteluaan.",
+          "date": "2026-09-14T19:39:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012274008.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Datakeskukset | Trump sanoo, ettei pidä Googlen miljardi-investoinnista Suomeen",
+          "content": "Trump väittää Googlen haluavan rakentaa datakeskuksia Suomeen, koska keskuksille on liian vaikea saada lupia Yhdysvalloista.",
+          "date": "2026-09-14T18:44:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012274097.html"
+        },
+        {
+          "publisherId": "kauppalehti",
+          "publisher": "Kauppalehti",
+          "publisherUrl": "kauppalehti.fi",
+          "title": "Trump kommentoi isoa Suomi-uutista: ”En ole tyytyväinen”",
+          "content": "Trump toivoo, että Google muuttaa ajatteluaan.",
+          "date": "2026-09-14T18:27:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.kauppalehti.fi/uutiset/a/b60088c0-320e-4326-8d6b-3e4141f4553f?utm_source=rss"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trump kommentoi isoa Suomi-uutista: ”En ole tyytyväinen”",
+          "content": "Trump toivoo, että Google muuttaa ajatteluaan. Yhdysvaltain presidentti Donald Trump kertoo olevansa tyytymätön Googlen päätökseen investoida Suomeen.  Trump kertoi asiasta viestipalvelu Truth Socialissa. ",
+          "date": "2026-09-14T18:11:04.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/c3df5e41-d7e1-4c4e-947a-81e789a2f0ec?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Trump kimmastui Googlen investoinnista Suomeen",
+          "content": "",
+          "date": "2026-09-14T17:58:38.000Z",
+          "categories": [
+            "yhdysvallat",
+            "donald trump",
+            "google",
+            "suomi",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20246270?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Aleksanteri Kivimäestä annettiin eurooppalainen pidätysmääräys",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikokset",
+        "Oikeudenkäynnit"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Yle: Aleksanteri Kivimäki on etsintä­kuulutettu Euroopan laajuisesti",
+          "content": "Aleksanteri Kivimäki on ollut pitkään kateissa. Vastaamon tietomurrosta tuomitun Aleksanteri Kivimäen, 29, etsintäkuulutus on laajentunut Euroopan laajuiseksi. Asiasta kertoo Yle. Itä-Uudenmaan poliisilaitokselta vahvistetaan Ylelle, että Kivimäestä on annettu myös eurooppalainen pidätysmääräys.",
+          "date": "2026-09-14T17:47:19.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/0220e5be-44a1-4339-b966-ed2328435972?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Yle: Julius Kivimäki on etsintä­kuulutettu Euroopan laajuisesti",
+          "content": "Kivimäestä on annettu eurooppalainen pidätysmääräys.",
+          "date": "2026-09-14T17:27:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012274007.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Vankilaa pakoileva Aleksanteri Kivimäki on nyt etsintäkuulutettu ympäri Eurooppaa",
+          "content": "Itä-Uudenmaan poliisin mukaan Vastaamon tietomurrosta ja kiristyksistä tuomitun miehen etsintäkuulutus on laajentunut ulkomaille.",
+          "date": "2026-09-14T12:24:09.000Z",
+          "categories": [
+            "rikokset",
+            "vastaamon tietomurto",
+            "psykoterapiakeskus vastaamo",
+            "oikeudenkäynnit",
+            "aleksanteri kivimäki",
+            "poliisi",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20246154?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Tekoälyhuolet painoivat Helsingin pörssiä laskuun",
+      "mainCategories": [
+        "Talous",
+        "Pörssit",
+        "Osakkeet"
+      ],
+      "imageUrl": "/images/talous/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Pelko levisi pörssissä",
+          "content": "Talousaamussa keskusteltiin maanantaina tuoreista tekoälyhuolista ja niiden vaikutuksista osakemarkkinoilla. Tekoälyhuolet leviävät nyt teknologia-alalla ja osakemarkkinoilla. Johtavien tekoäly-yhtiöiden johtajat nostivat viikonloppuna esiin tekoälyn kehitykseen liittyviä turvallisuushuolia. Open AI -yhtiö jopa kertoi lykkäävänsä listautumistaan epäselvän tilanteen takia.",
+          "date": "2026-09-14T17:28:20.000Z",
+          "categories": [
+            "talous"
+          ],
+          "link": "https://www.iltalehti.fi/talous/a/41c862c7-c18d-4b0c-9075-203071add63e?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tekoälyhuoli painoi Helsingin pörssin laskuun maanantaina",
+          "content": "Johtavat tekoäly-yhtiöt esittivät viikonloppuna tekoälyn kehityksen hidastamista.",
+          "date": "2026-09-14T15:49:31.000Z",
+          "categories": [
+            "talous",
+            "helsingin pörssi",
+            "pörssit",
+            "osakkeet",
+            "osakkeet ja arvopaperit",
+            "yleisindeksi",
+            "omx helsinki -indeksi"
+          ],
+          "link": "https://yle.fi/a/74-20246257?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Suomi liittyy Ranskan ydinpelotteeseen, ydinaseita ei sijoiteta",
       "mainCategories": [
         "Politiikka",
-        "Ranska",
-        "Ydinaseet"
+        "Ydinaseet",
+        "Maanpuolustus"
       ],
       "imageUrl": "/images/ranska/3.jpg",
       "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Analyysi: Suomi kiinnostui Ranskan ydinaseista – kriisiaikana niitä saatettaisiin periaatteessa tuoda Suomeenkin",
+          "content": "Suomi pohti perusteellisesti, miten Yhdysvallat suhtautuu Ranskan ydinpelotteeseen, kirjoittaa Ylen Nato-erikoistoimittaja Maria Stenroos.",
+          "date": "2026-09-14T17:05:21.000Z",
+          "categories": [
+            "turvallisuus",
+            "nato",
+            "euroopan unioni",
+            "kansainvälinen politiikka",
+            "politiikka",
+            "ydinaseet",
+            "ukraina",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20246169?origin=rss"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -24,6 +226,26 @@
             "politiikka"
           ],
           "link": "https://www.is.fi/politiikka/art-2000012272571.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tutkija: Suomen liittyminen Ranskan ydinasepelotteeseen tuo päänvaivaa mahdollisille vihollisille",
+          "content": "Pohjoismaiden kannattaisi tehdä yhteistyötä myös ydinasepolitiikassa, suosittelee Ulkopoliittisen instituutin tutkija Matti Pesu.",
+          "date": "2026-09-14T12:06:25.000Z",
+          "categories": [
+            "maanpuolustus",
+            "ydinaseet",
+            "ranska",
+            "nato",
+            "puolustuspolitiikka",
+            "antti häkkänen",
+            "matti pesu",
+            "ulkomaat",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20246204?origin=rss"
         },
         {
           "publisherId": "is",
@@ -71,8 +293,8 @@
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Suomi liittyy Ranskan ydinasepelotteeseen – Valtonen: ”Venäjä on valmis eskaloimaan yhä laajemmin eurooppalaisella maaperällä”",
-          "content": "Ranskan ja Suomen ulkoministerit allekirjoittivat maanantaina  sopimuksen Suomen ja Ranskan strategisesta kumppanuudesta sotilaallisessa puolustuksessa.",
+          "title": "Suomi liittyy Ranskan ydinasepelotteeseen – Presidentti Stubb: ”Suomeen ei tule ydinaseita”",
+          "content": "Tänään kerrottiin kahdesta Ranskan ja Suomen välisestä sopimuksesta. Suomi liittyi Ranskan ydinasepelotteeseen ja teki kumppanuussopimuksen.",
           "date": "2026-09-14T10:18:39.000Z",
           "categories": [
             "kansainvälinen politiikka",
@@ -130,7 +352,115 @@
       ]
     },
     {
-      "mainTitle": "Pörssisähkö kallistuu maanantaina syksyn huippuhintaan",
+      "mainTitle": "Zelenskyi epäilee Venäjän sitoutuvan energiaiskujen lopettamiseen",
+      "mainCategories": [
+        "Maailma",
+        "Ulkomaat"
+      ],
+      "imageUrl": "/images/ukraina/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Trump väitti Ukrainan ja Venäjän lopettavan energiaiskut – nyt kommentoi Zelenskyi",
+          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia.",
+          "date": "2026-09-14T16:52:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012208431.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Ukrainan sota | Trump väittää: Ukraina ja Venäjä lupasivat, etteivät iske toistensa energia­kohteisiin",
+          "content": "Ukraina ei usko Venäjän olevan valmis noudattamaan mahdollista sopimusta, Volodymyr Zelenskyi sanoo.",
+          "date": "2026-09-14T16:27:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012273941.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mäntyharjulla etsitään traktoria säikähtänyttä karannutta emua",
+      "mainCategories": [
+        "Suomi",
+        "Kotimaa"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Poikkeuk­sellinen otus karkuteillä Mäntyharjulla",
+          "content": "Emu lähti omille teilleen lauantaina. Mäntyharjulaiselta Kuvalan tilalta lähti lauantaina karkuteille 32-vuotias Herra Hoo -niminen emu. Emu loikkasi aidan yli, kun se säikähti ohi ajavaa traktoria, kertoo tilaa pitävä Heidi Haajanen.",
+          "date": "2026-09-14T16:24:36.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/1b46eff3-bcc5-44bb-93a3-52547114e123?utm_source=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Eläimet | Mäntyharjulla etsitään karannutta emua: Herra Hoo loikkasi yli kaksi­metrisen aidan yli",
+          "content": "32-vuotias emu säikähti traktoria ja karkasi aitauksestaan lauantaina.",
+          "date": "2026-09-13T11:49:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012270891.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Saudi-Arabian öljyputken sulku nosti öljyn ja polttoaineiden hintoja",
+      "mainCategories": [
+        "Energia",
+        "Öljy",
+        "Öljyputket"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Polttoaineiden hinnoista karu povaus – diesel ylitti jo 2,6 euroa",
+          "content": "Polttoaineiden hinta huitelee jo hurjissa lukemissa, eikä helpotusta ole näkyvissä Lähi-idässä – päinvastoin. Saudi-Arabian tehty putki-isku on ”uusi ja vakava uhka öljymarkkinoille”, sanoo asiantuntija.",
+          "date": "2026-09-14T15:15:00.000Z",
+          "categories": [
+            "taloussanomat"
+          ],
+          "link": "https://www.is.fi/taloussanomat/art-2000012271991.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Öljyn hinta lähti nousuun – markkinoilla huolta öljytoimitusten häiriöistä",
+          "content": "Saudi-Arabia ilmoitti perjantaina sulkeneensa väliaikaisesti maan halki itä-länsi-suunnassa kulkevan öljyputken.",
+          "date": "2026-09-14T04:30:32.000Z",
+          "categories": [
+            "energia",
+            "öljy",
+            "öljyn hinta",
+            "öljyputket",
+            "fossiiliset polttoaineet",
+            "talous"
+          ],
+          "link": "https://yle.fi/a/74-20246091?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Pörssisähkö kallistuu syksyn huippuhintaan maanantaina",
       "mainCategories": [
         "Energia",
         "Sähkö",
@@ -179,7 +509,7 @@
       ]
     },
     {
-      "mainTitle": "AirBaltic hakeutuu yrityssaneeraukseen, lennot jatkuvat ennallaan",
+      "mainTitle": "AirBaltic hakeutuu yrityssaneeraukseen, lennot jatkuvat normaalisti",
       "mainCategories": [
         "Yrityssaneeraus",
         "Ilmailu",
@@ -233,87 +563,46 @@
       ]
     },
     {
-      "mainTitle": "Rovaniemen huippukokouksessa korostui Venäjän kasvava uhka",
+      "mainTitle": "Poliisi epäilee sähköpotkulaudan latauksen sytyttäneen Pukinmäen tulipalon",
       "mainCategories": [
-        "Politiikka",
-        "Ulkomaat",
-        "Rovaniemi"
+        "Kotimaa",
+        "Onnettomuudet",
+        "Tulipalot"
       ],
-      "imageUrl": "/images/venäjä/5.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Euroopan johtajat kokoontuivat Rovaniemellä – ”Venäjä pelaa erittäin vaarallista peliä”",
-          "content": "Euroopan johtajat ovat Rovaniemellä koolla arktisessa huippukokouksessa. Pääministeri Petteri Orpo isännöi Euroopan unionin johtajien arktista huippukokousta Rovaniemellä 13.–14. syyskuuta. Kokouksessa keskusteltiin arktisen alueen kasvavasta geopoliittisesta merkityksestä sekä Euroopan turvallisuudesta ja kestävästä kehityksestä.  Tiedotustilaisuudessa maanantaina Orpo sanoi, että arktisen alueen turvallisuus on muuttunut perustavanlaatuisesti. Orpon mukaan Venäjä yrittää hybridioperaatioillaan saada Ukrainan tukijoita hajaantumaan ja vähentämään tukeaan Ukrainalle.",
-          "date": "2026-09-14T11:33:11.000Z",
+          "title": "Epäily: Tämä sytytti Helsingin suuren tulipalon",
+          "content": "Paikalle hälytettiin useita pelastuslaitoksen yksiköitä. Helsingissä Pukinmäessä Savelan alueella Ratavallintiellä syttyi maanantaina suuri tulipalo. Myöhemmin iltapäivällä Helsingin poliisi tiedotti, että alustavien tietojen mukaan palo sai alkunsa sähköpotkulaudan lataamisesta asunnon parvekkeella.",
+          "date": "2026-09-14T10:47:40.000Z",
           "categories": [
-            "ulkomaat"
+            "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/ed1c9e3f-7def-4445-981a-2c0c3b998177?utm_source=rss"
+          "link": "https://www.iltalehti.fi/kotimaa/a/fd63e63a-9259-4b40-8764-d7ced39429b1?utm_source=rss"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Orpo drooni-iskuista lähelle Puolan rajaa: Venäjä päivä päivältä aggressiivisempi – ”Vaarallista peliä”",
-          "content": "Orpo ja EU:n korkea edustaja Kaja Kallas kommentoivat Venäjän drooni-iskua Arktisen huippukokouksen yhteydessä Rovaniemellä.",
-          "date": "2026-09-14T07:46:16.000Z",
+          "title": "Poliisi: Helsingin Pukinmäen tulipalo saattoi lähteä sähköpotkulaudan lataamisesta – luhtitalon katto tuhoutui",
+          "content": "Luhtitalon katon tuhonneesta palosta tuli niin paljon savua, että lähialueella liikkuvia kehotettiin suojautumaan savulta.",
+          "date": "2026-09-14T10:44:29.000Z",
           "categories": [
-            "politiikka"
+            "onnettomuudet",
+            "tulipalot",
+            "savela",
+            "uusimaa",
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20246125?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Venäjä saattaa lisätä hybridi-iskuja mutta tuskin testaa Naton puolustusta, Viron pääministeri arvioi Ylelle",
-          "content": "Viron pääministeri Kristen Michal ja useita muita Euroopan johtajia on saapunut Rovaniemelle pääministeri Petteri Orpon arktiseen huippukokoukseen.",
-          "date": "2026-09-14T03:30:39.000Z",
-          "categories": [
-            "euroopan unioni",
-            "politiikka",
-            "kansainvälinen politiikka",
-            "viro",
-            "arktinen alue",
-            "rovaniemi",
-            "lappi",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20246068?origin=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Orpo tarjoaa illallisen, kun Euroopan johtajat kokoontuvat Rovaniemelle",
-          "content": "Saksan liittokansleri Friedrich Merz ja useita muita johtajia osallistuu pääministeri Petteri Orpon koolle kutsumaan arktiseen kokoukseen maanantaina.",
-          "date": "2026-09-13T09:54:06.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "rovaniemi",
-            "lappi",
-            "politiikka",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20245842?origin=rss"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Pääministeri Orpo isännöi EU-johtajien arktista huippukokousta Rovaniemellä – paikka pidetään salassa turvallisuussyistä",
-          "content": "Pääministeri Petteri Orpo (kok.) isännöi Euroopan unionin johtajien arktista huippukokousta Rovaniemellä sunnuntaina ja maanantaina.",
-          "date": "2026-09-13T09:32:38.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/paaministeri-orpo-isannoi-eu-johtajien-arktista-hu/13658708?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+          "link": "https://yle.fi/a/74-20246190?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ruotsin vaalien ratkaisu riippuu viimeisistä äänistä",
+      "mainTitle": "Ruotsin vaaleissa 200 000 ääntä voi ratkaista tuloksen",
       "mainCategories": [
         "Ruotsi",
         "Ulkomaat",
@@ -369,54 +658,12 @@
       ]
     },
     {
-      "mainTitle": "Kuopiolaismiestä epäillään 14 seksuaalirikoksesta ja vainoamisesta",
-      "mainCategories": [
-        "Kotimaa",
-        "Rikosepäilyt",
-        "Seksuaalirikokset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi epäilee kuopiolaismiestä useista seksuaalirikoksista ja vainoamisesta – uhri on pohjoissavolainen nainen",
-          "content": "Poliisi epäilee 1970-luvulla syntynyttä miestä muun muassa useista raiskauksista ja törkeistä raiskauksista. Tapaus on siirtynyt syyteharkintaan.",
-          "date": "2026-09-14T10:09:11.000Z",
-          "categories": [
-            "rikosepäilyt",
-            "seksuaalirikokset",
-            "kuopio",
-            "esitutkinta",
-            "raiskaus",
-            "vainoaminen",
-            "pohjois-savo",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20246173?origin=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Järkyttävä rikosepäily Savossa: Hoitaja raiskasi naista 2 vuotta",
-          "content": "Poliisi on hyvin niukkasanainen rikosepäilystä. Iltalehden tietojen mukaan Niuvanniemessä työskentelevää hoitajaa epäillään seksuaalirikoksien sarjasta. Asiaa tutkii Itä-Suomen poliisi, jonka mukaan epäillyt rikokset eivät liity miehen työtehtäviin.  Poliisi kertoo, että 1970-luvulla syntyneen miehen epäillään tehneen 14 rikosta, joiden uhrina on sama 1980-luvulla syntynyt nainen. Epäillyt rikokset ovat tapahtuneet vuosina 2022–2024. Rikosnimikkeitä ovat muun muassa törkeä raiskaus, raiskaus ja vainoaminen. ",
-          "date": "2026-09-14T09:48:32.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/e0136416-5d25-4117-baf3-d544c13300e7?utm_source=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Oppositio johtaa, Ruotsin vaalien ratkaisu venyy",
+      "mainTitle": "Ruotsin vaalien ratkaisu venyy opposition niukassa johdossa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/vaalit/1.jpg",
+      "imageUrl": "/images/vaalit/2.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -503,7 +750,7 @@
       ]
     },
     {
-      "mainTitle": "Summa Defencen rahat loppu, emoyhtiön konkurssi uhkaa",
+      "mainTitle": "Summa Defencen rahapula uhkaa emoyhtiön konkurssilla",
       "mainCategories": [
         "Yritykset",
         "Talous",
@@ -548,7 +795,7 @@
       ]
     },
     {
-      "mainTitle": "Tekoälyn tuhouhkia ja ihmisenkaltaistamista kyseenalaistetaan",
+      "mainTitle": "Tekoälyn tuhovaroitukset ruokkivat käsitystä koneesta moraalisena toimijana",
       "mainCategories": [
         "Teknologia",
         "Openai",
@@ -598,54 +845,13 @@
       ]
     },
     {
-      "mainTitle": "Varoitusvalo sai Porista Helsinkiin lentäneen koneen palaamaan",
-      "mainCategories": [
-        "Liikenne",
-        "Pori",
-        "Lentoliikenne"
-      ],
-      "imageUrl": "/images/helsinki/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Lentokone Porista Helsinkiin joutui kääntymään takaisin aamulla",
-          "content": "Kyse oli varotoimenpiteestä.",
-          "date": "2026-09-14T05:33:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012271780.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Porista Helsinkiin matkannut lentokone joutui palaamaan kentälle",
-          "content": "Porista Helsinkiin matkannut lentokone joutui kääntymään takaisin varoitusvalon syttymisen vuoksi. Kone palasi turvallisesti lentokentälle.",
-          "date": "2026-09-14T04:59:13.000Z",
-          "categories": [
-            "liikenne",
-            "pori",
-            "lentoliikenne",
-            "lentokoneet",
-            "satakunta",
-            "matkailu",
-            "lentokoneen viat"
-          ],
-          "link": "https://yle.fi/a/74-20246094?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Marin ja Lindtmanin juna ohitti aseman ennen iskua",
+      "mainTitle": "Marin ja Lindtman välttivät Venäjän junaiskun",
       "mainCategories": [
         "Politiikka",
         "Turvallisuus",
         "Ukraina"
       ],
-      "imageUrl": "/images/venäjä/6.jpg",
+      "imageUrl": "/images/venäjä/1.jpeg",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -689,7 +895,44 @@
       ]
     },
     {
-      "mainTitle": "Sijaissynnyttäjä kieltäytyi abortista, huoltajuuskiista kärjistyi",
+      "mainTitle": "Orpo isännöi EU-johtajien arktista huippukokousta Rovaniemellä",
+      "mainCategories": [
+        "Rovaniemi",
+        "Lappi",
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Orpo tarjoaa illallisen, kun Euroopan johtajat kokoontuvat Rovaniemelle",
+          "content": "Saksan liittokansleri Friedrich Merz ja useita muita johtajia osallistuu pääministeri Petteri Orpon koolle kutsumaan arktiseen kokoukseen maanantaina.",
+          "date": "2026-09-13T09:54:06.000Z",
+          "categories": [
+            "kansainvälinen politiikka",
+            "rovaniemi",
+            "lappi",
+            "politiikka",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20245842?origin=rss"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Pääministeri Orpo isännöi EU-johtajien arktista huippukokousta Rovaniemellä – paikka pidetään salassa turvallisuussyistä",
+          "content": "Pääministeri Petteri Orpo (kok.) isännöi Euroopan unionin johtajien arktista huippukokousta Rovaniemellä sunnuntaina ja maanantaina.",
+          "date": "2026-09-13T09:32:38.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/paaministeri-orpo-isannoi-eu-johtajien-arktista-hu/13658708?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Sikiön vakava sydänvika synnytti abortti- ja huoltajuuskiistan",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -757,7 +1000,7 @@
       ]
     },
     {
-      "mainTitle": "Henkilöauto syttyi palamaan mopomiitissä Äänekoskella",
+      "mainTitle": "Henkilöauto syttyi tuleen mopomiitissä Äänekoskella",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -787,40 +1030,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012270785.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yksin lentänyt ohjaaja teki pakkolaskun Rovaniemellä",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Pienlentokone joutui tekemään pakkolaskun Rovaniemellä",
-          "content": "Lentäjä oli koneessa yksin.",
-          "date": "2026-09-12T15:56:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012270388.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Rovaniemi | Pienlentokone teki pakko­laskun metsään",
-          "content": "Lentäjä oli koneessa yksin ja soitti itse apua, pelastuslaitokselta kerrotaan.",
-          "date": "2026-09-12T15:45:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012270354.html"
         }
       ]
     }
