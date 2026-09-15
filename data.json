@@ -1,32 +1,170 @@
 {
-  "timestamp": "2026-09-14T19:45:57.324Z",
-  "successCount": 21,
-  "failureCount": 1,
-  "failedFeeds": [
-    {
-      "url": {
-        "publisherId": "yle",
-        "publisher": "Yle",
-        "publisherUrl": "yle.fi",
-        "rssUrl": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-12"
-      },
-      "reason": {
-        "errno": -104,
-        "code": "ECONNRESET",
-        "syscall": "read"
-      }
-    }
-  ],
+  "timestamp": "2026-09-15T07:25:25.274Z",
+  "successCount": 22,
+  "failureCount": 0,
+  "failedFeeds": [],
   "feeds": [
     {
-      "mainTitle": "Trump arvostelee Googlen miljardin datakeskusinvestointia Suomeen",
+      "mainTitle": "Nelostie poikki Rovaniemen pohjoispuolella kolarin takia",
+      "mainCategories": [
+        "Kotimaa",
+        "Onnettomuudet",
+        "Rovaniemi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Liikenne Nelostiellä poikki – Raskaat ajoneuvot törmäsivät Lapissa",
+          "content": "Onnettomuus tapahtui noin 15 kilometrin päässä Rovaniemeltä. Liikenne on pysäytetty Sodankyläntiellä eli Nelostiellä Rovaniemen pohjoispuolella. Syynä tähän on kahden raskaan ajoneuvon kolari noin 15 kilometrin päässä Rovaniemeltä.",
+          "date": "2026-09-15T07:24:19.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/dc30b3fe-5042-4992-9ec1-f8d7bec28f58?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Nelostie poikki Rovaniemen pohjoispuolella – kaksi raskasta ajoneuvoa törmäsi toisiinsa",
+          "content": "Onnettomuus sattui tiistaiaamuna noin 15 kilometriä Rovaniemeltä pohjoiseen.",
+          "date": "2026-09-15T07:01:48.000Z",
+          "categories": [
+            "onnettomuudet",
+            "rovaniemi",
+            "liikenneonnettomuudet",
+            "lappi",
+            "raskaat ajoneuvot",
+            "kuolema, hengenvaara ja loukkaantuminen",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20246308?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Keskusta ehdottaa ministeriöiden lakkauttamista ja vallan siirtämistä",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Keskusta | Keskusta esittelee ”jättiuudistuksen” – ministeriöt lakkautettaisiin",
+          "content": "Antti Kaikkonen esitteli tiistaina keskustan aloitteen, jolla valtaa siirrettäisiin kunnille ja maakunnille.",
+          "date": "2026-09-15T07:23:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012274715.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Keskusta lakkauttaisi nykyiset ministeriöt, ja karsisi hallintoa reippaasti",
+          "content": "Keskusta lakkauttaisi nykyiset ministeriöt, ja siirtäisi ne pääministerin alaisuuteen.",
+          "date": "2026-09-15T07:22:26.000Z",
+          "categories": [
+            "politiikka",
+            "suomen keskusta",
+            "antti kaikkonen"
+          ],
+          "link": "https://yle.fi/a/74-20246294?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Vastasyntyneitä altistui tuberkuloosille Naistenklinikalla",
+      "mainCategories": [
+        "Kotimaa",
+        "Terveys",
+        "Tuberkuloosi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Naistenklinikalla tuberkuloositapaus",
+          "content": "HUSin mukaan tartuntariski on erittäin vähäinen ja koskee vain yksittäisiä osastolla olleita vastasyntyneitä.",
+          "date": "2026-09-15T07:13:17.000Z",
+          "categories": [
+            "terveys",
+            "tuberkuloosi",
+            "helsingin ja uudenmaan sairaanhoitopiiri (hus)",
+            "naistenklinikka (hus)",
+            "uusimaa",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20246315?origin=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Vastasyntyneitä altistunut tuberkuloosille Naistenklinikalla",
+          "content": "Altistusriski koskee yksittäisiä vauvoja, Hus kertoo.",
+          "date": "2026-09-15T07:01:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012274569.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Vasta­syntyneitä vauvoja altistunut tuberku­loosille Naisten­klinikalla",
+          "content": "Hus pitää tartunnan riskiä vähäisenä. Naistenklinikalla Helsingissä vastasyntyneitä vauvoja on altistunut tuberkuloosille. Husin tiedotteen mukaan altistusriski koskee yksittäisiä vastasyntyneitä, jotka ovat olleet Naistenklinikan synnyttäneiden osastolla 61 hoidossa elokuun alussa.",
+          "date": "2026-09-15T06:30:24.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/caeb630b-1b9e-4911-bf6c-0d362f93c6b6?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Trump arvosteli Googlen datakeskusinvestointia Suomeen",
       "mainCategories": [
         "Ulkomaat",
         "Yhdysvallat",
         "Google"
       ],
-      "imageUrl": "/images/trump/3.jpg",
+      "imageUrl": "/images/trump/1.jpg",
       "relatedNews": [
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Trump ärähti Suomesta – Levy jäi päälle: \"Huijaus!\"",
+          "content": "Trump hyökkäsi rajusti tekoälyalan säätelyä vastaan. Yhdysvaltain presidentti Donald Trump jatkoi maanantaina viestipalvelu Truth Socialissa tekoälyn ja datakeskusten sääntelyn vastustamista useissa peräkkäisissä julkaisuissa. Aiemmin maanantaina Trump oli haukkunut Googlen massiivisen datakeskusinvestoinnin Suomeen. Hänen mukaansa Google rakentaa Suomeen, koska yhtiön on vaikea saada vastaavia lupia Yhdysvalloissa.",
+          "date": "2026-09-15T06:45:26.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.iltalehti.fi/ulkomaat/a/e30d97c3-b702-4eb4-b33f-dc25f303cef4?utm_source=rss"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Ulkomailla havahduttiin Trumpin Suomi-kiukkuun: ”Mitä Suomessa oikein tapahtuu?”",
+          "content": "Donald Trump älähti Googlen jätti-investoinnista.",
+          "date": "2026-09-15T04:26:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012274230.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
@@ -52,30 +190,6 @@
           "link": "https://www.hs.fi/maailma/art-2000012274097.html"
         },
         {
-          "publisherId": "kauppalehti",
-          "publisher": "Kauppalehti",
-          "publisherUrl": "kauppalehti.fi",
-          "title": "Trump kommentoi isoa Suomi-uutista: ”En ole tyytyväinen”",
-          "content": "Trump toivoo, että Google muuttaa ajatteluaan.",
-          "date": "2026-09-14T18:27:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.kauppalehti.fi/uutiset/a/b60088c0-320e-4326-8d6b-3e4141f4553f?utm_source=rss"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Trump kommentoi isoa Suomi-uutista: ”En ole tyytyväinen”",
-          "content": "Trump toivoo, että Google muuttaa ajatteluaan. Yhdysvaltain presidentti Donald Trump kertoo olevansa tyytymätön Googlen päätökseen investoida Suomeen.  Trump kertoi asiasta viestipalvelu Truth Socialissa. ",
-          "date": "2026-09-14T18:11:04.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/c3df5e41-d7e1-4c4e-947a-81e789a2f0ec?utm_source=rss"
-        },
-        {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
@@ -94,101 +208,285 @@
       ]
     },
     {
-      "mainTitle": "Aleksanteri Kivimäestä annettiin eurooppalainen pidätysmääräys",
+      "mainTitle": "Tulli epäilee lähes kuuden miljoonan euron pakotevientiä Venäjälle",
       "mainCategories": [
         "Kotimaa",
-        "Rikokset",
-        "Oikeudenkäynnit"
+        "Venäjä",
+        "Tulli"
       ],
-      "imageUrl": "",
+      "imageUrl": "/images/venäjä/6.jpg",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Tulli: Venäjälle vietiin salaa tavaraa lähes kuudella miljoonalla eurolla",
+          "content": "Tapausta on tutkittu törkeänä säännöstelyrikoksena.",
+          "date": "2026-09-15T06:23:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012274393.html"
+        },
         {
           "publisherId": "iltalehti",
           "publisher": "Iltalehti",
           "publisherUrl": "iltalehti.fi",
-          "title": "Yle: Aleksanteri Kivimäki on etsintä­kuulutettu Euroopan laajuisesti",
-          "content": "Aleksanteri Kivimäki on ollut pitkään kateissa. Vastaamon tietomurrosta tuomitun Aleksanteri Kivimäen, 29, etsintäkuulutus on laajentunut Euroopan laajuiseksi. Asiasta kertoo Yle. Itä-Uudenmaan poliisilaitokselta vahvistetaan Ylelle, että Kivimäestä on annettu myös eurooppalainen pidätysmääräys.",
-          "date": "2026-09-14T17:47:19.000Z",
+          "title": "Kaksikko jäi kiinni Itä-Suomessa – Esittivät vievänsä tavaraa Turkkiin, mutta todellisuus olikin aivan jotain muuta",
+          "content": "Tulli epäilee, että Venäjälle on viety kiellettyä tavaraa. Tulli epäilee, että Venäjälle on viety pakotteiden vastaisesti tavaraa liki kuuden miljoonan euron arvosta vuosina 2022 ja 2023.  Asiaa on tutkittu törkeänä säännöstelyrikoksena.",
+          "date": "2026-09-15T05:56:17.000Z",
           "categories": [
             "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/0220e5be-44a1-4339-b966-ed2328435972?utm_source=rss"
+          "link": "https://www.iltalehti.fi/kotimaa/a/fb9818d7-8644-4dce-a448-7977b4299a22?utm_source=rss"
+        },
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Tulli epäilee: Venäjälle viety teollisuustarvikkeita miljoonien eurojen arvosta",
+          "content": "",
+          "date": "2026-09-15T05:48:52.000Z",
+          "categories": [
+            "pakotteet",
+            "tulli",
+            "venäjä",
+            "vienti",
+            "kotimaa",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7084745"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Tulli tutkii törkeää säännöstelyrikosta: Venäjälle viety miljoonien eurojen arvosta tavaraa",
+          "content": "Vientiyritys on ilmoittanut Tullille vievänsä tuotteita Kazakstaniin ja Turkkiin, mutta esitutkinnassa saatujen tietojen perusteella tavarat on viety Venäjälle.",
+          "date": "2026-09-15T05:27:16.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "venäjä",
+            "venäjän pakotteet",
+            "tulli",
+            "esitutkinta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20246292?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Oulun uudet kaistojen yhdistymismerkit herättävät hämmennystä",
+      "mainCategories": [],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Tunnistatko sinä tämän liikennemerkin?",
+          "content": "Oulun kaupungin alueelle on asennettu toukokuusta lähtien yhteensä kahdeksan yhdistyvien ajokaistojen liikennemerkkiä. Kansalaisten ja virallisten tahojen käsitykset uusista merkeistä poikkeavat suuresti.",
+          "date": "2026-09-15T06:00:00.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/videot/tunnistatko-sina-taman-liikennemerkin/13667971?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "”En usko, että ovat kauheasti antamassa tilaa” – Oululaiset epäilevät uuden liikennemerkin toimivuutta",
+          "content": "Oulun kaupungin alueelle on asennettu toukokuusta lähtien yhteensä kahdeksan yhdistyvien ajokaistojen liikennemerkkiä. Kansalaisten ja virallisten tahojen käsitykset uusista merkeistä poikkeavat suuresti.",
+          "date": "2026-09-15T02:00:00.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/en-usko-etta-ovat-kauheasti-antamassa-tilaa-oulula/13653521?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Korkein oikeus torjui Trumpin postiäänestyksen rajoitukset",
+      "mainCategories": [
+        "Yhdysvallat",
+        "Ulkomaat",
+        "Maailma"
+      ],
+      "imageUrl": "/images/trump/3.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Takaisku Trumpille: Korkein oikeus ei rajoita posti­äänestämistä",
+          "content": "Arvostelijoiden mielestä Trump yritti postiäänestyksen rajoittamisella keplotella republikaanipuolueelleen voiton marraskuun välivaaleissa.",
+          "date": "2026-09-15T05:33:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012274267.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "USA:n korkein oikeus hylkäsi Trumpin yritykset rajoittaa postiäänestystä",
+          "content": "Trump on vuosien ajan kyseenalaistanut postiäänestyksen turvallisuuden, vaikka äänestää usein itse postitse.",
+          "date": "2026-09-14T23:43:11.000Z",
+          "categories": [
+            "yhdysvallat",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20246275?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Syntyvyyden lasku taittuu tänä vuonna, arvioi Kela",
+      "mainCategories": [
+        "Kotimaa",
+        "Lapset",
+        "Kansaneläkelaitos"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Kela: Enemmän vauvoja",
+          "content": "Kelan tutkimuspäällikön mukaan käänne on odotettu.",
+          "date": "2026-09-15T04:51:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012274262.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Kela: Lapsia odotetaan syntyvän enemmän kuin viime vuosina",
+          "content": "Pitkään jatkunut syntyvyyden lasku taittunee tänä vuonna, kertoo Kela.",
+          "date": "2026-09-15T03:18:11.000Z",
+          "categories": [
+            "lapset",
+            "kansaneläkelaitos",
+            "syntyvyys",
+            "äitiysavustukset",
+            "väestö",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20246279?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Venäläinen fregatti ampui hätäraketteja tanskalaista sotilashelikopteria kohti",
+      "mainCategories": [
+        "Ulkomaat",
+        "Konfliktit",
+        "Maailma"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Tanska: Venäläinen fregatti ampui hätäraketteja kohti Tanskan puolustusvoimien helikopteria",
+          "content": "Tanskan ulkoministeriö aikoo kutsua Venäjän suurlähettilään puhutteluun tapauksen johdosta.",
+          "date": "2026-09-15T04:17:35.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/tanska-venalainen-fregatti-ampui-hataraketteja-koh/13667791?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tanska | Mediat: Venäläinen fregatti ampui hätä­raketeilla Tanskan sotilas­helikopteria kohti",
+          "content": "Toinen hätäraketeista ohitti helikopterin läheltä, tanskalaismediat kertovat.",
+          "date": "2026-09-15T02:38:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012274208.html"
         },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Yle: Julius Kivimäki on etsintä­kuulutettu Euroopan laajuisesti",
-          "content": "Kivimäestä on annettu eurooppalainen pidätysmääräys.",
-          "date": "2026-09-14T17:27:00.000Z",
+          "title": "Mediat: Venäläinen fregatti ampui hätäraketeilla Tanskan sotilashelikopteria kohti",
+          "content": "Toinen hätäraketeista ohitti helikopterin läheltä, mediat kertovat.",
+          "date": "2026-09-14T21:56:00.000Z",
           "categories": [
-            "kotimaa"
+            "ulkomaat"
           ],
-          "link": "https://www.is.fi/kotimaa/art-2000012274007.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000012274207.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Vankilaa pakoileva Aleksanteri Kivimäki on nyt etsintäkuulutettu ympäri Eurooppaa",
-          "content": "Itä-Uudenmaan poliisin mukaan Vastaamon tietomurrosta ja kiristyksistä tuomitun miehen etsintäkuulutus on laajentunut ulkomaille.",
-          "date": "2026-09-14T12:24:09.000Z",
+          "title": "Tanska: Venäläinen fregatti ampui hätäraketteja tanskalaista sotilashelikopteria kohti",
+          "content": "Tanskan ulkoministeriö on kutsunut Venäjän suurlähettilään puhutteluun tapauksen vuoksi.",
+          "date": "2026-09-14T21:36:08.000Z",
           "categories": [
-            "rikokset",
-            "vastaamon tietomurto",
-            "psykoterapiakeskus vastaamo",
-            "oikeudenkäynnit",
-            "aleksanteri kivimäki",
-            "poliisi",
-            "kotimaa"
+            "konfliktit",
+            "ulkomaat"
           ],
-          "link": "https://yle.fi/a/74-20246154?origin=rss"
+          "link": "https://yle.fi/a/74-20246272?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Tekoälyhuolet painoivat Helsingin pörssiä laskuun",
+      "mainTitle": "Nuorten tuloerot kasvoivat, miesten tulot eivät toipuneet koronasta",
       "mainCategories": [
-        "Talous",
-        "Pörssit",
-        "Osakkeet"
+        "Nuoret",
+        "Työttömyys",
+        "Ikäryhmät"
       ],
-      "imageUrl": "/images/talous/3.jpg",
+      "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Pelko levisi pörssissä",
-          "content": "Talousaamussa keskusteltiin maanantaina tuoreista tekoälyhuolista ja niiden vaikutuksista osakemarkkinoilla. Tekoälyhuolet leviävät nyt teknologia-alalla ja osakemarkkinoilla. Johtavien tekoäly-yhtiöiden johtajat nostivat viikonloppuna esiin tekoälyn kehitykseen liittyviä turvallisuushuolia. Open AI -yhtiö jopa kertoi lykkäävänsä listautumistaan epäselvän tilanteen takia.",
-          "date": "2026-09-14T17:28:20.000Z",
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "STTK: Nuorten ostovoima on kehittynyt heikosti – miesten tulot eivät toipuneet koronasta",
+          "content": "",
+          "date": "2026-09-15T04:16:44.000Z",
           "categories": [
-            "talous"
+            "tulot",
+            "palkkavertailu",
+            "tulotaso",
+            "sttk",
+            "kotimaa",
+            "uutiset"
           ],
-          "link": "https://www.iltalehti.fi/talous/a/41c862c7-c18d-4b0c-9075-203071add63e?utm_source=rss"
+          "link": "https://www.ts.fi/a/7084684"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Tekoälyhuoli painoi Helsingin pörssin laskuun maanantaina",
-          "content": "Johtavat tekoäly-yhtiöt esittivät viikonloppuna tekoälyn kehityksen hidastamista.",
-          "date": "2026-09-14T15:49:31.000Z",
+          "title": "Nuorten naisten ja miesten palkat kehittyivät täysin eri suuntiin: miehet menettivät 2 500 euroa vuodessa",
+          "content": "Nuorten ikäluokkien tuloerot ovat kasvaneet erityisesti kuluvan vuosikymmenen aikana, paljastaa STTK:n ostovoimakatsaus.",
+          "date": "2026-09-15T03:00:35.000Z",
           "categories": [
-            "talous",
-            "helsingin pörssi",
-            "pörssit",
-            "osakkeet",
-            "osakkeet ja arvopaperit",
-            "yleisindeksi",
-            "omx helsinki -indeksi"
+            "nuoret",
+            "palkka ja työsuhde-edut",
+            "työttömyys",
+            "ikäryhmät",
+            "työelämä",
+            "kotitalouksien tulot ja rahankäyttö",
+            "nuorisotyöttömyys",
+            "yle uutiset somenostot",
+            "talous"
           ],
-          "link": "https://yle.fi/a/74-20246257?origin=rss"
+          "link": "https://yle.fi/a/74-20245819?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Suomi liittyy Ranskan ydinpelotteeseen, ydinaseita ei sijoiteta",
+      "mainTitle": "Suomi liittyy Ranskan ydinpeloteyhteistyöhön ilman ydinasesateenvarjoa",
       "mainCategories": [
         "Politiikka",
         "Ydinaseet",
@@ -196,6 +494,18 @@
       ],
       "imageUrl": "/images/ranska/3.jpg",
       "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suomi mukaan Ranskan ydin­pelote­aloitteeseen – tätä se tarkoittaa",
+          "content": "Suomi liittyi muun muassa Ruotsin, Tanskan ja Norjan perässä Ranskan ydinasepelotteeseen.",
+          "date": "2026-09-15T04:15:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.is.fi/politiikka/art-2000012272899.html"
+        },
         {
           "publisherId": "yle",
           "publisher": "Yle",
@@ -352,75 +662,218 @@
       ]
     },
     {
-      "mainTitle": "Zelenskyi epäilee Venäjän sitoutuvan energiaiskujen lopettamiseen",
+      "mainTitle": "Naton hävittäjä ampui todennäköisesti Valko-Venäjältä tulleen droonin Liettuassa",
       "mainCategories": [
+        "Ulkomaat",
         "Maailma",
-        "Ulkomaat"
+        "Konfliktit"
       ],
-      "imageUrl": "/images/ukraina/2.jpg",
+      "imageUrl": "/images/nato/2.jpg",
       "relatedNews": [
+        {
+          "publisherId": "ts",
+          "publisher": "Turun Sanomat",
+          "publisherUrl": "ts.fi",
+          "title": "Liettua: Naton hävittäjät ampuivat droonin alas Liettuan ilmatilassa",
+          "content": "",
+          "date": "2026-09-15T03:58:55.000Z",
+          "categories": [
+            "droonit",
+            "hybridiuhat",
+            "nato",
+            "liettua",
+            "maailma",
+            "uutiset"
+          ],
+          "link": "https://www.ts.fi/a/7084660"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Liettua | Naton hävittäjä ampui droonin alas Liettuan ilmatilassa",
+          "content": "Drooni oli todennäköisesti saapunut Liettuan ilmatilaan Valko-Venäjältä, Reuters kertoo.",
+          "date": "2026-09-14T23:05:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012274210.html"
+        },
         {
           "publisherId": "is",
           "publisher": "Ilta-Sanomat",
           "publisherUrl": "is.fi",
-          "title": "Trump väitti Ukrainan ja Venäjän lopettavan energiaiskut – nyt kommentoi Zelenskyi",
-          "content": "IS seuraa tässä artikkelissa tilannetta Ukrainan sodassa sekä siihen liittyviä tapahtumia.",
-          "date": "2026-09-14T16:52:00.000Z",
+          "title": "Naton hävittäjä ampui droonin alas Liettuassa",
+          "content": "Drooni oli todennäköisesti saapunut Liettuan ilmatilaan Valko-Venäjältä, Reuters kertoo.",
+          "date": "2026-09-14T22:34:00.000Z",
           "categories": [
             "ulkomaat"
           ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012208431.html"
+          "link": "https://www.is.fi/ulkomaat/art-2000012274211.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Naton hävittäjä ampui alas droonin Liettuan ilmatilassa",
+          "content": "Alustavan arvion mukaan drooni tuli Liettuan ilmatilaan Valko-Venäjältä.",
+          "date": "2026-09-14T22:10:51.000Z",
+          "categories": [
+            "konfliktit",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20246274?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Mitch McConnell palasi julkisuuteen kuukausien sairauspoissaolon jälkeen",
+      "mainCategories": [
+        "Ulkomaat",
+        "Yhdysvallat",
+        "Senaatit"
+      ],
+      "imageUrl": "/images/yhdysval/2.jpg",
+      "relatedNews": [
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Republikaanisenaattori McConnell palasi kuukausien tauon jälkeen senaattiin",
+          "content": "McConnell pysyi useita kuukausia poissa julkisuudesta ja politiikasta terveysongelmien takia.",
+          "date": "2026-09-15T03:24:59.000Z",
+          "categories": [
+            "yhdysvallat",
+            "senaatit",
+            "senaattorit",
+            "yhdysvaltain republikaaninen puolue",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20246280?origin=rss"
         },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Ukrainan sota | Trump väittää: Ukraina ja Venäjä lupasivat, etteivät iske toistensa energia­kohteisiin",
-          "content": "Ukraina ei usko Venäjän olevan valmis noudattamaan mahdollista sopimusta, Volodymyr Zelenskyi sanoo.",
-          "date": "2026-09-14T16:27:00.000Z",
+          "title": "Yhdysvallat | 84-vuotias senaattori Mitch McConnell palasi julkisuuteen kolmen kuukauden sairastelun jälkeen",
+          "content": "McConnell joutui sairaalaan kesäkuussa.",
+          "date": "2026-09-15T00:51:00.000Z",
           "categories": [
             "maailma"
           ],
-          "link": "https://www.hs.fi/maailma/art-2000012273941.html"
+          "link": "https://www.hs.fi/maailma/art-2000012274225.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mitch McConnell, 84, palasi julkisuuteen – tämä hänen terveydentilastaan tiedetään",
+          "content": "McConnell joutui sairaalaan kesäkuussa.",
+          "date": "2026-09-15T00:42:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012274220.html"
         }
       ]
     },
     {
-      "mainTitle": "Mäntyharjulla etsitään traktoria säikähtänyttä karannutta emua",
+      "mainTitle": "Nuorten luottamus eläkejärjestelmään horjuu, leikkaukset saavat kannatusta",
       "mainCategories": [
-        "Suomi",
-        "Kotimaa"
+        "Talous",
+        "Nuoret",
+        "Eläkeikä"
       ],
       "imageUrl": "",
       "relatedNews": [
         {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Poikkeuk­sellinen otus karkuteillä Mäntyharjulla",
-          "content": "Emu lähti omille teilleen lauantaina. Mäntyharjulaiselta Kuvalan tilalta lähti lauantaina karkuteille 32-vuotias Herra Hoo -niminen emu. Emu loikkasi aidan yli, kun se säikähti ohi ajavaa traktoria, kertoo tilaa pitävä Heidi Haajanen.",
-          "date": "2026-09-14T16:24:36.000Z",
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Eva: Suomalaisten luottamus eläkejärjestelmään horjuu",
+          "content": "Nuorista aikuisista lähes kaksi kolmesta odottaa romahdusta – enemmistö heistä pitää eläkkeiden leikkaamista välttämättömänä.",
+          "date": "2026-09-15T03:01:35.000Z",
           "categories": [
+            "talous",
+            "nuoret",
+            "eläkeikä",
+            "työelämä",
+            "elinkeinoelämän valtuuskunta (eva)",
+            "eläkejärjestelmät",
+            "eläkkeelle siirtyminen",
+            "työeläkkeet",
+            "tutkimus",
+            "eläkeiän nosto",
+            "köyhyys ja sosiaaliturva",
+            "toimeentuloturva",
             "kotimaa"
           ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/1b46eff3-bcc5-44bb-93a3-52547114e123?utm_source=rss"
+          "link": "https://yle.fi/a/74-20246247?origin=rss"
         },
         {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Eläimet | Mäntyharjulla etsitään karannutta emua: Herra Hoo loikkasi yli kaksi­metrisen aidan yli",
-          "content": "32-vuotias emu säikähti traktoria ja karkasi aitauksestaan lauantaina.",
-          "date": "2026-09-13T11:49:00.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Usko eläke­järjestelmään rapisee – näin rajusti ikä vaikuttaa",
+          "content": "Nuorten luottamus Suomen eläkejärjestelmään horjuu rajusti. EVAn kyselyssä jopa 62 prosenttia 26–35-vuotiaista uskoo järjestelmän romahtavan ja samalla yhä useampi suomalainen hyväksyisi eläkkeisiin kohdistuvat leikkaukset.",
+          "date": "2026-09-15T03:01:00.000Z",
           "categories": [
-            "suomi"
+            "taloussanomat"
           ],
-          "link": "https://www.hs.fi/suomi/art-2000012270891.html"
+          "link": "https://www.is.fi/taloussanomat/art-2000012272550.html"
         }
       ]
     },
     {
-      "mainTitle": "Saudi-Arabian öljyputken sulku nosti öljyn ja polttoaineiden hintoja",
+      "mainTitle": "Suomen ja Ruotsin sähköyhteyden vian korjaus kestää viikon",
+      "mainCategories": [
+        "Kotimaa",
+        "Energia",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Sähkö | Suomen ja Ruotsin välisessä sähkön­siirto­yhteydessä vika, korjaus kestää viikon",
+          "content": "Korjaus kestää noin viikon.",
+          "date": "2026-09-14T23:49:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012274219.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Suomen ja Ruotsin välisessä sähkön­siirto­yhteydessä vika",
+          "content": "Korjaus kestää noin viikon.",
+          "date": "2026-09-14T23:46:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012274212.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Suomen ja Ruotsin välisessä sähkönsiirtoyhteydessä vika, korjaus kestää noin viikon",
+          "content": "",
+          "date": "2026-09-14T22:07:00.000Z",
+          "categories": [
+            "energia",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20246273?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Saudi-Arabian putki-isku nostaa öljyn ja polttoaineiden hintoja",
       "mainCategories": [
         "Energia",
         "Öljy",
@@ -460,11 +913,9 @@
       ]
     },
     {
-      "mainTitle": "Pörssisähkö kallistuu syksyn huippuhintaan maanantaina",
+      "mainTitle": "Pörssisähkön hinta nousee syksyn huippulukemiin",
       "mainCategories": [
-        "Energia",
-        "Sähkö",
-        "Kotimaa"
+        "Taloussanomat"
       ],
       "imageUrl": "",
       "relatedNews": [
@@ -489,27 +940,11 @@
             "taloussanomat"
           ],
           "link": "https://www.is.fi/taloussanomat/art-2000012271766.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Pörssisähkön hinta nousee maanantaiaamuna",
-          "content": "",
-          "date": "2026-09-13T13:24:50.000Z",
-          "categories": [
-            "energia",
-            "sähkö",
-            "sähkön hinta",
-            "kotimaa",
-            "talous"
-          ],
-          "link": "https://yle.fi/a/74-20246054?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "AirBaltic hakeutuu yrityssaneeraukseen, lennot jatkuvat normaalisti",
+      "mainTitle": "Air Baltic hakeutuu saneeraukseen, lennot jatkuvat normaalisti",
       "mainCategories": [
         "Yrityssaneeraus",
         "Ilmailu",
@@ -563,52 +998,13 @@
       ]
     },
     {
-      "mainTitle": "Poliisi epäilee sähköpotkulaudan latauksen sytyttäneen Pukinmäen tulipalon",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Tulipalot"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "Epäily: Tämä sytytti Helsingin suuren tulipalon",
-          "content": "Paikalle hälytettiin useita pelastuslaitoksen yksiköitä. Helsingissä Pukinmäessä Savelan alueella Ratavallintiellä syttyi maanantaina suuri tulipalo. Myöhemmin iltapäivällä Helsingin poliisi tiedotti, että alustavien tietojen mukaan palo sai alkunsa sähköpotkulaudan lataamisesta asunnon parvekkeella.",
-          "date": "2026-09-14T10:47:40.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.iltalehti.fi/kotimaa/a/fd63e63a-9259-4b40-8764-d7ced39429b1?utm_source=rss"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Poliisi: Helsingin Pukinmäen tulipalo saattoi lähteä sähköpotkulaudan lataamisesta – luhtitalon katto tuhoutui",
-          "content": "Luhtitalon katon tuhonneesta palosta tuli niin paljon savua, että lähialueella liikkuvia kehotettiin suojautumaan savulta.",
-          "date": "2026-09-14T10:44:29.000Z",
-          "categories": [
-            "onnettomuudet",
-            "tulipalot",
-            "savela",
-            "uusimaa",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20246190?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Ruotsin vaaleissa 200 000 ääntä voi ratkaista tuloksen",
+      "mainTitle": "Ruotsin vaalien voittaja voi ratketa 200 000 äänellä",
       "mainCategories": [
         "Ruotsi",
-        "Ulkomaat",
-        "Hallitusneuvottelut"
+        "Hallitusneuvottelut",
+        "Ulkomaat"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "yle",
@@ -642,28 +1038,16 @@
             "uutiset"
           ],
           "link": "https://www.ts.fi/a/7083457"
-        },
-        {
-          "publisherId": "iltalehti",
-          "publisher": "Iltalehti",
-          "publisherUrl": "iltalehti.fi",
-          "title": "95 prosenttia äänistä laskettu – Tämä on Ruotsin vaalien tilanne nyt",
-          "content": "Iltalehti seuraa Ruotsin vaalien käänteitä tässä jutussa. Ruotsin parlamenttivaaleissa lasketaan yhä ääniä. Käynnissä on tiukka kamppailu. Vasemmistoblokki näytti maanantaiaamulla alustavien tulosten perusteella johtavan oikeistoblokkia, mutta keskiviikkona tulevat äänet voivat vielä ratkaista tilanteen toiseen suuntaan. ",
-          "date": "2026-09-13T12:14:41.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.iltalehti.fi/ulkomaat/a/645ebbb6-6f2a-4d09-a778-e5bc7dc47bb5?utm_source=rss"
         }
       ]
     },
     {
-      "mainTitle": "Ruotsin vaalien ratkaisu venyy opposition niukassa johdossa",
+      "mainTitle": "Ruotsin vaalien ratkaisu venyy keskiviikolle opposition johtaessa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/vaalit/2.jpg",
+      "imageUrl": "/images/vaalit/1.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
@@ -716,7 +1100,7 @@
       ]
     },
     {
-      "mainTitle": "Poliisi ei epäile rikosta 15-vuotiaan mopoilijan kuolemassa",
+      "mainTitle": "Varkaudessa kuolleen mopoilijan tapauksessa ei epäillä rikosta",
       "mainCategories": [
         "Suomi",
         "Kotimaa"
@@ -750,7 +1134,7 @@
       ]
     },
     {
-      "mainTitle": "Summa Defencen rahapula uhkaa emoyhtiön konkurssilla",
+      "mainTitle": "Summa Defencen rahapula uhkaa johtaa emoyhtiön konkurssiin",
       "mainCategories": [
         "Yritykset",
         "Talous",
@@ -795,57 +1179,48 @@
       ]
     },
     {
-      "mainTitle": "Tekoälyn tuhovaroitukset ruokkivat käsitystä koneesta moraalisena toimijana",
+      "mainTitle": "Varoitusvalo sai Porista Helsinkiin matkalla olleen koneen palaamaan",
       "mainCategories": [
-        "Teknologia",
-        "Openai",
-        "Talous"
+        "Liikenne",
+        "Pori",
+        "Lentoliikenne"
       ],
-      "imageUrl": "/images/talous/8.jpg",
+      "imageUrl": "/images/helsinki/1.jpg",
       "relatedNews": [
         {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Analyysi: Olen pitkään vastustanut tekoälyn ihmisenkaltaistamista, mutta nyt se alkaa tuntua vaikealta",
-          "content": "Jos uskomme, että tekoäly tuhoaa ihmiskunnan, pidämme konetta moraalisena toimijana. Kone ei sitä ole, kirjoittaa teknologiatoimittaja Teemu Hallamaa.",
-          "date": "2026-09-14T08:00:35.000Z",
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Lentokone Porista Helsinkiin joutui kääntymään takaisin aamulla",
+          "content": "Kyse oli varotoimenpiteestä.",
+          "date": "2026-09-14T05:33:00.000Z",
           "categories": [
-            "teknologia",
-            "tekoäly",
-            "kielimalli",
-            "tietoturva",
-            "openai",
-            "tiede",
-            "talous"
+            "kotimaa"
           ],
-          "link": "https://yle.fi/a/74-20244697?origin=rss"
+          "link": "https://www.is.fi/kotimaa/art-2000012271780.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Analyysi: Tekoälyjohtajat varoittavat ihmiskunnan tuhosta – mutta onko kyse pelosta vai politiikasta?",
-          "content": "Tekoäly-yhtiöiden avainhenkilöt maalailevat nyt uhkakuvia, joissa heidän omat keksintönsä voivat tuhota ihmiskunnan. Tuholla pelottelu voi olla myös keino markkinoida, kirjoittaa Ylen taloustoimittaja Ville Kolari.",
-          "date": "2026-09-13T11:18:24.000Z",
+          "title": "Porista Helsinkiin matkannut lentokone joutui palaamaan kentälle",
+          "content": "Porista Helsinkiin matkannut lentokone joutui kääntymään takaisin varoitusvalon syttymisen vuoksi. Kone palasi turvallisesti lentokentälle.",
+          "date": "2026-09-14T04:59:13.000Z",
           "categories": [
-            "teknologia",
-            "tietojenkäsittelytieteet",
-            "ihmiskunta",
-            "talous",
-            "chatgpt",
-            "piilaakso",
-            "koneoppiminen",
-            "openai",
-            "tekoälyn etiikka",
-            "tekoälytutkija"
+            "liikenne",
+            "pori",
+            "lentoliikenne",
+            "lentokoneet",
+            "satakunta",
+            "matkailu",
+            "lentokoneen viat"
           ],
-          "link": "https://yle.fi/a/74-20246031?origin=rss"
+          "link": "https://yle.fi/a/74-20246094?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Marin ja Lindtman välttivät Venäjän junaiskun",
+      "mainTitle": "Marinin ja Lindtmanin juna ohitti aseman ennen iskua",
       "mainCategories": [
         "Politiikka",
         "Turvallisuus",
@@ -928,108 +1303,6 @@
           "date": "2026-09-13T09:32:38.000Z",
           "categories": [],
           "link": "https://www.kaleva.fi/paaministeri-orpo-isannoi-eu-johtajien-arktista-hu/13658708?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sikiön vakava sydänvika synnytti abortti- ja huoltajuuskiistan",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Pariskunta pyysi sijais­synnyttäjää tekemään abortin, huoltajuus­kiista voi mennä korkeimpaan oikeuteen",
-          "content": "Ultraäänitutkimuksessa paljastui, että sikiöllä on vakava sydänvika. Sijaissynnyttäjä matkusti Texasiin, jossa lähes kaikki abortit ovat laittomia.",
-          "date": "2026-09-13T03:17:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012270789.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Sikiöltä löytyi vakava sydän­vika – sijais­synnyttäjä ei suostunut abortti­vaatimukseen Yhdysvalloissa",
-          "content": "Ultraäänitutkimuksessa paljastunut vakava sydänvika on johtanut huoltajuuskiistaan.",
-          "date": "2026-09-13T01:34:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012270788.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Sivulliset pelastivat miehen veden varasta Sipoossa",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Sipoo | Sivulliset pelastivat veden varaan joutuneen miehen",
-          "content": "Pelastuslaitos kiittää sivullisia ansiokkaasta toiminnasta.",
-          "date": "2026-09-13T02:50:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012270791.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Vaarallinen tilanne Sipoossa – sivulliset pelastivat miehen",
-          "content": "Sipoossa selvittiin vaarallisesta tilanteesta säikähdyksellä. Pelastuslaitos kiittää sivullisia ansiokkaasta toiminnasta.",
-          "date": "2026-09-12T21:20:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012270769.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Henkilöauto syttyi tuleen mopomiitissä Äänekoskella",
-      "mainCategories": [
-        "Suomi",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Äänekoski | Henkilöauto syttyi palamaan mopomiitissä",
-          "content": "Paikalla oli Ilta-Sanomien haastatteleman silminnäkijän mukaan satoja nuoria.",
-          "date": "2026-09-13T00:20:00.000Z",
-          "categories": [
-            "suomi"
-          ],
-          "link": "https://www.hs.fi/suomi/art-2000012270786.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Auto leimahti liekkeihin mopomiitissä Äänekoskella",
-          "content": "Paikalla oli ollut satoja nuoria, paikalla ollut silminnäkijä kertoo Ilta-Sanomille.",
-          "date": "2026-09-13T00:13:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012270785.html"
         }
       ]
     }
