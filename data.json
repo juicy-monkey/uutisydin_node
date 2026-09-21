@@ -1,57 +1,415 @@
 {
-  "timestamp": "2026-09-21T07:45:54.859Z",
-  "successCount": 22,
-  "failureCount": 0,
-  "failedFeeds": [],
+  "timestamp": "2026-09-21T14:56:14.217Z",
+  "successCount": 21,
+  "failureCount": 1,
+  "failedFeeds": [
+    {
+      "url": {
+        "publisherId": "ts",
+        "publisher": "Turun Sanomat",
+        "publisherUrl": "ts.fi",
+        "rssUrl": "https://www.ts.fi/rss.xml"
+      },
+      "reason": {}
+    }
+  ],
   "feeds": [
     {
-      "mainTitle": "Talous kasvaa, mutta julkinen talous pysyy alijäämäisenä",
+      "mainTitle": "Valkoiseen taloon porttikiellon saaneet mediat haastavat Trumpin oikeuteen",
       "mainCategories": [
-        "Politiikka",
-        "Valtiontalous",
-        "Valtiovarainministeriö"
+        "Ulkomaat",
+        "Maailma",
+        "Yhdysvallat"
       ],
-      "imageUrl": "/images/talous/6.jpg",
+      "imageUrl": "/images/trump/7.jpg",
       "relatedNews": [
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
           "publisherUrl": "hs.fi",
-          "title": "Julkinen talous | VM:n ennuste julki: Suomen talous pysyy sitkeästi alijäämäisenä",
-          "content": "Talous kasvaa seuraavat vuodet, mutta julkisen talouden alijäämä pysyy edelleen suurena ja työttömyys on syvää, valtiovarainministeriö ennustaa.",
-          "date": "2026-09-21T07:13:00.000Z",
+          "title": "Yhdysvallat | Suuret tv-yhtiöt keskeyttivät Trumpin kuvaukset",
+          "content": "CNN:n oli määrä vastata maanantaina Trumpin YK-matkan kuvauksesta, mutta Valkoinen talo esti kanavaa hoitamasta vuoroaan.",
+          "date": "2026-09-21T14:46:00.000Z",
           "categories": [
-            "politiikka"
+            "maailma"
           ],
-          "link": "https://www.hs.fi/politiikka/art-2000012278098.html"
+          "link": "https://www.hs.fi/maailma/art-2000012289544.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Useat mediat haastavat Trumpin oikeuteen",
+          "content": "Mediat ryhtyivät oikeustoimiin sen jälkeen, kun heidän toimittajiensa pääsy Valkoiseen taloon evättiin.",
+          "date": "2026-09-21T14:00:00.000Z",
+          "categories": [
+            "ulkomaat"
+          ],
+          "link": "https://www.is.fi/ulkomaat/art-2000012289163.html"
         },
         {
           "publisherId": "yle",
           "publisher": "Yle",
           "publisherUrl": "yle.fi",
-          "title": "Kasvusta intoutunut valtiovarainministeriö kertoo ennusteessaan hyviä sekä huonoja uutisia",
-          "content": "Valtiovarainministeriö ennustaa Suomeen kuluvalle vuodelle runsaan puolentoista prosentin talouskasvua.",
-          "date": "2026-09-21T07:01:10.000Z",
+          "title": "Valkoiseen taloon porttikiellon saaneet mediat nostavat oikeusjutun",
+          "content": "",
+          "date": "2026-09-21T10:24:43.000Z",
           "categories": [
-            "valtiontalous",
-            "julkinen talous",
-            "valtiovarainministeriö",
-            "suhdannevaihtelut",
-            "talous",
-            "politiikka"
+            "yhdysvallat",
+            "valkoinen talo",
+            "cnn",
+            "journalismi",
+            "ulkomaat",
+            "media"
           ],
-          "link": "https://yle.fi/a/74-20247282?origin=rss"
+          "link": "https://yle.fi/a/74-20247385?origin=rss"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Yhdysvallat | Porttikiellon Valkoisesta talosta saaneet mediat pitävät Trumpin määräystä perustuslain vastaisena",
+          "content": "Turvatarkastajat takavarikoivat Valkoiseen taloon pyrkineiden CNN:n, MS NOW:n ja Politicon toimittajien kulkuluvat lauantaina.",
+          "date": "2026-09-19T19:58:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012286296.html"
         }
       ]
     },
     {
-      "mainTitle": "AfD voitti osavaltiovaalit, Linke Berliinissä",
+      "mainTitle": "Poliisin aseenkäytöstä rikostutkinta, oven avannutta ei epäillä",
       "mainCategories": [
-        "Saksa",
-        "Vaalit",
-        "Ulkomaat"
+        "Poliisi",
+        "Tampere",
+        "Pirkanmaa"
       ],
-      "imageUrl": "/images/saksa/1.jpg",
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "HS: Poliisi ei epäile rikosta tapauksessa, jossa mies avasi poliisiauton oven",
+          "content": "Asetta pidelleen poliisin toimista on vireillä rikostutkinta.",
+          "date": "2026-09-21T14:28:00.000Z",
+          "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000012289560.html"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "HS: Poliisi ei epäile rikosta tapauksessa, jossa mies avasi Tampereella siviilipoliisiauton oven",
+          "content": "Siviilipoliisiautossa ollut poliisi osoitti elokuussa aseella poliisiauton oven avannutta henkilöä. Tätä henkilöä poliisi ei epäile rikoksesta.",
+          "date": "2026-09-21T13:57:45.000Z",
+          "categories": [
+            "poliisi",
+            "tampere",
+            "pirkanmaa",
+            "poliisitutkinta",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20247445?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Kouvolan tutkinnassa takavarikoitiin sata asetta ja räjähteitä",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikokset",
+        "Kouvola"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Mies tuli tekemään rikos­ilmoitusta Kouvolassa – poliisilla heräsi epäilys",
+          "content": "Esitutkinnan aikana takavarikoitiin yhteensä noin sata ampuma-asetta, tuhansia patruunoita, aseen osia, räjähteitä sekä Puolustusvoimille kuuluvaa materiaalia, tiedottaa poliisi.",
+          "date": "2026-09-21T14:17:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012289440.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Asemestari kyttäsi poliiseja – Paljastui järisyttävä rikos",
+          "content": "Näin poliisi paljasti pala palalta massiivisen rikoskokonaisuuden. Kaakkois-Suomen poliisi on saanut valmiiksi laajan tuliaseisiin ja räjähteisiin liittyvän tutkintakokonaisuuden Kouvolassa. Sen aikana poliisi takavarikoi yhteensä noin sata ampuma-asetta, tuhansia patruunoita, aseen osia, räjähteitä sekä Puolustusvoimille kuuluvaa materiaalia. Rikoksista epäillään kolmea henkilöä. Tutkinta sai alkunsa, kun yksi heistä saapui Kouvolan poliisiasemalle tekemään rikosilmoitusta häneltä anastetuista kahdesta ampuma-aseesta.",
+          "date": "2026-09-21T13:21:24.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/78db8bf9-0f72-43b2-9b16-c520837c8d94?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Poliisi tutki Kouvolassa yli vuoden räjähde- ja aserikosvyyhtiä – kaikki paljastui, kun epäilty teki itse rikosilmoituksen",
+          "content": "Poliisi löysi tutkinnassa esimerkiksi huomattavan määrän sotilasräjähteitä sekä noin sata asetta. Etsinnät Voikkaalla sijaitsevassa talossa kestivät viikkoja.",
+          "date": "2026-09-21T12:53:16.000Z",
+          "categories": [
+            "rikokset",
+            "kouvola",
+            "esitutkinta",
+            "räjähdysaineet",
+            "kymenlaakso",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20247344?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Supon ex-päällikkö Pelttaria syytetään maanpetoksesta ja salaisuuden paljastamisesta",
+      "mainCategories": [
+        "Kotimaa",
+        "Rikosepäilyt",
+        "Syytteet"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "STT: Antti Pelttarin syyte koveni",
+          "content": "Pelttaria syytetään muun muassa turvallisuussalaisuuden paljastamisesta.",
+          "date": "2026-09-21T13:48:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012289337.html"
+        },
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Rikosepäilyt | Supon ex-päällikön Antti Pelttarin syyte koveni turvallisuussalaisuuden paljastamiseksi",
+          "content": "Supo-syytteet liittyvät muun muassa siihen, käytettiinkö eläkeläisiä laittomasti Venäjän vakoilun torjunnassa.",
+          "date": "2026-09-21T12:59:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012287613.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Supon ex-päällikkö Pelttarille maanpetosrikossyyte tiedustelutoimintavyyhdissä",
+          "content": "Suojelupoliisin eli supon entinen päällikkö Antti Pelttari on saanut syytteen maanpetos- ja virkarikoksista. Asia käy ilmi Helsingin käräjäoikeuden julkisista tiedoista.",
+          "date": "2026-09-21T12:58:39.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/supon-ex-paallikko-pelttarille-maanpetosrikossyyte/13676632?utm_campaign=Kotimaa&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Entisille supo-pomoille syytteet",
+          "content": "Eduskunnan entistä pääsihteeriä, suojelupoliisin ex-päällikköä Antti Pelttaria syytetään rikoksesta. Seitsemää ihmistä syytetään rikoksista liittyen suojelupoliisin tiedustelutoimintaan.  Syytettyjen joukossa ovat Supon entinen päällikkö ja eduskunnan entinen pääsihteeri Antti Pelttari sekä Supon vastatiedusteluosaston entinen päällikkö Pertti Haaksluoto.",
+          "date": "2026-09-21T10:45:17.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/f4b388c9-d3a0-4c2e-8d47-ea19112fc757?utm_source=rss"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Supon ex-johtaja Antti Pelttarille syyte turvallisuussalaisuuden paljastamisesta",
+          "content": "Asiassa epäillään, että supon tiedustelutoiminnassa on rikottu säännöksiä, jotka koskevat poliisin toimivaltaa ja salassa pidettävien tietojen käsittelemistä.",
+          "date": "2026-09-21T10:12:59.000Z",
+          "categories": [
+            "rikosepäilyt",
+            "syytteet",
+            "suojelupoliisi",
+            "virkavelvollisuus",
+            "antti pelttari",
+            "kotimaa"
+          ],
+          "link": "https://yle.fi/a/74-20247380?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Hallitus kiistelee abortteihin kohdistuvasta 30 euron lisämaksusta",
+      "mainCategories": [
+        "Politiikka"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Asiakasmaksut | Hallitus riiteli abortti­maksun korotuksesta, tästä kiistassa on kyse",
+          "content": "Jatkossa kirurgisesti tehdystä abortista voidaan periä 30 euroa enemmän kuin nyt, jos abortti tehdään raskaana olevan pyynnöstä. Noin 1 prosenttia aborteista tehdään kirurgisesti.",
+          "date": "2026-09-21T13:05:00.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.hs.fi/politiikka/art-2000012287849.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Tyrmistys leviää: Suomeen ”sakkomaksu ei-lääketieteellisestä abortista”",
+          "content": "Hallitus on linjannut uudesta leikkaus- ja toimenpidemaksusta, jonka kohdentuminen abortteihin on herättänyt hallituksessa kiistaa Svenska Ylen mukaan. Opposition vasemmistopuolueista arvostellaan monella suulla hallituksen aborttilinjaa. Oppositiopuolueet SDP ja vasemmistoliitto arvostelevat kovin sanoin hallituksen aikeita periä jo aiemmin linjattu uusi leikkaus- ja toimenpidemaksu aborteista, jotka tehdään potilaan omasta halusta.  Svenska Yle kertoo lähteidensä perusteella, että hallituksen sisällä on ollut kiistaa uuden maksun kohdentumisesta abortteihin. Alkujaan maksut koskivat kaikkia leikkauksia ja toimenpiteitä, mutta kesäkuussa synnytykset linjattiin niiden ulkopuolelle. RKP on toivonut myös aborttimaksuihin poikkeuksia, joita KD on vastustanut. ",
+          "date": "2026-09-21T11:07:28.000Z",
+          "categories": [
+            "politiikka"
+          ],
+          "link": "https://www.iltalehti.fi/politiikka/a/34de4085-b6cc-4ecc-bdb2-035bf024263f?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Isää syytetään poikansa murhan yrityksestä Pyhtäällä",
+      "mainCategories": [
+        "Kotimaa",
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Oikeudenkäynnit | Syyte: Mies koetti murhata 8-vuotiaan lapsensa kaasulla Pyhtäällä",
+          "content": "Vain pari viikkoa ennen tapahtumaa Helsingin käräjäoikeus oli määrännyt lapsen huoltajuuden äidille, kun lapsi aiemmin oli yhteishuollossa.",
+          "date": "2026-09-21T12:42:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012288959.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Isä ja 8-vuotias poika lähtivät yhdessä juhannusreissulle – vasta isän soitto hätäkeskukseen paljasti synkän suunnitelman",
+          "content": "Isä oli valmis surmaamaan itsensä ja 8-vuotiaan lapsensa. Hän luopui teosta kuitenkin viime hetkillä.",
+          "date": "2026-09-21T05:30:00.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.is.fi/kotimaa/art-2000012283395.html"
+        },
+        {
+          "publisherId": "iltalehti",
+          "publisher": "Iltalehti",
+          "publisherUrl": "iltalehti.fi",
+          "title": "Kun 8-vuotias alkoi oksentaa, isä soitti 112 – Sitten selvisi järkyttävä totuus miehen aikeista",
+          "content": "Isä vei lapsensa juhannusretken jälkeen automatkalle, josta oli tulla heidän viimeinen. Pyhtäällä tapahtui kesäkuussa järkyttävä rikos. 52-vuotiaalle isälle luettiin syytteet 8-vuotiaan poikansa murhan yrityksestä. Käräjäoikeudessa selvisi, että mies yritti surmata itsensä ja poikansa kaasulla. Mies oli hakenut netistä tietoa erilaisista kaasuista maaliskuusta lähtien ennen kuin päätti kesäkuisen sukulointireissun aikana toteuttaa tekonsa. Taustalla oli huoltajuusriita.",
+          "date": "2026-09-21T05:06:05.000Z",
+          "categories": [
+            "kotimaa"
+          ],
+          "link": "https://www.iltalehti.fi/kotimaa/a/8b085218-b7cc-4c1a-8cf8-bf03c0bd427b?utm_source=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Yhtenäinen Venäjä voitti odotetusti Venäjän näytösvaalit",
+      "mainCategories": [
+        "Vaalit",
+        "Venäjä",
+        "Duuma"
+      ],
+      "imageUrl": "/images/venäjä/2.jpeg",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Venäjän näytösvaalit | Putinia tukeva puolue sai odotetun voiton Venäjän näytös­vaaleissa",
+          "content": "Presidentti Vladimir Putinia tukeva Yhtenäinen Venäjä -puolue on ollut duuman suurin puolue vuodesta 2003 lähtien.",
+          "date": "2026-09-21T09:18:00.000Z",
+          "categories": [
+            "maailma"
+          ],
+          "link": "https://www.hs.fi/maailma/art-2000012287408.html"
+        },
+        {
+          "publisherId": "kaleva",
+          "publisher": "Kaleva",
+          "publisherUrl": "kaleva.fi",
+          "title": "Valtapuolue Yhtenäinen Venäjä voittamassa odotetusti duuman vaalit",
+          "content": "Puolue on saamassa parlamenttiin kahden kolmasosan enemmistön.",
+          "date": "2026-09-21T06:30:19.000Z",
+          "categories": [],
+          "link": "https://www.kaleva.fi/valtapuolue-yhtenainen-venaja-voittamassa-odotetus/13675604?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
+        },
+        {
+          "publisherId": "yle",
+          "publisher": "Yle",
+          "publisherUrl": "yle.fi",
+          "title": "Valtapuolue Yhtenäinen Venäjä voitti odotetusti duuman näytevaalit",
+          "content": "Venäjän vaalit ovat näytösluontoisia, ja lopputulos oli jo etukäteen selvä. Puolue sai alustavien tulosten mukaan korkeimman äänimäärän sitten vuoden 2016.",
+          "date": "2026-09-20T18:43:26.000Z",
+          "categories": [
+            "vaalit",
+            "venäjä",
+            "yhtenäinen venäjä",
+            "duuma",
+            "ulkomaat"
+          ],
+          "link": "https://yle.fi/a/74-20247277?origin=rss"
+        }
+      ]
+    },
+    {
+      "mainTitle": "Jalankulkija kuoli autoilijan törmättyä Tampereella",
+      "mainCategories": [
+        "Suomi"
+      ],
+      "imageUrl": "",
+      "relatedNews": [
+        {
+          "publisherId": "hs",
+          "publisher": "Helsingin Sanomat",
+          "publisherUrl": "hs.fi",
+          "title": "Tampere | Jalankulkija kuoli autoilijan törmättyä häneen",
+          "content": "Onnettomuus tapahtui sunnuntai-iltapäivänä Epilänkadulla Tampereella.",
+          "date": "2026-09-21T08:39:00.000Z",
+          "categories": [
+            "suomi"
+          ],
+          "link": "https://www.hs.fi/suomi/art-2000012288163.html"
+        },
+        {
+          "publisherId": "is",
+          "publisher": "Ilta-Sanomat",
+          "publisherUrl": "is.fi",
+          "title": "Jalankulkija kuoli Tampereella",
+          "content": "Onnettomuus tapahtui Tampereella.",
+          "date": "2026-09-20T14:53:00.000Z",
+          "categories": [
+            "tampereen seutu"
+          ],
+          "link": "https://www.is.fi/tampereen-seutu/art-2000012286998.html"
+        }
+      ]
+    },
+    {
+      "mainTitle": "AfD voitti osavaltiovaalit, Linke nousi Berliinin suosituimmaksi",
+      "mainCategories": [
+        "Kirjeenvaihtajat"
+      ],
+      "imageUrl": "",
       "relatedNews": [
         {
           "publisherId": "kaleva",
@@ -74,110 +432,16 @@
             "kirjeenvaihtajat"
           ],
           "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012287066.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Saksassa AfD kärkkyy uutta voittoa maapäivävaaleissa",
-          "content": "",
-          "date": "2026-09-20T07:36:55.000Z",
-          "categories": [
-            "saksa",
-            "vaihtoehto saksalle (afd)",
-            "vaalit",
-            "saksan poliittiset puolueet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20247224?origin=rss"
         }
       ]
     },
     {
-      "mainTitle": "Yhtenäinen Venäjä saamassa duumassa kahden kolmasosan enemmistön",
+      "mainTitle": "Yhdysvallat valmistelee pakotteita koko ICC:tä vastaan",
       "mainCategories": [
-        "Vaalit",
-        "Venäjä",
-        "Duuma"
-      ],
-      "imageUrl": "/images/venäjä/2.jpeg",
-      "relatedNews": [
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Valtapuolue Yhtenäinen Venäjä voittamassa odotetusti duuman vaalit",
-          "content": "Puolue on saamassa parlamenttiin kahden kolmasosan enemmistön.",
-          "date": "2026-09-21T06:30:19.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/valtapuolue-yhtenainen-venaja-voittamassa-odotetus/13675604?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Valtapuolue Yhtenäinen Venäjä odotetusti voittamassa duuman vaalit",
-          "content": "Venäjän vaalit ovat näytösluontoisia, ja lopputulos oli jo etukäteen selvä",
-          "date": "2026-09-20T18:43:26.000Z",
-          "categories": [
-            "vaalit",
-            "venäjä",
-            "yhtenäinen venäjä",
-            "duuma",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20247277?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjän vaaleissa äänestettiin Suomessa, samalla osoitettiin mieltä",
-      "mainCategories": [
-        "Ulkomaat",
-        "Venäjä",
-        "Vaalit"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin äänestivät Suomessa asuvat venäläiset – tämä näytösvaalien puolue sai eniten ääniä",
-          "content": "Kyselyyn vastanneista jopa 45,6 prosenttia kertoi, ettei luota Venäjän vaalien tulokseen.",
-          "date": "2026-09-21T05:23:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012287416.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Venäjän Suomen-suurlähetystöllä äänestettiin ja osoitettiin mieltä",
-          "content": "Sotaa ja Putinia vastustavassa mielenosoituksessa oli noin 45 ihmistä.",
-          "date": "2026-09-20T12:21:42.000Z",
-          "categories": [
-            "venäjä",
-            "vladimir putin",
-            "venäjän politiikka",
-            "vaalit",
-            "ulkomaat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20247254?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvallat valmistelee pakotteita koko Kansainväliselle rikostuomioistuimelle",
-      "mainCategories": [
-        "Pakotteet",
         "Maailma",
         "Ulkomaat"
       ],
-      "imageUrl": "/images/trump/2.jpg",
+      "imageUrl": "/images/yhdysval/1.jpg",
       "relatedNews": [
         {
           "publisherId": "is",
@@ -190,20 +454,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012287433.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Trumpin hallinto valmistelee koko Kansainväliselle rikostuomioistuimelle pakotteita, kertovat lähteet",
-          "content": "Päätös pakotteista voitaisiin tehdä WSJ:n lähteiden mukaan jo alkavalla viikolla, kun maailman johtajia kokoontuu New Yorkiin YK:n yleiskokoukseen.",
-          "date": "2026-09-20T21:58:14.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "pakotteet",
-            "kansainvälinen rikostuomioistuin"
-          ],
-          "link": "https://yle.fi/a/74-20247283?origin=rss"
         },
         {
           "publisherId": "hs",
@@ -220,47 +470,7 @@
       ]
     },
     {
-      "mainTitle": "Äärioikeisto vahvistui, Merzin CDU kärsi vaalitappion Saksassa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Vaalit",
-        "Berliini"
-      ],
-      "imageUrl": "/images/saksa/1.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Äärioikeisto taas vaalivoittoon Saksassa – Merz kutsui kriisikokouksen: ”Katastrofi”",
-          "content": "Liittokansleri Merz kutsui puolueensa kriisikokoukseen vaalitulosten saapuessa.",
-          "date": "2026-09-21T02:57:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012286948.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Saksan Merz kärsi tappion kahdessa aluevaalissa: ”Katastrofi”",
-          "content": "Vaalien tulos on tappio liittokansleri Friedrich Merzin CDU:lle sekä Berliinissä että Mecklenburg-Etu-Pommerissa.",
-          "date": "2026-09-20T16:09:56.000Z",
-          "categories": [
-            "vaalit",
-            "berliini",
-            "saksa",
-            "äärioikeisto",
-            "ääriliikkeet",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20247269?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Vihreät aikoo esittää epäluottamusta Häkkäselle Israel-tapaamisesta",
+      "mainTitle": "Vihreät aikoo esittää epäluottamusta Häkkäselle Israel-tapaamisen vuoksi",
       "mainCategories": [
         "Politiikka",
         "Epäluottamuslause",
@@ -309,41 +519,7 @@
       ]
     },
     {
-      "mainTitle": "Lohi ehdottaa lisämaksuja sähköautoilijoille miljardin verovajeen vuoksi",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Keskustan Lohi HS:ssa: Miljardin verovaje – lisämaksuja sähkö­autoilijoille",
-          "content": "Autoilusta kerättävät verotuotot ovat vähentyneet ja vähenevät edelleen autoilun sähköistymisen vuoksi.",
-          "date": "2026-09-20T17:38:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012286546.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Liikenne | On sähkö­autoilijoiden vuoro maksaa enemmän, sanoo keskustan Markus Lohi",
-          "content": "Keskustan talousääni Markus Lohi sanoo, että sähköautoilijat maksavat liian vähän veroja. Hän esittelee vaihtoehdot, joilla liikenteen verotuotot eivät romahtaisi.",
-          "date": "2026-09-19T09:00:00.000Z",
-          "categories": [
-            "tilaajille",
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012262365.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Vikaantunut F-35 jäi Azoreille, saapuu Suomeen syksyllä",
+      "mainTitle": "Teknisen vian vuoksi F-35 jäi Azoreille",
       "mainCategories": [
         "Kotimaa",
         "Suomi",
@@ -351,18 +527,6 @@
       ],
       "imageUrl": "",
       "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Hävittäjät | Politico: F-35-hävittäjien salaisia osia vietiin jostain syystä Hongkongiin",
-          "content": "Yhdysvaltojen kongressin tarkastajat huomasivat jo kolme vuotta sitten, että kateissa oli ainakin yli miljoona F-35:n osaa.",
-          "date": "2026-09-20T16:12:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012286833.html"
-        },
         {
           "publisherId": "hs",
           "publisher": "Helsingin Sanomat",
@@ -386,22 +550,6 @@
             "kotimaa"
           ],
           "link": "https://www.is.fi/kotimaa/art-2000012286571.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Ilmavoimat: Azoreille jäänyt F-35-hävittäjä saapuu Suomeen syksyn aikana",
-          "content": "",
-          "date": "2026-09-20T09:07:37.000Z",
-          "categories": [
-            "turvallisuus",
-            "ilmavoimat",
-            "hävittäjät",
-            "puolustusvoimat",
-            "kotimaa"
-          ],
-          "link": "https://yle.fi/a/74-20247232?origin=rss"
         },
         {
           "publisherId": "is",
@@ -466,238 +614,11 @@
             "kotimaa"
           ],
           "link": "https://yle.fi/a/74-20247201?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Politico: F-35-hävittäjien osia katosi – saattavat olla Kiinan käsissä",
-          "content": "Juuri varaosien puute on viivästyttänyt F-35-koneiden tuotantoa.",
-          "date": "2026-09-19T13:38:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012285483.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Yksi Suomen uusista F-35-hävittäjistä jäi matkalle – miksi?",
-          "content": "Sosiaalisessa mediassa liikkuu väitteitä koneen kohtalosta.",
-          "date": "2026-09-19T08:20:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012285287.html"
         }
       ]
     },
     {
-      "mainTitle": "Polttoainerekka kaatui Kiuruvedellä, liikenne häiriintyy tuntien ajan",
-      "mainCategories": [
-        "Kotimaa",
-        "Onnettomuudet",
-        "Tieliikenne"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Polttoainerekka kaatui ojaan Kiuruvedellä",
-          "content": "Onnettomuus vaikuttaa liikenteeseen muutaman tunnin ajan.",
-          "date": "2026-09-20T16:02:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012287045.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Polttoainerekka kaatui Kiuruvedellä",
-          "content": "Onnettomuus aiheuttaa liikennehaittaa tuntien ajan.",
-          "date": "2026-09-20T13:01:20.000Z",
-          "categories": [
-            "onnettomuudet",
-            "raskas liikenne",
-            "tieliikenne",
-            "tieliikenneonnettomuudet",
-            "liikenneonnettomuus",
-            "kiuruvesi",
-            "kotimaa",
-            "pohjois-savo"
-          ],
-          "link": "https://yle.fi/a/74-20247258?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Venäjän vaaleja leimasivat rikkomukset ja opposition puuttuminen",
-      "mainCategories": [
-        "Venäjä",
-        "Ulkomaat",
-        "Maailma"
-      ],
-      "imageUrl": "/images/venäjä/5.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Venäläinen demokratia | Kremlin tavoite Venäjän vaaleissa näyttää jo täyttyneen",
-          "content": "Venäjän kolmipäiväisiä parlamenttivaaleja ovat leimanneet vaalirikkomukset ja opposition täydellinen puuttuminen.",
-          "date": "2026-09-20T15:28:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012286729.html"
-        },
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Video: Opposition protestiäänestys näytti jäävän toteutumatta – kirjeenvaihtajamme seuraa Venäjän vaaleja Moskovassa",
-          "content": "Venäläiset valitsevat parhaillaan edustajia parlamentin alahuoneeseen duumaan sekä aluehallintoihin.",
-          "date": "2026-09-20T12:07:50.000Z",
-          "categories": [
-            "venäjän hyökkäys",
-            "venäjä",
-            "venäjän politiikka",
-            "yhtenäinen venäjä",
-            "venäjän poliittiset puolueet",
-            "venäjän oppositioryhmät",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20247071?origin=rss"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Autoilija törmäsi jalankulkijaan Tampereella, jalankulkija kuoli",
-      "mainCategories": [
-        "Onnettomuudet",
-        "Tampere",
-        "Kotimaa"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Jalankulkija kuoli Tampereella autoilijan törmättyä häneen",
-          "content": "",
-          "date": "2026-09-20T14:57:19.000Z",
-          "categories": [
-            "onnettomuudet",
-            "tampere",
-            "kotimaa",
-            "pirkanmaa"
-          ],
-          "link": "https://yle.fi/a/74-20247265?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Jalankulkija kuoli Tampereella",
-          "content": "Onnettomuus tapahtui Tampereella.",
-          "date": "2026-09-20T14:53:00.000Z",
-          "categories": [
-            "tampereen seutu"
-          ],
-          "link": "https://www.is.fi/tampereen-seutu/art-2000012286998.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Epäilty henkirikos Kuopiossa: useita otettu kiinni",
-      "mainCategories": [
-        "Kotimaa",
-        "Poliisi",
-        "Rikokset"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Epäilty henkirikos Kuopiossa – useita otettu kiinni",
-          "content": "Poliisin mukaan uhri on keski-ikäinen mies.",
-          "date": "2026-09-20T11:30:19.000Z",
-          "categories": [
-            "poliisi",
-            "rikokset",
-            "rikosepäilyt",
-            "henkirikokset",
-            "poliisitutkinta",
-            "kuopio",
-            "kotimaa",
-            "pohjois-savo"
-          ],
-          "link": "https://yle.fi/a/74-20247246?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Epäilty tappo Kuopiossa – poliisi ottanut useita kiinni",
-          "content": "Uhri on kuopiolainen mies.",
-          "date": "2026-09-20T11:13:00.000Z",
-          "categories": [
-            "kotimaa"
-          ],
-          "link": "https://www.is.fi/kotimaa/art-2000012286705.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Trumpin Grönlanti-sopimus herättää huolta Tanskassa ja Grönlannissa",
-      "mainCategories": [
-        "Ulkomaat",
-        "Grönlanti",
-        "Yhdysvallat"
-      ],
-      "imageUrl": "/images/trump/2.jpg",
-      "relatedNews": [
-        {
-          "publisherId": "yle",
-          "publisher": "Yle",
-          "publisherUrl": "yle.fi",
-          "title": "Video: Näin grönlantilaiset itse kommentoivat Trumpin diiliä",
-          "content": "Yhdysvaltain, Grönlannin ja Tanskan on tarkoitus allekirjoittaa sopimus ensi viikolla YK:n yleiskokouksessa.",
-          "date": "2026-09-20T04:34:50.000Z",
-          "categories": [
-            "kansainvälinen politiikka",
-            "grönlanti",
-            "yhdysvallat",
-            "tanska",
-            "donald trump",
-            "ulkomaat"
-          ],
-          "link": "https://yle.fi/a/74-20247202?origin=rss"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Näin Tanskassa reagoitiin Trumpin Grönlanti-sopimukseen – yksi asia herättää huolta",
-          "content": "Tanskassa ja Grönlannissa odotetaan nyt Trumpin sopimuksen lopullista tekstiä.",
-          "date": "2026-09-19T17:26:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012285729.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Äärioikeistolaiset mielenosoittajat ottivat yhteen poliisin kanssa Haagissa",
+      "mainTitle": "Äärioikeistolaiset mielenosoittajat hyökkäsivät poliisin kimppuun Haagissa",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -731,47 +652,7 @@
       ]
     },
     {
-      "mainTitle": "Ebolaa torjuva hoitohenkilökunta joutui hyökkäysten kohteeksi Kongossa",
-      "mainCategories": [
-        "Epidemiat",
-        "Afrikka",
-        "Terveys"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "ts",
-          "publisher": "Turun Sanomat",
-          "publisherUrl": "ts.fi",
-          "title": "Ebolan torjujat joutuvat hyökkäysten kohteeksi Kongossa",
-          "content": "",
-          "date": "2026-09-20T03:00:00.000Z",
-          "categories": [
-            "epidemiat",
-            "afrikka",
-            "terveys",
-            "rokotteet",
-            "kongo",
-            "financial times",
-            "ilmiöt",
-            "maailma"
-          ],
-          "link": "https://www.ts.fi/a/7087308"
-        },
-        {
-          "publisherId": "kaleva",
-          "publisher": "Kaleva",
-          "publisherUrl": "kaleva.fi",
-          "title": "Ebolaa vastaan taistelevat vapaaehtoiset joutuivat paikallisten vihan kohteiksi Kongossa",
-          "content": "Ihmiset ovat kääntyneet epidemiaa torjuvaa hoitohenkilökuntaa vastaan Kongon demokraattisessa tasavallassa.",
-          "date": "2026-09-19T09:00:00.000Z",
-          "categories": [],
-          "link": "https://www.kaleva.fi/ebolaa-vastaan-taistelevat-vapaaehtoiset-joutuivat/13668562?utm_campaign=Ulkomaat&utm_source=Kaleva&utm_medium=RSS"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Yhdysvaltain isku epäiltyyn huumealukseen tappoi neljä",
+      "mainTitle": "Yhdysvaltain isku epäiltyyn salakuljetusalukseen tappoi neljä",
       "mainCategories": [
         "Maailma",
         "Ulkomaat"
@@ -801,73 +682,6 @@
             "ulkomaat"
           ],
           "link": "https://www.is.fi/ulkomaat/art-2000012286331.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Mediatalot haastavat Trumpin Valkoisen talon porttikiellon",
-      "mainCategories": [
-        "Maailma",
-        "Ulkomaat"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Yhdysvallat | Porttikiellon Valkoisesta talosta saaneet mediat pitävät Trumpin määräystä perustuslain vastaisena",
-          "content": "Turvatarkastajat takavarikoivat Valkoiseen taloon pyrkineiden CNN:n, MS NOW:n ja Politicon toimittajien kulkuluvat lauantaina.",
-          "date": "2026-09-19T19:58:00.000Z",
-          "categories": [
-            "maailma"
-          ],
-          "link": "https://www.hs.fi/maailma/art-2000012286296.html"
-        },
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "CNN:n toimittaja käännytettiin Valkoisen talon ovelta",
-          "content": "Mediatalot ryhtyvät oikeustoimiin Trumpin päätöksen pyörtämiseksi.",
-          "date": "2026-09-19T14:43:00.000Z",
-          "categories": [
-            "ulkomaat"
-          ],
-          "link": "https://www.is.fi/ulkomaat/art-2000012285857.html"
-        }
-      ]
-    },
-    {
-      "mainTitle": "Timo Soini palaa politiikkaan vuoden 2029 eurovaaleissa",
-      "mainCategories": [
-        "Politiikka"
-      ],
-      "imageUrl": "",
-      "relatedNews": [
-        {
-          "publisherId": "is",
-          "publisher": "Ilta-Sanomat",
-          "publisherUrl": "is.fi",
-          "title": "Timo Soini Ylelle: ”Palaan politiikkaan 2029 eurovaaleissa”",
-          "content": "Soini oli Ykkösaamun haastattelussa.",
-          "date": "2026-09-19T08:11:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.is.fi/politiikka/art-2000012285228.html"
-        },
-        {
-          "publisherId": "hs",
-          "publisher": "Helsingin Sanomat",
-          "publisherUrl": "hs.fi",
-          "title": "Eduskuntavaalit | Yle: Timo Soini ei asetu ehdolle eduskunta­vaaleissa",
-          "content": "Soini kuitenkin kertoi palaavansa politiikkaan seuraavissa europarlamenttivaaleissa.",
-          "date": "2026-09-19T07:54:00.000Z",
-          "categories": [
-            "politiikka"
-          ],
-          "link": "https://www.hs.fi/politiikka/art-2000012285253.html"
         }
       ]
     }
